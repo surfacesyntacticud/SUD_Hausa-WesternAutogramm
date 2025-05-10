@@ -6,7 +6,7 @@
 # text_en = This is (the story of) a malam [Islamic teacher]. He gets married, he gets married to women, he treats them right, and they deceive him.
 # text_orth = waǹga dai wani maalàmii nèe, ši nàa yiǹ ’aᵲmee, ši nàa yiǹ ’aᵲmem maataa, ši nàa musù ƙòoƙaᵲii ƙwarai, sai su nàa mai kissà.
 1	wânga	wânga	DET	_	_	_	_	_	AlignBegin=0|AlignEnd=40|GE=[Prox].[Masc]|Gloss=Prox.Masc|nWord=1|RX=[DET]
-2	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=40|AlignEnd=80|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	_	_	_	AlignBegin=40|AlignEnd=80|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	wani	wani	DET	_	_	_	_	_	AlignBegin=80|AlignEnd=120|GE=[some].[Masc]|Gloss=some.Masc|nWord=3|RX=[DET]
 4	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=120|AlignEnd=160|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=4|RX=[NOUN]
 5	neː	neː	IdPART	_	_	_	_	_	AlignBegin=160|AlignEnd=200|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=5|RX=[IDPART]
@@ -53,7 +53,7 @@
 7	yac	yak	AUX	_	_	_	_	_	AlignBegin=1270|AlignEnd=1315|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
 8	cêː	cêː	VERB	_	_	_	_	_	AlignBegin=1315|AlignEnd=1360|GE=say|Gloss=say|nWord=8|RX=[VERB]
 9	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=1360|AlignEnd=1405|GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-10	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=1405|AlignEnd=1450|GE=indeed|Gloss=indeed|nWord=10|RX=[TOPPART]
+10	dai	dai	TopPART	_	_	_	_	_	AlignBegin=1405|AlignEnd=1450|GE=indeed|Gloss=indeed|nWord=10|RX=[TOPPART]
 11	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=1450|AlignEnd=1495|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=11|RX=[AUX]
 12	gàji	gàji	VERB	_	_	_	_	_	AlignBegin=1495|AlignEnd=1540|GE=get_tired|Gloss=get_tired|nWord=12|RX=[VERB]
 13	dà	dà	ADP	_	_	_	_	_	AlignBegin=1540|AlignEnd=1585|GE=with|Gloss=with|nWord=13|RX=[ADP]
@@ -99,7 +99,7 @@
 18	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=2464|AlignEnd=2476|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]
 19	ba	ba	PART	_	_	_	_	_	AlignBegin=2476|AlignEnd=2510|GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
 20	,	,	PUNCT	_	_	_	_	_	AlignBegin=2510|AlignEnd=2544|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-21	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=2544|AlignEnd=2578|GE=also|Gloss=also|nWord=17|RX=[TOPPART]
+21	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=2544|AlignEnd=2578|GE=also|Gloss=also|nWord=17|RX=[TOPPART]
 22	bàtà	bàtà	AUX	_	_	_	_	_	AlignBegin=2578|AlignEnd=2612|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=18|RX=[AUX]
 23	girmaː	girmaː	VERB	_	_	_	_	_	AlignBegin=2612|AlignEnd=2646|GE=grow|Gloss=grow|nWord=19|RX=[VERB]
 24-25	wurin	_	_	_	_	_	_	_	_
@@ -218,7 +218,7 @@
 42	màccè	màccè	NOUN	_	_	_	_	_	AlignBegin=5521|AlignEnd=5560|GE=[female].[Fem]|Gloss=female.Fem|nWord=40|RX=[NOUN]
 43	,	,	PUNCT	_	_	_	_	_	AlignBegin=5560|AlignEnd=5599|GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
 44	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=5599|AlignEnd=5638|GE=but|Gloss=but|nWord=42|RX=[CCONJ]
-45	hwa	hwa	TOPPART	_	_	_	_	_	AlignBegin=5638|AlignEnd=5677|GE=however|Gloss=however|nWord=43|RX=[TOPPART]
+45	hwa	hwa	TopPART	_	_	_	_	_	AlignBegin=5638|AlignEnd=5677|GE=however|Gloss=however|nWord=43|RX=[TOPPART]
 46	naː	naː	AUX	_	_	_	_	_	AlignBegin=5677|AlignEnd=5716|GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=44|RX=[AUX]
 47	baː	baː	VERB	_	_	_	_	_	AlignBegin=5716|AlignEnd=5755|GE=give|Gloss=give|nWord=45|RX=[VERB]
 48	kà	kà	PRON	_	_	_	_	_	AlignBegin=5755|AlignEnd=5794|GE=[2Masc]|Gloss=2Masc|nWord=46|RX=[PRON]
@@ -573,7 +573,7 @@
 68	kissà	kissà	NOUN	_	_	_	_	_	AlignBegin=13882|AlignEnd=13896|GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=64|RX=[NOUN]
 69	,	,	PUNCT	_	_	_	_	_	AlignBegin=13896|AlignEnd=13910|GE=[PUNCT]|Gloss=PUNCT|nWord=65|RX=[PUNCT]
 70	sai	sai	ADV	_	_	_	_	_	AlignBegin=13910|AlignEnd=13924|GE=then|Gloss=then|nWord=66|RX=[ADV]
-71	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=13924|AlignEnd=13938|GE=indeed|Gloss=indeed|nWord=67|RX=[TOPPART]
+71	dai	dai	TopPART	_	_	_	_	_	AlignBegin=13924|AlignEnd=13938|GE=indeed|Gloss=indeed|nWord=67|RX=[TOPPART]
 72	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=13938|AlignEnd=13952|GE=in(side)|Gloss=in(side)|nWord=68|RX=[ADP]
 73	gidaː	gidaː	NOUN	_	_	_	_	_	AlignBegin=13952|AlignEnd=13966|GE=[house].[Masc]|Gloss=house.Masc|nWord=69|RX=[NOUN]
 74	.	.	PUNCT	_	_	_	_	_	AlignBegin=13966|AlignEnd=14000|Gloss=.|nWord=70|RX=[PUNCT]
@@ -643,7 +643,7 @@
 # text_en = He, the malam, was a big malam.
 # text_orth = šii kàu maalàmii, bàbbam maalàmii nèe.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=17000|AlignEnd=17125|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=17125|AlignEnd=17250|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=17125|AlignEnd=17250|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=17250|AlignEnd=17375|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=17375|AlignEnd=17500|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5-6	bàbbam	_	_	_	_	_	_	_	_
@@ -1197,7 +1197,7 @@
 # text_en = She, the malam's wife, she was not going anywhere, much less could she go in town and he would see her there in town.
 # text_orth = ’ita kàu màatam maalàmii, baà ta zuwàa koo ’ìnaa, bàlee tà hìta cikin gàᵲii, šì gan tà can cikin gàᵲii.
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=33000|AlignEnd=33045|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=33045|AlignEnd=33090|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=33045|AlignEnd=33090|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-4	màːtam	_	_	_	_	_	_	_	_
 3	màːta	màːtaː	NOUN	_	_	_	_	_	AlignBegin=33090|AlignEnd=33112|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=3|RX=[NOUN]
 4	-m	-t	PART	_	_	_	_	_	AlignBegin=33112|AlignEnd=33135|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=3|RX=[PART]
@@ -1548,7 +1548,7 @@
 55	kuɗɗiː	kuɗɗiː	NOUN	_	_	_	_	_	AlignBegin=46686|AlignEnd=46698|GE=[money].[Masc]|Gloss=money.Masc|nWord=48|RX=[NOUN]
 56	##	##	PUNCT	_	_	_	_	_	AlignBegin=46698|AlignEnd=46710|GE=[PUNCT]|Gloss=PUNCT|nWord=49|RX=[PUNCT]
 57	keː	keː	PRON	_	_	_	_	_	AlignBegin=46710|AlignEnd=46722|GE=[2Fem]|Gloss=2Fem|nWord=50|RX=[PRON]
-58	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=46722|AlignEnd=46734|GE=also|Gloss=also|nWord=51|RX=[TOPPART]
+58	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=46722|AlignEnd=46734|GE=also|Gloss=also|nWord=51|RX=[TOPPART]
 59	ìn	ìn	AUX	_	_	_	_	_	AlignBegin=46734|AlignEnd=46746|GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=52|RX=[AUX]
 60	biyaː	biyaː	VERB	_	_	_	_	_	AlignBegin=46746|AlignEnd=46758|GE=pay|Gloss=pay|nWord=53|RX=[VERB]
 61	kì	kì	PRON	_	_	_	_	_	AlignBegin=46758|AlignEnd=46770|GE=[2Fem]|Gloss=2Fem|nWord=54|RX=[PRON]
@@ -2072,7 +2072,7 @@
 # text_en = As for me, I brought (them) to you, and he gave me a message for you ## He said I should greet you and tell you that he loves you, but he does not know how he will do to manage to see you.
 # text_orth = nii kàu nik kaawoo mikì, kuma yaa yoo mun sàaƙoo ## wuᵲinkì, yac ceè ’ìn gaišee kì, kuma ’ìn gayàa makì, ši nàa soǹkì ## ’àmmaa bài san dùbaaràa, waddà zaà ši yiì ba, šì sàamu ganinkì.
 1	niː	niː	PRON	_	_	_	_	_	AlignBegin=63000|AlignEnd=63049|GE=[1Sing]|Gloss=1Sing|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=63049|AlignEnd=63098|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=63049|AlignEnd=63098|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	nik	nik	AUX	_	_	_	_	_	AlignBegin=63098|AlignEnd=63147|GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=3|RX=[AUX]
 4-5	kaːwoː	_	_	_	_	_	_	_	_
 4	kaːw	kai	VERB	_	_	_	_	_	AlignBegin=63147|AlignEnd=63171|GE=reach/take_to|Gloss=reach/take_to|nWord=4|RX=[VERB]
@@ -2734,7 +2734,7 @@
 19	nì	ni	PRON	_	_	_	_	_	AlignBegin=83672|AlignEnd=83720|GE=[1Sing]|Gloss=1Sing|nWord=15|RX=[PRON]
 20	,	,	PUNCT	_	_	_	_	_	AlignBegin=83720|AlignEnd=83768|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 21	niː	niː	PRON	_	_	_	_	_	AlignBegin=83768|AlignEnd=83816|GE=[1Sing]|Gloss=1Sing|nWord=17|RX=[PRON]
-22	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=83816|AlignEnd=83864|GE=also|Gloss=also|nWord=18|RX=[TOPPART]
+22	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=83816|AlignEnd=83864|GE=also|Gloss=also|nWord=18|RX=[TOPPART]
 23	ìn	ìn	AUX	_	_	_	_	_	AlignBegin=83864|AlignEnd=83912|GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=19|RX=[AUX]
 24-25	ganai	_	_	_	_	_	_	_	_
 24	gan	ganiː	VERB	_	_	_	_	_	AlignBegin=83912|AlignEnd=83936|GE=see|Gloss=see|nWord=20|RX=[VERB]
@@ -2856,7 +2856,7 @@
 32	iːdì:	iːdì:	NOUN	_	_	_	_	_	AlignBegin=86780|AlignEnd=86810|GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=27|RX=[NOUN]
 33	,	,	PUNCT	_	_	_	_	_	AlignBegin=86810|AlignEnd=86840|GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
 34	suː	suː	PRON	_	_	_	_	_	AlignBegin=86840|AlignEnd=86870|GE=[3Plur]|Gloss=3Plur|nWord=29|RX=[PRON]
-35	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=86870|AlignEnd=86900|GE=self/too|Gloss=self/too|nWord=30|RX=[TOPPART]
+35	maː	maː	TopPART	_	_	_	_	_	AlignBegin=86870|AlignEnd=86900|GE=self/too|Gloss=self/too|nWord=30|RX=[TOPPART]
 36	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=86900|AlignEnd=86930|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=31|RX=[AUX]
 37-38	hitoː	_	_	_	_	_	_	_	_
 37	hit	hita	VERB	_	_	_	_	_	AlignBegin=86930|AlignEnd=86945|GE=get_out|Gloss=get_out|nWord=32|RX=[VERB]
@@ -2894,7 +2894,7 @@
 6	iːdì:	iːdì:	NOUN	_	_	_	_	_	AlignBegin=88172|AlignEnd=88215|GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=5|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	AlignBegin=88215|AlignEnd=88258|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 8	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=88258|AlignEnd=88301|GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
-9	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=88301|AlignEnd=88344|GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
+9	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=88301|AlignEnd=88344|GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
 10-11	ɗan	_	_	_	_	_	_	_	_
 10	ɗa	ɗaː	NOUN	_	_	_	_	_	AlignBegin=88344|AlignEnd=88366|GE=[son].[Masc]|Gloss=son.Masc|nWord=9|RX=[NOUN]
 11	-n	-n	PART	_	_	_	_	_	AlignBegin=88366|AlignEnd=88387|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=9|RX=[PART]
@@ -3281,7 +3281,7 @@
 # text_en = As for she, the malam's wife, when the chief's son had left, she took a broom, she swept the tracks of the horse, and the remnants of the horse's dung and threw them away where they couldn't be seen.
 # text_orth = ’ita kàu màatam maalàm, dà ɗan saᵲkii yat tàhi, taɗ ɗàuki c’inc’iyaa, taš šaaᵲè san dookìi, dà kuhwan kaašin dookìi, taz zubdàa ’indà baà ’a ganii.
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=102000|AlignEnd=102032|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=102032|AlignEnd=102064|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=102032|AlignEnd=102064|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-4	màːtam	_	_	_	_	_	_	_	_
 3	màːta	màːtaː	NOUN	_	_	_	_	_	AlignBegin=102064|AlignEnd=102080|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=3|RX=[NOUN]
 4	-m	-t	PART	_	_	_	_	_	AlignBegin=102080|AlignEnd=102096|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=3|RX=[PART]
@@ -3823,7 +3823,7 @@
 38	doːkì:	doːkì:	NOUN	_	_	_	_	_	AlignBegin=118648|AlignEnd=118666|GE=[horse].[Masc]|Gloss=horse.Masc|nWord=37|RX=[NOUN]
 39	,	,	PUNCT	_	_	_	_	_	AlignBegin=118666|AlignEnd=118684|GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 40	niː	niː	PRON	_	_	_	_	_	AlignBegin=118684|AlignEnd=118702|GE=[1Sing]|Gloss=1Sing|nWord=39|RX=[PRON]
-41	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=118702|AlignEnd=118720|GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
+41	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=118702|AlignEnd=118720|GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
 42	bàn	bàn	AUX	_	_	_	_	_	AlignBegin=118720|AlignEnd=118738|GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.Perf.Neg|nWord=41|RX=[AUX]
 43	baː	baː	VERB	_	_	_	_	_	AlignBegin=118738|AlignEnd=118756|GE=give|Gloss=give|nWord=42|RX=[VERB]
 44	shì	shi	PRON	_	_	_	_	_	AlignBegin=118756|AlignEnd=118774|GE=[3Masc]|Gloss=3Masc|nWord=43|RX=[PRON]
@@ -4658,7 +4658,7 @@
 6	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=144355|AlignEnd=144426|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	AlignBegin=144426|AlignEnd=144497|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	ita	ita	PRON	_	_	_	_	_	AlignBegin=144497|AlignEnd=144568|GE=[3Fem]|Gloss=3Fem|nWord=8|RX=[PRON]
-9	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=144568|AlignEnd=144639|GE=anyway|Gloss=anyway|nWord=9|RX=[TOPPART]
+9	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=144568|AlignEnd=144639|GE=anyway|Gloss=anyway|nWord=9|RX=[TOPPART]
 10	bàtà	bàtà	AUX	_	_	_	_	_	AlignBegin=144639|AlignEnd=144710|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=10|RX=[AUX]
 11	ga	ganiː	VERB	_	_	_	_	_	AlignBegin=144710|AlignEnd=144781|GE=see|Gloss=see|nWord=11|RX=[VERB]
 12	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=144781|AlignEnd=144852|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=12|RX=[NOUN]

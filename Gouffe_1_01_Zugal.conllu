@@ -176,7 +176,7 @@
 21	ba	ba	PART	_	_	_	_	_	AlignBegin=7680|AlignEnd=7714|GE=[Neg]|Gloss=Neg|nWord=21|RX=[PART]
 22	,	,	PUNCT	_	_	_	_	_	AlignBegin=7714|AlignEnd=7748|GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	wani	wani	DET	_	_	_	_	_	AlignBegin=7748|AlignEnd=7782|GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
-24	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=7782|AlignEnd=7816|GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
+24	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=7782|AlignEnd=7816|GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
 25	kà	kà	AUX	_	_	_	_	_	AlignBegin=7816|AlignEnd=7850|GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=25|RX=[AUX]
 26	ci	ci	VERB	_	_	_	_	_	AlignBegin=7850|AlignEnd=7884|GE=eat|Gloss=eat|nWord=26|RX=[VERB]
 27	dà	dà	ADP	_	_	_	_	_	AlignBegin=7884|AlignEnd=7918|GE=with|Gloss=with|nWord=27|RX=[ADP]
@@ -262,7 +262,7 @@
 # text_en = Some, you rub on the penis.
 # text_orth = wani kaù ’à šaahwàa gà bùuᵲaa.
 1	wani	wani	DET	_	_	_	_	_	AlignBegin=11000|AlignEnd=11143|GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=11143|AlignEnd=11286|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=11143|AlignEnd=11286|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	à	à	AUX	_	_	_	_	_	AlignBegin=11286|AlignEnd=11429|GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
 4	shaːhwàː	shaːhwàː	VERB	_	_	_	_	_	AlignBegin=11429|AlignEnd=11572|GE=rub|Gloss=rub|nWord=4|RX=[VERB]
 5	gà	gà	ADP	_	_	_	_	_	AlignBegin=11572|AlignEnd=11715|GE=at|Gloss=at|nWord=5|RX=[ADP]
@@ -373,7 +373,7 @@
 19	shìːriyàː	shìːriyàː	NOUN	_	_	_	_	_	AlignBegin=15684|AlignEnd=15722|GE=[fig_tree].[Fem]|Gloss=fig_tree.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	_	_	_	AlignBegin=15722|AlignEnd=15760|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=15760|AlignEnd=15798|GE=or|Gloss=or|nWord=21|RX=[CCONJ]
-22	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=15798|AlignEnd=15836|GE=also|Gloss=also|nWord=22|RX=[TOPPART]
+22	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=15798|AlignEnd=15836|GE=also|Gloss=also|nWord=22|RX=[TOPPART]
 23	shì	shì	AUX	_	_	_	_	_	AlignBegin=15836|AlignEnd=15874|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
 24-25	hwaːɗoː	_	_	_	_	_	_	_	_
 24	hwaːɗ	hwaːɗi	VERB	_	_	_	_	_	AlignBegin=15874|AlignEnd=15893|GE=fall|Gloss=fall|nWord=24|RX=[VERB]
@@ -491,7 +491,7 @@
 32	mùntàleːtàː	mùntàleːtàː	X	_	_	_	_	_	AlignBegin=18812|AlignEnd=18840|GE=[X]|Gloss=X|nWord=30|RX=[X]
 33	,	,	PUNCT	_	_	_	_	_	AlignBegin=18840|AlignEnd=18868|GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 34	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=18868|AlignEnd=18896|GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
-35	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=18896|AlignEnd=18924|GE=self|Gloss=self|nWord=33|RX=[TOPPART]
+35	maː	maː	TopPART	_	_	_	_	_	AlignBegin=18896|AlignEnd=18924|GE=self|Gloss=self|nWord=33|RX=[TOPPART]
 36	mài	mài	PART	_	_	_	_	_	AlignBegin=18924|AlignEnd=18952|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
 37	maruhiː	maruhiː	NOUN	_	_	_	_	_	AlignBegin=18952|AlignEnd=18980|GE=[cover].[Masc]|Gloss=cover.Masc|nWord=35|RX=[NOUN]
 38	.	.	PUNCT	_	_	_	_	_	AlignBegin=18980|AlignEnd=19000|Gloss=.|nWord=36|RX=[PUNCT]
@@ -1767,7 +1767,7 @@
 # text_en = As for the bat, if it catches a branch, it holds it, it cannot let it go whatever pain it endures, unless you kill it.
 # text_orth = ši kaù jeemaagèe, ’in yak kaamà ’iccèe, yaᵲ ᵲiƙèe, baà ši ’iyà sakìinai, koo mii wùyad dà yaš šaa, sai ’an kašèe ši.
 1	shi	shi	PRON	_	_	_	_	_	AlignBegin=55000|AlignEnd=55037|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=55037|AlignEnd=55074|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=55037|AlignEnd=55074|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	jeːmaːgèː	jeːmaːgèː	NOUN	_	_	_	_	_	AlignBegin=55074|AlignEnd=55111|GE=[bat].[Masc]|Gloss=bat.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=55111|AlignEnd=55148|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	_	_	_	AlignBegin=55148|AlignEnd=55185|GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1807,7 +1807,7 @@
 # text_en = As for the hedgehog, if it curls up into a ball, you cannot open it unless you kill it.
 # text_orth = ’ita kaù biššiyaa, ’in tad dunƙùlee, baà ’a ’iyà buɗèe ta, sai ’an yankèe ta.
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=57000|AlignEnd=57056|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=57056|AlignEnd=57112|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=57056|AlignEnd=57112|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bishshiyaː	bishshiyaː	NOUN	_	_	_	_	_	AlignBegin=57112|AlignEnd=57168|GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=57168|AlignEnd=57224|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	_	_	_	AlignBegin=57224|AlignEnd=57280|GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1879,7 +1879,7 @@
 42	allàː	allàː	PROPN	_	_	_	_	_	AlignBegin=58144|AlignEnd=58148|GE=[God]|Gloss=God|nWord=37|RX=[PROPN]
 43	,	,	PUNCT	_	_	_	_	_	AlignBegin=58148|AlignEnd=58152|GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 44	sai	sai	ADV	_	_	_	_	_	AlignBegin=58152|AlignEnd=58156|GE=then|Gloss=then|nWord=39|RX=[ADV]
-45	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=58156|AlignEnd=58160|GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
+45	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=58156|AlignEnd=58160|GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
 46	mutuwàː	mutuwàː	NOUN	_	_	_	_	_	AlignBegin=58160|AlignEnd=58164|GE=[death].[Fem]|Gloss=death.Fem|nWord=41|RX=[NOUN]
 47	.	.	PUNCT	_	_	_	_	_	AlignBegin=58164|AlignEnd=58166|Gloss=.|nWord=42|RX=[PUNCT]
 
@@ -2406,7 +2406,7 @@
 # text_en = The groundnuts, nine too, you break the shells and keep the seeds.
 # text_orth = ’ita maa ɗaa tarà, ’à ƙanƙàrè kwàlhwaa, ’à ’ajè ɗiyaǹ -
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=73061|AlignEnd=73066|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=73066|AlignEnd=73071|GE=self|Gloss=self|nWord=2|RX=[TOPPART]
+2	maː	maː	TopPART	_	_	_	_	_	AlignBegin=73066|AlignEnd=73071|GE=self|Gloss=self|nWord=2|RX=[TOPPART]
 3	ɗaː	ɗaː	NOUN	_	_	_	_	_	AlignBegin=73071|AlignEnd=73076|GE=[son].[Masc]|Gloss=son.Masc|nWord=3|RX=[NOUN]
 4	tar̃à	tar̃à	NUM	_	_	_	_	_	AlignBegin=73076|AlignEnd=73081|GE=nine|Gloss=nine|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=73081|AlignEnd=73086|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2432,7 +2432,7 @@
 4	ayaː	ayaː	NOUN	_	_	_	_	_	AlignBegin=73158|AlignEnd=73170|GE=[tiger_nut].[Fem]|Gloss=tiger_nut.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=73170|AlignEnd=73182|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	ita	ita	PRON	_	_	_	_	_	AlignBegin=73182|AlignEnd=73194|GE=[3Fem]|Gloss=3Fem|nWord=6|RX=[PRON]
-7	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=73194|AlignEnd=73206|GE=self|Gloss=self|nWord=7|RX=[TOPPART]
+7	maː	maː	TopPART	_	_	_	_	_	AlignBegin=73194|AlignEnd=73206|GE=self|Gloss=self|nWord=7|RX=[TOPPART]
 8	à	à	AUX	_	_	_	_	_	AlignBegin=73206|AlignEnd=73218|GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=73218|AlignEnd=73230|GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
 10	.	.	PUNCT	_	_	_	_	_	AlignBegin=73230|AlignEnd=73244|Gloss=.|nWord=10|RX=[PUNCT]
@@ -2783,7 +2783,7 @@
 # text_en = But, apart from this, that medicine, when the man uses it on the woman, him, him the man, he does not go to bed during the day until he has finished that medicine.
 # text_orth = ’àmmaa hwa ban dà hakà nan, šii waǹnam maagànii, lookàcin dà namijì kà maà màccè šii, šii namijìn, baà ši kwaanan ᵲaana sai yaa gamà waǹnam maagànii.
 1	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=84000|AlignEnd=84033|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	hwa	hwa	TOPPART	_	_	_	_	_	AlignBegin=84033|AlignEnd=84066|GE=however|Gloss=however|nWord=2|RX=[TOPPART]
+2	hwa	hwa	TopPART	_	_	_	_	_	AlignBegin=84033|AlignEnd=84066|GE=however|Gloss=however|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	_	_	_	AlignBegin=84066|AlignEnd=84099|GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=84099|AlignEnd=84132|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	ADV	_	_	_	_	_	AlignBegin=84132|AlignEnd=84165|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -2891,7 +2891,7 @@
 # text = kuma bandà hakà nan, du’ abuːbuwàn dà ankà sânyaː cikim maːgànîn, irìn wa’àndà a kà cîː, mùtun bâːshi cînsù, loːkàcin dà shikà wânnam maːgànîn.
 # text_en = But apart from that, all the things that have been put inside the medicine, those that are used, the man does not eat them when he uses the medicine.
 # text_orth = kuma ban dà hakà nan, du’ ’abuubuwàn dà ’ankà saǹyaa cikim maagàniǹ, ’iᵲìn wa’àndà ’a kà ciì, mùtun baà ši ciǹsù, lookàcin dà ši kà waǹnam maagàniǹ -
-1	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=87000|AlignEnd=87011|GE=also|Gloss=also|nWord=1|RX=[TOPPART]
+1	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=87000|AlignEnd=87011|GE=also|Gloss=also|nWord=1|RX=[TOPPART]
 2	bandà	bandà	ADP	_	_	_	_	_	AlignBegin=87011|AlignEnd=87022|GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=87022|AlignEnd=87033|GE=thus|Gloss=thus|nWord=3|RX=[ADV]
 4	nan	nan	ADV	_	_	_	_	_	AlignBegin=87033|AlignEnd=87044|GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
@@ -3469,7 +3469,7 @@
 # text_en = When she has taken the medicine and it has gone into her body, her reason escapes her, she has no sense left except for what you do to her, or indeed except for God.
 # text_orth = ’in dai taa rìgyaa taa ci maagàniǹ, hay yaa zoo cìkin cikìntà, ’ita kuma dùbaaràa taa kubcèe mutà, baà ta dà wata dùbaaràa, sai waddà kam mutà, sai kaù ta ’allàa.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=102000|AlignEnd=102025|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=102025|AlignEnd=102050|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	_	_	_	AlignBegin=102025|AlignEnd=102050|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	_	_	_	AlignBegin=102050|AlignEnd=102075|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	_	_	_	AlignBegin=102075|AlignEnd=102100|GE=precece/have_already|Gloss=precece/have_already|nWord=4|RX=[VERB]
 5	taː	taː	AUX	_	_	_	_	_	AlignBegin=102100|AlignEnd=102125|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -3486,7 +3486,7 @@
 15	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=102316|AlignEnd=102325|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=13|RX=[PRON]
 16	,	,	PUNCT	_	_	_	_	_	AlignBegin=102325|AlignEnd=102350|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 17	ita	ita	PRON	_	_	_	_	_	AlignBegin=102350|AlignEnd=102375|GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
-18	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=102375|AlignEnd=102400|GE=also|Gloss=also|nWord=16|RX=[TOPPART]
+18	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=102375|AlignEnd=102400|GE=also|Gloss=also|nWord=16|RX=[TOPPART]
 19	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	_	_	_	AlignBegin=102400|AlignEnd=102425|GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=17|RX=[NOUN]
 20	taː	taː	AUX	_	_	_	_	_	AlignBegin=102425|AlignEnd=102450|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=18|RX=[AUX]
 21	kubcèː	kubcèː	VERB	_	_	_	_	_	AlignBegin=102450|AlignEnd=102475|GE=drop|Gloss=drop|nWord=19|RX=[VERB]
@@ -3499,11 +3499,11 @@
 28	,	,	PUNCT	_	_	_	_	_	AlignBegin=102625|AlignEnd=102650|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 29	sai	sai	ADV	_	_	_	_	_	AlignBegin=102650|AlignEnd=102675|GE=then|Gloss=then|nWord=27|RX=[ADV]
 30	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=102675|AlignEnd=102700|GE=[who].[Fem]|Gloss=who.Fem|nWord=28|RX=[PRON]
-31	kam	kam	TOPPART	_	_	_	_	_	AlignBegin=102700|AlignEnd=102725|GE=indeed|Gloss=indeed|nWord=29|RX=[TOPPART]
+31	kam	kam	TopPART	_	_	_	_	_	AlignBegin=102700|AlignEnd=102725|GE=indeed|Gloss=indeed|nWord=29|RX=[TOPPART]
 32	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=102725|AlignEnd=102750|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
 33	,	,	PUNCT	_	_	_	_	_	AlignBegin=102750|AlignEnd=102775|GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 34	sai	sai	ADV	_	_	_	_	_	AlignBegin=102775|AlignEnd=102800|GE=then|Gloss=then|nWord=32|RX=[ADV]
-35	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=102800|AlignEnd=102825|GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
+35	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=102800|AlignEnd=102825|GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
 36	ta	ta	PART	_	_	_	_	_	AlignBegin=102825|AlignEnd=102850|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=34|RX=[PART]
 37	allàː	allàː	PROPN	_	_	_	_	_	AlignBegin=102850|AlignEnd=102875|GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
 38	.	.	PUNCT	_	_	_	_	_	AlignBegin=102875|AlignEnd=102911|Gloss=.|nWord=36|RX=[PUNCT]
@@ -3853,7 +3853,7 @@
 # text_orth = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa, sai ’à ɗeeboo na ƙanaanàa, ’à gamàa su dà na hannuwàa, ’à ’ajèe.
 1	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=115000|AlignEnd=115036|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	suː	suː	PRON	_	_	_	_	_	AlignBegin=115036|AlignEnd=115072|GE=[3Plur]|Gloss=3Plur|nWord=2|RX=[PRON]
-3	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=115072|AlignEnd=115108|GE=self|Gloss=self|nWord=3|RX=[TOPPART]
+3	maː	maː	TopPART	_	_	_	_	_	AlignBegin=115072|AlignEnd=115108|GE=self|Gloss=self|nWord=3|RX=[TOPPART]
 4	na	na	PART	_	_	_	_	_	AlignBegin=115108|AlignEnd=115144|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
 5	ƙahwaːhuwàː	ƙahwaːhuwàː	NOUN	_	_	_	_	_	AlignBegin=115144|AlignEnd=115180|GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=115180|AlignEnd=115216|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -4391,7 +4391,7 @@
 # text_en = The water for washing his face, let him collect it inside the pot.
 # text_orth = suu kuma ᵲuwan wankìn ’idòo šì wankàa su nan cikin kaskoo.
 1	suː	suː	PRON	_	_	_	_	_	AlignBegin=129185|AlignEnd=129253|GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=129253|AlignEnd=129321|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=129253|AlignEnd=129321|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3-4	ruwan	_	_	_	_	_	_	_	_
 3	ruwa	ruwaː	NOUN	_	_	_	_	_	AlignBegin=129321|AlignEnd=129355|GE=[water].[Plur]|Gloss=water.Plur|nWord=3|RX=[NOUN]
 4	-n	-n	PART	_	_	_	_	_	AlignBegin=129355|AlignEnd=129389|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
@@ -4796,7 +4796,7 @@
 4	zàrau	zàrau	NOUN	_	_	_	_	_	AlignBegin=143114|AlignEnd=143152|GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=4|RX=[NOUN]
 5	//	//	PUNCT	_	_	_	_	_	AlignBegin=143152|AlignEnd=143190|GE=[//]|Gloss=//|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=143190|AlignEnd=143228|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=143228|AlignEnd=143266|GE=self|Gloss=self|nWord=7|RX=[TOPPART]
+7	maː	maː	TopPART	_	_	_	_	_	AlignBegin=143228|AlignEnd=143266|GE=self|Gloss=self|nWord=7|RX=[TOPPART]
 8	hakìː	hakìː	NOUN	_	_	_	_	_	AlignBegin=143266|AlignEnd=143304|GE=[grass].[Masc]|Gloss=grass.Masc|nWord=8|RX=[NOUN]
 9	neː	neː	IdPART	_	_	_	_	_	AlignBegin=143304|AlignEnd=143342|GE=[Ident/Loc]|Gloss=Ident/Loc|nWord=9|RX=[IDPART]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=143342|AlignEnd=143380|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -4997,7 +4997,7 @@
 16	hushiː	hushiː	NOUN	_	_	_	_	_	AlignBegin=147208|AlignEnd=147224|GE=[anger].[Masc]|Gloss=anger.Masc|nWord=14|RX=[NOUN]
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=147224|AlignEnd=147240|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 18	kai	kai	PRON	_	_	_	_	_	AlignBegin=147240|AlignEnd=147256|GE=[2Masc]|Gloss=2Masc|nWord=16|RX=[PRON]
-19	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=147256|AlignEnd=147272|GE=also|Gloss=also|nWord=17|RX=[TOPPART]
+19	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=147256|AlignEnd=147272|GE=also|Gloss=also|nWord=17|RX=[TOPPART]
 20	kaː	kaː	AUX	_	_	_	_	_	AlignBegin=147272|AlignEnd=147288|GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=18|RX=[AUX]
 21	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=147288|AlignEnd=147304|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
 22	hushiː	hushiː	NOUN	_	_	_	_	_	AlignBegin=147304|AlignEnd=147320|GE=[anger].[Masc]|Gloss=anger.Masc|nWord=20|RX=[NOUN]
@@ -5058,7 +5058,7 @@
 71	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=147896|AlignEnd=147912|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=57|RX=[VERB]
 72	,	,	PUNCT	_	_	_	_	_	AlignBegin=147912|AlignEnd=147928|GE=[PUNCT]|Gloss=PUNCT|nWord=58|RX=[PUNCT]
 73	sai	sai	ADV	_	_	_	_	_	AlignBegin=147928|AlignEnd=147944|GE=then|Gloss=then|nWord=59|RX=[ADV]
-74	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=147944|AlignEnd=147960|GE=indeed|Gloss=indeed|nWord=60|RX=[TOPPART]
+74	dai	dai	TopPART	_	_	_	_	_	AlignBegin=147944|AlignEnd=147960|GE=indeed|Gloss=indeed|nWord=60|RX=[TOPPART]
 75	tà	tà	AUX	_	_	_	_	_	AlignBegin=147960|AlignEnd=147976|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=61|RX=[AUX]
 76	yi	yi	VERB	_	_	_	_	_	AlignBegin=147976|AlignEnd=147992|GE=do|Gloss=do|nWord=62|RX=[VERB]
 77	kuːkaː	kuːkaː	NOUN	_	_	_	_	_	AlignBegin=147992|AlignEnd=148008|GE=[crying].[Masc]|Gloss=crying.Masc|nWord=63|RX=[NOUN]
@@ -5408,7 +5408,7 @@
 # text_en = If she takes it, whatever you say and is in your mouth, she cannot go against it, she cannot start a dispute, she must do the things that you want.
 # text_orth = ’in dai taa ᵲìgyaa taa ci, du’ ’àbun dà kah hwaɗìi, cikin bàakinkà, baà ta ’iyà ƙeetàᵲee ši, baà ta ’iyà maa gardamàa, tiilàt tà yi ’iᵲìn ’àbun dà ka kà soò.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=159240|AlignEnd=159262|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=159262|AlignEnd=159284|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	_	_	_	AlignBegin=159262|AlignEnd=159284|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	_	_	_	AlignBegin=159284|AlignEnd=159306|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	_	_	_	AlignBegin=159306|AlignEnd=159328|GE=have_already|Gloss=have_already|nWord=4|RX=[VERB]
 5	taː	taː	AUX	_	_	_	_	_	AlignBegin=159328|AlignEnd=159350|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -5489,7 +5489,7 @@
 # text_en = As for your nails, your eyebrows, your armpits and pubic hair, the water that you used to wash your body, your hands, face and penis in order to collect the dirt of your body, you put them in the medicine and give it to the woman to eat.
 # text_orth = suu kàu ’àkàihunkà, dà gaašìn gàban gòošinkà, dà na hamùttaa dà na zaazakkà, dà ᵲuwan dà kaw wawwànkè jìkinkà, dà hannuwàa dà huskàa dà màzàakuutàa, don ’à sàamu dauɗàn nan ta jìkinkà, ’à saà cikim maagànii, ’à baà màccè tà ci.
 1	suː	suː	PRON	_	_	_	_	_	AlignBegin=160868|AlignEnd=160891|GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kàu	kàu	TOPPART	_	_	_	_	_	AlignBegin=160891|AlignEnd=160914|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kàu	kàu	TopPART	_	_	_	_	_	AlignBegin=160891|AlignEnd=160914|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-5	àkàihunkà	_	_	_	_	_	_	_	_
 3	àkàihu	àkàihuː	NOUN	_	_	_	_	_	AlignBegin=160914|AlignEnd=160922|GE=[nail].[Plur]|Gloss=nail.Plur|nWord=3|RX=[NOUN]
 4	-n	-n	PART	_	_	_	_	_	AlignBegin=160922|AlignEnd=160930|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
@@ -5567,7 +5567,7 @@
 # text_en = If she eats it, well your body meets hers, she won't be able to leave you.
 # text_orth = ’in dai hat taa ci, toò jìkinkà yag gàmu dà naatà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=162000|AlignEnd=162039|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=162039|AlignEnd=162078|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	_	_	_	AlignBegin=162039|AlignEnd=162078|GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	hat	hat	ADV	_	_	_	_	_	AlignBegin=162078|AlignEnd=162117|GE=finally|Gloss=finally|nWord=3|RX=[ADV]
 4	taː	taː	AUX	_	_	_	_	_	AlignBegin=162117|AlignEnd=162156|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=4|RX=[AUX]
 5	ci	ci	VERB	_	_	_	_	_	AlignBegin=162156|AlignEnd=162195|GE=eat|Gloss=eat|nWord=5|RX=[VERB]
@@ -5630,7 +5630,7 @@
 1	suː	suː	PRON	_	_	_	_	_	AlignBegin=163090|AlignEnd=163093|GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	wa’ànnan	wa’ànnan	DET	_	_	_	_	_	AlignBegin=163093|AlignEnd=163096|GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=2|RX=[DET]
 3	hakuːkuwàː	hakuːkuwàː	NOUN	_	_	_	_	_	AlignBegin=163096|AlignEnd=163099|GE=[grass].[Plur]|Gloss=grass.Plur|nWord=3|RX=[NOUN]
-4	koː	koː	TOPPART	_	_	_	_	_	AlignBegin=163099|AlignEnd=163102|GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
+4	koː	koː	TopPART	_	_	_	_	_	AlignBegin=163099|AlignEnd=163102|GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
 5	can	can	ADV	_	_	_	_	_	AlignBegin=163102|AlignEnd=163105|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
 6	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=163105|AlignEnd=163108|GE=that|Gloss=that|nWord=6|RX=[SCONJ]
 7	ùbangijìː	ùbangijìː	PROPN	_	_	_	_	_	AlignBegin=163108|AlignEnd=163111|GE=[God].[Masc]|Gloss=God.Masc|nWord=7|RX=[PROPN]
@@ -6891,7 +6891,7 @@
 # text_en = Well, apart from this, the seeds of "maɗaɗɗafi", and the rats' "ƙarangiya", are like gum.
 # text_orth = toò kuma ban dà hakà nan, suu ɗiyam màɗaɗɗahii, dà ƙàᵲangiyak kuusaa, danƙòo gàᵲee sù.
 1	tôː	tôː	INTJ	_	_	_	_	_	AlignBegin=201000|AlignEnd=201056|GE=well|Gloss=well|nWord=1|RX=[INTJ]
-2	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=201056|AlignEnd=201112|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=201056|AlignEnd=201112|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	ban	ban	VERB	_	_	_	_	_	AlignBegin=201112|AlignEnd=201168|GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=3|RX=[VERB]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=201168|AlignEnd=201224|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	ADV	_	_	_	_	_	AlignBegin=201224|AlignEnd=201280|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -6979,7 +6979,7 @@
 4	hakìː	hakìː	NOUN	_	_	_	_	_	AlignBegin=204213|AlignEnd=204284|GE=[grass].[Masc]|Gloss=grass.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=204284|AlignEnd=204355|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=204355|AlignEnd=204426|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=204426|AlignEnd=204497|GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
+7	maː	maː	TopPART	_	_	_	_	_	AlignBegin=204426|AlignEnd=204497|GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
 8	danƙòː	danƙòː	NOUN	_	_	_	_	_	AlignBegin=204497|AlignEnd=204568|GE=[gum].[Masc]|Gloss=gum.Masc|nWord=8|RX=[NOUN]
 9-10	gàrai	_	_	_	_	_	_	_	_
 9	gàr̃eː	gàr̃eː	ADP	_	_	_	_	_	AlignBegin=204568|AlignEnd=204604|GE=at/to|Gloss=at/to|nWord=9|RX=[ADP]
@@ -7011,7 +7011,7 @@
 8	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	_	_	_	_	AlignBegin=205335|AlignEnd=205402|GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=205402|AlignEnd=205469|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 10	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=205469|AlignEnd=205536|GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
-11	maː	maː	TOPPART	_	_	_	_	_	AlignBegin=205536|AlignEnd=205603|GE=self/too|Gloss=self/too|nWord=9|RX=[TOPPART]
+11	maː	maː	TopPART	_	_	_	_	_	AlignBegin=205536|AlignEnd=205603|GE=self/too|Gloss=self/too|nWord=9|RX=[TOPPART]
 12	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=205603|AlignEnd=205670|GE=thus|Gloss=thus|nWord=10|RX=[ADV]
 13	nan	nan	ADV	_	_	_	_	_	AlignBegin=205670|AlignEnd=205737|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
 14-15	akài	_	_	_	_	_	_	_	_
@@ -7029,7 +7029,7 @@
 # text_en = As for the insect "bìː-ta-zâizâi", wherever the man goes, the woman has to follow him.
 # text_orth = šii kaù bìi ta zaìzaì ƙwaaᵲòo, du’ ’indà namijì yay yi, sai màcceǹ tà yi ta bìyaatai.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=206000|AlignEnd=206056|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=206056|AlignEnd=206112|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=206056|AlignEnd=206112|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	AlignBegin=206112|AlignEnd=206168|GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=3|RX=[NOUN]
 4	ƙwaːròː	ƙwaːròː	NOUN	_	_	_	_	_	AlignBegin=206168|AlignEnd=206224|GE=[insect].[Masc]|Gloss=insect.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=206224|AlignEnd=206280|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]

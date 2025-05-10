@@ -37,7 +37,7 @@
 5	doːkìː	doːkìː	NOUN	_	_	_	_	_	AlignBegin=1308|AlignEnd=1385|GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=1385|AlignEnd=1462|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	gùdaː	gùdaː	NUM	_	_	_	_	_	AlignBegin=1462|AlignEnd=1539|GE=one|Gloss=one|nWord=7|RX=[NUM]
-8	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=1539|AlignEnd=1616|GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
+8	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=1539|AlignEnd=1616|GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
 9	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=1616|AlignEnd=1693|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=9|RX=[PREDPART]
 10	shi	shi	PRON	_	_	_	_	_	AlignBegin=1693|AlignEnd=1770|GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
 11	dà	dà	ADP	_	_	_	_	_	AlignBegin=1770|AlignEnd=1847|GE=with|Gloss=with|nWord=11|RX=[ADP]
@@ -163,7 +163,7 @@
 # text_en = The husband, when he heard her, he got angry, but he left her alone whithout saying anything.
 # text_orth = šii kàu mijìntà ši nàa jiì, sai ᵲaìnai šì ɓaacì, sai šì ƙyaalèe ta, baà ya ceè mutà koomii.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=5000|AlignEnd=5048|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=5048|AlignEnd=5096|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=5048|AlignEnd=5096|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-5	mijìntà	_	_	_	_	_	_	_	_
 3	mijì	mijìː	NOUN	_	_	_	_	_	AlignBegin=5096|AlignEnd=5112|GE=husband/male|Gloss=husband/male|nWord=3|RX=[NOUN]
 4	-n	-n	PART	_	_	_	_	_	AlignBegin=5112|AlignEnd=5128|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
@@ -464,14 +464,14 @@
 # text_en = She, his wife, as for her, she saw a rider, but she did not know it was her husband who was on the horse.
 # text_orth = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=15000|AlignEnd=15045|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=15045|AlignEnd=15090|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=15045|AlignEnd=15090|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-5	màːtaːtai	_	_	_	_	_	_	_	_
 3	màːtaː	màːtaː	NOUN	_	_	_	_	_	AlignBegin=15090|AlignEnd=15105|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=3|RX=[NOUN]
 4	-t	-t	PART	_	_	_	_	_	AlignBegin=15105|AlignEnd=15120|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=3|RX=[PART]
 5	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=15120|AlignEnd=15135|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=15135|AlignEnd=15180|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 7	ita	ita	PRON	_	_	_	_	_	AlignBegin=15180|AlignEnd=15225|GE=[3Fem]|Gloss=3Fem|nWord=5|RX=[PRON]
-8	dai	dai	TOPPART	_	_	_	_	_	AlignBegin=15225|AlignEnd=15270|GE=indeed|Gloss=indeed|nWord=6|RX=[TOPPART]
+8	dai	dai	TopPART	_	_	_	_	_	AlignBegin=15225|AlignEnd=15270|GE=indeed|Gloss=indeed|nWord=6|RX=[TOPPART]
 9	taː	taː	AUX	_	_	_	_	_	AlignBegin=15270|AlignEnd=15315|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=7|RX=[AUX]
 10	ganiː	ganiː	VERB	_	_	_	_	_	AlignBegin=15315|AlignEnd=15360|GE=see|Gloss=see|nWord=8|RX=[VERB]
 11	mài	mài	PART	_	_	_	_	_	AlignBegin=15360|AlignEnd=15405|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
@@ -537,7 +537,7 @@
 # text_en = She, when she arrived, she stopped where the party was taking place.
 # text_orth = ’ita kàu dà taz zoo, tas sàbka ’indà ’a kà bìkii.
 1	ita	ita	PRON	_	_	_	_	_	AlignBegin=17000|AlignEnd=17083|GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=17083|AlignEnd=17166|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=17083|AlignEnd=17166|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=17166|AlignEnd=17249|GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	taz	tak	AUX	_	_	_	_	_	AlignBegin=17249|AlignEnd=17332|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
 5	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=17332|AlignEnd=17415|GE=come|Gloss=come|nWord=5|RX=[VERB]
@@ -725,7 +725,7 @@
 # text_en = He, before travelling, he took a wrapper that she did not know about.
 # text_orth = šii kàu dà zaà ši tàhiyàa, yaa sàamu zanèe, wandà bà tà sanìː ba.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=22000|AlignEnd=22062|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=22062|AlignEnd=22124|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=22062|AlignEnd=22124|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=22124|AlignEnd=22186|GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=22186|AlignEnd=22248|GE=[Fut]|Gloss=Fut|nWord=4|RX=[AUX]
 5	shi	shi	PRON	_	_	_	_	_	AlignBegin=22248|AlignEnd=22310|GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
@@ -749,7 +749,7 @@
 # text_en = But that wrapper, it was heavy.
 # text_orth = šii kàu zanèn nan, ši nàa dà kabᵲii.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=23000|AlignEnd=23100|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TOPPART	_	_	_	_	_	AlignBegin=23100|AlignEnd=23200|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=23100|AlignEnd=23200|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	zanèn	zanèː	NOUN	_	_	_	_	_	AlignBegin=23200|AlignEnd=23300|GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
 4	nan	nan	DET	_	_	_	_	_	AlignBegin=23300|AlignEnd=23400|GE=[Dist]|Gloss=Dist|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=23400|AlignEnd=23500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1111,7 +1111,7 @@
 # text_en = But he, he refused.
 # text_orth = šii kuma sai šì hanàa.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=34000|AlignEnd=34167|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=34167|AlignEnd=34334|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=34167|AlignEnd=34334|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	sai	sai	ADV	_	_	_	_	_	AlignBegin=34334|AlignEnd=34501|GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	shì	shì	AUX	_	_	_	_	_	AlignBegin=34501|AlignEnd=34668|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=4|RX=[AUX]
 5	.	.	PUNCT	_	_	_	_	_	AlignBegin=34835|AlignEnd=35000|Gloss=.|nWord=6|RX=[PUNCT]
@@ -1240,7 +1240,7 @@
 5	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=38106|AlignEnd=38120|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=38120|AlignEnd=38160|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 7	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=38160|AlignEnd=38200|GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
-8	kuma	kuma	TOPPART	_	_	_	_	_	AlignBegin=38200|AlignEnd=38240|GE=also|Gloss=also|nWord=6|RX=[TOPPART]
+8	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=38200|AlignEnd=38240|GE=also|Gloss=also|nWord=6|RX=[TOPPART]
 9	yat	yak	AUX	_	_	_	_	_	AlignBegin=38240|AlignEnd=38280|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
 10	taːshì	taːshì	VERB	_	_	_	_	_	AlignBegin=38280|AlignEnd=38320|GE=rise|Gloss=rise|nWord=8|RX=[VERB]
 11	,	,	PUNCT	_	_	_	_	_	AlignBegin=38320|AlignEnd=38360|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
