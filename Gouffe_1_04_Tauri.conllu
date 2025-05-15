@@ -8,12 +8,12 @@
 1	anàː	anàː	AUX	_	_	0	root	_	AlignBegin=0|AlignEnd=34|GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2-3	yîm	_	_	_	_	_	_	_	_
 2	yî	yîː	VERB	_	_	1	comp:aux	_	AlignBegin=34|AlignEnd=51|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]
-3	-m	-n	PART	_	_	2	udep	_	AlignBegin=51|AlignEnd=68|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
+3	-m	-n	PART	_	_	2	udep/m	_	AlignBegin=51|AlignEnd=68|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
 4	maːgàniː	maːgàniː	NOUN	_	_	3	comp:obj	_	AlignBegin=68|AlignEnd=102|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=3|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=102|AlignEnd=136|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6-7	maːgànin	_	_	_	_	_	_	_	_
 6	maːgàni	maːgàniː	NOUN	_	_	4	conj:appos	_	AlignBegin=136|AlignEnd=153|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=5|RX=[NOUN]
-7	-n	-n	PART	_	_	6	mod	_	AlignBegin=153|AlignEnd=170|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=5|RX=[PART]
+7	-n	-n	PART	_	_	6	mod/m	_	AlignBegin=153|AlignEnd=170|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=5|RX=[PART]
 8	tauri	tauri	NOUN	_	_	7	comp:obj	_	AlignBegin=170|AlignEnd=204|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=6|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=204|AlignEnd=238|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 10	wandà	wandà	PRON	_	_	6	mod@relcl	_	AlignBegin=238|AlignEnd=272|GE=[which].[Masc]|Gloss=which.Masc|nWord=8|RX=[PRON]
@@ -61,7 +61,7 @@
 13	gà	gà	ADP	_	_	12	comp:pred	_	AlignBegin=1516|AlignEnd=1559|GE=at|Gloss=at|nWord=13|RX=[ADP]
 14-15	jìkim	_	_	_	_	_	_	_	_
 14	jìki	jìkiː	NOUN	_	_	13	comp:obj	_	AlignBegin=1559|AlignEnd=1581|GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]
-15	-m	-n	PART	_	_	14	mod	_	AlignBegin=1581|AlignEnd=1602|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=14|RX=[PART]
+15	-m	-n	PART	_	_	14	mod/m	_	AlignBegin=1581|AlignEnd=1602|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=14|RX=[PART]
 16	mùtun	mùtun	NOUN	_	_	15	comp:obj	_	AlignBegin=1602|AlignEnd=1645|GE=[person].[Masc]|Gloss=person.Masc|nWord=15|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	AlignBegin=1645|AlignEnd=1688|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 18	laːyàƙ	laːyàː	NOUN	_	_	11	dislocated@subj	_	AlignBegin=1688|AlignEnd=1710|GE=[charm].[Fem].[Def]|Gloss=charm.Fem.Def|nWord=17|RX=[NOUN]
@@ -99,7 +99,7 @@
 18	kaːmà	kaːmàː	VERB	_	_	17	comp:aux	_	AlignBegin=2816|AlignEnd=2864|GE=catch|Gloss=catch|nWord=18|RX=[VERB]
 19-20	jìkim	_	_	_	_	_	_	_	_
 19	jìki	jìkiː	NOUN	_	_	18	comp:obj	_	AlignBegin=2864|AlignEnd=2888|GE=[body].[Masc]|Gloss=body.Masc|nWord=19|RX=[NOUN]
-20	-m	-n	PART	_	_	19	mod	_	AlignBegin=2888|AlignEnd=2912|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=19|RX=[PART]
+20	-m	-n	PART	_	_	19	mod/m	_	AlignBegin=2888|AlignEnd=2912|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=19|RX=[PART]
 21	mùtun	mùtun	NOUN	_	_	20	comp:obj	_	AlignBegin=2912|AlignEnd=2960|GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
 22	.	.	PUNCT	_	_	7	punct	_	AlignBegin=2960|AlignEnd=3000|Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -332,32 +332,32 @@
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_orth = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
-1	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=8520|AlignEnd=8540|GE=[who].[Plur]|Gloss=who.Plur|nWord=27|RX=[PRON]
-2	su	su	PRON	_	_	_	_	_	AlignBegin=8540|AlignEnd=8560|GE=[3].[Pl]|Gloss=3.Pl|nWord=28|RX=[PRON]
-3	kè	kè	AUX	_	_	_	_	_	AlignBegin=8560|AlignEnd=8580|GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=29|RX=[AUX]
-4	,	,	PUNCT	_	_	_	_	_	AlignBegin=8580|AlignEnd=8600|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-5	in	in	SCONJ	_	_	_	_	_	AlignBegin=8600|AlignEnd=8620|GE=if|Gloss=if|nWord=31|RX=[SCONJ]
-6	sum	sun	AUX	_	_	_	_	_	AlignBegin=8620|AlignEnd=8640|GE=[3Plur].[Perf]|Gloss=3Plur.Perf|nWord=32|RX=[AUX]
-7	bushèː	bushèː	VERB	_	_	_	_	_	AlignBegin=8640|AlignEnd=8660|GE=dry_up|Gloss=dry_up|nWord=33|RX=[VERB]
-8	,	,	PUNCT	_	_	_	_	_	AlignBegin=8660|AlignEnd=8680|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-9	koːmiː	koːmiː	PRON	_	_	_	_	_	AlignBegin=8680|AlignEnd=8700|GE=anything|Gloss=anything|nWord=35|RX=[PRON]
-10	ƙarhi	ƙarhiː	NOUN	_	_	_	_	_	AlignBegin=8700|AlignEnd=8710|GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]
-11	-m	-n	PART	_	_	_	_	_	AlignBegin=8710|AlignEnd=8720|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=36|RX=[PART]
-12	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=8720|AlignEnd=8740|GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
-13	,	,	PUNCT	_	_	_	_	_	AlignBegin=8740|AlignEnd=8760|GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
+1	wa’àndà	wa’àndà	PRON	_	_	14	mod	_	AlignBegin=8520|AlignEnd=8540|GE=[who].[Plur]|Gloss=who.Plur|nWord=27|RX=[PRON]
+2	su	su	PRON	_	_	3	subj	_	AlignBegin=8540|AlignEnd=8560|GE=[3].[Pl]|Gloss=3.Pl|nWord=28|RX=[PRON]
+3	kè	kè	AUX	_	_	1	comp:obj	_	AlignBegin=8560|AlignEnd=8580|GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=29|RX=[AUX]
+4	,	,	PUNCT	_	_	1	punct	_	AlignBegin=8580|AlignEnd=8600|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+5	in	in	SCONJ	_	_	14	mod	_	AlignBegin=8600|AlignEnd=8620|GE=if|Gloss=if|nWord=31|RX=[SCONJ]
+6	sum	sun	AUX	_	_	5	comp:obj	_	AlignBegin=8620|AlignEnd=8640|GE=[3Plur].[Perf]|Gloss=3Plur.Perf|nWord=32|RX=[AUX]
+7	bushèː	bushèː	VERB	_	_	6	comp:aux	_	AlignBegin=8640|AlignEnd=8660|GE=dry_up|Gloss=dry_up|nWord=33|RX=[VERB]
+8	,	,	PUNCT	_	_	5	punct	_	AlignBegin=8660|AlignEnd=8680|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
+9	koːmiː	koːmiː	DET	_	_	10	det	_	AlignBegin=8680|AlignEnd=8700|GE=anything|Gloss=anything|nWord=35|RX=[PRON]
+10	ƙarhi	ƙarhiː	NOUN	_	_	14	mod	_	AlignBegin=8700|AlignEnd=8710|GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]
+11	-m	-n	PART	_	_	10	mod/m	_	AlignBegin=8710|AlignEnd=8720|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=36|RX=[PART]
+12	mùtun	mùtun	NOUN	_	_	11	comp/m	_	AlignBegin=8720|AlignEnd=8740|GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
+13	,	,	PUNCT	_	_	10	punct	_	AlignBegin=8740|AlignEnd=8760|GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 14	bâːshi	bâːshi	AUX	_	_	0	root	_	AlignBegin=8760|AlignEnd=8780|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=39|RX=[AUX]
-15	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=8780|AlignEnd=8800|GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
-16	gùrgurà	gùrguràː	VERB	_	_	_	_	_	AlignBegin=8800|AlignEnd=8807|GE=[gnaw].[Nmlz].[Fem]|Gloss=gnaw.Nmlz.Fem|nWord=41|RX=[VERB]
-17	-s	-t	PART	_	_	_	_	_	AlignBegin=8807|AlignEnd=8814|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=41|RX=[PART]
-18	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=8814|AlignEnd=8820|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=41|RX=[PRON]
-19	dà	dà	ADP	_	_	_	_	_	AlignBegin=8820|AlignEnd=8840|GE=with|Gloss=with|nWord=42|RX=[ADP]
-20	haƙoːriː	haƙoːriː	NOUN	_	_	_	_	_	AlignBegin=8840|AlignEnd=8860|GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
-21	,	,	PUNCT	_	_	_	_	_	AlignBegin=8860|AlignEnd=8880|GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
+15	iyà	iyàː	VERB	_	_	14	comp:aux	_	AlignBegin=8780|AlignEnd=8800|GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
+16	gùrgurà	gùrguràː	VERB	_	_	15	comp:obj	_	AlignBegin=8800|AlignEnd=8807|GE=[gnaw].[Nmlz].[Fem]|Gloss=gnaw.Nmlz.Fem|nWord=41|RX=[VERB]
+17	-s	-t	PART	_	_	16	udep/m	_	AlignBegin=8807|AlignEnd=8814|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=41|RX=[PART]
+18	-sù	-sù	PRON	_	_	17	comp/m	_	AlignBegin=8814|AlignEnd=8820|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=41|RX=[PRON]
+19	dà	dà	ADP	_	_	16	comp:obl	_	AlignBegin=8820|AlignEnd=8840|GE=with|Gloss=with|nWord=42|RX=[ADP]
+20	haƙoːriː	haƙoːriː	NOUN	_	_	19	comp:obj	_	AlignBegin=8840|AlignEnd=8860|GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
+21	,	,	PUNCT	_	_	22	punct	_	AlignBegin=8860|AlignEnd=8880|GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
 22	sai	sai	SCONJ	_	_	14	mod	_	AlignBegin=8880|AlignEnd=8900|GE=then|Gloss=then|nWord=45|RX=[ADV]
 23	dai	dai	TopPART	_	_	22	discourse@top	_	AlignBegin=8900|AlignEnd=8920|GE=indeed|Gloss=indeed|nWord=46|RX=[TOPPART]
 24	à	à	AUX	_	_	22	comp:obj	_	AlignBegin=8920|AlignEnd=8940|GE=[4].[Aor]|Gloss=4.Aor|nWord=47|RX=[AUX]
 25	dakàː	dakàː	VERB	_	_	24	comp:aux	_	AlignBegin=8940|AlignEnd=8960|GE=pound|Gloss=pound|nWord=48|RX=[VERB]
-26	.	.	PUNCT	_	_	_	_	_	AlignBegin=8960|AlignEnd=9000|Gloss=.|nWord=49|RX=[PUNCT]
+26	.	.	PUNCT	_	_	14	punct	_	AlignBegin=8960|AlignEnd=9000|Gloss=.|nWord=49|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_010-010
 # speaker_id = *
@@ -366,99 +366,105 @@
 # text = koː dakàm maː, koːmiː ƙarhim mùtun, bâːshi iyà dakè ɗiyan ƙòːdagòː gà inìː gùdaː, sabòːdà taurinsù.
 # text_en = Even (by) pounding, whatever your strength, you won't succeed in pounding dum palm seeds in a day because of its toughness.
 # text_orth = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
-1	koː	koː	ADV	_	_	_	_	_	AlignBegin=9000|AlignEnd=9050|GE=even|Gloss=even|nWord=1|RX=[ADV]
-2	dakàm	dakàː	VERB	_	_	_	_	_	AlignBegin=9050|AlignEnd=9100|GE=[pound].[Nmlz].[Masc].[Def]|Gloss=pound.Nmlz.Masc.Def|nWord=2|RX=[VERB]
-3	maː	maː	TopPART	_	_	_	_	_	AlignBegin=9100|AlignEnd=9150|GE=self/too|Gloss=self/too|nWord=3|RX=[TOPPART]
-4	,	,	PUNCT	_	_	_	_	_	AlignBegin=9150|AlignEnd=9200|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	koːmiː	koːmiː	PRON	_	_	_	_	_	AlignBegin=9200|AlignEnd=9250|GE=anything|Gloss=anything|nWord=5|RX=[PRON]
+1	koː	koː	ADV	_	_	2	mod	_	AlignBegin=9000|AlignEnd=9050|GE=even|Gloss=even|nWord=1|RX=[ADV]
+2	dakàm	dakàː	VERB	_	_	10	dislocated@top	_	AlignBegin=9050|AlignEnd=9100|GE=[pound].[Nmlz].[Masc].[Def]|Gloss=pound.Nmlz.Masc.Def|nWord=2|RX=[VERB]
+3	maː	maː	TopPART	_	_	2	discourse@top	_	AlignBegin=9100|AlignEnd=9150|GE=self/too|Gloss=self/too|nWord=3|RX=[TOPPART]
+4	,	,	PUNCT	_	_	2	punct	_	AlignBegin=9150|AlignEnd=9200|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	koːmiː	koːmiː	PRON	_	_	6	det	_	AlignBegin=9200|AlignEnd=9250|GE=anything|Gloss=anything|nWord=5|RX=[PRON]
 6-7	ƙarhim	_	_	_	_	_	_	_	_
-6	ƙarhi	ƙarhiː	NOUN	_	_	_	_	_	AlignBegin=9250|AlignEnd=9275|GE=[strength].[Masc]|Gloss=strength.Masc|nWord=6|RX=[NOUN]
-7	-m	-n	PART	_	_	_	_	_	AlignBegin=9275|AlignEnd=9300|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
-8	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=9300|AlignEnd=9350|GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	AlignBegin=9350|AlignEnd=9400|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-10	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=9400|AlignEnd=9450|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=9|RX=[AUX]
-11	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=9450|AlignEnd=9500|GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]
-12	dakè	dakèː	VERB	_	_	_	_	_	AlignBegin=9500|AlignEnd=9550|GE=pound|Gloss=pound|nWord=11|RX=[VERB]
+6	ƙarhi	ƙarhiː	NOUN	_	_	10	mod	_	AlignBegin=9250|AlignEnd=9275|GE=[strength].[Masc]|Gloss=strength.Masc|nWord=6|RX=[NOUN]
+7	-m	-n	PART	_	_	6	mod/m	_	AlignBegin=9275|AlignEnd=9300|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
+8	mùtun	mùtun	NOUN	_	_	7	comp:obj	_	AlignBegin=9300|AlignEnd=9350|GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
+9	,	,	PUNCT	_	_	6	punct	_	AlignBegin=9350|AlignEnd=9400|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+10	bâːshi	bâːshi	AUX	_	_	0	root	_	AlignBegin=9400|AlignEnd=9450|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=9|RX=[AUX]
+11	iyà	iyàː	VERB	_	_	10	comp:aux	_	AlignBegin=9450|AlignEnd=9500|GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]
+12	dakè	dakèː	VERB	_	_	11	comp:obj	_	AlignBegin=9500|AlignEnd=9550|GE=pound|Gloss=pound|nWord=11|RX=[VERB]
 13-14	ɗiyan	_	_	_	_	_	_	_	_
-13	ɗiya	ɗiyaː	NOUN	_	_	_	_	_	AlignBegin=9550|AlignEnd=9575|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=12|RX=[NOUN]
-14	-n	-n	PART	_	_	_	_	_	AlignBegin=9575|AlignEnd=9600|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=12|RX=[PART]
-15	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	_	_	_	AlignBegin=9600|AlignEnd=9650|GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=13|RX=[NOUN]
-16	gà	gà	ADP	_	_	_	_	_	AlignBegin=9650|AlignEnd=9700|GE=at|Gloss=at|nWord=14|RX=[ADP]
-17	inìː	inìː	NOUN	_	_	_	_	_	AlignBegin=9700|AlignEnd=9750|GE=[day].[Masc]|Gloss=day.Masc|nWord=15|RX=[NOUN]
-18	gùdaː	gùdaː	NUM	_	_	_	_	_	AlignBegin=9750|AlignEnd=9800|GE=one|Gloss=one|nWord=16|RX=[NUM]
+13	ɗiya	ɗiyaː	NOUN	_	_	12	comp:obj	_	AlignBegin=9550|AlignEnd=9575|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=12|RX=[NOUN]
+14	-n	-n	PART	_	_	13	mod/m	_	AlignBegin=9575|AlignEnd=9600|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=12|RX=[PART]
+15	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	14	comp:obj	_	AlignBegin=9600|AlignEnd=9650|GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=13|RX=[NOUN]
+16	gà	gà	ADP	_	_	12	comp:obl	_	AlignBegin=9650|AlignEnd=9700|GE=at|Gloss=at|nWord=14|RX=[ADP]
+17	inìː	inìː	NOUN	_	_	16	comp:obj	_	AlignBegin=9700|AlignEnd=9750|GE=[day].[Masc]|Gloss=day.Masc|nWord=15|RX=[NOUN]
+18	gùdaː	gùdaː	NUM	_	_	17	mod	_	AlignBegin=9750|AlignEnd=9800|GE=one|Gloss=one|nWord=16|RX=[NUM]
 19	,	,	PUNCT	_	_	_	_	_	AlignBegin=9800|AlignEnd=9850|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-20	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=9850|AlignEnd=9900|GE=because|Gloss=because|nWord=18|RX=[SCONJ]
+20	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	AlignBegin=9850|AlignEnd=9900|GE=because|Gloss=because|nWord=18|RX=[SCONJ]
 21-23	taurinsù	_	_	_	_	_	_	_	_
-21	tauri	tauriː	NOUN	_	_	_	_	_	AlignBegin=9900|AlignEnd=9917|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=19|RX=[NOUN]
-22	-n	-n	PART	_	_	_	_	_	AlignBegin=9917|AlignEnd=9934|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=19|RX=[PART]
-23	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=9934|AlignEnd=9950|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=19|RX=[PRON]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=9950|AlignEnd=10000|Gloss=.|nWord=20|RX=[PUNCT]
+21	tauri	tauriː	NOUN	_	_	20	comp:obj	_	AlignBegin=9900|AlignEnd=9917|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=19|RX=[NOUN]
+22	-n	-n	PART	_	_	21	mod/m	_	AlignBegin=9917|AlignEnd=9934|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=19|RX=[PART]
+23	-sù	-sù	PRON	_	_	22	comp/m	_	AlignBegin=9934|AlignEnd=9950|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=19|RX=[PRON]
+24	.	.	PUNCT	_	_	10	punct	_	AlignBegin=9950|AlignEnd=10000|Gloss=.|nWord=20|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_011-011
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_011-011_1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 10000, 11000
-# text = in ankà sàːmu ɗiyan ƙòːdagòː, sai à ajèː, à sàːmu ɗiyan s'aːmiyaː, wa’àndà sunkà buːshèː, sunkà yi tauriː, sai à ajèː.
-# text_en = If you find dum palm seeds, you keep them. ## If you find tamarind seeds that have dried and become tough, you keep them.
-# text_orth = ’in ’ankà sàamu ɗiyan ƙòodagòo, sai ’à ’ajèe, ’à sàamu ɗiyan s’aamiyaa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=10000|AlignEnd=10037|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=10037|AlignEnd=10074|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
-3	sàːmu	saːmùː	VERB	_	_	_	_	_	AlignBegin=10074|AlignEnd=10111|GE=get|Gloss=get|nWord=3|RX=[VERB]
-4-5	ɗiyan	_	_	_	_	_	_	_	_
-4	ɗiya	ɗiyaː	NOUN	_	_	_	_	_	AlignBegin=10111|AlignEnd=10129|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=4|RX=[NOUN]
-5	-n	-n	PART	_	_	_	_	_	AlignBegin=10129|AlignEnd=10148|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
-6	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	_	_	_	AlignBegin=10148|AlignEnd=10185|GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=5|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	AlignBegin=10185|AlignEnd=10222|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-8	sai	sai	ADV	_	_	_	_	_	AlignBegin=10222|AlignEnd=10259|GE=then|Gloss=then|nWord=7|RX=[ADV]
-9	à	à	AUX	_	_	_	_	_	AlignBegin=10259|AlignEnd=10296|GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
-10	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=10296|AlignEnd=10333|GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
-11	,	,	PUNCT	_	_	_	_	_	AlignBegin=10333|AlignEnd=10370|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-12	à	à	AUX	_	_	_	_	_	AlignBegin=10370|AlignEnd=10407|GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
-13	sàːmu	saːmùː	VERB	_	_	_	_	_	AlignBegin=10407|AlignEnd=10444|GE=get|Gloss=get|nWord=12|RX=[VERB]
-14-15	ɗiyan	_	_	_	_	_	_	_	_
-14	ɗiya	ɗiyaː	NOUN	_	_	_	_	_	AlignBegin=10444|AlignEnd=10462|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=13|RX=[NOUN]
-15	-n	-n	PART	_	_	_	_	_	AlignBegin=10462|AlignEnd=10481|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=13|RX=[PART]
-16	s'aːmiyaː	s'aːmiyaː	NOUN	_	_	_	_	_	AlignBegin=10481|AlignEnd=10518|GE=[tamarind].[Fem]|Gloss=tamarind.Fem|nWord=14|RX=[NOUN]
-17	,	,	PUNCT	_	_	_	_	_	AlignBegin=10518|AlignEnd=10555|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-18	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=10555|AlignEnd=10592|GE=[who].[Plur]|Gloss=who.Plur|nWord=16|RX=[PRON]
-19	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=10592|AlignEnd=10629|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=17|RX=[AUX]
-20	buːshèː	buːshèː	BERB	_	_	_	_	_	AlignBegin=10629|AlignEnd=10666|GE=dry|Gloss=dry|nWord=18|RX=[BERB]
-21	,	,	PUNCT	_	_	_	_	_	AlignBegin=10666|AlignEnd=10703|GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-22	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=10703|AlignEnd=10740|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=20|RX=[AUX]
-23	yi	yi	VERB	_	_	_	_	_	AlignBegin=10740|AlignEnd=10777|GE=do|Gloss=do|nWord=21|RX=[VERB]
-24	tauriː	tauriː	NOUN	_	_	_	_	_	AlignBegin=10777|AlignEnd=10814|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=22|RX=[NOUN]
-25	,	,	PUNCT	_	_	_	_	_	AlignBegin=10814|AlignEnd=10851|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-26	sai	sai	ADV	_	_	_	_	_	AlignBegin=10851|AlignEnd=10888|GE=then|Gloss=then|nWord=24|RX=[ADV]
-27	à	à	AUX	_	_	_	_	_	AlignBegin=10888|AlignEnd=10925|GE=[4].[Aor]|Gloss=4.Aor|nWord=25|RX=[AUX]
-28	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=10925|AlignEnd=10962|GE=put_aside|Gloss=put_aside|nWord=26|RX=[VERB]
-29	.	.	PUNCT	_	_	_	_	_	AlignBegin=10962|AlignEnd=11000|Gloss=.|nWord=27|RX=[PUNCT]
+# text = in ankà sàːmu ɗiya -n ƙòːdagòː , sai à ajèː .
+# text_en = If you find dum palm seeds, you keep them.
+# text_orth = ’in ’ankà sàamu ɗiyan ƙòodagòo, sai ’à ’ajèe.
+1	in	in	SCONJ	_	_	9	mod	_	AlignBegin=10000|AlignEnd=10037|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=10037|AlignEnd=10074|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	AlignBegin=10074|AlignEnd=10111|GE=get|Gloss=get|nWord=3|RX=[VERB]
+4	ɗiya	ɗiyaː	NOUN	_	_	3	comp:obj	_	AlignBegin=10111|AlignEnd=10129|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=4|RX=[NOUN]
+5	-n	-n	PART	_	_	4	mod/m	_	AlignBegin=10129|AlignEnd=10148|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
+6	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	5	comp:obj	_	AlignBegin=10148|AlignEnd=10185|GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=5|RX=[NOUN]
+7	,	,	PUNCT	_	_	1	punct	_	AlignBegin=10185|AlignEnd=10222|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+8	sai	sai	ADV	_	_	9	mod	_	AlignBegin=10222|AlignEnd=10259|GE=then|Gloss=then|nWord=7|RX=[ADV]
+9	à	à	AUX	_	_	0	root	_	AlignBegin=10259|AlignEnd=10296|GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
+10	ajèː	ajèː	VERB	_	_	9	comp:aux	_	AlignBegin=10296|AlignEnd=10333|GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
+11	.	.	PUNCT	_	_	9	punct	_	AlignBegin=10333|AlignEnd=10370|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_011-011_2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
+# sent_timecode = 10000, 11000
+# text = à sàːmu ɗiya -n s'aːmiyaː , wa’àndà sunkà buːshèː , sunkà yi tauriː , sai à ajèː .
+# text_en = If you find tamarind seeds that have dried and become tough, you keep them.
+# text_orth = ’à sàamu ɗiyan s’aamiyaa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
+1	à	à	AUX	_	_	16	mod	_	AlignBegin=10370|AlignEnd=10407|GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
+2	sàːmu	saːmùː	VERB	_	_	1	comp:obj	_	AlignBegin=10407|AlignEnd=10444|GE=get|Gloss=get|nWord=12|RX=[VERB]
+3	ɗiya	ɗiyaː	NOUN	_	_	2	comp:obj	_	AlignBegin=10444|AlignEnd=10462|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=13|RX=[NOUN]
+4	-n	-n	PART	_	_	3	mod/m	_	AlignBegin=10462|AlignEnd=10481|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=13|RX=[PART]
+5	s'aːmiyaː	s'aːmiyaː	NOUN	_	_	4	comp:obj	_	AlignBegin=10481|AlignEnd=10518|GE=[tamarind].[Fem]|Gloss=tamarind.Fem|nWord=14|RX=[NOUN]
+6	,	,	PUNCT	_	_	8	punct	_	AlignBegin=10518|AlignEnd=10555|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+7	wa’àndà	wa’àndà	PRON	_	_	8	subj	_	AlignBegin=10555|AlignEnd=10592|GE=[who].[Plur]|Gloss=who.Plur|nWord=16|RX=[PRON]
+8	sunkà	sunkà	AUX	_	_	3	mod@relcl	_	AlignBegin=10592|AlignEnd=10629|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=17|RX=[AUX]
+9	buːshèː	buːshèː	BERB	_	_	8	comp:aux	_	AlignBegin=10629|AlignEnd=10666|GE=dry|Gloss=dry|nWord=18|RX=[BERB]
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=10666|AlignEnd=10703|GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
+11	sunkà	sunkà	AUX	_	_	8	conj:svc	_	AlignBegin=10703|AlignEnd=10740|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=20|RX=[AUX]
+12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=10740|AlignEnd=10777|GE=do|Gloss=do|nWord=21|RX=[VERB]
+13	tauriː	tauriː	NOUN	_	_	12	comp:pred	_	AlignBegin=10777|AlignEnd=10814|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=22|RX=[NOUN]
+14	,	,	PUNCT	_	_	1	punct	_	AlignBegin=10814|AlignEnd=10851|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+15	sai	sai	ADV	_	_	16	mod	_	AlignBegin=10851|AlignEnd=10888|GE=then|Gloss=then|nWord=24|RX=[ADV]
+16	à	à	AUX	_	_	0	root	_	AlignBegin=10888|AlignEnd=10925|GE=[4].[Aor]|Gloss=4.Aor|nWord=25|RX=[AUX]
+17	ajèː	ajèː	VERB	_	_	16	comp:aux	_	AlignBegin=10925|AlignEnd=10962|GE=put_aside|Gloss=put_aside|nWord=26|RX=[VERB]
+18	.	.	PUNCT	_	_	16	punct	_	AlignBegin=10962|AlignEnd=11000|Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_012-012
+# text = à sàːmu ɗiyan kanyàː, wa’àndà sunkà buːshèː, sunkà yi tauriː, sai à ajèː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 11000, 12000
-# text = à sàːmu ɗiyan kanyàː, wa’àndà sunkà buːshèː, sunkà yi tauriː, sai à ajèː.
-# text_en = If you find ebony tree seeds that have dried and become tough,you keep them.
+# text_en = If you find ebony tree seeds that have dried and become tough, you keep them.
 # text_orth = ’à sàamu ɗiyan kanyàa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
-1	à	à	AUX	_	_	_	_	_	AlignBegin=11000|AlignEnd=11059|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
-2	sàːmu	saːmùː	VERB	_	_	_	_	_	AlignBegin=11059|AlignEnd=11118|GE=get|Gloss=get|nWord=2|RX=[VERB]
+1	à	à	AUX	_	_	16	mod	_	AlignBegin=11000|AlignEnd=11059|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
+2	sàːmu	saːmùː	VERB	_	_	1	comp:aux	_	AlignBegin=11059|AlignEnd=11118|GE=get|Gloss=get|nWord=2|RX=[VERB]
 3-4	ɗiyan	_	_	_	_	_	_	_	_
-3	ɗiya	ɗiyaː	NOUN	_	_	_	_	_	AlignBegin=11118|AlignEnd=11148|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=3|RX=[NOUN]
-4	-n	-n	PART	_	_	_	_	_	AlignBegin=11148|AlignEnd=11177|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
-5	kanyàː	kanyàː	NOUN	_	_	_	_	_	AlignBegin=11177|AlignEnd=11236|GE=[ebony_tree].[Fem]|Gloss=ebony_tree.Fem|nWord=4|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	AlignBegin=11236|AlignEnd=11295|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=11295|AlignEnd=11354|GE=[who].[Plur]|Gloss=who.Plur|nWord=6|RX=[PRON]
-8	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=11354|AlignEnd=11413|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
-9	buːshèː	buːshèː	BERB	_	_	_	_	_	AlignBegin=11413|AlignEnd=11472|GE=dry|Gloss=dry|nWord=8|RX=[BERB]
-10	,	,	PUNCT	_	_	_	_	_	AlignBegin=11472|AlignEnd=11531|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=11531|AlignEnd=11590|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=10|RX=[AUX]
-12	yi	yi	VERB	_	_	_	_	_	AlignBegin=11590|AlignEnd=11649|GE=do|Gloss=do|nWord=11|RX=[VERB]
-13	tauriː	tauriː	NOUN	_	_	_	_	_	AlignBegin=11649|AlignEnd=11708|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=12|RX=[NOUN]
-14	,	,	PUNCT	_	_	_	_	_	AlignBegin=11708|AlignEnd=11767|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	sai	sai	ADV	_	_	_	_	_	AlignBegin=11767|AlignEnd=11826|GE=then|Gloss=then|nWord=14|RX=[ADV]
-16	à	à	AUX	_	_	_	_	_	AlignBegin=11826|AlignEnd=11885|GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
-17	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=11885|AlignEnd=11944|GE=put_aside|Gloss=put_aside|nWord=16|RX=[VERB]
-18	.	.	PUNCT	_	_	_	_	_	AlignBegin=11944|AlignEnd=12000|Gloss=.|nWord=17|RX=[PUNCT]
+3	ɗiya	ɗiyaː	NOUN	_	_	2	comp:obj	_	AlignBegin=11118|AlignEnd=11148|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=3|RX=[NOUN]
+4	-n	-n	PART	_	_	3	mod/m	_	AlignBegin=11148|AlignEnd=11177|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
+5	kanyàː	kanyàː	NOUN	_	_	4	comp:obj	_	AlignBegin=11177|AlignEnd=11236|GE=[ebony_tree].[Fem]|Gloss=ebony_tree.Fem|nWord=4|RX=[NOUN]
+6	,	,	PUNCT	_	_	8	punct	_	AlignBegin=11236|AlignEnd=11295|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+7	wa’àndà	wa’àndà	PRON	_	_	8	subj	_	AlignBegin=11295|AlignEnd=11354|GE=[who].[Plur]|Gloss=who.Plur|nWord=6|RX=[PRON]
+8	sunkà	sunkà	AUX	_	_	3	mod@relcl	_	AlignBegin=11354|AlignEnd=11413|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
+9	buːshèː	buːshèː	BERB	_	_	8	comp:aux	_	AlignBegin=11413|AlignEnd=11472|GE=dry|Gloss=dry|nWord=8|RX=[BERB]
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=11472|AlignEnd=11531|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+11	sunkà	sunkà	AUX	_	_	8	conj:svc	_	AlignBegin=11531|AlignEnd=11590|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=10|RX=[AUX]
+12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=11590|AlignEnd=11649|GE=do|Gloss=do|nWord=11|RX=[VERB]
+13	tauriː	tauriː	NOUN	_	_	12	comp:pred	_	AlignBegin=11649|AlignEnd=11708|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=12|RX=[NOUN]
+14	,	,	PUNCT	_	_	1	punct	_	AlignBegin=11708|AlignEnd=11767|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+15	sai	sai	ADV	_	_	16	mod	_	AlignBegin=11767|AlignEnd=11826|GE=then|Gloss=then|nWord=14|RX=[ADV]
+16	à	à	AUX	_	_	0	root	_	AlignBegin=11826|AlignEnd=11885|GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
+17	ajèː	ajèː	VERB	_	_	16	comp:aux	_	AlignBegin=11885|AlignEnd=11944|GE=put_aside|Gloss=put_aside|nWord=16|RX=[VERB]
+18	.	.	PUNCT	_	_	16	punct	_	AlignBegin=11944|AlignEnd=12000|Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_013-013
 # speaker_id = *
@@ -467,82 +473,96 @@
 # text = à nèːmi àːjibìrma.
 # text_en = You look for 'ajibirma'.
 # text_orth = ’à nèemi ’àajibìᵲma.
-1	à	à	AUX	_	_	_	_	_	AlignBegin=12000|AlignEnd=12250|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
-2	nèːmi	nèːmaː	VERB	_	_	_	_	_	AlignBegin=12250|AlignEnd=12500|GE=look_for|Gloss=look_for|nWord=2|RX=[VERB]
-3	àːjibìrma	àːjibìrma	NOUN	_	_	_	_	_	AlignBegin=12500|AlignEnd=12750|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
-4	.	.	PUNCT	_	_	_	_	_	AlignBegin=12750|AlignEnd=13000|Gloss=.|nWord=4|RX=[PUNCT]
+1	à	à	AUX	_	_	0	root	_	AlignBegin=12000|AlignEnd=12250|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
+2	nèːmi	nèːmaː	VERB	_	_	1	comp:aux	_	AlignBegin=12250|AlignEnd=12500|GE=look_for|Gloss=look_for|nWord=2|RX=[VERB]
+3	àːjibìrma	àːjibìrma	NOUN	_	_	2	comp:obj	_	AlignBegin=12500|AlignEnd=12750|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
+4	.	.	PUNCT	_	_	1	punct	_	AlignBegin=12750|AlignEnd=13000|Gloss=.|nWord=4|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_014-014
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_014-014_1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 13000, 14000
-# text = shiː àːjibìrma, iccèː neː. koː ɗiyaːnai akà aikìː dà suː ? koː saːyèː ? koː iccèː ? koː kunnài ? koː ɓaːwaː ? niː bàn sanìː ba.
-# text_en = 'Ajibirma', it's a tree. Do you use its seeds? Its roots? Its wood? Its leaves? Its bark? Me, I don't know.
-# text_orth = šii ’àajibìᵲma, ’iccèe nee # koo ɗiyaanai ’a kà ’aikìi dà suu ? koo saayèe ? koo ’iccèe ? koo kunnài ? koo ɓaawaa ? nii bàn sanìi ba.
-1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=13000|AlignEnd=13033|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	àːjibìrma	àːjibìrma	NOUN	_	_	_	_	_	AlignBegin=13033|AlignEnd=13066|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=2|RX=[NOUN]
-3	,	,	PUNCT	_	_	_	_	_	AlignBegin=13066|AlignEnd=13099|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	iccèː	iccèː	NOUN	_	_	_	_	_	AlignBegin=13099|AlignEnd=13132|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=4|RX=[NOUN]
-5	neː	neː	IdPART	_	_	_	_	_	AlignBegin=13132|AlignEnd=13165|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=5|RX=[IDPART]
-6	.	.	PUNCT	_	_	_	_	_	AlignBegin=13165|AlignEnd=13198|Gloss=.|nWord=6|RX=[PUNCT]
-7	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=13198|AlignEnd=13231|GE=or|Gloss=or|nWord=7|RX=[CCONJ]
-8-10	ɗiyaːnai	_	_	_	_	_	_	_	_
-8	ɗiyaː	ɗiyaː	NOUN	_	_	_	_	_	AlignBegin=13231|AlignEnd=13242|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=8|RX=[NOUN]
-9	-n	-n	PART	_	_	_	_	_	AlignBegin=13242|AlignEnd=13253|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
-10	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=13253|AlignEnd=13264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]
-11	akà	akà	AUX	_	_	_	_	_	AlignBegin=13264|AlignEnd=13297|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=9|RX=[AUX]
-12	aikìː	aikìː	NOUN	_	_	_	_	_	AlignBegin=13297|AlignEnd=13330|GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]
-13	dà	dà	ADP	_	_	_	_	_	AlignBegin=13330|AlignEnd=13363|GE=with|Gloss=with|nWord=11|RX=[ADP]
-14	suː	suː	PRON	_	_	_	_	_	AlignBegin=13363|AlignEnd=13396|GE=[3Plur]|Gloss=3Plur|nWord=12|RX=[PRON]
-15	?	?	PUNCT	_	_	_	_	_	AlignBegin=13396|AlignEnd=13429|GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
-16	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=13429|AlignEnd=13462|GE=or|Gloss=or|nWord=14|RX=[CCONJ]
-17	saːyèː	saːyèː	NOUN	_	_	_	_	_	AlignBegin=13462|AlignEnd=13495|GE=[root].[Masc]|Gloss=root.Masc|nWord=15|RX=[NOUN]
-18	?	?	PUNCT	_	_	_	_	_	AlignBegin=13495|AlignEnd=13528|GE=[?]|Gloss=?|nWord=16|RX=[PUNCT]
-19	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=13528|AlignEnd=13561|GE=or|Gloss=or|nWord=17|RX=[CCONJ]
-20	iccèː	iccèː	NOUN	_	_	_	_	_	AlignBegin=13561|AlignEnd=13594|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=18|RX=[NOUN]
-21	?	?	PUNCT	_	_	_	_	_	AlignBegin=13594|AlignEnd=13627|GE=[?]|Gloss=?|nWord=19|RX=[PUNCT]
-22	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=13627|AlignEnd=13660|GE=or|Gloss=or|nWord=20|RX=[CCONJ]
-23	kunnài	kunnài	NOUN	_	_	_	_	_	AlignBegin=13660|AlignEnd=13693|GE=[leaf].[Plur]|Gloss=leaf.Plur|nWord=21|RX=[NOUN]
-24	?	?	PUNCT	_	_	_	_	_	AlignBegin=13693|AlignEnd=13726|GE=[?]|Gloss=?|nWord=22|RX=[PUNCT]
-25	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=13726|AlignEnd=13759|GE=or|Gloss=or|nWord=23|RX=[CCONJ]
-26	ɓaːwaː	ɓaːwaː	NOUN	_	_	_	_	_	AlignBegin=13759|AlignEnd=13792|GE=[bark].[Fem]|Gloss=bark.Fem|nWord=24|RX=[NOUN]
-27	?	?	PUNCT	_	_	_	_	_	AlignBegin=13792|AlignEnd=13825|GE=[?]|Gloss=?|nWord=25|RX=[PUNCT]
-28	niː	niː	PRON	_	_	_	_	_	AlignBegin=13825|AlignEnd=13858|GE=[1Sing]|Gloss=1Sing|nWord=26|RX=[PRON]
-29	bàn	bàn	AUX	_	_	_	_	_	AlignBegin=13858|AlignEnd=13891|GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.Perf.Neg|nWord=27|RX=[AUX]
-30	sanìː	sanìː	VERB	_	_	_	_	_	AlignBegin=13891|AlignEnd=13924|GE=know|Gloss=know|nWord=28|RX=[VERB]
-31	ba	ba	PART	_	_	_	_	_	AlignBegin=13924|AlignEnd=13957|GE=[Neg]|Gloss=Neg|nWord=29|RX=[PART]
-32	.	.	PUNCT	_	_	_	_	_	AlignBegin=13957|AlignEnd=14000|Gloss=.|nWord=30|RX=[PUNCT]
+# text = shiː àːjibìrma , iccèː neː .
+# text_en = 'Ajibirma', it's a tree.
+# text_orth = šii ’àajibìᵲma, ’iccèe nee.
+1	shiː	shiː	PRON	_	_	5	subj	_	AlignBegin=13000|AlignEnd=13033|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
+2	àːjibìrma	àːjibìrma	NOUN	_	_	1	comp:appos	_	AlignBegin=13033|AlignEnd=13066|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=2|RX=[NOUN]
+3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=13066|AlignEnd=13099|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
+4	iccèː	iccèː	NOUN	_	_	5	comp:pred	_	AlignBegin=13099|AlignEnd=13132|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=4|RX=[NOUN]
+5	neː	neː	IdPART	_	_	0	root	_	AlignBegin=13132|AlignEnd=13165|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=5|RX=[IDPART]
+6	.	.	PUNCT	_	_	5	punct	_	AlignBegin=13165|AlignEnd=13198|Gloss=.|nWord=6|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_014-014_2'
+# text = koː ɗiyaː -n -ai akà aikìː dà suː ? koː saːyèː ? koː iccèː ? koː kunnài ? koː ɓaːwaː ?
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
+# sent_timecode = 13000, 14000
+# text_en = Do you use its seeds? Its roots? Its wood? Its leaves? Its bark?
+# text_orth = koo ɗiyaanai ’a kà ’aikìi dà suu ? koo saayèe ? koo ’iccèe ? koo kunnài ? koo ɓaawaa ?
+1	koː	koː	CCONJ	_	_	2	cc@preconj	_	AlignBegin=13198|AlignEnd=13231|GE=or|Gloss=or|nWord=7|RX=[CCONJ]
+2	ɗiyaː	ɗiyaː	NOUN	_	_	0	root	_	AlignBegin=13231|AlignEnd=13242|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=8|RX=[NOUN]
+3	-n	-n	PART	_	_	2	mod/m	_	AlignBegin=13242|AlignEnd=13253|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
+4	-ai	-ai	PRON	_	_	3	comp:obj	_	AlignBegin=13253|AlignEnd=13264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]
+5	akà	akà	AUX	_	_	2	comp:cleft	_	AlignBegin=13264|AlignEnd=13297|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=9|RX=[AUX]
+6	aikìː	aikìː	NOUN	_	_	5	comp:aux	_	AlignBegin=13297|AlignEnd=13330|GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]
+7	dà	dà	ADP	_	_	6	comp:obl	_	AlignBegin=13330|AlignEnd=13363|GE=with|Gloss=with|nWord=11|RX=[ADP]
+8	suː	suː	PRON	_	_	7	comp:obj	_	AlignBegin=13363|AlignEnd=13396|GE=[3Plur]|Gloss=3Plur|nWord=12|RX=[PRON]
+9	?	?	PUNCT	_	_	11	_	_	AlignBegin=13396|AlignEnd=13429|GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
+10	koː	koː	CCONJ	_	_	11	cc	_	AlignBegin=13429|AlignEnd=13462|GE=or|Gloss=or|nWord=14|RX=[CCONJ]
+11	saːyèː	saːyèː	NOUN	_	_	2	conj:coord	_	AlignBegin=13462|AlignEnd=13495|GE=[root].[Masc]|Gloss=root.Masc|nWord=15|RX=[NOUN]
+12	?	?	PUNCT	_	_	14	punct	_	AlignBegin=13495|AlignEnd=13528|GE=[?]|Gloss=?|nWord=16|RX=[PUNCT]
+13	koː	koː	CCONJ	_	_	14	cc	_	AlignBegin=13528|AlignEnd=13561|GE=or|Gloss=or|nWord=17|RX=[CCONJ]
+14	iccèː	iccèː	NOUN	_	_	11	conj:coord	_	AlignBegin=13561|AlignEnd=13594|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=18|RX=[NOUN]
+15	?	?	PUNCT	_	_	17	punct	_	AlignBegin=13594|AlignEnd=13627|GE=[?]|Gloss=?|nWord=19|RX=[PUNCT]
+16	koː	koː	CCONJ	_	_	17	cc	_	AlignBegin=13627|AlignEnd=13660|GE=or|Gloss=or|nWord=20|RX=[CCONJ]
+17	kunnài	kunnài	NOUN	_	_	14	conj:coord	_	AlignBegin=13660|AlignEnd=13693|GE=[leaf].[Plur]|Gloss=leaf.Plur|nWord=21|RX=[NOUN]
+18	?	?	PUNCT	_	_	20	punct	_	AlignBegin=13693|AlignEnd=13726|GE=[?]|Gloss=?|nWord=22|RX=[PUNCT]
+19	koː	koː	CCONJ	_	_	20	cc	_	AlignBegin=13726|AlignEnd=13759|GE=or|Gloss=or|nWord=23|RX=[CCONJ]
+20	ɓaːwaː	ɓaːwaː	NOUN	_	_	17	conj:coord	_	AlignBegin=13759|AlignEnd=13792|GE=[bark].[Fem]|Gloss=bark.Fem|nWord=24|RX=[NOUN]
+21	?	?	PUNCT	_	_	2	punct	_	AlignBegin=13792|AlignEnd=13825|GE=[?]|Gloss=?|nWord=25|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_014-014_3
+# text = niː bàn sanìː ba .
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
+# sent_timecode = 13000, 14000
+# text_en = Me, I don't know.
+# text_orth = nii bàn sanìi ba.
+1	niː	niː	PRON	_	_	2	subj	_	AlignBegin=13825|AlignEnd=13858|GE=[1Sing]|Gloss=1Sing|nWord=26|RX=[PRON]
+2	bàn	bàn	AUX	_	_	0	root	_	AlignBegin=13858|AlignEnd=13891|GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.Perf.Neg|nWord=27|RX=[AUX]
+3	sanìː	sanìː	VERB	_	_	2	comp:aux	_	AlignBegin=13891|AlignEnd=13924|GE=know|Gloss=know|nWord=28|RX=[VERB]
+4	ba	ba	PART	_	_	2	mod	_	AlignBegin=13924|AlignEnd=13957|GE=[Neg]|Gloss=Neg|nWord=29|RX=[PART]
+5	.	.	PUNCT	_	_	2	punct	_	AlignBegin=13957|AlignEnd=14000|Gloss=.|nWord=30|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_015-015
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 14000, 15000
-# text = àmmaː shiː àːjibìrma, duy yawancin loːkàciː, màːsu aikìn tauri, bâːsu su aikìː sai dà shiː.
+# text = àmmaː shiː àːjibìrma , duy yawancin loːkàciː , màːsu aikìn tauri , bâːsu aikìː sai dà shiː .
 # text_en = But 'ajibirma', most of the time, those who prepare toughness medicine, they must use it.
 # text_orth = ’àmmaa šii ’àajibìᵲma, duy yawancin lookàcii, màasu ’aikìn tauᵲi, baà su ’aikìi sai dà šii.
-1	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=14000|AlignEnd=14053|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=14053|AlignEnd=14106|GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
-3	àːjibìrma	àːjibìrma	NOUN	_	_	_	_	_	AlignBegin=14106|AlignEnd=14159|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
-4	,	,	PUNCT	_	_	_	_	_	AlignBegin=14159|AlignEnd=14212|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	duy	duk	DET	_	_	_	_	_	AlignBegin=14212|AlignEnd=14265|GE=all|Gloss=all|nWord=5|RX=[DET]
+1	àmmaː	àmmaː	CCONJ	_	_	15	discourse	_	AlignBegin=14000|AlignEnd=14053|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
+2	shiː	shiː	PRON	_	_	15	dislocated@comp	_	AlignBegin=14053|AlignEnd=14106|GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
+3	àːjibìrma	àːjibìrma	NOUN	_	_	2	conj:appos	_	AlignBegin=14106|AlignEnd=14159|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
+4	,	,	PUNCT	_	_	2	punct	_	AlignBegin=14159|AlignEnd=14212|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	duy	duk	DET	_	_	6	det	_	AlignBegin=14212|AlignEnd=14265|GE=all|Gloss=all|nWord=5|RX=[DET]
 6-7	yawancin	_	_	_	_	_	_	_	_
-6	yawanci	yawanciː	NOUN	_	_	_	_	_	AlignBegin=14265|AlignEnd=14291|GE=[majority].[Masc]|Gloss=majority.Masc|nWord=6|RX=[NOUN]
-7	-n	-n	PART	_	_	_	_	_	AlignBegin=14291|AlignEnd=14318|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
-8	loːkàciː	loːkàciː	NOUN	_	_	_	_	_	AlignBegin=14318|AlignEnd=14371|GE=[time].[Masc]|Gloss=time.Masc|nWord=7|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	AlignBegin=14371|AlignEnd=14424|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-10	màːsu	màːsu	PART	_	_	_	_	_	AlignBegin=14424|AlignEnd=14477|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=9|RX=[PART]
+6	yawanci	yawanciː	NOUN	_	_	15	mod	_	AlignBegin=14265|AlignEnd=14291|GE=[majority].[Masc]|Gloss=majority.Masc|nWord=6|RX=[NOUN]
+7	-n	-n	PART	_	_	6	mod/m	_	AlignBegin=14291|AlignEnd=14318|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
+8	loːkàciː	loːkàciː	NOUN	_	_	7	comp:obj	_	AlignBegin=14318|AlignEnd=14371|GE=[time].[Masc]|Gloss=time.Masc|nWord=7|RX=[NOUN]
+9	,	,	PUNCT	_	_	6	punct	_	AlignBegin=14371|AlignEnd=14424|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+10	màːsu	màːsu	PART	_	_	15	dislocated@subj	_	AlignBegin=14424|AlignEnd=14477|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=9|RX=[PART]
 11-12	aikìn	_	_	_	_	_	_	_	_
-11	aikì	aikìː	NOUN	_	_	_	_	_	AlignBegin=14477|AlignEnd=14503|GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]
-12	-n	-n	PART	_	_	_	_	_	AlignBegin=14503|AlignEnd=14530|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
-13	tauri	tauri	NOUN	_	_	_	_	_	AlignBegin=14530|AlignEnd=14583|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=11|RX=[NOUN]
-14	,	,	PUNCT	_	_	_	_	_	AlignBegin=14583|AlignEnd=14636|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-15	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=14636|AlignEnd=14689|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=13|RX=[AUX]
-16	su	su	PRON	_	_	_	_	_	AlignBegin=14689|AlignEnd=14742|GE=[3].[Pl]|Gloss=3.Pl|nWord=14|RX=[PRON]
-17	aikìː	aikìː	NOUN	_	_	_	_	_	AlignBegin=14742|AlignEnd=14795|GE=[work].[Masc]|Gloss=work.Masc|nWord=15|RX=[NOUN]
-18	sai	sai	ADP	_	_	_	_	_	AlignBegin=14795|AlignEnd=14848|GE=except_for|Gloss=except_for|nWord=16|RX=[ADP]
-19	dà	dà	ADP	_	_	_	_	_	AlignBegin=14848|AlignEnd=14901|GE=with|Gloss=with|nWord=17|RX=[ADP]
-20	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=14901|AlignEnd=14954|GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
-21	.	.	PUNCT	_	_	_	_	_	AlignBegin=14954|AlignEnd=15000|Gloss=.|nWord=19|RX=[PUNCT]
+11	aikì	aikìː	NOUN	_	_	10	comp:obj	_	AlignBegin=14477|AlignEnd=14503|GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]
+12	-n	-n	PART	_	_	11	mod/m	_	AlignBegin=14503|AlignEnd=14530|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
+13	tauri	tauri	NOUN	_	_	12	comp:obj	_	AlignBegin=14530|AlignEnd=14583|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=11|RX=[NOUN]
+14	,	,	PUNCT	_	_	10	punct	_	AlignBegin=14583|AlignEnd=14636|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+15	bâːsu	bâːsu	AUX	_	_	0	root	_	AlignBegin=14636|AlignEnd=14689|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=13|RX=[AUX]
+16	aikìː	aikìː	NOUN	_	_	15	comp:aux	_	AlignBegin=14742|AlignEnd=14795|GE=[work].[Masc]|Gloss=work.Masc|nWord=15|RX=[NOUN]
+17	sai	sai	ADP	_	_	15	mod	_	AlignBegin=14795|AlignEnd=14848|GE=except_for|Gloss=except_for|nWord=16|RX=[ADP]
+18	dà	dà	ADP	_	_	17	comp:obj	_	AlignBegin=14848|AlignEnd=14901|GE=with|Gloss=with|nWord=17|RX=[ADP]
+19	shiː	shiː	PRON	_	_	18	comp:obj	_	AlignBegin=14901|AlignEnd=14954|GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
+20	.	.	PUNCT	_	_	15	punct	_	AlignBegin=14954|AlignEnd=15000|Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_016-016
 # speaker_id = *
@@ -551,16 +571,16 @@
 # text = in ankà sàːmeː shì, sai à ajèː shi.
 # text_en = If you find it, you keep it.
 # text_orth = ’in ’ankà sàamee šì, sai ’à ’ajèe ši.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=15000|AlignEnd=15100|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=15100|AlignEnd=15200|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
-3	sàːmeː	saːmùː	VERB	_	_	_	_	_	AlignBegin=15200|AlignEnd=15300|GE=get|Gloss=get|nWord=3|RX=[VERB]
-4	shì	shi	PRON	_	_	_	_	_	AlignBegin=15300|AlignEnd=15400|GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=15400|AlignEnd=15500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	sai	sai	ADV	_	_	_	_	_	AlignBegin=15500|AlignEnd=15600|GE=then|Gloss=then|nWord=6|RX=[ADV]
-7	à	à	AUX	_	_	_	_	_	AlignBegin=15600|AlignEnd=15700|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
-8	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=15700|AlignEnd=15800|GE=put_aside|Gloss=put_aside|nWord=8|RX=[VERB]
-9	shi	shi	PRON	_	_	_	_	_	AlignBegin=15800|AlignEnd=15900|GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-10	.	.	PUNCT	_	_	_	_	_	AlignBegin=15900|AlignEnd=16000|Gloss=.|nWord=10|RX=[PUNCT]
+1	in	in	SCONJ	_	_	7	mod	_	AlignBegin=15000|AlignEnd=15100|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=15100|AlignEnd=15200|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	AlignBegin=15200|AlignEnd=15300|GE=get|Gloss=get|nWord=3|RX=[VERB]
+4	shì	shi	PRON	_	_	3	comp:obj	_	AlignBegin=15300|AlignEnd=15400|GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
+5	,	,	PUNCT	_	_	1	punct	_	AlignBegin=15400|AlignEnd=15500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	sai	sai	ADV	_	_	7	mod	_	AlignBegin=15500|AlignEnd=15600|GE=then|Gloss=then|nWord=6|RX=[ADV]
+7	à	à	AUX	_	_	0	root	_	AlignBegin=15600|AlignEnd=15700|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
+8	ajèː	ajèː	VERB	_	_	7	comp:aux	_	AlignBegin=15700|AlignEnd=15800|GE=put_aside|Gloss=put_aside|nWord=8|RX=[VERB]
+9	shi	shi	PRON	_	_	8	comp:obj	_	AlignBegin=15800|AlignEnd=15900|GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
+10	.	.	PUNCT	_	_	7	punct	_	AlignBegin=15900|AlignEnd=16000|Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_017-017
 # speaker_id = *
@@ -569,17 +589,17 @@
 # text = à sàːmu ɓargon jaːkiː, sai à ajèː.
 # text_en = If you find donkey bone marrow, you keep it.
 # text_orth = ’à sàamu ɓaᵲgon jaakii, sai ’à ’ajèe.
-1	à	à	AUX	_	_	_	_	_	AlignBegin=16000|AlignEnd=16111|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
-2	sàːmu	saːmùː	VERB	_	_	_	_	_	AlignBegin=16111|AlignEnd=16222|GE=get|Gloss=get|nWord=2|RX=[VERB]
+1	à	à	AUX	_	_	8	mod	_	AlignBegin=16000|AlignEnd=16111|GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
+2	sàːmu	saːmùː	VERB	_	_	1	comp:aux	_	AlignBegin=16111|AlignEnd=16222|GE=get|Gloss=get|nWord=2|RX=[VERB]
 3-4	ɓargon	_	_	_	_	_	_	_	_
-3	ɓargo	ɓargoː	NOUN	_	_	_	_	_	AlignBegin=16222|AlignEnd=16278|GE=[bone_marrow].[Masc]|Gloss=bone_marrow.Masc|nWord=3|RX=[NOUN]
-4	-n	-n	PART	_	_	_	_	_	AlignBegin=16278|AlignEnd=16333|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
-5	jaːkiː	jaːkiː	NOUN	_	_	_	_	_	AlignBegin=16333|AlignEnd=16444|GE=[donkey].[Masc]|Gloss=donkey.Masc|nWord=4|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	AlignBegin=16444|AlignEnd=16555|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	sai	sai	ADV	_	_	_	_	_	AlignBegin=16555|AlignEnd=16666|GE=then|Gloss=then|nWord=6|RX=[ADV]
-8	à	à	AUX	_	_	_	_	_	AlignBegin=16666|AlignEnd=16777|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
-9	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=16777|AlignEnd=16888|GE=put_aside|Gloss=put_aside|nWord=8|RX=[VERB]
-10	.	.	PUNCT	_	_	_	_	_	AlignBegin=16888|AlignEnd=17000|Gloss=.|nWord=9|RX=[PUNCT]
+3	ɓargo	ɓargoː	NOUN	_	_	2	comp:obj	_	AlignBegin=16222|AlignEnd=16278|GE=[bone_marrow].[Masc]|Gloss=bone_marrow.Masc|nWord=3|RX=[NOUN]
+4	-n	-n	PART	_	_	3	mod/m	_	AlignBegin=16278|AlignEnd=16333|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
+5	jaːkiː	jaːkiː	NOUN	_	_	4	comp:obj	_	AlignBegin=16333|AlignEnd=16444|GE=[donkey].[Masc]|Gloss=donkey.Masc|nWord=4|RX=[NOUN]
+6	,	,	PUNCT	_	_	1	punct	_	AlignBegin=16444|AlignEnd=16555|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+7	sai	sai	ADV	_	_	8	mod	_	AlignBegin=16555|AlignEnd=16666|GE=then|Gloss=then|nWord=6|RX=[ADV]
+8	à	à	AUX	_	_	0	root	_	AlignBegin=16666|AlignEnd=16777|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
+9	ajèː	ajèː	VERB	_	_	8	comp:aux	_	AlignBegin=16777|AlignEnd=16888|GE=put_aside|Gloss=put_aside|nWord=8|RX=[VERB]
+10	.	.	PUNCT	_	_	8	punct	_	AlignBegin=16888|AlignEnd=17000|Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_018-018
 # speaker_id = *
@@ -588,29 +608,29 @@
 # text = wa’ànnan itaːtuwaː dà munkà zaːnàː, yawancin loːkàciː, suː màːsu aikìn tauri, dà suː sukà aikìː.
 # text_en = Those trees that we named, most of the time, those who make toughness medicines, it's them they use.
 # text_orth = wa’ànnan ’itaatuwaa dà munkà zaanàa, yawancin lookàcii, suu màasu ’aikìn tauᵲi, dà suu su kà ’aikìi.
-1	wa’ànnan	wa’ànnan	DET	_	_	_	_	_	AlignBegin=17000|AlignEnd=17053|GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=1|RX=[DET]
-2	itaːtuwaː	itaːtuwaː	NOUN	_	_	_	_	_	AlignBegin=17053|AlignEnd=17106|GE=[tree].[Plur]|Gloss=tree.Plur|nWord=2|RX=[NOUN]
-3	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=17106|AlignEnd=17159|GE=that|Gloss=that|nWord=3|RX=[SCONJ]
-4	munkà	munkà	AUX	_	_	_	_	_	AlignBegin=17159|AlignEnd=17212|GE=[1Plur].[Perf].[Bkg]|Gloss=1Plur.Perf.Bkg|nWord=4|RX=[AUX]
-5	zaːnàː	zaːnàː	VERB	_	_	_	_	_	AlignBegin=17212|AlignEnd=17265|GE=tell|Gloss=tell|nWord=5|RX=[VERB]
-6	,	,	PUNCT	_	_	_	_	_	AlignBegin=17265|AlignEnd=17318|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+1	wa’ànnan	wa’ànnan	DET	_	_	2	det	_	AlignBegin=17000|AlignEnd=17053|GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=1|RX=[DET]
+2	itaːtuwaː	itaːtuwaː	NOUN	_	_	17	dislocated@comp	_	AlignBegin=17053|AlignEnd=17106|GE=[tree].[Plur]|Gloss=tree.Plur|nWord=2|RX=[NOUN]
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	AlignBegin=17106|AlignEnd=17159|GE=that|Gloss=that|nWord=3|RX=[SCONJ]
+4	munkà	munkà	AUX	_	_	3	comp:obj	_	AlignBegin=17159|AlignEnd=17212|GE=[1Plur].[Perf].[Bkg]|Gloss=1Plur.Perf.Bkg|nWord=4|RX=[AUX]
+5	zaːnàː	zaːnàː	VERB	_	_	4	comp:aux	_	AlignBegin=17212|AlignEnd=17265|GE=tell|Gloss=tell|nWord=5|RX=[VERB]
+6	,	,	PUNCT	_	_	2	punct	_	AlignBegin=17265|AlignEnd=17318|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7-8	yawancin	_	_	_	_	_	_	_	_
-7	yawanci	yawanciː	NOUN	_	_	_	_	_	AlignBegin=17318|AlignEnd=17344|GE=[majority].[Masc]|Gloss=majority.Masc|nWord=7|RX=[NOUN]
-8	-n	-n	PART	_	_	_	_	_	AlignBegin=17344|AlignEnd=17371|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
-9	loːkàciː	loːkàciː	NOUN	_	_	_	_	_	AlignBegin=17371|AlignEnd=17424|GE=[time].[Masc]|Gloss=time.Masc|nWord=8|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	AlignBegin=17424|AlignEnd=17477|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	suː	suː	PRON	_	_	_	_	_	AlignBegin=17477|AlignEnd=17530|GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
-12	màːsu	màːsu	PART	_	_	_	_	_	AlignBegin=17530|AlignEnd=17583|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=11|RX=[PART]
+7	yawanci	yawanciː	NOUN	_	_	17	mod	_	AlignBegin=17318|AlignEnd=17344|GE=[majority].[Masc]|Gloss=majority.Masc|nWord=7|RX=[NOUN]
+8	-n	-n	PART	_	_	7	mod/m	_	AlignBegin=17344|AlignEnd=17371|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
+9	loːkàciː	loːkàciː	NOUN	_	_	8	comp:obj	_	AlignBegin=17371|AlignEnd=17424|GE=[time].[Masc]|Gloss=time.Masc|nWord=8|RX=[NOUN]
+10	,	,	PUNCT	_	_	7	punct	_	AlignBegin=17424|AlignEnd=17477|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+11	suː	suː	PRON	_	_	17	dislocated@subj	_	AlignBegin=17477|AlignEnd=17530|GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
+12	màːsu	màːsu	PART	_	_	11	conj:appos	_	AlignBegin=17530|AlignEnd=17583|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=11|RX=[PART]
 13-14	aikìn	_	_	_	_	_	_	_	_
-13	aikì	aikìː	NOUN	_	_	_	_	_	AlignBegin=17583|AlignEnd=17609|GE=[work].[Masc]|Gloss=work.Masc|nWord=12|RX=[NOUN]
-14	-n	-n	PART	_	_	_	_	_	AlignBegin=17609|AlignEnd=17636|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=12|RX=[PART]
-15	tauri	tauri	NOUN	_	_	_	_	_	AlignBegin=17636|AlignEnd=17689|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=13|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	AlignBegin=17689|AlignEnd=17742|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-17	dà	dà	ADP	_	_	_	_	_	AlignBegin=17742|AlignEnd=17795|GE=with|Gloss=with|nWord=15|RX=[ADP]
-18	suː	suː	PRON	_	_	_	_	_	AlignBegin=17795|AlignEnd=17848|GE=[3Plur]|Gloss=3Plur|nWord=16|RX=[PRON]
-19	sukà	sukà	AUX	_	_	_	_	_	AlignBegin=17848|AlignEnd=17901|GE=[3Plur].[Imp].[Bkg]|Gloss=3Plur.Imp.Bkg|nWord=17|RX=[AUX]
-20	aikìː	aikìː	NOUN	_	_	_	_	_	AlignBegin=17901|AlignEnd=17954|GE=[work].[Masc]|Gloss=work.Masc|nWord=18|RX=[NOUN]
-21	.	.	PUNCT	_	_	_	_	_	AlignBegin=17954|AlignEnd=18000|Gloss=.|nWord=19|RX=[PUNCT]
+13	aikì	aikìː	NOUN	_	_	12	comp:obj	_	AlignBegin=17583|AlignEnd=17609|GE=[work].[Masc]|Gloss=work.Masc|nWord=12|RX=[NOUN]
+14	-n	-n	PART	_	_	13	mod/m	_	AlignBegin=17609|AlignEnd=17636|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=12|RX=[PART]
+15	tauri	tauri	NOUN	_	_	14	comp:obj	_	AlignBegin=17636|AlignEnd=17689|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=13|RX=[NOUN]
+16	,	,	PUNCT	_	_	11	punct	_	AlignBegin=17689|AlignEnd=17742|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+17	dà	dà	ADP	_	_	0	root	_	AlignBegin=17742|AlignEnd=17795|GE=with|Gloss=with|nWord=15|RX=[ADP]
+18	suː	suː	PRON	_	_	17	:obj	_	AlignBegin=17795|AlignEnd=17848|GE=[3Plur]|Gloss=3Plur|nWord=16|RX=[PRON]
+19	sukà	sukà	AUX	_	_	17	comp:cleft	_	AlignBegin=17848|AlignEnd=17901|GE=[3Plur].[Imp].[Bkg]|Gloss=3Plur.Imp.Bkg|nWord=17|RX=[AUX]
+20	aikìː	aikìː	NOUN	_	_	19	comp:aux	_	AlignBegin=17901|AlignEnd=17954|GE=[work].[Masc]|Gloss=work.Masc|nWord=18|RX=[NOUN]
+21	.	.	PUNCT	_	_	17	punct	_	AlignBegin=17954|AlignEnd=18000|Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_019-019
 # speaker_id = *
@@ -619,75 +639,64 @@
 # text = àmmaː koː bandà suː, àkwai itàːceː dà yawàː, wa’àndà akà ɗiːbàː, à yi maːgànin tauri.
 # text_en = But apart from them, there are many trees that you pick to use.
 # text_orth = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
-1	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=18000|AlignEnd=18053|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	koː	koː	SCONJ	_	_	_	_	_	AlignBegin=18053|AlignEnd=18106|GE=even_if|Gloss=even_if|nWord=2|RX=[SCONJ]
-3	bandà	bandà	ADP	_	_	_	_	_	AlignBegin=18106|AlignEnd=18159|GE=without|Gloss=without|nWord=3|RX=[ADP]
-4	suː	suː	PRON	_	_	_	_	_	AlignBegin=18159|AlignEnd=18212|GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=18212|AlignEnd=18265|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	àkwai	àkwai	PREDPART	_	_	_	_	_	AlignBegin=18265|AlignEnd=18318|GE=there_is|Gloss=there_is|nWord=6|RX=[PREDPART]
-7	itàːceː	itàːceː	NOUN	_	_	_	_	_	AlignBegin=18318|AlignEnd=18371|GE=[tree].[Plur]|Gloss=tree.Plur|nWord=7|RX=[NOUN]
-8	dà	dà	ADP	_	_	_	_	_	AlignBegin=18371|AlignEnd=18424|GE=with|Gloss=with|nWord=8|RX=[ADP]
-9	yawàː	yawàː	NOUN	_	_	_	_	_	AlignBegin=18424|AlignEnd=18477|GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	AlignBegin=18477|AlignEnd=18530|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=18530|AlignEnd=18583|GE=[who].[Plur]|Gloss=who.Plur|nWord=11|RX=[PRON]
-12	akà	akà	AUX	_	_	_	_	_	AlignBegin=18583|AlignEnd=18636|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=12|RX=[AUX]
-13	ɗiːbàː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=18636|AlignEnd=18689|GE=[take].[Nmlz].[Masc/Fem]|Gloss=take.Nmlz.Masc/Fem|nWord=13|RX=[VERB]
-14	,	,	PUNCT	_	_	_	_	_	AlignBegin=18689|AlignEnd=18742|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	à	à	AUX	_	_	_	_	_	AlignBegin=18742|AlignEnd=18795|GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
-16	yi	yi	VERB	_	_	_	_	_	AlignBegin=18795|AlignEnd=18848|GE=do|Gloss=do|nWord=16|RX=[VERB]
+1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	AlignBegin=18000|AlignEnd=18053|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
+2	koː	koː	SCONJ	_	_	1	discourse@top	_	AlignBegin=18053|AlignEnd=18106|GE=even_if|Gloss=even_if|nWord=2|RX=[SCONJ]
+3	bandà	bandà	ADP	_	_	6	mod	_	AlignBegin=18106|AlignEnd=18159|GE=without|Gloss=without|nWord=3|RX=[ADP]
+4	suː	suː	PRON	_	_	3	comp:obj	_	AlignBegin=18159|AlignEnd=18212|GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
+5	,	,	PUNCT	_	_	3	_	_	AlignBegin=18212|AlignEnd=18265|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	àkwai	àkwai	PREDPART	_	_	0	root	_	AlignBegin=18265|AlignEnd=18318|GE=there_is|Gloss=there_is|nWord=6|RX=[PREDPART]
+7	itàːceː	itàːceː	NOUN	_	_	6	subj	_	AlignBegin=18318|AlignEnd=18371|GE=[tree].[Plur]|Gloss=tree.Plur|nWord=7|RX=[NOUN]
+8	dà	dà	ADP	_	_	7	mod	_	AlignBegin=18371|AlignEnd=18424|GE=with|Gloss=with|nWord=8|RX=[ADP]
+9	yawàː	yawàː	NOUN	_	_	8	comp:obj	_	AlignBegin=18424|AlignEnd=18477|GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=9|RX=[NOUN]
+10	,	,	PUNCT	_	_	12	_	_	AlignBegin=18477|AlignEnd=18530|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	wa’àndà	wa’àndà	PRON	_	_	13	comp:obj	_	AlignBegin=18530|AlignEnd=18583|GE=[who].[Plur]|Gloss=who.Plur|nWord=11|RX=[PRON]
+12	akà	akà	AUX	_	_	7	mod@relcl	_	AlignBegin=18583|AlignEnd=18636|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=12|RX=[AUX]
+13	ɗiːbàː	ɗiːbàː	VERB	_	_	12	comp:aux	_	AlignBegin=18636|AlignEnd=18689|GE=[take].[Nmlz].[Masc/Fem]|Gloss=take.Nmlz.Masc/Fem|nWord=13|RX=[VERB]
+14	,	,	PUNCT	_	_	15	punct	_	AlignBegin=18689|AlignEnd=18742|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+15	à	à	AUX	_	_	12	conj:svc	_	AlignBegin=18742|AlignEnd=18795|GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
+16	yi	yi	VERB	_	_	15	comp:aux	_	AlignBegin=18795|AlignEnd=18848|GE=do|Gloss=do|nWord=16|RX=[VERB]
 17-18	maːgànin	_	_	_	_	_	_	_	_
-17	maːgàni	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=18848|AlignEnd=18874|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=17|RX=[NOUN]
-18	-n	-n	PART	_	_	_	_	_	AlignBegin=18874|AlignEnd=18901|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=17|RX=[PART]
-19	tauri	tauri	NOUN	_	_	_	_	_	AlignBegin=18901|AlignEnd=18954|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=18|RX=[NOUN]
-20	.	.	PUNCT	_	_	_	_	_	AlignBegin=18954|AlignEnd=19000|Gloss=.|nWord=19|RX=[PUNCT]
+17	maːgàni	maːgàniː	NOUN	_	_	16	comp:obj	_	AlignBegin=18848|AlignEnd=18874|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=17|RX=[NOUN]
+18	-n	-n	PART	_	_	17	mod/m	_	AlignBegin=18874|AlignEnd=18901|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=17|RX=[PART]
+19	tauri	tauri	NOUN	_	_	18	comp:obj	_	AlignBegin=18901|AlignEnd=18954|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=18|RX=[NOUN]
+20	.	.	PUNCT	_	_	6	punct	_	AlignBegin=18954|AlignEnd=19000|Gloss=.|nWord=19|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_020-020
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_020-020_020-021
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
-# sent_timecode = 19000, 20000
-# text = àmmaː niː, wa’àndà nis sanìː, suː zâm baːdà làːbaːr̃ìː.
-# text_en = But me, it is those I know that I will talk about.
-# text_orth = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi.
-1	àmmaː	àmmaː	CCONJ	_	_	_	_	_	AlignBegin=19000|AlignEnd=19083|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	niː	niː	PRON	_	_	_	_	_	AlignBegin=19083|AlignEnd=19166|GE=[1Sing]|Gloss=1Sing|nWord=2|RX=[PRON]
-3	,	,	PUNCT	_	_	_	_	_	AlignBegin=19166|AlignEnd=19249|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=19249|AlignEnd=19332|GE=[who].[Plur]|Gloss=who.Plur|nWord=4|RX=[PRON]
-5	nis	nik	AUX	_	_	_	_	_	AlignBegin=19332|AlignEnd=19415|GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
-6	sanìː	sanìː	VERB	_	_	_	_	_	AlignBegin=19415|AlignEnd=19498|GE=know|Gloss=know|nWord=6|RX=[VERB]
-7	,	,	PUNCT	_	_	_	_	_	AlignBegin=19498|AlignEnd=19581|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	suː	suː	PRON	_	_	_	_	_	AlignBegin=19581|AlignEnd=19664|GE=[3Plur]|Gloss=3Plur|nWord=8|RX=[PRON]
-9	zâm	zân	AUX	_	_	_	_	_	AlignBegin=19664|AlignEnd=19747|GE=[1Sing].[Fut]|Gloss=1Sing.Fut|nWord=9|RX=[AUX]
-10	baːdà	baːdàː	VERB	_	_	_	_	_	AlignBegin=19747|AlignEnd=19830|GE=give|Gloss=give|nWord=10|RX=[VERB]
-11	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	_	_	_	AlignBegin=19830|AlignEnd=19913|GE=[story].[Masc]|Gloss=story.Masc|nWord=11|RX=[NOUN]
-12	.	.	PUNCT	_	_	_	_	_	AlignBegin=19913|AlignEnd=20000|Gloss=.|nWord=12|RX=[PUNCT]
-
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_021-021
-# speaker_id = *
-# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
-# sent_timecode = 20000, 21000
-# text = dom bâːshi yìwuwaː, mùtun shì baːdà làːbaːr̃ìː, na àbun dà bài sanìː ba.
-# text_en = Because it is not possible for anybody to talk about things that he does not know.
-# text_orth = dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
-1	dom	don	SCONJ	_	_	_	_	_	AlignBegin=20000|AlignEnd=20062|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
-2	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=20062|AlignEnd=20124|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=2|RX=[AUX]
-3-4	yìwuwaː	_	_	_	_	_	_	_	_
-3	yìwu	yìwu	VERB	_	_	_	_	_	AlignBegin=20124|AlignEnd=20155|GE=be_possible|Gloss=be_possible|nWord=3|RX=[VERB]
-4	-waː	-waː	PART	_	_	_	_	_	AlignBegin=20155|AlignEnd=20186|GE=[Nmlz]|Gloss=Nmlz|nWord=3|RX=[PART]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=20186|AlignEnd=20248|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-6	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=20248|AlignEnd=20310|GE=[person].[Masc]|Gloss=person.Masc|nWord=5|RX=[NOUN]
-7	shì	shì	AUX	_	_	_	_	_	AlignBegin=20310|AlignEnd=20372|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
-8	baːdà	baːdàː	VERB	_	_	_	_	_	AlignBegin=20372|AlignEnd=20434|GE=give|Gloss=give|nWord=7|RX=[VERB]
-9	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	_	_	_	AlignBegin=20434|AlignEnd=20496|GE=[story].[Masc]|Gloss=story.Masc|nWord=8|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	AlignBegin=20496|AlignEnd=20558|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	na	na	PART	_	_	_	_	_	AlignBegin=20558|AlignEnd=20620|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
-12-13	àbun	_	_	_	_	_	_	_	_
-12	àbù	àbù	NOUN	_	_	_	_	_	AlignBegin=20620|AlignEnd=20651|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=11|RX=[NOUN]
-13	-n	-n	PART	_	_	_	_	_	AlignBegin=20651|AlignEnd=20682|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=11|RX=[PART]
-14	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=20682|AlignEnd=20744|GE=that|Gloss=that|nWord=12|RX=[SCONJ]
-15	bài	bài	AUX	_	_	_	_	_	AlignBegin=20744|AlignEnd=20806|GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=13|RX=[AUX]
-16	sanìː	sanìː	VERB	_	_	_	_	_	AlignBegin=20806|AlignEnd=20868|GE=know|Gloss=know|nWord=14|RX=[VERB]
-17	ba	ba	PART	_	_	_	_	_	AlignBegin=20868|AlignEnd=20930|GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
-18	.	.	PUNCT	_	_	_	_	_	AlignBegin=20930|AlignEnd=21000|Gloss=.|nWord=16|RX=[PUNCT]
+# sent_timecode = 19000, 20000 20000, 21000
+# text = àmmaː niː, wa’àndà nis sanìː, suː zâm baːdà làːbaːr̃ìː, dom bâːshi yìwuwaː, mùtun shì baːdà làːbaːr̃ìː, na àbun dà bài sanìː ba.
+# text_en = But me, it is those I know that I will talk about because it is not possible for anybody to talk about things that he does not know.
+# text_orth = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi, dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
+1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	AlignBegin=19000|AlignEnd=19083|GE=but|Gloss=but|nWord=1|RX=[CCONJ]
+2	niː	niː	PRON	_	_	8	dislocated@subj	_	AlignBegin=19083|AlignEnd=19166|GE=[1Sing]|Gloss=1Sing|nWord=2|RX=[PRON]
+3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=19166|AlignEnd=19249|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
+4	wa’àndà	wa’àndà	PRON	_	_	8	dislocated@top	_	AlignBegin=19249|AlignEnd=19332|GE=[who].[Plur]|Gloss=who.Plur|nWord=4|RX=[PRON]
+5	nis	nik	AUX	_	_	4	mod@relcl	_	AlignBegin=19332|AlignEnd=19415|GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
+6	sanìː	sanìː	VERB	_	_	5	comp:aux	_	AlignBegin=19415|AlignEnd=19498|GE=know|Gloss=know|nWord=6|RX=[VERB]
+7	,	,	PUNCT	_	_	4	punct	_	AlignBegin=19498|AlignEnd=19581|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	suː	suː	PRON	_	_	0	root	_	AlignBegin=19581|AlignEnd=19664|GE=[3Plur]|Gloss=3Plur|nWord=8|RX=[PRON]
+9	zâm	zân	AUX	_	_	8	comp:cleft	_	AlignBegin=19664|AlignEnd=19747|GE=[1Sing].[Fut]|Gloss=1Sing.Fut|nWord=9|RX=[AUX]
+10	baːdà	baːdàː	VERB	_	_	9	comp:aux	_	AlignBegin=19747|AlignEnd=19830|GE=give|Gloss=give|nWord=10|RX=[VERB]
+11	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	10	comp:obj	_	AlignBegin=19830|AlignEnd=19913|GE=[story].[Masc]|Gloss=story.Masc|nWord=11|RX=[NOUN]
+12	.	.	PUNCT	_	_	8	punct	_	AlignBegin=19913|AlignEnd=20000|Gloss=.|nWord=12|RX=[PUNCT]
+13	dom	don	SCONJ	_	_	10	mod	_	AlignBegin=20000|AlignEnd=20062|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
+14	bâːshi	bâːshi	AUX	_	_	13	comp:obj	_	AlignBegin=20062|AlignEnd=20124|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=2|RX=[AUX]
+15	yìwuwaː	yìwu	VERB	_	_	14	comp:aux	_	AlignBegin=20124|AlignEnd=20155|GE=be_possible|Gloss=be_possible.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=yìwu
+16	,	,	PUNCT	_	_	_	_	_	AlignBegin=20186|AlignEnd=20248|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+17	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=20248|AlignEnd=20310|GE=[person].[Masc]|Gloss=person.Masc|nWord=5|RX=[NOUN]
+18	shì	shì	AUX	_	_	_	_	_	AlignBegin=20310|AlignEnd=20372|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
+19	baːdà	baːdàː	VERB	_	_	_	_	_	AlignBegin=20372|AlignEnd=20434|GE=give|Gloss=give|nWord=7|RX=[VERB]
+20	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	_	_	_	AlignBegin=20434|AlignEnd=20496|GE=[story].[Masc]|Gloss=story.Masc|nWord=8|RX=[NOUN]
+21	,	,	PUNCT	_	_	_	_	_	AlignBegin=20496|AlignEnd=20558|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+22	na	na	PART	_	_	_	_	_	AlignBegin=20558|AlignEnd=20620|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
+23	àbù	àbù	NOUN	_	_	_	_	_	AlignBegin=20620|AlignEnd=20651|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=11|RX=[NOUN]
+24	-n	-n	PART	_	_	_	_	_	AlignBegin=20651|AlignEnd=20682|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=11|RX=[PART]
+25	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=20682|AlignEnd=20744|GE=that|Gloss=that|nWord=12|RX=[SCONJ]
+26	bài	bài	AUX	_	_	_	_	_	AlignBegin=20744|AlignEnd=20806|GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=13|RX=[AUX]
+27	sanìː	sanìː	VERB	_	_	_	_	_	AlignBegin=20806|AlignEnd=20868|GE=know|Gloss=know|nWord=14|RX=[VERB]
+28	ba	ba	PART	_	_	_	_	_	AlignBegin=20868|AlignEnd=20930|GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
+29	.	.	PUNCT	_	_	8	punct	_	AlignBegin=20930|AlignEnd=21000|Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_022-022
 # speaker_id = *
@@ -1068,18 +1077,16 @@
 28	wuƙaː	wuƙaː	NOUN	_	_	_	_	_	AlignBegin=29650|AlignEnd=29676|GE=[knife].[Fem]|Gloss=knife.Fem|nWord=26|RX=[NOUN]
 29	,	,	PUNCT	_	_	_	_	_	AlignBegin=29676|AlignEnd=29702|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 30	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=29702|AlignEnd=29728|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=28|RX=[AUX]
-31-32	huːdèːwaː	_	_	_	_	_	_	_	_
-31	huːdèː	huːdèː	VERB	_	_	_	_	_	AlignBegin=29728|AlignEnd=29741|GE=pierce|Gloss=pierce|nWord=29|RX=[VERB]
-32	-waː	-waː	PART	_	_	_	_	_	AlignBegin=29741|AlignEnd=29754|GE=[Nmlz]|Gloss=Nmlz|nWord=29|RX=[PART]
-33	,	,	PUNCT	_	_	_	_	_	AlignBegin=29754|AlignEnd=29780|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-34	koː	koː	ADV	_	_	_	_	_	AlignBegin=29780|AlignEnd=29806|GE=even|Gloss=even|nWord=31|RX=[ADV]
-35	huriː	huriː	NOUN	_	_	_	_	_	AlignBegin=29806|AlignEnd=29832|GE=[scratch].[Masc]|Gloss=scratch.Masc|nWord=32|RX=[NOUN]
-36	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=29832|AlignEnd=29858|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=33|RX=[AUX]
-37	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=29858|AlignEnd=29884|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=34|RX=[VERB]
-38	,	,	PUNCT	_	_	_	_	_	AlignBegin=29884|AlignEnd=29910|GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-39	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=29910|AlignEnd=29936|GE=because|Gloss=because|nWord=36|RX=[SCONJ]
-40	tauri	tauri	NOUN	_	_	_	_	_	AlignBegin=29936|AlignEnd=29962|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=37|RX=[NOUN]
-41	.	.	PUNCT	_	_	_	_	_	AlignBegin=29962|AlignEnd=30000|Gloss=.|nWord=38|RX=[PUNCT]
+31	huːdèːwaː	huːdèː	VERB	_	_	_	_	_	AlignBegin=29728|AlignEnd=29741|GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=29|RX=[VERB]|wordform=huːdèː
+32	,	,	PUNCT	_	_	_	_	_	AlignBegin=29754|AlignEnd=29780|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+33	koː	koː	ADV	_	_	_	_	_	AlignBegin=29780|AlignEnd=29806|GE=even|Gloss=even|nWord=31|RX=[ADV]
+34	huriː	huriː	NOUN	_	_	_	_	_	AlignBegin=29806|AlignEnd=29832|GE=[scratch].[Masc]|Gloss=scratch.Masc|nWord=32|RX=[NOUN]
+35	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=29832|AlignEnd=29858|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=33|RX=[AUX]
+36	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=29858|AlignEnd=29884|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=34|RX=[VERB]
+37	,	,	PUNCT	_	_	_	_	_	AlignBegin=29884|AlignEnd=29910|GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
+38	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=29910|AlignEnd=29936|GE=because|Gloss=because|nWord=36|RX=[SCONJ]
+39	tauri	tauri	NOUN	_	_	_	_	_	AlignBegin=29936|AlignEnd=29962|GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=37|RX=[NOUN]
+40	.	.	PUNCT	_	_	_	_	_	AlignBegin=29962|AlignEnd=30000|Gloss=.|nWord=38|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_031-031
 # speaker_id = *
@@ -1104,17 +1111,13 @@
 13	sù	sù	AUX	_	_	_	_	_	AlignBegin=30528|AlignEnd=30576|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=12|RX=[AUX]
 14	yi	yi	VERB	_	_	_	_	_	AlignBegin=30576|AlignEnd=30624|GE=do|Gloss=do|nWord=13|RX=[VERB]
 15	ta	ta	ADP	_	_	_	_	_	AlignBegin=30624|AlignEnd=30672|GE=via|Gloss=via|nWord=14|RX=[ADP]
-16-17	bugàːwaː	_	_	_	_	_	_	_	_
-16	bugàː	bugàː	VERB	_	_	_	_	_	AlignBegin=30672|AlignEnd=30696|GE=beat|Gloss=beat|nWord=15|RX=[VERB]
-17	-waː	-waː	PART	_	_	_	_	_	AlignBegin=30696|AlignEnd=30720|GE=[Nmlz]|Gloss=Nmlz|nWord=15|RX=[PART]
-18	dà	dà	ADP	_	_	_	_	_	AlignBegin=30720|AlignEnd=30768|GE=with|Gloss=with|nWord=16|RX=[ADP]
-19	màr̃tôː	màr̃tôː	NOUN	_	_	_	_	_	AlignBegin=30768|AlignEnd=30816|GE=[hammer].[Masc]|Gloss=hammer.Masc|nWord=17|RX=[NOUN]
-20	,	,	PUNCT	_	_	_	_	_	AlignBegin=30816|AlignEnd=30864|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-21	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=30864|AlignEnd=30912|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=19|RX=[AUX]
-22-23	huːdèːwaː	_	_	_	_	_	_	_	_
-22	huːdèː	huːdèː	VERB	_	_	_	_	_	AlignBegin=30912|AlignEnd=30936|GE=pierce|Gloss=pierce|nWord=20|RX=[VERB]
-23	-waː	-waː	PART	_	_	_	_	_	AlignBegin=30936|AlignEnd=30960|GE=[Nmlz]|Gloss=Nmlz|nWord=20|RX=[PART]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=30960|AlignEnd=31000|Gloss=.|nWord=21|RX=[PUNCT]
+16	bugàːwaː	bugàː	VERB	_	_	_	_	_	AlignBegin=30672|AlignEnd=30696|GE=beat|Gloss=beat.Nmlz.Fem|nWord=15|RX=[VERB]|wordform=bugàː
+17	dà	dà	ADP	_	_	_	_	_	AlignBegin=30720|AlignEnd=30768|GE=with|Gloss=with|nWord=16|RX=[ADP]
+18	màr̃tôː	màr̃tôː	NOUN	_	_	_	_	_	AlignBegin=30768|AlignEnd=30816|GE=[hammer].[Masc]|Gloss=hammer.Masc|nWord=17|RX=[NOUN]
+19	,	,	PUNCT	_	_	_	_	_	AlignBegin=30816|AlignEnd=30864|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+20	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=30864|AlignEnd=30912|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=19|RX=[AUX]
+21	huːdèːwaː	huːdèː	VERB	_	_	_	_	_	AlignBegin=30912|AlignEnd=30936|GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=huːdèː
+22	.	.	PUNCT	_	_	_	_	_	AlignBegin=30960|AlignEnd=31000|Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_032-032
 # speaker_id = *
@@ -1137,16 +1140,12 @@
 11	sù	sù	AUX	_	_	_	_	_	AlignBegin=31504|AlignEnd=31560|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=10|RX=[AUX]
 12	yi	yi	VERB	_	_	_	_	_	AlignBegin=31560|AlignEnd=31616|GE=do|Gloss=do|nWord=11|RX=[VERB]
 13	ta	ta	ADP	_	_	_	_	_	AlignBegin=31616|AlignEnd=31672|GE=via|Gloss=via|nWord=12|RX=[ADP]
-14-15	bugàːwaː	_	_	_	_	_	_	_	_
-14	bugàː	bugàː	VERB	_	_	_	_	_	AlignBegin=31672|AlignEnd=31700|GE=beat|Gloss=beat|nWord=13|RX=[VERB]
-15	-waː	-waː	PART	_	_	_	_	_	AlignBegin=31700|AlignEnd=31728|GE=[Nmlz]|Gloss=Nmlz|nWord=13|RX=[PART]
-16	,	,	PUNCT	_	_	_	_	_	AlignBegin=31728|AlignEnd=31784|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-17	bàː	bàː	PART	_	_	_	_	_	AlignBegin=31784|AlignEnd=31840|GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
-18	su	su	PRON	_	_	_	_	_	AlignBegin=31840|AlignEnd=31896|GE=[3].[Pl]|Gloss=3.Pl|nWord=16|RX=[PRON]
-19-20	huːdèːwaː	_	_	_	_	_	_	_	_
-19	huːdèː	huːdèː	VERB	_	_	_	_	_	AlignBegin=31896|AlignEnd=31924|GE=pierce|Gloss=pierce|nWord=17|RX=[VERB]
-20	-waː	-waː	PART	_	_	_	_	_	AlignBegin=31924|AlignEnd=31952|GE=[Nmlz]|Gloss=Nmlz|nWord=17|RX=[PART]
-21	.	.	PUNCT	_	_	_	_	_	AlignBegin=31952|AlignEnd=32000|Gloss=.|nWord=18|RX=[PUNCT]
+14	bugàːwaː	bugàː	VERB	_	_	_	_	_	AlignBegin=31672|AlignEnd=31700|GE=beat|Gloss=beat.Nmlz.Fem|nWord=13|RX=[VERB]|wordform=bugàː
+15	,	,	PUNCT	_	_	_	_	_	AlignBegin=31728|AlignEnd=31784|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+16	bàː	bàː	PART	_	_	_	_	_	AlignBegin=31784|AlignEnd=31840|GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
+17	su	su	PRON	_	_	_	_	_	AlignBegin=31840|AlignEnd=31896|GE=[3].[Pl]|Gloss=3.Pl|nWord=16|RX=[PRON]
+18	huːdèːwaː	huːdèː	VERB	_	_	_	_	_	AlignBegin=31896|AlignEnd=31924|GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=17|RX=[VERB]|wordform=huːdèː
+19	.	.	PUNCT	_	_	_	_	_	AlignBegin=31952|AlignEnd=32000|Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_033-033
 # speaker_id = *
@@ -1172,12 +1171,10 @@
 13	sù	sù	AUX	_	_	_	_	_	AlignBegin=32560|AlignEnd=32616|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=11|RX=[AUX]
 14	yi	yi	VERB	_	_	_	_	_	AlignBegin=32616|AlignEnd=32672|GE=do|Gloss=do|nWord=12|RX=[VERB]
 15	ta	ta	ADP	_	_	_	_	_	AlignBegin=32672|AlignEnd=32728|GE=via|Gloss=via|nWord=13|RX=[ADP]
-16-17	bugàːwaː	_	_	_	_	_	_	_	_
-16	bugàː	bugàː	VERB	_	_	_	_	_	AlignBegin=32728|AlignEnd=32756|GE=beat|Gloss=beat|nWord=14|RX=[VERB]
-17	-waː	-waː	PART	_	_	_	_	_	AlignBegin=32756|AlignEnd=32784|GE=[Nmlz]|Gloss=Nmlz|nWord=14|RX=[PART]
-18	,	,	PUNCT	_	_	_	_	_	AlignBegin=32784|AlignEnd=32840|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-19	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=32840|AlignEnd=32896|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=16|RX=[AUX]
-20	.	.	PUNCT	_	_	_	_	_	AlignBegin=32952|AlignEnd=33000|Gloss=.|nWord=18|RX=[PUNCT]
+16	bugàːwaː	bugàː	VERB	_	_	_	_	_	AlignBegin=32728|AlignEnd=32756|GE=beat|Gloss=beat.Nmlz.Fem|nWord=14|RX=[VERB]|wordform=bugàː
+17	,	,	PUNCT	_	_	_	_	_	AlignBegin=32784|AlignEnd=32840|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+18	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=32840|AlignEnd=32896|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=16|RX=[AUX]
+19	.	.	PUNCT	_	_	_	_	_	AlignBegin=32952|AlignEnd=33000|Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_034-034
 # speaker_id = *
@@ -1195,15 +1192,11 @@
 7	sù	sù	AUX	_	_	_	_	_	AlignBegin=33426|AlignEnd=33497|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	_	_	_	AlignBegin=33497|AlignEnd=33568|GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	ta	ta	ADP	_	_	_	_	_	AlignBegin=33568|AlignEnd=33639|GE=via|Gloss=via|nWord=9|RX=[ADP]
-10-11	bugàːwaː	_	_	_	_	_	_	_	_
-10	bugàː	bugàː	VERB	_	_	_	_	_	AlignBegin=33639|AlignEnd=33675|GE=beat|Gloss=beat|nWord=10|RX=[VERB]
-11	-waː	-waː	PART	_	_	_	_	_	AlignBegin=33675|AlignEnd=33710|GE=[Nmlz]|Gloss=Nmlz|nWord=10|RX=[PART]
-12	,	,	PUNCT	_	_	_	_	_	AlignBegin=33710|AlignEnd=33781|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-13	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=33781|AlignEnd=33852|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=12|RX=[AUX]
-14-15	huːdèːwaː	_	_	_	_	_	_	_	_
-14	huːdèː	huːdèː	VERB	_	_	_	_	_	AlignBegin=33852|AlignEnd=33888|GE=pierce|Gloss=pierce|nWord=13|RX=[VERB]
-15	-waː	-waː	PART	_	_	_	_	_	AlignBegin=33888|AlignEnd=33923|GE=[Nmlz]|Gloss=Nmlz|nWord=13|RX=[PART]
-16	.	.	PUNCT	_	_	_	_	_	AlignBegin=33923|AlignEnd=34000|Gloss=.|nWord=14|RX=[PUNCT]
+10	bugàːwaː	bugàː	VERB	_	_	_	_	_	AlignBegin=33639|AlignEnd=33675|GE=beat|Gloss=beat.Nmlz.Fem|nWord=10|RX=[VERB]|wordform=bugàː
+11	,	,	PUNCT	_	_	_	_	_	AlignBegin=33710|AlignEnd=33781|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=33781|AlignEnd=33852|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=12|RX=[AUX]
+13	huːdèːwaː	huːdèː	VERB	_	_	_	_	_	AlignBegin=33852|AlignEnd=33888|GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=13|RX=[VERB]|wordform=huːdèː
+14	.	.	PUNCT	_	_	_	_	_	AlignBegin=33923|AlignEnd=34000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_035-035
 # speaker_id = *
@@ -1341,16 +1334,14 @@
 13	sunàː	sunàː	AUX	_	_	_	_	_	AlignBegin=37524|AlignEnd=37568|GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=12|RX=[AUX]
 14	tamnaː	tàmnaː	VERB	_	_	_	_	_	AlignBegin=37568|AlignEnd=37612|GE=[chew].[Nmlz].[Fem]|Gloss=chew.Nmlz.Fem|nWord=13|RX=[VERB]
 15	sunàː	sunàː	AUX	_	_	_	_	_	AlignBegin=37612|AlignEnd=37656|GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=14|RX=[AUX]
-16-17	zubdàːwaː	_	_	_	_	_	_	_	_
-16	zubdàː	zubdàː	VERB	_	_	_	_	_	AlignBegin=37656|AlignEnd=37678|GE=throw_away|Gloss=throw_away|nWord=15|RX=[VERB]
-17	-waː	-waː	PART	_	_	_	_	_	AlignBegin=37678|AlignEnd=37700|GE=[Nmlz]|Gloss=Nmlz|nWord=15|RX=[PART]
-18	,	,	PUNCT	_	_	_	_	_	AlignBegin=37700|AlignEnd=37744|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-19	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=37744|AlignEnd=37788|GE=also|Gloss=also|nWord=17|RX=[ADV]
-20	kwalbaː	kwalbaː	NOUN	_	_	_	_	_	AlignBegin=37788|AlignEnd=37832|GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=18|RX=[NOUN]
-21	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=37832|AlignEnd=37876|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=19|RX=[AUX]
-22	yankèː	yankèː	VERB	_	_	_	_	_	AlignBegin=37876|AlignEnd=37920|GE=kill|Gloss=kill|nWord=20|RX=[VERB]
-23	su	su	PRON	_	_	_	_	_	AlignBegin=37920|AlignEnd=37964|GE=[3].[Pl]|Gloss=3.Pl|nWord=21|RX=[PRON]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=37964|AlignEnd=38000|Gloss=.|nWord=22|RX=[PUNCT]
+16	zubdàːwaː	zubdàː	VERB	_	_	_	_	_	AlignBegin=37656|AlignEnd=37678|GE=throw_away|Gloss=throw_away.Nmlz.Fem|nWord=15|RX=[VERB]|wordform=zubdàː
+17	,	,	PUNCT	_	_	_	_	_	AlignBegin=37700|AlignEnd=37744|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+18	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=37744|AlignEnd=37788|GE=also|Gloss=also|nWord=17|RX=[ADV]
+19	kwalbaː	kwalbaː	NOUN	_	_	_	_	_	AlignBegin=37788|AlignEnd=37832|GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=18|RX=[NOUN]
+20	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=37832|AlignEnd=37876|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=19|RX=[AUX]
+21	yankèː	yankèː	VERB	_	_	_	_	_	AlignBegin=37876|AlignEnd=37920|GE=kill|Gloss=kill|nWord=20|RX=[VERB]
+22	su	su	PRON	_	_	_	_	_	AlignBegin=37920|AlignEnd=37964|GE=[3].[Pl]|Gloss=3.Pl|nWord=21|RX=[PRON]
+23	.	.	PUNCT	_	_	_	_	_	AlignBegin=37964|AlignEnd=38000|Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_039-039
 # speaker_id = *
@@ -1654,17 +1645,15 @@
 5	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=47190|AlignEnd=47213|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=47213|AlignEnd=47284|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 7	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=47284|AlignEnd=47355|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=5|RX=[AUX]
-8-9	koːmàːwaː	_	_	_	_	_	_	_	_
-8	koːmàː	koːmàː	VERB	_	_	_	_	_	AlignBegin=47355|AlignEnd=47391|GE=return|Gloss=return|nWord=6|RX=[VERB]
-9	-waː	-waː	PART	_	_	_	_	_	AlignBegin=47391|AlignEnd=47426|GE=[Nmlz]|Gloss=Nmlz|nWord=6|RX=[PART]
-10	wurîn	wuriː	NOUN	_	_	_	_	_	AlignBegin=47426|AlignEnd=47497|GE=[place].[Masc].[Def]|Gloss=place.Masc.Def|nWord=7|RX=[NOUN]
-11	,	,	PUNCT	_	_	_	_	_	AlignBegin=47497|AlignEnd=47568|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-12	sai	sai	ADV	_	_	_	_	_	AlignBegin=47568|AlignEnd=47639|GE=then|Gloss=then|nWord=9|RX=[ADV]
-13	wata	wata	DET	_	_	_	_	_	AlignBegin=47639|AlignEnd=47710|GE=[some].[Fem]|Gloss=some.Fem|nWord=10|RX=[DET]
-14	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=47710|AlignEnd=47781|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
-15	taː	taː	AUX	_	_	_	_	_	AlignBegin=47781|AlignEnd=47852|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=12|RX=[AUX]
-16	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=47852|AlignEnd=47923|GE=come|Gloss=come|nWord=13|RX=[VERB]
-17	.	.	PUNCT	_	_	_	_	_	AlignBegin=47923|AlignEnd=48000|Gloss=.|nWord=14|RX=[PUNCT]
+8	koːmàːwaː	koːmàː	VERB	_	_	_	_	_	AlignBegin=47355|AlignEnd=47391|GE=return|Gloss=return.Nmlz.Fem|nWord=6|RX=[VERB]|wordform=koːmàː
+9	wurîn	wuriː	NOUN	_	_	_	_	_	AlignBegin=47426|AlignEnd=47497|GE=[place].[Masc].[Def]|Gloss=place.Masc.Def|nWord=7|RX=[NOUN]
+10	,	,	PUNCT	_	_	_	_	_	AlignBegin=47497|AlignEnd=47568|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+11	sai	sai	ADV	_	_	_	_	_	AlignBegin=47568|AlignEnd=47639|GE=then|Gloss=then|nWord=9|RX=[ADV]
+12	wata	wata	DET	_	_	_	_	_	AlignBegin=47639|AlignEnd=47710|GE=[some].[Fem]|Gloss=some.Fem|nWord=10|RX=[DET]
+13	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=47710|AlignEnd=47781|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
+14	taː	taː	AUX	_	_	_	_	_	AlignBegin=47781|AlignEnd=47852|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=12|RX=[AUX]
+15	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=47852|AlignEnd=47923|GE=come|Gloss=come|nWord=13|RX=[VERB]
+16	.	.	PUNCT	_	_	_	_	_	AlignBegin=47923|AlignEnd=48000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_049-049
 # speaker_id = *
@@ -1990,10 +1979,8 @@
 27	,	,	PUNCT	_	_	_	_	_	AlignBegin=58832|AlignEnd=58864|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 28	à	à	AUX	_	_	_	_	_	AlignBegin=58864|AlignEnd=58896|GE=[4].[Aor]|Gloss=4.Aor|nWord=28|RX=[AUX]
 29	ƙaːràː	ƙaːràː	VERB	_	_	_	_	_	AlignBegin=58896|AlignEnd=58928|GE=increase/continue|Gloss=increase/continue|nWord=29|RX=[VERB]
-30-31	dakàːwaː	_	_	_	_	_	_	_	_
-30	dakàː	dakàː	VERB	_	_	_	_	_	AlignBegin=58928|AlignEnd=58944|GE=pound|Gloss=pound|nWord=30|RX=[VERB]
-31	-waː	-waː	PART	_	_	_	_	_	AlignBegin=58944|AlignEnd=58960|GE=[Nmlz]|Gloss=Nmlz|nWord=30|RX=[PART]
-32	.	.	PUNCT	_	_	_	_	_	AlignBegin=58960|AlignEnd=59000|Gloss=.|nWord=31|RX=[PUNCT]
+30	dakàːwaː	dakàː	VERB	_	_	_	_	_	AlignBegin=58928|AlignEnd=58944|GE=pound|Gloss=pound.Nmlz.Fem|nWord=30|RX=[VERB]|wordform=dakàː
+31	.	.	PUNCT	_	_	_	_	_	AlignBegin=58960|AlignEnd=59000|Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_060-060
 # speaker_id = *
@@ -2030,10 +2017,8 @@
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=60375|AlignEnd=60500|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	à	à	AUX	_	_	_	_	_	AlignBegin=60500|AlignEnd=60625|GE=[4].[Aor]|Gloss=4.Aor|nWord=5|RX=[AUX]
 6	ƙaːrà	ƙaːràː	VERB	_	_	_	_	_	AlignBegin=60625|AlignEnd=60750|GE=increase/continue|Gloss=increase/continue|nWord=6|RX=[VERB]
-7-8	tankàɗeːwàː	_	_	_	_	_	_	_	_
-7	tankàɗeː	tankàɗeː	VERB	_	_	_	_	_	AlignBegin=60750|AlignEnd=60812|GE=sieve|Gloss=sieve|nWord=7|RX=[VERB]
-8	-waː	-waː	PART	_	_	_	_	_	AlignBegin=60812|AlignEnd=60875|GE=[Nmlz]|Gloss=Nmlz|nWord=7|RX=[PART]
-9	.	.	PUNCT	_	_	_	_	_	AlignBegin=60875|AlignEnd=61000|Gloss=.|nWord=8|RX=[PUNCT]
+7	tankàɗeːwaː	tankàɗeː	VERB	_	_	_	_	_	AlignBegin=60750|AlignEnd=60812|GE=sieve|Gloss=sieve.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=tankàɗeː
+8	.	.	PUNCT	_	_	_	_	_	AlignBegin=60875|AlignEnd=61000|Gloss=.|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_062-062
 # speaker_id = *
@@ -2705,10 +2690,8 @@
 15	hannuː	hannuː	NOUN	_	_	_	_	_	AlignBegin=83708|AlignEnd=83767|GE=hand/arm|Gloss=hand/arm|nWord=13|RX=[NOUN]
 16	,	,	PUNCT	_	_	_	_	_	AlignBegin=83767|AlignEnd=83826|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 17	anàː	anàː	AUX	_	_	_	_	_	AlignBegin=83826|AlignEnd=83885|GE=[4].[Imp]|Gloss=4.Imp|nWord=15|RX=[AUX]
-18-19	dunƙùleːwàː	_	_	_	_	_	_	_	_
-18	dunƙùleː	dunƙùleː	VERB	_	_	_	_	_	AlignBegin=83885|AlignEnd=83915|GE=ball_up|Gloss=ball_up|nWord=16|RX=[VERB]
-19	-waː	-waː	PART	_	_	_	_	_	AlignBegin=83915|AlignEnd=83944|GE=[Nmlz]|Gloss=Nmlz|nWord=16|RX=[PART]
-20	.	.	PUNCT	_	_	_	_	_	AlignBegin=83944|AlignEnd=84000|Gloss=.|nWord=17|RX=[PUNCT]
+18	dunƙùleːwaː	dunƙùleː	VERB	_	_	_	_	_	AlignBegin=83885|AlignEnd=83915|GE=ball_up|Gloss=ball_up.Nmlz.Fem|nWord=16|RX=[VERB]|wordform=dunƙùleː
+19	.	.	PUNCT	_	_	_	_	_	AlignBegin=83944|AlignEnd=84000|Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_085-085
 # speaker_id = *
@@ -3220,14 +3203,12 @@
 33	duwàːs'uː	duwàːs'uː	NOUN	_	_	_	_	_	AlignBegin=94754|AlignEnd=94780|GE=[stone].[Plur]|Gloss=stone.Plur|nWord=30|RX=[NOUN]
 34	,	,	PUNCT	_	_	_	_	_	AlignBegin=94780|AlignEnd=94806|GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 35	kanàː	kanàː	AUX	_	_	_	_	_	AlignBegin=94806|AlignEnd=94832|GE=[2Masc].[Imp]|Gloss=2Masc.Imp|nWord=32|RX=[AUX]
-36-37	bugàːwaː	_	_	_	_	_	_	_	_
-36	bugàː	bugàː	VERB	_	_	_	_	_	AlignBegin=94832|AlignEnd=94845|GE=beat|Gloss=beat|nWord=33|RX=[VERB]
-37	-waː	-waː	PART	_	_	_	_	_	AlignBegin=94845|AlignEnd=94858|GE=[Nmlz]|Gloss=Nmlz|nWord=33|RX=[PART]
-38	,	,	PUNCT	_	_	_	_	_	AlignBegin=94858|AlignEnd=94884|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-39	hat	hat	SCONJ	_	_	_	_	_	AlignBegin=94884|AlignEnd=94910|GE=until|Gloss=until|nWord=35|RX=[SCONJ]
-40	ta	ta	PRON	_	_	_	_	_	AlignBegin=94910|AlignEnd=94936|GE=[3Fem]|Gloss=3Fem|nWord=36|RX=[PRON]
-41	daːc'èː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=94936|AlignEnd=94962|GE=chop_off|Gloss=chop_off|nWord=37|RX=[VERB]
-42	.	.	PUNCT	_	_	_	_	_	AlignBegin=94962|AlignEnd=95000|Gloss=.|nWord=38|RX=[PUNCT]
+36	bugàːwaː	bugàː	VERB	_	_	_	_	_	AlignBegin=94832|AlignEnd=94845|GE=beat|Gloss=beat.Nmlz.Fem|nWord=33|RX=[VERB]|wordform=bugàː
+37	,	,	PUNCT	_	_	_	_	_	AlignBegin=94858|AlignEnd=94884|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
+38	hat	hat	SCONJ	_	_	_	_	_	AlignBegin=94884|AlignEnd=94910|GE=until|Gloss=until|nWord=35|RX=[SCONJ]
+39	ta	ta	PRON	_	_	_	_	_	AlignBegin=94910|AlignEnd=94936|GE=[3Fem]|Gloss=3Fem|nWord=36|RX=[PRON]
+40	daːc'èː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=94936|AlignEnd=94962|GE=chop_off|Gloss=chop_off|nWord=37|RX=[VERB]
+41	.	.	PUNCT	_	_	_	_	_	AlignBegin=94962|AlignEnd=95000|Gloss=.|nWord=38|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_096-096
 # speaker_id = *
@@ -3245,17 +3226,15 @@
 7	ƙasà	ƙasà	ADV	_	_	_	_	_	AlignBegin=95336|AlignEnd=95392|GE=below|Gloss=below|nWord=7|RX=[ADV]
 8	kah	kak	AUX	_	_	_	_	_	AlignBegin=95392|AlignEnd=95448|GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	hwaːrà	hwaːràː	VERB	_	_	_	_	_	AlignBegin=95448|AlignEnd=95504|GE=begin|Gloss=begin|nWord=9|RX=[VERB]
-10-11	daːc'èːwaː	_	_	_	_	_	_	_	_
-10	daːc'èː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=95504|AlignEnd=95532|GE=chop_off|Gloss=chop_off|nWord=10|RX=[VERB]
-11	-waː	-waː	PART	_	_	_	_	_	AlignBegin=95532|AlignEnd=95560|GE=[Nmlz]|Gloss=Nmlz|nWord=10|RX=[PART]
-12	,	,	PUNCT	_	_	_	_	_	AlignBegin=95560|AlignEnd=95616|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-13	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=95616|AlignEnd=95672|GE=also|Gloss=also|nWord=12|RX=[ADV]
-14	sai	sai	ADV	_	_	_	_	_	AlignBegin=95672|AlignEnd=95728|GE=then|Gloss=then|nWord=13|RX=[ADV]
-15	kà	kà	AUX	_	_	_	_	_	AlignBegin=95728|AlignEnd=95784|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=14|RX=[AUX]
-16	daːc'èː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=95784|AlignEnd=95840|GE=chop_off|Gloss=chop_off|nWord=15|RX=[VERB]
-17	dàs	dàgà	ADP	_	_	_	_	_	AlignBegin=95840|AlignEnd=95896|GE=from|Gloss=from|nWord=16|RX=[ADP]
-18	samà	samà	ADV	_	_	_	_	_	AlignBegin=95896|AlignEnd=95952|GE=above|Gloss=above|nWord=17|RX=[ADV]
-19	.	.	PUNCT	_	_	_	_	_	AlignBegin=95952|AlignEnd=96000|Gloss=.|nWord=18|RX=[PUNCT]
+10	daːc'èːwaː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=95504|AlignEnd=95532|GE=chop_off|Gloss=chop_off.Nmlz.Fem|nWord=10|RX=[VERB]|wordform=daːc'èː
+11	,	,	PUNCT	_	_	_	_	_	AlignBegin=95560|AlignEnd=95616|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=95616|AlignEnd=95672|GE=also|Gloss=also|nWord=12|RX=[ADV]
+13	sai	sai	ADV	_	_	_	_	_	AlignBegin=95672|AlignEnd=95728|GE=then|Gloss=then|nWord=13|RX=[ADV]
+14	kà	kà	AUX	_	_	_	_	_	AlignBegin=95728|AlignEnd=95784|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=14|RX=[AUX]
+15	daːc'èː	daːc'èː	VERB	_	_	_	_	_	AlignBegin=95784|AlignEnd=95840|GE=chop_off|Gloss=chop_off|nWord=15|RX=[VERB]
+16	dàs	dàgà	ADP	_	_	_	_	_	AlignBegin=95840|AlignEnd=95896|GE=from|Gloss=from|nWord=16|RX=[ADP]
+17	samà	samà	ADV	_	_	_	_	_	AlignBegin=95896|AlignEnd=95952|GE=above|Gloss=above|nWord=17|RX=[ADV]
+18	.	.	PUNCT	_	_	_	_	_	AlignBegin=95952|AlignEnd=96000|Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_097-097
 # speaker_id = *
@@ -3690,19 +3669,17 @@
 23	hwaːrìn	hwaːrìː	NOUN	_	_	_	_	_	AlignBegin=108281|AlignEnd=108342|GE=[beginning].[Masc].[Def]|Gloss=beginning.Masc.Def|nWord=22|RX=[NOUN]
 24	,	,	PUNCT	_	_	_	_	_	AlignBegin=108342|AlignEnd=108403|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	anàː	anàː	AUX	_	_	_	_	_	AlignBegin=108403|AlignEnd=108464|GE=[4].[Imp]|Gloss=4.Imp|nWord=24|RX=[AUX]
-26-27	ɗumkèːwaː	_	_	_	_	_	_	_	_
-26	ɗumkèː	ɗumkèː	VERB	_	_	_	_	_	AlignBegin=108464|AlignEnd=108494|GE=sew_up|Gloss=sew_up|nWord=25|RX=[VERB]
-27	-waː	-waː	PART	_	_	_	_	_	AlignBegin=108494|AlignEnd=108525|GE=[Nmlz]|Gloss=Nmlz|nWord=25|RX=[PART]
-28	dà	dà	ADP	_	_	_	_	_	AlignBegin=108525|AlignEnd=108586|GE=with|Gloss=with|nWord=26|RX=[ADP]
-29-30	àlluːr̃àƙ	_	_	_	_	_	_	_	_
-29	àlluːr̃à	àlluːr̃àː	NOUN	_	_	_	_	_	AlignBegin=108586|AlignEnd=108616|GE=[needle].[Fem]|Gloss=needle.Fem|nWord=27|RX=[NOUN]
-30	-ƙ	-t	PART	_	_	_	_	_	AlignBegin=108616|AlignEnd=108647|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=27|RX=[PART]
-31	ƙayàː	ƙayàː	NOUN	_	_	_	_	_	AlignBegin=108647|AlignEnd=108708|GE=[thorn].[Fem]|Gloss=thorn.Fem|nWord=28|RX=[NOUN]
-32	,	,	PUNCT	_	_	_	_	_	AlignBegin=108708|AlignEnd=108769|GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
-33	ha'	hat	SCONJ	_	_	_	_	_	AlignBegin=108769|AlignEnd=108830|GE=until|Gloss=until|nWord=30|RX=[SCONJ]
-34	à	à	AUX	_	_	_	_	_	AlignBegin=108830|AlignEnd=108891|GE=[4].[Aor]|Gloss=4.Aor|nWord=31|RX=[AUX]
-35	ɗumkèː	ɗumkèː	VERB	_	_	_	_	_	AlignBegin=108891|AlignEnd=108952|GE=sew_up|Gloss=sew_up|nWord=32|RX=[VERB]
-36	.	.	PUNCT	_	_	_	_	_	AlignBegin=108952|AlignEnd=109000|Gloss=.|nWord=33|RX=[PUNCT]
+26	ɗumkèːwaː	ɗumkèː	VERB	_	_	_	_	_	AlignBegin=108464|AlignEnd=108494|GE=sew_up|Gloss=sew_up.Nmlz.Fem|nWord=25|RX=[VERB]|wordform=ɗumkèː
+27	dà	dà	ADP	_	_	_	_	_	AlignBegin=108525|AlignEnd=108586|GE=with|Gloss=with|nWord=26|RX=[ADP]
+28-29	àlluːr̃àƙ	_	_	_	_	_	_	_	_
+28	àlluːr̃à	àlluːr̃àː	NOUN	_	_	_	_	_	AlignBegin=108586|AlignEnd=108616|GE=[needle].[Fem]|Gloss=needle.Fem|nWord=27|RX=[NOUN]
+29	-ƙ	-t	PART	_	_	_	_	_	AlignBegin=108616|AlignEnd=108647|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=27|RX=[PART]
+30	ƙayàː	ƙayàː	NOUN	_	_	_	_	_	AlignBegin=108647|AlignEnd=108708|GE=[thorn].[Fem]|Gloss=thorn.Fem|nWord=28|RX=[NOUN]
+31	,	,	PUNCT	_	_	_	_	_	AlignBegin=108708|AlignEnd=108769|GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
+32	ha'	hat	SCONJ	_	_	_	_	_	AlignBegin=108769|AlignEnd=108830|GE=until|Gloss=until|nWord=30|RX=[SCONJ]
+33	à	à	AUX	_	_	_	_	_	AlignBegin=108830|AlignEnd=108891|GE=[4].[Aor]|Gloss=4.Aor|nWord=31|RX=[AUX]
+34	ɗumkèː	ɗumkèː	VERB	_	_	_	_	_	AlignBegin=108891|AlignEnd=108952|GE=sew_up|Gloss=sew_up|nWord=32|RX=[VERB]
+35	.	.	PUNCT	_	_	_	_	_	AlignBegin=108952|AlignEnd=109000|Gloss=.|nWord=33|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_110-110
 # speaker_id = *

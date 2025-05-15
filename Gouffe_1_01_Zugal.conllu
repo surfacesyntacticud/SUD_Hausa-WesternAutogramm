@@ -47,7 +47,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 4000, 5000
-# text = in sunkà rìgyaː sunkà musù, maːgànîn nan na zuːgàl, hay yak kaːmàː su, bâːsu iyà yîn koːmiː, sai dà cêːwam mazaː.
+# text = in sunkà rìgyaː sunkà musù , maːgànîn nan na zuːgàl , har̃ yak kaːmàː su , bâːsu iyà yîn koːmiː , sai dà cêːwam mazaː .
 # text_en = When they have done it to them, that zugal medicine, and it has caught them, they cannot do anything without telling the men.
 # text_orth = ’in sunkà ᵲìgyaa sunkà musù, maagàniǹ nan na zuugàl, hay yak kaamàa su, baà su ’iyà yiǹ koomii, sai dà ceèwam mazaa.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=4000|AlignEnd=4038|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -75,12 +75,11 @@
 22	,	,	PUNCT	_	_	_	_	_	AlignBegin=4760|AlignEnd=4798|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 23	sai	sai	ADV	_	_	_	_	_	AlignBegin=4798|AlignEnd=4836|GE=then|Gloss=then|nWord=22|RX=[ADV]
 24	dà	dà	ADP	_	_	_	_	_	AlignBegin=4836|AlignEnd=4874|GE=with|Gloss=with|nWord=23|RX=[ADP]
-25-27	cêːwam	_	_	_	_	_	_	_	_
-25	cêː	cêː	VERB	_	_	_	_	_	AlignBegin=4874|AlignEnd=4887|GE=say|Gloss=say|nWord=24|RX=[VERB]
-26	-wa	-waː	PART	_	_	_	_	_	AlignBegin=4887|AlignEnd=4900|GE=[Nmlz]|Gloss=Nmlz|nWord=24|RX=[PART]
-27	-m	-n	PART	_	_	_	_	_	AlignBegin=4900|AlignEnd=4912|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=24|RX=[PART]
-28	mazaː	mazaː	NOUN	_	_	_	_	_	AlignBegin=4912|AlignEnd=4950|GE=[husband].[Plur]|Gloss=husband.Plur|nWord=25|RX=[NOUN]
-29	.	.	PUNCT	_	_	_	_	_	AlignBegin=4950|AlignEnd=5000|Gloss=.|nWord=26|RX=[PUNCT]
+25-26	cêːwam	_	_	_	_	_	_	_	_
+25	cêːwaː	cêː	VERB	_	_	_	_	_	AlignBegin=4874|AlignEnd=4887|GE=say|Gloss=say.Nmlz.Fem|nWord=24|RX=[VERB]|wordform=cêː
+26	-m	-n	PART	_	_	_	_	_	AlignBegin=4900|AlignEnd=4912|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=24|RX=[PART]
+27	mazaː	mazaː	NOUN	_	_	_	_	_	AlignBegin=4912|AlignEnd=4950|GE=[husband].[Plur]|Gloss=husband.Plur|nWord=25|RX=[NOUN]
+28	.	.	PUNCT	_	_	_	_	_	AlignBegin=4950|AlignEnd=5000|Gloss=.|nWord=26|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_005-005
 # speaker_id = *
@@ -105,7 +104,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 6000, 7000
-# text = in sunkà rìgyaː sunkà yi shì, has sunkà bâː namijì, yac ci, bâːshi iyà yîn koːmiː, sai tàːre dà cêːwassù, dom maːgàniː yaː kaːmàː shi.
+# text = in sunkà rìgyaː sunkà yi shì , har̃ sunkà bâː namijì , yac ci , bâːshi iyà yîn koːmiː , sai tàːre dà cêːwassù , dom maːgàniː yaː kaːmàː shi .
 # text_en = If they have done it and they give it to the man, if he takes it, he cannot do anything without telling them, because the medicine has caught him.
 # text_orth = ’in sunkà ᵲìgyaa sunkà yi šì, has sunkà baà namijì, yac ci, baà ši ’iyà yiǹ koomii, sai tàaᵲe dà ceèwassù, dom maagànii yaa kaamàa ši.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=6000|AlignEnd=6032|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -133,18 +132,17 @@
 22	sai	sai	ADV	_	_	_	_	_	AlignBegin=6640|AlignEnd=6672|GE=then|Gloss=then|nWord=21|RX=[ADV]
 23	tàːre	tàːre	ADV	_	_	_	_	_	AlignBegin=6672|AlignEnd=6704|GE=together|Gloss=together|nWord=22|RX=[ADV]
 24	dà	dà	ADP	_	_	_	_	_	AlignBegin=6704|AlignEnd=6736|GE=with|Gloss=with|nWord=23|RX=[ADP]
-25-28	cêːwassù	_	_	_	_	_	_	_	_
-25	cêː	cêː	VERB	_	_	_	_	_	AlignBegin=6736|AlignEnd=6744|GE=say|Gloss=say|nWord=24|RX=[VERB]
-26	-wa	-waː	PART	_	_	_	_	_	AlignBegin=6744|AlignEnd=6752|GE=[Nmlz]|Gloss=Nmlz|nWord=24|RX=[PART]
-27	-s	-t	PART	_	_	_	_	_	AlignBegin=6752|AlignEnd=6760|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=24|RX=[PART]
-28	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=6760|AlignEnd=6768|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=24|RX=[PRON]
-29	,	,	PUNCT	_	_	_	_	_	AlignBegin=6768|AlignEnd=6800|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-30	dom	don	SCONJ	_	_	_	_	_	AlignBegin=6800|AlignEnd=6832|GE=because|Gloss=because|nWord=26|RX=[SCONJ]
-31	maːgàniː	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=6832|AlignEnd=6864|GE=[medicine/spell].[Masc]|Gloss=medicine/spell.Masc|nWord=27|RX=[NOUN]
-32	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=6864|AlignEnd=6896|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=28|RX=[AUX]
-33	kaːmàː	kaːmàː	VERB	_	_	_	_	_	AlignBegin=6896|AlignEnd=6928|GE=catch|Gloss=catch|nWord=29|RX=[VERB]
-34	shi	shi	PRON	_	_	_	_	_	AlignBegin=6928|AlignEnd=6960|GE=[3Masc]|Gloss=3Masc|nWord=30|RX=[PRON]
-35	.	.	PUNCT	_	_	_	_	_	AlignBegin=6960|AlignEnd=7000|Gloss=.|nWord=31|RX=[PUNCT]
+25-27	cêːwassù	_	_	_	_	_	_	_	_
+25	cêːwaː	cêː	VERB	_	_	_	_	_	AlignBegin=6736|AlignEnd=6744|GE=say|Gloss=say.Nmlz.Fem|nWord=24|RX=[VERB]|wordform=cêː
+26	-s	-t	PART	_	_	_	_	_	AlignBegin=6752|AlignEnd=6760|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=24|RX=[PART]
+27	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=6760|AlignEnd=6768|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=24|RX=[PRON]
+28	,	,	PUNCT	_	_	_	_	_	AlignBegin=6768|AlignEnd=6800|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+29	dom	don	SCONJ	_	_	_	_	_	AlignBegin=6800|AlignEnd=6832|GE=because|Gloss=because|nWord=26|RX=[SCONJ]
+30	maːgàniː	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=6832|AlignEnd=6864|GE=[medicine/spell].[Masc]|Gloss=medicine/spell.Masc|nWord=27|RX=[NOUN]
+31	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=6864|AlignEnd=6896|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=28|RX=[AUX]
+32	kaːmàː	kaːmàː	VERB	_	_	_	_	_	AlignBegin=6896|AlignEnd=6928|GE=catch|Gloss=catch|nWord=29|RX=[VERB]
+33	shi	shi	PRON	_	_	_	_	_	AlignBegin=6928|AlignEnd=6960|GE=[3Masc]|Gloss=3Masc|nWord=30|RX=[PRON]
+34	.	.	PUNCT	_	_	_	_	_	AlignBegin=6960|AlignEnd=7000|Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_007-007
 # speaker_id = *
@@ -1024,12 +1022,10 @@
 15	,	,	PUNCT	_	_	_	_	_	AlignBegin=35285|AlignEnd=35296|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 16	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=35296|AlignEnd=35307|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=13|RX=[AUX]
 17	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=35307|AlignEnd=35318|GE=be_able|Gloss=be_able|nWord=14|RX=[VERB]
-18-19	ràbuwaː	_	_	_	_	_	_	_	_
-18	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=35318|AlignEnd=35324|GE=separate|Gloss=separate|nWord=15|RX=[VERB]
-19	-waː	-waː	PART	_	_	_	_	_	AlignBegin=35324|AlignEnd=35329|GE=[Nmlz]|Gloss=Nmlz|nWord=15|RX=[PART]
-20	dà	dà	ADP	_	_	_	_	_	AlignBegin=35329|AlignEnd=35340|GE=with|Gloss=with|nWord=16|RX=[ADP]
-21	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=35340|AlignEnd=35351|GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
-22	.	.	PUNCT	_	_	_	_	_	AlignBegin=35351|AlignEnd=35361|Gloss=.|nWord=18|RX=[PUNCT]
+18	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=35318|AlignEnd=35324|GE=separate|Gloss=separate.Nmlz.Fem|nWord=15|RX=[VERB]|wordform=ràbu
+19	dà	dà	ADP	_	_	_	_	_	AlignBegin=35329|AlignEnd=35340|GE=with|Gloss=with|nWord=16|RX=[ADP]
+20	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=35340|AlignEnd=35351|GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
+21	.	.	PUNCT	_	_	_	_	_	AlignBegin=35351|AlignEnd=35361|Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_038-038
 # speaker_id = *
@@ -1430,12 +1426,10 @@
 36	ita	ita	PRON	_	_	_	_	_	AlignBegin=45806|AlignEnd=45832|GE=[3Fem]|Gloss=3Fem|nWord=32|RX=[PRON]
 37	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=45832|AlignEnd=45858|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=33|RX=[AUX]
 38	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=45858|AlignEnd=45884|GE=be_able|Gloss=be_able|nWord=34|RX=[VERB]
-39-40	ràbuwaː	_	_	_	_	_	_	_	_
-39	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=45884|AlignEnd=45897|GE=separate|Gloss=separate|nWord=35|RX=[VERB]
-40	-waː	-waː	PART	_	_	_	_	_	AlignBegin=45897|AlignEnd=45910|GE=[Nmlz]|Gloss=Nmlz|nWord=35|RX=[PART]
-41	dà	dà	ADP	_	_	_	_	_	AlignBegin=45910|AlignEnd=45936|GE=with|Gloss=with|nWord=36|RX=[ADP]
-42	kai	kai	PRON	_	_	_	_	_	AlignBegin=45936|AlignEnd=45962|GE=[2Masc]|Gloss=2Masc|nWord=37|RX=[PRON]
-43	.	.	PUNCT	_	_	_	_	_	AlignBegin=45962|AlignEnd=46000|Gloss=.|nWord=38|RX=[PUNCT]
+39	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=45884|AlignEnd=45897|GE=separate|Gloss=separate.Nmlz.Fem|nWord=35|RX=[VERB]|wordform=ràbu
+40	dà	dà	ADP	_	_	_	_	_	AlignBegin=45910|AlignEnd=45936|GE=with|Gloss=with|nWord=36|RX=[ADP]
+41	kai	kai	PRON	_	_	_	_	_	AlignBegin=45936|AlignEnd=45962|GE=[2Masc]|Gloss=2Masc|nWord=37|RX=[PRON]
+42	.	.	PUNCT	_	_	_	_	_	AlignBegin=45962|AlignEnd=46000|Gloss=.|nWord=38|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_052-052
 # speaker_id = *
@@ -1994,26 +1988,24 @@
 23	,	,	PUNCT	_	_	_	_	_	AlignBegin=60432|AlignEnd=60456|GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 24	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=60456|AlignEnd=60480|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=20|RX=[AUX]
 25	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=60480|AlignEnd=60504|GE=be_able|Gloss=be_able|nWord=21|RX=[VERB]
-26-27	ràbuwaː	_	_	_	_	_	_	_	_
-26	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=60504|AlignEnd=60516|GE=separate|Gloss=separate|nWord=22|RX=[VERB]
-27	-waː	-waː	PART	_	_	_	_	_	AlignBegin=60516|AlignEnd=60528|GE=[Nmlz]|Gloss=Nmlz|nWord=22|RX=[PART]
-28	dà	dà	ADP	_	_	_	_	_	AlignBegin=60528|AlignEnd=60552|GE=with|Gloss=with|nWord=23|RX=[ADP]
-29	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=60552|AlignEnd=60576|GE=[3Masc]|Gloss=3Masc|nWord=24|RX=[PRON]
-30	,	,	PUNCT	_	_	_	_	_	AlignBegin=60576|AlignEnd=60600|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-31	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=60600|AlignEnd=60624|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=26|RX=[PREDPART]
-32-34	ruwantà	_	_	_	_	_	_	_	_
-32	ruwa	ruwaː	NOUN	_	_	_	_	_	AlignBegin=60624|AlignEnd=60632|GE=[water].[Plur]|Gloss=water.Plur|nWord=27|RX=[NOUN]
-33	-n	-n	PART	_	_	_	_	_	AlignBegin=60632|AlignEnd=60640|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=27|RX=[PART]
-34	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=60640|AlignEnd=60648|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=27|RX=[PRON]
-35	dà	dà	ADP	_	_	_	_	_	AlignBegin=60648|AlignEnd=60672|GE=with|Gloss=with|nWord=28|RX=[ADP]
-36	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=60672|AlignEnd=60696|GE=everyone|Gloss=everyone|nWord=29|RX=[PRON]
-37	,	,	PUNCT	_	_	_	_	_	AlignBegin=60696|AlignEnd=60720|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-38	sai	sai	ADV	_	_	_	_	_	AlignBegin=60720|AlignEnd=60744|GE=then|Gloss=then|nWord=31|RX=[ADV]
-39	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=60744|AlignEnd=60768|GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
-40	kaɗai	kaɗai	ADJ	_	_	_	_	_	AlignBegin=60768|AlignEnd=60792|GE=alone|Gloss=alone|nWord=33|RX=[ADJ]
-41	takà	takà	AUX	_	_	_	_	_	AlignBegin=60792|AlignEnd=60816|GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=34|RX=[AUX]
-42	sôː	sôː	VERB	_	_	_	_	_	AlignBegin=60816|AlignEnd=60840|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=35|RX=[VERB]
-43	.	.	PUNCT	_	_	_	_	_	AlignBegin=60840|AlignEnd=60851|Gloss=.|nWord=36|RX=[PUNCT]
+26	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=60504|AlignEnd=60516|GE=separate|Gloss=separate.Nmlz.Fem|nWord=22|RX=[VERB]|wordform=ràbu
+27	dà	dà	ADP	_	_	_	_	_	AlignBegin=60528|AlignEnd=60552|GE=with|Gloss=with|nWord=23|RX=[ADP]
+28	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=60552|AlignEnd=60576|GE=[3Masc]|Gloss=3Masc|nWord=24|RX=[PRON]
+29	,	,	PUNCT	_	_	_	_	_	AlignBegin=60576|AlignEnd=60600|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+30	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=60600|AlignEnd=60624|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=26|RX=[PREDPART]
+31-33	ruwantà	_	_	_	_	_	_	_	_
+31	ruwa	ruwaː	NOUN	_	_	_	_	_	AlignBegin=60624|AlignEnd=60632|GE=[water].[Plur]|Gloss=water.Plur|nWord=27|RX=[NOUN]
+32	-n	-n	PART	_	_	_	_	_	AlignBegin=60632|AlignEnd=60640|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=27|RX=[PART]
+33	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=60640|AlignEnd=60648|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=27|RX=[PRON]
+34	dà	dà	ADP	_	_	_	_	_	AlignBegin=60648|AlignEnd=60672|GE=with|Gloss=with|nWord=28|RX=[ADP]
+35	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=60672|AlignEnd=60696|GE=everyone|Gloss=everyone|nWord=29|RX=[PRON]
+36	,	,	PUNCT	_	_	_	_	_	AlignBegin=60696|AlignEnd=60720|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+37	sai	sai	ADV	_	_	_	_	_	AlignBegin=60720|AlignEnd=60744|GE=then|Gloss=then|nWord=31|RX=[ADV]
+38	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=60744|AlignEnd=60768|GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
+39	kaɗai	kaɗai	ADJ	_	_	_	_	_	AlignBegin=60768|AlignEnd=60792|GE=alone|Gloss=alone|nWord=33|RX=[ADJ]
+40	takà	takà	AUX	_	_	_	_	_	AlignBegin=60792|AlignEnd=60816|GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=34|RX=[AUX]
+41	sôː	sôː	VERB	_	_	_	_	_	AlignBegin=60816|AlignEnd=60840|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=35|RX=[VERB]
+42	.	.	PUNCT	_	_	_	_	_	AlignBegin=60840|AlignEnd=60851|Gloss=.|nWord=36|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_071-072
 # speaker_id = *
@@ -2078,19 +2070,17 @@
 20	suː	suː	PRON	_	_	_	_	_	AlignBegin=62570|AlignEnd=62600|GE=[3Plur]|Gloss=3Plur|nWord=20|RX=[PRON]
 21	a	a	PRON	_	_	_	_	_	AlignBegin=62600|AlignEnd=62630|GE=[4]|Gloss=4|nWord=21|RX=[PRON]
 22	kà	kà	AUX	_	_	_	_	_	AlignBegin=62630|AlignEnd=62660|GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=22|RX=[AUX]
-23-24	hiddàːwaː	_	_	_	_	_	_	_	_
-23	hiddàː	hiddàː	VERB	_	_	_	_	_	AlignBegin=62660|AlignEnd=62675|GE=remove|Gloss=remove|nWord=23|RX=[VERB]
-24	-waː	-waː	PART	_	_	_	_	_	AlignBegin=62675|AlignEnd=62690|GE=[Nmlz]|Gloss=Nmlz|nWord=23|RX=[PART]
-25	,	,	PUNCT	_	_	_	_	_	AlignBegin=62690|AlignEnd=62720|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-26	màːsu	màːsu	PART	_	_	_	_	_	AlignBegin=62720|AlignEnd=62750|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=25|RX=[PART]
-27	tauriː	tauriː	NOUN	_	_	_	_	_	AlignBegin=62750|AlignEnd=62780|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=26|RX=[NOUN]
-28	,	,	PUNCT	_	_	_	_	_	AlignBegin=62780|AlignEnd=62810|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-29	à	à	AUX	_	_	_	_	_	AlignBegin=62810|AlignEnd=62840|GE=[4].[Aor]|Gloss=4.Aor|nWord=28|RX=[AUX]
-30	yi	yi	VERB	_	_	_	_	_	AlignBegin=62840|AlignEnd=62870|GE=do|Gloss=do|nWord=29|RX=[VERB]
-31	aikìː	aikìː	NOUN	_	_	_	_	_	AlignBegin=62870|AlignEnd=62900|GE=[work].[Masc]|Gloss=work.Masc|nWord=30|RX=[NOUN]
-32	dà	dà	ADP	_	_	_	_	_	AlignBegin=62900|AlignEnd=62930|GE=with|Gloss=with|nWord=31|RX=[ADP]
-33	kwàlhwâk	kwàlhwaː	NOUN	_	_	_	_	_	AlignBegin=62930|AlignEnd=62960|GE=[nutshell].[Fem].[Def]|Gloss=nutshell.Fem.Def|nWord=32|RX=[NOUN]
-34	.	.	PUNCT	_	_	_	_	_	AlignBegin=62960|AlignEnd=63000|Gloss=.|nWord=33|RX=[PUNCT]
+23	hiddàːwaː	hiddàː	VERB	_	_	_	_	_	AlignBegin=62660|AlignEnd=62675|GE=remove|Gloss=remove.Nmlz.Fem|nWord=23|RX=[VERB]|wordform=hiddàː
+24	,	,	PUNCT	_	_	_	_	_	AlignBegin=62690|AlignEnd=62720|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+25	màːsu	màːsu	PART	_	_	_	_	_	AlignBegin=62720|AlignEnd=62750|GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=25|RX=[PART]
+26	tauriː	tauriː	NOUN	_	_	_	_	_	AlignBegin=62750|AlignEnd=62780|GE=[toughness].[Masc]|Gloss=toughness.Masc|nWord=26|RX=[NOUN]
+27	,	,	PUNCT	_	_	_	_	_	AlignBegin=62780|AlignEnd=62810|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
+28	à	à	AUX	_	_	_	_	_	AlignBegin=62810|AlignEnd=62840|GE=[4].[Aor]|Gloss=4.Aor|nWord=28|RX=[AUX]
+29	yi	yi	VERB	_	_	_	_	_	AlignBegin=62840|AlignEnd=62870|GE=do|Gloss=do|nWord=29|RX=[VERB]
+30	aikìː	aikìː	NOUN	_	_	_	_	_	AlignBegin=62870|AlignEnd=62900|GE=[work].[Masc]|Gloss=work.Masc|nWord=30|RX=[NOUN]
+31	dà	dà	ADP	_	_	_	_	_	AlignBegin=62900|AlignEnd=62930|GE=with|Gloss=with|nWord=31|RX=[ADP]
+32	kwàlhwâk	kwàlhwaː	NOUN	_	_	_	_	_	AlignBegin=62930|AlignEnd=62960|GE=[nutshell].[Fem].[Def]|Gloss=nutshell.Fem.Def|nWord=32|RX=[NOUN]
+33	.	.	PUNCT	_	_	_	_	_	AlignBegin=62960|AlignEnd=63000|Gloss=.|nWord=33|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_074-074
 # speaker_id = *
@@ -2767,13 +2757,11 @@
 28	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=83744|AlignEnd=83775|GE=[person].[Masc]|Gloss=person.Masc|nWord=25|RX=[NOUN]
 29	,	,	PUNCT	_	_	_	_	_	AlignBegin=83775|AlignEnd=83806|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 30	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=83806|AlignEnd=83837|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=27|RX=[AUX]
-31	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=83837|AlignEnd=83868|GE=be_able|Gloss=be_able|nWord=28|RX=[VERB]
-32-33	ràbuwaː	_	_	_	_	_	_	_	_
-32	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=83868|AlignEnd=83884|GE=separate|Gloss=separate|nWord=29|RX=[VERB]
-33	-waː	-waː	PART	_	_	_	_	_	AlignBegin=83884|AlignEnd=83899|GE=[Nmlz]|Gloss=Nmlz|nWord=29|RX=[PART]
-34	dà	dà	ADP	_	_	_	_	_	AlignBegin=83899|AlignEnd=83930|GE=with|Gloss=with|nWord=30|RX=[ADP]
-35	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=83930|AlignEnd=83961|GE=[3Masc]|Gloss=3Masc|nWord=31|RX=[PRON]
-36	.	.	PUNCT	_	_	_	_	_	AlignBegin=83961|AlignEnd=84000|Gloss=.|nWord=32|RX=[PUNCT]
+31	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=83837|AlignEnd=83868|GE=be_able|Gloss=be_able|nWord=28|RX=[VERB]|wordform=iyàː
+32	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=83868|AlignEnd=83884|GE=separate|Gloss=separate.Nmlz.Fem|nWord=29|RX=[VERB]|wordform=ràbu
+33	dà	dà	ADP	_	_	_	_	_	AlignBegin=83899|AlignEnd=83930|GE=with|Gloss=with|nWord=30|RX=[ADP]
+34	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=83930|AlignEnd=83961|GE=[3Masc]|Gloss=3Masc|nWord=31|RX=[PRON]
+35	.	.	PUNCT	_	_	_	_	_	AlignBegin=83961|AlignEnd=84000|Gloss=.|nWord=32|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_099-099
 # speaker_id = *
@@ -3141,10 +3129,8 @@
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=91768|AlignEnd=91816|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	indà	indà	ADV	_	_	_	_	_	AlignBegin=91816|AlignEnd=91864|GE=where|Gloss=where|nWord=18|RX=[ADV]
 19	bâːsu	bâːsu	AUX	_	_	_	_	_	AlignBegin=91864|AlignEnd=91912|GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=19|RX=[AUX]
-20-21	bushèːwaː	_	_	_	_	_	_	_	_
-20	bushèː	bushèː	VERB	_	_	_	_	_	AlignBegin=91912|AlignEnd=91936|GE=dry_up|Gloss=dry_up|nWord=20|RX=[VERB]
-21	-waː	-waː	PART	_	_	_	_	_	AlignBegin=91936|AlignEnd=91960|GE=[Nmlz]|Gloss=Nmlz|nWord=20|RX=[PART]
-22	.	.	PUNCT	_	_	_	_	_	AlignBegin=91960|AlignEnd=92000|Gloss=.|nWord=21|RX=[PUNCT]
+20	bushèːwaː	bushèː	VERB	_	_	_	_	_	AlignBegin=91912|AlignEnd=91936|GE=dry_up|Gloss=dry_up.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=bushèː
+21	.	.	PUNCT	_	_	_	_	_	AlignBegin=91960|AlignEnd=92000|Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_110-110
 # speaker_id = *
@@ -3189,39 +3175,37 @@
 32	ruwaː	ruwaː	NOUN	_	_	_	_	_	AlignBegin=92504|AlignEnd=92522|GE=[water].[Plur]|Gloss=water.Plur|nWord=29|RX=[NOUN]
 33	,	,	PUNCT	_	_	_	_	_	AlignBegin=92522|AlignEnd=92540|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 34	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=92540|AlignEnd=92558|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=31|RX=[AUX]
-35-36	shaːhèːwaː	_	_	_	_	_	_	_	_
-35	shaːhèː	shaːhèː	VERB	_	_	_	_	_	AlignBegin=92558|AlignEnd=92567|GE=rub|Gloss=rub|nWord=32|RX=[VERB]
-36	-waː	-waː	PART	_	_	_	_	_	AlignBegin=92567|AlignEnd=92576|GE=[Nmlz]|Gloss=Nmlz|nWord=32|RX=[PART]
-37	dà	dà	ADP	_	_	_	_	_	AlignBegin=92576|AlignEnd=92594|GE=with|Gloss=with|nWord=33|RX=[ADP]
-38	wani	wani	DET	_	_	_	_	_	AlignBegin=92594|AlignEnd=92612|GE=[some].[Masc]|Gloss=some.Masc|nWord=34|RX=[DET]
-39	ƙyalleː	ƙyalleː	NOUN	_	_	_	_	_	AlignBegin=92612|AlignEnd=92630|GE=cloth|Gloss=cloth|nWord=35|RX=[NOUN]
-40	,	,	PUNCT	_	_	_	_	_	AlignBegin=92630|AlignEnd=92648|GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
-41	sai	sai	ADV	_	_	_	_	_	AlignBegin=92648|AlignEnd=92666|GE=then|Gloss=then|nWord=37|RX=[ADV]
-42	shi	shi	PRON	_	_	_	_	_	AlignBegin=92666|AlignEnd=92684|GE=[3Masc]|Gloss=3Masc|nWord=38|RX=[PRON]
-43-44	ɗaukoː	_	_	_	_	_	_	_	_
-43	ɗauk	ɗàukaː	VERB	_	_	_	_	_	AlignBegin=92684|AlignEnd=92693|GE=take|Gloss=take|nWord=39|RX=[VERB]
-44	-oː	-oː	PART	_	_	_	_	_	AlignBegin=92693|AlignEnd=92702|GE=[Dir]|Gloss=Dir|nWord=39|RX=[PART]
-45-46	kunnàn	_	_	_	_	_	_	_	_
-45	kunnài	kunnài	NOUN	_	_	_	_	_	AlignBegin=92702|AlignEnd=92711|GE=[ear].[Plur]|Gloss=ear.Plur|nWord=40|RX=[NOUN]
-46	-n	-n	PART	_	_	_	_	_	AlignBegin=92711|AlignEnd=92720|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=40|RX=[PART]
-47	nan	nan	DET	_	_	_	_	_	AlignBegin=92720|AlignEnd=92738|GE=[Dist]|Gloss=Dist|nWord=41|RX=[DET]
-48	na	na	PART	_	_	_	_	_	AlignBegin=92738|AlignEnd=92756|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=42|RX=[PART]
-49	runhuː	runhuː	NOUN	_	_	_	_	_	AlignBegin=92756|AlignEnd=92774|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=43|RX=[NOUN]
-50	,	,	PUNCT	_	_	_	_	_	AlignBegin=92774|AlignEnd=92792|GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
-51	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=92792|AlignEnd=92810|GE=[who].[Plur]|Gloss=who.Plur|nWord=45|RX=[PRON]
-52	ya’	yak	AUX	_	_	_	_	_	AlignBegin=92810|AlignEnd=92828|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=46|RX=[AUX]
-53	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=92828|AlignEnd=92846|GE=put_aside|Gloss=put_aside|nWord=47|RX=[VERB]
-54	,	,	PUNCT	_	_	_	_	_	AlignBegin=92846|AlignEnd=92864|GE=[PUNCT]|Gloss=PUNCT|nWord=48|RX=[PUNCT]
-55	sai	sai	ADV	_	_	_	_	_	AlignBegin=92864|AlignEnd=92882|GE=then|Gloss=then|nWord=49|RX=[ADV]
-56	shì	shì	AUX	_	_	_	_	_	AlignBegin=92882|AlignEnd=92900|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=50|RX=[AUX]
-57	shaːhè	shaːhèː	VERB	_	_	_	_	_	AlignBegin=92900|AlignEnd=92918|GE=rub|Gloss=rub|nWord=51|RX=[VERB]
-58-60	màzàːkuːtàːtai	_	_	_	_	_	_	_	_
-58	màzàːkuːtàː	màzàːkuːtàː	NOUN	_	_	_	_	_	AlignBegin=92918|AlignEnd=92924|GE=[penis].[Fem]|Gloss=penis.Fem|nWord=52|RX=[NOUN]
-59	-t	-t	PART	_	_	_	_	_	AlignBegin=92924|AlignEnd=92930|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=52|RX=[PART]
-60	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=92930|AlignEnd=92936|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=52|RX=[PRON]
-61	dà	dà	ADP	_	_	_	_	_	AlignBegin=92936|AlignEnd=92954|GE=with|Gloss=with|nWord=53|RX=[ADP]
-62	suː	suː	PRON	_	_	_	_	_	AlignBegin=92954|AlignEnd=92972|GE=[3Plur]|Gloss=3Plur|nWord=54|RX=[PRON]
-63	.	.	PUNCT	_	_	_	_	_	AlignBegin=92972|AlignEnd=93000|Gloss=.|nWord=55|RX=[PUNCT]
+35	shaːhèːwaː	shaːhèː	VERB	_	_	_	_	_	AlignBegin=92558|AlignEnd=92567|GE=rub|Gloss=rub.Nmlz.Fem|nWord=32|RX=[VERB]|wordform=shaːhèː
+36	dà	dà	ADP	_	_	_	_	_	AlignBegin=92576|AlignEnd=92594|GE=with|Gloss=with|nWord=33|RX=[ADP]
+37	wani	wani	DET	_	_	_	_	_	AlignBegin=92594|AlignEnd=92612|GE=[some].[Masc]|Gloss=some.Masc|nWord=34|RX=[DET]
+38	ƙyalleː	ƙyalleː	NOUN	_	_	_	_	_	AlignBegin=92612|AlignEnd=92630|GE=cloth|Gloss=cloth|nWord=35|RX=[NOUN]
+39	,	,	PUNCT	_	_	_	_	_	AlignBegin=92630|AlignEnd=92648|GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
+40	sai	sai	ADV	_	_	_	_	_	AlignBegin=92648|AlignEnd=92666|GE=then|Gloss=then|nWord=37|RX=[ADV]
+41	shi	shi	PRON	_	_	_	_	_	AlignBegin=92666|AlignEnd=92684|GE=[3Masc]|Gloss=3Masc|nWord=38|RX=[PRON]
+42-43	ɗaukoː	_	_	_	_	_	_	_	_
+42	ɗauk	ɗàukaː	VERB	_	_	_	_	_	AlignBegin=92684|AlignEnd=92693|GE=take|Gloss=take|nWord=39|RX=[VERB]
+43	-oː	-oː	PART	_	_	_	_	_	AlignBegin=92693|AlignEnd=92702|GE=[Dir]|Gloss=Dir|nWord=39|RX=[PART]
+44-45	kunnàn	_	_	_	_	_	_	_	_
+44	kunnài	kunnài	NOUN	_	_	_	_	_	AlignBegin=92702|AlignEnd=92711|GE=[ear].[Plur]|Gloss=ear.Plur|nWord=40|RX=[NOUN]
+45	-n	-n	PART	_	_	_	_	_	AlignBegin=92711|AlignEnd=92720|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=40|RX=[PART]
+46	nan	nan	DET	_	_	_	_	_	AlignBegin=92720|AlignEnd=92738|GE=[Dist]|Gloss=Dist|nWord=41|RX=[DET]
+47	na	na	PART	_	_	_	_	_	AlignBegin=92738|AlignEnd=92756|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=42|RX=[PART]
+48	runhuː	runhuː	NOUN	_	_	_	_	_	AlignBegin=92756|AlignEnd=92774|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=43|RX=[NOUN]
+49	,	,	PUNCT	_	_	_	_	_	AlignBegin=92774|AlignEnd=92792|GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
+50	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=92792|AlignEnd=92810|GE=[who].[Plur]|Gloss=who.Plur|nWord=45|RX=[PRON]
+51	ya’	yak	AUX	_	_	_	_	_	AlignBegin=92810|AlignEnd=92828|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=46|RX=[AUX]
+52	ajèː	ajèː	VERB	_	_	_	_	_	AlignBegin=92828|AlignEnd=92846|GE=put_aside|Gloss=put_aside|nWord=47|RX=[VERB]
+53	,	,	PUNCT	_	_	_	_	_	AlignBegin=92846|AlignEnd=92864|GE=[PUNCT]|Gloss=PUNCT|nWord=48|RX=[PUNCT]
+54	sai	sai	ADV	_	_	_	_	_	AlignBegin=92864|AlignEnd=92882|GE=then|Gloss=then|nWord=49|RX=[ADV]
+55	shì	shì	AUX	_	_	_	_	_	AlignBegin=92882|AlignEnd=92900|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=50|RX=[AUX]
+56	shaːhè	shaːhèː	VERB	_	_	_	_	_	AlignBegin=92900|AlignEnd=92918|GE=rub|Gloss=rub|nWord=51|RX=[VERB]
+57-59	màzàːkuːtàːtai	_	_	_	_	_	_	_	_
+57	màzàːkuːtàː	màzàːkuːtàː	NOUN	_	_	_	_	_	AlignBegin=92918|AlignEnd=92924|GE=[penis].[Fem]|Gloss=penis.Fem|nWord=52|RX=[NOUN]
+58	-t	-t	PART	_	_	_	_	_	AlignBegin=92924|AlignEnd=92930|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=52|RX=[PART]
+59	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=92930|AlignEnd=92936|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=52|RX=[PRON]
+60	dà	dà	ADP	_	_	_	_	_	AlignBegin=92936|AlignEnd=92954|GE=with|Gloss=with|nWord=53|RX=[ADP]
+61	suː	suː	PRON	_	_	_	_	_	AlignBegin=92954|AlignEnd=92972|GE=[3Plur]|Gloss=3Plur|nWord=54|RX=[PRON]
+62	.	.	PUNCT	_	_	_	_	_	AlignBegin=92972|AlignEnd=93000|Gloss=.|nWord=55|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_111-111
 # speaker_id = *
@@ -3343,13 +3327,11 @@
 6	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=98385|AlignEnd=98462|GE=[who].[Fem]|Gloss=who.Fem|nWord=6|RX=[PRON]
 7	màcce	màcce	NOUN	_	_	_	_	_	AlignBegin=98462|AlignEnd=98539|GE=[woman].[Fem]|Gloss=woman.Fem|nWord=7|RX=[NOUN]
 8	kà	kà	AUX	_	_	_	_	_	AlignBegin=98539|AlignEnd=98616|GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=8|RX=[AUX]
-9-10	riƙàːwaː	_	_	_	_	_	_	_	_
-9	riƙàː	riƙàː	VERB	_	_	_	_	_	AlignBegin=98616|AlignEnd=98654|GE=seize|Gloss=seize|nWord=9|RX=[VERB]
-10	-waː	-waː	PART	_	_	_	_	_	AlignBegin=98654|AlignEnd=98693|GE=[Nmlz]|Gloss=Nmlz|nWord=9|RX=[PART]
-11	,	,	PUNCT	_	_	_	_	_	AlignBegin=98693|AlignEnd=98770|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-12	tanàː	tanàː	AUX	_	_	_	_	_	AlignBegin=98770|AlignEnd=98847|GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=11|RX=[AUX]
-13	dakàː	dakàː	VERB	_	_	_	_	_	AlignBegin=98847|AlignEnd=98924|GE=pound|Gloss=pound|nWord=12|RX=[VERB]
-14	.	.	PUNCT	_	_	_	_	_	AlignBegin=98924|AlignEnd=99000|Gloss=.|nWord=13|RX=[PUNCT]
+9	riƙàːwaː	riƙàː	VERB	_	_	_	_	_	AlignBegin=98616|AlignEnd=98654|GE=seize|Gloss=seize.Nmlz.Fem|nWord=9|RX=[VERB]|wordform=riƙàː
+10	,	,	PUNCT	_	_	_	_	_	AlignBegin=98693|AlignEnd=98770|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	tanàː	tanàː	AUX	_	_	_	_	_	AlignBegin=98770|AlignEnd=98847|GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=11|RX=[AUX]
+12	dakàː	dakàː	VERB	_	_	_	_	_	AlignBegin=98847|AlignEnd=98924|GE=pound|Gloss=pound|nWord=12|RX=[VERB]
+13	.	.	PUNCT	_	_	_	_	_	AlignBegin=98924|AlignEnd=99000|Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_117-117
 # speaker_id = *
@@ -3423,14 +3405,12 @@
 2	ɗan	ɗan	ADV	_	_	_	_	_	AlignBegin=100100|AlignEnd=100200|GE=little|Gloss=little|nWord=2|RX=[ADV]
 3	kàɗannà	kàɗannà	ADV	_	_	_	_	_	AlignBegin=100200|AlignEnd=100300|GE=small|Gloss=small|nWord=3|RX=[ADV]
 4	akà	akà	AUX	_	_	_	_	_	AlignBegin=100300|AlignEnd=100400|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=4|RX=[AUX]
-5-6	sâːwaː	_	_	_	_	_	_	_	_
-5	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=100400|AlignEnd=100450|GE=put|Gloss=put|nWord=5|RX=[VERB]
-6	-waː	-waː	PART	_	_	_	_	_	AlignBegin=100450|AlignEnd=100500|GE=[Nmlz]|Gloss=Nmlz|nWord=5|RX=[PART]
-7	,	,	PUNCT	_	_	_	_	_	AlignBegin=100500|AlignEnd=100600|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-8	don	don	SCONJ	_	_	_	_	_	AlignBegin=100600|AlignEnd=100700|GE=because|Gloss=because|nWord=7|RX=[SCONJ]
-9	kâttà	kâttà	AUX	_	_	_	_	_	AlignBegin=100700|AlignEnd=100800|GE=[Neg].[2Fem].[Aor]|Gloss=Neg.2Fem.Aor|nWord=8|RX=[AUX]
-10	gaːnèː	gaːnèː	AUX	_	_	_	_	_	AlignBegin=100800|AlignEnd=100900|GE=understand|Gloss=understand|nWord=9|RX=[AUX]
-11	.	.	PUNCT	_	_	_	_	_	AlignBegin=100900|AlignEnd=101000|Gloss=.|nWord=10|RX=[PUNCT]
+5	sâːwaː	sâː	VERB	_	_	_	_	_	AlignBegin=100400|AlignEnd=100450|GE=put|Gloss=put.Nmlz.Fem|nWord=5|RX=[VERB]|wordform=sâː
+6	,	,	PUNCT	_	_	_	_	_	AlignBegin=100500|AlignEnd=100600|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	don	don	SCONJ	_	_	_	_	_	AlignBegin=100600|AlignEnd=100700|GE=because|Gloss=because|nWord=7|RX=[SCONJ]
+8	kâttà	kâttà	AUX	_	_	_	_	_	AlignBegin=100700|AlignEnd=100800|GE=[Neg].[2Fem].[Aor]|Gloss=Neg.2Fem.Aor|nWord=8|RX=[AUX]
+9	gaːnèː	gaːnèː	AUX	_	_	_	_	_	AlignBegin=100800|AlignEnd=100900|GE=understand|Gloss=understand|nWord=9|RX=[AUX]
+10	.	.	PUNCT	_	_	_	_	_	AlignBegin=100900|AlignEnd=101000|Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_119-119
 # speaker_id = *
@@ -4937,13 +4917,11 @@
 76	yakèː	yakèː	AUX	_	_	_	_	_	AlignBegin=145910|AlignEnd=145923|GE=[3Masc].[Imp].[Bkg]|Gloss=3Masc.Imp.Bkg|nWord=71|RX=[AUX]
 77	,	,	PUNCT	_	_	_	_	_	AlignBegin=145923|AlignEnd=145936|GE=[PUNCT]|Gloss=PUNCT|nWord=72|RX=[PUNCT]
 78	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=145936|AlignEnd=145949|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=73|RX=[AUX]
-79	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=145949|AlignEnd=145962|GE=be_able|Gloss=be_able|nWord=74|RX=[VERB]
-80-81	ràbuwaː	_	_	_	_	_	_	_	_
-80	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=145962|AlignEnd=145968|GE=separate|Gloss=separate|nWord=75|RX=[VERB]
-81	-waː	-waː	PART	_	_	_	_	_	AlignBegin=145968|AlignEnd=145975|GE=[Nmlz]|Gloss=Nmlz|nWord=75|RX=[PART]
-82	dà	dà	ADP	_	_	_	_	_	AlignBegin=145975|AlignEnd=145988|GE=with|Gloss=with|nWord=76|RX=[ADP]
-83	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=145988|AlignEnd=146001|GE=[3Masc]|Gloss=3Masc|nWord=77|RX=[PRON]
-84	.	.	PUNCT	_	_	_	_	_	AlignBegin=146001|AlignEnd=146000|Gloss=.|nWord=78|RX=[PUNCT]
+79	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=145949|AlignEnd=145962|GE=be_able|Gloss=be_able|nWord=74|RX=[VERB]|wordform=iyàː
+80	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=145962|AlignEnd=145968|GE=separate|Gloss=separate.Nmlz.Fem|nWord=75|RX=[VERB]|wordform=ràbu
+81	dà	dà	ADP	_	_	_	_	_	AlignBegin=145975|AlignEnd=145988|GE=with|Gloss=with|nWord=76|RX=[ADP]
+82	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=145988|AlignEnd=146001|GE=[3Masc]|Gloss=3Masc|nWord=77|RX=[PRON]
+83	.	.	PUNCT	_	_	_	_	_	AlignBegin=146001|AlignEnd=146000|Gloss=.|nWord=78|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_166-166
 # speaker_id = *
@@ -4963,13 +4941,11 @@
 7	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=146319|AlignEnd=146364|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]
 8	,	,	PUNCT	_	_	_	_	_	AlignBegin=146364|AlignEnd=146455|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 9	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=146455|AlignEnd=146546|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=6|RX=[AUX]
-10	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=146546|AlignEnd=146637|GE=be_able|Gloss=be_able|nWord=7|RX=[VERB]
-11-12	ràbuwaː	_	_	_	_	_	_	_	_
-11	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=146637|AlignEnd=146683|GE=separate|Gloss=separate|nWord=8|RX=[VERB]
-12	-waː	-waː	PART	_	_	_	_	_	AlignBegin=146683|AlignEnd=146728|GE=[Nmlz]|Gloss=Nmlz|nWord=8|RX=[PART]
-13	dà	dà	ADP	_	_	_	_	_	AlignBegin=146728|AlignEnd=146819|GE=with|Gloss=with|nWord=9|RX=[ADP]
-14	kai	kai	PRON	_	_	_	_	_	AlignBegin=146819|AlignEnd=146910|GE=[2Masc]|Gloss=2Masc|nWord=10|RX=[PRON]
-15	.	.	PUNCT	_	_	_	_	_	AlignBegin=146910|AlignEnd=147000|Gloss=.|nWord=11|RX=[PUNCT]
+10	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=146546|AlignEnd=146637|GE=be_able|Gloss=be_able|nWord=7|RX=[VERB]|wordform=iyàː
+11	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=146637|AlignEnd=146683|GE=separate|Gloss=separate.Nmlz.Fem|nWord=8|RX=[VERB]|wordform=ràbu
+12	dà	dà	ADP	_	_	_	_	_	AlignBegin=146728|AlignEnd=146819|GE=with|Gloss=with|nWord=9|RX=[ADP]
+13	kai	kai	PRON	_	_	_	_	_	AlignBegin=146819|AlignEnd=146910|GE=[2Masc]|Gloss=2Masc|nWord=10|RX=[PRON]
+14	.	.	PUNCT	_	_	_	_	_	AlignBegin=146910|AlignEnd=147000|Gloss=.|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_167-167
 # speaker_id = *
@@ -5054,7 +5030,7 @@
 67	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=147842|AlignEnd=147848|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=53|RX=[PRON]
 68	,	,	PUNCT	_	_	_	_	_	AlignBegin=147848|AlignEnd=147864|GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
 69	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=147864|AlignEnd=147880|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=55|RX=[AUX]
-70	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=147880|AlignEnd=147896|GE=be_able|Gloss=be_able|nWord=56|RX=[VERB]
+70	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=147880|AlignEnd=147896|GE=be_able|Gloss=be_able|nWord=56|RX=[VERB]|wordform=iyàː
 71	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=147896|AlignEnd=147912|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=57|RX=[VERB]
 72	,	,	PUNCT	_	_	_	_	_	AlignBegin=147912|AlignEnd=147928|GE=[PUNCT]|Gloss=PUNCT|nWord=58|RX=[PUNCT]
 73	sai	sai	ADV	_	_	_	_	_	AlignBegin=147928|AlignEnd=147944|GE=then|Gloss=then|nWord=59|RX=[ADV]
@@ -5092,29 +5068,27 @@
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=148384|AlignEnd=148416|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 18	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=148416|AlignEnd=148448|GE=because|Gloss=because|nWord=14|RX=[SCONJ]
 19	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=148448|AlignEnd=148480|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=15|RX=[AUX]
-20	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=148480|AlignEnd=148512|GE=be_able|Gloss=be_able|nWord=16|RX=[VERB]
-21-22	ràbuwaː	_	_	_	_	_	_	_	_
-21	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=148512|AlignEnd=148528|GE=separate|Gloss=separate|nWord=17|RX=[VERB]
-22	-waː	-waː	PART	_	_	_	_	_	AlignBegin=148528|AlignEnd=148544|GE=[Nmlz]|Gloss=Nmlz|nWord=17|RX=[PART]
-23	dà	dà	ADP	_	_	_	_	_	AlignBegin=148544|AlignEnd=148576|GE=with|Gloss=with|nWord=18|RX=[ADP]
-24	kai	kai	PRON	_	_	_	_	_	AlignBegin=148576|AlignEnd=148608|GE=[2Masc]|Gloss=2Masc|nWord=19|RX=[PRON]
-25	,	,	PUNCT	_	_	_	_	_	AlignBegin=148608|AlignEnd=148640|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-26	don	don	SCONJ	_	_	_	_	_	AlignBegin=148640|AlignEnd=148672|GE=because|Gloss=because|nWord=21|RX=[SCONJ]
-27-29	kântà	_	_	_	_	_	_	_	_
-27	kâi	kâi	NOUN	_	_	_	_	_	AlignBegin=148672|AlignEnd=148683|GE=[head].[Masc]|Gloss=head.Masc|nWord=22|RX=[NOUN]
-28	-n	-n	PART	_	_	_	_	_	AlignBegin=148683|AlignEnd=148694|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=22|RX=[PART]
-29	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=148694|AlignEnd=148704|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]
-30	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=148704|AlignEnd=148736|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=23|RX=[AUX]
-31	juːyèː	juːyèː	VERB	_	_	_	_	_	AlignBegin=148736|AlignEnd=148768|GE=change|Gloss=change|nWord=24|RX=[VERB]
-32	,	,	PUNCT	_	_	_	_	_	AlignBegin=148768|AlignEnd=148800|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-33	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=148800|AlignEnd=148832|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=26|RX=[AUX]
-34-35	sôn	_	_	_	_	_	_	_	_
-34	sô	sôː	VERB	_	_	_	_	_	AlignBegin=148832|AlignEnd=148848|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=27|RX=[VERB]
-35	-n	-n	PART	_	_	_	_	_	AlignBegin=148848|AlignEnd=148864|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=27|RX=[PART]
-36	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=148864|AlignEnd=148896|GE=anyone|Gloss=anyone|nWord=28|RX=[PRON]
-37	sai	sai	ADV	_	_	_	_	_	AlignBegin=148896|AlignEnd=148928|GE=then|Gloss=then|nWord=29|RX=[ADV]
-38	kai	kai	PRON	_	_	_	_	_	AlignBegin=148928|AlignEnd=148960|GE=[2Masc]|Gloss=2Masc|nWord=30|RX=[PRON]
-39	.	.	PUNCT	_	_	_	_	_	AlignBegin=148960|AlignEnd=149000|Gloss=.|nWord=31|RX=[PUNCT]
+20	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=148480|AlignEnd=148512|GE=be_able|Gloss=be_able|nWord=16|RX=[VERB]|wordform=iyàː
+21	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=148512|AlignEnd=148528|GE=separate|Gloss=separate.Nmlz.Fem|nWord=17|RX=[VERB]|wordform=ràbu
+22	dà	dà	ADP	_	_	_	_	_	AlignBegin=148544|AlignEnd=148576|GE=with|Gloss=with|nWord=18|RX=[ADP]
+23	kai	kai	PRON	_	_	_	_	_	AlignBegin=148576|AlignEnd=148608|GE=[2Masc]|Gloss=2Masc|nWord=19|RX=[PRON]
+24	,	,	PUNCT	_	_	_	_	_	AlignBegin=148608|AlignEnd=148640|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+25	don	don	SCONJ	_	_	_	_	_	AlignBegin=148640|AlignEnd=148672|GE=because|Gloss=because|nWord=21|RX=[SCONJ]
+26-28	kântà	_	_	_	_	_	_	_	_
+26	kâi	kâi	NOUN	_	_	_	_	_	AlignBegin=148672|AlignEnd=148683|GE=[head].[Masc]|Gloss=head.Masc|nWord=22|RX=[NOUN]
+27	-n	-n	PART	_	_	_	_	_	AlignBegin=148683|AlignEnd=148694|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=22|RX=[PART]
+28	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=148694|AlignEnd=148704|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]
+29	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=148704|AlignEnd=148736|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=23|RX=[AUX]
+30	juːyèː	juːyèː	VERB	_	_	_	_	_	AlignBegin=148736|AlignEnd=148768|GE=change|Gloss=change|nWord=24|RX=[VERB]
+31	,	,	PUNCT	_	_	_	_	_	AlignBegin=148768|AlignEnd=148800|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+32	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=148800|AlignEnd=148832|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=26|RX=[AUX]
+33-34	sôn	_	_	_	_	_	_	_	_
+33	sô	sôː	VERB	_	_	_	_	_	AlignBegin=148832|AlignEnd=148848|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=27|RX=[VERB]
+34	-n	-n	PART	_	_	_	_	_	AlignBegin=148848|AlignEnd=148864|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=27|RX=[PART]
+35	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=148864|AlignEnd=148896|GE=anyone|Gloss=anyone|nWord=28|RX=[PRON]
+36	sai	sai	ADV	_	_	_	_	_	AlignBegin=148896|AlignEnd=148928|GE=then|Gloss=then|nWord=29|RX=[ADV]
+37	kai	kai	PRON	_	_	_	_	_	AlignBegin=148928|AlignEnd=148960|GE=[2Masc]|Gloss=2Masc|nWord=30|RX=[PRON]
+38	.	.	PUNCT	_	_	_	_	_	AlignBegin=148960|AlignEnd=149000|Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_169-169
 # speaker_id = *
@@ -5141,13 +5115,11 @@
 3	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=150200|AlignEnd=150300|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=150300|AlignEnd=150400|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=150400|AlignEnd=150500|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=5|RX=[AUX]
-6	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=150500|AlignEnd=150600|GE=be_able|Gloss=be_able|nWord=6|RX=[VERB]
-7-8	ràbuwaː	_	_	_	_	_	_	_	_
-7	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=150600|AlignEnd=150650|GE=separate|Gloss=separate|nWord=7|RX=[VERB]
-8	-waː	-waː	PART	_	_	_	_	_	AlignBegin=150650|AlignEnd=150700|GE=[Nmlz]|Gloss=Nmlz|nWord=7|RX=[PART]
-9	dà	dà	ADP	_	_	_	_	_	AlignBegin=150700|AlignEnd=150800|GE=with|Gloss=with|nWord=8|RX=[ADP]
-10	kai	kai	PRON	_	_	_	_	_	AlignBegin=150800|AlignEnd=150900|GE=[2Masc]|Gloss=2Masc|nWord=9|RX=[PRON]
-11	.	.	PUNCT	_	_	_	_	_	AlignBegin=150900|AlignEnd=151000|Gloss=.|nWord=10|RX=[PUNCT]
+6	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=150500|AlignEnd=150600|GE=be_able|Gloss=be_able|nWord=6|RX=[VERB]|wordform=iyàː
+7	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=150600|AlignEnd=150650|GE=separate|Gloss=separate.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=ràbu
+8	dà	dà	ADP	_	_	_	_	_	AlignBegin=150700|AlignEnd=150800|GE=with|Gloss=with|nWord=8|RX=[ADP]
+9	kai	kai	PRON	_	_	_	_	_	AlignBegin=150800|AlignEnd=150900|GE=[2Masc]|Gloss=2Masc|nWord=9|RX=[PRON]
+10	.	.	PUNCT	_	_	_	_	_	AlignBegin=150900|AlignEnd=151000|Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_171-171
 # speaker_id = *
@@ -5251,13 +5223,11 @@
 8	ci	ci	VERB	_	_	_	_	_	AlignBegin=154469|AlignEnd=154536|GE=eat|Gloss=eat|nWord=8|RX=[VERB]
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=154536|AlignEnd=154603|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=154603|AlignEnd=154670|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=10|RX=[AUX]
-11	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=154670|AlignEnd=154737|GE=be_able|Gloss=be_able|nWord=11|RX=[VERB]
-12-13	ràbuwaː	_	_	_	_	_	_	_	_
-12	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=154737|AlignEnd=154771|GE=separate|Gloss=separate|nWord=12|RX=[VERB]
-13	-waː	-waː	PART	_	_	_	_	_	AlignBegin=154771|AlignEnd=154804|GE=[Nmlz]|Gloss=Nmlz|nWord=12|RX=[PART]
-14	dà	dà	ADP	_	_	_	_	_	AlignBegin=154804|AlignEnd=154871|GE=with|Gloss=with|nWord=13|RX=[ADP]
-15	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=154871|AlignEnd=154938|GE=[person].[Masc]|Gloss=person.Masc|nWord=14|RX=[NOUN]
-16	.	.	PUNCT	_	_	_	_	_	AlignBegin=154938|AlignEnd=155000|Gloss=.|nWord=15|RX=[PUNCT]
+11	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=154670|AlignEnd=154737|GE=be_able|Gloss=be_able|nWord=11|RX=[VERB]|wordform=iyàː
+12	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=154737|AlignEnd=154771|GE=separate|Gloss=separate.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=ràbu
+13	dà	dà	ADP	_	_	_	_	_	AlignBegin=154804|AlignEnd=154871|GE=with|Gloss=with|nWord=13|RX=[ADP]
+14	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=154871|AlignEnd=154938|GE=[person].[Masc]|Gloss=person.Masc|nWord=14|RX=[NOUN]
+15	.	.	PUNCT	_	_	_	_	_	AlignBegin=154938|AlignEnd=155000|Gloss=.|nWord=15|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_176-176
 # speaker_id = *
@@ -5429,7 +5399,7 @@
 18	-kà	-kà	PRON	_	_	_	_	_	AlignBegin=159562|AlignEnd=159570|GE=[2Masc].[Gen]|Gloss=2Masc.Gen|nWord=15|RX=[PRON]
 19	,	,	PUNCT	_	_	_	_	_	AlignBegin=159570|AlignEnd=159592|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 20	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=159592|AlignEnd=159614|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=17|RX=[AUX]
-21	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=159614|AlignEnd=159636|GE=be_able|Gloss=be_able|nWord=18|RX=[VERB]
+21	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=159614|AlignEnd=159636|GE=be_able|Gloss=be_able|nWord=18|RX=[VERB]|wordform=iyàː
 22	ƙeːtàreː	ƙeːtàreː	VERB	_	_	_	_	_	AlignBegin=159636|AlignEnd=159658|GE=cross|Gloss=cross|nWord=19|RX=[VERB]
 23	shi	shi	PRON	_	_	_	_	_	AlignBegin=159658|AlignEnd=159680|GE=[3Masc]|Gloss=3Masc|nWord=20|RX=[PRON]
 24	,	,	PUNCT	_	_	_	_	_	AlignBegin=159680|AlignEnd=159702|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
@@ -5583,13 +5553,11 @@
 14	naːtà	naːtà	PRON	_	_	_	_	_	AlignBegin=162429|AlignEnd=162468|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=12|RX=[PRON]
 15	,	,	PUNCT	_	_	_	_	_	AlignBegin=162468|AlignEnd=162507|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 16	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=162507|AlignEnd=162546|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=14|RX=[AUX]
-17	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=162546|AlignEnd=162585|GE=be_able|Gloss=be_able|nWord=15|RX=[VERB]
-18-19	ràbuwaː	_	_	_	_	_	_	_	_
-18	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=162585|AlignEnd=162605|GE=separate|Gloss=separate|nWord=16|RX=[VERB]
-19	-waː	-waː	PART	_	_	_	_	_	AlignBegin=162605|AlignEnd=162624|GE=[Nmlz]|Gloss=Nmlz|nWord=16|RX=[PART]
-20	dà	dà	ADP	_	_	_	_	_	AlignBegin=162624|AlignEnd=162663|GE=with|Gloss=with|nWord=17|RX=[ADP]
-21	kai	kai	PRON	_	_	_	_	_	AlignBegin=162663|AlignEnd=162702|GE=[2Masc]|Gloss=2Masc|nWord=18|RX=[PRON]
-22	.	.	PUNCT	_	_	_	_	_	AlignBegin=162702|AlignEnd=162742|Gloss=.|nWord=19|RX=[PUNCT]
+17	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=162546|AlignEnd=162585|GE=be_able|Gloss=be_able|nWord=15|RX=[VERB]|wordform=iyàː
+18	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=162585|AlignEnd=162605|GE=separate|Gloss=separate.Nmlz.Fem|nWord=16|RX=[VERB]|wordform=ràbu
+19	dà	dà	ADP	_	_	_	_	_	AlignBegin=162624|AlignEnd=162663|GE=with|Gloss=with|nWord=17|RX=[ADP]
+20	kai	kai	PRON	_	_	_	_	_	AlignBegin=162663|AlignEnd=162702|GE=[2Masc]|Gloss=2Masc|nWord=18|RX=[PRON]
+21	.	.	PUNCT	_	_	_	_	_	AlignBegin=162702|AlignEnd=162742|Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_185-185
 # speaker_id = *
@@ -5670,16 +5638,14 @@
 38	tà	tà	AUX	_	_	_	_	_	AlignBegin=163192|AlignEnd=163195|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=35|RX=[AUX]
 39	,	,	PUNCT	_	_	_	_	_	AlignBegin=163195|AlignEnd=163198|GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 40	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=163198|AlignEnd=163201|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=37|RX=[AUX]
-41	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=163201|AlignEnd=163204|GE=be_able|Gloss=be_able|nWord=38|RX=[VERB]
-42-43	ràbuwaː	_	_	_	_	_	_	_	_
-42	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=163204|AlignEnd=163206|GE=separate|Gloss=separate|nWord=39|RX=[VERB]
-43	-waː	-waː	PART	_	_	_	_	_	AlignBegin=163206|AlignEnd=163207|GE=[Nmlz]|Gloss=Nmlz|nWord=39|RX=[PART]
-44	dà	dà	ADP	_	_	_	_	_	AlignBegin=163207|AlignEnd=163210|GE=with|Gloss=with|nWord=40|RX=[ADP]
-45	wandà	wandà	PRON	_	_	_	_	_	AlignBegin=163210|AlignEnd=163213|GE=[who].[Masc]|Gloss=who.Masc|nWord=41|RX=[PRON]
-46	yam	yak	AUX	_	_	_	_	_	AlignBegin=163213|AlignEnd=163216|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=42|RX=[AUX]
-47	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=163216|AlignEnd=163219|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
-48	maːgànîn	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=163219|AlignEnd=163222|GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=44|RX=[NOUN]
-49	.	.	PUNCT	_	_	_	_	_	AlignBegin=163222|AlignEnd=163246|Gloss=.|nWord=45|RX=[PUNCT]
+41	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=163201|AlignEnd=163204|GE=be_able|Gloss=be_able|nWord=38|RX=[VERB]|wordform=iyàː
+42	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=163204|AlignEnd=163206|GE=separate|Gloss=separate.Nmlz.Fem|nWord=39|RX=[VERB]|wordform=ràbu
+43	dà	dà	ADP	_	_	_	_	_	AlignBegin=163207|AlignEnd=163210|GE=with|Gloss=with|nWord=40|RX=[ADP]
+44	wandà	wandà	PRON	_	_	_	_	_	AlignBegin=163210|AlignEnd=163213|GE=[who].[Masc]|Gloss=who.Masc|nWord=41|RX=[PRON]
+45	yam	yak	AUX	_	_	_	_	_	AlignBegin=163213|AlignEnd=163216|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=42|RX=[AUX]
+46	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=163216|AlignEnd=163219|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
+47	maːgànîn	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=163219|AlignEnd=163222|GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=44|RX=[NOUN]
+48	.	.	PUNCT	_	_	_	_	_	AlignBegin=163222|AlignEnd=163246|Gloss=.|nWord=45|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_187-187
 # speaker_id = *
@@ -6822,13 +6788,11 @@
 12	ta	ta	PRON	_	_	_	_	_	AlignBegin=199531|AlignEnd=199590|GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
 13	,	,	PUNCT	_	_	_	_	_	AlignBegin=199590|AlignEnd=199649|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 14	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=199649|AlignEnd=199708|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=12|RX=[AUX]
-15	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=199708|AlignEnd=199767|GE=be_able|Gloss=be_able|nWord=13|RX=[VERB]
-16-17	ràbuwaː	_	_	_	_	_	_	_	_
-16	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=199767|AlignEnd=199797|GE=separate|Gloss=separate|nWord=14|RX=[VERB]
-17	-waː	-waː	PART	_	_	_	_	_	AlignBegin=199797|AlignEnd=199826|GE=[Nmlz]|Gloss=Nmlz|nWord=14|RX=[PART]
-18	dà	dà	ADP	_	_	_	_	_	AlignBegin=199826|AlignEnd=199885|GE=with|Gloss=with|nWord=15|RX=[ADP]
-19	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=199885|AlignEnd=199944|GE=[person].[Masc]|Gloss=person.Masc|nWord=16|RX=[NOUN]
-20	.	.	PUNCT	_	_	_	_	_	AlignBegin=199944|AlignEnd=200000|Gloss=.|nWord=17|RX=[PUNCT]
+15	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=199708|AlignEnd=199767|GE=be_able|Gloss=be_able|nWord=13|RX=[VERB]|wordform=iyàː
+16	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=199767|AlignEnd=199797|GE=separate|Gloss=separate.Nmlz.Fem|nWord=14|RX=[VERB]|wordform=ràbu
+17	dà	dà	ADP	_	_	_	_	_	AlignBegin=199826|AlignEnd=199885|GE=with|Gloss=with|nWord=15|RX=[ADP]
+18	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=199885|AlignEnd=199944|GE=[person].[Masc]|Gloss=person.Masc|nWord=16|RX=[NOUN]
+19	.	.	PUNCT	_	_	_	_	_	AlignBegin=199944|AlignEnd=200000|Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_226-226
 # speaker_id = *
@@ -6875,13 +6839,11 @@
 7	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=200565|AlignEnd=200620|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=7|RX=[PRON]
 8	,	,	PUNCT	_	_	_	_	_	AlignBegin=200620|AlignEnd=200675|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=200675|AlignEnd=200730|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=9|RX=[AUX]
-10	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=200730|AlignEnd=200785|GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]
-11-12	ràbuwaː	_	_	_	_	_	_	_	_
-11	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=200785|AlignEnd=200813|GE=separate|Gloss=separate|nWord=11|RX=[VERB]
-12	-waː	-waː	PART	_	_	_	_	_	AlignBegin=200813|AlignEnd=200840|GE=[Nmlz]|Gloss=Nmlz|nWord=11|RX=[PART]
-13	dà	dà	ADP	_	_	_	_	_	AlignBegin=200840|AlignEnd=200895|GE=with|Gloss=with|nWord=12|RX=[ADP]
-14	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=200895|AlignEnd=200950|GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
-15	.	.	PUNCT	_	_	_	_	_	AlignBegin=200950|AlignEnd=201000|Gloss=.|nWord=14|RX=[PUNCT]
+10	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=200730|AlignEnd=200785|GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]|wordform=iyàː
+11	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=200785|AlignEnd=200813|GE=separate|Gloss=separate.Nmlz.Fem|nWord=11|RX=[VERB]|wordform=ràbu
+12	dà	dà	ADP	_	_	_	_	_	AlignBegin=200840|AlignEnd=200895|GE=with|Gloss=with|nWord=12|RX=[ADP]
+13	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=200895|AlignEnd=200950|GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
+14	.	.	PUNCT	_	_	_	_	_	AlignBegin=200950|AlignEnd=201000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_228-228
 # speaker_id = *
@@ -6959,12 +6921,10 @@
 17	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=203688|AlignEnd=203731|GE=[person].[Masc]|Gloss=person.Masc|nWord=17|RX=[NOUN]
 18	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=203731|AlignEnd=203774|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=18|RX=[AUX]
 19	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=203774|AlignEnd=203817|GE=be_able|Gloss=be_able|nWord=19|RX=[VERB]
-20-21	ràbuwaː	_	_	_	_	_	_	_	_
-20	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=203817|AlignEnd=203839|GE=separate|Gloss=separate|nWord=20|RX=[VERB]
-21	-waː	-waː	PART	_	_	_	_	_	AlignBegin=203839|AlignEnd=203860|GE=[Nmlz]|Gloss=Nmlz|nWord=20|RX=[PART]
-22	dà	dà	ADP	_	_	_	_	_	AlignBegin=203860|AlignEnd=203903|GE=with|Gloss=with|nWord=21|RX=[ADP]
-23	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=203903|AlignEnd=203946|GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=203946|AlignEnd=204000|Gloss=.|nWord=23|RX=[PUNCT]
+20	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=203817|AlignEnd=203839|GE=separate|Gloss=separate.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=ràbu
+21	dà	dà	ADP	_	_	_	_	_	AlignBegin=203860|AlignEnd=203903|GE=with|Gloss=with|nWord=21|RX=[ADP]
+22	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=203903|AlignEnd=203946|GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
+23	.	.	PUNCT	_	_	_	_	_	AlignBegin=203946|AlignEnd=204000|Gloss=.|nWord=23|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_231-231
 # speaker_id = *
@@ -7609,18 +7569,16 @@
 26	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=228594|AlignEnd=228621|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=23|RX=[PRON]
 27	,	,	PUNCT	_	_	_	_	_	AlignBegin=228621|AlignEnd=228648|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 28	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=228648|AlignEnd=228675|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=25|RX=[AUX]
-29	iyàː	iyàː	VERB	_	_	_	_	_	AlignBegin=228675|AlignEnd=228702|GE=be_able|Gloss=be_able|nWord=26|RX=[VERB]
-30-31	ràbuwaː	_	_	_	_	_	_	_	_
-30	ràbu	ràbu	VERB	_	_	_	_	_	AlignBegin=228702|AlignEnd=228716|GE=separate|Gloss=separate|nWord=27|RX=[VERB]
-31	-waː	-waː	PART	_	_	_	_	_	AlignBegin=228716|AlignEnd=228729|GE=[Nmlz]|Gloss=Nmlz|nWord=27|RX=[PART]
-32	dà	dà	ADP	_	_	_	_	_	AlignBegin=228729|AlignEnd=228756|GE=with|Gloss=with|nWord=28|RX=[ADP]
-33	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=228756|AlignEnd=228783|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
-34	,	,	PUNCT	_	_	_	_	_	AlignBegin=228783|AlignEnd=228810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-35	sai	sai	ADV	_	_	_	_	_	AlignBegin=228810|AlignEnd=228837|GE=then|Gloss=then|nWord=31|RX=[ADV]
-36	in	in	SCONJ	_	_	_	_	_	AlignBegin=228837|AlignEnd=228864|GE=if|Gloss=if|nWord=32|RX=[SCONJ]
-37	àllàː	àllàː	PROPN	_	_	_	_	_	AlignBegin=228864|AlignEnd=228891|GE=[God]|Gloss=God|nWord=33|RX=[PROPN]
-38	yar	yak	AUX	_	_	_	_	_	AlignBegin=228891|AlignEnd=228918|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=34|RX=[AUX]
-39	rabàː	rabàː	VERB	_	_	_	_	_	AlignBegin=228918|AlignEnd=228945|GE=separate|Gloss=separate|nWord=35|RX=[VERB]
-40	su	su	PRON	_	_	_	_	_	AlignBegin=228945|AlignEnd=228972|GE=[3].[Pl]|Gloss=3.Pl|nWord=36|RX=[PRON]
-41	.	.	PUNCT	_	_	_	_	_	AlignBegin=228972|AlignEnd=229000|Gloss=.|nWord=37|RX=[PUNCT]
+29	iyà	iyàː	VERB	_	_	_	_	_	AlignBegin=228675|AlignEnd=228702|GE=be_able|Gloss=be_able|nWord=26|RX=[VERB]|wordform=iyàː
+30	ràbuwaː	ràbu	VERB	_	_	_	_	_	AlignBegin=228702|AlignEnd=228716|GE=separate|Gloss=separate.Nmlz.Fem|nWord=27|RX=[VERB]|wordform=ràbu
+31	dà	dà	ADP	_	_	_	_	_	AlignBegin=228729|AlignEnd=228756|GE=with|Gloss=with|nWord=28|RX=[ADP]
+32	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=228756|AlignEnd=228783|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
+33	,	,	PUNCT	_	_	_	_	_	AlignBegin=228783|AlignEnd=228810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+34	sai	sai	ADV	_	_	_	_	_	AlignBegin=228810|AlignEnd=228837|GE=then|Gloss=then|nWord=31|RX=[ADV]
+35	in	in	SCONJ	_	_	_	_	_	AlignBegin=228837|AlignEnd=228864|GE=if|Gloss=if|nWord=32|RX=[SCONJ]
+36	àllàː	àllàː	PROPN	_	_	_	_	_	AlignBegin=228864|AlignEnd=228891|GE=[God]|Gloss=God|nWord=33|RX=[PROPN]
+37	yar	yak	AUX	_	_	_	_	_	AlignBegin=228891|AlignEnd=228918|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=34|RX=[AUX]
+38	rabàː	rabàː	VERB	_	_	_	_	_	AlignBegin=228918|AlignEnd=228945|GE=separate|Gloss=separate|nWord=35|RX=[VERB]
+39	su	su	PRON	_	_	_	_	_	AlignBegin=228945|AlignEnd=228972|GE=[3].[Pl]|Gloss=3.Pl|nWord=36|RX=[PRON]
+40	.	.	PUNCT	_	_	_	_	_	AlignBegin=228972|AlignEnd=229000|Gloss=.|nWord=37|RX=[PUNCT]
 
