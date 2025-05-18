@@ -1440,7 +1440,7 @@
 # text_orth = sabòo dà hakà nan, ’ab baà ’a maà màccè maagànii, sai waddà ’a kà sòo ƙwarai, ’ita ’a kà maà.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=46000|AlignEnd=46043|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=46043|AlignEnd=46086|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=46086|AlignEnd=46129|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=46086|AlignEnd=46129|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=46129|AlignEnd=46172|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	ab	ak	IdPART	_	_	_	_	_	AlignBegin=46172|AlignEnd=46215|GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=5|RX=[IDPART]
 6	bâː’a	bâː’a	AUX	_	_	_	_	_	AlignBegin=46215|AlignEnd=46258|GE=[4].[Imp].[Neg]|Gloss=4.Imp.Neg|nWord=6|RX=[AUX]
@@ -1632,7 +1632,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 52000, 53000
-# text = in ankà ajèː, sai à ɗeːboː yan ruwaː na kaskon abaraː, à ajèː.
+# text = in ankà ajèː , sai à ɗeːboː ’yan ruwaː na kaskon abaraː , à ajèː .
 # text_en = After putting it aside, you take some water from a pigeon pot, and put it aside.
 # text_orth = ’in ’ankà ’ajèe, sai ’à ɗeeboo ’yan ᵲuwaa na kaskon ’abaᵲaa, ’à ’ajèe.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=52000|AlignEnd=52062|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -1644,7 +1644,7 @@
 7-8	ɗeːboː	_	_	_	_	_	_	_	_
 7	ɗeːb	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=52372|AlignEnd=52403|GE=take|Gloss=take|nWord=7|RX=[VERB]
 8	-oː	-oː	PART	_	_	_	_	_	AlignBegin=52403|AlignEnd=52434|GE=[Dir]|Gloss=Dir|nWord=7|RX=[PART]
-9	yan	yan	ADJ	_	_	_	_	_	AlignBegin=52434|AlignEnd=52496|GE=[young].[Plur]|Gloss=young.Plur|nWord=8|RX=[ADJ]
+9	’yan	ɗan	ADJ	_	_	_	_	_	AlignBegin=52434|AlignEnd=52496|GE=[young].[Plur]|Gloss=little.Plur|nWord=8|RX=[ADJ]
 10	ruwaː	ruwaː	NOUN	_	_	_	_	_	AlignBegin=52496|AlignEnd=52558|GE=[water].[Plur]|Gloss=water.Plur|nWord=9|RX=[NOUN]
 11	na	na	PART	_	_	_	_	_	AlignBegin=52558|AlignEnd=52620|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
 12-13	kaskon	_	_	_	_	_	_	_	_
@@ -2736,7 +2736,7 @@
 9	yî	yîː	VERB	_	_	_	_	_	AlignBegin=83248|AlignEnd=83264|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=9|RX=[VERB]
 10	-n	-n	PART	_	_	_	_	_	AlignBegin=83264|AlignEnd=83279|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=9|RX=[PART]
 11	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=83279|AlignEnd=83310|GE=thus|Gloss=thus|nWord=10|RX=[ADV]
-12	nan	nan	ADV	_	_	_	_	_	AlignBegin=83310|AlignEnd=83341|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
+12	nan	nan	DET	_	_	11	det	_	AlignBegin=83310|AlignEnd=83341|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
 13	,	,	PUNCT	_	_	_	_	_	AlignBegin=83341|AlignEnd=83372|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 14	har̃	har̃	SCONJ	_	_	_	_	_	AlignBegin=83372|AlignEnd=83403|GE=until|Gloss=until|nWord=13|RX=[SCONJ]
 15	maːgàniː	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=83403|AlignEnd=83434|GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=14|RX=[NOUN]
@@ -2774,7 +2774,7 @@
 2	hwa	hwa	TopPART	_	_	_	_	_	AlignBegin=84033|AlignEnd=84066|GE=however|Gloss=however|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	_	_	_	AlignBegin=84066|AlignEnd=84099|GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=84099|AlignEnd=84132|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	ADV	_	_	_	_	_	AlignBegin=84132|AlignEnd=84165|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
+5	nan	nan	DET	_	_	4	det	_	AlignBegin=84132|AlignEnd=84165|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=84165|AlignEnd=84198|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=84198|AlignEnd=84231|GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
 8	wânnam	wânnan	PRON	_	_	_	_	_	AlignBegin=84231|AlignEnd=84264|GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=8|RX=[PRON]
@@ -2882,7 +2882,7 @@
 1	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=87000|AlignEnd=87011|GE=also|Gloss=also|nWord=1|RX=[TOPPART]
 2	bandà	bandà	ADP	_	_	_	_	_	AlignBegin=87011|AlignEnd=87022|GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=87022|AlignEnd=87033|GE=thus|Gloss=thus|nWord=3|RX=[ADV]
-4	nan	nan	ADV	_	_	_	_	_	AlignBegin=87033|AlignEnd=87044|GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
+4	nan	nan	DET	_	_	3	det	_	AlignBegin=87033|AlignEnd=87044|GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=87044|AlignEnd=87055|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	du'	dukà	DET	_	_	_	_	_	AlignBegin=87055|AlignEnd=87066|GE=all|Gloss=all|nWord=6|RX=[DET]
 7-8	abuːbuwàn	_	_	_	_	_	_	_	_
@@ -5193,7 +5193,7 @@
 # text_orth = sabàd dà hakà nan, ’a kà saà zucciyooyin kàajii cikim maaganiǹ nan.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=153000|AlignEnd=153083|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=153083|AlignEnd=153166|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=153166|AlignEnd=153249|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=153166|AlignEnd=153249|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=153249|AlignEnd=153332|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	akà	akà	AUX	_	_	_	_	_	AlignBegin=153332|AlignEnd=153415|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=5|RX=[AUX]
 6	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=153415|AlignEnd=153498|GE=[put].[Nmlz].[Masc]|Gloss=put.Nmlz.Masc|nWord=6|RX=[VERB]
@@ -5292,7 +5292,7 @@
 # text_orth = sabòo dà hakà nan, ’a kà saà zuccìyak kàᵲyaa, cikim maagàniǹ nan.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=157000|AlignEnd=157064|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=157064|AlignEnd=157128|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=157128|AlignEnd=157192|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=157128|AlignEnd=157192|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=157192|AlignEnd=157256|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	akà	akà	AUX	_	_	_	_	_	AlignBegin=157256|AlignEnd=157320|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=5|RX=[AUX]
 6	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=157320|AlignEnd=157384|GE=put|Gloss=put|nWord=6|RX=[VERB]
@@ -5429,7 +5429,7 @@
 # text_orth = sabòo dà hakà nan, ’a kà saà hac’ii cikim bàakii, šì kwaana ’à saà cikim maagànii, ’à baà màccè tà ci.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=160000|AlignEnd=160038|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=160038|AlignEnd=160076|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=160076|AlignEnd=160114|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=160076|AlignEnd=160114|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=160114|AlignEnd=160152|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	akà	akà	AUX	_	_	_	_	_	AlignBegin=160152|AlignEnd=160190|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=5|RX=[AUX]
 6	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=160190|AlignEnd=160228|GE=put|Gloss=put|nWord=6|RX=[VERB]
@@ -5568,7 +5568,7 @@
 # text_orth = sabòo dà hakà nan, ’a kà saà ’abuubuwàa dà màllakàa dà màntà ’uwa, dà bàa ni bàa ni dà ƙwaatai, dà zàᵲau dà ƙìi-taaɓèewa,
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=162742|AlignEnd=162759|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=162759|AlignEnd=162776|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=162776|AlignEnd=162793|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=162776|AlignEnd=162793|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=162793|AlignEnd=162810|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	akà	akà	AUX	_	_	_	_	_	AlignBegin=162810|AlignEnd=162827|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=5|RX=[AUX]
 6	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=162827|AlignEnd=162844|GE=put|Gloss=put|nWord=6|RX=[VERB]
@@ -6817,7 +6817,7 @@
 14	cirèː	cirèː	VERB	_	_	_	_	_	AlignBegin=200143|AlignEnd=200154|GE=[pull].[Ach]|Gloss=pull.Ach|nWord=14|RX=[VERB]
 15	,	,	PUNCT	_	_	_	_	_	AlignBegin=200154|AlignEnd=200165|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=200165|AlignEnd=200176|GE=thus|Gloss=thus|nWord=16|RX=[ADV]
-17	nan	nan	ADV	_	_	_	_	_	AlignBegin=200176|AlignEnd=200187|GE=[Dist]|Gloss=Dist|nWord=17|RX=[ADV]
+17	nan	nan	DET	_	_	16	det	_	AlignBegin=200176|AlignEnd=200187|GE=[Dist]|Gloss=Dist|nWord=17|RX=[ADV]
 18	takà	takà	AUX	_	_	_	_	_	AlignBegin=200187|AlignEnd=200198|GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=18|RX=[AUX]
 19	zamaː	zamaː	VERB	_	_	_	_	_	AlignBegin=200198|AlignEnd=200209|GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=19|RX=[VERB]
 20	gà	gà	ADP	_	_	_	_	_	AlignBegin=200209|AlignEnd=200220|GE=at|Gloss=at|nWord=20|RX=[ADP]
@@ -6846,17 +6846,17 @@
 14	.	.	PUNCT	_	_	_	_	_	AlignBegin=200950|AlignEnd=201000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_228-228
+# text = tôː kuma bandà hakà nan , suː ɗiyam màɗaɗɗahiː , dà ƙàrangiyak kuːsaː , danƙòː gà sù .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 201000, 202000
-# text = tôː kuma bandà hakà nan, suː ɗiyam màɗaɗɗahiː, dà ƙàrangiyak kuːsaː, danƙòː gàreː sù.
 # text_en = Well, apart from this, the seeds of "maɗaɗɗafi", and the rats' "ƙarangiya", are like gum.
 # text_orth = toò kuma ban dà hakà nan, suu ɗiyam màɗaɗɗahii, dà ƙàᵲangiyak kuusaa, danƙòo gàᵲee sù.
 1	tôː	tôː	INTJ	_	_	_	_	_	AlignBegin=201000|AlignEnd=201056|GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=201056|AlignEnd=201112|GE=also|Gloss=also|nWord=2|RX=[TOPPART]
-3	ban	ban	VERB	_	_	_	_	_	AlignBegin=201112|AlignEnd=201168|GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=3|RX=[VERB]
+3	bandà	bandà	VERB	_	_	_	_	_	AlignBegin=201112|AlignEnd=201168|GE=[give].[Nmlz].[Masc]|Gloss=apart_from|nWord=3|RX=[ADP]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=201168|AlignEnd=201224|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	ADV	_	_	_	_	_	AlignBegin=201224|AlignEnd=201280|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
+5	nan	nan	DET	_	_	4	det	_	AlignBegin=201224|AlignEnd=201280|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=201280|AlignEnd=201336|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	suː	suː	PRON	_	_	_	_	_	AlignBegin=201336|AlignEnd=201392|GE=[3Plur]|Gloss=3Plur|nWord=7|RX=[PRON]
 8-9	ɗiyam	_	_	_	_	_	_	_	_
@@ -6973,7 +6973,7 @@
 10	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=205469|AlignEnd=205536|GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
 11	maː	maː	TopPART	_	_	_	_	_	AlignBegin=205536|AlignEnd=205603|GE=self/too|Gloss=self/too|nWord=9|RX=[TOPPART]
 12	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=205603|AlignEnd=205670|GE=thus|Gloss=thus|nWord=10|RX=[ADV]
-13	nan	nan	ADV	_	_	_	_	_	AlignBegin=205670|AlignEnd=205737|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
+13	nan	nan	DET	_	_	12	det	_	AlignBegin=205670|AlignEnd=205737|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
 14-15	akài	_	_	_	_	_	_	_	_
 14	akà	akà	AUX	_	_	_	_	_	AlignBegin=205737|AlignEnd=205771|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=12|RX=[AUX]
 15	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=205771|AlignEnd=205804|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=12|RX=[VERB]
@@ -7019,7 +7019,7 @@
 # text_orth = sabòo dà hakà nan, ’a kà saà ši cikim maagànii, ’à maà màccè, don tà yi ta bìyam mùtun.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=207000|AlignEnd=207048|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=207048|AlignEnd=207096|GE=thus|Gloss=thus|nWord=2|RX=[ADV]
-3	nan	nan	ADV	_	_	_	_	_	AlignBegin=207096|AlignEnd=207144|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+3	nan	nan	DET	_	_	2	det	_	AlignBegin=207096|AlignEnd=207144|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=207144|AlignEnd=207192|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	akà	akà	AUX	_	_	_	_	_	AlignBegin=207192|AlignEnd=207240|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=5|RX=[AUX]
 6	sâː	sâː	VERB	_	_	_	_	_	AlignBegin=207240|AlignEnd=207288|GE=put|Gloss=put|nWord=6|RX=[VERB]
