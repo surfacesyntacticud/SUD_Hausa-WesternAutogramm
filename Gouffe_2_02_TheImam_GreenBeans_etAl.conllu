@@ -638,12 +638,10 @@
 2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=17125|AlignEnd=17250|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=17250|AlignEnd=17375|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=17375|AlignEnd=17500|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5-6	bàbbam	_	_	_	_	_	_	_	_
-5	bàbba	bàbbaː	ADJ	_	_	_	_	_	AlignBegin=17500|AlignEnd=17562|GE=[big].[Masc]|Gloss=big.Masc|nWord=5|RX=[ADJ]
-6	-m	-n	PART	_	_	_	_	_	AlignBegin=17562|AlignEnd=17625|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=5|RX=[PART]
-7	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=17625|AlignEnd=17750|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
-8	neː	neː	IdPART	_	_	_	_	_	AlignBegin=17750|AlignEnd=17875|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=7|RX=[IDPART]
-9	.	.	PUNCT	_	_	_	_	_	AlignBegin=17875|AlignEnd=18000|Gloss=.|nWord=8|RX=[PUNCT]
+5	bàbbam	bàbbaː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=17500|AlignEnd=17562|GE=[big].[Masc]|Gloss=big.Masc|nWord=5|RX=[ADJ]|wordform=bàbba
+6	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=17625|AlignEnd=17750|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
+7	neː	neː	IdPART	_	_	_	_	_	AlignBegin=17750|AlignEnd=17875|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=7|RX=[IDPART]
+8	.	.	PUNCT	_	_	_	_	_	AlignBegin=17875|AlignEnd=18000|Gloss=.|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_018-018
 # speaker_id = *
@@ -4021,17 +4019,15 @@
 12	ɗèːbi	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=128450|AlignEnd=128495|GE=take|Gloss=take|nWord=11|RX=[VERB]
 13	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=128495|AlignEnd=128540|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=12|RX=[NOUN]
 14	##	##	PUNCT	_	_	_	_	_	AlignBegin=128540|AlignEnd=128585|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15-16	ɗanyen	_	_	_	_	_	_	_	_
-15	ɗanye	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=128585|AlignEnd=128607|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=14|RX=[ADJ]
-16	-n	-n	PART	_	_	_	_	_	AlignBegin=128607|AlignEnd=128630|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=14|RX=[PART]
-17	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=128630|AlignEnd=128675|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=15|RX=[NOUN]
-18	mài	mài	PART	_	_	_	_	_	AlignBegin=128675|AlignEnd=128720|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=16|RX=[PART]
-19	kwàlhwaː	kwàlhwaː	NOUN	_	_	_	_	_	AlignBegin=128720|AlignEnd=128765|GE=[nutshell].[Fem]|Gloss=nutshell.Fem|nWord=17|RX=[NOUN]
-20	,	,	PUNCT	_	_	_	_	_	AlignBegin=128765|AlignEnd=128810|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-21	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=128810|AlignEnd=128855|GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]
-22	aj	ak	IdPART	_	_	_	_	_	AlignBegin=128855|AlignEnd=128900|GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=20|RX=[IDPART]
-23	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=128900|AlignEnd=128945|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=21|RX=[NOUN]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=128945|AlignEnd=129000|Gloss=.|nWord=22|RX=[PUNCT]
+15	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=128585|AlignEnd=128607|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=14|RX=[ADJ]|wordform=ɗanye
+16	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=128630|AlignEnd=128675|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=15|RX=[NOUN]
+17	mài	mài	PART	_	_	_	_	_	AlignBegin=128675|AlignEnd=128720|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=16|RX=[PART]
+18	kwàlhwaː	kwàlhwaː	NOUN	_	_	_	_	_	AlignBegin=128720|AlignEnd=128765|GE=[nutshell].[Fem]|Gloss=nutshell.Fem|nWord=17|RX=[NOUN]
+19	,	,	PUNCT	_	_	_	_	_	AlignBegin=128765|AlignEnd=128810|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+20	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=128810|AlignEnd=128855|GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]
+21	aj	ak	IdPART	_	_	_	_	_	AlignBegin=128855|AlignEnd=128900|GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=20|RX=[IDPART]
+22	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=128900|AlignEnd=128945|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=21|RX=[NOUN]
+23	.	.	PUNCT	_	_	_	_	_	AlignBegin=128945|AlignEnd=129000|Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_124-124
 # speaker_id = *
@@ -4083,45 +4079,41 @@
 24	,	,	PUNCT	_	_	_	_	_	AlignBegin=130391|AlignEnd=130408|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=130408|AlignEnd=130425|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=25|RX=[PREDPART]
 26	indà	indà	ADV	_	_	_	_	_	AlignBegin=130425|AlignEnd=130442|GE=where|Gloss=where|nWord=26|RX=[ADV]
-27-28	ɗanyen	_	_	_	_	_	_	_	_
-27	ɗanye	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=130442|AlignEnd=130450|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]
-28	-n	-n	PART	_	_	_	_	_	AlignBegin=130450|AlignEnd=130459|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=27|RX=[PART]
-29	hakì:	hakì:	NOUN	_	_	_	_	_	AlignBegin=130459|AlignEnd=130476|GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
-30	shi	shi	PRON	_	_	_	_	_	AlignBegin=130476|AlignEnd=130493|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
-31	kè	kè	AUX	_	_	_	_	_	AlignBegin=130493|AlignEnd=130510|GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=30|RX=[AUX]
-32	,	,	PUNCT	_	_	_	_	_	AlignBegin=130510|AlignEnd=130527|GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-33	bàleː	bàleː	SCONJ	_	_	_	_	_	AlignBegin=130527|AlignEnd=130544|GE=much_less|Gloss=much_less|nWord=32|RX=[SCONJ]
-34-35	ɗanyen	_	_	_	_	_	_	_	_
-34	ɗanyen	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=130544|AlignEnd=130552|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=33|RX=[ADJ]
-35	-n	-t	PART	_	_	_	_	_	AlignBegin=130552|AlignEnd=130561|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=33|RX=[PART]
-36	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=130561|AlignEnd=130578|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=34|RX=[NOUN]
-37	##	##	PUNCT	_	_	_	_	_	AlignBegin=130578|AlignEnd=130595|GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-38	sai	sai	ADV	_	_	_	_	_	AlignBegin=130595|AlignEnd=130612|GE=then|Gloss=then|nWord=36|RX=[ADV]
-39	taɗ	tak	AUX	_	_	_	_	_	AlignBegin=130612|AlignEnd=130629|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=37|RX=[AUX]
-40	ɗaukoː	ɗaukaː	VERB	_	_	_	_	_	AlignBegin=130629|AlignEnd=130637|GE=take|Gloss=take.Dir|nWord=38|RX=[VERB]|wordform=ɗauk
-41-43	jìmɓirintà	_	_	_	_	_	_	_	_
-41	jìmɓiri	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=130646|AlignEnd=130652|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=39|RX=[NOUN]
-42	-n	-n	PART	_	_	_	_	_	AlignBegin=130652|AlignEnd=130658|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=39|RX=[PART]
-43	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=130658|AlignEnd=130663|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=39|RX=[PRON]
-44	,	,	PUNCT	_	_	_	_	_	AlignBegin=130663|AlignEnd=130680|GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
-45	sai	sai	ADV	_	_	_	_	_	AlignBegin=130680|AlignEnd=130697|GE=then|Gloss=then|nWord=41|RX=[ADV]
-46	taj	tak	AUX	_	_	_	_	_	AlignBegin=130697|AlignEnd=130714|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=42|RX=[AUX]
-47	jiƙàː	jiƙàː	VERB	_	_	_	_	_	AlignBegin=130714|AlignEnd=130731|GE=soak|Gloss=soak|nWord=43|RX=[VERB]
-48	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=130731|AlignEnd=130748|GE=in(side)|Gloss=in(side)|nWord=44|RX=[ADP]
-49	ruwaː	ruwaː	NOUN	_	_	_	_	_	AlignBegin=130748|AlignEnd=130765|GE=[water].[Plur]|Gloss=water.Plur|nWord=45|RX=[NOUN]
-50	##	##	PUNCT	_	_	_	_	_	AlignBegin=130765|AlignEnd=130782|GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
-51	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=130782|AlignEnd=130799|GE=when|Gloss=when|nWord=47|RX=[SCONJ]
-52	yaj	yak	AUX	_	_	_	_	_	AlignBegin=130799|AlignEnd=130816|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
-53	jìƙa	jìƙa	VERB	_	_	_	_	_	AlignBegin=130816|AlignEnd=130833|GE=be_soaked|Gloss=be_soaked|nWord=49|RX=[VERB]
-54	yaz	yak	AUX	_	_	_	_	_	AlignBegin=130833|AlignEnd=130850|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=50|RX=[AUX]
-55	zama	zama	VERB	_	_	_	_	_	AlignBegin=130850|AlignEnd=130867|GE=become|Gloss=become|nWord=51|RX=[VERB]
-56	kàmaɗ	kàmat	ADP	_	_	_	_	_	AlignBegin=130867|AlignEnd=130884|GE=like|Gloss=like|nWord=52|RX=[ADP]
-57	ɗanyeː	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=130884|AlignEnd=130901|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=53|RX=[ADJ]
-58	,	,	PUNCT	_	_	_	_	_	AlignBegin=130901|AlignEnd=130918|GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
-59	sai	sai	ADV	_	_	_	_	_	AlignBegin=130918|AlignEnd=130935|GE=then|Gloss=then|nWord=55|RX=[ADV]
-60	tad	tak	AUX	_	_	_	_	_	AlignBegin=130935|AlignEnd=130952|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=56|RX=[AUX]
-61	dahwàː	dahwàː	VERB	_	_	_	_	_	AlignBegin=130952|AlignEnd=130969|GE=boil|Gloss=boil|nWord=57|RX=[VERB]
-62	.	.	PUNCT	_	_	_	_	_	AlignBegin=130969|AlignEnd=131000|Gloss=.|nWord=58|RX=[PUNCT]
+27	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=130442|AlignEnd=130450|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
+28	hakì:	hakì:	NOUN	_	_	_	_	_	AlignBegin=130459|AlignEnd=130476|GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
+29	shi	shi	PRON	_	_	_	_	_	AlignBegin=130476|AlignEnd=130493|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
+30	kè	kè	AUX	_	_	_	_	_	AlignBegin=130493|AlignEnd=130510|GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=30|RX=[AUX]
+31	,	,	PUNCT	_	_	_	_	_	AlignBegin=130510|AlignEnd=130527|GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+32	bàleː	bàleː	SCONJ	_	_	_	_	_	AlignBegin=130527|AlignEnd=130544|GE=much_less|Gloss=much_less|nWord=32|RX=[SCONJ]
+33	ɗanyenn	ɗanyeː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=130544|AlignEnd=130552|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=33|RX=[ADJ]|wordform=ɗanyen
+34	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=130561|AlignEnd=130578|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=34|RX=[NOUN]
+35	##	##	PUNCT	_	_	_	_	_	AlignBegin=130578|AlignEnd=130595|GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
+36	sai	sai	ADV	_	_	_	_	_	AlignBegin=130595|AlignEnd=130612|GE=then|Gloss=then|nWord=36|RX=[ADV]
+37	taɗ	tak	AUX	_	_	_	_	_	AlignBegin=130612|AlignEnd=130629|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=37|RX=[AUX]
+38	ɗaukoː	ɗaukaː	VERB	_	_	_	_	_	AlignBegin=130629|AlignEnd=130637|GE=take|Gloss=take.Dir|nWord=38|RX=[VERB]|wordform=ɗauk
+39-41	jìmɓirintà	_	_	_	_	_	_	_	_
+39	jìmɓiri	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=130646|AlignEnd=130652|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=39|RX=[NOUN]
+40	-n	-n	PART	_	_	_	_	_	AlignBegin=130652|AlignEnd=130658|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=39|RX=[PART]
+41	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=130658|AlignEnd=130663|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=39|RX=[PRON]
+42	,	,	PUNCT	_	_	_	_	_	AlignBegin=130663|AlignEnd=130680|GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
+43	sai	sai	ADV	_	_	_	_	_	AlignBegin=130680|AlignEnd=130697|GE=then|Gloss=then|nWord=41|RX=[ADV]
+44	taj	tak	AUX	_	_	_	_	_	AlignBegin=130697|AlignEnd=130714|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=42|RX=[AUX]
+45	jiƙàː	jiƙàː	VERB	_	_	_	_	_	AlignBegin=130714|AlignEnd=130731|GE=soak|Gloss=soak|nWord=43|RX=[VERB]
+46	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=130731|AlignEnd=130748|GE=in(side)|Gloss=in(side)|nWord=44|RX=[ADP]
+47	ruwaː	ruwaː	NOUN	_	_	_	_	_	AlignBegin=130748|AlignEnd=130765|GE=[water].[Plur]|Gloss=water.Plur|nWord=45|RX=[NOUN]
+48	##	##	PUNCT	_	_	_	_	_	AlignBegin=130765|AlignEnd=130782|GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
+49	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=130782|AlignEnd=130799|GE=when|Gloss=when|nWord=47|RX=[SCONJ]
+50	yaj	yak	AUX	_	_	_	_	_	AlignBegin=130799|AlignEnd=130816|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
+51	jìƙa	jìƙa	VERB	_	_	_	_	_	AlignBegin=130816|AlignEnd=130833|GE=be_soaked|Gloss=be_soaked|nWord=49|RX=[VERB]
+52	yaz	yak	AUX	_	_	_	_	_	AlignBegin=130833|AlignEnd=130850|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=50|RX=[AUX]
+53	zama	zama	VERB	_	_	_	_	_	AlignBegin=130850|AlignEnd=130867|GE=become|Gloss=become|nWord=51|RX=[VERB]
+54	kàmaɗ	kàmat	ADP	_	_	_	_	_	AlignBegin=130867|AlignEnd=130884|GE=like|Gloss=like|nWord=52|RX=[ADP]
+55	ɗanyeː	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=130884|AlignEnd=130901|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=53|RX=[ADJ]
+56	,	,	PUNCT	_	_	_	_	_	AlignBegin=130901|AlignEnd=130918|GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
+57	sai	sai	ADV	_	_	_	_	_	AlignBegin=130918|AlignEnd=130935|GE=then|Gloss=then|nWord=55|RX=[ADV]
+58	tad	tak	AUX	_	_	_	_	_	AlignBegin=130935|AlignEnd=130952|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=56|RX=[AUX]
+59	dahwàː	dahwàː	VERB	_	_	_	_	_	AlignBegin=130952|AlignEnd=130969|GE=boil|Gloss=boil|nWord=57|RX=[VERB]
+60	.	.	PUNCT	_	_	_	_	_	AlignBegin=130969|AlignEnd=131000|Gloss=.|nWord=58|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_126-126
 # speaker_id = *
@@ -4283,11 +4275,9 @@
 26	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	AlignBegin=135800|AlignEnd=135832|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=26|RX=[NOUN]
 27	,	,	PUNCT	_	_	_	_	_	AlignBegin=135832|AlignEnd=135864|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 28	na	na	PART	_	_	_	_	_	AlignBegin=135864|AlignEnd=135896|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=28|RX=[PART]
-29-30	ɗanyen	_	_	_	_	_	_	_	_
-29	ɗanye	ɗanyeː	ADJ	_	_	_	_	_	AlignBegin=135896|AlignEnd=135912|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=29|RX=[ADJ]
-30	-n	-t	PART	_	_	_	_	_	AlignBegin=135912|AlignEnd=135928|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=29|RX=[PART]
-31	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=135928|AlignEnd=135960|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=30|RX=[NOUN]
-32	.	.	PUNCT	_	_	_	_	_	AlignBegin=135960|AlignEnd=136000|Gloss=.|nWord=31|RX=[PUNCT]
+29	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=135896|AlignEnd=135912|GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=29|RX=[ADJ]|wordform=ɗanye
+30	waːkeː	waːkeː	NOUN	_	_	_	_	_	AlignBegin=135928|AlignEnd=135960|GE=[beans].[Masc]|Gloss=beans.Masc|nWord=30|RX=[NOUN]
+31	.	.	PUNCT	_	_	_	_	_	AlignBegin=135960|AlignEnd=136000|Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_131-131
 # speaker_id = *
