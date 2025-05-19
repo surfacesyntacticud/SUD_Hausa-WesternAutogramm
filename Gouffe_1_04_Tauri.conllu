@@ -1357,7 +1357,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	AlignBegin=40900|AlignEnd=41000|Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_042-042_split1
-# text = in zâː a ɗiːbàːtai gà runhuː , sai mùtun shì yi sabkoː .
+# text = in zâː a ɗiːbàːtai gà runhuː , sai mùtun yà yi sabkoː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
@@ -1374,17 +1374,17 @@
 8	,	,	PUNCT	_	_	1	punct	_	AlignBegin=41162|AlignEnd=41189|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 9	sai	sai	ADV	_	_	11	mod	_	AlignBegin=41189|AlignEnd=41216|GE=then|Gloss=then|nWord=8|RX=[ADV]
 10	mùtun	mùtun	NOUN	_	_	11	subj	_	AlignBegin=41216|AlignEnd=41243|GE=[person].[Masc]|Gloss=person.Masc|nWord=9|RX=[NOUN]
-11	shì	shì	AUX	_	_	0	root	_	AlignBegin=41243|AlignEnd=41270|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
+11	yà	shì	AUX	_	_	0	root	_	AlignBegin=41243|AlignEnd=41270|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=41270|AlignEnd=41297|GE=do|Gloss=do|nWord=11|RX=[VERB]
 13	sabkoː	sabkoː	NOUN	_	_	12	comp:pred	_	AlignBegin=41297|AlignEnd=41311|GE=early_start|Gloss=early_start.Masc|nWord=12|RX=[NOUN]
 14	.	.	PUNCT	_	_	11	punct	_	AlignBegin=41324|AlignEnd=41351|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_042-042_split2
+# text = raːnal lahàdi , shì tàhi dà ƙarhèː , koː wuƙaː , koː kwàːsheː , koː gàːtariː , koː làujeː , koː guntun kùjiggiː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
-# text = raːnal lahàdi , shì tàhi dà ƙarhèː , koː wuƙaː , koː kwàːsheː , koː gàːtariː , koː làujeː , koː guntun kùjiggiː .
-# text_en = On a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a small "kujiggi" (knife sp.).
+# text_en = On a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a piece of "kujiggi" (knife sp.).
 # text_orth = ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
 1	raːnal	raːna	NOUN	_	Definite=Cons	4	mod	_	AlignBegin=41351|AlignEnd=41365|GE=on|Gloss=day.Fem.Cons|nWord=14|RX=[NOUN]
 2	lahàdi	lahàdi	NOUN	_	_	1	mod	_	AlignBegin=41378|AlignEnd=41405|GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
@@ -1405,10 +1405,10 @@
 17	,	,	PUNCT	_	_	19	punct	_	AlignBegin=41783|AlignEnd=41810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 18	koː	koː	CCONJ	_	_	19	cc	_	AlignBegin=41810|AlignEnd=41837|GE=or|Gloss=or|nWord=31|RX=[CCONJ]
 19	làujeː	làujeː	NOUN	_	_	16	conj:coord	_	AlignBegin=41837|AlignEnd=41864|GE=[sickle].[Masc]|Gloss=sickle.Masc|nWord=32|RX=[NOUN]
-20	,	,	PUNCT	_	_	23	punct	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-21	koː	koː	CCONJ	_	_	23	cc	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
-22	guntun	guntuː	ADJ	_	Definite=Cons	23	mod	_	AlignBegin=41918|AlignEnd=41932|GE=[short].[Masc]|Gloss=short.Masc|nWord=35|RX=[NOUN]|wordform=guntu
-23	kùjiggiː	kùjiggiː	NOUN	_	_	19	conj:coord	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
+20	,	,	PUNCT	_	_	22	punct	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
+21	koː	koː	CCONJ	_	_	22	cc	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
+22	guntun	guntuː	NOUN	_	Definite=Cons	19	conj:coord	_	AlignBegin=41918|AlignEnd=41932|GE=[piece].[Masc]|Gloss=piece.Masc|nWord=35|RX=[NOUN]|wordform=guntu
+23	kùjiggiː	kùjiggiː	NOUN	_	_	22	mod	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
 24	.	.	PUNCT	_	_	4	punct	_	AlignBegin=41972|AlignEnd=42000|Gloss=.|nWord=37|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_043-043
