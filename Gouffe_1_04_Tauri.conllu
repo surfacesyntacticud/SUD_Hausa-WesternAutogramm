@@ -1376,25 +1376,25 @@
 # text = in zâː a yîm maːgànin ƙarhèː, anàː ɗiːbàːtai gà gwaddàː.
 # text_en = When you make a metal medicine, you get it from the pawpaw.
 # text_orth = ’in zaà ’a yim̀ maagànin ƙaᵲhèe, ’a nàa ɗiibàatai gà gwaddàa.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=38000|AlignEnd=38083|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=38083|AlignEnd=38166|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	a	a	PRON	_	_	_	_	_	AlignBegin=38166|AlignEnd=38249|GE=[4]|Gloss=4|nWord=3|RX=[PRON]
+1	in	in	SCONJ	_	_	10	mod	_	AlignBegin=38000|AlignEnd=38083|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	zâː	zâː	AUX	_	_	1	comp:obj	_	AlignBegin=38083|AlignEnd=38166|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
+3	a	a	PRON	_	_	2	subj	_	AlignBegin=38166|AlignEnd=38249|GE=[4]|Gloss=4|nWord=3|RX=[PRON]
 4-5	yîm	_	_	_	_	_	_	_	_
-4	yî	yîː	VERB	_	_	_	_	_	AlignBegin=38249|AlignEnd=38291|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]
-5	-m	-n	PART	_	_	_	_	_	AlignBegin=38291|AlignEnd=38332|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
+4	yî	yîː	VERB	_	_	2	comp:aux	_	AlignBegin=38249|AlignEnd=38291|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]
+5	-m	-n	PART	_	_	4	udep/m	_	AlignBegin=38291|AlignEnd=38332|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
 6-7	maːgànin	_	_	_	_	_	_	_	_
-6	maːgàni	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=38332|AlignEnd=38374|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=5|RX=[NOUN]
-7	-n	-n	PART	_	_	_	_	_	AlignBegin=38374|AlignEnd=38415|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=5|RX=[PART]
-8	ƙarhèː	ƙarhèː	NOUN	_	_	_	_	_	AlignBegin=38415|AlignEnd=38498|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=6|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	AlignBegin=38498|AlignEnd=38581|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+6	maːgàni	maːgàniː	NOUN	_	_	5	comp:obj	_	AlignBegin=38332|AlignEnd=38374|GE=[charm].[Masc]|Gloss=charm.Masc|nWord=5|RX=[NOUN]
+7	-n	-n	PART	_	_	6	mod/m	_	AlignBegin=38374|AlignEnd=38415|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=5|RX=[PART]
+8	ƙarhèː	ƙarhèː	NOUN	_	_	7	comp:obj	_	AlignBegin=38415|AlignEnd=38498|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=6|RX=[NOUN]
+9	,	,	PUNCT	_	_	1	punct	_	AlignBegin=38498|AlignEnd=38581|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 10	anàː	anàː	AUX	_	_	0	root	_	AlignBegin=38581|AlignEnd=38664|GE=[4].[Imp]|Gloss=4.Imp|nWord=8|RX=[AUX]
 11-13	ɗiːbàːtai	_	_	_	_	_	_	_	_
-11	ɗiːbàː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=38664|AlignEnd=38692|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=9|RX=[VERB]
-12	-t	-t	PART	_	_	_	_	_	AlignBegin=38692|AlignEnd=38720|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=9|RX=[PART]
-13	-ai	-ai	PRON	_	_	_	_	_	AlignBegin=38720|AlignEnd=38747|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=9|RX=[PRON]
-14	gà	gà	ADP	_	_	_	_	_	AlignBegin=38747|AlignEnd=38830|GE=at|Gloss=at|nWord=10|RX=[ADP]
-15	gwaddàː	gwaddàː	NOUN	_	_	_	_	_	AlignBegin=38830|AlignEnd=38913|GE=[pawpaw].[Fem]|Gloss=pawpaw.Fem|nWord=11|RX=[NOUN]
-16	.	.	PUNCT	_	_	_	_	_	AlignBegin=38913|AlignEnd=39000|Gloss=.|nWord=12|RX=[PUNCT]
+11	ɗiːbàː	ɗiːbàː	VERB	_	_	10	comp:aux	_	AlignBegin=38664|AlignEnd=38692|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=9|RX=[VERB]
+12	-t	-t	PART	_	_	11	udep/m	_	AlignBegin=38692|AlignEnd=38720|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=9|RX=[PART]
+13	-ai	-ai	PRON	_	_	12	comp:obj	_	AlignBegin=38720|AlignEnd=38747|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=9|RX=[PRON]
+14	gà	gà	ADP	_	_	11	comp:obl	_	AlignBegin=38747|AlignEnd=38830|GE=at|Gloss=at|nWord=10|RX=[ADP]
+15	gwaddàː	gwaddàː	NOUN	_	_	14	comp:obj	_	AlignBegin=38830|AlignEnd=38913|GE=[pawpaw].[Fem]|Gloss=pawpaw.Fem|nWord=11|RX=[NOUN]
+16	.	.	PUNCT	_	_	10	punct	_	AlignBegin=38913|AlignEnd=39000|Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_040-040
 # speaker_id = *
