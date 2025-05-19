@@ -1121,7 +1121,7 @@
 5	zucciyàː	zucciyàː	NOUN	_	_	4	comp:obj	_	AlignBegin=32224|AlignEnd=32280|GE=[heart].[Fem]|Gloss=heart.Fem|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=32280|AlignEnd=32336|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	wurin	wuriː	NOUN	_	Definite=Cons	5	conj:dicto	_	AlignBegin=32336|AlignEnd=32364|GE=[place].[Masc]|Gloss=place.Masc|nWord=7|RX=[NOUN]|wordform=wuri
-8	kâin	kâi	NOUN	_	Definite=Cons	7	mod	_	AlignBegin=32392|AlignEnd=32420|GE=[head].[Masc]|Gloss=head.Masc|nWord=8|RX=[NOUN]|wordform=kâi
+8	kân	kâi	NOUN	_	Definite=Cons	7	mod	_	AlignBegin=32392|AlignEnd=32420|GE=[head].[Masc]|Gloss=head.Masc|nWord=8|RX=[NOUN]|wordform=kâi
 9	zucciyàː	zucciyàː	NOUN	_	_	8	mod	_	AlignBegin=32448|AlignEnd=32504|GE=[heart].[Fem]|Gloss=heart.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	11	_	_	AlignBegin=32504|AlignEnd=32560|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sù	sù	AUX	_	_	2	parataxis	_	AlignBegin=32560|AlignEnd=32616|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=11|RX=[AUX]
@@ -1352,7 +1352,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
-# text = in zâː a ɗiːbàːtai gà runhuː, sai mùtun yà yi sabkoː, raːnal lahàdi, shì tàhi dà ƙarhèː, koː wuƙaː, koː kwàːsheː, koː gàːtariː, koː làujeː, koː guntun kùjiggiː.
+# text = in zâː a ɗiːbàːtai gà runhuː , sai mùtun shì yi sabk-oː , ral lahàdi , shì tàhi dà ƙarhèː , koː wuƙaː , koː kwàːsheː , koː gàːtariː , koː làujeː , koː guntun kùjiggiː .
 # text_en = When getting it from a cassia tree, you go there on a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a small "kujiggi" (knife sp.).
 # text_orth = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo, ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=41000|AlignEnd=41027|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -1370,32 +1370,30 @@
 12	yi	yi	VERB	_	_	_	_	_	AlignBegin=41270|AlignEnd=41297|GE=do|Gloss=do|nWord=11|RX=[VERB]
 13	sabk-oː	sàbka	VERB	_	_	_	_	_	AlignBegin=41297|AlignEnd=41311|GE=dismount|Gloss=dismount.Dir|nWord=12|RX=[VERB]|wordform=sabk-
 14	,	,	PUNCT	_	_	_	_	_	AlignBegin=41324|AlignEnd=41351|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15-16	raːnal	_	_	_	_	_	_	_	_
-15	raːna	raːna	ADV	_	_	_	_	_	AlignBegin=41351|AlignEnd=41365|GE=in_the_day|Gloss=in_the_day|nWord=14|RX=[ADV]
-16	-l	-t	PART	_	_	_	_	_	AlignBegin=41365|AlignEnd=41378|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=14|RX=[PART]
-17	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=41378|AlignEnd=41405|GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
-18	,	,	PUNCT	_	_	_	_	_	AlignBegin=41405|AlignEnd=41432|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-19	shì	shì	AUX	_	_	_	_	_	AlignBegin=41432|AlignEnd=41459|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
-20	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=41459|AlignEnd=41486|GE=go|Gloss=go|nWord=18|RX=[VERB]
-21	dà	dà	ADP	_	_	_	_	_	AlignBegin=41486|AlignEnd=41513|GE=with|Gloss=with|nWord=19|RX=[ADP]
-22	ƙarhèː	ƙarhèː	NOUN	_	_	_	_	_	AlignBegin=41513|AlignEnd=41540|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=20|RX=[NOUN]
-23	,	,	PUNCT	_	_	_	_	_	AlignBegin=41540|AlignEnd=41567|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-24	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41567|AlignEnd=41594|GE=or|Gloss=or|nWord=22|RX=[CCONJ]
-25	wuƙaː	wuƙaː	NOUN	_	_	_	_	_	AlignBegin=41594|AlignEnd=41621|GE=[knife].[Fem]|Gloss=knife.Fem|nWord=23|RX=[NOUN]
-26	,	,	PUNCT	_	_	_	_	_	AlignBegin=41621|AlignEnd=41648|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-27	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41648|AlignEnd=41675|GE=or|Gloss=or|nWord=25|RX=[CCONJ]
-28	kwàːsheː	kwàːsheː	NOUN	_	_	_	_	_	AlignBegin=41675|AlignEnd=41702|GE=[reaper].[Masc]|Gloss=reaper.Masc|nWord=26|RX=[NOUN]
-29	,	,	PUNCT	_	_	_	_	_	AlignBegin=41702|AlignEnd=41729|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-30	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41729|AlignEnd=41756|GE=or|Gloss=or|nWord=28|RX=[CCONJ]
-31	gàːtariː	gàːtariː	NOUN	_	_	_	_	_	AlignBegin=41756|AlignEnd=41783|GE=[axe].[Masc]|Gloss=axe.Masc|nWord=29|RX=[NOUN]
-32	,	,	PUNCT	_	_	_	_	_	AlignBegin=41783|AlignEnd=41810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-33	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41810|AlignEnd=41837|GE=or|Gloss=or|nWord=31|RX=[CCONJ]
-34	làujeː	làujeː	NOUN	_	_	_	_	_	AlignBegin=41837|AlignEnd=41864|GE=[sickle].[Masc]|Gloss=sickle.Masc|nWord=32|RX=[NOUN]
-35	,	,	PUNCT	_	_	_	_	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-36	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
-37	guntun	guntuː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=41918|AlignEnd=41932|GE=[piece].[Masc]|Gloss=piece.Masc|nWord=35|RX=[NOUN]|wordform=guntu
-38	kùjiggiː	kùjiggiː	NOUN	_	_	37	mod	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
-39	.	.	PUNCT	_	_	_	_	_	AlignBegin=41972|AlignEnd=42000|Gloss=.|nWord=37|RX=[PUNCT]
+15	ral	raːna	NOUN	_	Definite=Cons	_	_	_	AlignBegin=41351|AlignEnd=41365|GE=on|Gloss=day.Fem.Cons|nWord=14|RX=[NOUN]
+16	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=41378|AlignEnd=41405|GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
+17	,	,	PUNCT	_	_	_	_	_	AlignBegin=41405|AlignEnd=41432|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+18	shì	shì	AUX	_	_	_	_	_	AlignBegin=41432|AlignEnd=41459|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
+19	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=41459|AlignEnd=41486|GE=go|Gloss=go|nWord=18|RX=[VERB]
+20	dà	dà	ADP	_	_	_	_	_	AlignBegin=41486|AlignEnd=41513|GE=with|Gloss=with|nWord=19|RX=[ADP]
+21	ƙarhèː	ƙarhèː	NOUN	_	_	_	_	_	AlignBegin=41513|AlignEnd=41540|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=20|RX=[NOUN]
+22	,	,	PUNCT	_	_	_	_	_	AlignBegin=41540|AlignEnd=41567|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+23	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41567|AlignEnd=41594|GE=or|Gloss=or|nWord=22|RX=[CCONJ]
+24	wuƙaː	wuƙaː	NOUN	_	_	_	_	_	AlignBegin=41594|AlignEnd=41621|GE=[knife].[Fem]|Gloss=knife.Fem|nWord=23|RX=[NOUN]
+25	,	,	PUNCT	_	_	_	_	_	AlignBegin=41621|AlignEnd=41648|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+26	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41648|AlignEnd=41675|GE=or|Gloss=or|nWord=25|RX=[CCONJ]
+27	kwàːsheː	kwàːsheː	NOUN	_	_	_	_	_	AlignBegin=41675|AlignEnd=41702|GE=[reaper].[Masc]|Gloss=reaper.Masc|nWord=26|RX=[NOUN]
+28	,	,	PUNCT	_	_	_	_	_	AlignBegin=41702|AlignEnd=41729|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
+29	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41729|AlignEnd=41756|GE=or|Gloss=or|nWord=28|RX=[CCONJ]
+30	gàːtariː	gàːtariː	NOUN	_	_	_	_	_	AlignBegin=41756|AlignEnd=41783|GE=[axe].[Masc]|Gloss=axe.Masc|nWord=29|RX=[NOUN]
+31	,	,	PUNCT	_	_	_	_	_	AlignBegin=41783|AlignEnd=41810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+32	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41810|AlignEnd=41837|GE=or|Gloss=or|nWord=31|RX=[CCONJ]
+33	làujeː	làujeː	NOUN	_	_	_	_	_	AlignBegin=41837|AlignEnd=41864|GE=[sickle].[Masc]|Gloss=sickle.Masc|nWord=32|RX=[NOUN]
+34	,	,	PUNCT	_	_	_	_	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
+35	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
+36	guntun	guntuː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=41918|AlignEnd=41932|GE=[piece].[Masc]|Gloss=piece.Masc|nWord=35|RX=[NOUN]|wordform=guntu
+37	kùjiggiː	kùjiggiː	NOUN	_	_	36	mod	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
+38	.	.	PUNCT	_	_	_	_	_	AlignBegin=41972|AlignEnd=42000|Gloss=.|nWord=37|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_043-043
 # speaker_id = *
@@ -2826,59 +2824,57 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 90000, 91000
-# text = in kak kwaːna wuri dà ral lahàdi, in swaːhiyal lahàdi tay yi, tundà àssùbâː, tun mutàːneː bàsù taːshì dàk kwaːnaː ba, kai kuma bàkà yi màganàː dà koːwaː ba, sai kà ɗàuki kaːyan ɗiːbàm maːgànîn, kà zoː wurin lòːdaː, bàː-shèːkaràː-s'àye-ba.
+# text = in kak kwaːna wuri dà ral lahàdi , in swaːhiyal lahàdi tay yi , tundà àssùbâː , tum mutàːneː bàsù taːshì dàk kwaːnaː ba , kai kuma bàkà yi màganàː dà koːwaː ba , sai kà ɗàuki kaːyan ɗiːbàm maːgànîn , kà zoː wurin lòːdaː , bàː-shèːkaràː-s'àye-ba .
 # text_en = If you jave slept outside, on Sunday, when morning has broken, early in the morning, before anyone wakes up, and you haven't spoken to anyone, take the things to pick the medicine, go to the place where there is "loda", "bàː-shèːkaràː-s'àye-ba".
 # text_orth = ’in kak kwaana wuᵲi dà ᵲal lahàdi, ’in swaahiyal lahàdi tay yi, tun dà ’àssùbaà, tun mutàanee bà sù taašì dàk kwaanaa ba, kai kuma bà kà yi màganàa dà koowaa ba, sai kà ɗàuki kaayan ɗiibàm maagàniǹ, kà zoo wuᵲin lòodaa, bàa šèekaᵲàa s’àye ba.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=90000|AlignEnd=90021|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2-3	kak	_	_	_	_	_	_	_	_
-2	ka	ka	PRON	_	_	_	_	_	AlignBegin=90021|AlignEnd=90031|GE=[2Masc]|Gloss=2Masc|nWord=2|RX=[PRON]
-3	-k	-t	PART	_	_	_	_	_	AlignBegin=90031|AlignEnd=90042|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=2|RX=[PART]
-4	kwaːna	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=90042|AlignEnd=90063|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=3|RX=[VERB]
-5	wuri	wuri	ADV	_	_	_	_	_	AlignBegin=90063|AlignEnd=90084|GE=outside|Gloss=outside|nWord=4|RX=[ADV]
-6	dà	dà	ADP	_	_	_	_	_	AlignBegin=90084|AlignEnd=90105|GE=at|Gloss=at|nWord=5|RX=[ADP]
-7	ral	raːnaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90105|AlignEnd=90115|GE=[day].[Fem]|Gloss=day.Fem|nWord=6|RX=[NOUN]|wordform=ra
-8	lahàdi	lahàdi	NOUN	_	_	7	mod	_	AlignBegin=90126|AlignEnd=90147|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=7|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	AlignBegin=90147|AlignEnd=90168|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-10	in	in	SCONJ	_	_	_	_	_	AlignBegin=90168|AlignEnd=90189|GE=if|Gloss=if|nWord=9|RX=[SCONJ]
-11	swaːhiyal	swaːhiyaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90189|AlignEnd=90199|GE=[morning].[Fem]|Gloss=morning.Fem|nWord=10|RX=[NOUN]|wordform=swaːhiya
-12	lahàdi	lahàdi	NOUN	_	_	11	mod	_	AlignBegin=90210|AlignEnd=90231|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
-13	tay	tak	AUX	_	_	_	_	_	AlignBegin=90231|AlignEnd=90252|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=12|RX=[AUX]
-14	yi	yi	VERB	_	_	_	_	_	AlignBegin=90252|AlignEnd=90273|GE=do|Gloss=do|nWord=13|RX=[VERB]
-15	,	,	PUNCT	_	_	_	_	_	AlignBegin=90273|AlignEnd=90294|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-16	tundà	tundà	SCONJ	_	_	_	_	_	AlignBegin=90294|AlignEnd=90315|GE=since|Gloss=since|nWord=15|RX=[SCONJ]
-17	àssùbâː	àssùbâː	NOUN	_	_	_	_	_	AlignBegin=90315|AlignEnd=90336|GE=[early_morning].[Fem]|Gloss=early_morning.Fem|nWord=16|RX=[NOUN]
-18	,	,	PUNCT	_	_	_	_	_	AlignBegin=90336|AlignEnd=90357|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	tum	tun	SCONJ	_	_	_	_	_	AlignBegin=90357|AlignEnd=90378|GE=since/before|Gloss=since/before|nWord=18|RX=[SCONJ]
-20	mutàːneː	mutàːneː	NOUN	_	_	_	_	_	AlignBegin=90378|AlignEnd=90399|GE=[people].[Plur]|Gloss=people.Plur|nWord=19|RX=[NOUN]
-21	bàsù	bàsù	AUX	_	_	_	_	_	AlignBegin=90399|AlignEnd=90420|GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.Perf.Neg|nWord=20|RX=[AUX]
-22	taːshì	taːshì	VERB	_	_	_	_	_	AlignBegin=90420|AlignEnd=90441|GE=rise|Gloss=rise|nWord=21|RX=[VERB]
-23	dàk	dàgà	ADP	_	_	_	_	_	AlignBegin=90441|AlignEnd=90462|GE=from|Gloss=from|nWord=22|RX=[ADP]
-24	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=90462|AlignEnd=90483|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=23|RX=[VERB]
-25	ba	ba	PART	_	_	_	_	_	AlignBegin=90483|AlignEnd=90504|GE=[Neg]|Gloss=Neg|nWord=24|RX=[PART]
-26	,	,	PUNCT	_	_	_	_	_	AlignBegin=90504|AlignEnd=90525|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-27	kai	kai	PRON	_	_	_	_	_	AlignBegin=90525|AlignEnd=90546|GE=[2Masc]|Gloss=2Masc|nWord=26|RX=[PRON]
-28	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=90546|AlignEnd=90567|GE=also|Gloss=also|nWord=27|RX=[TOPPART]
-29	bàkà	bàkà	AUX	_	_	_	_	_	AlignBegin=90567|AlignEnd=90588|GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.Perf.Neg|nWord=28|RX=[AUX]
-30	yi	yi	VERB	_	_	_	_	_	AlignBegin=90588|AlignEnd=90609|GE=do|Gloss=do|nWord=29|RX=[VERB]
-31	màganàː	màganàː	NOUN	_	_	30	comp:pred	_	AlignBegin=90609|AlignEnd=90630|GE=[talk].[Fem]|Gloss=talk.Fem|nWord=30|RX=[NOUN]
-32	dà	dà	ADP	_	_	_	_	_	AlignBegin=90630|AlignEnd=90651|GE=with|Gloss=with|nWord=31|RX=[ADP]
-33	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=90651|AlignEnd=90672|GE=everyone|Gloss=everyone|nWord=32|RX=[PRON]
-34	ba	ba	PART	_	_	_	_	_	AlignBegin=90672|AlignEnd=90693|GE=[Neg]|Gloss=Neg|nWord=33|RX=[PART]
-35	,	,	PUNCT	_	_	_	_	_	AlignBegin=90693|AlignEnd=90714|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-36	sai	sai	ADV	_	_	_	_	_	AlignBegin=90714|AlignEnd=90735|GE=then|Gloss=then|nWord=35|RX=[ADV]
-37	kà	kà	AUX	_	_	_	_	_	AlignBegin=90735|AlignEnd=90756|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=36|RX=[AUX]
-38	ɗàuki	ɗaukaː	VERB	_	_	_	_	_	AlignBegin=90756|AlignEnd=90777|GE=take|Gloss=take|nWord=37|RX=[VERB]
-39	kaːyan	kaːyaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90777|AlignEnd=90787|GE=[things].[Masc]|Gloss=things.Masc|nWord=38|RX=[NOUN]|wordform=kaːya
-40	ɗiːbàm	ɗiːbàː	VERB	_	Definite=Cons	_	_	_	AlignBegin=90798|AlignEnd=90808|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=39|RX=[VERB]|wordform=ɗiːbà
-41	maːgànîn	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=90819|AlignEnd=90840|GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=40|RX=[NOUN]
-42	,	,	PUNCT	_	_	_	_	_	AlignBegin=90840|AlignEnd=90861|GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
-43	kà	kà	AUX	_	_	_	_	_	AlignBegin=90861|AlignEnd=90882|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=42|RX=[AUX]
-44	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=90882|AlignEnd=90903|GE=come|Gloss=come|nWord=43|RX=[VERB]
-45	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90903|AlignEnd=90913|GE=[place].[Masc]|Gloss=place.Masc|nWord=44|RX=[NOUN]|wordform=wuri
-46	lòːdaː	lòːdaː	NOUN	_	_	45	mod	_	AlignBegin=90924|AlignEnd=90945|GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=45|RX=[NOUN]
-47	,	,	PUNCT	_	_	_	_	_	AlignBegin=90945|AlignEnd=90966|GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
-48	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	_	_	_	_	AlignBegin=90966|AlignEnd=90987|GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=47|RX=[NOUN]
-49	.	.	PUNCT	_	_	_	_	_	AlignBegin=90987|AlignEnd=91000|Gloss=.|nWord=48|RX=[PUNCT]
+2	kak	kak	AUX	_	_	_	_	_	AlignBegin=90021|AlignEnd=90031|GE=[2Masc]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
+3	kwaːna	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=90042|AlignEnd=90063|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=3|RX=[VERB]
+4	wuri	wuri	ADV	_	_	_	_	_	AlignBegin=90063|AlignEnd=90084|GE=outside|Gloss=outside|nWord=4|RX=[ADV]
+5	dà	dà	ADP	_	_	_	_	_	AlignBegin=90084|AlignEnd=90105|GE=at|Gloss=at|nWord=5|RX=[ADP]
+6	ral	raːnaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90105|AlignEnd=90115|GE=[day].[Fem]|Gloss=day.Fem|nWord=6|RX=[NOUN]|wordform=ra
+7	lahàdi	lahàdi	NOUN	_	_	6	mod	_	AlignBegin=90126|AlignEnd=90147|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=7|RX=[NOUN]
+8	,	,	PUNCT	_	_	_	_	_	AlignBegin=90147|AlignEnd=90168|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+9	in	in	SCONJ	_	_	_	_	_	AlignBegin=90168|AlignEnd=90189|GE=if|Gloss=if|nWord=9|RX=[SCONJ]
+10	swaːhiyal	swaːhiyaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90189|AlignEnd=90199|GE=[morning].[Fem]|Gloss=morning.Fem|nWord=10|RX=[NOUN]|wordform=swaːhiya
+11	lahàdi	lahàdi	NOUN	_	_	10	mod	_	AlignBegin=90210|AlignEnd=90231|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
+12	tay	tak	AUX	_	_	_	_	_	AlignBegin=90231|AlignEnd=90252|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=12|RX=[AUX]
+13	yi	yi	VERB	_	_	_	_	_	AlignBegin=90252|AlignEnd=90273|GE=do|Gloss=do|nWord=13|RX=[VERB]
+14	,	,	PUNCT	_	_	_	_	_	AlignBegin=90273|AlignEnd=90294|GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+15	tundà	tundà	SCONJ	_	_	_	_	_	AlignBegin=90294|AlignEnd=90315|GE=since|Gloss=since|nWord=15|RX=[SCONJ]
+16	àssùbâː	àssùbâː	NOUN	_	_	_	_	_	AlignBegin=90315|AlignEnd=90336|GE=[early_morning].[Fem]|Gloss=early_morning.Fem|nWord=16|RX=[NOUN]
+17	,	,	PUNCT	_	_	_	_	_	AlignBegin=90336|AlignEnd=90357|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+18	tum	tun	SCONJ	_	_	_	_	_	AlignBegin=90357|AlignEnd=90378|GE=since/before|Gloss=since/before|nWord=18|RX=[SCONJ]
+19	mutàːneː	mutàːneː	NOUN	_	_	_	_	_	AlignBegin=90378|AlignEnd=90399|GE=[people].[Plur]|Gloss=people.Plur|nWord=19|RX=[NOUN]
+20	bàsù	bàsù	AUX	_	_	_	_	_	AlignBegin=90399|AlignEnd=90420|GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.Perf.Neg|nWord=20|RX=[AUX]
+21	taːshì	taːshì	VERB	_	_	_	_	_	AlignBegin=90420|AlignEnd=90441|GE=rise|Gloss=rise|nWord=21|RX=[VERB]
+22	dàk	dàgà	ADP	_	_	_	_	_	AlignBegin=90441|AlignEnd=90462|GE=from|Gloss=from|nWord=22|RX=[ADP]
+23	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=90462|AlignEnd=90483|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=23|RX=[VERB]
+24	ba	ba	PART	_	_	_	_	_	AlignBegin=90483|AlignEnd=90504|GE=[Neg]|Gloss=Neg|nWord=24|RX=[PART]
+25	,	,	PUNCT	_	_	_	_	_	AlignBegin=90504|AlignEnd=90525|GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+26	kai	kai	PRON	_	_	_	_	_	AlignBegin=90525|AlignEnd=90546|GE=[2Masc]|Gloss=2Masc|nWord=26|RX=[PRON]
+27	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=90546|AlignEnd=90567|GE=also|Gloss=also|nWord=27|RX=[TOPPART]
+28	bàkà	bàkà	AUX	_	_	_	_	_	AlignBegin=90567|AlignEnd=90588|GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.Perf.Neg|nWord=28|RX=[AUX]
+29	yi	yi	VERB	_	_	_	_	_	AlignBegin=90588|AlignEnd=90609|GE=do|Gloss=do|nWord=29|RX=[VERB]
+30	màganàː	màganàː	NOUN	_	_	29	comp:pred	_	AlignBegin=90609|AlignEnd=90630|GE=[talk].[Fem]|Gloss=talk.Fem|nWord=30|RX=[NOUN]
+31	dà	dà	ADP	_	_	_	_	_	AlignBegin=90630|AlignEnd=90651|GE=with|Gloss=with|nWord=31|RX=[ADP]
+32	koːwaː	koːwaː	PRON	_	_	_	_	_	AlignBegin=90651|AlignEnd=90672|GE=everyone|Gloss=everyone|nWord=32|RX=[PRON]
+33	ba	ba	PART	_	_	_	_	_	AlignBegin=90672|AlignEnd=90693|GE=[Neg]|Gloss=Neg|nWord=33|RX=[PART]
+34	,	,	PUNCT	_	_	_	_	_	AlignBegin=90693|AlignEnd=90714|GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
+35	sai	sai	ADV	_	_	_	_	_	AlignBegin=90714|AlignEnd=90735|GE=then|Gloss=then|nWord=35|RX=[ADV]
+36	kà	kà	AUX	_	_	_	_	_	AlignBegin=90735|AlignEnd=90756|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=36|RX=[AUX]
+37	ɗàuki	ɗaukaː	VERB	_	_	_	_	_	AlignBegin=90756|AlignEnd=90777|GE=take|Gloss=take|nWord=37|RX=[VERB]
+38	kaːyan	kaːyaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90777|AlignEnd=90787|GE=[things].[Masc]|Gloss=things.Masc|nWord=38|RX=[NOUN]|wordform=kaːya
+39	ɗiːbàm	ɗiːbàː	VERB	_	Definite=Cons	_	_	_	AlignBegin=90798|AlignEnd=90808|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=39|RX=[VERB]|wordform=ɗiːbà
+40	maːgànîn	maːgàniː	NOUN	_	_	_	_	_	AlignBegin=90819|AlignEnd=90840|GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=40|RX=[NOUN]
+41	,	,	PUNCT	_	_	_	_	_	AlignBegin=90840|AlignEnd=90861|GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
+42	kà	kà	AUX	_	_	_	_	_	AlignBegin=90861|AlignEnd=90882|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=42|RX=[AUX]
+43	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=90882|AlignEnd=90903|GE=come|Gloss=come|nWord=43|RX=[VERB]
+44	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=90903|AlignEnd=90913|GE=[place].[Masc]|Gloss=place.Masc|nWord=44|RX=[NOUN]|wordform=wuri
+45	lòːdaː	lòːdaː	NOUN	_	_	44	mod	_	AlignBegin=90924|AlignEnd=90945|GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=45|RX=[NOUN]
+46	,	,	PUNCT	_	_	_	_	_	AlignBegin=90945|AlignEnd=90966|GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
+47	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	_	_	_	_	AlignBegin=90966|AlignEnd=90987|GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=47|RX=[NOUN]
+48	.	.	PUNCT	_	_	_	_	_	AlignBegin=90987|AlignEnd=91000|Gloss=.|nWord=48|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_092-092
 # speaker_id = *

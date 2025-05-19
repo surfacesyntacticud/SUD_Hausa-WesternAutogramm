@@ -2841,7 +2841,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 89267, 90000
-# text = in zâː a ɗiːbàːtai, sai à sàːmu lìngàːɓun runhuː, saːbiː, wa’àndà ad dà tabshiː ## sai à ɗeːboː sù, à zoː dà suː gidaː.
+# text = in zâː a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
 # text_en = When you pick it, you take tender shoots and leaves of the "runhu", new ones, that are soft. ## You pick them and take them home.
 # text_orth = ’in zaà ’a ɗiibàatai, sai ’à sàamu lìngàaɓun ᵲunhuu, saabii, wa’àndà ’ad dà tabšii ## sai ’à ɗeeboo sù, ’à zoo dà suu gidaa.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=89267|AlignEnd=89292|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2860,23 +2860,21 @@
 13	saːbiː	saːbiː	ADJ	_	_	_	_	_	AlignBegin=89542|AlignEnd=89567|GE=[new].[Plur]|Gloss=new.Plur|nWord=12|RX=[ADJ]
 14	,	,	PUNCT	_	_	_	_	_	AlignBegin=89567|AlignEnd=89592|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 15	wa’àndà	wa’àndà	PRON	_	_	_	_	_	AlignBegin=89592|AlignEnd=89617|GE=[who].[Plur]|Gloss=who.Plur|nWord=14|RX=[PRON]
-16-17	ad	_	_	_	_	_	_	_	_
-16	a	a	PRON	_	_	_	_	_	AlignBegin=89617|AlignEnd=89629|GE=[4]|Gloss=4|nWord=15|RX=[PRON]
-17	-d	-t	PART	_	_	_	_	_	AlignBegin=89629|AlignEnd=89642|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=15|RX=[PART]
-18	dà	dà	ADP	_	_	_	_	_	AlignBegin=89642|AlignEnd=89667|GE=with|Gloss=with|nWord=16|RX=[ADP]
-19	tabshiː	tabshiː	NOUN	_	_	_	_	_	AlignBegin=89667|AlignEnd=89692|GE=[softness].[Masc]|Gloss=softness.Masc|nWord=17|RX=[NOUN]
-20	,	,	PUNCT	_	_	_	_	_	AlignBegin=89692|AlignEnd=89717|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-21	sai	sai	ADV	_	_	_	_	_	AlignBegin=89717|AlignEnd=89742|GE=then|Gloss=then|nWord=19|RX=[ADV]
-22	à	à	AUX	_	_	_	_	_	AlignBegin=89742|AlignEnd=89767|GE=[4].[Aor]|Gloss=4.Aor|nWord=20|RX=[AUX]
-23	ɗeːboː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=89767|AlignEnd=89779|GE=take|Gloss=take.Dir|nWord=21|RX=[VERB]|wordform=ɗeːb
-24	sù	sù	PRON	_	_	_	_	_	AlignBegin=89792|AlignEnd=89817|GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
-25	,	,	PUNCT	_	_	_	_	_	AlignBegin=89817|AlignEnd=89842|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-26	à	à	AUX	_	_	_	_	_	AlignBegin=89842|AlignEnd=89867|GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
-27	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=89867|AlignEnd=89892|GE=come|Gloss=come|nWord=25|RX=[VERB]
-28	dà	dà	ADP	_	_	_	_	_	AlignBegin=89892|AlignEnd=89917|GE=with|Gloss=with|nWord=26|RX=[ADP]
-29	suː	suː	PRON	_	_	_	_	_	AlignBegin=89917|AlignEnd=89942|GE=[3Plur]|Gloss=3Plur|nWord=27|RX=[PRON]
-30	gidaː	gidaː	NOUN	_	_	_	_	_	AlignBegin=89942|AlignEnd=89967|GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]
-31	.	.	PUNCT	_	_	_	_	_	AlignBegin=89967|AlignEnd=90000|Gloss=.|nWord=29|RX=[PUNCT]
+16	ad	ak	IdPART	_	_	_	_	_	AlignBegin=89617|AlignEnd=89629|GE=[4]|Gloss=Pred/Loc|nWord=15|RX=[IDPART]
+17	dà	dà	ADP	_	_	_	_	_	AlignBegin=89642|AlignEnd=89667|GE=with|Gloss=with|nWord=16|RX=[ADP]
+18	tabshiː	tabshiː	NOUN	_	_	_	_	_	AlignBegin=89667|AlignEnd=89692|GE=[softness].[Masc]|Gloss=softness.Masc|nWord=17|RX=[NOUN]
+19	,	,	PUNCT	_	_	_	_	_	AlignBegin=89692|AlignEnd=89717|GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+20	sai	sai	ADV	_	_	_	_	_	AlignBegin=89717|AlignEnd=89742|GE=then|Gloss=then|nWord=19|RX=[ADV]
+21	à	à	AUX	_	_	_	_	_	AlignBegin=89742|AlignEnd=89767|GE=[4].[Aor]|Gloss=4.Aor|nWord=20|RX=[AUX]
+22	ɗeːboː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=89767|AlignEnd=89779|GE=take|Gloss=take.Dir|nWord=21|RX=[VERB]|wordform=ɗeːb
+23	sù	sù	PRON	_	_	_	_	_	AlignBegin=89792|AlignEnd=89817|GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
+24	,	,	PUNCT	_	_	_	_	_	AlignBegin=89817|AlignEnd=89842|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+25	à	à	AUX	_	_	_	_	_	AlignBegin=89842|AlignEnd=89867|GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
+26	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=89867|AlignEnd=89892|GE=come|Gloss=come|nWord=25|RX=[VERB]
+27	dà	dà	ADP	_	_	_	_	_	AlignBegin=89892|AlignEnd=89917|GE=with|Gloss=with|nWord=26|RX=[ADP]
+28	suː	suː	PRON	_	_	_	_	_	AlignBegin=89917|AlignEnd=89942|GE=[3Plur]|Gloss=3Plur|nWord=27|RX=[PRON]
+29	gidaː	gidaː	NOUN	_	_	_	_	_	AlignBegin=89942|AlignEnd=89967|GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]
+30	.	.	PUNCT	_	_	_	_	_	AlignBegin=89967|AlignEnd=90000|Gloss=.|nWord=29|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_108-108
 # speaker_id = *

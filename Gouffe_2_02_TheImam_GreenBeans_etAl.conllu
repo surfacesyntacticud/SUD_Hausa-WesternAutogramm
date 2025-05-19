@@ -1944,38 +1944,36 @@
 20	.	.	PUNCT	_	_	_	_	_	AlignBegin=66954|AlignEnd=67000|Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_065-065
+# text = s'oːhuwaː tat tahoːwàttà , tak koːmoː zaurèː , taz zoː wurim maːlàmiː , maːlàmiː yab biyaː tà kuɗɗin dàudawattà .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 67000, 68000
-# text = s'oːhuwaː tat tahoːwàttà, tak koːmoː zaurèː, taz zoː wurim maːlàmiː, maːlàmiː yab biyaː tà kuɗɗin dàudawattà.
 # text_en = The old woman went her way, she went back to the entrance hut, she met the imam, the imam paid her the price of her "daudawa".
 # text_orth = s’oohuwaa tat tahoowàttà, tak koomoo zauᵲèe, taz zoo wuᵲim maalàmii, maalàmii yab biyaa tà, kuɗɗin dàudawattà.
 1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	AlignBegin=67000|AlignEnd=67050|GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	tat	tak	AUX	_	_	_	_	_	AlignBegin=67050|AlignEnd=67100|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
-3-6	tahoːwàttà	_	_	_	_	_	_	_	_
-3	tahoː	tàhi	VERB	_	_	_	_	_	AlignBegin=67100|AlignEnd=67110|GE=go|Gloss=go.Dir|nWord=3|RX=[VERB]|wordform=tah
-4	-wa	-waː	PART	_	_	_	_	_	AlignBegin=67120|AlignEnd=67130|GE=[Nmlz]|Gloss=Nmlz|nWord=3|RX=[PART]
-5	-t	-t	PART	_	_	_	_	_	AlignBegin=67130|AlignEnd=67140|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=3|RX=[PART]
-6	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=67140|AlignEnd=67150|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]
-7	,	,	PUNCT	_	_	_	_	_	AlignBegin=67150|AlignEnd=67200|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-8	tak	tak	AUX	_	_	_	_	_	AlignBegin=67200|AlignEnd=67250|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=5|RX=[AUX]
-9	koːmàːoː	koːmàː	VERB	_	_	_	_	_	AlignBegin=67250|AlignEnd=67275|GE=return|Gloss=return.Dir|nWord=6|RX=[VERB]|wordform=koːmàː
-10	zaurèː	zaurèː	NOUN	_	_	_	_	_	AlignBegin=67300|AlignEnd=67350|GE=[entrance_hut].[Masc]|Gloss=entrance_hut.Masc|nWord=7|RX=[NOUN]
-11	,	,	PUNCT	_	_	_	_	_	AlignBegin=67350|AlignEnd=67400|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-12	taz	tak	AUX	_	_	_	_	_	AlignBegin=67400|AlignEnd=67450|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=9|RX=[AUX]
-13	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=67450|AlignEnd=67500|GE=come|Gloss=come|nWord=10|RX=[VERB]
-14	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=67500|AlignEnd=67525|GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
-15	maːlàmiː	maːlàmiː	NOUN	_	_	14	mod	_	AlignBegin=67550|AlignEnd=67600|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=12|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	AlignBegin=67600|AlignEnd=67650|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-17	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=67650|AlignEnd=67700|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
-18	yab	yak	AUX	_	_	_	_	_	AlignBegin=67700|AlignEnd=67750|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=15|RX=[AUX]
-19	biyaː	biyaː	VERB	_	_	_	_	_	AlignBegin=67750|AlignEnd=67800|GE=pay|Gloss=pay|nWord=16|RX=[VERB]
-20	tà	ta	PRON	_	_	_	_	_	AlignBegin=67800|AlignEnd=67850|GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
-21	kuɗɗin	kuɗɗiː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=67850|AlignEnd=67875|GE=[money].[Masc]|Gloss=money.Masc|nWord=18|RX=[NOUN]|wordform=kuɗɗi
-22-23	dàudawattà	_	_	_	_	_	_	_	_
-22	dàudawat	dàudawaː	NOUN	_	Definite=Cons	21	mod	_	AlignBegin=67900|AlignEnd=67917|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=19|RX=[NOUN]|wordform=dàudawa
-23	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=67934|AlignEnd=67950|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=19|RX=[PRON]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=67950|AlignEnd=68000|Gloss=.|nWord=20|RX=[PUNCT]
+3-4	tahoːwàttà	_	_	_	_	_	_	_	_
+3	tahoːwat	tàhi	VERB	_	Definite=Cons	_	_	_	AlignBegin=67100|AlignEnd=67110|GE=go|Gloss=go.Dir.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=tah
+4	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=67140|AlignEnd=67150|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]
+5	,	,	PUNCT	_	_	_	_	_	AlignBegin=67150|AlignEnd=67200|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+6	tak	tak	AUX	_	_	_	_	_	AlignBegin=67200|AlignEnd=67250|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=5|RX=[AUX]
+7	koːmoː	koːmàː	VERB	_	_	_	_	_	AlignBegin=67250|AlignEnd=67275|GE=return|Gloss=return.Dir|nWord=6|RX=[VERB]|wordform=koːmàː
+8	zaurèː	zaurèː	NOUN	_	_	_	_	_	AlignBegin=67300|AlignEnd=67350|GE=[entrance_hut].[Masc]|Gloss=entrance_hut.Masc|nWord=7|RX=[NOUN]
+9	,	,	PUNCT	_	_	_	_	_	AlignBegin=67350|AlignEnd=67400|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+10	taz	tak	AUX	_	_	_	_	_	AlignBegin=67400|AlignEnd=67450|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=9|RX=[AUX]
+11	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=67450|AlignEnd=67500|GE=come|Gloss=come|nWord=10|RX=[VERB]
+12	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=67500|AlignEnd=67525|GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
+13	maːlàmiː	maːlàmiː	NOUN	_	_	12	mod	_	AlignBegin=67550|AlignEnd=67600|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=12|RX=[NOUN]
+14	,	,	PUNCT	_	_	_	_	_	AlignBegin=67600|AlignEnd=67650|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+15	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=67650|AlignEnd=67700|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
+16	yab	yak	AUX	_	_	_	_	_	AlignBegin=67700|AlignEnd=67750|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=15|RX=[AUX]
+17	biyaː	biyaː	VERB	_	_	_	_	_	AlignBegin=67750|AlignEnd=67800|GE=pay|Gloss=pay|nWord=16|RX=[VERB]
+18	tà	ta	PRON	_	_	_	_	_	AlignBegin=67800|AlignEnd=67850|GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
+19	kuɗɗin	kuɗɗiː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=67850|AlignEnd=67875|GE=[money].[Masc]|Gloss=money.Masc|nWord=18|RX=[NOUN]|wordform=kuɗɗi
+20-21	dàudawattà	_	_	_	_	_	_	_	_
+20	dàudawat	dàudawaː	NOUN	_	Definite=Cons	19	mod	_	AlignBegin=67900|AlignEnd=67917|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=19|RX=[NOUN]|wordform=dàudawa
+21	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=67934|AlignEnd=67950|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=19|RX=[PRON]
+22	.	.	PUNCT	_	_	_	_	_	AlignBegin=67950|AlignEnd=68000|Gloss=.|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_066-066
 # speaker_id = *

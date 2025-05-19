@@ -102,62 +102,60 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 4000, 5000
-# text = in kâu sun yi kwaːnaː, yanàː yìwuwaː shì tàhi dà kâinai, kuma koː shì ( ita yaːrinyàː, ita dà uwàːyentà ) àiki yaːròn wurin ɗaːkin uwattà, à zoː à taːdoː tà sù tàhi wurin kwaːnaː, dà ita dà sarmàyiː.
+# text = in kâu sun yi kwaːnaː , yanàː yìwu shì tàhi dà kâinai , kuma koː shì ( ita yaːrinyàː , ita dà uwàːyentà ) àiki yaːròn wurin ɗaːkin uwattà , à zoː à taːdoː tà sù tàhi wurin kwaːnaː , dà ita dà sarmàyiː .
 # text_en = If they are asleep, it is possible that he will go himself, or that he (she, the girl and her parents) will send a boy to her house to ask them to wake her up for them to sleep together, she and the boy.
 # text_orth = ‘in kaù sun yi kwaanaa, ya nàa yìwuwaa šì tàhi dà kaìnai, kuma koo šì (’ita yaaᵲinyàa, ’ita dà ’uwàayentà ) ’àiki yaaᵲòn wuᵲin ɗaakin ’uwattà, ’à zoo ’à taadoo tà sù tàhi wuᵲin kwaanaa, dà ’ita dà saᵲmàyii.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=4000|AlignEnd=4022|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=4022|AlignEnd=4044|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3-4	sun	_	_	_	_	_	_	_	_
-3	su	su	PRON	_	_	_	_	_	AlignBegin=4044|AlignEnd=4055|GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
-4	-n	-n	PART	_	_	_	_	_	AlignBegin=4055|AlignEnd=4066|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
-5	yi	yi	VERB	_	_	_	_	_	AlignBegin=4066|AlignEnd=4088|GE=do|Gloss=do|nWord=4|RX=[VERB]
-6	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=4088|AlignEnd=4110|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
-7	,	,	PUNCT	_	_	_	_	_	AlignBegin=4110|AlignEnd=4132|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-8	yanàː	yanàː	AUX	_	_	_	_	_	AlignBegin=4132|AlignEnd=4154|GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=7|RX=[AUX]
-9	yìwu	yìwu	VERB	_	_	_	_	_	AlignBegin=4154|AlignEnd=4176|GE=[be_possible].[Nmlz]|Gloss=be_possible.Nmlz|nWord=8|RX=[VERB]
-10	shì	shì	AUX	_	_	_	_	_	AlignBegin=4176|AlignEnd=4198|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
-11	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=4198|AlignEnd=4220|GE=go|Gloss=go|nWord=10|RX=[VERB]
-12	dà	dà	ADP	_	_	_	_	_	AlignBegin=4220|AlignEnd=4242|GE=with|Gloss=with|nWord=11|RX=[ADP]
-13-14	kâinai	_	_	_	_	_	_	_	_
-13	kâi	kâi	NOUN	_	_	_	_	_	AlignBegin=4242|AlignEnd=4249|GE=[head].[Masc]|Gloss=head.Masc|nWord=12|RX=[NOUN]
-14	-nai	-ai	PRON	_	_	_	_	_	AlignBegin=4256|AlignEnd=4264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=12|RX=[PRON]|wordform=-ai
-15	,	,	PUNCT	_	_	_	_	_	AlignBegin=4264|AlignEnd=4286|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-16	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=4286|AlignEnd=4308|GE=also|Gloss=also|nWord=14|RX=[ADV]
-17	koː	koː	TopPART	_	_	_	_	_	AlignBegin=4308|AlignEnd=4330|GE=or_else|Gloss=or_else|nWord=15|RX=[TOPPART]
-18	shì	shì	AUX	_	_	_	_	_	AlignBegin=4330|AlignEnd=4352|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
-19	(	(	PUNCT	_	_	_	_	_	AlignBegin=4352|AlignEnd=4374|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-20	ita	ita	PRON	_	_	_	_	_	AlignBegin=4374|AlignEnd=4396|GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
-21	yaːrinyàː	yaːrinyàː	NOUN	_	_	_	_	_	AlignBegin=4396|AlignEnd=4418|GE=[girl].[Fem]|Gloss=girl.Fem|nWord=19|RX=[NOUN]
-22	,	,	PUNCT	_	_	_	_	_	AlignBegin=4418|AlignEnd=4440|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-23	ita	ita	PRON	_	_	_	_	_	AlignBegin=4440|AlignEnd=4462|GE=[3Fem]|Gloss=3Fem|nWord=21|RX=[PRON]
-24	dà	dà	ADP	_	_	_	_	_	AlignBegin=4462|AlignEnd=4484|GE=with|Gloss=with|nWord=22|RX=[ADP]
-25-26	uwàːyentà	_	_	_	_	_	_	_	_
-25	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4484|AlignEnd=4491|GE=[parents].[Plur]|Gloss=parents.Plur|nWord=23|RX=[NOUN]|wordform=uwàːye
-26	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=4498|AlignEnd=4506|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=23|RX=[PRON]
-27	)	)	PUNCT	_	_	_	_	_	AlignBegin=4506|AlignEnd=4528|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-28	àiki	àikaː	VERB	_	_	_	_	_	AlignBegin=4528|AlignEnd=4550|GE=lead|Gloss=lead|nWord=25|RX=[VERB]
-29	yaːròn	yaːròː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4550|AlignEnd=4561|GE=[boy].[Masc]|Gloss=boy.Masc|nWord=26|RX=[NOUN]|wordform=yaːrò
-30	wurin	wuriː	NOUN	_	Definite=Cons	29	mod	_	AlignBegin=4572|AlignEnd=4583|GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]|wordform=wuri
-31	ɗaːkin	ɗaːkiː	NOUN	_	Definite=Cons	30	mod	_	AlignBegin=4594|AlignEnd=4605|GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=28|RX=[NOUN]|wordform=ɗaːki
-32-33	uwattà	_	_	_	_	_	_	_	_
-32	uwat	uwaː	NOUN	_	Definite=Cons	31	mod	_	AlignBegin=4616|AlignEnd=4623|GE=[mother].[Fem]|Gloss=mother.Fem|nWord=29|RX=[NOUN]|wordform=uwa
-33	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=4630|AlignEnd=4638|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=29|RX=[PRON]
-34	,	,	PUNCT	_	_	_	_	_	AlignBegin=4638|AlignEnd=4660|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-35	à	à	AUX	_	_	_	_	_	AlignBegin=4660|AlignEnd=4682|GE=[4].[Aor]|Gloss=4.Aor|nWord=31|RX=[AUX]
-36	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=4682|AlignEnd=4704|GE=go|Gloss=go|nWord=32|RX=[VERB]
-37	à	à	AUX	_	_	_	_	_	AlignBegin=4704|AlignEnd=4726|GE=[4].[Aor]|Gloss=4.Aor|nWord=33|RX=[AUX]
-38	taːdoː	taːdàː	VERB	_	_	_	_	_	AlignBegin=4726|AlignEnd=4737|GE=wake_up|Gloss=wake_up.Dir|nWord=34|RX=[VERB]|wordform=taːd
-39	tà	tà	PRON	_	_	_	_	_	AlignBegin=4748|AlignEnd=4770|GE=[3Fem]|Gloss=3Fem|nWord=35|RX=[PRON]
-40	sù	sù	AUX	_	_	_	_	_	AlignBegin=4770|AlignEnd=4792|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=36|RX=[AUX]
-41	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=4792|AlignEnd=4814|GE=go|Gloss=go|nWord=37|RX=[VERB]
-42	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4814|AlignEnd=4825|GE=[place].[Masc]|Gloss=place.Masc|nWord=38|RX=[NOUN]|wordform=wuri
-43	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=4836|AlignEnd=4858|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=39|RX=[VERB]
-44	,	,	PUNCT	_	_	_	_	_	AlignBegin=4858|AlignEnd=4880|GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
-45	dà	dà	ADP	_	_	_	_	_	AlignBegin=4880|AlignEnd=4902|GE=with|Gloss=with|nWord=41|RX=[ADP]
-46	ita	ita	PRON	_	_	_	_	_	AlignBegin=4902|AlignEnd=4924|GE=[3Fem]|Gloss=3Fem|nWord=42|RX=[PRON]
-47	dà	dà	ADP	_	_	_	_	_	AlignBegin=4924|AlignEnd=4946|GE=with|Gloss=with|nWord=43|RX=[ADP]
-48	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	AlignBegin=4946|AlignEnd=4968|GE=[youth].[Plur]|Gloss=youth.Plur|nWord=44|RX=[NOUN]
-49	.	.	PUNCT	_	_	_	_	_	AlignBegin=4968|AlignEnd=5000|Gloss=.|nWord=45|RX=[PUNCT]
+3	sun	sun	AUX	_	_	_	_	_	AlignBegin=4044|AlignEnd=4055|GE=[3].[Pl]|Gloss=3Pl.Perf|nWord=3|RX=[AUX]
+4	yi	yi	VERB	_	_	_	_	_	AlignBegin=4066|AlignEnd=4088|GE=do|Gloss=do|nWord=4|RX=[VERB]
+5	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=4088|AlignEnd=4110|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
+6	,	,	PUNCT	_	_	_	_	_	AlignBegin=4110|AlignEnd=4132|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	yanàː	yanàː	AUX	_	_	_	_	_	AlignBegin=4132|AlignEnd=4154|GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=7|RX=[AUX]
+8	yìwu	yìwu	VERB	_	_	_	_	_	AlignBegin=4154|AlignEnd=4176|GE=[be_possible].[Nmlz]|Gloss=be_possible.Nmlz|nWord=8|RX=[VERB]
+9	shì	shì	AUX	_	_	_	_	_	AlignBegin=4176|AlignEnd=4198|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
+10	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=4198|AlignEnd=4220|GE=go|Gloss=go|nWord=10|RX=[VERB]
+11	dà	dà	ADP	_	_	_	_	_	AlignBegin=4220|AlignEnd=4242|GE=with|Gloss=with|nWord=11|RX=[ADP]
+12-13	kâinai	_	_	_	_	_	_	_	_
+12	kâi	kâi	NOUN	_	_	_	_	_	AlignBegin=4242|AlignEnd=4249|GE=[head].[Masc]|Gloss=head.Masc|nWord=12|RX=[NOUN]
+13	-nai	-ai	PRON	_	_	_	_	_	AlignBegin=4256|AlignEnd=4264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=12|RX=[PRON]|wordform=-ai
+14	,	,	PUNCT	_	_	_	_	_	AlignBegin=4264|AlignEnd=4286|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+15	kuma	kuma	ADV	_	_	_	_	_	AlignBegin=4286|AlignEnd=4308|GE=also|Gloss=also|nWord=14|RX=[ADV]
+16	koː	koː	TopPART	_	_	_	_	_	AlignBegin=4308|AlignEnd=4330|GE=or_else|Gloss=or_else|nWord=15|RX=[TOPPART]
+17	shì	shì	AUX	_	_	_	_	_	AlignBegin=4330|AlignEnd=4352|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
+18	(	(	PUNCT	_	_	_	_	_	AlignBegin=4352|AlignEnd=4374|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+19	ita	ita	PRON	_	_	_	_	_	AlignBegin=4374|AlignEnd=4396|GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
+20	yaːrinyàː	yaːrinyàː	NOUN	_	_	_	_	_	AlignBegin=4396|AlignEnd=4418|GE=[girl].[Fem]|Gloss=girl.Fem|nWord=19|RX=[NOUN]
+21	,	,	PUNCT	_	_	_	_	_	AlignBegin=4418|AlignEnd=4440|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+22	ita	ita	PRON	_	_	_	_	_	AlignBegin=4440|AlignEnd=4462|GE=[3Fem]|Gloss=3Fem|nWord=21|RX=[PRON]
+23	dà	dà	ADP	_	_	_	_	_	AlignBegin=4462|AlignEnd=4484|GE=with|Gloss=with|nWord=22|RX=[ADP]
+24-25	uwàːyentà	_	_	_	_	_	_	_	_
+24	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4484|AlignEnd=4491|GE=[parents].[Plur]|Gloss=parents.Plur|nWord=23|RX=[NOUN]|wordform=uwàːye
+25	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=4498|AlignEnd=4506|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=23|RX=[PRON]
+26	)	)	PUNCT	_	_	_	_	_	AlignBegin=4506|AlignEnd=4528|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+27	àiki	àikaː	VERB	_	_	_	_	_	AlignBegin=4528|AlignEnd=4550|GE=lead|Gloss=lead|nWord=25|RX=[VERB]
+28	yaːròn	yaːròː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4550|AlignEnd=4561|GE=[boy].[Masc]|Gloss=boy.Masc|nWord=26|RX=[NOUN]|wordform=yaːrò
+29	wurin	wuriː	NOUN	_	Definite=Cons	28	mod	_	AlignBegin=4572|AlignEnd=4583|GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]|wordform=wuri
+30	ɗaːkin	ɗaːkiː	NOUN	_	Definite=Cons	29	mod	_	AlignBegin=4594|AlignEnd=4605|GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=28|RX=[NOUN]|wordform=ɗaːki
+31-32	uwattà	_	_	_	_	_	_	_	_
+31	uwat	uwaː	NOUN	_	Definite=Cons	30	mod	_	AlignBegin=4616|AlignEnd=4623|GE=[mother].[Fem]|Gloss=mother.Fem|nWord=29|RX=[NOUN]|wordform=uwa
+32	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=4630|AlignEnd=4638|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=29|RX=[PRON]
+33	,	,	PUNCT	_	_	_	_	_	AlignBegin=4638|AlignEnd=4660|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+34	à	à	AUX	_	_	_	_	_	AlignBegin=4660|AlignEnd=4682|GE=[4].[Aor]|Gloss=4.Aor|nWord=31|RX=[AUX]
+35	zoː	zoː	VERB	_	_	_	_	_	AlignBegin=4682|AlignEnd=4704|GE=go|Gloss=go|nWord=32|RX=[VERB]
+36	à	à	AUX	_	_	_	_	_	AlignBegin=4704|AlignEnd=4726|GE=[4].[Aor]|Gloss=4.Aor|nWord=33|RX=[AUX]
+37	taːdoː	taːdàː	VERB	_	_	_	_	_	AlignBegin=4726|AlignEnd=4737|GE=wake_up|Gloss=wake_up.Dir|nWord=34|RX=[VERB]|wordform=taːd
+38	tà	tà	PRON	_	_	_	_	_	AlignBegin=4748|AlignEnd=4770|GE=[3Fem]|Gloss=3Fem|nWord=35|RX=[PRON]
+39	sù	sù	AUX	_	_	_	_	_	AlignBegin=4770|AlignEnd=4792|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=36|RX=[AUX]
+40	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=4792|AlignEnd=4814|GE=go|Gloss=go|nWord=37|RX=[VERB]
+41	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4814|AlignEnd=4825|GE=[place].[Masc]|Gloss=place.Masc|nWord=38|RX=[NOUN]|wordform=wuri
+42	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	AlignBegin=4836|AlignEnd=4858|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=39|RX=[VERB]
+43	,	,	PUNCT	_	_	_	_	_	AlignBegin=4858|AlignEnd=4880|GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
+44	dà	dà	ADP	_	_	_	_	_	AlignBegin=4880|AlignEnd=4902|GE=with|Gloss=with|nWord=41|RX=[ADP]
+45	ita	ita	PRON	_	_	_	_	_	AlignBegin=4902|AlignEnd=4924|GE=[3Fem]|Gloss=3Fem|nWord=42|RX=[PRON]
+46	dà	dà	ADP	_	_	_	_	_	AlignBegin=4924|AlignEnd=4946|GE=with|Gloss=with|nWord=43|RX=[ADP]
+47	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	AlignBegin=4946|AlignEnd=4968|GE=[youth].[Plur]|Gloss=youth.Plur|nWord=44|RX=[NOUN]
+48	.	.	PUNCT	_	_	_	_	_	AlignBegin=4968|AlignEnd=5000|Gloss=.|nWord=45|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_06-06
 # speaker_id = *
@@ -766,7 +764,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 18000, 19000
-# text = in ankà gàji dà kiɗìː, shâː biyun dareː yay yi, sai makàɗaː sù bar̃ kiɗìː.
+# text = in ankà gàji dà kiɗìː , shâː biyun dareː yay yi , sai makàɗiː sù bar̃ kiɗìː .
 # text_en = When they are tired of the music, at midnight, the musicians will stop playing.
 # text_orth = ’in ’ankà gàji dà kiɗìi, šaà biyun daᵲee yay yi, sai makàɗaa sù bar kiɗìi.
 1	in	in	SCONJ	_	_	_	_	_	AlignBegin=18000|AlignEnd=18056|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -776,19 +774,17 @@
 5	kiɗìː	kiɗìː	NOUN	_	_	_	_	_	AlignBegin=18224|AlignEnd=18280|GE=[music].[Masc]|Gloss=music.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=18280|AlignEnd=18336|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	shâː	shâː	NUM	_	_	_	_	_	AlignBegin=18336|AlignEnd=18392|GE=ten|Gloss=ten|nWord=7|RX=[NUM]
-8-9	biyun	_	_	_	_	_	_	_	_
-8	biyu	biyu	NUM	_	_	_	_	_	AlignBegin=18392|AlignEnd=18420|GE=two|Gloss=two|nWord=8|RX=[NUM]
-9	-n	-n	PART	_	_	_	_	_	AlignBegin=18420|AlignEnd=18448|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
-10	dareː	dareː	NOUN	_	_	_	_	_	AlignBegin=18448|AlignEnd=18504|GE=[night].[Masc]|Gloss=night.Masc|nWord=9|RX=[NOUN]
-11	yay	yak	AUX	_	_	_	_	_	AlignBegin=18504|AlignEnd=18560|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
-12	yi	yi	VERB	_	_	_	_	_	AlignBegin=18560|AlignEnd=18616|GE=do|Gloss=do|nWord=11|RX=[VERB]
-13	,	,	PUNCT	_	_	_	_	_	AlignBegin=18616|AlignEnd=18672|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-14	sai	sai	ADV	_	_	_	_	_	AlignBegin=18672|AlignEnd=18728|GE=then|Gloss=then|nWord=13|RX=[ADV]
-15	makàɗiː	makàɗiː	NOUN	_	_	_	_	_	AlignBegin=18728|AlignEnd=18784|GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=14|RX=[NOUN]
-16	sù	sù	AUX	_	_	_	_	_	AlignBegin=18784|AlignEnd=18840|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=15|RX=[AUX]
-17	bar̃	barìː	VERB	_	_	_	_	_	AlignBegin=18840|AlignEnd=18896|GE=leave|Gloss=leave|nWord=16|RX=[VERB]
-18	kiɗìː	kiɗìː	NOUN	_	_	_	_	_	AlignBegin=18896|AlignEnd=18952|GE=[music].[Masc]|Gloss=music.Masc|nWord=17|RX=[NOUN]
-19	.	.	PUNCT	_	_	_	_	_	AlignBegin=18952|AlignEnd=19000|Gloss=.|nWord=18|RX=[PUNCT]
+8	biyun	biyu	NUM	_	Definite=Cons	_	_	_	AlignBegin=18392|AlignEnd=18420|GE=two|Gloss=two|nWord=8|RX=[NUM]
+9	dareː	dareː	NOUN	_	_	_	_	_	AlignBegin=18448|AlignEnd=18504|GE=[night].[Masc]|Gloss=night.Masc|nWord=9|RX=[NOUN]
+10	yay	yak	AUX	_	_	_	_	_	AlignBegin=18504|AlignEnd=18560|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
+11	yi	yi	VERB	_	_	_	_	_	AlignBegin=18560|AlignEnd=18616|GE=do|Gloss=do|nWord=11|RX=[VERB]
+12	,	,	PUNCT	_	_	_	_	_	AlignBegin=18616|AlignEnd=18672|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	sai	sai	ADV	_	_	_	_	_	AlignBegin=18672|AlignEnd=18728|GE=then|Gloss=then|nWord=13|RX=[ADV]
+14	makàɗiː	makàɗiː	NOUN	_	_	_	_	_	AlignBegin=18728|AlignEnd=18784|GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=14|RX=[NOUN]
+15	sù	sù	AUX	_	_	_	_	_	AlignBegin=18784|AlignEnd=18840|GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=15|RX=[AUX]
+16	bar̃	barìː	VERB	_	_	_	_	_	AlignBegin=18840|AlignEnd=18896|GE=leave|Gloss=leave|nWord=16|RX=[VERB]
+17	kiɗìː	kiɗìː	NOUN	_	_	_	_	_	AlignBegin=18896|AlignEnd=18952|GE=[music].[Masc]|Gloss=music.Masc|nWord=17|RX=[NOUN]
+18	.	.	PUNCT	_	_	_	_	_	AlignBegin=18952|AlignEnd=19000|Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_20-20
 # speaker_id = *
@@ -2599,33 +2595,31 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 72000, 73000
-# text = kas'inaːwan hillàːniː, dà hwarhwarun hillàːniː dà kyakkyataːwaː dà ùːddawaː, dut tàbiː’àssù ɗai cèː, kàmat ta hàusàːwaː.
+# text = kas'inaːwan hillàːniː , dà hwarhwarun hillàːniː dà kyakkyataːwaː dà ùːddawaː , dut tàbiː’àssù ɗai cèː , kàmar̃ ta hàusàːwaː .
 # text_en = The Fulani of Katsina, the white Fulani, the [Kyakkyata?] and the Timbuctoo Fulani, they all have the same customs as the Hausa.
 # text_orth = kac’inaawan hillàanii, dà hwaᵲhwaᵲun hillàanii dà kyakkyataawaa dà ’ùuddawaa, dut tàbii’àssù ɗai cèe, kàmat ta hàusàawaa.
-1-2	kas'inaːwan	_	_	_	_	_	_	_	_
-1	kas'inaːwa	kas'inaːwaː	PROPN	_	_	_	_	_	AlignBegin=72000|AlignEnd=72025|GE=[Katsina_inhabitants].[Plur]|Gloss=Katsina_inhabitants.Plur|nWord=1|RX=[PROPN]
-2	-n	-n	PART	_	_	_	_	_	AlignBegin=72025|AlignEnd=72050|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=1|RX=[PART]
-3	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	AlignBegin=72050|AlignEnd=72100|GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=2|RX=[PROPN]
-4	,	,	PUNCT	_	_	_	_	_	AlignBegin=72100|AlignEnd=72150|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-5	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72150|AlignEnd=72200|GE=and|Gloss=and|nWord=4|RX=[CCONJ]
-6	hwarhwarun	hwarhwaruː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=72200|AlignEnd=72225|GE=[white].[Plur]|Gloss=white.Plur|nWord=5|RX=[ADJ]|wordform=hwarhwaru
-7	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	AlignBegin=72250|AlignEnd=72300|GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=6|RX=[PROPN]
-8	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72300|AlignEnd=72350|GE=and|Gloss=and|nWord=7|RX=[CCONJ]
-9	kyakkyataːwaː	kyakkyataːwaː	PROPN	_	_	_	_	_	AlignBegin=72350|AlignEnd=72400|GE=[inhabitants_of_?].[Plur]|Gloss=inhabitants_of_?.Plur|nWord=8|RX=[PROPN]
-10	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72400|AlignEnd=72450|GE=and|Gloss=and|nWord=9|RX=[CCONJ]
-11	ùːddawaː	ùːddawaː	PROPN	_	_	_	_	_	AlignBegin=72450|AlignEnd=72500|GE=[Timbuctoo_Fulanis].[Plur]|Gloss=Timbuctoo_Fulanis.Plur|nWord=10|RX=[PROPN]
-12	,	,	PUNCT	_	_	_	_	_	AlignBegin=72500|AlignEnd=72550|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-13	dut	dukà	DET	_	_	_	_	_	AlignBegin=72550|AlignEnd=72600|GE=all|Gloss=all|nWord=12|RX=[DET]
-14-15	tàbiː’àssù	_	_	_	_	_	_	_	_
-14	tàbiː’às	tàbiː’àː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=72600|AlignEnd=72617|GE=[custom].[Fem]|Gloss=custom.Fem|nWord=13|RX=[NOUN]|wordform=tàbiː’à
-15	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=72634|AlignEnd=72650|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=13|RX=[PRON]
-16	ɗai	ɗai	ADJ	_	_	_	_	_	AlignBegin=72650|AlignEnd=72700|GE=same|Gloss=same|nWord=14|RX=[ADJ]
-17	cèː	cèː	IdPART	_	_	_	_	_	AlignBegin=72700|AlignEnd=72750|GE=[Id/Foc]|Gloss=Id/Foc|nWord=15|RX=[IDPART]
-18	,	,	PUNCT	_	_	_	_	_	AlignBegin=72750|AlignEnd=72800|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-19	kàmar̃	kàmar̃	ADP	_	_	_	_	_	AlignBegin=72800|AlignEnd=72850|GE=like|Gloss=like|nWord=17|RX=[ADP]
-20	ta	ta	PART	_	_	_	_	_	AlignBegin=72850|AlignEnd=72900|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=18|RX=[PART]
-21	hàusàːwaː	hàusàːwaː	PROP.N	_	_	_	_	_	AlignBegin=72900|AlignEnd=72950|GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=19|RX=[PROP].[N]
-22	.	.	PUNCT	_	_	_	_	_	AlignBegin=72950|AlignEnd=73000|Gloss=.|nWord=20|RX=[PUNCT]
+1	kas'inaːwan	kas'inaːwaː	PROPN	_	Definite=Cons	_	_	_	AlignBegin=72000|AlignEnd=72025|GE=[Katsina_inhabitants].[Plur]|Gloss=Katsina_inhabitants.Plur|nWord=1|RX=[PROPN]
+2	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	AlignBegin=72050|AlignEnd=72100|GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=2|RX=[PROPN]
+3	,	,	PUNCT	_	_	_	_	_	AlignBegin=72100|AlignEnd=72150|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
+4	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72150|AlignEnd=72200|GE=and|Gloss=and|nWord=4|RX=[CCONJ]
+5	hwarhwarun	hwarhwaruː	ADJ	_	Definite=Cons	_	_	_	AlignBegin=72200|AlignEnd=72225|GE=[white].[Plur]|Gloss=white.Plur|nWord=5|RX=[ADJ]|wordform=hwarhwaru
+6	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	AlignBegin=72250|AlignEnd=72300|GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=6|RX=[PROPN]
+7	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72300|AlignEnd=72350|GE=and|Gloss=and|nWord=7|RX=[CCONJ]
+8	kyakkyataːwaː	kyakkyataːwaː	PROPN	_	_	_	_	_	AlignBegin=72350|AlignEnd=72400|GE=[inhabitants_of_?].[Plur]|Gloss=inhabitants_of_?.Plur|nWord=8|RX=[PROPN]
+9	dà	dà	CCONJ	_	_	_	_	_	AlignBegin=72400|AlignEnd=72450|GE=and|Gloss=and|nWord=9|RX=[CCONJ]
+10	ùːddawaː	ùːddawaː	PROPN	_	_	_	_	_	AlignBegin=72450|AlignEnd=72500|GE=[Timbuctoo_Fulanis].[Plur]|Gloss=Timbuctoo_Fulanis.Plur|nWord=10|RX=[PROPN]
+11	,	,	PUNCT	_	_	_	_	_	AlignBegin=72500|AlignEnd=72550|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	dut	dukà	DET	_	_	_	_	_	AlignBegin=72550|AlignEnd=72600|GE=all|Gloss=all|nWord=12|RX=[DET]
+13-14	tàbiː’àssù	_	_	_	_	_	_	_	_
+13	tàbiː’às	tàbiː’àː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=72600|AlignEnd=72617|GE=[custom].[Fem]|Gloss=custom.Fem|nWord=13|RX=[NOUN]|wordform=tàbiː’à
+14	-sù	-sù	PRON	_	_	_	_	_	AlignBegin=72634|AlignEnd=72650|GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=13|RX=[PRON]
+15	ɗai	ɗai	ADJ	_	_	_	_	_	AlignBegin=72650|AlignEnd=72700|GE=same|Gloss=same|nWord=14|RX=[ADJ]
+16	cèː	cèː	IdPART	_	_	_	_	_	AlignBegin=72700|AlignEnd=72750|GE=[Id/Foc]|Gloss=Id/Foc|nWord=15|RX=[IDPART]
+17	,	,	PUNCT	_	_	_	_	_	AlignBegin=72750|AlignEnd=72800|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+18	kàmar̃	kàmar̃	ADP	_	_	_	_	_	AlignBegin=72800|AlignEnd=72850|GE=like|Gloss=like|nWord=17|RX=[ADP]
+19	ta	ta	PART	_	_	_	_	_	AlignBegin=72850|AlignEnd=72900|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=18|RX=[PART]
+20	hàusàːwaː	hàusàːwaː	PROP.N	_	_	_	_	_	AlignBegin=72900|AlignEnd=72950|GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=19|RX=[PROP].[N]
+21	.	.	PUNCT	_	_	_	_	_	AlignBegin=72950|AlignEnd=73000|Gloss=.|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_74-74
 # speaker_id = *
