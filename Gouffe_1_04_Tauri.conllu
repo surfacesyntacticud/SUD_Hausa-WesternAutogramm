@@ -212,7 +212,7 @@
 7	yi	yi	VERB	_	_	6	comp:aux	_	AlignBegin=6204|AlignEnd=6238|GE=do|Gloss=do|nWord=7|RX=[VERB]
 8-9	nàɗeːnai	_	_	_	_	_	_	_	_
 8	nàɗeː	nàɗeː	NOUN	_	_	7	comp:pred	_	AlignBegin=6238|AlignEnd=6249|GE=[tying].[Masc]|Gloss=tying.Masc|nWord=8|RX=[NOUN]
-9	-nai	-ai	PRON	_	_	_	_	_	AlignBegin=6260|AlignEnd=6272|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
+9	-nai	-ai	PRON	_	_	8	mod	_	AlignBegin=6260|AlignEnd=6272|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
 10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=6272|AlignEnd=6306|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 11	kàma’	kàmat	SCONJ	_	_	7	mod	_	AlignBegin=6306|AlignEnd=6340|GE=like|Gloss=like|nWord=10|RX=[ADP]
 12	an	an	AUX	_	_	11	comp:obj	_	AlignBegin=6340|AlignEnd=6374|GE=[4].[Perf]|Gloss=4.Perf|nWord=11|RX=[AUX]
@@ -471,7 +471,7 @@
 # text_orth = koo ɗiyaanai ’a kà ’aikìi dà suu ? koo saayèe ? koo ’iccèe ? koo kunnài ? koo ɓaawaa ?
 1	koː	koː	CCONJ	_	_	2	cc@preconj	_	AlignBegin=13198|AlignEnd=13231|GE=or|Gloss=or|nWord=7|RX=[CCONJ]
 2	ɗiyaː	ɗiyaː	NOUN	_	_	0	root	_	AlignBegin=13231|AlignEnd=13242|GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=8|RX=[NOUN]
-3	-nai	-ai	PRON	_	_	_	_	_	AlignBegin=13253|AlignEnd=13264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
+3	-nai	-ai	PRON	_	_	2	mod	_	AlignBegin=13253|AlignEnd=13264|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
 4	akà	akà	AUX	_	_	2	comp:cleft	_	AlignBegin=13264|AlignEnd=13297|GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=9|RX=[AUX]
 5	aikìː	aikìː	NOUN	_	_	4	comp:aux	_	AlignBegin=13297|AlignEnd=13330|GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]
 6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=13330|AlignEnd=13363|GE=with|Gloss=with|nWord=11|RX=[ADP]
@@ -748,7 +748,7 @@
 24	kai	kai	VERB	_	_	23	comp:aux	_	AlignBegin=22667|AlignEnd=22696|GE=reach/take_to|Gloss=reach/take_to|nWord=24|RX=[VERB]
 25-26	kuːwàːtai	_	_	_	_	_	_	_	_
 25	kuːwàː	kuːwàː	NOUN	_	_	24	comp:obj	_	AlignBegin=22696|AlignEnd=22706|GE=[yell].[Fem]|Gloss=yell.Fem|nWord=25|RX=[NOUN]
-26	-tai	-ai	PRON	_	_	_	_	_	AlignBegin=22716|AlignEnd=22725|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=25|RX=[PRON]|wordform=-ai
+26	-tai	-ai	PRON	_	_	25	mod	_	AlignBegin=22716|AlignEnd=22725|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=25|RX=[PRON]|wordform=-ai
 27	,	,	PUNCT	_	_	20	punct	_	AlignBegin=22725|AlignEnd=22754|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 28	in	in	SCONJ	_	_	33	mod	_	AlignBegin=22754|AlignEnd=22783|GE=if|Gloss=if|nWord=27|RX=[SCONJ]
 29	àkwai	àkwai	PREDPART	_	_	28	comp:obj	_	AlignBegin=22783|AlignEnd=22812|GE=there_is|Gloss=there_is|nWord=28|RX=[PREDPART]
@@ -1323,77 +1323,93 @@
 # text = gwaddàː iccèː neː.
 # text_en = The pawpaw is a tree.
 # text_orth = gwaddàa ’iccèe nee.
-1	gwaddàː	gwaddàː	NOUN	_	_	_	_	_	AlignBegin=39000|AlignEnd=39250|GE=[pawpaw].[Fem]|Gloss=pawpaw.Fem|nWord=1|RX=[NOUN]
-2	iccèː	iccèː	NOUN	_	_	_	_	_	AlignBegin=39250|AlignEnd=39500|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=2|RX=[NOUN]
-3	neː	neː	IdPART	_	_	_	_	_	AlignBegin=39500|AlignEnd=39750|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=3|RX=[IDPART]
-4	.	.	PUNCT	_	_	_	_	_	AlignBegin=39750|AlignEnd=40000|Gloss=.|nWord=4|RX=[PUNCT]
+1	gwaddàː	gwaddàː	NOUN	_	_	3	subj	_	AlignBegin=39000|AlignEnd=39250|GE=[pawpaw].[Fem]|Gloss=pawpaw.Fem|nWord=1|RX=[NOUN]
+2	iccèː	iccèː	NOUN	_	_	3	comp:pred	_	AlignBegin=39250|AlignEnd=39500|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=2|RX=[NOUN]
+3	neː	neː	IdPART	_	_	0	root	_	AlignBegin=39500|AlignEnd=39750|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=3|RX=[IDPART]
+4	.	.	PUNCT	_	_	3	punct	_	AlignBegin=39750|AlignEnd=40000|Gloss=.|nWord=4|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_041-041
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_041-041_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 40000, 41000
-# text = anàː ɗiːbàːtai gà runhuː, shiː maː iccèː neː.
-# text_en = You get it from the cassia, which is a tree too.
-# text_orth = ’a nàa ɗiibàatai gà ᵲunhuu, šii maa ’iccèe nee.
-1	anàː	anàː	AUX	_	_	_	_	_	AlignBegin=40000|AlignEnd=40100|GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
+# text = anàː ɗiːbàːtai gà runhuː .
+# text_en = You get it from the cassia.
+# text_orth = ’a nàa ɗiibàatai gà ᵲunhuu.
+1	anàː	anàː	AUX	_	_	0	root	_	AlignBegin=40000|AlignEnd=40100|GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2-3	ɗiːbàːtai	_	_	_	_	_	_	_	_
-2	ɗiːbàː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=40100|AlignEnd=40133|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=2|RX=[VERB]
-3	-tai	-ai	PRON	_	_	_	_	_	AlignBegin=40166|AlignEnd=40200|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=2|RX=[PRON]|wordform=-ai
-4	gà	gà	ADP	_	_	_	_	_	AlignBegin=40200|AlignEnd=40300|GE=at|Gloss=at|nWord=3|RX=[ADP]
-5	runhuː	runhuː	NOUN	_	_	_	_	_	AlignBegin=40300|AlignEnd=40400|GE=[tree_sp_(Cassia)].[Masc]|Gloss=tree_sp_(Cassia).Masc|nWord=4|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	AlignBegin=40400|AlignEnd=40500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=40500|AlignEnd=40600|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-8	maː	maː	TopPART	_	_	_	_	_	AlignBegin=40600|AlignEnd=40700|GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
-9	iccèː	iccèː	NOUN	_	_	_	_	_	AlignBegin=40700|AlignEnd=40800|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=8|RX=[NOUN]
-10	neː	neː	IdPART	_	_	_	_	_	AlignBegin=40800|AlignEnd=40900|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=9|RX=[IDPART]
-11	.	.	PUNCT	_	_	_	_	_	AlignBegin=40900|AlignEnd=41000|Gloss=.|nWord=10|RX=[PUNCT]
+2	ɗiːbàː	ɗiːbàː	VERB	_	_	1	comp:aux	_	AlignBegin=40100|AlignEnd=40133|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=2|RX=[VERB]
+3	-tai	-ai	PRON	_	_	2	comp:obj	_	AlignBegin=40166|AlignEnd=40200|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=2|RX=[PRON]|wordform=-ai
+4	gà	gà	ADP	_	_	2	comp:obl	_	AlignBegin=40200|AlignEnd=40300|GE=at|Gloss=at|nWord=3|RX=[ADP]
+5	runhuː	runhuː	NOUN	_	_	4	comp:obj	_	AlignBegin=40300|AlignEnd=40400|GE=[tree_sp_(Cassia)].[Masc]|Gloss=tree_sp_(Cassia).Masc|nWord=4|RX=[NOUN]
+6	.	.	PUNCT	_	_	1	punct	_	AlignBegin=40400|AlignEnd=40500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_04_Tauri_042-042
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_041-041_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
+# sent_timecode = 40000, 41000
+# text = shiː maː iccèː neː .
+# text_en = It is a tree too.
+# text_orth = šii maa ’iccèe nee.
+1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	AlignBegin=40500|AlignEnd=40600|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+2	maː	maː	TopPART	_	_	1	discourse@top	_	AlignBegin=40600|AlignEnd=40700|GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
+3	iccèː	iccèː	NOUN	_	_	4	comp:pred	_	AlignBegin=40700|AlignEnd=40800|GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=8|RX=[NOUN]
+4	neː	neː	IdPART	_	_	0	root	_	AlignBegin=40800|AlignEnd=40900|GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=9|RX=[IDPART]
+5	.	.	PUNCT	_	_	4	punct	_	AlignBegin=40900|AlignEnd=41000|Gloss=.|nWord=10|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_042-042_split1
+# text = in zâː a ɗiːbàːtai gà runhuː , sai mùtun shì yi sabkoː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
-# text = in zâː a ɗiːbàːtai gà runhuː , sai mùtun shì yi sabk-oː , ral lahàdi , shì tàhi dà ƙarhèː , koː wuƙaː , koː kwàːsheː , koː gàːtariː , koː làujeː , koː guntun kùjiggiː .
-# text_en = When getting it from a cassia tree, you go there on a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a small "kujiggi" (knife sp.).
-# text_orth = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo, ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=41000|AlignEnd=41027|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=41027|AlignEnd=41054|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	a	a	PRON	_	_	_	_	_	AlignBegin=41054|AlignEnd=41081|GE=[4]|Gloss=4|nWord=3|RX=[PRON]
+# text_en = When getting it from a cassia tree, you take an early start.
+# text_orth = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo.
+1	in	in	SCONJ	_	_	11	mod	_	AlignBegin=41000|AlignEnd=41027|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	zâː	zâː	AUX	_	_	1	comp:obj	_	AlignBegin=41027|AlignEnd=41054|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
+3	a	a	PRON	_	_	2	subj	_	AlignBegin=41054|AlignEnd=41081|GE=[4]|Gloss=4|nWord=3|RX=[PRON]
 4-5	ɗiːbàːtai	_	_	_	_	_	_	_	_
-4	ɗiːbàː	ɗiːbàː	VERB	_	_	_	_	_	AlignBegin=41081|AlignEnd=41090|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=4|RX=[VERB]
-5	-tai	-ai	PRON	_	_	_	_	_	AlignBegin=41099|AlignEnd=41108|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=4|RX=[PRON]|wordform=-ai
-6	gà	gà	ADP	_	_	_	_	_	AlignBegin=41108|AlignEnd=41135|GE=at|Gloss=at|nWord=5|RX=[ADP]
-7	runhuː	runhuː	NOUN	_	_	_	_	_	AlignBegin=41135|AlignEnd=41162|GE=[tree_sp_(Cassia)].[Masc]|Gloss=tree_sp_(Cassia).Masc|nWord=6|RX=[NOUN]
-8	,	,	PUNCT	_	_	_	_	_	AlignBegin=41162|AlignEnd=41189|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-9	sai	sai	ADV	_	_	_	_	_	AlignBegin=41189|AlignEnd=41216|GE=then|Gloss=then|nWord=8|RX=[ADV]
-10	mùtun	mùtun	NOUN	_	_	_	_	_	AlignBegin=41216|AlignEnd=41243|GE=[person].[Masc]|Gloss=person.Masc|nWord=9|RX=[NOUN]
-11	shì	shì	AUX	_	_	_	_	_	AlignBegin=41243|AlignEnd=41270|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
-12	yi	yi	VERB	_	_	_	_	_	AlignBegin=41270|AlignEnd=41297|GE=do|Gloss=do|nWord=11|RX=[VERB]
-13	sabk-oː	sàbka	VERB	_	_	_	_	_	AlignBegin=41297|AlignEnd=41311|GE=dismount|Gloss=dismount.Dir|nWord=12|RX=[VERB]|wordform=sabk-
-14	,	,	PUNCT	_	_	_	_	_	AlignBegin=41324|AlignEnd=41351|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	ral	raːna	NOUN	_	Definite=Cons	_	_	_	AlignBegin=41351|AlignEnd=41365|GE=on|Gloss=day.Fem.Cons|nWord=14|RX=[NOUN]
-16	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=41378|AlignEnd=41405|GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
-17	,	,	PUNCT	_	_	_	_	_	AlignBegin=41405|AlignEnd=41432|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-18	shì	shì	AUX	_	_	_	_	_	AlignBegin=41432|AlignEnd=41459|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
-19	tàhi	tàhi	VERB	_	_	_	_	_	AlignBegin=41459|AlignEnd=41486|GE=go|Gloss=go|nWord=18|RX=[VERB]
-20	dà	dà	ADP	_	_	_	_	_	AlignBegin=41486|AlignEnd=41513|GE=with|Gloss=with|nWord=19|RX=[ADP]
-21	ƙarhèː	ƙarhèː	NOUN	_	_	_	_	_	AlignBegin=41513|AlignEnd=41540|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=20|RX=[NOUN]
-22	,	,	PUNCT	_	_	_	_	_	AlignBegin=41540|AlignEnd=41567|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-23	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41567|AlignEnd=41594|GE=or|Gloss=or|nWord=22|RX=[CCONJ]
-24	wuƙaː	wuƙaː	NOUN	_	_	_	_	_	AlignBegin=41594|AlignEnd=41621|GE=[knife].[Fem]|Gloss=knife.Fem|nWord=23|RX=[NOUN]
-25	,	,	PUNCT	_	_	_	_	_	AlignBegin=41621|AlignEnd=41648|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-26	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41648|AlignEnd=41675|GE=or|Gloss=or|nWord=25|RX=[CCONJ]
-27	kwàːsheː	kwàːsheː	NOUN	_	_	_	_	_	AlignBegin=41675|AlignEnd=41702|GE=[reaper].[Masc]|Gloss=reaper.Masc|nWord=26|RX=[NOUN]
-28	,	,	PUNCT	_	_	_	_	_	AlignBegin=41702|AlignEnd=41729|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-29	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41729|AlignEnd=41756|GE=or|Gloss=or|nWord=28|RX=[CCONJ]
-30	gàːtariː	gàːtariː	NOUN	_	_	_	_	_	AlignBegin=41756|AlignEnd=41783|GE=[axe].[Masc]|Gloss=axe.Masc|nWord=29|RX=[NOUN]
-31	,	,	PUNCT	_	_	_	_	_	AlignBegin=41783|AlignEnd=41810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-32	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41810|AlignEnd=41837|GE=or|Gloss=or|nWord=31|RX=[CCONJ]
-33	làujeː	làujeː	NOUN	_	_	_	_	_	AlignBegin=41837|AlignEnd=41864|GE=[sickle].[Masc]|Gloss=sickle.Masc|nWord=32|RX=[NOUN]
-34	,	,	PUNCT	_	_	_	_	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-35	koː	koː	CCONJ	_	_	_	_	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
-36	guntun	guntuː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=41918|AlignEnd=41932|GE=[piece].[Masc]|Gloss=piece.Masc|nWord=35|RX=[NOUN]|wordform=guntu
-37	kùjiggiː	kùjiggiː	NOUN	_	_	36	mod	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
-38	.	.	PUNCT	_	_	_	_	_	AlignBegin=41972|AlignEnd=42000|Gloss=.|nWord=37|RX=[PUNCT]
+4	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	AlignBegin=41081|AlignEnd=41090|GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=4|RX=[VERB]
+5	-tai	-ai	PRON	_	_	4	comp:obj	_	AlignBegin=41099|AlignEnd=41108|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=4|RX=[PRON]|wordform=-ai
+6	gà	gà	ADP	_	_	4	comp:obl	_	AlignBegin=41108|AlignEnd=41135|GE=at|Gloss=at|nWord=5|RX=[ADP]
+7	runhuː	runhuː	NOUN	_	_	6	comp:obj	_	AlignBegin=41135|AlignEnd=41162|GE=[tree_sp_(Cassia)].[Masc]|Gloss=tree_sp_(Cassia).Masc|nWord=6|RX=[NOUN]
+8	,	,	PUNCT	_	_	1	punct	_	AlignBegin=41162|AlignEnd=41189|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+9	sai	sai	ADV	_	_	11	mod	_	AlignBegin=41189|AlignEnd=41216|GE=then|Gloss=then|nWord=8|RX=[ADV]
+10	mùtun	mùtun	NOUN	_	_	11	subj	_	AlignBegin=41216|AlignEnd=41243|GE=[person].[Masc]|Gloss=person.Masc|nWord=9|RX=[NOUN]
+11	shì	shì	AUX	_	_	0	root	_	AlignBegin=41243|AlignEnd=41270|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
+12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=41270|AlignEnd=41297|GE=do|Gloss=do|nWord=11|RX=[VERB]
+13	sabkoː	sabkoː	NOUN	_	_	12	comp:pred	_	AlignBegin=41297|AlignEnd=41311|GE=early_start|Gloss=early_start.Masc|nWord=12|RX=[NOUN]
+14	.	.	PUNCT	_	_	11	punct	_	AlignBegin=41324|AlignEnd=41351|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_04_Tauri_042-042_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
+# sent_timecode = 41000, 42000
+# text = raːnal lahàdi , shì tàhi dà ƙarhèː , koː wuƙaː , koː kwàːsheː , koː gàːtariː , koː làujeː , koː guntun kùjiggiː .
+# text_en = On a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a small "kujiggi" (knife sp.).
+# text_orth = ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
+1	raːnal	raːna	NOUN	_	Definite=Cons	4	mod	_	AlignBegin=41351|AlignEnd=41365|GE=on|Gloss=day.Fem.Cons|nWord=14|RX=[NOUN]
+2	lahàdi	lahàdi	NOUN	_	_	1	mod	_	AlignBegin=41378|AlignEnd=41405|GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=41405|AlignEnd=41432|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+4	shì	shì	AUX	_	_	0	root	_	AlignBegin=41432|AlignEnd=41459|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
+5	tàhi	tàhi	VERB	_	_	4	comp:aux	_	AlignBegin=41459|AlignEnd=41486|GE=go|Gloss=go|nWord=18|RX=[VERB]
+6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=41486|AlignEnd=41513|GE=with|Gloss=with|nWord=19|RX=[ADP]
+7	ƙarhèː	ƙarhèː	NOUN	_	_	6	comp:obj	_	AlignBegin=41513|AlignEnd=41540|GE=[iron].[Masc]|Gloss=iron.Masc|nWord=20|RX=[NOUN]
+8	,	,	PUNCT	_	_	10	punct	_	AlignBegin=41540|AlignEnd=41567|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+9	koː	koː	CCONJ	_	_	10	cc	_	AlignBegin=41567|AlignEnd=41594|GE=or|Gloss=or|nWord=22|RX=[CCONJ]
+10	wuƙaː	wuƙaː	NOUN	_	_	7	conj:coord	_	AlignBegin=41594|AlignEnd=41621|GE=[knife].[Fem]|Gloss=knife.Fem|nWord=23|RX=[NOUN]
+11	,	,	PUNCT	_	_	13	punct	_	AlignBegin=41621|AlignEnd=41648|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+12	koː	koː	CCONJ	_	_	13	cc	_	AlignBegin=41648|AlignEnd=41675|GE=or|Gloss=or|nWord=25|RX=[CCONJ]
+13	kwàːsheː	kwàːsheː	NOUN	_	_	10	conj:coord	_	AlignBegin=41675|AlignEnd=41702|GE=[reaper].[Masc]|Gloss=reaper.Masc|nWord=26|RX=[NOUN]
+14	,	,	PUNCT	_	_	16	punct	_	AlignBegin=41702|AlignEnd=41729|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
+15	koː	koː	CCONJ	_	_	16	cc	_	AlignBegin=41729|AlignEnd=41756|GE=or|Gloss=or|nWord=28|RX=[CCONJ]
+16	gàːtariː	gàːtariː	NOUN	_	_	13	conj:coord	_	AlignBegin=41756|AlignEnd=41783|GE=[axe].[Masc]|Gloss=axe.Masc|nWord=29|RX=[NOUN]
+17	,	,	PUNCT	_	_	19	punct	_	AlignBegin=41783|AlignEnd=41810|GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+18	koː	koː	CCONJ	_	_	19	cc	_	AlignBegin=41810|AlignEnd=41837|GE=or|Gloss=or|nWord=31|RX=[CCONJ]
+19	làujeː	làujeː	NOUN	_	_	16	conj:coord	_	AlignBegin=41837|AlignEnd=41864|GE=[sickle].[Masc]|Gloss=sickle.Masc|nWord=32|RX=[NOUN]
+20	,	,	PUNCT	_	_	23	punct	_	AlignBegin=41864|AlignEnd=41891|GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
+21	koː	koː	CCONJ	_	_	23	cc	_	AlignBegin=41891|AlignEnd=41918|GE=or|Gloss=or|nWord=34|RX=[CCONJ]
+22	guntun	guntuː	ADJ	_	Definite=Cons	23	mod	_	AlignBegin=41918|AlignEnd=41932|GE=[short].[Masc]|Gloss=short.Masc|nWord=35|RX=[NOUN]|wordform=guntu
+23	kùjiggiː	kùjiggiː	NOUN	_	_	19	conj:coord	_	AlignBegin=41945|AlignEnd=41972|GE=[knife_sp].[Masc]|Gloss=knife_sp.Masc|nWord=36|RX=[NOUN]
+24	.	.	PUNCT	_	_	4	punct	_	AlignBegin=41972|AlignEnd=42000|Gloss=.|nWord=37|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_043-043
 # speaker_id = *
