@@ -205,7 +205,7 @@
 # text = rân nan sai tay yi niyyàː, zâː ta tàhiyàː wurim bìkiː, can gidan dangìntà.
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_orth = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
-1	rân	raːnaː	NOUN	_	_	_	_	_	AlignBegin=7000|AlignEnd=7059|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
+1	rân	raːnaː	NOUN	_	Definite=Def	_	_	_	AlignBegin=7000|AlignEnd=7059|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
 2	nan	nan	DET	_	_	1	det	_	AlignBegin=7059|AlignEnd=7118|GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
 3	sai	sai	ADV	_	_	4	mod	_	AlignBegin=7118|AlignEnd=7177|GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	tay	tak	AUX	_	_	_	_	_	AlignBegin=7177|AlignEnd=7236|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
@@ -692,7 +692,7 @@
 # text_orth = šii kàu zanèn nan, ši nàa dà kabᵲii.
 1	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=23000|AlignEnd=23100|GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	_	_	_	AlignBegin=23100|AlignEnd=23200|GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3	zanèn	zanèː	NOUN	_	_	_	_	_	AlignBegin=23200|AlignEnd=23300|GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
+3	zanèn	zanèː	NOUN	_	Definite=Def	_	_	_	AlignBegin=23200|AlignEnd=23300|GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
 4	nan	nan	DET	_	_	3	det	_	AlignBegin=23300|AlignEnd=23400|GE=[Dist]|Gloss=Dist|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=23400|AlignEnd=23500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shi	shi	PRON	_	_	_	_	_	AlignBegin=23500|AlignEnd=23600|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
@@ -817,7 +817,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	AlignBegin=27250|AlignEnd=27300|GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	yaɗ	yak	AUX	_	_	_	_	_	AlignBegin=27300|AlignEnd=27350|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	AlignBegin=27350|AlignEnd=27375|GE=take|Gloss=take.Dir|nWord=8|RX=[VERB]|wordform=ɗauk
-9	zanèn	zanèː	NOUN	_	_	8	comp:obj	_	AlignBegin=27400|AlignEnd=27450|GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=9|RX=[NOUN]
+9	zanèn	zanèː	NOUN	_	Definite=Def	8	comp:obj	_	AlignBegin=27400|AlignEnd=27450|GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=9|RX=[NOUN]
 10	ga	ga	DET	_	_	9	det	_	AlignBegin=27450|AlignEnd=27500|GE=[Prox]|Gloss=Prox|nWord=10|RX=[DET]
 11	mài	mài	PART	_	_	_	_	_	AlignBegin=27500|AlignEnd=27550|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=11|RX=[PART]
 12	kabriː	kabriː	NOUN	_	_	_	_	_	AlignBegin=27550|AlignEnd=27600|GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=12|RX=[NOUN]
@@ -1363,7 +1363,7 @@
 # text_en = From that day, she never talked about riders again.
 # text_orth = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	_	_	_	AlignBegin=43000|AlignEnd=43083|GE=from|Gloss=from|nWord=1|RX=[ADP]
-2	rân	raːnaː	NOUN	_	_	1	comp:obj	_	AlignBegin=43083|AlignEnd=43166|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=2|RX=[NOUN]
+2	rân	raːnaː	NOUN	_	Definite=Def	1	comp:obj	_	AlignBegin=43083|AlignEnd=43166|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=2|RX=[NOUN]
 3	nan	nan	DET	_	_	2	det	_	AlignBegin=43166|AlignEnd=43249|GE=[Dist]|Gloss=Dist|nWord=3|RX=[DET]
 4	,	,	PUNCT	_	_	_	_	_	AlignBegin=43249|AlignEnd=43332|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bàtà	AUX	_	_	_	_	_	AlignBegin=43332|AlignEnd=43415|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=5|RX=[AUX]

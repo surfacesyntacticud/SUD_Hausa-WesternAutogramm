@@ -114,7 +114,7 @@
 # text = rân nan anàː nan zaman duːniyàː, kullun à kwaːna à taːshì, cikim màːsu sôm maːlàmîn nan, sai màːtaw wani tah haihù, sai tah hàihi ɗìyaː màccè.
 # text_en = Then, they were there, days went by, among those who liked the malam, somebody's wife gave birth, she gave birth to a girl.
 # text_orth = ᵲan nan ’a nàa nan zaman duuniyàa, kullun ’à kwaana ’à taašì, cikim màasu som̀ maalàmiǹ nan, sai màataw wani tah haihù, sai tah hàihi ɗìyaa màccè.
-1	rân	raːnaː	NOUN	_	_	_	_	_	AlignBegin=3000|AlignEnd=3032|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
+1	rân	raːnaː	NOUN	_	Definite=Def	_	_	_	AlignBegin=3000|AlignEnd=3032|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
 2	nan	nan	DET	_	_	1	det	_	AlignBegin=3032|AlignEnd=3064|GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
 3	anàː	anàː	AUX	_	_	_	_	_	AlignBegin=3064|AlignEnd=3096|GE=[4].[Imp]|Gloss=4.Imp|nWord=3|RX=[AUX]
 4	nan	nan	ADV	_	_	_	_	_	AlignBegin=3096|AlignEnd=3128|GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
@@ -157,7 +157,7 @@
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=4039|AlignEnd=4078|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	hàihi	haihù	VERB	_	_	2	comp:aux	_	AlignBegin=4078|AlignEnd=4117|GE=give_birth|Gloss=give_birth|nWord=3|RX=[VERB]
 4	ɗìyaː	ɗìyaː	NOUN	_	_	3	comp:obj	_	AlignBegin=4117|AlignEnd=4156|GE=[girl].[Fem]|Gloss=girl.Fem|nWord=4|RX=[NOUN]
-5	màccên	màcce	NOUN	_	_	_	_	_	AlignBegin=4156|AlignEnd=4195|GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=5|RX=[NOUN]
+5	màccên	màcce	NOUN	_	Definite=Def	_	_	_	AlignBegin=4156|AlignEnd=4195|GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=5|RX=[NOUN]
 6	nan	nan	DET	_	_	5	det	_	AlignBegin=4195|AlignEnd=4234|GE=[Dist]|Gloss=Dist|nWord=6|RX=[DET]
 7	,	,	PUNCT	_	_	_	_	_	AlignBegin=4234|AlignEnd=4273|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	koːdà	koːdà	SCONJ	_	_	_	_	_	AlignBegin=4273|AlignEnd=4312|GE=even_if|Gloss=even_if|nWord=8|RX=[SCONJ]
@@ -174,7 +174,7 @@
 19	,	,	PUNCT	_	_	_	_	_	AlignBegin=4702|AlignEnd=4741|GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 20	sai	sai	ADV	_	_	_	_	_	AlignBegin=4741|AlignEnd=4780|GE=then|Gloss=then|nWord=20|RX=[ADV]
 21	ùban	ùbaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=4780|AlignEnd=4800|GE=[father].[Masc]|Gloss=father.Masc|nWord=21|RX=[NOUN]|wordform=ùba
-22	ɗiyân	ɗiyaː	NOUN	_	_	21	mod	_	AlignBegin=4819|AlignEnd=4858|GE=[daughter/seed].[Plur].[Def]|Gloss=daughter/seed.Plur.Def|nWord=22|RX=[NOUN]
+22	ɗiyân	ɗiyaː	NOUN	_	Definite=Def	21	mod	_	AlignBegin=4819|AlignEnd=4858|GE=[daughter/seed].[Plur].[Def]|Gloss=daughter/seed.Plur.Def|nWord=22|RX=[NOUN]
 23	nan	nan	DET	_	_	22	det	_	AlignBegin=4858|AlignEnd=4897|GE=[Dist]|Gloss=Dist|nWord=23|RX=[DET]
 24	,	,	PUNCT	_	_	_	_	_	AlignBegin=4897|AlignEnd=4936|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	yat	yak	AUX	_	_	_	_	_	AlignBegin=4936|AlignEnd=4975|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
@@ -813,7 +813,7 @@
 5	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=24132|AlignEnd=24165|GE=thus|Gloss=thus|nWord=5|RX=[ADV]
 6	nan	nan	DET	_	_	5	det	_	AlignBegin=24165|AlignEnd=24198|GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
 7	,	,	PUNCT	_	_	_	_	_	AlignBegin=24198|AlignEnd=24231|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	rân	raːnaː	NOUN	_	_	_	_	_	AlignBegin=24231|AlignEnd=24264|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=8|RX=[NOUN]
+8	rân	raːnaː	NOUN	_	Definite=Def	_	_	_	AlignBegin=24231|AlignEnd=24264|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=8|RX=[NOUN]
 9	nan	nan	DET	_	_	8	det	_	AlignBegin=24264|AlignEnd=24297|GE=[Dist]|Gloss=Dist|nWord=9|RX=[DET]
 10	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=24297|AlignEnd=24330|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
 11	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=24330|AlignEnd=24363|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=11|RX=[PREDPART]
@@ -854,7 +854,7 @@
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=25135|AlignEnd=25162|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	_	_	_	AlignBegin=25162|AlignEnd=25189|GE=then|Gloss=then|nWord=7|RX=[ADV]
 8-9	màccênga	_	_	_	_	_	_	_	_
-8	màccên	màcce	NOUN	_	_	_	_	_	AlignBegin=25189|AlignEnd=25203|GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=8|RX=[NOUN]
+8	màccên	màcce	NOUN	_	Definite=Def	_	_	_	AlignBegin=25189|AlignEnd=25203|GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=8|RX=[NOUN]
 9	-ga	-ga	DET	_	_	8	det	_	AlignBegin=25203|AlignEnd=25216|GE=[Prox]|Gloss=Prox|nWord=8|RX=[DET]
 10	ta	ta	PART	_	_	_	_	_	AlignBegin=25216|AlignEnd=25243|GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=9|RX=[PART]
 11	maːlàmiː	maːlàmiː	NOUN	_	_	_	_	_	AlignBegin=25243|AlignEnd=25270|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
@@ -1029,7 +1029,7 @@
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=32114|AlignEnd=32152|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6	shinàː	shinàː	AUX	_	_	_	_	_	AlignBegin=32152|AlignEnd=32190|GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=5|RX=[AUX]
 7	sôn	sôː	VERB	_	Definite=Cons	6	comp:aux	_	AlignBegin=32190|AlignEnd=32209|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=sô
-8	yaːrinyàn	yaːrinyàː	NOUN	_	_	7	comp:obj	_	AlignBegin=32228|AlignEnd=32266|GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=7|RX=[NOUN]
+8	yaːrinyàn	yaːrinyàː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=32228|AlignEnd=32266|GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=7|RX=[NOUN]
 9	nan	nan	DET	_	_	8	det	_	AlignBegin=32266|AlignEnd=32304|GE=[Dist]|Gloss=Dist|nWord=8|RX=[DET]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=32304|AlignEnd=32342|GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 11	yar	yak	AUX	_	_	_	_	_	AlignBegin=32342|AlignEnd=32380|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
@@ -1099,7 +1099,7 @@
 8	shi	shi	PRON	_	_	7	subj	_	AlignBegin=34392|AlignEnd=34448|GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
 9	yîː	yîː	VERB	_	_	7	comp:aux	_	AlignBegin=34448|AlignEnd=34504|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=34504|AlignEnd=34560|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	rân	raːnaː	NOUN	_	_	_	_	_	AlignBegin=34560|AlignEnd=34616|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=11|RX=[NOUN]
+11	rân	raːnaː	NOUN	_	Definite=Def	_	_	_	AlignBegin=34560|AlignEnd=34616|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=11|RX=[NOUN]
 12	nan	nan	DET	_	_	11	det	_	AlignBegin=34616|AlignEnd=34672|GE=[Dist]|Gloss=Dist|nWord=12|RX=[DET]
 13	sai	sai	ADV	_	_	14	mod	_	AlignBegin=34672|AlignEnd=34728|GE=then|Gloss=then|nWord=13|RX=[ADV]
 14	yag	yak	AUX	_	_	_	_	_	AlignBegin=34728|AlignEnd=34784|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
@@ -1151,7 +1151,7 @@
 24	kin	kin	AUX	_	_	23	comp:obj	_	AlignBegin=37080|AlignEnd=37139|GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=23|RX=[AUX]
 25	san	sanìː	VERB	_	_	24	comp:aux	_	AlignBegin=37139|AlignEnd=37198|GE=know|Gloss=know|nWord=24|RX=[VERB]
 26	gidan	gidaː	NOUN	_	Definite=Cons	25	comp:obj	_	AlignBegin=37198|AlignEnd=37228|GE=[house].[Masc]|Gloss=house.Masc|nWord=25|RX=[NOUN]|wordform=gida
-27	lìːmân	lìːmân	NOUN	_	_	26	mod	_	AlignBegin=37257|AlignEnd=37316|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=26|RX=[NOUN]
+27	lìːmân	lìːmân	NOUN	_	Definite=Def	26	mod	_	AlignBegin=37257|AlignEnd=37316|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=26|RX=[NOUN]
 28	.	.	PUNCT	_	_	_	_	_	AlignBegin=37316|AlignEnd=37365|Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_036-036
@@ -1210,7 +1210,7 @@
 # text = lìːmân yaː san kì ?
 # text_en = Does the imam know you?
 # text_orth = lìimaǹ yaa san kì ?
-1	lìːmân	lìːmân	NOUN	_	_	_	_	_	AlignBegin=41298|AlignEnd=41618|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
+1	lìːmân	lìːmân	NOUN	_	Definite=Def	_	_	_	AlignBegin=41298|AlignEnd=41618|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
 2	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=41618|AlignEnd=41938|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	san	sanìː	VERB	_	_	2	comp:aux	_	AlignBegin=41938|AlignEnd=42258|GE=know|Gloss=know|nWord=3|RX=[VERB]
 4	kì	kì	PRON	_	_	3	comp:obj	_	AlignBegin=42258|AlignEnd=42578|GE=[2Fem]|Gloss=2Fem|nWord=4|RX=[PRON]
@@ -1296,7 +1296,7 @@
 1	tac	tak	AUX	_	_	_	_	_	AlignBegin=45739|AlignEnd=45756|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	AlignBegin=45756|AlignEnd=45773|GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	shiː	shiː	PRON	_	_	2	comp:obj	_	AlignBegin=45773|AlignEnd=45790|GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
-4	lìːmân	lìːmân	NOUN	_	_	_	_	_	AlignBegin=45790|AlignEnd=45807|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
+4	lìːmân	lìːmân	NOUN	_	Definite=Def	_	_	_	AlignBegin=45790|AlignEnd=45807|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
 5	kà	kà	AUX	_	_	_	_	_	AlignBegin=45807|AlignEnd=45824|GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=5|RX=[AUX]
 6-7	aikìntà	_	_	_	_	_	_	_	_
 6	aikìn	aikìː	VERB	_	Definite=Cons	5	comp:aux	_	AlignBegin=45824|AlignEnd=45830|GE=[send].[Nmlz].[Masc]|Gloss=send.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=aikì
@@ -1336,7 +1336,7 @@
 6	takà	takà	AUX	_	_	_	_	_	AlignBegin=46182|AlignEnd=46194|GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=6|RX=[AUX]
 7	shìgaː	shìga	VERB	_	_	6	comp:aux	_	AlignBegin=46194|AlignEnd=46206|GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=7|RX=[VERB]
 8	gidan	gidaː	NOUN	_	Definite=Cons	7	comp:obj	_	AlignBegin=46206|AlignEnd=46212|GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]|wordform=gida
-9	lì:mân	lì:maːmìː	NOUN	_	_	8	mod	_	AlignBegin=46218|AlignEnd=46230|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=9|RX=[NOUN]
+9	lì:mân	lì:maːmìː	NOUN	_	Definite=Def	8	mod	_	AlignBegin=46218|AlignEnd=46230|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=9|RX=[NOUN]
 10	##	##	PUNCT	_	_	_	_	_	AlignBegin=46230|AlignEnd=46242|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	yac	yak	AUX	_	_	_	_	_	AlignBegin=46242|AlignEnd=46254|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
 12	cêː	cêː	VERB	_	_	11	comp:aux	_	AlignBegin=46254|AlignEnd=46266|GE=say|Gloss=say|nWord=12|RX=[VERB]
@@ -1355,7 +1355,7 @@
 25	ki	ki	PRON	_	_	24	subj	_	AlignBegin=46410|AlignEnd=46422|GE=[2Fem]|Gloss=2Fem|nWord=25|RX=[PRON]
 26	tàhiyàː	tàhi	VERB	_	_	24	comp:aux	_	AlignBegin=46422|AlignEnd=46434|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=26|RX=[VERB]
 27	gidan	gidaː	NOUN	_	Definite=Cons	26	comp:obj	_	AlignBegin=46434|AlignEnd=46440|GE=[house].[Masc]|Gloss=house.Masc|nWord=27|RX=[NOUN]|wordform=gida
-28	lì:mân	lì:maːmìː	NOUN	_	_	27	mod	_	AlignBegin=46446|AlignEnd=46458|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=28|RX=[NOUN]
+28	lì:mân	lì:maːmìː	NOUN	_	Definite=Def	27	mod	_	AlignBegin=46446|AlignEnd=46458|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=28|RX=[NOUN]
 29	,	,	PUNCT	_	_	_	_	_	AlignBegin=46458|AlignEnd=46470|GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 30	kì	kì	AUX	_	_	_	_	_	AlignBegin=46470|AlignEnd=46482|GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=30|RX=[AUX]
 31	riƙàː	riƙàː	VERB	_	_	30	comp:aux	_	AlignBegin=46482|AlignEnd=46494|GE=seize/keep_on|Gloss=seize/keep_on|nWord=31|RX=[VERB]
@@ -1368,7 +1368,7 @@
 37	,	,	PUNCT	_	_	_	_	_	AlignBegin=46542|AlignEnd=46554|GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 38	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=46554|AlignEnd=46560|GE=[place].[Masc]|Gloss=place.Masc|nWord=37|RX=[NOUN]|wordform=wuri
 39	màːtal	màːtaː	NOUN	_	Definite=Cons	38	mod	_	AlignBegin=46566|AlignEnd=46572|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=38|RX=[NOUN]|wordform=màːta
-40	lì:mân	lì:maːmìː	NOUN	_	_	39	mod	_	AlignBegin=46578|AlignEnd=46590|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=39|RX=[NOUN]
+40	lì:mân	lì:maːmìː	NOUN	_	Definite=Def	39	mod	_	AlignBegin=46578|AlignEnd=46590|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=39|RX=[NOUN]
 41	,	,	PUNCT	_	_	_	_	_	AlignBegin=46590|AlignEnd=46602|GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
 42	kì	kì	AUX	_	_	_	_	_	AlignBegin=46602|AlignEnd=46614|GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=41|RX=[AUX]
 43	riƙàː	riƙàː	VERB	_	_	42	comp:aux	_	AlignBegin=46614|AlignEnd=46626|GE=seize/keep_on|Gloss=seize/keep_on|nWord=42|RX=[VERB]
@@ -1828,7 +1828,7 @@
 3	ɗan	ɗaː	NOUN	_	Definite=Cons	2	comp:obj	_	AlignBegin=61400|AlignEnd=61500|GE=[son].[Masc]|Gloss=son.Masc|nWord=3|RX=[NOUN]|wordform=ɗa
 4	sarkin	sarkiː	NOUN	_	Definite=Cons	3	mod	_	AlignBegin=61600|AlignEnd=61700|GE=[chief].[Masc]|Gloss=chief.Masc|nWord=4|RX=[NOUN]|wordform=sarki
 5-6	gàrînga	_	_	_	_	_	_	_	_
-5	gàrîn	gàriː	NOUN	_	_	4	mod	_	AlignBegin=61800|AlignEnd=61900|GE=[town].[Masc].[Def]|Gloss=town.Masc.Def|nWord=5|RX=[NOUN]
+5	gàrîn	gàriː	NOUN	_	Definite=Def	4	mod	_	AlignBegin=61800|AlignEnd=61900|GE=[town].[Masc].[Def]|Gloss=town.Masc.Def|nWord=5|RX=[NOUN]
 6	-ga	-ga	DET	_	_	5	det	_	AlignBegin=61900|AlignEnd=62000|GE=[Prox]|Gloss=Prox|nWord=5|RX=[DET]
 
 # sent_id = BC_HAU_Gouffé_2_061-061
@@ -4267,7 +4267,7 @@
 # text = rân nan sai màːtas sarkiː, tac cêː à sakoː sarkiː, ta nàː dà màganàː dà shiː.
 # text_en = Then the chief's wife said they should release the chief, she had something to tell him.
 # text_orth = ᵲaǹ nan sai màatas saᵲkii, tac ceè ’à sakoo saᵲkii, ta nàa dà màganàa dà šii.
-1	raːnaː	raːnaː	NOUN	_	_	_	_	_	AlignBegin=147000|AlignEnd=147053|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
+1	raːnaː	raːnaː	NOUN	_	Definite=Def	_	_	_	AlignBegin=147000|AlignEnd=147053|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
 2	nan	nan	DET	_	_	1	det	_	AlignBegin=147053|AlignEnd=147106|GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
 3	sai	sai	ADV	_	_	_	_	_	AlignBegin=147106|AlignEnd=147159|GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	màːtas	màːtaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=147159|AlignEnd=147185|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=4|RX=[NOUN]|wordform=màːta
@@ -4382,7 +4382,7 @@
 21	lâihiː	lâihiː	NOUN	_	_	20	comp:obj	_	AlignBegin=151640|AlignEnd=151672|GE=[fault].[Masc]|Gloss=fault.Masc|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	_	_	_	AlignBegin=151672|AlignEnd=151704|GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=151704|AlignEnd=151736|GE=in(side)|Gloss=in(side)|nWord=23|RX=[ADP]
-24	màganàn	màganàː	NOUN	_	_	23	comp:obj	_	AlignBegin=151736|AlignEnd=151768|GE=[talk].[Fem].[Def]|Gloss=talk.Fem.Def|nWord=24|RX=[NOUN]
+24	màganàn	màganàː	NOUN	_	Definite=Def	23	comp:obj	_	AlignBegin=151736|AlignEnd=151768|GE=[talk].[Fem].[Def]|Gloss=talk.Fem.Def|nWord=24|RX=[NOUN]
 25	nan	nan	DET	_	_	24	det	_	AlignBegin=151768|AlignEnd=151800|GE=[Dist]|Gloss=Dist|nWord=25|RX=[DET]
 26	,	,	PUNCT	_	_	_	_	_	AlignBegin=151800|AlignEnd=151832|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27-28	kissàmmù	_	_	_	_	_	_	_	_
