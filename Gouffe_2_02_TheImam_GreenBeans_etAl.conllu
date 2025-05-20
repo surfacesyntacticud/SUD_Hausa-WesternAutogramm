@@ -63,7 +63,7 @@
 19	yar	yak	AUX	_	_	_	_	_	AlignBegin=1765|AlignEnd=1810|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
 20	ràbu	ràbu	VERB	_	_	19	comp:aux	_	AlignBegin=1810|AlignEnd=1855|GE=separate|Gloss=separate|nWord=19|RX=[VERB]
 21	dà	dà	ADP	_	_	20	comp:obl	_	AlignBegin=1855|AlignEnd=1900|GE=with|Gloss=with|nWord=20|RX=[ADP]
-22	suː	suː	PRON	_	_	_	_	_	AlignBegin=1900|AlignEnd=1945|GE=[3Plur]|Gloss=3Plur|nWord=21|RX=[PRON]
+22	suː	suː	PRON	_	_	21	comp:obj	_	AlignBegin=1900|AlignEnd=1945|GE=[3Plur]|Gloss=3Plur|nWord=21|RX=[PRON]
 23	.	.	PUNCT	_	_	_	_	_	AlignBegin=1945|AlignEnd=2000|Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_003-003
@@ -338,7 +338,7 @@
 20	tà	tà	AUX	_	_	_	_	_	AlignBegin=9774|AlignEnd=9817|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=19|RX=[AUX]
 21	girma	girma	VERB	_	_	20	comp:aux	_	AlignBegin=9817|AlignEnd=9860|GE=grow|Gloss=grow|nWord=20|RX=[VERB]
 22	gà	gà	ADP	_	_	21	comp:obl	_	AlignBegin=9860|AlignEnd=9903|GE=at|Gloss=at|nWord=21|RX=[ADP]
-23	shi	shi	PRON	_	_	_	_	_	AlignBegin=9903|AlignEnd=9946|GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
+23	shi	shi	PRON	_	_	22	comp:obj	_	AlignBegin=9903|AlignEnd=9946|GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
 24	.	.	PUNCT	_	_	_	_	_	AlignBegin=9946|AlignEnd=10000|Gloss=.|nWord=23|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_010-010
@@ -2200,7 +2200,7 @@
 28	tà	tà	AUX	_	_	_	_	_	AlignBegin=75648|AlignEnd=75672|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=28|RX=[AUX]
 29	tàhi	tàhi	VERB	_	_	28	comp:aux	_	AlignBegin=75672|AlignEnd=75696|GE=go|Gloss=go|nWord=29|RX=[VERB]
 30	dà	dà	ADP	_	_	29	comp:obl	_	AlignBegin=75696|AlignEnd=75720|GE=with|Gloss=with|nWord=30|RX=[ADP]
-31	suː	suː	PRON	_	_	_	_	_	AlignBegin=75720|AlignEnd=75744|GE=[3Plur]|Gloss=3Plur|nWord=31|RX=[PRON]
+31	suː	suː	PRON	_	_	30	comp:obj	_	AlignBegin=75720|AlignEnd=75744|GE=[3Plur]|Gloss=3Plur|nWord=31|RX=[PRON]
 32	,	,	PUNCT	_	_	_	_	_	AlignBegin=75744|AlignEnd=75768|GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 33	can	can	ADV	_	_	_	_	_	AlignBegin=75768|AlignEnd=75792|GE=[Dist]|Gloss=Dist|nWord=33|RX=[ADV]
 34	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=75792|AlignEnd=75804|GE=[place].[Masc]|Gloss=place.Masc|nWord=34|RX=[NOUN]|wordform=wuri
@@ -3535,7 +3535,7 @@
 13	kissàm	kissà	NOUN	_	Definite=Cons	_	_	_	AlignBegin=121600|AlignEnd=121625|GE=[deception].[Fem]|Gloss=deception.Fem|nWord=13|RX=[NOUN]|wordform=kissà
 14	miː	miː	PRON	_	_	_	_	_	AlignBegin=121650|AlignEnd=121700|GE=[what].[Int]|Gloss=what.Int|nWord=14|RX=[PRON]
 15	gà	gà	ADP	_	_	_	_	_	AlignBegin=121700|AlignEnd=121750|GE=at|Gloss=at|nWord=15|RX=[ADP]
-16	kù	kù	PRON	_	_	_	_	_	AlignBegin=121750|AlignEnd=121800|GE=[2Plur]|Gloss=2Plur|nWord=16|RX=[PRON]
+16	kù	kù	PRON	_	_	15	comp:obj	_	AlignBegin=121750|AlignEnd=121800|GE=[2Plur]|Gloss=2Plur|nWord=16|RX=[PRON]
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=121800|AlignEnd=121850|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	kuː	kuː	PRON	_	_	_	_	_	AlignBegin=121850|AlignEnd=121900|GE=[2Plur]|Gloss=2Plur|nWord=18|RX=[PRON]
 19	maːtaː	maːtaː	NOUN	_	_	_	_	_	AlignBegin=121900|AlignEnd=121950|GE=[woman].[Plur]|Gloss=woman.Plur|nWord=19|RX=[NOUN]
@@ -4284,7 +4284,7 @@
 15	dà	dà	ADP	_	_	_	_	_	AlignBegin=147742|AlignEnd=147795|GE=with|Gloss=with|nWord=15|RX=[ADP]
 16	màganàː	màganàː	NOUN	_	_	15	comp:obj	_	AlignBegin=147795|AlignEnd=147848|GE=[talk].[Fem]|Gloss=talk.Fem|nWord=16|RX=[NOUN]
 17	dà	dà	ADP	_	_	_	_	_	AlignBegin=147848|AlignEnd=147901|GE=with|Gloss=with|nWord=17|RX=[ADP]
-18	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=147901|AlignEnd=147954|GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
+18	shiː	shiː	PRON	_	_	17	comp:obj	_	AlignBegin=147901|AlignEnd=147954|GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
 19	.	.	PUNCT	_	_	_	_	_	AlignBegin=147954|AlignEnd=148000|Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_143-143
