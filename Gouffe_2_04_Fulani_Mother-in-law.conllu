@@ -6,15 +6,15 @@
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_orth = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
 1	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=0|AlignEnd=50|GE=[Fut]|Gloss=Fut|nWord=1|RX=[AUX]
-2	mu	mu	PRON	_	_	_	_	_	AlignBegin=50|AlignEnd=100|GE=[1Plur]|Gloss=1Plur|nWord=2|RX=[PRON]
-3	baː	baː	VERB	_	_	_	_	_	AlignBegin=100|AlignEnd=150|GE=give|Gloss=give|nWord=3|RX=[VERB]
+2	mu	mu	PRON	_	_	1	subj	_	AlignBegin=50|AlignEnd=100|GE=[1Plur]|Gloss=1Plur|nWord=2|RX=[PRON]
+3	baː	baː	VERB	_	_	1	comp:aux	_	AlignBegin=100|AlignEnd=150|GE=give|Gloss=give|nWord=3|RX=[VERB]
 4	kù	kù	PRON	_	_	3	comp:obj	_	AlignBegin=150|AlignEnd=200|GE=[2Plur]|Gloss=2Plur|nWord=4|RX=[PRON]
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	_	_	_	AlignBegin=200|AlignEnd=250|GE=[story].[Masc]|Gloss=story.Masc|nWord=5|RX=[NOUN]
 6	na	na	PART	_	_	_	_	_	AlignBegin=250|AlignEnd=300|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
 7	wani	wani	DET	_	_	_	_	_	AlignBegin=300|AlignEnd=350|GE=[some].[Masc]|Gloss=some.Masc|nWord=7|RX=[DET]
 8	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	_	_	_	AlignBegin=350|AlignEnd=400|GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=8|RX=[PROPN]
 9	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=400|AlignEnd=450|GE=that|Gloss=that|nWord=9|RX=[SCONJ]
-10	yay	yak	AUX	_	_	_	_	_	AlignBegin=450|AlignEnd=500|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
+10	yay	yak	AUX	_	_	9	comp:obj	_	AlignBegin=450|AlignEnd=500|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	AlignBegin=500|AlignEnd=550|GE=do|Gloss=do|nWord=11|RX=[VERB]
 12	làːlaːtàː	làːlaːtàː	NOUN	_	_	11	comp:pred	_	AlignBegin=550|AlignEnd=600|GE=[immorality].[Fem]|Gloss=immorality.Fem|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	_	_	_	AlignBegin=600|AlignEnd=650|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -97,8 +97,8 @@
 13	wàdà	wàdà	ADV	_	_	_	_	_	AlignBegin=3616|AlignEnd=3672|GE=how|Gloss=how|nWord=12|RX=[ADV]
 14	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=3672|AlignEnd=3728|GE=[Fut]|Gloss=Fut|nWord=13|RX=[AUX]
 15-16	kâi	_	_	_	_	_	_	_	_
-15	ka	ka	PRON	_	_	_	_	_	AlignBegin=3728|AlignEnd=3756|GE=[2Masc]|Gloss=2Masc|nWord=14|RX=[PRON]
-16	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=3756|AlignEnd=3784|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
+15	ka	ka	PRON	_	_	14	subj	_	AlignBegin=3728|AlignEnd=3756|GE=[2Masc]|Gloss=2Masc|nWord=14|RX=[PRON]
+16	yîː	yîː	VERB	_	_	14	comp:aux	_	AlignBegin=3756|AlignEnd=3784|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
 17	kà	kà	AUX	_	_	_	_	_	AlignBegin=3784|AlignEnd=3840|GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=15|RX=[AUX]
 18	ci	ci	VERB	_	_	17	comp:aux	_	AlignBegin=3840|AlignEnd=3896|GE=have_sex_with|Gloss=have_sex_with|nWord=16|RX=[VERB]
 19-20	sàràkkuwakkà	_	_	_	_	_	_	_	_
@@ -130,7 +130,7 @@
 15	tac	tak	AUX	_	_	_	_	_	AlignBegin=4364|AlignEnd=4390|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=15|RX=[AUX]
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	AlignBegin=4390|AlignEnd=4416|GE=say|Gloss=say|nWord=16|RX=[VERB]
 17	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=4416|AlignEnd=4442|GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
-18	ta	ta	PRON	_	_	_	_	_	AlignBegin=4442|AlignEnd=4468|GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
+18	ta	ta	PRON	_	_	17	subj	_	AlignBegin=4442|AlignEnd=4468|GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
 19	ùnguwaː	ùnguwaː	NOUN	_	_	_	_	_	AlignBegin=4468|AlignEnd=4494|GE=[village].[Fem]|Gloss=village.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	_	_	_	AlignBegin=4494|AlignEnd=4520|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	tà	tà	AUX	_	_	_	_	_	AlignBegin=4520|AlignEnd=4546|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=21|RX=[AUX]
@@ -198,9 +198,9 @@
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
 # text_orth = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=6000|AlignEnd=6026|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=6026|AlignEnd=6052|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	su	su	PRON	_	_	_	_	_	AlignBegin=6052|AlignEnd=6078|GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
-4	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=6078|AlignEnd=6104|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
+2	zâː	zâː	AUX	_	_	1	comp:obj	_	AlignBegin=6026|AlignEnd=6052|GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
+3	su	su	PRON	_	_	2	subj	_	AlignBegin=6052|AlignEnd=6078|GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
+4	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	AlignBegin=6078|AlignEnd=6104|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=6104|AlignEnd=6130|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=6130|AlignEnd=6156|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
 7	ganiː	ganiː	VERB	_	_	_	_	_	AlignBegin=6182|AlignEnd=6208|GE=see|Gloss=see|nWord=8|RX=[VERB]
@@ -290,7 +290,7 @@
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
 # text_orth = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=8000|AlignEnd=8048|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=8048|AlignEnd=8096|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=8048|AlignEnd=8096|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=8096|AlignEnd=8144|GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=8144|AlignEnd=8192|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	AlignBegin=8192|AlignEnd=8240|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -337,7 +337,7 @@
 # text_orth = sai dà sunkà zoo gà daajìi, s’akad daajìi, baabù hanyàa, šii bàhillaacèe, sai yay yi s’àye, yac cèe mà sàᵲàkkuwaatai, kaìnai yaa ɓacèe, bài san ’indà ši kè ba, ɗiimuwaa taa kaamàa ši, yaa yi ɓatàn kaì.
 1	sai	sai	ADV	_	_	_	_	_	AlignBegin=10000|AlignEnd=10021|GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=10021|AlignEnd=10042|GE=when|Gloss=when|nWord=2|RX=[SCONJ]
-3	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=10042|AlignEnd=10063|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
+3	sunkà	sunkà	AUX	_	_	2	comp:obj	_	AlignBegin=10042|AlignEnd=10063|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	AlignBegin=10063|AlignEnd=10084|GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	gà	gà	ADP	_	_	4	comp:obl	_	AlignBegin=10084|AlignEnd=10105|GE=at|Gloss=at|nWord=5|RX=[ADP]
 6	daːjìː	daːjìː	NOUN	_	_	5	comp:obj	_	AlignBegin=10105|AlignEnd=10126|GE=[bush].[Masc]|Gloss=bush.Masc|nWord=6|RX=[NOUN]
@@ -419,11 +419,11 @@
 6	tôː	tôː	INTJ	_	_	_	_	_	AlignBegin=12310|AlignEnd=12372|GE=well|Gloss=well|nWord=6|RX=[INTJ]
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	_	_	_	AlignBegin=12372|AlignEnd=12434|GE=how|Gloss=how|nWord=7|RX=[ADV]
 8	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=12434|AlignEnd=12496|GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
-9	mu	mu	PRON	_	_	_	_	_	AlignBegin=12496|AlignEnd=12558|GE=[1Plur]|Gloss=1Plur|nWord=9|RX=[PRON]
-10	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=12558|AlignEnd=12620|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=10|RX=[VERB]
+9	mu	mu	PRON	_	_	8	subj	_	AlignBegin=12496|AlignEnd=12558|GE=[1Plur]|Gloss=1Plur|nWord=9|RX=[PRON]
+10	yîː	yîː	VERB	_	_	8	comp:aux	_	AlignBegin=12558|AlignEnd=12620|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=10|RX=[VERB]
 11	tun	tun	SCONJ	_	_	_	_	_	AlignBegin=12620|AlignEnd=12682|GE=since/before|Gloss=since/before|nWord=11|RX=[SCONJ]
 12	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=12682|AlignEnd=12744|GE=when|Gloss=when|nWord=12|RX=[SCONJ]
-13	naː	naː	AUX	_	_	_	_	_	AlignBegin=12744|AlignEnd=12806|GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=13|RX=[AUX]
+13	naː	naː	AUX	_	_	12	comp:obj	_	AlignBegin=12744|AlignEnd=12806|GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=13|RX=[AUX]
 14	yi	yi	VERB	_	_	13	comp:aux	_	AlignBegin=12806|AlignEnd=12868|GE=do|Gloss=do|nWord=14|RX=[VERB]
 15	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	_	14	comp:pred	_	AlignBegin=12868|AlignEnd=12930|GE=[confusion].[Fem]|Gloss=confusion.Fem|nWord=15|RX=[NOUN]
 16	?	?	PUNCT	_	_	_	_	_	AlignBegin=12930|AlignEnd=13000|GE=[?]|Gloss=?|nWord=16|RX=[PUNCT]
@@ -570,7 +570,7 @@
 # text_en = When he called the bush, his friend answered.
 # text_orth = dà yaa yi kiᵲàn dawàa, sai ’àbookiinai šì ’amsàa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=19000|AlignEnd=19091|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yaː	yaː	AUX	_	_	_	_	_	AlignBegin=19091|AlignEnd=19182|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
+2	yaː	yaː	AUX	_	_	1	comp:obj	_	AlignBegin=19091|AlignEnd=19182|GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=19182|AlignEnd=19273|GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	kiràn	kiràː	VERB	_	Definite=Cons	_	_	_	AlignBegin=19273|AlignEnd=19319|GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=kirà
 5	dawàː	dawàː	NOUN	_	_	4	comp:obj	_	AlignBegin=19364|AlignEnd=19455|GE=[bush].[Masc]|Gloss=bush.Masc|nWord=5|RX=[NOUN]
@@ -654,7 +654,7 @@
 # text_en = After they did like this, the Fulani, he told his mother-in-law : Well, you hear what the bush has said.
 # text_orth = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=24000|AlignEnd=24083|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=24083|AlignEnd=24166|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=24083|AlignEnd=24166|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=24166|AlignEnd=24249|GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	hakà	hakà	ADV	_	_	_	_	_	AlignBegin=24249|AlignEnd=24332|GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	AlignBegin=24332|AlignEnd=24415|GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -723,8 +723,8 @@
 3	:	:	PUNCT	_	_	_	_	_	AlignBegin=28112|AlignEnd=28168|GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	_	_	_	AlignBegin=28168|AlignEnd=28224|GE=how|Gloss=how|nWord=4|RX=[ADV]
 5	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=28224|AlignEnd=28280|GE=[Fut]|Gloss=Fut|nWord=5|RX=[AUX]
-6	ni	ni	PRON	_	_	_	_	_	AlignBegin=28280|AlignEnd=28336|GE=[1Sing]|Gloss=1Sing|nWord=6|RX=[PRON]
-7	cêːwaː	cêː	VERB	_	_	_	_	_	AlignBegin=28336|AlignEnd=28364|GE=say|Gloss=say.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=cêː
+6	ni	ni	PRON	_	_	5	subj	_	AlignBegin=28280|AlignEnd=28336|GE=[1Sing]|Gloss=1Sing|nWord=6|RX=[PRON]
+7	cêːwaː	cêː	VERB	_	_	5	comp:aux	_	AlignBegin=28336|AlignEnd=28364|GE=say|Gloss=say.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=cêː
 8	?	?	PUNCT	_	_	_	_	_	AlignBegin=28392|AlignEnd=28448|GE=[?]|Gloss=?|nWord=8|RX=[PUNCT]
 9	ai	ai	INTJ	_	_	_	_	_	AlignBegin=28448|AlignEnd=28504|GE=eh|Gloss=eh|nWord=9|RX=[INTJ]
 10	sai	sai	ADV	_	_	11	mod	_	AlignBegin=28504|AlignEnd=28560|GE=then|Gloss=then|nWord=10|RX=[ADV]
@@ -732,7 +732,7 @@
 12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=28616|AlignEnd=28672|GE=do|Gloss=do|nWord=12|RX=[VERB]
 13	àbun	àbu	NOUN	_	Definite=Cons	12	comp:pred	_	AlignBegin=28672|AlignEnd=28700|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=13|RX=[NOUN]|wordform=àbu
 14	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=28728|AlignEnd=28784|GE=that|Gloss=that|nWord=14|RX=[SCONJ]
-15	kay	kak	AUX	_	_	_	_	_	AlignBegin=28784|AlignEnd=28840|GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=15|RX=[AUX]
+15	kay	kak	AUX	_	_	14	comp:obj	_	AlignBegin=28784|AlignEnd=28840|GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=15|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	AlignBegin=28840|AlignEnd=28896|GE=do|Gloss=do|nWord=16|RX=[VERB]
 17	niyyàː	niyyàː	NOUN	_	_	16	comp:pred	_	AlignBegin=28896|AlignEnd=28952|GE=[effort].[Fem]|Gloss=effort.Fem|nWord=17|RX=[NOUN]
 18	.	.	PUNCT	_	_	_	_	_	AlignBegin=28952|AlignEnd=29000|Gloss=.|nWord=18|RX=[PUNCT]
@@ -781,7 +781,7 @@
 20	ta	ta	ADP	_	_	19	comp:obl	_	AlignBegin=30720|AlignEnd=30760|GE=via|Gloss=via|nWord=19|RX=[ADP]
 21	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=30760|AlignEnd=30800|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=20|RX=[VERB]
 22	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=30800|AlignEnd=30840|GE=when|Gloss=when|nWord=21|RX=[SCONJ]
-23	yac	yak	AUX	_	_	_	_	_	AlignBegin=30840|AlignEnd=30880|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
+23	yac	yak	AUX	_	_	22	comp:obj	_	AlignBegin=30840|AlignEnd=30880|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
 24	ciː	ci	VERB	_	_	23	comp:aux	_	AlignBegin=30880|AlignEnd=30920|GE=have_sex_with|Gloss=have_sex_with|nWord=23|RX=[VERB]
 25	tà	ta	PRON	_	_	24	comp:obj	_	AlignBegin=30920|AlignEnd=30960|GE=[3Fem]|Gloss=3Fem|nWord=24|RX=[PRON]
 26	.	.	PUNCT	_	_	_	_	_	AlignBegin=30960|AlignEnd=31000|Gloss=.|nWord=25|RX=[PUNCT]

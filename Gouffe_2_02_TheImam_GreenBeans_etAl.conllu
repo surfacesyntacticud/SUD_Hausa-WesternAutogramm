@@ -43,7 +43,7 @@
 # text_orth = dà su nàa mai kissà, sai yac ceè šii dai yaa gàji dà kissàm maataa, sai yaᵲ ᵲàbu dà suu.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=1000|AlignEnd=1045|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2-3	sunàː	_	_	_	_	_	_	_	_
-2	sunàː	sunàː	AUX	_	_	_	_	_	AlignBegin=1045|AlignEnd=1090|GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=2|RX=[AUX]
+2	sunàː	sunàː	AUX	_	_	1	comp:obj	_	AlignBegin=1045|AlignEnd=1090|GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	mai	mai	PRON	_	_	3	comp:obl	_	AlignBegin=1090|AlignEnd=1135|GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=3|RX=[PRON]
 5	kissà	kissà	NOUN	_	_	3	comp:pred	_	AlignBegin=1135|AlignEnd=1180|GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=4|RX=[NOUN]
@@ -83,7 +83,7 @@
 8	na	na	PART	_	_	_	_	_	AlignBegin=2238|AlignEnd=2272|GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
 9	màccen	màcce	NOUN	_	Definite=Cons	_	_	_	AlignBegin=2272|AlignEnd=2289|GE=[woman].[Fem]|Gloss=woman.Fem|nWord=9|RX=[NOUN]|wordform=màcce
 10	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=2306|AlignEnd=2340|GE=that|Gloss=that|nWord=10|RX=[SCONJ]
-11	bàtà	bàtà	AUX	_	_	_	_	_	AlignBegin=2340|AlignEnd=2374|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=11|RX=[AUX]
+11	bàtà	bàtà	AUX	_	_	10	comp:obj	_	AlignBegin=2340|AlignEnd=2374|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=11|RX=[AUX]
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	AlignBegin=2374|AlignEnd=2408|GE=drink/suffer|Gloss=drink/suffer|nWord=12|RX=[VERB]
 13	noːnòn	noːnòː	NOUN	_	Definite=Cons	12	comp:obj	_	AlignBegin=2408|AlignEnd=2425|GE=[milk].[Masc]|Gloss=milk.Masc|nWord=13|RX=[NOUN]|wordform=noːnò
 14-15	uwattà	_	_	_	_	_	_	_	_
@@ -154,7 +154,7 @@
 # text_en = When that girl was born, as soon as they cut her umbilical cord, they washed her with water, then the girl's father left and went to the malam's and told him: I have a new-born girl, but I'm giving her to you, she's your wife.
 # text_orth = dà ’ankà hàihi ɗìyaa màcceǹ nan, koo dà ’ankà yankèe mutà ciibìyaa, ’ankà wankèe ta cikin ᵲuwaa, sai ’ùban ɗiyaǹ nan, yat taašì yat tàhi wuᵲim maalàmii, yac ceè mišì : ’an haihwam mun ɗìyaa màccè. ’àmmaa hwa naa baa kà ’ita, màatakkà cee.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=4000|AlignEnd=4039|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=4039|AlignEnd=4078|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=4039|AlignEnd=4078|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	hàihi	haihù	VERB	_	_	2	comp:aux	_	AlignBegin=4078|AlignEnd=4117|GE=give_birth|Gloss=give_birth|nWord=3|RX=[VERB]
 4	ɗìyaː	ɗìyaː	NOUN	_	_	3	comp:obj	_	AlignBegin=4117|AlignEnd=4156|GE=[girl].[Fem]|Gloss=girl.Fem|nWord=4|RX=[NOUN]
 5	màccên	màcce	NOUN	_	_	_	_	_	AlignBegin=4156|AlignEnd=4195|GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=5|RX=[NOUN]
@@ -216,7 +216,7 @@
 1-2	dà	_	_	_	_	_	_	_	_
 1	.	.	PUNCT	_	_	_	_	_	AlignBegin=6000|AlignEnd=6024|Gloss=.|nWord=1|RX=[PUNCT]
 2	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=6024|AlignEnd=6048|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-3	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=6048|AlignEnd=6096|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+3	ankà	ankà	AUX	_	_	2	comp:obj	_	AlignBegin=6048|AlignEnd=6096|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 4	gayàː	gayàː	VERB	_	_	3	comp:aux	_	AlignBegin=6096|AlignEnd=6144|GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 5	mà	mà	ADP	_	_	4	comp:obl	_	AlignBegin=6144|AlignEnd=6192|GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 6	maːlàmiː	maːlàmiː	NOUN	_	_	5	comp:obj	_	AlignBegin=6192|AlignEnd=6240|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -617,7 +617,7 @@
 1	du’	duk	DET	_	_	_	_	_	AlignBegin=19000|AlignEnd=19050|GE=all|Gloss=all|nWord=1|RX=[DET]
 2	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	AlignBegin=19050|AlignEnd=19075|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=2|RX=[NOUN]|wordform=àbù
 3	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=19100|AlignEnd=19150|GE=that|Gloss=that|nWord=3|RX=[SCONJ]
-4	yak	yak	AUX	_	_	_	_	_	AlignBegin=19150|AlignEnd=19200|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
+4	yak	yak	AUX	_	_	3	comp:obj	_	AlignBegin=19150|AlignEnd=19200|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
 5-6	kàmaːtà	_	_	_	_	_	_	_	_
 5	kàmaː	kàmaː	NOUN	_	_	_	_	_	AlignBegin=19200|AlignEnd=19225|GE=[appearance].[Fem]|Gloss=appearance.Fem|nWord=5|RX=[NOUN]
 6	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=19225|AlignEnd=19250|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=5|RX=[PRON]
@@ -690,7 +690,7 @@
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=21072|AlignEnd=21090|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	dàudawad	dàudawaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=21090|AlignEnd=21099|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=6|RX=[NOUN]|wordform=dàudawa
 7	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=21108|AlignEnd=21126|GE=that|Gloss=that|nWord=7|RX=[SCONJ]
-8	yas	yak	AUX	_	_	_	_	_	AlignBegin=21126|AlignEnd=21144|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
+8	yas	yak	AUX	_	_	7	comp:obj	_	AlignBegin=21126|AlignEnd=21144|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	sàyeː	sàyaː	VERB	_	_	8	comp:aux	_	AlignBegin=21144|AlignEnd=21162|GE=buy|Gloss=buy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=21162|AlignEnd=21180|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sai	sai	ADV	_	_	12	mod	_	AlignBegin=21180|AlignEnd=21198|GE=then|Gloss=then|nWord=11|RX=[ADV]
@@ -835,7 +835,7 @@
 26	màraiceː	màraiceː	NOUN	_	_	25	comp:obj	_	AlignBegin=24792|AlignEnd=24825|GE=[late_evening].[Masc]|Gloss=late_evening.Masc|nWord=25|RX=[NOUN]
 27	,	,	PUNCT	_	_	_	_	_	AlignBegin=24825|AlignEnd=24858|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 28	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=24858|AlignEnd=24891|GE=[Fut]|Gloss=Fut|nWord=27|RX=[AUX]
-29	shi	shi	PRON	_	_	_	_	_	AlignBegin=24891|AlignEnd=24924|GE=[3Masc]|Gloss=3Masc|nWord=28|RX=[PRON]
+29	shi	shi	PRON	_	_	28	subj	_	AlignBegin=24891|AlignEnd=24924|GE=[3Masc]|Gloss=3Masc|nWord=28|RX=[PRON]
 30	kìliːsàː	kìliːsàː	NOUN	_	_	_	_	_	AlignBegin=24924|AlignEnd=24957|GE=[horse_exercise].[Fem]|Gloss=horse_exercise.Fem|nWord=29|RX=[NOUN]
 31	.	.	PUNCT	_	_	_	_	_	AlignBegin=24957|AlignEnd=25000|Gloss=.|nWord=30|RX=[PUNCT]
 
@@ -909,7 +909,7 @@
 # text_en = When he saw her, he looked at her, and was surprised. ## He had never seen her.
 # text_orth = dà yag ganee tà, yad dìibee tà, yay yi màamaakìi, bài taɓà ganintà ba.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=27000|AlignEnd=27056|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yag	yak	AUX	_	_	_	_	_	AlignBegin=27056|AlignEnd=27112|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yag	yak	AUX	_	_	1	comp:obj	_	AlignBegin=27056|AlignEnd=27112|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ganeː	ganiː	VERB	_	_	2	comp:aux	_	AlignBegin=27112|AlignEnd=27168|GE=see|Gloss=see|nWord=3|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj	_	AlignBegin=27168|AlignEnd=27224|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=27224|AlignEnd=27280|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -952,7 +952,7 @@
 12	yawàː	yawàː	NOUN	_	_	11	comp:obj	_	AlignBegin=28558|AlignEnd=28620|GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=10|RX=[NOUN]
 13	,	,	PUNCT	_	_	_	_	_	AlignBegin=28620|AlignEnd=28682|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 14	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=28682|AlignEnd=28744|GE=when|Gloss=when|nWord=12|RX=[SCONJ]
-15	yag	yak	AUX	_	_	_	_	_	AlignBegin=28744|AlignEnd=28806|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=13|RX=[AUX]
+15	yag	yak	AUX	_	_	14	comp:obj	_	AlignBegin=28744|AlignEnd=28806|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=13|RX=[AUX]
 16	ganeː	ganiː	VERB	_	_	15	comp:aux	_	AlignBegin=28806|AlignEnd=28868|GE=see|Gloss=see|nWord=14|RX=[VERB]
 17	tà	ta	PRON	_	_	16	comp:obj	_	AlignBegin=28868|AlignEnd=28930|GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
 18	.	.	PUNCT	_	_	_	_	_	AlignBegin=28930|AlignEnd=29000|Gloss=.|nWord=16|RX=[PUNCT]
@@ -965,7 +965,7 @@
 # text_en = When he moved on, he asked some people, he said whose house is it?
 # text_orth = dà yat tàhi gàba, sai yat tàmbàyi wasu mutàanee, yac ceè gidan wàa nee ?
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=29000|AlignEnd=29059|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yat	yak	AUX	_	_	_	_	_	AlignBegin=29059|AlignEnd=29118|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yat	yak	AUX	_	_	1	comp:obj	_	AlignBegin=29059|AlignEnd=29118|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	AlignBegin=29118|AlignEnd=29177|GE=go|Gloss=go|nWord=3|RX=[VERB]
 4	gàba	gàba	ADV	_	_	_	_	_	AlignBegin=29177|AlignEnd=29236|GE=in_front|Gloss=in_front|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=29236|AlignEnd=29295|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1022,7 +1022,7 @@
 # text_en = As he moved on, loving this girl, he did not know how he would do to go to the malam's house, much less see his wife.
 # text_orth = dà yat tàhiyàatai, ši nàa soǹ yaaᵲinyàn nan, yaᵲ ᵲasà wàdà zaà ši yiì, šì zoo gidam maalàmii, bàlee šì ga màataataii.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=32000|AlignEnd=32038|GE=that|Gloss=that|nWord=1|RX=[SCONJ]
-2	yat	yak	AUX	_	_	_	_	_	AlignBegin=32038|AlignEnd=32076|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yat	yak	AUX	_	_	1	comp:obj	_	AlignBegin=32038|AlignEnd=32076|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàːtai	_	_	_	_	_	_	_	_
 3	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	AlignBegin=32076|AlignEnd=32089|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]
 4	-tai	-ai	PRON	_	_	3	udep	_	AlignBegin=32102|AlignEnd=32114|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]|wordform=-ai
@@ -1036,8 +1036,8 @@
 12	rasàː	rasàː	VERB	_	_	11	comp:aux	_	AlignBegin=32380|AlignEnd=32418|GE=lack|Gloss=lack|nWord=11|RX=[VERB]
 13	wàdà	wàdà	ADV	_	_	_	_	_	AlignBegin=32418|AlignEnd=32456|GE=[how].[Rel]|Gloss=how.Rel|nWord=12|RX=[ADV]
 14	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=32456|AlignEnd=32494|GE=[Fut]|Gloss=Fut|nWord=13|RX=[AUX]
-15	shi	shi	PRON	_	_	_	_	_	AlignBegin=32494|AlignEnd=32532|GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
-16	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=32532|AlignEnd=32570|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=15|RX=[VERB]
+15	shi	shi	PRON	_	_	14	subj	_	AlignBegin=32494|AlignEnd=32532|GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
+16	yîː	yîː	VERB	_	_	14	comp:aux	_	AlignBegin=32532|AlignEnd=32570|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=15|RX=[VERB]
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=32570|AlignEnd=32608|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 18	shì	shì	AUX	_	_	_	_	_	AlignBegin=32608|AlignEnd=32646|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
 19	zoː	zoː	VERB	_	_	18	comp:aux	_	AlignBegin=32646|AlignEnd=32684|GE=come|Gloss=come|nWord=18|RX=[VERB]
@@ -1096,8 +1096,8 @@
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=34224|AlignEnd=34280|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=34280|AlignEnd=34336|GE=[who].[Fem]|Gloss=who.Fem|nWord=6|RX=[PRON]
 7	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=34336|AlignEnd=34392|GE=[Fut]|Gloss=Fut|nWord=7|RX=[AUX]
-8	shi	shi	PRON	_	_	_	_	_	AlignBegin=34392|AlignEnd=34448|GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
-9	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=34448|AlignEnd=34504|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=9|RX=[VERB]
+8	shi	shi	PRON	_	_	7	subj	_	AlignBegin=34392|AlignEnd=34448|GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
+9	yîː	yîː	VERB	_	_	7	comp:aux	_	AlignBegin=34448|AlignEnd=34504|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=34504|AlignEnd=34560|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	rân	raːnaː	NOUN	_	_	_	_	_	AlignBegin=34560|AlignEnd=34616|GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=11|RX=[NOUN]
 12	nan	nan	DET	_	_	11	det	_	AlignBegin=34616|AlignEnd=34672|GE=[Dist]|Gloss=Dist|nWord=12|RX=[DET]
@@ -1113,8 +1113,8 @@
 22	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=35344|AlignEnd=35400|GE=in(side)|Gloss=in(side)|nWord=25|RX=[ADP]
 23	kàmaz	kàmat	ADP	_	_	_	_	_	AlignBegin=35456|AlignEnd=35512|GE=like|Gloss=like|nWord=27|RX=[ADP]
 24	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=35512|AlignEnd=35568|GE=[Fut]|Gloss=Fut|nWord=28|RX=[AUX]
-25	shi	shi	PRON	_	_	_	_	_	AlignBegin=35568|AlignEnd=35624|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
-26	sàyen	sàyaː	VERB	_	Definite=Cons	_	_	_	AlignBegin=35624|AlignEnd=35652|GE=[buy].[Nmlz].[Masc]|Gloss=buy.Nmlz.Masc|nWord=30|RX=[VERB]|wordform=sàye
+25	shi	shi	PRON	_	_	24	subj	_	AlignBegin=35568|AlignEnd=35624|GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
+26	sàyen	sàyaː	VERB	_	Definite=Cons	24	comp:aux	_	AlignBegin=35624|AlignEnd=35652|GE=[buy].[Nmlz].[Masc]|Gloss=buy.Nmlz.Masc|nWord=30|RX=[VERB]|wordform=sàye
 27	##	##	PUNCT	_	_	_	_	_	AlignBegin=35736|AlignEnd=35782|GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_035-035
@@ -1125,7 +1125,7 @@
 # text_en = When they entered the compound, he said : Old woman, the reason why I called you is to ask you if you know the imam's house.
 # text_orth = dà sunkà zoo cikin gidaa, yac ceè : s’oohuwaa, ’àbun dà nay yi kiᵲànkì, don ’ìn tàmbàyee kì, ’in kin san gidan lìimaǹ.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=35782|AlignEnd=35841|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=35841|AlignEnd=35900|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=35841|AlignEnd=35900|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=35900|AlignEnd=35959|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	cikin	cikin	ADP	_	_	3	comp:obl	_	AlignBegin=35959|AlignEnd=36018|GE=in(side)|Gloss=in(side)|nWord=4|RX=[ADP]
 5	gidaː	gidaː	NOUN	_	_	4	comp:obj	_	AlignBegin=36018|AlignEnd=36077|GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
@@ -1137,7 +1137,7 @@
 11	,	,	PUNCT	_	_	_	_	_	AlignBegin=36372|AlignEnd=36431|GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	AlignBegin=36431|AlignEnd=36461|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=12|RX=[NOUN]|wordform=àbù
 13	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=36490|AlignEnd=36549|GE=that|Gloss=that|nWord=13|RX=[SCONJ]
-14	nay	nak	AUX	_	_	_	_	_	AlignBegin=36549|AlignEnd=36608|GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=14|RX=[AUX]
+14	nay	nak	AUX	_	_	13	comp:obj	_	AlignBegin=36549|AlignEnd=36608|GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=14|RX=[AUX]
 15	yi	yi	VERB	_	_	14	comp:aux	_	AlignBegin=36608|AlignEnd=36667|GE=do|Gloss=do|nWord=15|RX=[VERB]
 16-17	kirànkì	_	_	_	_	_	_	_	_
 16	kiràn	kiràː	VERB	_	Definite=Cons	_	_	_	AlignBegin=36667|AlignEnd=36687|GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=kirà
@@ -1176,7 +1176,7 @@
 # text_en = When she said that she knew, he said : Have you ever been (there)?
 # text_orth = dà tac cèe taa sanìi, yac ceè : kin taɓà zuwàa ?
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=38682|AlignEnd=38761|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	tac	tak	AUX	_	_	_	_	_	AlignBegin=38761|AlignEnd=38840|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tac	tak	AUX	_	_	1	comp:obj	_	AlignBegin=38761|AlignEnd=38840|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cèː	cèː	IdPART	_	_	_	_	_	AlignBegin=38840|AlignEnd=38919|GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
 4	taː	taː	AUX	_	_	_	_	_	AlignBegin=38919|AlignEnd=38998|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=4|RX=[AUX]
 5	sanìː	sanìː	VERB	_	_	4	comp:aux	_	AlignBegin=38998|AlignEnd=39077|GE=know|Gloss=know|nWord=5|RX=[VERB]
@@ -1352,8 +1352,8 @@
 22	,	,	PUNCT	_	_	_	_	_	AlignBegin=46374|AlignEnd=46386|GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	in	in	SCONJ	_	_	_	_	_	AlignBegin=46386|AlignEnd=46398|GE=if|Gloss=if|nWord=23|RX=[SCONJ]
 24	zâː	zâː	AUX	_	_	23	comp:obj	_	AlignBegin=46398|AlignEnd=46410|GE=[Fut]|Gloss=Fut|nWord=24|RX=[AUX]
-25	ki	ki	PRON	_	_	_	_	_	AlignBegin=46410|AlignEnd=46422|GE=[2Fem]|Gloss=2Fem|nWord=25|RX=[PRON]
-26	tàhiyàː	tàhi	VERB	_	_	_	_	_	AlignBegin=46422|AlignEnd=46434|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=26|RX=[VERB]
+25	ki	ki	PRON	_	_	24	subj	_	AlignBegin=46410|AlignEnd=46422|GE=[2Fem]|Gloss=2Fem|nWord=25|RX=[PRON]
+26	tàhiyàː	tàhi	VERB	_	_	24	comp:aux	_	AlignBegin=46422|AlignEnd=46434|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=26|RX=[VERB]
 27	gidan	gidaː	NOUN	_	Definite=Cons	26	comp:obj	_	AlignBegin=46434|AlignEnd=46440|GE=[house].[Masc]|Gloss=house.Masc|nWord=27|RX=[NOUN]|wordform=gida
 28	lì:mân	lì:maːmìː	NOUN	_	_	27	mod	_	AlignBegin=46446|AlignEnd=46458|GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=28|RX=[NOUN]
 29	,	,	PUNCT	_	_	_	_	_	AlignBegin=46458|AlignEnd=46470|GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
@@ -1424,8 +1424,8 @@
 3	dùbaːràː	dùbaːràː	NOUN	_	_	2	comp:obj	_	AlignBegin=47096|AlignEnd=47144|GE=[plan].[Fem]|Gloss=plan.Fem|nWord=3|RX=[NOUN]
 4	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=47144|AlignEnd=47192|GE=[who].[Fem]|Gloss=who.Fem|nWord=4|RX=[PRON]
 5	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=47192|AlignEnd=47240|GE=[Fut]|Gloss=Fut|nWord=5|RX=[AUX]
-6	shi	shi	PRON	_	_	_	_	_	AlignBegin=47240|AlignEnd=47288|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=47288|AlignEnd=47336|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]
+6	shi	shi	PRON	_	_	5	subj	_	AlignBegin=47240|AlignEnd=47288|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+7	yîː	yîː	VERB	_	_	5	comp:aux	_	AlignBegin=47288|AlignEnd=47336|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]
 8	shì	shì	AUX	_	_	_	_	_	AlignBegin=47336|AlignEnd=47384|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	ganeː	ganiː	VERB	_	_	8	comp:aux	_	AlignBegin=47384|AlignEnd=47432|GE=see|Gloss=see|nWord=9|RX=[VERB]
 10	tà	ta	PRON	_	_	9	comp:obj	_	AlignBegin=47432|AlignEnd=47480|GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
@@ -1504,8 +1504,8 @@
 21	##	##	PUNCT	_	_	_	_	_	AlignBegin=49440|AlignEnd=49462|GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 22	in	in	SCONJ	_	_	_	_	_	AlignBegin=49462|AlignEnd=49484|GE=if|Gloss=if|nWord=22|RX=[SCONJ]
 23	zâː	zâː	AUX	_	_	22	comp:obj	_	AlignBegin=49484|AlignEnd=49506|GE=[Fut]|Gloss=Fut|nWord=23|RX=[AUX]
-24	ki	ki	PRON	_	_	_	_	_	AlignBegin=49506|AlignEnd=49528|GE=[2Fem]|Gloss=2Fem|nWord=24|RX=[PRON]
-25	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=49528|AlignEnd=49550|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=25|RX=[VERB]
+24	ki	ki	PRON	_	_	23	subj	_	AlignBegin=49506|AlignEnd=49528|GE=[2Fem]|Gloss=2Fem|nWord=24|RX=[PRON]
+25	tàhiyàː	tàhiyàː	VERB	_	_	23	comp:aux	_	AlignBegin=49528|AlignEnd=49550|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=25|RX=[VERB]
 26	,	,	PUNCT	_	_	_	_	_	AlignBegin=49550|AlignEnd=49572|GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27	can	can	ADV	_	_	_	_	_	AlignBegin=49572|AlignEnd=49594|GE=[Dist]|Gloss=Dist|nWord=27|RX=[ADV]
 28-29	gidansù	_	_	_	_	_	_	_	_
@@ -1519,9 +1519,9 @@
 35	kì	kì	PRON	_	_	34	comp:obj	_	AlignBegin=49726|AlignEnd=49748|GE=[2Fem]|Gloss=2Fem|nWord=34|RX=[PRON]
 36	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	AlignBegin=49748|AlignEnd=49759|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=35|RX=[NOUN]|wordform=àbù
 37	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=49770|AlignEnd=49792|GE=that|Gloss=that|nWord=36|RX=[SCONJ]
-38	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=49792|AlignEnd=49814|GE=[Fut]|Gloss=Fut|nWord=37|RX=[AUX]
-39	ki	ki	PRON	_	_	_	_	_	AlignBegin=49814|AlignEnd=49836|GE=[2Fem]|Gloss=2Fem|nWord=38|RX=[PRON]
-40	kai	kai	VERB	_	_	_	_	_	AlignBegin=49836|AlignEnd=49858|GE=reach/take_to|Gloss=reach/take_to|nWord=39|RX=[VERB]
+38	zâː	zâː	AUX	_	_	37	comp:obj	_	AlignBegin=49792|AlignEnd=49814|GE=[Fut]|Gloss=Fut|nWord=37|RX=[AUX]
+39	ki	ki	PRON	_	_	38	subj	_	AlignBegin=49814|AlignEnd=49836|GE=[2Fem]|Gloss=2Fem|nWord=38|RX=[PRON]
+40	kai	kai	VERB	_	_	38	comp:aux	_	AlignBegin=49836|AlignEnd=49858|GE=reach/take_to|Gloss=reach/take_to|nWord=39|RX=[VERB]
 41	mutà	mutà	PRON	_	_	40	comp:obj	_	AlignBegin=49858|AlignEnd=49880|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=40|RX=[PRON]
 42	,	,	PUNCT	_	_	_	_	_	AlignBegin=49880|AlignEnd=49902|GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
 43	kì	kì	AUX	_	_	_	_	_	AlignBegin=49902|AlignEnd=49924|GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=42|RX=[AUX]
@@ -1538,9 +1538,9 @@
 # text_orth = s’oohuwaa dà zaà ta tàhiyàa, taz zoo wuᵲiinai, yab baa tà goorò, dà tùᵲàaᵲee dà kuɗɗii, dà zôbban zinaarìyaa.
 1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	AlignBegin=50000|AlignEnd=50042|GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=50042|AlignEnd=50084|GE=when|Gloss=when|nWord=2|RX=[SCONJ]
-3	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=50084|AlignEnd=50126|GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
-4	ta	ta	PRON	_	_	_	_	_	AlignBegin=50126|AlignEnd=50168|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
-5	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=50168|AlignEnd=50210|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+3	zâː	zâː	AUX	_	_	2	comp:obj	_	AlignBegin=50084|AlignEnd=50126|GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
+4	ta	ta	PRON	_	_	3	subj	_	AlignBegin=50126|AlignEnd=50168|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
+5	tàhiyàː	tàhiyàː	VERB	_	_	3	comp:aux	_	AlignBegin=50168|AlignEnd=50210|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=50210|AlignEnd=50252|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	taz	tak	AUX	_	_	_	_	_	AlignBegin=50252|AlignEnd=50294|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
 8	zoː	zoː	VERB	_	_	7	comp:aux	_	AlignBegin=50294|AlignEnd=50336|GE=come|Gloss=come|nWord=8|RX=[VERB]
@@ -1571,7 +1571,7 @@
 # text_en = When he gave her these things to take to the malam's wife, the old woman hid (them), she hid the things that he gave her in her goods, where the malam would not see them.
 # text_orth = dà yab baa tà waɗànnan kaayaa, tà kai mà màatam maalàm, s’oohuwaa taɓ ɓooyèe, taɓ ɓooyè kaayaa, wa’àndà yab baa tà, cikin kaayantà, ’indà maalàm baà ši ganii.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=51000|AlignEnd=51029|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yab	yak	AUX	_	_	_	_	_	AlignBegin=51029|AlignEnd=51058|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yab	yak	AUX	_	_	1	comp:obj	_	AlignBegin=51029|AlignEnd=51058|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	baː	baː	VERB	_	_	2	comp:aux	_	AlignBegin=51058|AlignEnd=51087|GE=give|Gloss=give|nWord=3|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj	_	AlignBegin=51087|AlignEnd=51116|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5	waɗànnan	waɗànnan	PRON	_	_	_	_	_	AlignBegin=51116|AlignEnd=51145|GE=[Anaph]|Gloss=Anaph|nWord=5|RX=[PRON]
@@ -1615,7 +1615,7 @@
 # text_en = After she had hidden the things, she took her basin, that of the "daudawa", she went to the malam's compound.
 # text_orth = dà taɓ ɓooyè kaayaa, sai taɗ ɗàuki ƙwaᵲyattà, ta dàudawaa, tat tàhi gidam maalàm.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=52000|AlignEnd=52056|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	taɓ	tak	AUX	_	_	_	_	_	AlignBegin=52056|AlignEnd=52112|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	taɓ	tak	AUX	_	_	1	comp:obj	_	AlignBegin=52056|AlignEnd=52112|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɓoːyè	ɓoːyèː	VERB	_	_	2	comp:aux	_	AlignBegin=52112|AlignEnd=52168|GE=hide|Gloss=hide|nWord=3|RX=[VERB]
 4	kaːyaː	kaːyaː	NOUN	_	_	3	comp:obj	_	AlignBegin=52168|AlignEnd=52224|GE=[things].[Masc]|Gloss=things.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=52224|AlignEnd=52280|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1643,7 +1643,7 @@
 # text_en = As she went to the malam's house, she met the malam, she told him here is "daudawa".
 # text_orth = dà taz zoo gidam maalàm, ta’ ’iskè maalàmii, tac ceè gàa dàudawaa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=53000|AlignEnd=53067|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	taz	tak	AUX	_	_	_	_	_	AlignBegin=53067|AlignEnd=53134|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	taz	tak	AUX	_	_	1	comp:obj	_	AlignBegin=53067|AlignEnd=53134|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=53134|AlignEnd=53201|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	gidam	gidaː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=53201|AlignEnd=53235|GE=[house].[Masc]|Gloss=house.Masc|nWord=4|RX=[NOUN]|wordform=gida
 5	maːlàmiː	maːlàmiː	NOUN	_	_	4	mod	_	AlignBegin=53268|AlignEnd=53335|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -1757,7 +1757,7 @@
 # text_en = When she brought the "daudawa", she took out the things that the chief's son had given her to give to the malam's wife.
 # text_orth = dà tak kai dàudawaa, sai tah hiddoo kaayaa, wa’àndà ɗan saᵲkii yab baa tà, tab baà màatam maalàm.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=58000|AlignEnd=58045|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	tak	tak	AUX	_	_	_	_	_	AlignBegin=58045|AlignEnd=58090|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tak	tak	AUX	_	_	1	comp:obj	_	AlignBegin=58045|AlignEnd=58090|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	kai	kai	VERB	_	_	2	comp:aux	_	AlignBegin=58090|AlignEnd=58135|GE=reach/take_to|Gloss=reach/take_to|nWord=3|RX=[VERB]
 4	dàudawaː	dàudawaː	NOUN	_	_	3	comp:obj	_	AlignBegin=58135|AlignEnd=58180|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=58180|AlignEnd=58225|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1897,8 +1897,8 @@
 33	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	32	comp:obj	_	AlignBegin=64470|AlignEnd=64519|GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=31|RX=[NOUN]
 34	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=64519|AlignEnd=64568|GE=[who].[Fem]|Gloss=who.Fem|nWord=32|RX=[PRON]
 35	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=64568|AlignEnd=64617|GE=[Fut]|Gloss=Fut|nWord=33|RX=[AUX]
-36	shi	shi	PRON	_	_	_	_	_	AlignBegin=64617|AlignEnd=64666|GE=[3Masc]|Gloss=3Masc|nWord=34|RX=[PRON]
-37	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=64666|AlignEnd=64715|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=35|RX=[VERB]
+36	shi	shi	PRON	_	_	35	subj	_	AlignBegin=64617|AlignEnd=64666|GE=[3Masc]|Gloss=3Masc|nWord=34|RX=[PRON]
+37	yîː	yîː	VERB	_	_	35	comp:aux	_	AlignBegin=64666|AlignEnd=64715|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=35|RX=[VERB]
 38	ba	ba	PART	_	_	_	_	_	AlignBegin=64715|AlignEnd=64764|GE=[Neg]|Gloss=Neg|nWord=36|RX=[PART]
 39	,	,	PUNCT	_	_	_	_	_	AlignBegin=64764|AlignEnd=64813|GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
 40	shì	shì	AUX	_	_	_	_	_	AlignBegin=64813|AlignEnd=64862|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=38|RX=[AUX]
@@ -1940,8 +1940,8 @@
 10	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	_	_	_	AlignBegin=66477|AlignEnd=66530|GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=10|RX=[NOUN]
 11	waddà	waddà	PRON	_	_	_	_	_	AlignBegin=66530|AlignEnd=66583|GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
 12	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=66583|AlignEnd=66636|GE=[Fut]|Gloss=Fut|nWord=12|RX=[AUX]
-13	shi	shi	PRON	_	_	_	_	_	AlignBegin=66636|AlignEnd=66689|GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
-14	yîː	yîː	VERB	_	_	_	_	_	AlignBegin=66689|AlignEnd=66742|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
+13	shi	shi	PRON	_	_	12	subj	_	AlignBegin=66636|AlignEnd=66689|GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
+14	yîː	yîː	VERB	_	_	12	comp:aux	_	AlignBegin=66689|AlignEnd=66742|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
 15	,	,	PUNCT	_	_	_	_	_	AlignBegin=66742|AlignEnd=66795|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	shì	shì	AUX	_	_	_	_	_	AlignBegin=66795|AlignEnd=66848|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
 17	saːmùː	saːmùː	VERB	_	_	16	comp:aux	_	AlignBegin=66848|AlignEnd=66901|GE=get|Gloss=get|nWord=17|RX=[VERB]
@@ -2016,7 +2016,7 @@
 # text_en = After she went back home, she went to see the chief's son, she went and told him that she had delivered his message.
 # text_orth = dà tak koomàa gidantà, tat tàhi wuᵲin ɗan saᵲkii, taz zoo tag gayàa mai, taa kai sàaƙoonai.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=69000|AlignEnd=69048|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	tak	tak	AUX	_	_	_	_	_	AlignBegin=69048|AlignEnd=69096|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tak	tak	AUX	_	_	1	comp:obj	_	AlignBegin=69048|AlignEnd=69096|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	koːmàː	koːmàː	VERB	_	_	2	comp:aux	_	AlignBegin=69096|AlignEnd=69144|GE=return|Gloss=return|nWord=3|RX=[VERB]
 4-5	gidantà	_	_	_	_	_	_	_	_
 4	gidan	gidaː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=69144|AlignEnd=69160|GE=[house].[Masc]|Gloss=house.Masc|nWord=4|RX=[NOUN]|wordform=gida
@@ -2068,7 +2068,7 @@
 # text_orth = dà yam mutà gòodiyaa, kuma yab baa tà laadattà.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=71000|AlignEnd=71182|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2-3	yam	_	_	_	_	_	_	_	_
-2	yay	yak	AUX	_	_	_	_	_	AlignBegin=71182|AlignEnd=71364|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]|wordform=yam
+2	yay	yak	AUX	_	_	1	comp:obj	_	AlignBegin=71182|AlignEnd=71364|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]|wordform=yam
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	mutà	mutà	PRON	_	_	3	comp:obl	_	AlignBegin=71364|AlignEnd=71546|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
 5	gòːdiyaː	gòːdiyaː	NOUN	_	_	3	comp:pred	_	AlignBegin=71546|AlignEnd=71728|GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=4|RX=[NOUN]
@@ -2090,7 +2090,7 @@
 # text_en = After giving her her commission, he told the old woman: When you go there to the malam's house, each day you go, I will give you something to take to the malam's wife, whether money, perfume, kola nuts, silver or gold, and give her.
 # text_orth = dà yab baa tà laadattà, sai yac ceè mà s’oohuwaa : ’in zaà ki tàhiyàa, can gidam maalàm, koo wacè ᵲaanaa, kì zoo ’ìm baa kì wani ’àbù, kì kai mà màatam maalàm, koo kuɗɗii, koo tùᵲàaᵲee, koo goorò, koo ’àzùrhwaa, koo zinaarìyaa, don kì kai matà.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=73000|AlignEnd=73017|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yab	yak	AUX	_	_	_	_	_	AlignBegin=73017|AlignEnd=73034|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yab	yak	AUX	_	_	1	comp:obj	_	AlignBegin=73017|AlignEnd=73034|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	baː	baː	VERB	_	_	2	comp:aux	_	AlignBegin=73034|AlignEnd=73051|GE=give|Gloss=give|nWord=3|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj	_	AlignBegin=73051|AlignEnd=73068|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5-6	laːdattà	_	_	_	_	_	_	_	_
@@ -2105,8 +2105,8 @@
 13	:	:	PUNCT	_	_	_	_	_	AlignBegin=73187|AlignEnd=73204|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 14	in	in	SCONJ	_	_	_	_	_	AlignBegin=73204|AlignEnd=73221|GE=if|Gloss=if|nWord=13|RX=[SCONJ]
 15	zâː	zâː	AUX	_	_	14	comp:obj	_	AlignBegin=73221|AlignEnd=73238|GE=[Fut]|Gloss=Fut|nWord=14|RX=[AUX]
-16	ki	ki	PRON	_	_	_	_	_	AlignBegin=73238|AlignEnd=73255|GE=[2Fem]|Gloss=2Fem|nWord=15|RX=[PRON]
-17	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=73255|AlignEnd=73272|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=16|RX=[VERB]
+16	ki	ki	PRON	_	_	15	subj	_	AlignBegin=73238|AlignEnd=73255|GE=[2Fem]|Gloss=2Fem|nWord=15|RX=[PRON]
+17	tàhiyàː	tàhiyàː	VERB	_	_	15	comp:aux	_	AlignBegin=73255|AlignEnd=73272|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=16|RX=[VERB]
 18	,	,	PUNCT	_	_	_	_	_	AlignBegin=73272|AlignEnd=73289|GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 19	can	can	ADV	_	_	_	_	_	AlignBegin=73289|AlignEnd=73306|GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
 20	gidam	gidaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=73306|AlignEnd=73314|GE=[house].[Masc]|Gloss=house.Masc|nWord=19|RX=[NOUN]|wordform=gida
@@ -2173,8 +2173,8 @@
 1	kullun	kullun	ADV	_	_	_	_	_	AlignBegin=75000|AlignEnd=75024|GE=always|Gloss=always|nWord=1|RX=[ADV]
 2	in	in	SCONJ	_	_	_	_	_	AlignBegin=75024|AlignEnd=75048|GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	zâː	zâː	AUX	_	_	2	comp:obj	_	AlignBegin=75048|AlignEnd=75072|GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
-4	ta	ta	PRON	_	_	_	_	_	AlignBegin=75072|AlignEnd=75096|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
-5	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=75096|AlignEnd=75120|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+4	ta	ta	PRON	_	_	3	subj	_	AlignBegin=75072|AlignEnd=75096|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
+5	tàhiyàː	tàhiyàː	VERB	_	_	3	comp:aux	_	AlignBegin=75096|AlignEnd=75120|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 6	kai	kai	VERB	_	_	_	_	_	AlignBegin=75120|AlignEnd=75144|GE=reach/take_to|Gloss=reach/take_to|nWord=6|RX=[VERB]
 7	dàudawaː	dàudawaː	NOUN	_	_	6	comp:obj	_	AlignBegin=75144|AlignEnd=75168|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	_	_	_	AlignBegin=75168|AlignEnd=75192|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -2194,7 +2194,7 @@
 22	tà	ta	PRON	_	_	21	comp:obj	_	AlignBegin=75504|AlignEnd=75528|GE=[3Fem]|Gloss=3Fem|nWord=22|RX=[PRON]
 23	àbuːbuwàn	àbuːbuwàː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=75528|AlignEnd=75540|GE=[things].[Plur]|Gloss=things.Plur|nWord=23|RX=[NOUN]|wordform=àbuːbuwà
 24	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=75552|AlignEnd=75576|GE=that|Gloss=that|nWord=24|RX=[SCONJ]
-25	yac	yak	AUX	_	_	_	_	_	AlignBegin=75576|AlignEnd=75600|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
+25	yac	yak	AUX	_	_	24	comp:obj	_	AlignBegin=75576|AlignEnd=75600|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
 26	cêː	cêː	VERB	_	_	25	comp:aux	_	AlignBegin=75600|AlignEnd=75624|GE=say|Gloss=say|nWord=26|RX=[VERB]
 27	,	,	PUNCT	_	_	_	_	_	AlignBegin=75624|AlignEnd=75648|GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 28	tà	tà	AUX	_	_	_	_	_	AlignBegin=75648|AlignEnd=75672|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=28|RX=[AUX]
@@ -2220,7 +2220,7 @@
 # text_en = When she brought the "daudawa", the malam bought (it) and said she should carry it inside the compound.
 # text_orth = dà taa kai dàudawaa, maalàm yas sàyee, yac cèe tà kai cikin gidaa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=76000|AlignEnd=76062|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	taː	taː	AUX	_	_	_	_	_	AlignBegin=76062|AlignEnd=76124|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
+2	taː	taː	AUX	_	_	1	comp:obj	_	AlignBegin=76062|AlignEnd=76124|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
 3	kai	kai	VERB	_	_	2	comp:aux	_	AlignBegin=76124|AlignEnd=76186|GE=reach/take_to|Gloss=reach/take_to|nWord=3|RX=[VERB]
 4	dàudawaː	dàudawaː	NOUN	_	_	3	comp:obj	_	AlignBegin=76186|AlignEnd=76248|GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=76248|AlignEnd=76310|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2244,7 +2244,7 @@
 # text_en = As she went to give the "daudawa", she gave it to the malam's wife, she gave her too the things that the chief's son had given her and told her to give her.
 # text_orth = dà taa zoo tab baadà dàudawaa, tab baà màatam maalàm, kuma sai tà baa tà kaayan dà ɗan saᵲkii yab baa tà, yac ceè tà kai matà.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=77000|AlignEnd=77032|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	taː	taː	AUX	_	_	_	_	_	AlignBegin=77032|AlignEnd=77064|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
+2	taː	taː	AUX	_	_	1	comp:obj	_	AlignBegin=77032|AlignEnd=77064|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=77064|AlignEnd=77096|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	tab	tak	AUX	_	_	_	_	_	AlignBegin=77096|AlignEnd=77128|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
 5	baːdà	baːdàː	VERB	_	_	4	comp:aux	_	AlignBegin=77128|AlignEnd=77160|GE=give|Gloss=give|nWord=5|RX=[VERB]
@@ -2359,8 +2359,8 @@
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=81000|AlignEnd=81033|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	AlignBegin=81033|AlignEnd=81066|GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=81066|AlignEnd=81099|GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
-4	ta	ta	PRON	_	_	_	_	_	AlignBegin=81099|AlignEnd=81132|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
-5	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=81132|AlignEnd=81165|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+4	ta	ta	PRON	_	_	3	subj	_	AlignBegin=81099|AlignEnd=81132|GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
+5	tàhiyàː	tàhiyàː	VERB	_	_	3	comp:aux	_	AlignBegin=81132|AlignEnd=81165|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=81165|AlignEnd=81198|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	_	_	_	AlignBegin=81198|AlignEnd=81231|GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	màːtam	màːtaː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=81231|AlignEnd=81247|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=8|RX=[NOUN]|wordform=màːta
@@ -2495,7 +2495,7 @@
 # text_en = When she told him, he said well, let God give us life until the day of salla.
 # text_orth = dà tag gayàa mai, yac ceè toò, ’allàa šì kai munà ᵲaì ᵲas sallàa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=85000|AlignEnd=85059|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	tag	tak	AUX	_	_	_	_	_	AlignBegin=85059|AlignEnd=85118|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tag	tak	AUX	_	_	1	comp:obj	_	AlignBegin=85059|AlignEnd=85118|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	AlignBegin=85118|AlignEnd=85177|GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 4	mai	mai	PRON	_	_	3	comp:obj	_	AlignBegin=85177|AlignEnd=85236|GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=85236|AlignEnd=85295|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2574,7 +2574,7 @@
 # text_en = As they went to the place of the ceremony, himself, the chief's son, he climbed on his horse, he went and entered the malam's compound.
 # text_orth = dà sunkà tàhi wuᵲin ’iidìi, šii kàu ɗan saᵲkii, sai yah hau dookìi, yaz zoo yaš šigèe gidan maalàm.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=88000|AlignEnd=88043|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=88043|AlignEnd=88086|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=88043|AlignEnd=88086|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	AlignBegin=88086|AlignEnd=88129|GE=go|Gloss=go|nWord=3|RX=[VERB]
 4	wurin	wuriː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=88129|AlignEnd=88151|GE=[place].[Masc]|Gloss=place.Masc|nWord=4|RX=[NOUN]|wordform=wuri
 5	iːdì:	iːdì:	NOUN	_	_	4	mod	_	AlignBegin=88172|AlignEnd=88215|GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=5|RX=[NOUN]
@@ -2605,7 +2605,7 @@
 # text_en = As he entered the malam's compound, he alighted and tied the horse.
 # text_orth = dà yaš šìga gidam maalàm, yas sàbka yaɗ ɗaᵲmè dookìi.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=89000|AlignEnd=89083|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	yash	yak	AUX	_	_	_	_	_	AlignBegin=89083|AlignEnd=89166|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yash	yak	AUX	_	_	1	comp:obj	_	AlignBegin=89083|AlignEnd=89166|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	shìga	shìga	VERB	_	_	2	comp:aux	_	AlignBegin=89166|AlignEnd=89249|GE=enter|Gloss=enter|nWord=3|RX=[VERB]
 4	gidam	gidaː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=89249|AlignEnd=89291|GE=[house].[Masc]|Gloss=house.Masc|nWord=4|RX=[NOUN]|wordform=gida
 5	maːlàmiː	maːlàmiː	NOUN	_	_	4	mod	_	AlignBegin=89332|AlignEnd=89415|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -2666,7 +2666,7 @@
 8	yi	yi	VERB	_	_	7	comp:aux	_	AlignBegin=92539|AlignEnd=92616|GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	àbùn	àbù	NOUN	_	Definite=Cons	8	comp:pred	_	AlignBegin=92616|AlignEnd=92654|GE=[thing].[Masc]|Gloss=thing.Masc|nWord=9|RX=[NOUN]|wordform=àbù
 10	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=92693|AlignEnd=92770|GE=that|Gloss=that|nWord=10|RX=[SCONJ]
-11	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=92770|AlignEnd=92847|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=11|RX=[AUX]
+11	sunkà	sunkà	AUX	_	_	10	comp:obj	_	AlignBegin=92770|AlignEnd=92847|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=92847|AlignEnd=92924|GE=do|Gloss=do|nWord=12|RX=[VERB]
 13	.	.	PUNCT	_	_	_	_	_	AlignBegin=92924|AlignEnd=93000|Gloss=.|nWord=13|RX=[PUNCT]
 
@@ -2865,7 +2865,7 @@
 # text_en = As she said so to the malam like this, the malam left for the house of the chief to thank him.
 # text_orth = da tag gayàa mà maalàm hakà nan, maalàm yah hìta yat tàhi gidan saᵲkii, šì yoo gòodiyaa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=100000|AlignEnd=100050|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	tag	tak	AUX	_	_	_	_	_	AlignBegin=100050|AlignEnd=100100|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tag	tak	AUX	_	_	1	comp:obj	_	AlignBegin=100050|AlignEnd=100100|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	AlignBegin=100100|AlignEnd=100150|GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 4	mà	mà	ADP	_	_	3	comp:obl	_	AlignBegin=100150|AlignEnd=100200|GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 5	maːlàmiː	maːlàmiː	NOUN	_	_	4	comp:obj	_	AlignBegin=100200|AlignEnd=100250|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -3184,8 +3184,8 @@
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	AlignBegin=110000|AlignEnd=110077|GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	miː	miː	PRON	_	_	_	_	_	AlignBegin=110077|AlignEnd=110154|GE=[what].[Int]|Gloss=what.Int|nWord=2|RX=[PRON]
 3	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=110154|AlignEnd=110231|GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
-4	ka	ka	PRON	_	_	_	_	_	AlignBegin=110231|AlignEnd=110308|GE=[2Masc]|Gloss=2Masc|nWord=4|RX=[PRON]
-5	zoːwaː	zoː	VERB	_	_	_	_	_	AlignBegin=110308|AlignEnd=110346|GE=come|Gloss=come.Nmlz.Fem|nWord=5|RX=[VERB]|wordform=zoː
+4	ka	ka	PRON	_	_	3	subj	_	AlignBegin=110231|AlignEnd=110308|GE=[2Masc]|Gloss=2Masc|nWord=4|RX=[PRON]
+5	zoːwaː	zoː	VERB	_	_	3	comp:aux	_	AlignBegin=110308|AlignEnd=110346|GE=come|Gloss=come.Nmlz.Fem|nWord=5|RX=[VERB]|wordform=zoː
 6	nân	nân	ADV	_	_	_	_	_	AlignBegin=110385|AlignEnd=110462|GE=[Prox]|Gloss=Prox|nWord=6|RX=[ADV]
 7-8	wuriːna	_	_	_	_	_	_	_	_
 7	wuriː	wuriː	NOUN	_	_	_	_	_	AlignBegin=110462|AlignEnd=110500|GE=[place].[Masc]|Gloss=place.Masc|nWord=7|RX=[NOUN]
@@ -3247,7 +3247,7 @@
 # text_en = As they arrived at the house of the malam, the courtier and the malam, there was no horse, and there was no horse tracks. ## Then the malam asked his wife: You, where is the horse that I left here and you told me the chief had sent it to me?
 # text_orth = dà sunkà zoo gidam maalàm, dà bàhwaadìi dà maalàm, baabù dookìi, kuma baabù san dookìi ## sai maalàm yat tàmbàyi màataatai : kèe ’ìnaa dookìi, wandà nib baᵲìi naǹ, kic ceè minì saᵲkii ya’ ’aikoo mun šii ?
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=112000|AlignEnd=112023|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=112023|AlignEnd=112046|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=112023|AlignEnd=112046|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=112046|AlignEnd=112069|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	gidam	gidaː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=112069|AlignEnd=112081|GE=[house].[Masc]|Gloss=house.Masc|nWord=4|RX=[NOUN]|wordform=gida
 5	maːlàmiː	maːlàmiː	NOUN	_	_	4	mod	_	AlignBegin=112092|AlignEnd=112115|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -3388,7 +3388,7 @@
 # text_en = When they arrived with the malam at the chief's place, then the chief said : Since the malam is not well, he has gone so mad that he has lied to me, saying that I gave him a horse, whereas I, I did not give him a horse, let them tie him up and put him in jail.
 # text_orth = dà ’ankà zoo dà maalàm, wuᵲin saᵲkii, sai saᵲkii yac ceè : tun dà maalàm, baà ši dà laahiyàa, yaa haukàcee, hay yaa yi mun ƙaᵲyaa, yac cèe naa baa šì dookìi, nii kàu bàm baa šì dookìi ba, sai ’à ɗaᵲmèe ši, ’à saà ši kasòo.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=118000|AlignEnd=118018|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=118018|AlignEnd=118036|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=118018|AlignEnd=118036|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=118036|AlignEnd=118054|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	dà	dà	ADP	_	_	3	comp:obl	_	AlignBegin=118054|AlignEnd=118072|GE=with|Gloss=with|nWord=4|RX=[ADP]
 5	maːlàmiː	maːlàmiː	NOUN	_	_	4	comp:obj	_	AlignBegin=118072|AlignEnd=118090|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
@@ -3457,7 +3457,7 @@
 4	maːlàmiː	maːlàmiː	NOUN	_	_	3	comp:obj	_	AlignBegin=119168|AlignEnd=119224|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=119224|AlignEnd=119280|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=119280|AlignEnd=119336|GE=when|Gloss=when|nWord=6|RX=[SCONJ]
-7	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=119336|AlignEnd=119392|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
+7	ankà	ankà	AUX	_	_	6	comp:obj	_	AlignBegin=119336|AlignEnd=119392|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
 8	ɗarmè	ɗarmèː	VERB	_	_	7	comp:aux	_	AlignBegin=119392|AlignEnd=119448|GE=[tie].[Ach]|Gloss=tie.Ach|nWord=8|RX=[VERB]
 9	maːlàmiː	maːlàmiː	NOUN	_	_	8	comp:obj	_	AlignBegin=119448|AlignEnd=119504|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=119504|AlignEnd=119560|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -3702,7 +3702,7 @@
 # text_en = After picking them, she kept them.
 # text_orth = dà taɗ ɗèebee šì, sai ta’ ’ajèe.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=129000|AlignEnd=129111|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	taɗ	tak	AUX	_	_	_	_	_	AlignBegin=129111|AlignEnd=129222|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	taɗ	tak	AUX	_	_	1	comp:obj	_	AlignBegin=129111|AlignEnd=129222|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗèːbeː	ɗiːbàː	VERB	_	_	2	comp:aux	_	AlignBegin=129222|AlignEnd=129333|GE=take|Gloss=take|nWord=3|RX=[VERB]
 4	shi	shi	PRON	_	_	3	comp:obj	_	AlignBegin=129333|AlignEnd=129444|GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=129444|AlignEnd=129555|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -3719,13 +3719,13 @@
 # text_en = When she kept them, they dried. ## When they got dey, she left them alone. ## Then when the dry season came, there was no green grass anywhere, much less unripe beans. ## Theṅ she took the green beans, she soaked them in water. ## After they had soaked, they became like unripe, then she boiled them.
 # text_orth = dà ta’ ’ajèe yab buušèe, dà yab buušèe, sai taƙ ƙyaalèe, sai dà ᵲaanii yay yi, koomii yaa buušèe, baà ’indà ɗanyen hakìi ši kè, bàlee ɗanyen waakee, sai taɗ ɗaukoo jìmɓiᵲintà, sai taj jiƙàa cikin ᵲuwaa, dà yaj jìƙa yaz zan kàmaɗ ɗanyee, sai tad dahwàa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=130000|AlignEnd=130017|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	ta’	tak	AUX	_	_	_	_	_	AlignBegin=130017|AlignEnd=130034|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	ta’	tak	AUX	_	_	1	comp:obj	_	AlignBegin=130017|AlignEnd=130034|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	AlignBegin=130034|AlignEnd=130051|GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
 4	yab	yak	AUX	_	_	_	_	_	AlignBegin=130051|AlignEnd=130068|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
 5	buːshèː	buːshèː	BERB	_	_	_	_	_	AlignBegin=130068|AlignEnd=130085|GE=dry|Gloss=dry|nWord=5|RX=[BERB]
 6	##	##	PUNCT	_	_	_	_	_	AlignBegin=130085|AlignEnd=130102|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=130102|AlignEnd=130119|GE=when|Gloss=when|nWord=7|RX=[SCONJ]
-8	yab	yak	AUX	_	_	_	_	_	AlignBegin=130119|AlignEnd=130136|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
+8	yab	yak	AUX	_	_	7	comp:obj	_	AlignBegin=130119|AlignEnd=130136|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	buːshèː	buːshèː	BERB	_	_	_	_	_	AlignBegin=130136|AlignEnd=130153|GE=dry|Gloss=dry|nWord=9|RX=[BERB]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=130153|AlignEnd=130170|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sai	sai	ADV	_	_	_	_	_	AlignBegin=130170|AlignEnd=130187|GE=then|Gloss=then|nWord=11|RX=[ADV]
@@ -3767,7 +3767,7 @@
 46	ruwaː	ruwaː	NOUN	_	_	45	comp:obj	_	AlignBegin=130748|AlignEnd=130765|GE=[water].[Plur]|Gloss=water.Plur|nWord=45|RX=[NOUN]
 47	##	##	PUNCT	_	_	_	_	_	AlignBegin=130765|AlignEnd=130782|GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
 48	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=130782|AlignEnd=130799|GE=when|Gloss=when|nWord=47|RX=[SCONJ]
-49	yaj	yak	AUX	_	_	_	_	_	AlignBegin=130799|AlignEnd=130816|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
+49	yaj	yak	AUX	_	_	48	comp:obj	_	AlignBegin=130799|AlignEnd=130816|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
 50	jìƙa	jìƙa	VERB	_	_	49	comp:aux	_	AlignBegin=130816|AlignEnd=130833|GE=be_soaked|Gloss=be_soaked|nWord=49|RX=[VERB]
 51	yaz	yak	AUX	_	_	_	_	_	AlignBegin=130833|AlignEnd=130850|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=50|RX=[AUX]
 52	zama	zama	VERB	_	_	51	comp:aux	_	AlignBegin=130850|AlignEnd=130867|GE=become|Gloss=become|nWord=51|RX=[VERB]
@@ -4012,7 +4012,7 @@
 # text_en = When they went to the chief's wife's place, they told her: The chief said that you gave him green beans, give us ours.
 # text_orth = dà sunkà tàhi wuᵲim màatas saᵲkii, sunkà ceè mutà : saᵲkii yaa ceè, kim baa šì jìmɓiᵲii, kì baa mù naamù.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=138000|AlignEnd=138040|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=138040|AlignEnd=138080|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=138040|AlignEnd=138080|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	AlignBegin=138080|AlignEnd=138120|GE=go|Gloss=go|nWord=3|RX=[VERB]
 4	wurim	wuriː	NOUN	_	Definite=Cons	3	comp:obj	_	AlignBegin=138120|AlignEnd=138140|GE=[place].[Masc]|Gloss=place.Masc|nWord=4|RX=[NOUN]|wordform=wuri
 5	màːtas	màːtaː	NOUN	_	Definite=Cons	4	mod	_	AlignBegin=138160|AlignEnd=138180|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=5|RX=[NOUN]|wordform=màːta
@@ -4108,7 +4108,7 @@
 # text_en = When they went, they told the chief, the chief got up, went inside the compound to his wife's place, and said : Where are the green beans you gave me?
 # text_orth = dà sunkà zoo sunkà gayàa mà saᵲkii, saᵲkii yat taašì, yat tàhi cikin gidaa, wuᵲim màataatai, yac ceè : ’ìnaa jìmɓiᵲin dà kib baa nì ?
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=141000|AlignEnd=141033|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=141033|AlignEnd=141066|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=141033|AlignEnd=141066|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=141066|AlignEnd=141099|GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=141099|AlignEnd=141132|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=4|RX=[AUX]
 5	gayàː	gayàː	VERB	_	_	4	comp:aux	_	AlignBegin=141132|AlignEnd=141165|GE=tell|Gloss=tell|nWord=5|RX=[VERB]
@@ -4135,7 +4135,7 @@
 25	ìnaː	ìnaː	ADV	_	_	_	_	_	AlignBegin=141759|AlignEnd=141792|GE=[where].[Int]|Gloss=where.Int|nWord=24|RX=[ADV]
 26	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=141792|AlignEnd=141808|GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=25|RX=[NOUN]|wordform=jìmɓiri
 27	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=141825|AlignEnd=141858|GE=that|Gloss=that|nWord=26|RX=[SCONJ]
-28	kib	kik	AUX	_	_	_	_	_	AlignBegin=141858|AlignEnd=141891|GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=27|RX=[AUX]
+28	kib	kik	AUX	_	_	27	comp:obj	_	AlignBegin=141858|AlignEnd=141891|GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=27|RX=[AUX]
 29	baː	baː	VERB	_	_	28	comp:aux	_	AlignBegin=141891|AlignEnd=141924|GE=give|Gloss=give|nWord=28|RX=[VERB]
 30	nì	ni	PRON	_	_	29	comp:obj	_	AlignBegin=141924|AlignEnd=141957|GE=[1Sing]|Gloss=1Sing|nWord=29|RX=[PRON]
 31	?	?	PUNCT	_	_	_	_	_	AlignBegin=141957|AlignEnd=142000|GE=[?]|Gloss=?|nWord=30|RX=[PUNCT]
@@ -4169,9 +4169,9 @@
 3	yat	yak	AUX	_	_	_	_	_	AlignBegin=143084|AlignEnd=143126|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	tàhi	tàhi	VERB	_	_	3	comp:aux	_	AlignBegin=143126|AlignEnd=143168|GE=go|Gloss=go|nWord=4|RX=[VERB]
 5	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=143168|AlignEnd=143210|GE=[Fut]|Gloss=Fut|nWord=5|RX=[AUX]
-6	shi	shi	PRON	_	_	_	_	_	AlignBegin=143210|AlignEnd=143252|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+6	shi	shi	PRON	_	_	5	subj	_	AlignBegin=143210|AlignEnd=143252|GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
 7-8	bugùntà	_	_	_	_	_	_	_	_
-7	bugùn	bugùː	VERB	_	Definite=Cons	_	_	_	AlignBegin=143252|AlignEnd=143266|GE=[beat].[Nmlz].[Masc]|Gloss=beat.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=bugù
+7	bugùn	bugùː	VERB	_	Definite=Cons	5	comp:aux	_	AlignBegin=143252|AlignEnd=143266|GE=[beat].[Nmlz].[Masc]|Gloss=beat.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=bugù
 8	-tà	-tà	PRON	_	_	7	comp:obj	_	AlignBegin=143280|AlignEnd=143294|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=7|RX=[PRON]
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=143294|AlignEnd=143336|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	AlignBegin=143336|AlignEnd=143378|GE=then|Gloss=then|nWord=9|RX=[ADV]
@@ -4295,7 +4295,7 @@
 # text_en = When they released the chief, the chief's wife asked the chief: What put you in jail?
 # text_orth = dà ’ankà sakoo saᵲkii, màatas saᵲkii tat tàmbàyi saᵲkii : mìi yas saà ka kasòo ?
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=148000|AlignEnd=148059|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	ankà	ankà	AUX	_	_	_	_	_	AlignBegin=148059|AlignEnd=148118|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=148059|AlignEnd=148118|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sakoː	sàkaː	VERB	_	_	2	comp:aux	_	AlignBegin=148118|AlignEnd=148148|GE=release|Gloss=release.Dir|nWord=3|RX=[VERB]|wordform=sak
 4	sarkiː	sarkiː	NOUN	_	_	3	comp:obj	_	AlignBegin=148177|AlignEnd=148236|GE=[chief].[Masc]|Gloss=chief.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=148236|AlignEnd=148295|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -4360,7 +4360,7 @@
 # text_en = When you tied up the malam, you put him in jail, I told you to release him, he did nothing wrong, that that story was a matter of female deception.
 # text_orth = dà kaɗ ɗaᵲmè maalàm, kas saà cikin kasòo, nic ceè maa ’à sàki maalàm, baà ši dà laìhii, cikim màganàn nan, kissàmmù cee ta maataa.
 1	dà	dà	SCONJ	_	_	_	_	_	AlignBegin=151000|AlignEnd=151032|GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	kaɗ	kak	AUX	_	_	_	_	_	AlignBegin=151032|AlignEnd=151064|GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	kaɗ	kak	AUX	_	_	1	comp:obj	_	AlignBegin=151032|AlignEnd=151064|GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗarmè	ɗarmèː	VERB	_	_	2	comp:aux	_	AlignBegin=151064|AlignEnd=151096|GE=[tie].[Ach]|Gloss=tie.Ach|nWord=3|RX=[VERB]
 4	maːlàmiː	maːlàmiː	NOUN	_	_	3	comp:obj	_	AlignBegin=151096|AlignEnd=151128|GE=[malam].[Masc]|Gloss=malam.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=151128|AlignEnd=151160|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
