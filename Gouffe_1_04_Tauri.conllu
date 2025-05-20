@@ -2074,9 +2074,9 @@
 10	dà	dà	ADP	_	_	7	comp:obl	_	AlignBegin=65496|AlignEnd=65558|GE=with|Gloss=with|nWord=9|RX=[ADP]
 11	gàːrim	gàːriː	NOUN	_	Definite=Cons	10	comp:obj	_	AlignBegin=65558|AlignEnd=65589|GE=[flour].[Masc]|Gloss=flour.Masc|nWord=10|RX=[NOUN]|wordform=gàːri
 12	maːgànîn	maːgàniː	NOUN	_	Definite=Def	11	mod	_	AlignBegin=65620|AlignEnd=65682|GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=11|RX=[NOUN]
-13	,	,	PUNCT	_	_	15	punct	_	AlignBegin=65682|AlignEnd=65744|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-14	wandà	wandà	PRON	_	_	16	comp:obj	_	AlignBegin=65744|AlignEnd=65806|GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
-15	ankà	ankà	AUX	_	_	11	mod@relcl	_	AlignBegin=65806|AlignEnd=65868|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
+13	,	,	PUNCT	_	_	14	punct	_	AlignBegin=65682|AlignEnd=65744|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+14	wandà	wandà	PRON	_	_	11	mod@relcl	_	AlignBegin=65744|AlignEnd=65806|GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
+15	ankà	ankà	AUX	_	_	14	comp:obj	_	AlignBegin=65806|AlignEnd=65868|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
 16	ajèː	ajèː	VERB	_	_	15	comp:aux	_	AlignBegin=65868|AlignEnd=65930|GE=put_aside|Gloss=put_aside|nWord=15|RX=[VERB]
 17	.	.	PUNCT	_	_	6	punct	_	AlignBegin=65930|AlignEnd=66000|Gloss=.|nWord=16|RX=[PUNCT]
 
@@ -2087,30 +2087,30 @@
 # text = in ankà gamè gàːrîn, sai à azà tukunyaː bisà wutaː, à sâː ruwaː, à hasà wutaː, à dahwà ruwaː.
 # text_en = Once you have mixed the flower, you put the pot on the fire, you pour water, you heat it until it boils.
 # text_orth = ’in ’ankà gamè gàaᵲiǹ, sai ’à ’azà tukunyaa bisà wutaa, ’à saà ᵲuwaa, ’à hasà wutaa, ’à dahwà ᵲuwaa.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=66000|AlignEnd=66042|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	7	mod	_	AlignBegin=66000|AlignEnd=66042|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	AlignBegin=66042|AlignEnd=66084|GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamè	gamàː	VERB	_	_	2	comp:aux	_	AlignBegin=66084|AlignEnd=66126|GE=[join].[Ach]|Gloss=join.Ach|nWord=3|RX=[VERB]
 4	gàːrîn	gàːriː	NOUN	_	Definite=Def	3	comp:obj	_	AlignBegin=66126|AlignEnd=66168|GE=[flour].[Masc].[Def]|Gloss=flour.Masc.Def|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=66168|AlignEnd=66210|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+5	,	,	PUNCT	_	_	1	punct	_	AlignBegin=66168|AlignEnd=66210|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	AlignBegin=66210|AlignEnd=66252|GE=then|Gloss=then|nWord=6|RX=[ADV]
-7	à	à	AUX	_	_	_	_	_	AlignBegin=66252|AlignEnd=66294|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
+7	à	à	AUX	_	_	0	root	_	AlignBegin=66252|AlignEnd=66294|GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 8	azà	azàː	VERB	_	_	7	comp:aux	_	AlignBegin=66294|AlignEnd=66336|GE=put|Gloss=put|nWord=8|RX=[VERB]
 9	tukunyaː	tukunyaː	NOUN	_	_	8	comp:obj	_	AlignBegin=66336|AlignEnd=66378|GE=[cooking_pot].[Fem]|Gloss=cooking_pot.Fem|nWord=9|RX=[NOUN]
-10	bisà	bisà	ADP	_	_	_	_	_	AlignBegin=66378|AlignEnd=66420|GE=on_top_of|Gloss=on_top_of|nWord=10|RX=[ADP]
+10	bisà	bisà	ADP	_	_	8	comp:obl	_	AlignBegin=66378|AlignEnd=66420|GE=on_top_of|Gloss=on_top_of|nWord=10|RX=[ADP]
 11	wutaː	wutaː	NOUN	_	_	10	comp:obj	_	AlignBegin=66420|AlignEnd=66462|GE=[fire].[Masc]|Gloss=fire.Masc|nWord=11|RX=[NOUN]
-12	,	,	PUNCT	_	_	_	_	_	AlignBegin=66462|AlignEnd=66504|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	à	à	AUX	_	_	_	_	_	AlignBegin=66504|AlignEnd=66546|GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
+12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=66462|AlignEnd=66504|GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	à	à	AUX	_	_	7	parataxis	_	AlignBegin=66504|AlignEnd=66546|GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
 14	sâː	sâː	VERB	_	_	13	comp:aux	_	AlignBegin=66546|AlignEnd=66588|GE=put|Gloss=put|nWord=14|RX=[VERB]
 15	ruwaː	ruwaː	NOUN	_	_	14	comp:obj	_	AlignBegin=66588|AlignEnd=66630|GE=[water].[Plur]|Gloss=water.Plur|nWord=15|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	AlignBegin=66630|AlignEnd=66672|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	à	à	AUX	_	_	_	_	_	AlignBegin=66672|AlignEnd=66714|GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=66630|AlignEnd=66672|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+17	à	à	AUX	_	_	13	parataxis	_	AlignBegin=66672|AlignEnd=66714|GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
 18	hasà	hasàː	VERB	_	_	17	comp:aux	_	AlignBegin=66714|AlignEnd=66756|GE=blow_fire|Gloss=blow_fire|nWord=18|RX=[VERB]
 19	wutaː	wutaː	NOUN	_	_	18	comp:obj	_	AlignBegin=66756|AlignEnd=66798|GE=[fire].[Masc]|Gloss=fire.Masc|nWord=19|RX=[NOUN]
-20	,	,	PUNCT	_	_	_	_	_	AlignBegin=66798|AlignEnd=66840|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-21	à	à	AUX	_	_	_	_	_	AlignBegin=66840|AlignEnd=66882|GE=[4].[Aor]|Gloss=4.Aor|nWord=21|RX=[AUX]
+20	,	,	PUNCT	_	_	21	punct	_	AlignBegin=66798|AlignEnd=66840|GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+21	à	à	AUX	_	_	17	parataxis	_	AlignBegin=66840|AlignEnd=66882|GE=[4].[Aor]|Gloss=4.Aor|nWord=21|RX=[AUX]
 22	dahwà	dahwàː	VERB	_	_	21	comp:aux	_	AlignBegin=66882|AlignEnd=66924|GE=boil|Gloss=boil|nWord=22|RX=[VERB]
 23	ruwaː	ruwaː	NOUN	_	_	22	comp:obj	_	AlignBegin=66924|AlignEnd=66966|GE=[water].[Plur]|Gloss=water.Plur|nWord=23|RX=[NOUN]
-24	.	.	PUNCT	_	_	_	_	_	AlignBegin=66966|AlignEnd=67000|Gloss=.|nWord=24|RX=[PUNCT]
+24	.	.	PUNCT	_	_	7	punct	_	AlignBegin=66966|AlignEnd=67000|Gloss=.|nWord=24|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_068-068
 # speaker_id = *
@@ -2119,15 +2119,15 @@
 # text = in ruwaː sunkà dàhu, à yi kùnuː.
 # text_en = When the water is hot, you make "kunu".
 # text_orth = ’in ᵲuwaa sunkà dàhu, ’à yi kùnuu.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=67000|AlignEnd=67111|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	ruwaː	ruwaː	NOUN	_	_	_	_	_	AlignBegin=67111|AlignEnd=67222|GE=[water].[Plur]|Gloss=water.Plur|nWord=2|RX=[NOUN]
-3	sunkà	sunkà	AUX	_	_	_	_	_	AlignBegin=67222|AlignEnd=67333|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
+1	in	in	SCONJ	_	_	6	mod	_	AlignBegin=67000|AlignEnd=67111|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	ruwaː	ruwaː	NOUN	_	_	3	subj	_	AlignBegin=67111|AlignEnd=67222|GE=[water].[Plur]|Gloss=water.Plur|nWord=2|RX=[NOUN]
+3	sunkà	sunkà	AUX	_	_	1	comp:obj	_	AlignBegin=67222|AlignEnd=67333|GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
 4	dàhu	dahwàː	VERB	_	_	3	comp:aux	_	AlignBegin=67333|AlignEnd=67444|GE=[boil].[Pass]|Gloss=boil.Pass|nWord=4|RX=[VERB]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=67444|AlignEnd=67555|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	à	à	AUX	_	_	_	_	_	AlignBegin=67555|AlignEnd=67666|GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	AlignBegin=67444|AlignEnd=67555|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	à	à	AUX	_	_	0	root	_	AlignBegin=67555|AlignEnd=67666|GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	AlignBegin=67666|AlignEnd=67777|GE=do|Gloss=do|nWord=7|RX=[VERB]
-8	kùnuː	kùnuː	NOUN	_	_	7	comp:pred	_	AlignBegin=67777|AlignEnd=67888|GE=[guinea_corn_drink].[Masc]|Gloss=guinea_corn_drink.Masc|nWord=8|RX=[NOUN]
-9	.	.	PUNCT	_	_	_	_	_	AlignBegin=67888|AlignEnd=68000|Gloss=.|nWord=9|RX=[PUNCT]
+8	kùnuː	kùnuː	NOUN	_	_	7	comp:obj	_	AlignBegin=67777|AlignEnd=67888|GE=[guinea_corn_drink].[Masc]|Gloss=guinea_corn_drink.Masc|nWord=8|RX=[NOUN]
+9	.	.	PUNCT	_	_	6	punct	_	AlignBegin=67888|AlignEnd=68000|Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_069-069
 # speaker_id = *
@@ -2136,16 +2136,16 @@
 # text = in kùnuː yah huːcèː, mài sôː shì shaː.
 # text_en = When the 'kunu" has rested, who wants to can drink it.
 # text_orth = ’in kùnuu yah huucèe, mài soò šì šaa.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=68000|AlignEnd=68100|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	kùnuː	kùnuː	NOUN	_	_	_	_	_	AlignBegin=68100|AlignEnd=68200|GE=[guinea_corn_drink].[Masc]|Gloss=guinea_corn_drink.Masc|nWord=2|RX=[NOUN]
-3	yah	yak	AUX	_	_	_	_	_	AlignBegin=68200|AlignEnd=68300|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
+1	in	in	SCONJ	_	_	8	mod	_	AlignBegin=68000|AlignEnd=68100|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	kùnuː	kùnuː	NOUN	_	_	3	subj	_	AlignBegin=68100|AlignEnd=68200|GE=[guinea_corn_drink].[Masc]|Gloss=guinea_corn_drink.Masc|nWord=2|RX=[NOUN]
+3	yah	yak	AUX	_	_	1	comp:obj	_	AlignBegin=68200|AlignEnd=68300|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	huːcèː	huːcèː	VERB	_	_	3	comp:aux	_	AlignBegin=68300|AlignEnd=68400|GE=rest|Gloss=rest|nWord=4|RX=[VERB]
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=68400|AlignEnd=68500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	mài	mài	PART	_	_	_	_	_	AlignBegin=68500|AlignEnd=68600|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=6|RX=[PART]
-7	sôː	sôː	VERB	_	_	_	_	_	AlignBegin=68600|AlignEnd=68700|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=7|RX=[VERB]
-8	shì	shì	AUX	_	_	_	_	_	AlignBegin=68700|AlignEnd=68800|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	AlignBegin=68400|AlignEnd=68500|GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	mài	mài	PART	_	_	8	subj	_	AlignBegin=68500|AlignEnd=68600|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=6|RX=[PART]
+7	sôː	sôː	VERB	_	_	6	comp:obj	_	AlignBegin=68600|AlignEnd=68700|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=7|RX=[VERB]
+8	shì	shì	AUX	_	_	0	root	_	AlignBegin=68700|AlignEnd=68800|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	shaː	shaː	VERB	_	_	8	comp:aux	_	AlignBegin=68800|AlignEnd=68900|GE=drink|Gloss=drink|nWord=9|RX=[VERB]
-10	.	.	PUNCT	_	_	_	_	_	AlignBegin=68900|AlignEnd=69000|Gloss=.|nWord=10|RX=[PUNCT]
+10	.	.	PUNCT	_	_	8	punct	_	AlignBegin=68900|AlignEnd=69000|Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_070-070
 # speaker_id = *
