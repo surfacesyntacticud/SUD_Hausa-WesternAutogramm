@@ -186,7 +186,7 @@
 2	nàː	nàː	AUX	_	_	_	_	_	AlignBegin=6056|AlignEnd=6112|GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=2|RX=[AUX]
 3	nan	nan	ADV	_	_	_	_	_	AlignBegin=6112|AlignEnd=6168|GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	zaman	zamaː	VERB	_	Definite=Cons	_	_	_	AlignBegin=6168|AlignEnd=6196|GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
-5	duːniyàː	duːniyàː	NOUN	_	_	4	comp:obj	_	AlignBegin=6224|AlignEnd=6280|GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
+5	duːniyàː	duːniyàː	NOUN	_	_	4	udep	_	AlignBegin=6224|AlignEnd=6280|GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=6280|AlignEnd=6336|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	kullun	kullun	ADV	_	_	_	_	_	AlignBegin=6336|AlignEnd=6392|GE=always|Gloss=always|nWord=7|RX=[ADV]
 8	tanàː	tanàː	AUX	_	_	_	_	_	AlignBegin=6392|AlignEnd=6448|GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=8|RX=[AUX]
@@ -215,7 +215,7 @@
 8	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=7413|AlignEnd=7472|GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
 9	ta	ta	PRON	_	_	8	subj	_	AlignBegin=7472|AlignEnd=7531|GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
 10	tàhiyàː	tàhiyàː	VERB	_	_	8	comp:aux	_	AlignBegin=7531|AlignEnd=7590|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
-11	wurim	wuriː	NOUN	_	Definite=Cons	10	comp:obj	_	AlignBegin=7590|AlignEnd=7620|GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
+11	wurim	wuriː	NOUN	_	Definite=Cons	10	udep	_	AlignBegin=7590|AlignEnd=7620|GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
 12	bìkiː	bìkiː	NOUN	_	_	11	mod	_	AlignBegin=7649|AlignEnd=7708|GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	_	_	_	AlignBegin=7708|AlignEnd=7767|GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	can	can	ADV	_	_	_	_	_	AlignBegin=7767|AlignEnd=7826|GE=[Dist]|Gloss=Dist|nWord=14|RX=[ADV]
@@ -252,7 +252,7 @@
 17	zâː	zâː	AUX	_	_	_	_	_	AlignBegin=9425|AlignEnd=9520|GE=[Fut]|Gloss=Fut|nWord=16|RX=[AUX]
 18	ta	ta	PRON	_	_	17	subj	_	AlignBegin=9520|AlignEnd=9615|GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
 19	tàhiyàː	tàhiyàː	VERB	_	_	17	comp:aux	_	AlignBegin=9615|AlignEnd=9710|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
-20	wurim	wuriː	NOUN	_	Definite=Cons	19	comp:obj	_	AlignBegin=9710|AlignEnd=9758|GE=[place].[Masc]|Gloss=place.Masc|nWord=19|RX=[NOUN]|wordform=wuri
+20	wurim	wuriː	NOUN	_	Definite=Cons	19	udep	_	AlignBegin=9710|AlignEnd=9758|GE=[place].[Masc]|Gloss=place.Masc|nWord=19|RX=[NOUN]|wordform=wuri
 21	bìkiː	bìkiː	NOUN	_	_	20	mod	_	AlignBegin=9805|AlignEnd=9900|GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
 22	.	.	PUNCT	_	_	_	_	_	AlignBegin=9900|AlignEnd=10000|Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -559,7 +559,7 @@
 23	yi	yi	VERB	_	_	22	comp:aux	_	AlignBegin=19483|AlignEnd=19506|GE=do|Gloss=do|nWord=22|RX=[VERB]
 24-25	kiràntà	_	_	_	_	_	_	_	_
 24	kiràn	kiràː	VERB	_	Definite=Cons	_	_	_	AlignBegin=19506|AlignEnd=19514|GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=kirà
-25	-tà	-tà	PRON	_	_	24	comp:obj	_	AlignBegin=19522|AlignEnd=19529|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=23|RX=[PRON]
+25	-tà	-tà	PRON	_	_	24	udep	_	AlignBegin=19522|AlignEnd=19529|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=23|RX=[PRON]
 26	,	,	PUNCT	_	_	_	_	_	AlignBegin=19529|AlignEnd=19552|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 27	yac	yak	AUX	_	_	_	_	_	AlignBegin=19552|AlignEnd=19575|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
 28	cêː	cêː	VERB	_	_	27	comp:aux	_	AlignBegin=19575|AlignEnd=19598|GE=say|Gloss=say|nWord=26|RX=[VERB]
@@ -650,7 +650,7 @@
 13	tà	tà	AUX	_	_	_	_	_	AlignBegin=21550|AlignEnd=21600|GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=12|RX=[AUX]
 14	kwaːnaː	kwaːnaː	VERB	_	_	13	comp:aux	_	AlignBegin=21600|AlignEnd=21650|GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
 15-16	wuriːnai	_	_	_	_	_	_	_	_
-15	wuriː	wuriː	NOUN	_	_	14	comp:obj	_	AlignBegin=21650|AlignEnd=21667|GE=[place].[Masc]|Gloss=place.Masc|nWord=14|RX=[NOUN]
+15	wuriː	wuriː	NOUN	_	_	14	udep	_	AlignBegin=21650|AlignEnd=21667|GE=[place].[Masc]|Gloss=place.Masc|nWord=14|RX=[NOUN]
 16	-nai	-ai	PRON	_	_	_	_	_	AlignBegin=21684|AlignEnd=21700|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=14|RX=[PRON]|wordform=-ai
 17	,	,	PUNCT	_	_	_	_	_	AlignBegin=21700|AlignEnd=21750|GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 18	tac	tak	AUX	_	_	_	_	_	AlignBegin=21750|AlignEnd=21800|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=16|RX=[AUX]
@@ -727,7 +727,7 @@
 17	mùtun	mùtun	NOUN	_	_	18	subj	_	AlignBegin=24464|AlignEnd=24493|GE=[person].[Masc]|Gloss=person.Masc|nWord=17|RX=[NOUN]
 18	shì	shì	AUX	_	_	_	_	_	AlignBegin=24493|AlignEnd=24522|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	AlignBegin=24522|AlignEnd=24551|GE=do|Gloss=do|nWord=19|RX=[VERB]
-20	ta	ta	ADP	_	_	19	comp:obl	_	AlignBegin=24551|AlignEnd=24580|GE=via|Gloss=via|nWord=20|RX=[ADP]
+20	ta	ta	ADP	_	_	19	comp:pred	_	AlignBegin=24551|AlignEnd=24580|GE=via|Gloss=via|nWord=20|RX=[ADP]
 21	zuhwàː	zuhwàː	NOUN	_	_	20	comp:obj	_	AlignBegin=24580|AlignEnd=24609|GE=[perspiration].[Fem]|Gloss=perspiration.Fem|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	_	_	_	AlignBegin=24609|AlignEnd=24638|GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	bâː	bâː	PREDPART	_	_	_	_	_	AlignBegin=24638|AlignEnd=24667|GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=23|RX=[PREDPART]
@@ -1088,7 +1088,7 @@
 6	,	,	PUNCT	_	_	_	_	_	AlignBegin=36225|AlignEnd=36270|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	tanàː	tanàː	AUX	_	_	_	_	_	AlignBegin=36270|AlignEnd=36315|GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=7|RX=[AUX]
 8	bìɗam	bìɗaː	VERB	_	Definite=Cons	7	comp:aux	_	AlignBegin=36315|AlignEnd=36337|GE=[look_for].[Nmlz].[Masc]|Gloss=look_for.Nmlz.Masc|nWord=8|RX=[VERB]|wordform=bìɗa
-9	mutuwàː	mutuwàː	NOUN	_	_	8	comp:obj	_	AlignBegin=36360|AlignEnd=36405|GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
+9	mutuwàː	mutuwàː	NOUN	_	_	8	udep	_	AlignBegin=36360|AlignEnd=36405|GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	AlignBegin=36405|AlignEnd=36450|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	don	don	SCONJ	_	_	_	_	_	AlignBegin=36450|AlignEnd=36495|GE=because|Gloss=because|nWord=11|RX=[SCONJ]
 12	kâɗ	kaɗà	PART	_	_	_	_	_	AlignBegin=36495|AlignEnd=36540|GE=[Neg]|Gloss=Neg|nWord=12|RX=[PART]
@@ -1133,7 +1133,7 @@
 21	tat	tak	AUX	_	_	_	_	_	AlignBegin=37660|AlignEnd=37693|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=21|RX=[AUX]
 22-23	tàhiyàttà	_	_	_	_	_	_	_	_
 22	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons	21	comp:aux	_	AlignBegin=37693|AlignEnd=37704|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=22|RX=[VERB]|wordform=tàhiyà
-23	-tà	-tà	PRON	_	_	22	comp:obj	_	AlignBegin=37715|AlignEnd=37726|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]
+23	-tà	-tà	PRON	_	_	22	udep	_	AlignBegin=37715|AlignEnd=37726|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]
 24	,	,	PUNCT	_	_	_	_	_	AlignBegin=37726|AlignEnd=37759|GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	taː	taː	AUX	_	_	_	_	_	AlignBegin=37759|AlignEnd=37792|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=24|RX=[AUX]
 26	shaː	shaː	VERB	_	_	25	comp:aux	_	AlignBegin=37792|AlignEnd=37825|GE=drink/suffer|Gloss=drink/suffer|nWord=25|RX=[VERB]
@@ -1153,7 +1153,7 @@
 2	tat	tak	AUX	_	_	1	comp:obj	_	AlignBegin=38040|AlignEnd=38080|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàttà	_	_	_	_	_	_	_	_
 3	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons	2	comp:aux	_	AlignBegin=38080|AlignEnd=38093|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=tàhiyà
-4	-tà	-tà	PRON	_	_	3	comp:obj	_	AlignBegin=38106|AlignEnd=38120|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]
+4	-tà	-tà	PRON	_	_	3	udep	_	AlignBegin=38106|AlignEnd=38120|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]
 5	,	,	PUNCT	_	_	_	_	_	AlignBegin=38120|AlignEnd=38160|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=38160|AlignEnd=38200|GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
 7	kuma	kuma	TopPART	_	_	_	_	_	AlignBegin=38200|AlignEnd=38240|GE=also|Gloss=also|nWord=6|RX=[TOPPART]
@@ -1236,7 +1236,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=40057|AlignEnd=40076|GE=do|Gloss=do|nWord=4|RX=[VERB]
 5-6	zamaːnai	_	_	_	_	_	_	_	_
 5	zamaː	zamaː	VERB	_	_	_	_	_	AlignBegin=40076|AlignEnd=40082|GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=5|RX=[VERB]
-6	-nai	-ai	PRON	_	_	5	comp:obj	_	AlignBegin=40088|AlignEnd=40095|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=5|RX=[PRON]|wordform=-ai
+6	-nai	-ai	PRON	_	_	5	udep	_	AlignBegin=40088|AlignEnd=40095|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=5|RX=[PRON]|wordform=-ai
 7	cikin	cikin	ADP	_	_	_	_	_	AlignBegin=40095|AlignEnd=40114|GE=in(side)|Gloss=in(side)|nWord=6|RX=[ADP]
 8-9	gidaːnai	_	_	_	_	_	_	_	_
 8	gidaː	gidaː	NOUN	_	_	7	comp:obj	_	AlignBegin=40114|AlignEnd=40120|GE=[house].[Masc]|Gloss=house.Masc|nWord=7|RX=[NOUN]
@@ -1284,8 +1284,8 @@
 49	,	,	PUNCT	_	_	_	_	_	AlignBegin=40874|AlignEnd=40893|GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
 50	yay	yak	AUX	_	_	_	_	_	AlignBegin=40893|AlignEnd=40912|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
 51	yi	yi	VERB	_	_	50	comp:aux	_	AlignBegin=40912|AlignEnd=40931|GE=do|Gloss=do|nWord=49|RX=[VERB]
-52	ta	ta	ADP	_	_	51	comp:obl	_	AlignBegin=40931|AlignEnd=40950|GE=via|Gloss=via|nWord=50|RX=[ADP]
-53	mutà	mutà	PRON	_	_	_	_	_	AlignBegin=40950|AlignEnd=40969|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
+52	ta	ta	ADP	_	_	51	comp:pred	_	AlignBegin=40931|AlignEnd=40950|GE=via|Gloss=via|nWord=50|RX=[ADP]
+53	mutà	mutà	PRON	_	_	52	comp:obj	_	AlignBegin=40950|AlignEnd=40969|GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
 54	tuːsàː	tuːsàː	NOUN	_	_	_	_	_	AlignBegin=40969|AlignEnd=40988|GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
 55	.	.	PUNCT	_	_	_	_	_	AlignBegin=40988|AlignEnd=41000|Gloss=.|nWord=53|RX=[PUNCT]
 
@@ -1325,8 +1325,8 @@
 27	cêː	cêː	VERB	_	_	26	comp:aux	_	AlignBegin=42264|AlignEnd=42286|GE=say|Gloss=say|nWord=27|RX=[VERB]
 28	shì	shì	AUX	_	_	_	_	_	AlignBegin=42286|AlignEnd=42308|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
 29	yi	yi	VERB	_	_	28	comp:aux	_	AlignBegin=42308|AlignEnd=42330|GE=do|Gloss=do|nWord=29|RX=[VERB]
-30	ta	ta	ADP	_	_	29	comp:obl	_	AlignBegin=42330|AlignEnd=42352|GE=via|Gloss=via|nWord=30|RX=[ADP]
-31	tàhiyàː	tàhiyàː	VERB	_	_	_	_	_	AlignBegin=42352|AlignEnd=42374|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
+30	ta	ta	ADP	_	_	29	comp:pred	_	AlignBegin=42330|AlignEnd=42352|GE=via|Gloss=via|nWord=30|RX=[ADP]
+31	tàhiyàː	tàhiyàː	VERB	_	_	30	comp:obj	_	AlignBegin=42352|AlignEnd=42374|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
 32	,	,	PUNCT	_	_	_	_	_	AlignBegin=42374|AlignEnd=42396|GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 33	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=42396|AlignEnd=42418|GE=[3Masc]|Gloss=3Masc|nWord=33|RX=[PRON]
 34	mài	mài	PART	_	_	_	_	_	AlignBegin=42418|AlignEnd=42440|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
@@ -1369,7 +1369,7 @@
 5	bàtà	bàtà	AUX	_	_	_	_	_	AlignBegin=43332|AlignEnd=43415|GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=5|RX=[AUX]
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	AlignBegin=43415|AlignEnd=43498|GE=return|Gloss=return|nWord=6|RX=[VERB]
 7	yîm	yîː	VERB	_	Definite=Cons	_	_	_	AlignBegin=43498|AlignEnd=43540|GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
-8	bùtum	bùtu	NOUN	_	Definite=Cons	7	comp:obj	_	AlignBegin=43581|AlignEnd=43623|GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
+8	bùtum	bùtu	NOUN	_	Definite=Cons	7	udep	_	AlignBegin=43581|AlignEnd=43623|GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
 9	mài	mài	PART	_	_	_	_	_	AlignBegin=43664|AlignEnd=43747|GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	_	_	_	AlignBegin=43747|AlignEnd=43830|GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	ba	ba	PART	_	_	_	_	_	AlignBegin=43830|AlignEnd=43913|GE=[Neg]|Gloss=Neg|nWord=11|RX=[PART]
@@ -1394,7 +1394,7 @@
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=44497|AlignEnd=44568|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 10	bâːta	bâːta	AUX	_	_	_	_	_	AlignBegin=44568|AlignEnd=44639|GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=9|RX=[AUX]
 11	sôn	sôː	VERB	_	Definite=Cons	10	comp:aux	_	AlignBegin=44639|AlignEnd=44675|GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=10|RX=[VERB]|wordform=sô
-12	koːwaː	koːwaː	PRON	_	_	11	comp:obj	_	AlignBegin=44710|AlignEnd=44781|GE=everyone|Gloss=everyone|nWord=11|RX=[PRON]
+12	koːwaː	koːwaː	PRON	_	_	11	udep	_	AlignBegin=44710|AlignEnd=44781|GE=everyone|Gloss=everyone|nWord=11|RX=[PRON]
 13	sai	sai	ADV	_	_	_	_	_	AlignBegin=44781|AlignEnd=44852|GE=then|Gloss=then|nWord=12|RX=[ADV]
 14	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=44852|AlignEnd=44923|GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
 15	.	.	PUNCT	_	_	_	_	_	AlignBegin=44923|AlignEnd=45000|Gloss=.|nWord=14|RX=[PUNCT]
