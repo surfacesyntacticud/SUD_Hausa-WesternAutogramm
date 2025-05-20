@@ -41,7 +41,7 @@
 2	dà	dà	ADP	_	_	_	_	_	AlignBegin=1250|AlignEnd=1500|GE=with|Gloss=with|nWord=2|RX=[ADP]
 3-4	màːtashshì	_	_	_	_	_	_	_	_
 3	màːtash	màːtaː	NOUN	_	Definite=Cons	2	comp:obj	_	AlignBegin=1500|AlignEnd=1583|GE=[wife].[Fem]|Gloss=wife.Fem|nWord=3|RX=[NOUN]|wordform=màːta
-4	-shì	-shì	PRON	_	_	_	_	_	AlignBegin=1666|AlignEnd=1750|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]
+4	-shì	-shì	PRON	_	_	3	mod	_	AlignBegin=1666|AlignEnd=1750|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]
 5	.	.	PUNCT	_	_	_	_	_	AlignBegin=1750|AlignEnd=2000|Gloss=.|nWord=4|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_4_03-03
@@ -184,7 +184,7 @@
 16	ràkkyi	ràkkyaː	VERB	_	_	15	comp:aux	_	AlignBegin=5689|AlignEnd=5742|GE=accompany|Gloss=accompany|nWord=14|RX=[VERB]
 17-18	uwattà	_	_	_	_	_	_	_	_
 17	uwat	uwaː	NOUN	_	Definite=Cons	16	comp:obj	_	AlignBegin=5742|AlignEnd=5760|GE=[mother].[Fem]|Gloss=mother.Fem|nWord=15|RX=[NOUN]|wordform=uwa
-18	-tà	-tà	PRON	_	_	_	_	_	AlignBegin=5778|AlignEnd=5795|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=15|RX=[PRON]
+18	-tà	-tà	PRON	_	_	17	mod	_	AlignBegin=5778|AlignEnd=5795|GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=15|RX=[PRON]
 19	,	,	PUNCT	_	_	_	_	_	AlignBegin=5795|AlignEnd=5848|GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 20	shiː	shiː	PRON	_	_	_	_	_	AlignBegin=5848|AlignEnd=5901|GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
 21	ɗai	ɗai	ADJ	_	_	_	_	_	AlignBegin=5901|AlignEnd=5954|GE=same/alone|Gloss=same/alone|nWord=18|RX=[ADJ]
@@ -476,7 +476,7 @@
 2	bàri	bàri	VERB	_	_	_	_	_	AlignBegin=15050|AlignEnd=15100|GE=[let].[Juss]|Gloss=let.Juss|nWord=2|RX=[VERB]
 3	in	in	SCONJ	_	_	_	_	_	AlignBegin=15100|AlignEnd=15150|GE=if|Gloss=if|nWord=3|RX=[SCONJ]
 4	yi	yi	VERB	_	_	_	_	_	AlignBegin=15150|AlignEnd=15200|GE=do|Gloss=do|nWord=4|RX=[VERB]
-5	wata	wata	DET	_	_	_	_	_	AlignBegin=15200|AlignEnd=15250|GE=[some].[Fem]|Gloss=some.Fem|nWord=5|RX=[DET]
+5	wata	wata	DET	_	_	6	det	_	AlignBegin=15200|AlignEnd=15250|GE=[some].[Fem]|Gloss=some.Fem|nWord=5|RX=[DET]
 6	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	_	_	_	AlignBegin=15250|AlignEnd=15300|GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	AlignBegin=15300|AlignEnd=15350|GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	in	in	SCONJ	_	_	_	_	_	AlignBegin=15350|AlignEnd=15400|GE=if|Gloss=if|nWord=8|RX=[SCONJ]
