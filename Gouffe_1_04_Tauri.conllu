@@ -1518,13 +1518,13 @@
 19	shì	shì	AUX	_	_	16	parataxis	_	AlignBegin=45368|AlignEnd=45391|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
 20	azàː	azàː	VERB	_	_	19	comp:aux	_	AlignBegin=45391|AlignEnd=45414|GE=put|Gloss=put|nWord=18|RX=[VERB]
 21	,	,	PUNCT	_	_	22	punct	_	AlignBegin=45414|AlignEnd=45437|GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-22	nam	nan	ADV	_	_	20	mod	_	AlignBegin=45437|AlignEnd=45460|GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
-23	bisà	bisà	ADP	_	_	22	mod	_	AlignBegin=45460|AlignEnd=45483|GE=on_top_of|Gloss=on_top_of|nWord=21|RX=[ADP]
+22	nam	nan	ADV	_	_	20	comp:obj@L	_	AlignBegin=45437|AlignEnd=45460|GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
+23	bisà	bisà	ADP	_	_	22	conj:dicto	_	AlignBegin=45460|AlignEnd=45483|GE=on_top_of|Gloss=on_top_of|nWord=21|RX=[ADP]
 24	saːyèn	saːyèː	NOUN	_	Definite=Cons	23	comp:obj	_	AlignBegin=45483|AlignEnd=45495|GE=[root].[Masc]|Gloss=root.Masc|nWord=22|RX=[NOUN]|wordform=saːyè
 25	runhuː	runhuː	NOUN	_	_	24	mod	_	AlignBegin=45506|AlignEnd=45529|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=23|RX=[NOUN]
 26	,	,	PUNCT	_	_	28	punct	_	AlignBegin=45529|AlignEnd=45552|GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 27	dàidai	dàidai	SCONJ	_	_	28	mod	_	AlignBegin=45552|AlignEnd=45575|GE=just|Gloss=just|nWord=25|RX=[SCONJ]
-28	indà	indà	ADV	_	_	20	mod	_	AlignBegin=45575|AlignEnd=45598|GE=where|Gloss=where|nWord=26|RX=[ADV]
+28	indà	indà	ADV	_	_	23	conj:dicto	_	AlignBegin=45575|AlignEnd=45598|GE=where|Gloss=where|nWord=26|RX=[ADV]
 29	ya’	yak	AUX	_	_	28	mod@relcl	_	AlignBegin=45598|AlignEnd=45621|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=27|RX=[AUX]
 30	aunàː	aunàː	VERB	_	_	29	comp:aux	_	AlignBegin=45621|AlignEnd=45644|GE=measure|Gloss=measure|nWord=28|RX=[VERB]
 31	,	,	PUNCT	_	_	32	punct	_	AlignBegin=45644|AlignEnd=45667|GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
@@ -1567,25 +1567,25 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 47000, 48000
-# text = in yat tàhiyàːtai, bâːshi koːmàːwaː wurîn, sai wata lahàdi taː zoː.
+# text = in yat tàhiyàːtai , bâːshi koːmàːwaː wurîn , sai wata lahàdi taː zoː .
 # text_en = After you have left, you don't go back until the following Sunday.
 # text_orth = ’in yat tàhiyàatai, baà ši koomàawaa wuᵲiǹ, sai wata lahàdi taa zoo.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=47000|AlignEnd=47071|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	AlignBegin=47000|AlignEnd=47071|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	AlignBegin=47071|AlignEnd=47142|GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàːtai	_	_	_	_	_	_	_	_
 3	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	AlignBegin=47142|AlignEnd=47166|GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]
-4	-tai	-ai	PRON	_	_	3	comp:obj	_	AlignBegin=47190|AlignEnd=47213|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]|wordform=-ai
-5	,	,	PUNCT	_	_	_	_	_	AlignBegin=47213|AlignEnd=47284|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-6	bâːshi	bâːshi	AUX	_	_	_	_	_	AlignBegin=47284|AlignEnd=47355|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=5|RX=[AUX]
+4	-tai	-ai	PRON	_	_	3	udep	_	AlignBegin=47190|AlignEnd=47213|GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]|wordform=-ai
+5	,	,	PUNCT	_	_	1	punct	_	AlignBegin=47213|AlignEnd=47284|GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+6	bâːshi	bâːshi	AUX	_	_	0	root	_	AlignBegin=47284|AlignEnd=47355|GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=5|RX=[AUX]
 7	koːmàːwaː	koːmàː	VERB	_	_	6	comp:aux	_	AlignBegin=47355|AlignEnd=47391|GE=return|Gloss=return.Nmlz.Fem|nWord=6|RX=[VERB]|wordform=koːmàː
-8	wurîn	wuriː	NOUN	_	_	7	comp:obj	_	AlignBegin=47426|AlignEnd=47497|GE=[place].[Masc].[Def]|Gloss=place.Masc.Def|nWord=7|RX=[NOUN]
+8	wurîn	wuriː	NOUN	_	_	7	comp:obj@G	_	AlignBegin=47426|AlignEnd=47497|GE=[place].[Masc].[Def]|Gloss=place.Masc.Def|nWord=7|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	AlignBegin=47497|AlignEnd=47568|GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-10	sai	sai	ADV	_	_	_	_	_	AlignBegin=47568|AlignEnd=47639|GE=then|Gloss=then|nWord=9|RX=[ADV]
+10	sai	sai	SCONJ	_	_	7	mod	_	AlignBegin=47568|AlignEnd=47639|GE=until|Gloss=until|nWord=9|RX=[SCONJ]
 11	wata	wata	DET	_	_	12	det	_	AlignBegin=47639|AlignEnd=47710|GE=[some].[Fem]|Gloss=some.Fem|nWord=10|RX=[DET]
-12	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=47710|AlignEnd=47781|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
-13	taː	taː	AUX	_	_	_	_	_	AlignBegin=47781|AlignEnd=47852|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=12|RX=[AUX]
+12	lahàdi	lahàdi	NOUN	_	_	13	subj	_	AlignBegin=47710|AlignEnd=47781|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=11|RX=[NOUN]
+13	taː	taː	AUX	_	_	10	comp:obj	_	AlignBegin=47781|AlignEnd=47852|GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=12|RX=[AUX]
 14	zoː	zoː	VERB	_	_	13	comp:aux	_	AlignBegin=47852|AlignEnd=47923|GE=come|Gloss=come|nWord=13|RX=[VERB]
-15	.	.	PUNCT	_	_	_	_	_	AlignBegin=47923|AlignEnd=48000|Gloss=.|nWord=14|RX=[PUNCT]
+15	.	.	PUNCT	_	_	6	punct	_	AlignBegin=47923|AlignEnd=48000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_049-049
 # speaker_id = *
@@ -1594,20 +1594,20 @@
 # text = in wata lahàdi taz zoː, sai shì koːmàː, can wurin runhuː.
 # text_en = The following Sunday, you go back to where the cassia is.
 # text_orth = ’in wata lahàdi taz zoo, sai šì koomàa, can wuᵲin ᵲunhuu.
-1	in	in	SCONJ	_	_	_	_	_	AlignBegin=48000|AlignEnd=48071|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	8	mod	_	AlignBegin=48000|AlignEnd=48071|GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	wata	wata	DET	_	_	3	det	_	AlignBegin=48071|AlignEnd=48142|GE=[some].[Fem]|Gloss=some.Fem|nWord=2|RX=[DET]
-3	lahàdi	lahàdi	NOUN	_	_	_	_	_	AlignBegin=48142|AlignEnd=48213|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=3|RX=[NOUN]
+3	lahàdi	lahàdi	NOUN	_	_	4	subj	_	AlignBegin=48142|AlignEnd=48213|GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=3|RX=[NOUN]
 4	taz	tak	AUX	_	_	_	_	_	AlignBegin=48213|AlignEnd=48284|GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	AlignBegin=48284|AlignEnd=48355|GE=come|Gloss=come|nWord=5|RX=[VERB]
-6	,	,	PUNCT	_	_	_	_	_	AlignBegin=48355|AlignEnd=48426|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	,	,	PUNCT	_	_	1	punct	_	AlignBegin=48355|AlignEnd=48426|GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	AlignBegin=48426|AlignEnd=48497|GE=then|Gloss=then|nWord=7|RX=[ADV]
-8	shì	shì	AUX	_	_	_	_	_	AlignBegin=48497|AlignEnd=48568|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
+8	shì	shì	AUX	_	_	0	root	_	AlignBegin=48497|AlignEnd=48568|GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	koːmàː	koːmàː	VERB	_	_	8	comp:aux	_	AlignBegin=48568|AlignEnd=48639|GE=return|Gloss=return|nWord=9|RX=[VERB]
-10	,	,	PUNCT	_	_	_	_	_	AlignBegin=48639|AlignEnd=48710|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	can	can	ADV	_	_	_	_	_	AlignBegin=48710|AlignEnd=48781|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
-12	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	AlignBegin=48781|AlignEnd=48817|GE=[place].[Masc]|Gloss=place.Masc|nWord=12|RX=[NOUN]|wordform=wuri
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=48639|AlignEnd=48710|GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	can	can	ADV	_	_	9	comp:obj@G	_	AlignBegin=48710|AlignEnd=48781|GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
+12	wurin	wuriː	NOUN	_	Definite=Cons	11	conj:dicto	_	AlignBegin=48781|AlignEnd=48817|GE=[place].[Masc]|Gloss=place.Masc|nWord=12|RX=[NOUN]|wordform=wuri
 13	runhuː	runhuː	NOUN	_	_	12	mod	_	AlignBegin=48852|AlignEnd=48923|GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=13|RX=[NOUN]
-14	.	.	PUNCT	_	_	_	_	_	AlignBegin=48923|AlignEnd=49000|Gloss=.|nWord=14|RX=[PUNCT]
+14	.	.	PUNCT	_	_	8	punct	_	AlignBegin=48923|AlignEnd=49000|Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_050-050
 # speaker_id = *
