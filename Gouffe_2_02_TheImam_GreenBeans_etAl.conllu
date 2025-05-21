@@ -3116,7 +3116,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 107000, 108000
-# text = sabòːdà hakà nan, naz zoː ìm mukà gòːdiyaː.
+# text = sabòːdà hakà nan , naz zoː ìn mukà gòːdiyaː .
 # text_en = That's why I have come to thank you.
 # text_orth = sabòo dà hakà nan, naz zoo ’ìm mukà gòodiyaa.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
@@ -3125,11 +3125,11 @@
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	naz	nak	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
 6	zoː	zoː	VERB	_	_	5	comp:aux	_	GE=come|Gloss=come|nWord=6|RX=[VERB]
-7	ìn	ìn	AUX	_	_	_	_	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
-8-9	mukà	_	_	_	_	_	_	_	_
-8	mu	mu	PRON	_	_	_	_	_	GE=[1Plur]|Gloss=1Plur|nWord=8|RX=[PRON]
-9	-kà	-kà	PRON	_	_	_	_	_	GE=[2Masc].[Gen]|Gloss=2Masc.Gen|nWord=8|RX=[PRON]
-10	gòːdiyaː	gòːdiyaː	NOUN	_	_	_	_	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=9|RX=[NOUN]
+7-8	ìn	_	_	_	_	_	_	_	_
+7	ìn	ìn	AUX	_	_	6	mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
+8	yi	yi	VERB	_	_	7	comp:aux	_	GE=[1Sing].[Aor]|Gloss=do|nWord=7|RX=[VERB]
+9	mukà	mukà	PRON	_	_	8	comp:obl	_	GE=[1Plur]|Gloss=1Plur.Dat|nWord=8|RX=[PRON]
+10	gòːdiyaː	gòːdiyaː	NOUN	_	_	8	comp:pred	_	Gloss=thanks.Fem|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_104-104
@@ -3997,11 +3997,11 @@
 17	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 18	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=16|RX=[AUX]
 19	bâkkaː	bâkkaː	VERB	_	_	18	comp:aux	_	GE=[give].[Dir]|Gloss=give.Dir|nWord=17|RX=[VERB]
-20	su	su	PRON	_	_	19	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=18|RX=[PRON]
+20	su	su	PRON	_	_	19	comp:obj@R	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=18|RX=[PRON]
 21-22	naːsù	_	_	_	_	_	_	_	_
-21	naː	naː	AUX	_	_	_	_	_	GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=19|RX=[AUX]
-22	-sù	-sù	PRON	_	_	_	_	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=19|RX=[PRON]
-23	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=20|RX=[NOUN]
+21	naː	naː	AUX	_	_	23	mod	_	GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=19|RX=[AUX]
+22	-sù	-sù	PRON	_	_	21	mod/m	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=19|RX=[PRON]
+23	jìmɓiriː	jìmɓiriː	NOUN	_	_	19	comp:obj@T	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=20|RX=[NOUN]
 24	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_133-133
@@ -4033,10 +4033,10 @@
 20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	kì	kì	AUX	_	_	_	_	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=21|RX=[AUX]
 22	baː	baː	VERB	_	_	21	comp:aux	_	GE=give|Gloss=give|nWord=22|RX=[VERB]
-23	mù	mù	AUX	_	_	_	_	_	GE=[1Plur].[Aor]|Gloss=1Plur.Aor|nWord=23|RX=[AUX]
+23	mù	mù	AUX	_	_	22	comp:obj@R	_	GE=[1Plur].[Aor]|Gloss=1Plur.Aor|nWord=23|RX=[AUX]
 24-25	naːmù	_	_	_	_	_	_	_	_
-24	naː	naː	AUX	_	_	_	_	_	GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=24|RX=[AUX]
-25	-mù	-mù	PRON	_	_	_	_	_	GE=[1Plur].[Poss]|Gloss=1Plur.Poss|nWord=24|RX=[PRON]
+24	naː	naː	AUX	_	_	22	comp:obj@T	_	GE=[1Sing].[Perf]|Gloss=1Sing.Perf|nWord=24|RX=[AUX]
+25	-mù	-mù	PRON	_	_	24	mod/m	_	GE=[1Plur].[Poss]|Gloss=1Plur.Poss|nWord=24|RX=[PRON]
 26	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=25|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_134-134
