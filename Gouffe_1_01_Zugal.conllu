@@ -2941,7 +2941,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 92000, 93000
-# text = in yaɓ ɓoːyèː su, in dareː yay yi, ita màccen dà mùtun kà sôː, im mùtun yat taːràː dà ita, bâːshi wankè màzàːkuːtàːtai dà ruwaː, bâːshi shaːhèːwaː dà wani ƙyalleː, sai shì ɗaukoː kunnàn nan na runhuː, wa’àndà ya’ ajèː, sai shì shaːhè màzàːkuːtàːtai dà suː.
+# text = in yaɓ ɓoːyèː su , in dareː yay yi , ita màccen dà mùtun kà sôː , im mùtun yat taːràː dà ita , bâːshi wankè màzàːkuːtàːtai dà ruwaː , bâːshi shaːhèːwaː dà wani ƙyalleː , sai shi ɗaukoː kunnàn nan na runhuː , wa’àndà ya’ ajèː , sai shì shaːhè màzàːkuːtàːtai dà suː .
 # text_en = After hiding them, when night comes, the woman that the man loves, if he has intercourse with her, he won't wash his penis with water, he won't rub it with any cloth but he will take those "runhu" leaves that he has kept, and rub his penis with them.
 # text_orth = ’in yaɓ ɓooyèe su, ’in daᵲee yay yi, ’ita màccen dà mùtun kà soò, ’im mùtun yat taaᵲàa dà ’ita, baà ši wankè màzàakuutàatai dà ᵲuwaa, baà ši šaahèewaa dà wani ƙyallee, sai šì ɗaukoo kunnàn nan na ᵲunhuu, wa’àndà ya’ ’ajèe, sai šì šaahè màzàakuutàatai dà suu.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2985,7 +2985,7 @@
 38	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=37|RX=[ADV]
 39	shi	shi	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=38|RX=[PRON]
 40	ɗaukoː	ɗàukaː	VERB	_	_	_	_	_	GE=take|Gloss=take.Dir|nWord=39|RX=[VERB]|wordform=ɗauk
-41	kunnàin	kunnài	NOUN	_	Definite=Cons	40	comp:obj	_	GE=[ear].[Plur]|Gloss=ear.Plur|nWord=40|RX=[NOUN]|wordform=kunnài
+41	kunnàn	kunnài	NOUN	_	Definite=Cons	40	comp:obj	_	GE=[ear].[Plur]|Gloss=ear.Plur|nWord=40|RX=[NOUN]|wordform=kunnài
 42	nan	nan	DET	_	_	41	det	_	GE=[Dist]|Gloss=Dist|nWord=41|RX=[DET]
 43	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=42|RX=[PART]
 44	runhuː	runhuː	NOUN	_	_	_	_	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=43|RX=[NOUN]
@@ -5249,60 +5249,68 @@
 20	ƙìː-taːɓèːwa	ƙìː-taːɓèːwa	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=20|RX=[NOUN]
 21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_02_186-186
+# sent_id = BC_HAU_Gouffé_1_02_186-186_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 163090, 163246
-# text = suː wa’ànnan hakuːkuwàː koː can dà ùbangijìː yay yoː sù, dom maːgànim màllakàː, dum màccen dà ankà sâː mâː suː, cikim maːgàniː, in tac ciː sù, tiːlàs à màllàkeː tà, bâːta iyà ràbuwaː dà wandà yam mutà maːgànîn.
-# text_en = As for those grasses that God has made as medicine for possession, any woman to whom you give them in a medicine, if she eats them, she has to be possession, she won't be able to leave the one who has given her the medicine.
-# text_orth = suu wa’ànnan hakuukuwàa, koo can dà ùbangijìi yay yoo sù, dom maagànim màllakàa, dum màccen dà ’ankà saà maà su, cikim maagànii, ’in tac cii sù, tiilàs ’à màllàkee tà, baà ta ’iyà ᵲàbuwaa dà wandà yam mutà maagàniǹ,
-1	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
+# text = suː wa’ànnan hakuːkuwàː koː can dà ùbangijìː yay yoː sù , dom maːgànim màllakàː , dum màccen dà ankà sâː mâː su , cikim maːgàniː , in tac ciː sù , tiːlàs à màllàkeː tà .
+# text_en = As for those grasses that God has made as medicine for possession, any woman to whom you give them in a medicine, if she eats them, she has to be possession.
+# text_orth = suu wa’ànnan hakuukuwàa, koo can dà ùbangijìi yay yoo sù, dom maagànim màllakàa, dum màccen dà ’ankà saà maà su, cikim maagànii, ’in tac cii sù, tiilàs ’à màllàkee tà.
+1	suː	suː	PRON	_	_	33	dislocated@top	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	wa’ànnan	wa’ànnan	DET	_	_	3	det	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=2|RX=[DET]
-3	hakuːkuwàː	hakuːkuwàː	NOUN	_	_	_	_	_	GE=[grass].[Plur]|Gloss=grass.Plur|nWord=3|RX=[NOUN]
-4	koː	koː	TopPART	_	_	_	_	_	GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
-5	can	can	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=6|RX=[SCONJ]
-7	ùbangijìː	ùbangijìː	PROPN	_	_	_	_	_	GE=[God].[Masc]|Gloss=God.Masc|nWord=7|RX=[PROPN]
-8	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
+3	hakuːkuwàː	hakuːkuwàː	NOUN	_	_	1	conj:appos	_	GE=[grass].[Plur]|Gloss=grass.Plur|nWord=3|RX=[NOUN]
+4	koː	koː	TopPART	_	_	3	discourse@top	_	GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
+5	can	can	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
+6	dà	dà	SCONJ	_	_	3	mod@relcl	_	GE=that|Gloss=that|nWord=6|RX=[SCONJ]
+7	ùbangijìː	ùbangijìː	PROPN	_	_	8	subj	_	GE=[God].[Masc]|Gloss=God.Masc|nWord=7|RX=[PROPN]
+8	yay	yak	AUX	_	_	6	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	yoː	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do.Dir|nWord=9|RX=[VERB]|wordform=y
 10	sù	sù	PRON	_	_	9	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
-11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	dom	don	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=12|RX=[SCONJ]
-13	maːgànim	maːgàniː	NOUN	_	Definite=Cons	_	_	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=13|RX=[NOUN]|wordform=maːgàni
+11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	dom	don	ADP	_	_	9	mod	_	GE=for|Gloss=for|nWord=12|RX=[SCONJ]
+13	maːgànim	maːgàniː	NOUN	_	Definite=Cons	12	comp:obj	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=13|RX=[NOUN]|wordform=maːgàni
 14	màllakàː	màllakàː	NOUN	_	_	13	mod	_	GE=[grass].[sp].[Fem]|Gloss=grass.sp.Fem|nWord=14|RX=[NOUN]
-15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	dum	dukà	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=16|RX=[DET]
-17	màccen	màcce	NOUN	_	Definite=Cons	_	_	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=17|RX=[NOUN]|wordform=màcce
-18	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=18|RX=[SCONJ]
+15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+16	dum	dukà	DET	_	_	17	det	_	GE=all|Gloss=all|nWord=16|RX=[DET]
+17	màccen	màcce	NOUN	_	Definite=Cons	33	dislocated@comp	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=17|RX=[NOUN]|wordform=màcce
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	GE=that|Gloss=that|nWord=18|RX=[SCONJ]
 19	ankà	ankà	AUX	_	_	18	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=19|RX=[AUX]
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	GE=put|Gloss=put|nWord=20|RX=[VERB]
-21	mà	mà	ADP	_	_	20	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=21|RX=[ADP]
-22	suː	suː	PRON	_	_	21	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
-23	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-24	cikim	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=24|RX=[ADP]
+21	mâː	mâː	PRON	_	_	20	comp:obl	_	GE=[Dat]|Gloss=3Fem.Dat|nWord=21|RX=[PRON]
+22	su	su	PRON	_	_	20	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
+23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+24	cikim	cikin	ADP	_	_	20	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=24|RX=[ADP]
 25	maːgàniː	maːgàniː	NOUN	_	_	24	comp:obj	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=25|RX=[NOUN]
-26	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-27	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
+26	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+27	in	in	SCONJ	_	_	33	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
 28	tac	tak	AUX	_	_	27	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=28|RX=[AUX]
 29	ciː	ci	VERB	_	_	28	comp:aux	_	GE=eat|Gloss=eat|nWord=29|RX=[VERB]
 30	sù	sù	PRON	_	_	29	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=30|RX=[PRON]
-31	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-32	tiːlàs	tiːlàs	ADV	_	_	_	_	_	GE=necessarily|Gloss=necessarily|nWord=32|RX=[ADV]
-33	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=33|RX=[AUX]
-34	màllakàː	màllakàː	NOUN	_	_	_	_	_	GE=[grass].[sp].[Fem]|Gloss=grass.sp.Fem|nWord=34|RX=[NOUN]
-35	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=35|RX=[AUX]
-36	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
-37	bâːta	bâːta	AUX	_	_	_	_	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=37|RX=[AUX]
-38	iyà	iyàː	VERB	_	_	37	comp:aux	_	GE=be_able|Gloss=be_able|nWord=38|RX=[VERB]|wordform=iyàː
-39	ràbuwaː	ràbu	VERB	_	_	_	_	_	GE=separate|Gloss=separate.Nmlz.Fem|nWord=39|RX=[VERB]|wordform=ràbu
-40	dà	dà	ADP	_	_	39	comp:obl	_	GE=with|Gloss=with|nWord=40|RX=[ADP]
-41	wandà	wandà	PRON	_	_	40	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=41|RX=[PRON]
-42-43	yam	_	_	_	_	_	_	_	_
-42	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=42|RX=[AUX]|wordform=yam
-43	yi	yi	VERB	_	_	42	comp:aux	_	Gloss=do
-44	mutà	mutà	PRON	_	_	43	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
-45	maːgànîn	maːgàniː	NOUN	_	Definite=Def	43	comp:pred	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=44|RX=[NOUN]
-46	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=45|RX=[PUNCT]
+31	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+32	tiːlàs	tiːlàs	ADV	_	_	33	mod	_	GE=necessarily|Gloss=necessarily|nWord=32|RX=[ADV]
+33	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=33|RX=[AUX]
+34	màllàkeː	màllakàː	VERB	_	_	33	comp:aux	_	GE=[grass].[sp].[Fem]|Gloss=grass.sp.Fem|nWord=34|RX=[NOUN]
+35	tà	tà	PRON	_	_	34	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=35|RX=[NOUN]
+36	.	.	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_02_186-186_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 163090, 163246
+# text = bâːta iyà ràbuwaː dà wandà yay yi mutà maːgànîn .
+# text_en = She won't be able to leave the one who has given her the medicine.
+# text_orth = baà ta ’iyà ᵲàbuwaa dà wandà yam mutà maagàniǹ,
+1	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=37|RX=[AUX]
+2	iyà	iyàː	VERB	_	_	1	comp:aux	_	GE=be_able|Gloss=be_able|nWord=38|RX=[VERB]|wordform=iyàː
+3	ràbuwaː	ràbu	VERB	_	_	2	comp:obj	_	GE=separate|Gloss=separate.Nmlz.Fem|nWord=39|RX=[VERB]|wordform=ràbu
+4	dà	dà	ADP	_	_	3	comp:obl	_	GE=with|Gloss=with|nWord=40|RX=[ADP]
+5	wandà	wandà	PRON	_	_	4	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=41|RX=[PRON]
+6-7	yam	_	_	_	_	_	_	_	_
+6	yay	yak	AUX	_	_	5	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=42|RX=[AUX]|wordform=yam
+7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
+8	mutà	mutà	PRON	_	_	7	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
+9	maːgànîn	maːgàniː	NOUN	_	Definite=Def	7	comp:pred	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=44|RX=[NOUN]
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=45|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_187-187
 # speaker_id = *
