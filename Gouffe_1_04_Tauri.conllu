@@ -2477,36 +2477,36 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 80000, 81000
-# text = in ankà ajèː, sai à sàːmu dunƙulèn shuːniː, shuːniː irìn na dâː, wandà maːtaː kà ùnhwàːniː dà shiː, dà suː dà marìnaː.
+# text = in ankà ajèː , sai à sàːmu dunƙulèn shuːniː , shuːniː irìn na dâː , wandà maːtaː kà ùnhwàːniː dà shiː , dà suː dà marìnaː .
 # text_en = After putting it aside, they get balls of henna, the olf type of henna that women and dyers use.
 # text_orth = ’in ’ankà ’ajèe, sai ’à sàamu dunƙulèn šuunii, šuunii ’iᵲìn na daà, wandà maataa kà ’ùnhwàanii dà šii, dà suu dà maᵲìnaa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
-6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
+6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	GE=get|Gloss=get|nWord=7|RX=[VERB]
 8	dunƙulèn	dunƙulèː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[ball].[Masc]|Gloss=ball.Masc|nWord=8|RX=[NOUN]|wordform=dunƙulè
 9	shuːniː	shuːniː	NOUN	_	_	8	mod	_	GE=[indigo].[Masc]|Gloss=indigo.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	shuːniː	shuːniː	NOUN	_	_	_	_	_	GE=[indigo].[Masc]|Gloss=indigo.Masc|nWord=11|RX=[NOUN]
-12	irìn	irìː	NOUN	_	Definite=Cons	_	_	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=12|RX=[NOUN]|wordform=irì
-13	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=13|RX=[PART]
-14	dâː	dâː	ADV	_	_	_	_	_	GE=formerly|Gloss=formerly|nWord=14|RX=[ADV]
-15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	wandà	wandà	PRON	_	_	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=16|RX=[PRON]
-17	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=17|RX=[NOUN]
-18	kà	kà	AUX	_	_	_	_	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=18|RX=[AUX]
-19	ùnhwàːniː	ùnhwàːniː	NOUN	_	_	_	_	_	GE=[using].[Masc]|Gloss=using.Masc|nWord=19|RX=[NOUN]
-20	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
+10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	shuːniː	shuːniː	NOUN	_	_	9	conj:appos	_	GE=[indigo].[Masc]|Gloss=indigo.Masc|nWord=11|RX=[NOUN]
+12	irìn	irìː	NOUN	_	_	11	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=12|RX=[NOUN]
+13	na	na	PART	_	_	12	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=13|RX=[PART]
+14	dâː	dâː	ADV	_	_	13	comp:obj	_	GE=formerly|Gloss=formerly|nWord=14|RX=[ADV]
+15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+16	wandà	wandà	PRON	_	_	11	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=16|RX=[PRON]
+17	maːtaː	maːtaː	NOUN	_	_	18	subj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=17|RX=[NOUN]
+18	kà	kà	AUX	_	_	16	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=18|RX=[AUX]
+19	ùnhwàːniː	ùnhwàːniː	NOUN	_	_	18	comp:aux	_	GE=[using].[Masc]|Gloss=using.Masc|nWord=19|RX=[NOUN]
+20	dà	dà	ADP	_	_	19	comp:obl	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
 21	shiː	shiː	PRON	_	_	20	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=21|RX=[PRON]
-22	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-23	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=23|RX=[CCONJ]
-24	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=24|RX=[PRON]
-25	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=25|RX=[CCONJ]
-26	marìnaː	marìnaː	NOUN	_	_	_	_	_	GE=[dyer].[Plur]|Gloss=dyer.Plur|nWord=26|RX=[NOUN]
-27	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=27|RX=[PUNCT]
+22	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
+23	dà	dà	CCONJ	_	_	24	cc	_	GE=and|Gloss=and|nWord=23|RX=[CCONJ]
+24	suː	suː	PRON	_	_	18	dislocated@subj	_	GE=[3Plur]|Gloss=3Plur|nWord=24|RX=[PRON]
+25	dà	dà	CCONJ	_	_	26	cc	_	GE=and|Gloss=and|nWord=25|RX=[CCONJ]
+26	marìnaː	marìnaː	NOUN	_	_	24	conj:coord	_	GE=[dyer].[Plur]|Gloss=dyer.Plur|nWord=26|RX=[NOUN]
+27	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_082-082
 # speaker_id = *
