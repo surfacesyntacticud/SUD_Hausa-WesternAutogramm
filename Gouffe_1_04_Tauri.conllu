@@ -342,7 +342,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 9000, 10000
-# text = koː dakàm maː, koːmiː ƙarhim mùtun, bâːshi iyà dakè ɗiyan ƙòːdagòː gà inìː gùdaː, sabòːdà taurinsù.
+# text = koː dakàm maː , koːmiː ƙarhim mùtun , bâːshi iyà dakè ɗiyan ƙòːdagòː gà inìː gùdaː , sabòːdà taurinsù .
 # text_en = Even (by) pounding, whatever your strength, you won't succeed in pounding dum palm seeds in a day because of its toughness.
 # text_orth = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
 1	koː	koː	ADV	_	_	2	mod	_	GE=even|Gloss=even|nWord=1|RX=[ADV]
@@ -2910,7 +2910,7 @@
 24	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=24|RX=[PART]
 25	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 26	kai	kai	PRON	_	_	_	_	_	GE=[2Masc]|Gloss=2Masc|nWord=26|RX=[PRON]
-27	kuma	kuma	TopPART	_	_	_	_	_	GE=also|Gloss=also|nWord=27|RX=[TOPPART]
+27	kuma	kuma	TopPART	_	_	26	mod@top	_	GE=also|Gloss=also|nWord=27|RX=[TOPPART]
 28	bàkà	bàkà	AUX	_	_	_	_	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.Perf.Neg|nWord=28|RX=[AUX]
 29	yi	yi	VERB	_	_	28	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
 30	màganàː	màganàː	NOUN	_	_	29	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=30|RX=[NOUN]
@@ -3633,7 +3633,7 @@
 18	haƙoːriː	haƙoːriː	NOUN	_	_	17	comp:obj	_	GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
 19	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
 20	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=45|RX=[ADV]
-21	dai	dai	TopPART	_	_	_	_	_	GE=indeed|Gloss=indeed|nWord=46|RX=[TOPPART]
+21	dai	dai	TopPART	_	_	20	mod@top	_	GE=indeed|Gloss=indeed|nWord=46|RX=[TOPPART]
 22	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=47|RX=[AUX]
 23	dakàː	dakàː	VERB	_	_	22	comp:aux	_	GE=pound|Gloss=pound|nWord=48|RX=[VERB]
 24	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=49|RX=[PUNCT]
