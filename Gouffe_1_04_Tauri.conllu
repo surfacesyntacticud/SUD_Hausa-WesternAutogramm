@@ -11,8 +11,8 @@
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	maːgànin	maːgàniː	NOUN	_	Definite=Cons	3	conj:appos	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=5|RX=[NOUN]|wordform=maːgàni
 6	tauri	tauri	NOUN	_	_	5	mod	_	GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	wandà	wandà	PRON	_	_	5	mod@relcl	_	GE=[which].[Masc]|Gloss=which.Masc|nWord=8|RX=[PRON]
+7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	wandà	wandà	PRON	_	_	5	conj:appos	_	GE=[which].[Masc]|Gloss=which.Masc|nWord=8|RX=[PRON]
 9	in	in	SCONJ	_	_	26	mod	_	GE=if|Gloss=if|nWord=9|RX=[SCONJ]
 10	an	an	AUX	_	_	9	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=10|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	GE=do|Gloss=do|nWord=11|RX=[VERB]
@@ -30,7 +30,7 @@
 23	shì	shi	PRON	_	_	22	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=23|RX=[PRON]
 24	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	ƙarhèː	ƙarhèː	NOUN	_	_	26	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=25|RX=[NOUN]
-26	bâːshì	bâːshì	AUX	_	_	8	comp:obj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=26|RX=[AUX]
+26	bâːshì	bâːshì	AUX	_	_	8	mod@relcl	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=26|RX=[AUX]
 27	huːdàː	huːdàː	VERB	_	_	26	comp:aux	_	GE=pierce|Gloss=pierce|nWord=27|RX=[VERB]
 28	shi	shi	PRON	_	_	27	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=28|RX=[PRON]
 29	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=29|RX=[PUNCT]
@@ -607,9 +607,9 @@
 7	itàːceː	itàːceː	NOUN	_	_	6	subj	_	GE=[tree].[Plur]|Gloss=tree.Plur|nWord=7|RX=[NOUN]
 8	dà	dà	ADP	_	_	7	mod	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
 9	yawàː	yawàː	NOUN	_	_	8	comp:obj	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	wa’àndà	wa’àndà	PRON	_	_	7	mod@relcl	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=11|RX=[PRON]
-12	akà	akà	AUX	_	_	11	comp:obj	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=12|RX=[AUX]
+10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	wa’àndà	wa’àndà	PRON	_	_	13	comp:obj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=11|RX=[PRON]
+12	akà	akà	AUX	_	_	7	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=12|RX=[AUX]
 13	ɗiːbàː	ɗiːbàː	VERB	_	_	12	comp:aux	_	GE=[take].[Nmlz].[Masc/Fem]|Gloss=take.Nmlz.Masc/Fem|nWord=13|RX=[VERB]
 14	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
@@ -2074,9 +2074,9 @@
 10	dà	dà	ADP	_	_	7	comp:obl	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
 11	gàːrim	gàːriː	NOUN	_	Definite=Cons	10	comp:obj	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=10|RX=[NOUN]|wordform=gàːri
 12	maːgànîn	maːgàniː	NOUN	_	Definite=Def	11	mod	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=11|RX=[NOUN]
-13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-14	wandà	wandà	PRON	_	_	11	mod@relcl	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
-15	ankà	ankà	AUX	_	_	14	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
+13	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+14	wandà	wandà	PRON	_	_	16	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
+15	ankà	ankà	AUX	_	_	11	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
 16	ajèː	ajèː	VERB	_	_	15	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=15|RX=[VERB]
 17	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
@@ -2189,9 +2189,9 @@
 2	yîm	yîː	VERB	_	Definite=Cons	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=yî
 3	maːgànin	maːgàniː	NOUN	_	Definite=Cons	2	udep	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=3|RX=[NOUN]|wordform=maːgàni
 4	ƙarhèː	ƙarhèː	NOUN	_	_	3	mod	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	wandà	wandà	PRON	_	_	3	mod@relcl	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=6|RX=[PRON]
-7	akà	akà	PRON	_	_	6	comp:obj	_	GE=[4]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
+5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	wandà	wandà	PRON	_	_	8	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=6|RX=[PRON]
+7	akà	akà	PRON	_	_	3	mod@relcl	_	GE=[4]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
 8	ɗiːbàː	ɗiːbàː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take|nWord=8|RX=[VERB]
 9	gà	gà	ADP	_	_	8	comp:obl	_	GE=at|Gloss=at|nWord=9|RX=[ADP]
 10	lòːdaː	lòːdaː	NOUN	_	_	9	comp:obj	_	GE=[plant_sp].[Fem]|Gloss=plant_sp.Fem|nWord=10|RX=[NOUN]
@@ -2207,9 +2207,9 @@
 1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	ita	ita	PRON	_	_	8	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=2|RX=[PRON]
 3	lòːdaː	lòːdaː	NOUN	_	_	2	conj:appos	_	GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=3|RX=[NOUN]
-4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	waddà	waddà	PRON	_	_	3	mod@relcl	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=5|RX=[PRON]
-6	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	_	5	comp:obj	_	GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=6|RX=[NOUN]
+4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	waddà	waddà	PRON	_	_	6	subj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=5|RX=[PRON]
+6	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	_	3	mod@relcl	_	GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	gà	gà	ADP	_	_	0	root	_	GE=at|Gloss=at|nWord=8|RX=[ADP]
 9	ta	ta	PRON	_	_	8	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
@@ -2268,9 +2268,9 @@
 34	shiː	shiː	PRON	_	_	50	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
 35	wânnam	wânnan	DET	_	_	36	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=33|RX=[PRON]
 36	maːgàniː	maːgàniː	NOUN	_	_	34	conj:appos	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=34|RX=[NOUN]
-37	,	,	PUNCT	_	_	38	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-38	wandà	wandà	PRON	_	_	36	mod@relcl	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=36|RX=[PRON]
-39	akà	akà	AUX	_	_	38	comp:obj	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=37|RX=[AUX]
+37	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
+38	wandà	wandà	PRON	_	PronType=Rel	40	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=36|RX=[PRON]
+39	akà	akà	AUX	_	_	36	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=37|RX=[AUX]
 40	ɗiːbàː	ɗiːbàː	VERB	_	_	39	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=38|RX=[VERB]
 41	gà	gà	ADP	_	_	40	comp:obl	_	GE=at|Gloss=at|nWord=39|RX=[ADP]
 42	lòːdaː	lòːdaː	NOUN	_	_	41	comp:obj	_	GE=[plant_sp].[Fem]|Gloss=plant_sp.Fem|nWord=40|RX=[NOUN]
@@ -2512,35 +2512,36 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 81000, 82000
-# text = in ankà sàːmu dunƙulèn shuːnîn nan, sai à ajèː shi, à biɗi àleːwà, àleːwàk karaː, waddà akài dà karan tàkànɗaː.
+# text = in ankà sàːmu dunƙulèn shuːnîn nan , sai à ajèː shi , à biɗaː àleːwà , àleːwàk karaː , waddà akài dà karan tàkànɗaː .
 # text_en = When they have got that henna, they put it aside, look for candy, candy in sticks that they make with sugar cane.
 # text_orth = ’in ’ankà sàamu dunƙulèn šuuniǹ nan, sai ’à ’ajèe ši, ’à biɗi ’àleewà, àleewàk kaᵲaa, waddà ’a kài dà kaᵲan tàkànɗaa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
 4	dunƙulèn	dunƙulèː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[ball].[Masc]|Gloss=ball.Masc|nWord=4|RX=[NOUN]|wordform=dunƙulè
 5	shuːnîn	shuːniː	NOUN	_	Definite=Def	4	mod	_	GE=[indigo].[Masc].[Def]|Gloss=indigo.Masc.Def|nWord=5|RX=[NOUN]
 6	nan	nan	DET	_	_	5	det	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[DET]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
-9	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=9|RX=[AUX]
+9	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=9|RX=[AUX]
 10	ajèː	ajèː	VERB	_	_	9	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=10|RX=[VERB]
 11	shi	shi	PRON	_	_	10	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=11|RX=[PRON]
-12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	à	à	AUX	_	_	9	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
 14	biɗaː	biɗaː	VERB	_	_	13	comp:aux	_	GE=look_for|Gloss=look_for|nWord=14|RX=[VERB]
 15	àleːwà	àleːwà	NOUN	_	_	14	comp:obj	_	GE=[sweets].[Fem]|Gloss=sweets.Fem|nWord=15|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	àleːwàk	àleːwà	NOUN	_	Definite=Cons	_	_	_	GE=[sweets].[Fem]|Gloss=sweets.Fem|nWord=17|RX=[NOUN]|wordform=àleːwà
+16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+17	àleːwàk	àleːwà	NOUN	_	Definite=Cons	15	conj:appos	_	GE=[sweets].[Fem]|Gloss=sweets.Fem|nWord=17|RX=[NOUN]|wordform=àleːwà
 18	karaː	karaː	NOUN	_	_	17	mod	_	GE=[stalk].[Masc]|Gloss=stalk.Masc|nWord=18|RX=[NOUN]
-19	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-20	waddà	waddà	PRON	_	_	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=20|RX=[PRON]
+19	,	,	PUNCT	_	_	21	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
+20	waddà	waddà	PRON	_	_	22	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=20|RX=[PRON]
 21-22	akài	_	_	_	_	_	_	_	_
-21	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=21|RX=[AUX]
+21	akà	akà	AUX	_	_	17	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=21|RX=[AUX]
 22	yîː	yîː	VERB	_	_	21	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=21|RX=[VERB]
 23	dà	dà	ADP	_	_	22	comp:obl	_	GE=with|Gloss=with|nWord=22|RX=[ADP]
 24	karan	karaː	NOUN	_	Definite=Cons	23	comp:obj	_	GE=[stalk].[Masc]|Gloss=stalk.Masc|nWord=23|RX=[NOUN]|wordform=kara
 25	tàkànɗaː	tàkànɗaː	NOUN	_	_	24	mod	_	GE=[sugar-cane].[Fem]|Gloss=sugar-cane.Fem|nWord=24|RX=[NOUN]
+26	.	.	PUNCT	_	_	9	punct	_	GE=[sugar-cane].[Fem]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_083-083
 # speaker_id = *

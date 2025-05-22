@@ -52,8 +52,8 @@
 # text_orth = ’ita màataw wandà baà dookìː, sai ta nàa som̀ mài dookìː.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	màːtaw	màːtaː	NOUN	_	Definite=Cons	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
-3	wandà	wandà	PRON	_	_	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
-4	bâː	bâː	PREDPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=4|RX=[PREDPART]
+3	wandà	wandà	PRON	_	_	2	mod	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
+4	bâː	bâː	PREDPART	_	_	3	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=4|RX=[PREDPART]
 5	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -376,11 +376,11 @@
 8	bi	bi	VERB	_	_	7	comp:aux	_	GE=follow|Gloss=follow|nWord=8|RX=[VERB]
 9	hanyàː	hanyàː	NOUN	_	_	8	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	waddà	waddà	PRON	_	_	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
+11	waddà	waddà	PRON	_	_	15	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
 12-13	màːtaːtai	_	_	_	_	_	_	_	_
-12	màːtaː	màːtaː	NOUN	_	_	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=12|RX=[NOUN]
+12	màːtaː	màːtaː	NOUN	_	_	14	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=12|RX=[NOUN]
 13	-tai	-ai	PRON	_	_	12	mod/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=12|RX=[PRON]|wordform=-ai
-14	tab	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=13|RX=[AUX]
+14	tab	tak	AUX	_	_	9	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=13|RX=[AUX]
 15	bi	bi	VERB	_	_	14	comp:aux	_	GE=follow|Gloss=follow|nWord=14|RX=[VERB]
 16	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=15|RX=[PUNCT]
 
