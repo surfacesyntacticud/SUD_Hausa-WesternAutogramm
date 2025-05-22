@@ -2405,14 +2405,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 77000, 78000
-# text = dà yaː ɗeːboː, gàː hwaːtàː, sai shì ɗumkèː.
+# text = dà yaː ɗeːboː , gà hwaːtàː , sai shì ɗumkèː .
 # text_en = When he has picked it, he sews it into the leather.
 # text_orth = dà yaa ɗeeboo, gàa hwaatàa, sai šì ɗumkèe.
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take.Dir|nWord=3|RX=[VERB]|wordform=ɗeːb
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	gàː	gàː	PredPART	_	_	9	dislocated	_	GE=here_is|Gloss=here_is|nWord=5|RX=[PREDPART]
+5	gà	gà	PredPART	_	_	9	dislocated@comp	_	GE=at|Gloss=at|nWord=5|RX=[ADP]
 6	hwaːtàː	hwaːtàː	NOUN	_	_	5	subj	_	GE=[skin].[Fem]|Gloss=skin.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
@@ -2550,10 +2550,10 @@
 # text = anàː jân àleːwày.
 # text_en = They stretch the candy.
 # text_orth = ’a nàa jaǹ àleewày.
-1	anàː	anàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
+1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2	jân	jaː	VERB	_	Definite=Cons	1	comp:aux	_	GE=[pull].[Nmlz].[Masc]|Gloss=pull.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=jâ
 3	àleːwày	àleːwà	NOUN	_	Definite=Def	2	udep	_	GE=[sweets].[Fem].[Def]|Gloss=sweets.Fem.Def|nWord=3|RX=[NOUN]
-4	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=4|RX=[PUNCT]
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=4|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_084-084
 # speaker_id = *
@@ -2562,25 +2562,25 @@
 # text = in ankà jaː tà, tay yi s'awoː, anàː saːrantà dà hannuː, anàː dunƙùleːwàː.
 # text_en = When it is stretched, and it is long, they cut it with their hands, and roll it into a ball.
 # text_orth = ’in ’ankà jaa tà, tay yi s’awoo, ’a nàa saaᵲantà dà hannuu, ’a nàa dunƙùleewàa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	jaː	jaː	VERB	_	_	2	comp:aux	_	GE=pull|Gloss=pull|nWord=3|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	tay	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	tay	tak	AUX	_	_	2	conj:coord	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=6|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=7|RX=[VERB]
 8	s'awoː	s'awoː	NOUN	_	_	7	comp:pred	_	GE=[length].[Masc]|Gloss=length.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	anàː	anàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=10|RX=[AUX]
+9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=10|RX=[AUX]
 11-12	saːrantà	_	_	_	_	_	_	_	_
-11	saːràn	saːràː	NOUN	_	Definite=Cons	_	_	_	GE=[cut].[Nmlz].[Masc]|Gloss=cut.Nmlz.Masc|nWord=11|RX=[NOUN]|wordform=saːrà
-12	-tà	-tà	PRON	_	_	11	mod/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=11|RX=[PRON]
-13	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=12|RX=[ADP]
+11	saːràn	saːràː	VERB	_	Definite=Cons	10	comp:aux	_	GE=[cut].[Nmlz].[Masc]|Gloss=cut.Nmlz.Masc|nWord=11|RX=[NOUN]|wordform=saːrà
+12	-tà	-tà	PRON	_	_	11	udep/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=11|RX=[PRON]
+13	dà	dà	ADP	_	_	11	comp:obl	_	GE=with|Gloss=with|nWord=12|RX=[ADP]
 14	hannuː	hannuː	NOUN	_	_	13	comp:obj	_	GE=hand/arm|Gloss=hand/arm|nWord=13|RX=[NOUN]
-15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-16	anàː	anàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=15|RX=[AUX]
+15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+16	anàː	anàː	AUX	_	_	10	parataxis	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=15|RX=[AUX]
 17	dunƙùleːwaː	dunƙùleː	VERB	_	_	16	comp:aux	_	GE=ball_up|Gloss=ball_up.Nmlz.Fem|nWord=16|RX=[VERB]|wordform=dunƙùleː
-18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=17|RX=[PUNCT]
+18	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_085-085
 # speaker_id = *
@@ -2589,46 +2589,46 @@
 # text = ita akà saːmùː, dunƙulèː gùdaː, à ajèː.
 # text_en = That's what they use, one ball, and store it.
 # text_orth = ’ita ’a kà saamùu, dunƙulèe gùdaa, ’à ’ajèe.
-1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=2|RX=[AUX]
+1	ita	ita	PRON	_	_	0	root	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
+2	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=2|RX=[AUX]
 3	saːmùː	saːmùː	VERB	_	_	2	comp:aux	_	GE=[get].[Nmlz].[Masc]|Gloss=get.Nmlz.Masc|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	dunƙulèː	dunƙulèː	NOUN	_	_	_	_	_	GE=[ball].[Masc]|Gloss=ball.Masc|nWord=5|RX=[NOUN]
-6	gùdaː	gùdaː	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=6|RX=[NUM]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
+5	dunƙulèː	dunƙulèː	NOUN	_	_	1	conj:appos	_	GE=[ball].[Masc]|Gloss=ball.Masc|nWord=5|RX=[NOUN]
+6	gùdaː	gùdaː	NUM	_	_	5	mod:num	_	GE=one|Gloss=one|nWord=6|RX=[NUM]
+7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	à	à	AUX	_	_	1	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ajèː	ajèː	VERB	_	_	8	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_086-086
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 85000, 86000
-# text = in ankà ajèː, sai dà ral lahàdi, sai mùtun shì kwan wuri. in zâː shi tàhiyàː ɗiːbàm maːgànîn.
+# text = in ankà ajèː , sai dà ral lahàdi , sai mùtun shì kwan wuri , in zâː shi tàhiyàː ɗiːbàm maːgànîn .
 # text_en = Once it is stored, then on a Sunday, you sleep outside when you are going to take the medicine.
 # text_orth = ’in ’ankà ’ajèe, sai dà ᵲal lahàdi, sai mùtun šì kwan wuᵲi ’in zaà šì tàhiyàa ɗiibàm maagàniǹ.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
-6	dà	dà	ADP	_	_	_	_	_	GE=at|Gloss=at|nWord=6|RX=[ADP]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
+6	dà	dà	ADP	_	_	12	mod	_	GE=at|Gloss=at|nWord=6|RX=[ADP]
 7	ral	raːnaː	NOUN	_	Definite=Cons	6	comp:obj	_	GE=[day].[Fem]|Gloss=day.Fem|nWord=7|RX=[NOUN]|wordform=ra
 8	lahàdi	lahàdi	NOUN	_	_	7	mod	_	GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 11	mùtun	mùtun	NOUN	_	_	12	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=11|RX=[NOUN]
-12	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
+12	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
 13	kwan	kwaːnaː	VERB	_	_	12	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
-14	wuri	wuri	ADV	_	_	_	_	_	GE=outside|Gloss=outside|nWord=14|RX=[ADV]
-15	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=15|RX=[PUNCT]
-16	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=16|RX=[SCONJ]
+14	wuri	wuri	ADV	_	_	13	mod	_	GE=outside|Gloss=outside|nWord=14|RX=[ADV]
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
+16	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=16|RX=[SCONJ]
 17	zâː	zâː	AUX	_	_	16	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
 18	shi	shi	PRON	_	_	17	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
 19	tàhiyàː	tàhiyàː	VERB	_	_	17	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=19|RX=[VERB]
-20	ɗiːbàm	ɗiːbàː	VERB	_	Definite=Cons	_	_	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=ɗiːbà
+20	ɗiːbàm	ɗiːbàː	VERB	_	Definite=Cons	19	mod	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=ɗiːbà
 21	maːgànîn	maːgàniː	NOUN	_	Definite=Def	20	udep	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=21|RX=[NOUN]
-22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
+22	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_087-087
 # speaker_id = *
