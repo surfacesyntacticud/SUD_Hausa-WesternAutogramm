@@ -52,7 +52,7 @@
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	rìgyaː	rìgyaː	VERB	_	_	2	comp:aux	_	GE=have_already|Gloss=have_already|nWord=3|RX=[VERB]
 4-5	sunkà	_	_	_	_	_	_	_	_
-4	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=4|RX=[AUX]
+4	sunkà	sunkà	AUX	_	_	2	conj:svc	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=4|RX=[AUX]
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	musù	musù	PRON	_	_	5	comp:obl	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=5|RX=[PRON]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -1715,8 +1715,8 @@
 2	irìn	irìː	NOUN	_	Definite=Def	1	comp:obj	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=2|RX=[NOUN]
 3	wàddà	wàddà	ADV	_	_	_	_	_	GE=how|Gloss=how|nWord=3|RX=[ADV]
 4	sukà	sukà	AUX	_	_	_	_	_	GE=[3Plur].[Imp].[Bkg]|Gloss=3Plur.Imp.Bkg|nWord=4|RX=[AUX]
-5	wânnan	wânnan	PRON	_	_	_	_	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=5|RX=[PRON]
-6	tàbiː’àː	tàbiː’àː	NOUN	_	_	_	_	_	GE=[custom].[Fem]|Gloss=custom.Fem|nWord=6|RX=[NOUN]
+5	wânnan	wânnan	DET	_	_	6	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=5|RX=[PRON]
+6	tàbiː’àː	tàbiː’àː	NOUN	_	_	4	comp:aux	_	GE=[custom].[Fem]|Gloss=custom.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
 9	am	an	AUX	_	_	8	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=9|RX=[AUX]
@@ -2737,8 +2737,8 @@
 25	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	_	_	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=24|RX=[NOUN]|wordform=loːkàci
 26	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=25|RX=[SCONJ]
 27	shikà	shikà	AUX	_	_	26	comp:obj	_	GE=[3Masc].[Imp].[Bkg]|Gloss=3Masc.Imp.Bkg|nWord=26|RX=[AUX]
-28	wânnam	wânnan	PRON	_	_	_	_	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=27|RX=[PRON]
-29	maːgànîn	maːgàniː	NOUN	_	Definite=Def	_	_	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=28|RX=[NOUN]
+28	wânnam	wânnan	DET	_	_	29	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=27|RX=[PRON]
+29	maːgànîn	maːgàniː	NOUN	_	Definite=Def	27	comp:aux	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=28|RX=[NOUN]
 30	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=29|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_103-103
@@ -2832,7 +2832,7 @@
 # text_orth = [5] ’àkwai zuugàl na ciì, wandà ’a kà ɗiibàa gà ᵲunhuu,
 1	[5]	[5]	SYM	_	_	_	_	_	GE=[[5]]|Gloss=[5]|nWord=1|RX=[SYM]
 2	àkwai	àkwai	PREDPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=2|RX=[PREDPART]
-3	zuːgàl	zuːgàl	PROPN	_	_	_	_	_	GE=love_charm|Gloss=love_charm|nWord=3|RX=[PROPN]
+3	zuːgàl	zuːgàl	PROPN	_	_	2	subj	_	GE=love_charm|Gloss=love_charm|nWord=3|RX=[PROPN]
 4	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
 5	cîː	cîː	VERB	_	_	_	_	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -5537,11 +5537,11 @@
 2	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
 4	àkwai	àkwai	PREDPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=4|RX=[PREDPART]
-5	ƙwaːrò	ƙwaːròː	NOUN	_	_	_	_	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=5|RX=[NOUN]
+5	ƙwaːrò	ƙwaːròː	NOUN	_	_	4	subj	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=5|RX=[NOUN]
 6	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	àkwai	àkwai	PREDPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=8|RX=[PREDPART]
-9	hakì	hakìː	NOUN	_	_	_	_	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=9|RX=[NOUN]
+9	hakì	hakìː	NOUN	_	_	8	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=9|RX=[NOUN]
 10	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
 
