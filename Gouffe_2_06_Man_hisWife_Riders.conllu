@@ -52,7 +52,7 @@
 # text_orth = ’ita màataw wandà baà dookìː, sai ta nàa som̀ mài dookìː.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	màːtaw	màːtaː	NOUN	_	Definite=Cons	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
-3	wandà	wandà	PRON	_	_	2	mod	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
+3	wandà	wandà	PRON	_	PronType=Rel	2	mod	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
 4	bâː	bâː	PREDPART	_	_	3	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=4|RX=[PREDPART]
 5	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -314,7 +314,7 @@
 27	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
 28	tàhi	tàhi	VERB	_	_	27	comp:aux	_	GE=go|Gloss=go|nWord=26|RX=[VERB]
 29	wurin	wuriː	NOUN	_	Definite=Cons	28	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]|wordform=wuri
-30	wani	wani	DET	_	_	31	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
+30	wani	wani	DET	_	PronType=Spec	31	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
 31-32	àboːkiːnai	_	_	_	_	_	_	_	_
 31	àboːkiː	àboːkiː	NOUN	_	_	29	mod	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=29|RX=[NOUN]
 32	-nai	-ai	PRON	_	_	31	mod/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=29|RX=[PRON]|wordform=-ai
@@ -376,7 +376,7 @@
 8	bi	bi	VERB	_	_	7	comp:aux	_	GE=follow|Gloss=follow|nWord=8|RX=[VERB]
 9	hanyàː	hanyàː	NOUN	_	_	8	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	waddà	waddà	PRON	_	_	15	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
+11	waddà	waddà	PRON	_	PronType=Rel	15	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
 12-13	màːtaːtai	_	_	_	_	_	_	_	_
 12	màːtaː	màːtaː	NOUN	_	_	14	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=12|RX=[NOUN]
 13	-tai	-ai	PRON	_	_	12	mod/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=12|RX=[PRON]|wordform=-ai
@@ -472,7 +472,7 @@
 13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
 14	yas	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=13|RX=[AUX]
 15	sàbka	sàbka	VERB	_	_	14	comp:aux	_	GE=dismount|Gloss=dismount|nWord=14|RX=[VERB]
-16	wani	wani	DET	_	_	17	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
+16	wani	wani	DET	_	PronType=Spec	17	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
 17	gidaː	gidaː	NOUN	_	_	_	_	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=16|RX=[NOUN]
 18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 19	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=18|RX=[AUX]
@@ -677,7 +677,7 @@
 9	sàːmu	saːmùː	VERB	_	_	8	comp:aux	_	GE=get|Gloss=get|nWord=9|RX=[VERB]
 10	zanèː	zanèː	NOUN	_	_	9	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	wandà	wandà	PRON	_	_	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=12|RX=[PRON]
+12	wandà	wandà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=12|RX=[PRON]
 13	bàtà	bàtà	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=13|RX=[AUX]
 14	sanìː	sanìː	VERB	_	_	13	comp:aux	_	GE=know|Gloss=know|nWord=14|RX=[VERB]
 15	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
