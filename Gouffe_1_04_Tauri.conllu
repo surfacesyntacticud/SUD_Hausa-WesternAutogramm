@@ -648,7 +648,7 @@
 21	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 22	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=10|RX=[PART]
 23	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=11|RX=[NOUN]|wordform=àbù
-24	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=12|RX=[SCONJ]
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	GE=that|Gloss=that|nWord=12|RX=[SCONJ]
 25	bài	bài	AUX	_	_	24	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=13|RX=[AUX]
 26	sanìː	sanìː	VERB	_	_	25	comp:aux	_	GE=know|Gloss=know|nWord=14|RX=[VERB]
 27	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
@@ -3587,3 +3587,4 @@
 # text_orth = šii kèe nan.
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	0	root	_	GE=that's_it|Gloss=that's_it|nWord=1|RX=[INTJ]
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=2|RX=[PUNCT]
+

@@ -82,7 +82,7 @@
 7	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
 9	màccen	màcce	NOUN	_	Definite=Cons	_	_	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=9|RX=[NOUN]|wordform=màcce
-10	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
 11	bàtà	bàtà	AUX	_	_	10	comp:obj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=11|RX=[AUX]
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	GE=drink/suffer|Gloss=drink/suffer|nWord=12|RX=[VERB]
 13	noːnòn	noːnòː	NOUN	_	Definite=Cons	12	comp:obj	_	GE=[milk].[Masc]|Gloss=milk.Masc|nWord=13|RX=[NOUN]|wordform=noːnò
@@ -616,7 +616,7 @@
 # text_orth = du’ ’àbun dà yak kàmaatà, ’à yi cikin gàᵲii, sai saᵲkii yaa mai šaawaràa, sabòo dà lìimaamìnšì nee.
 1	du’	duk	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=1|RX=[DET]
 2	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=2|RX=[NOUN]|wordform=àbù
-3	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=3|RX=[SCONJ]
+3	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=3|RX=[SCONJ]
 4	yak	yak	AUX	_	_	3	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
 5-6	kàmaːtà	_	_	_	_	_	_	_	_
 5	kàmaː	kàmaː	NOUN	_	_	_	_	_	GE=[appearance].[Fem]|Gloss=appearance.Fem|nWord=5|RX=[NOUN]
@@ -689,7 +689,7 @@
 4	dàudawaː	dàudawaː	NOUN	_	_	3	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	dàudawad	dàudawaː	NOUN	_	Definite=Cons	_	_	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=6|RX=[NOUN]|wordform=dàudawa
-7	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=7|RX=[SCONJ]
+7	dà	dà	SCONJ	_	_	6	mod@relcl	_	GE=that|Gloss=that|nWord=7|RX=[SCONJ]
 8	yas	yak	AUX	_	_	7	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	sàyeː	sàyaː	VERB	_	_	8	comp:aux	_	GE=buy|Gloss=buy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -1136,7 +1136,7 @@
 10	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=12|RX=[NOUN]|wordform=àbù
-13	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=13|RX=[SCONJ]
+13	dà	dà	SCONJ	_	_	12	mod@relcl	_	GE=that|Gloss=that|nWord=13|RX=[SCONJ]
 14	nay	nak	AUX	_	_	13	comp:obj	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=14|RX=[AUX]
 15	yi	yi	VERB	_	_	14	comp:aux	_	GE=do|Gloss=do|nWord=15|RX=[VERB]
 16-17	kirànkì	_	_	_	_	_	_	_	_
@@ -1518,7 +1518,7 @@
 34	baː	baː	VERB	_	_	33	comp:aux	_	GE=give|Gloss=give|nWord=33|RX=[VERB]
 35	kì	kì	PRON	_	_	34	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=34|RX=[PRON]
 36	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=35|RX=[NOUN]|wordform=àbù
-37	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=36|RX=[SCONJ]
+37	dà	dà	SCONJ	_	_	36	mod@relcl	_	GE=that|Gloss=that|nWord=36|RX=[SCONJ]
 38	zâː	zâː	AUX	_	_	37	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=37|RX=[AUX]
 39	ki	ki	PRON	_	_	38	subj	_	GE=[2Fem]|Gloss=2Fem|nWord=38|RX=[PRON]
 40	kai	kai	VERB	_	_	38	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=39|RX=[VERB]
@@ -2193,7 +2193,7 @@
 21	baː	baː	VERB	_	_	20	comp:aux	_	GE=give|Gloss=give|nWord=21|RX=[VERB]
 22	tà	ta	PRON	_	_	21	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=22|RX=[PRON]
 23	àbuːbuwàn	àbuːbuwàː	NOUN	_	Definite=Cons	_	_	_	GE=[things].[Plur]|Gloss=things.Plur|nWord=23|RX=[NOUN]|wordform=àbuːbuwà
-24	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=24|RX=[SCONJ]
+24	dà	dà	SCONJ	_	_	23	mod@relcl	_	GE=that|Gloss=that|nWord=24|RX=[SCONJ]
 25	yac	yak	AUX	_	_	24	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
 26	cêː	cêː	VERB	_	_	25	comp:aux	_	GE=say|Gloss=say|nWord=26|RX=[VERB]
 27	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
@@ -2261,7 +2261,7 @@
 16	baː	baː	VERB	_	_	15	comp:aux	_	GE=give|Gloss=give|nWord=16|RX=[VERB]
 17	tà	ta	PRON	_	_	16	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
 18	kaːyan	kaːyaː	NOUN	_	Definite=Cons	_	_	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=18|RX=[NOUN]|wordform=kaːya
-19	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=19|RX=[SCONJ]
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	GE=that|Gloss=that|nWord=19|RX=[SCONJ]
 20	ɗan	ɗaː	NOUN	_	Definite=Cons	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=20|RX=[NOUN]|wordform=ɗa
 21	sarkiː	sarkiː	NOUN	_	_	20	mod	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=21|RX=[NOUN]
 22	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
@@ -2479,7 +2479,7 @@
 17	ɗan	ɗaː	NOUN	_	Definite=Cons	16	comp:obj	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=17|RX=[NOUN]|wordform=ɗa
 18	sarkiː	sarkiː	NOUN	_	_	17	mod	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=18|RX=[NOUN]
 19	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbù
-20	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
+20	dà	dà	SCONJ	_	_	19	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
 21	màːtam	màːtaː	NOUN	_	Definite=Cons	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=21|RX=[NOUN]|wordform=màːta
 22	maːlàmiː	maːlàmiː	NOUN	_	_	21	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=22|RX=[NOUN]
 23	tag	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=23|RX=[AUX]
@@ -2665,7 +2665,7 @@
 7	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	àbùn	àbù	NOUN	_	Definite=Cons	8	comp:pred	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=9|RX=[NOUN]|wordform=àbù
-10	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
+10	dà	dà	SCONJ	_	_	9	mod@relcl	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
 11	sunkà	sunkà	AUX	_	_	10	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
 13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
@@ -4134,7 +4134,7 @@
 24	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	ìnaː	ìnaː	ADV	_	_	_	_	_	GE=[where].[Int]|Gloss=where.Int|nWord=24|RX=[ADV]
 26	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Cons	_	_	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=25|RX=[NOUN]|wordform=jìmɓiri
-27	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=26|RX=[SCONJ]
+27	dà	dà	SCONJ	_	_	26	mod@relcl	_	GE=that|Gloss=that|nWord=26|RX=[SCONJ]
 28	kib	kik	AUX	_	_	27	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=27|RX=[AUX]
 29	baː	baː	VERB	_	_	28	comp:aux	_	GE=give|Gloss=give|nWord=28|RX=[VERB]
 30	nì	ni	PRON	_	_	29	comp:obj	_	GE=[1Sing]|Gloss=1Sing|nWord=29|RX=[PRON]

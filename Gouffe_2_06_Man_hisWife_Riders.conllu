@@ -280,7 +280,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 11000, 12000
-# text = dà tat ɗàuki kaːyantà, ta’ azàː bisà kâi, tak kaːmà hanyàː, tat tàhi wurim bìkiː, sai mijìntà yat taːshì, yat tàhi wurin wani àboːkiːnai, ya’ àri doːkìː, yaɗ ɗarmà sir̃dìː, yas sâː kaːyaː, yay yi naɗìː.
+# text = dà tat ɗàuki kaːyantà , ta’ azàː bisà kâi , tak kaːmà hanyàː , tat tàhi wurim bìkiː , sai mijìntà yat taːshì , yat tàhi wurin wani àboːkiːnai , ya’ àri doːkìː , yaɗ ɗarmà sir̃dìː , yas sâː kaːyaː , yay yi naɗìː .
 # text_en = After she had taken her things, put them on her head, aṅd started going to the party, then her husband got up, when to see one of his friends, borrowed a horse, saddled it, tied the caparison, and put on a turban.
 # text_orth = dà tat ɗàuki kaayantà, ta’ ’azàa bisà kaì, tak kaamà hanyàa, tat tàhi wuᵲim bìkii, sai mijìntà yat taašì, yat tàhi wuᵲin wani ’àbookiinai, ya’ ’àᵲi dookìː, yaɗ ɗaᵲmà sirdìː, yas saà kaayaa, yay yi naɗìː.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -296,7 +296,7 @@
 10	kâi	kâi	NOUN	_	_	9	comp:obj	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=9|RX=[NOUN]
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 12	tak	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=11|RX=[AUX]
-13	kaːm	kaːmàː	VERB	_	_	12	comp:aux	_	GE=catch|Gloss=catch|nWord=12|RX=[VERB]
+13	kaːmà	kaːmàː	VERB	_	_	12	comp:aux	_	GE=catch|Gloss=catch|nWord=12|RX=[VERB]
 14	hanyàː	hanyàː	NOUN	_	_	13	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=13|RX=[NOUN]
 15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 16	tat	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=15|RX=[AUX]
@@ -344,7 +344,7 @@
 # text_en = The reason why he put on a turban was to prevent his wife from recognising him.
 # text_orth = ’àbun dà yay yi naɗìː, don kam̀ màataatai tà gaanèe ši.
 1	àbùn	àbù	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbù
-2	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	yay	yak	AUX	_	_	2	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5	naɗìː	naɗìː	VERB	_	_	_	_	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=5|RX=[VERB]
@@ -465,7 +465,7 @@
 6	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=5|RX=[AUX]
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	GE=come|Gloss=come|nWord=6|RX=[VERB]
 8	gàrin	gàriː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[town].[Masc]|Gloss=town.Masc|nWord=7|RX=[NOUN]|wordform=gàri
-9	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=8|RX=[SCONJ]
+9	dà	dà	SCONJ	_	_	8	mod@relcl	_	GE=that|Gloss=that|nWord=8|RX=[SCONJ]
 10	zâː	zâː	AUX	_	_	9	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=9|RX=[AUX]
 11	ta	ta	PRON	_	_	10	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
 12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]

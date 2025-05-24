@@ -230,7 +230,7 @@
 12	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=12|RX=[AUX]
 13	kiran	kiraː	VERB	_	Definite=Cons	12	comp:aux	_	GE=call|Gloss=call|nWord=13|RX=[VERB]|wordform=kira
 14	bùdurwad	bùdurwaː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=14|RX=[NOUN]|wordform=bùdurwa
-15	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
+15	dà	dà	ADP	_	_	14	mod@relcl	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
 16	shìkà	shìkà	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=16|RX=[AUX]
 17	sôː	sôː	VERB	_	_	16	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=17|RX=[VERB]
 18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
@@ -460,7 +460,7 @@
 16	kai	kai	VERB	_	_	15	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=16|RX=[VERB]
 17	tà	ta	PRON	_	_	16	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
 18	gidan	gidaː	NOUN	_	Definite=Cons	_	_	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=18|RX=[NOUN]|wordform=gida
-19	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=19|RX=[SCONJ]
+19	dà	dà	SCONJ	_	_	18	mod@relcl	_	GE=that|Gloss=that|nWord=19|RX=[SCONJ]
 20	zâː	zâː	AUX	_	_	19	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=20|RX=[AUX]
 21	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=21|RX=[AUX]
 22-23	ruhìntà	_	_	_	_	_	_	_	_
@@ -1271,7 +1271,7 @@
 15	uwat	uwaː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=14|RX=[NOUN]|wordform=uwa
 16	-tà	-tà	PRON	_	_	15	mod/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]
 17	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=15|RX=[NOUN]|wordform=àbu
-18	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
+18	dà	dà	SCONJ	_	_	17	mod@relcl	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
 19-20	sarmàyintà	_	_	_	_	_	_	_	_
 19	sarmàyin	sarmàyiː	NOUN	_	Definite=Cons	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=17|RX=[NOUN]|wordform=sarmàyi
 20	-tà	-tà	PRON	_	_	19	mod/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=17|RX=[PRON]
@@ -1575,7 +1575,7 @@
 # text_en = "Tsarinci" is when a boy calls a girl, they go do to tsarince, they lie down ## If he feels excited when he hugs the girl, and he gets an erection, if he has no self-control, and no honour, he will ask her to have soeur with him.
 # text_orth = ’àbun dà ’as’ s’àaᵲìnci, ’in saᵲmàyii yay yi kiᵲàm bùduᵲwaa, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà yi kwànce, ’in yaᵲ ᵲùngùmi bùduᵲwaa, yaj ji sanyin jìkintà, ’in bùuᵲaatai tat taašì, ’in baà ši dà dànganàa, kuma baà ši dà kirkii, sai šì tàmbàyee tà, šì nàa soǹ šì cii tà.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
-2	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	as'	ak	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
 4	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2099,7 +2099,7 @@
 # text_en = What yawo is : when a boy sees a girl that he likes, when night comes, he dresses up, puts on a cap, or a turban, puts on some perfume, and takes his sword.
 # text_orth = ’àbun dà ’ay yaawòo, ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
-2	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	ay	ak	IdPART	_	_	_	_	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=3|RX=[IDPART]
 4	yaːwòː	yaːwòː	NOUN	_	_	_	_	_	GE=[strolling].[Masc]|Gloss=strolling.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2804,7 +2804,7 @@
 35	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
 36	har̃	har̃	ADP	_	_	_	_	_	GE=until|Gloss=until|nWord=35|RX=[ADP]
 37	lokàcin	lokàciː	NOUN	_	Definite=Cons	36	comp:obj	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=36|RX=[NOUN]|wordform=lokàci
-38	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=37|RX=[SCONJ]
+38	dà	dà	SCONJ	_	_	37	mod@relcl	_	GE=that|Gloss=that|nWord=37|RX=[SCONJ]
 39	sunkà	sunkà	AUX	_	_	38	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=38|RX=[AUX]
 40	soː	soː	VERB	_	_	39	comp:aux	_	GE=like/love/want|Gloss=like/love/want|nWord=39|RX=[VERB]
 41	gidaː	gidaː	NOUN	_	_	40	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=40|RX=[NOUN]

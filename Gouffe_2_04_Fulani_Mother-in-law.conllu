@@ -114,7 +114,7 @@
 # text_en = The day God gave him an opportunity, that mother-in-law of his, she said she was going to the village to see her relatives, let him and his wife, her daughter, accompany her.
 # text_orth = ᵲad dà ’allàa yab baa šì sa’àa, ’ita sàᵲàkkuwân nan taašì, sai tac ceè zaà ta ’ùnguwaa, tà ganoo dangìi, sù šiᵲyàa, dà šii dà màataatai, ɗìyat’ taatà, sù ᵲàkkyee tà.
 1	raːnad	raːnaː	NOUN	_	Definite=Cons	_	_	_	GE=sun/day|Gloss=sun/day|nWord=1|RX=[NOUN]|wordform=raːna
-2	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
+2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	allàː	allàː	PROPN	_	_	_	_	_	GE=[God]|Gloss=God|nWord=3|RX=[PROPN]
 4	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
 5	baː	baː	VERB	_	_	4	comp:aux	_	GE=give|Gloss=give|nWord=5|RX=[VERB]
@@ -487,7 +487,7 @@
 13	mù	mù	AUX	_	_	_	_	_	GE=[1Plur].[Aor]|Gloss=1Plur.Aor|nWord=13|RX=[AUX]
 14	ji	ji	VERB	_	_	13	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=14|RX=[VERB]
 15	àbun	àbu	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=15|RX=[NOUN]|wordform=àbu
-16	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
+16	dà	dà	SCONJ	_	_	15	mod@relcl	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
 17	dawàː	dawàː	NOUN	_	_	_	_	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=17|RX=[NOUN]
 18	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
 19	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=19|RX=[IDPART]
@@ -674,7 +674,7 @@
 18	kinàː	kinàː	AUX	_	_	_	_	_	GE=[2Fem].[Imp]|Gloss=2Fem.Imp|nWord=17|RX=[AUX]
 19	jîn	jîː	VERB	_	Definite=Cons	18	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=18|RX=[VERB]|wordform=jî
 20	àbun	àbu	NOUN	_	Definite=Cons	19	udep	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbu
-21	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
+21	dà	dà	SCONJ	_	_	20	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
 22	dawàː	dawàː	NOUN	_	_	_	_	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=21|RX=[NOUN]
 23	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
 24	cêː	cêː	VERB	_	_	23	comp:aux	_	GE=say|Gloss=say|nWord=23|RX=[VERB]
@@ -731,7 +731,7 @@
 11	kà	kà	AUX	_	_	_	_	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
 13	àbun	àbu	NOUN	_	Definite=Cons	12	comp:pred	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=13|RX=[NOUN]|wordform=àbu
-14	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=14|RX=[SCONJ]
+14	dà	dà	SCONJ	_	_	13	mod@relcl	_	GE=that|Gloss=that|nWord=14|RX=[SCONJ]
 15	kay	kak	AUX	_	_	14	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=15|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
 17	niyyàː	niyyàː	NOUN	_	_	16	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=17|RX=[NOUN]
