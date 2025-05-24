@@ -466,7 +466,7 @@
 27	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=27|RX=[CCONJ]
 28	wani	wani	DET	_	PronType=Spec	29	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
 29	gwangwanin	gwangwaniː	NOUN	_	Definite=Cons	_	_	_	GE=[tin].[Masc]|Gloss=tin.Masc|nWord=29|RX=[NOUN]|wordform=gwangwani
-30	mùntàleːtàː	mùntàleːtàː	X	_	_	_	_	_	GE=[X]|Gloss=X|nWord=30|RX=[X]
+30	mùntàleːtàː	mùntàleːtàː	X	_	_	29	mod	_	GE=[X]|Gloss=X|nWord=30|RX=[X]
 31	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 32	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
 33	maː	maː	TopPART	_	_	32	mod@top	_	GE=self|Gloss=self|nWord=33|RX=[TOPPART]
@@ -504,7 +504,7 @@
 21	shi	shi	PRON	_	_	20	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=21|RX=[PRON]
 22	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=22|RX=[ADP]
 23	gwangwanin	gwangwaniː	NOUN	_	Definite=Cons	22	comp:obj	_	GE=[tin].[Masc]|Gloss=tin.Masc|nWord=23|RX=[NOUN]|wordform=gwangwani
-24	mùntàleːtàː	mùntàleːtàː	X	_	_	_	_	_	GE=[X]|Gloss=X|nWord=24|RX=[X]
+24	mùntàleːtàː	mùntàleːtàː	X	_	_	23	mod	_	GE=[X]|Gloss=X|nWord=24|RX=[X]
 25	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 26	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=26|RX=[AUX]
 27	ruhèː	ruhèː	VERB	_	_	26	comp:aux	_	GE=close|Gloss=close|nWord=27|RX=[VERB]
@@ -1104,7 +1104,7 @@
 21	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 22	irìna	irìː	NOUN	_	Definite=Cons	_	_	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=22|RX=[NOUN]|wordform=irìn
 23	ƙasa’	ƙasaː	NOUN	_	Definite=Cons	22	mod	_	GE=[ground/country].[Fem]|Gloss=ground/country.Fem|nWord=24|RX=[NOUN]|wordform=ƙasa
-24	abzìn	abzìn	PROPN	_	_	_	_	_	GE=[Azben]|Gloss=Azben|nWord=25|RX=[PROPN]
+24	abzìn	abzìn	PROPN	_	_	23	mod	_	GE=[Azben]|Gloss=Azben|nWord=25|RX=[PROPN]
 25	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 26	sai	sai	ADV	_	_	27	mod	_	GE=then|Gloss=then|nWord=27|RX=[ADV]
 27	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=28|RX=[AUX]
@@ -1250,7 +1250,7 @@
 1	don	don	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	maːgànin	maːgàniː	NOUN	_	Definite=Cons	_	_	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=3|RX=[NOUN]|wordform=maːgàni
-4	zuːgàl	zuːgàl	PROPN	_	_	_	_	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
+4	zuːgàl	zuːgàl	PROPN	_	_	3	mod	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	mùtum	mùtun	NOUN	_	_	_	_	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=6|RX=[NOUN]
 7	bâːshi	bâːshi	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=7|RX=[AUX]
@@ -1555,7 +1555,7 @@
 8	’yan	ɗan	ADJ	_	_	9	mod	_	GE=[young].[Plur]|Gloss=little.Plur|nWord=8|RX=[ADJ]
 9	ruwaːa	ruwaː	NOUN	_	Definite=Cons	_	_	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=9|RX=[NOUN]|wordform=ruwaː
 10	kaskon	kaskoː	NOUN	_	Definite=Cons	9	mod	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=11|RX=[NOUN]|wordform=kasko
-11	abaraː	abaraː	NOUN.FEM	_	_	_	_	_	GE=pigeon|Gloss=pigeon|nWord=12|RX=[NOUN].[FEM]
+11	abaraː	abaraː	NOUN.FEM	_	_	10	mod	_	GE=pigeon|Gloss=pigeon|nWord=12|RX=[NOUN].[FEM]
 12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 13	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
 14	ajèː	ajèː	VERB	_	_	13	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=15|RX=[VERB]
@@ -1778,7 +1778,7 @@
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ruwan	ruwaː	NOUN	_	Definite=Cons	_	_	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=4|RX=[NOUN]|wordform=ruwa
-4	abaraː	abaraː	NOUN.FEM	_	_	_	_	_	GE=pigeon|Gloss=pigeon|nWord=5|RX=[NOUN].[FEM]
+4	abaraː	abaraː	NOUN.FEM	_	_	3	mod	_	GE=pigeon|Gloss=pigeon|nWord=5|RX=[NOUN].[FEM]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 7	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
@@ -1998,7 +1998,7 @@
 11	ƙùrugà	ƙùrugà	NOUN	_	_	10	mod	_	GE=[one_seed_groundnut].[Fem]|Gloss=one_seed_groundnut.Fem|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	yaƙ	yaː	NOUN	_	Definite=Cons	_	_	_	GE=[daughter].[Fem]|Gloss=daughter.Fem|nWord=13|RX=[NOUN]|wordform=ya
-14	ƙanaːnàː	ƙanaːnàː	ADJ	_	_	_	_	_	GE=[small].[Plur]|Gloss=small.Plur|nWord=14|RX=[ADJ]
+14	ƙanaːnàː	ƙanaːnàː	ADJ	_	_	13	mod	_	GE=[small].[Plur]|Gloss=small.Plur|nWord=14|RX=[ADJ]
 15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	ɗaː	ɗaː	NOUN	_	_	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=16|RX=[NOUN]
 17	tar̃à	tar̃à	NUM	_	_	_	_	_	GE=nine|Gloss=nine|nWord=17|RX=[NUM]
@@ -2915,7 +2915,7 @@
 14	raːnaː	raːnaː	NOUN	_	_	_	_	_	GE=sun/day|Gloss=sun/day|nWord=14|RX=[NOUN]
 15	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=15|RX=[AUX]
 16	shirin	shiriː	NOUN	_	Definite=Cons	_	_	_	GE=[preparation].[Masc]|Gloss=preparation.Masc|nWord=16|RX=[NOUN]|wordform=shiri
-17	hwaːɗùwaː	hwaːɗùwaː	VERB	_	_	_	_	_	GE=[fall].[Nmlz].[Fem]|Gloss=fall.Nmlz.Fem|nWord=17|RX=[VERB]
+17	hwaːɗùwaː	hwaːɗùwaː	VERB	_	_	16	mod	_	GE=[fall].[Nmlz].[Fem]|Gloss=fall.Nmlz.Fem|nWord=17|RX=[VERB]
 18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_109-109
@@ -3961,7 +3961,7 @@
 2	yaɗ	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗeeboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take.Dir|nWord=3|RX=[VERB]|wordform=ɗeeb
 4	ruwan	ruwaː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=4|RX=[NOUN]|wordform=ruwa
-5	wankìn	wankìː	VERB	_	Definite=Cons	_	_	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=wankì
+5	wankìn	wankìː	VERB	_	Definite=Cons	4	mod	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=wankì
 6	idòː	idòː	NOUN	_	_	5	udep	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
@@ -4105,7 +4105,7 @@
 1	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	ruwan	ruwaː	NOUN	_	Definite=Cons	_	_	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=3|RX=[NOUN]|wordform=ruwa
-4	wankìn	wankìː	VERB	_	Definite=Cons	_	_	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=wankì
+4	wankìn	wankìː	VERB	_	Definite=Cons	3	mod	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=wankì
 5	idòː	idòː	NOUN	_	_	4	udep	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=5|RX=[NOUN]
 6	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
 7	wankàː	wankàː	VERB	_	_	6	comp:aux	_	GE=wash|Gloss=wash|nWord=7|RX=[VERB]
@@ -5420,7 +5420,7 @@
 4	kaskàː	kaskàː	NOUN	_	_	3	comp:obj	_	GE=[tick].[Fem]|Gloss=tick.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	iyàːkaw	iyàːkaː	NOUN	_	Definite=Cons	_	_	_	GE=[totality].[Fem]|Gloss=totality.Fem|nWord=6|RX=[NOUN]|wordform=iyàːka
-7	waddà	waddà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=7|RX=[PRON]
+7	waddà	waddà	PRON	_	PronType=Rel	6	mod	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=7|RX=[PRON]
 8	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=8|RX=[AUX]
 9	sôː	sôː	VERB	_	_	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -6201,7 +6201,7 @@
 20	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=19|RX=[AUX]
 21	shiryà	shiryàː	VERB	_	_	20	comp:aux	_	GE=prepare|Gloss=prepare|nWord=20|RX=[VERB]
 22	bùtun	bùtu	NOUN	_	Definite=Cons	21	comp:obj	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=21|RX=[NOUN]|wordform=bùtu
-23	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=22|RX=[VERB]
+23	kwaːnaː	kwaːnaː	VERB	_	_	22	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=22|RX=[VERB]
 24	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=24|RX=[SCONJ]
 26	taː	taː	AUX	_	_	25	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=25|RX=[AUX]
@@ -6639,7 +6639,7 @@
 4	zuːgàl	zuːgàl	PROPN	_	_	_	_	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	maːgànim	maːgàniː	NOUN	_	Definite=Cons	_	_	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=6|RX=[NOUN]|wordform=maːgàni
-7	màllakàm	màllakàː	VERB	_	Definite=Cons	_	_	_	GE=[possess].[Nmlz].[Fem]|Gloss=possess.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=màllakà
+7	màllakàm	màllakàː	VERB	_	Definite=Cons	6	mod	_	GE=[possess].[Nmlz].[Fem]|Gloss=possess.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=màllakà
 8	màccè	màccè	NOUN	_	_	7	udep	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=8|RX=[NOUN]
 9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
 

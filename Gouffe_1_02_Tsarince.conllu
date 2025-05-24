@@ -149,7 +149,7 @@
 39	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=36|RX=[AUX]
 40	tàhi	tàhi	VERB	_	_	39	comp:aux	_	GE=go|Gloss=go|nWord=37|RX=[VERB]
 41	wurin	wuriː	NOUN	_	Definite=Cons	40	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=38|RX=[NOUN]|wordform=wuri
-42	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=39|RX=[VERB]
+42	kwaːnaː	kwaːnaː	VERB	_	_	41	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=39|RX=[VERB]
 43	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
 44	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=41|RX=[ADP]
 45	ita	ita	PRON	_	_	44	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=42|RX=[PRON]
@@ -468,7 +468,7 @@
 23	-tà	-tà	PRON	_	_	22	udep/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]
 24	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	ruhin	ruhiː	NOUN	_	Definite=Cons	_	_	_	GE=[seclusion].[Masc]|Gloss=seclusion.Masc|nWord=24|RX=[NOUN]|wordform=ruhi
-26	zaman	zamaː	VERB	_	Definite=Cons	_	_	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=25|RX=[VERB]|wordform=zama
+26	zaman	zamaː	VERB	_	Definite=Cons	25	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=25|RX=[VERB]|wordform=zama
 27	lallèː	lallèː	NOUN	_	_	26	udep	_	GE=[henna].[Masc]|Gloss=henna.Masc|nWord=26|RX=[NOUN]
 28	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 29	dus	dukà	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=28|RX=[DET]
@@ -667,26 +667,26 @@
 38	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
 39	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
 40	ɗan	ɗaː	NOUN	_	Definite=Cons	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=40|RX=[NOUN]|wordform=ɗa
-41	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=41|RX=[PRON]
+41	waːnè	waːnè	PRON	_	PronType=Indef	40	mod	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=41|RX=[PRON]
 42	jiːkàn	jiːkàː	NOUN	_	Definite=Cons	_	_	_	GE=[grand-child].[Masc]|Gloss=grand-child.Masc|nWord=42|RX=[NOUN]|wordform=jiːkà
-43	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=43|RX=[PRON]
+43	waːnè	waːnè	PRON	_	PronType=Indef	42	mod	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=43|RX=[PRON]
 44	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
 45	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=45|RX=[CCONJ]
 46	ɗan	ɗaː	NOUN	_	Definite=Cons	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=46|RX=[NOUN]|wordform=ɗa
-47	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=47|RX=[PRON]
+47	waːnè	waːnè	PRON	_	PronType=Indef	46	mod	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=47|RX=[PRON]
 48	jiːkàn	jiːkàː	NOUN	_	Definite=Cons	_	_	_	GE=[grand-child].[Masc]|Gloss=grand-child.Masc|nWord=48|RX=[NOUN]|wordform=jiːkà
-49	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=49|RX=[PRON]
+49	waːnè	waːnè	PRON	_	PronType=Indef	48	mod	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=49|RX=[PRON]
 50	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=50|RX=[PUNCT]
 51	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=51|RX=[CCONJ]
 52	’yaw	’yaː	NOUN	_	Definite=Cons	_	_	_	GE=[daughter].[Fem]|Gloss=daughter.Fem|nWord=52|RX=[NOUN]|wordform=’ya
-53	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=53|RX=[PRON]
+53	waːnè	waːnè	PRON	_	PronType=Indef	52	mod	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=53|RX=[PRON]
 54	jiːkàw	jiːkàː	NOUN	_	Definite=Cons	_	_	_	GE=[grand-daughter].[Fem]|Gloss=grand-daughter.Fem|nWord=54|RX=[NOUN]|wordform=jiːkà
-55	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=55|RX=[PRON]
+55	waːnè	waːnè	PRON	_	PronType=Indef	54	mod	_	GE=[So_and_So].[Fem]|Gloss=So_and_So.Fem|nWord=55|RX=[PRON]
 56	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=56|RX=[CCONJ]
 57	’yaːw	’yaː	NOUN	_	Definite=Cons	_	_	_	GE=[daughter].[Fem]|Gloss=daughter.Fem|nWord=57|RX=[NOUN]|wordform=’yaː
-58	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=58|RX=[PRON]
+58	waːnè	waːnè	PRON	_	PronType=Indef	57	mod	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=58|RX=[PRON]
 59	jiːkàw	jiːkàː	NOUN	_	Definite=Cons	_	_	_	GE=[grand-daughter].[Fem]|Gloss=grand-daughter.Fem|nWord=59|RX=[NOUN]|wordform=jiːkà
-60	waːnè	waːnè	PRON	_	PronType=Indef	_	_	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=60|RX=[PRON]
+60	waːnè	waːnè	PRON	_	PronType=Indef	59	mod	_	GE=[So_and_So].[Masc]|Gloss=So_and_So.Masc|nWord=60|RX=[PRON]
 61	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=61|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_17-17
@@ -715,7 +715,7 @@
 17	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=17|RX=[CCONJ]
 18	suːnàːyen	suːnàːyeː	NOUN	_	Definite=Cons	_	_	_	GE=[name].[Plur]|Gloss=name.Plur|nWord=18|RX=[NOUN]|wordform=suːnàːye
 19	kàːkànnin	kàːkànniː	NOUN	_	Definite=Cons	18	mod	_	GE=[grand-parent].[Plur]|Gloss=grand-parent.Plur|nWord=19|RX=[NOUN]|wordform=kàːkànni
-20	’yam	’yan	ADJ	_	_	_	_	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=20|RX=[ADJ]
+20	’yam	’yan	ADJ	_	_	19	mod	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=20|RX=[ADJ]
 21	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=21|RX=[NOUN]
 22	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=22|RX=[CCONJ]
 23	suːnàːyen	suːnàːyeː	NOUN	_	Definite=Cons	_	_	_	GE=[name].[Plur]|Gloss=name.Plur|nWord=23|RX=[NOUN]|wordform=suːnàːye
@@ -909,7 +909,7 @@
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	wurin	wuriː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=4|RX=[NOUN]|wordform=wuri
-5	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
+5	kwaːnaː	kwaːnaː	VERB	_	_	4	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=7|RX=[SCONJ]
 8	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	_	_	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=8|RX=[NOUN]
@@ -1978,7 +1978,7 @@
 37	kaː	kai	VERB	_	_	36	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=37|RX=[VERB]
 38	-woː	-oː	PART	_	_	_	_	_	GE=[Dir]|Gloss=Dir|nWord=37|RX=[PART]
 39	duːkìyaw	duːkìyaː	NOUN	_	Definite=Cons	_	_	_	GE=cattle|Gloss=cattle|nWord=38|RX=[NOUN]|wordform=duːkìya
-40	wâncân	wâncân	PRON	_	_	_	_	_	GE=[Dist].[Masc]|Gloss=Dist.Masc|nWord=39|RX=[PRON]
+40	wâncân	wâncân	PRON	_	_	39	mod	_	GE=[Dist].[Masc]|Gloss=Dist.Masc|nWord=39|RX=[PRON]
 41	wandà	wandà	PRON	_	PronType=Rel	_	_	_	GE=who|Gloss=who|nWord=40|RX=[PRON]
 42	bâːki	bâːki	AUX	_	_	_	_	_	GE=[2Fem].[Imp].[Neg]|Gloss=2Fem.Imp.Neg|nWord=41|RX=[AUX]
 43	sôː	sôː	VERB	_	_	42	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=42|RX=[VERB]
@@ -2268,7 +2268,7 @@
 14	buːɗèː	buːɗèː	VERB	_	_	13	comp:aux	_	GE=open|Gloss=open|nWord=13|RX=[VERB]
 15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 16	gìːgin	gìːgiː	NOUN	_	Definite=Cons	_	_	_	GE=[dizziness].[Masc]|Gloss=dizziness.Masc|nWord=15|RX=[NOUN]|wordform=gìːgi
-17	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=16|RX=[VERB]
+17	kwaːnaː	kwaːnaː	VERB	_	_	16	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=16|RX=[VERB]
 18	yas	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
 19	sàkeː	sàkaː	VERB	_	_	18	comp:aux	_	GE=leave|Gloss=leave|nWord=18|RX=[VERB]
 20	tà	ta	PRON	_	_	19	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=19|RX=[PRON]
@@ -2595,7 +2595,7 @@
 41	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
 42	àkwai	àkwai	PREDPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=40|RX=[PREDPART]
 43	zàncen	zànceː	NOUN	_	Definite=Cons	42	subj	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=41|RX=[NOUN]|wordform=zànce
-44	màːsu	màːsu	PART	_	_	_	_	_	GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=42|RX=[PART]
+44	màːsu	màːsu	PART	_	_	43	mod	_	GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=42|RX=[PART]
 45	yîn	yîː	VERB	_	Definite=Cons	_	_	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=43|RX=[VERB]|wordform=yî
 46	tàbiː’àː	tàbiː’àː	NOUN	_	_	45	udep	_	GE=[custom].[Fem]|Gloss=custom.Fem|nWord=44|RX=[NOUN]
 47	kàmar̃	kàmar̃	ADP	_	_	_	_	_	GE=like|Gloss=like|nWord=45|RX=[ADP]
@@ -2651,7 +2651,7 @@
 8	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
 9	tàhi	tàhi	VERB	_	_	8	comp:aux	_	GE=go|Gloss=go|nWord=8|RX=[VERB]
 10	wurin	wuriː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]|wordform=wuri
-11	kwanaː	kwanaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=10|RX=[VERB]
+11	kwanaː	kwanaː	VERB	_	_	10	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=10|RX=[VERB]
 12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 13	kwântaː	kwântaː	VERB	_	_	_	_	_	GE=[lie_down].[Part]|Gloss=lie_down.Part|nWord=12|RX=[VERB]
 14-15	sukài	_	_	_	_	_	_	_	_
@@ -2739,7 +2739,7 @@
 26	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=26|RX=[AUX]
 27	tàhi	tàhi	VERB	_	_	26	comp:aux	_	GE=go|Gloss=go|nWord=27|RX=[VERB]
 28	wurin	wuriː	NOUN	_	Definite=Cons	27	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=28|RX=[NOUN]|wordform=wuri
-29	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=29|RX=[VERB]
+29	kwaːnaː	kwaːnaː	VERB	_	_	28	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=29|RX=[VERB]
 30	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 31	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=31|RX=[AUX]
 32	yi	yi	VERB	_	_	31	comp:aux	_	GE=do|Gloss=do|nWord=32|RX=[VERB]
