@@ -6,7 +6,7 @@
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_orth = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
 1	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=1|RX=[AUX]
-2	mu	mu	PRON	_	_	1	subj	_	GE=[1Plur]|Gloss=1Plur|nWord=2|RX=[PRON]
+2	mu	mu	PRON	_	_	1	subj/m	_	GE=[1Plur]|Gloss=1Plur|nWord=2|RX=[PRON]
 3	baː	baː	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=3|RX=[VERB]
 4	kù	kù	PRON	_	_	3	comp:obj	_	GE=[2Plur]|Gloss=2Plur|nWord=4|RX=[PRON]
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	_	_	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=5|RX=[NOUN]
@@ -97,7 +97,7 @@
 13	wàdà	wàdà	ADV	_	_	_	_	_	GE=how|Gloss=how|nWord=12|RX=[ADV]
 14	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=13|RX=[AUX]
 15-16	kâi	_	_	_	_	_	_	_	_
-15	ka	ka	PRON	_	_	14	subj	_	GE=[2Masc]|Gloss=2Masc|nWord=14|RX=[PRON]
+15	ka	ka	PRON	_	_	14	subj/m	_	GE=[2Masc]|Gloss=2Masc|nWord=14|RX=[PRON]
 16	yîː	yi	VERB	_	_	14	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
 17	kà	kà	AUX	_	_	_	_	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=15|RX=[AUX]
 18	ci	ci	VERB	_	_	17	comp:aux	_	GE=have_sex_with|Gloss=have_sex_with|nWord=16|RX=[VERB]
@@ -130,7 +130,7 @@
 15	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=15|RX=[AUX]
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	GE=say|Gloss=say|nWord=16|RX=[VERB]
 17	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
-18	ta	ta	PRON	_	_	17	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
+18	ta	ta	PRON	_	_	17	subj/m	_	GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
 19	ùnguwaː	ùnguwaː	NOUN	_	_	_	_	_	GE=[village].[Fem]|Gloss=village.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=21|RX=[AUX]
@@ -199,7 +199,7 @@
 # text_orth = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	su	su	PRON	_	_	2	subj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
+3	su	su	PRON	_	_	2	subj/m	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
 4	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
@@ -419,7 +419,7 @@
 6	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=6|RX=[INTJ]
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	_	_	_	GE=how|Gloss=how|nWord=7|RX=[ADV]
 8	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
-9	mu	mu	PRON	_	_	8	subj	_	GE=[1Plur]|Gloss=1Plur|nWord=9|RX=[PRON]
+9	mu	mu	PRON	_	_	8	subj/m	_	GE=[1Plur]|Gloss=1Plur|nWord=9|RX=[PRON]
 10	yîː	yi	VERB	_	_	8	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=10|RX=[VERB]
 11	tun	tun	SCONJ	_	_	_	_	_	GE=since/before|Gloss=since/before|nWord=11|RX=[SCONJ]
 12	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=12|RX=[SCONJ]
@@ -723,7 +723,7 @@
 3	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	_	_	_	GE=how|Gloss=how|nWord=4|RX=[ADV]
 5	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=5|RX=[AUX]
-6	ni	ni	PRON	_	_	5	subj	_	GE=[1Sing]|Gloss=1Sing|nWord=6|RX=[PRON]
+6	ni	ni	PRON	_	_	5	subj/m	_	GE=[1Sing]|Gloss=1Sing|nWord=6|RX=[PRON]
 7	cêːwaː	cêː	VERB	_	_	5	comp:aux	_	GE=say|Gloss=say.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=cêː
 8	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=8|RX=[PUNCT]
 9	ai	ai	INTJ	_	_	_	_	_	GE=eh|Gloss=eh|nWord=9|RX=[INTJ]

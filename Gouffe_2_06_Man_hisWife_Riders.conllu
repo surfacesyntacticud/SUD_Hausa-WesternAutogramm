@@ -38,8 +38,8 @@
 7	gùdaː	gùdaː	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=7|RX=[NUM]
 8	kâu	kâu	TopPART	_	_	7	mod@top	_	GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
 9	bâː	bâː	PREDPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=9|RX=[PREDPART]
-10	shi	shi	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
-11	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
+10	shi	shi	PRON	_	_	9	subj/m	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
+11	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
 12	doːkìː	doːkìː	NOUN	_	_	11	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
 13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
 
@@ -213,7 +213,7 @@
 6	niyyàː	niyyàː	NOUN	_	_	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
-9	ta	ta	PRON	_	_	8	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
+9	ta	ta	PRON	_	_	8	subj/m	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
 10	tàhiyàː	tàhiyàː	VERB	_	_	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
 11	wurim	wuriː	NOUN	_	Definite=Cons	10	udep	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
 12	bìkiː	bìkiː	NOUN	_	_	11	mod	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
@@ -238,7 +238,7 @@
 4	maːsàː	maːsàː	NOUN	_	_	3	comp:obj	_	GE=[pancake].[Fem]|Gloss=pancake.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=6|RX=[AUX]
-7	ta	ta	PRON	_	_	6	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=7|RX=[PRON]
+7	ta	ta	PRON	_	_	6	subj/m	_	GE=[3Fem]|Gloss=3Fem|nWord=7|RX=[PRON]
 8	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=8|RX=[NOUN]|wordform=wuri
 9	bìkiː	bìkiː	NOUN	_	_	8	mod	_	GE=festivity|Gloss=festivity|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -250,7 +250,7 @@
 15	-tà	-tà	PRON	_	_	14	mod/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]
 16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 17	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=16|RX=[AUX]
-18	ta	ta	PRON	_	_	17	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
+18	ta	ta	PRON	_	_	17	subj/m	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
 19	tàhiyàː	tàhiyàː	VERB	_	_	17	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
 20	wurim	wuriː	NOUN	_	Definite=Cons	19	udep	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=19|RX=[NOUN]|wordform=wuri
 21	bìkiː	bìkiː	NOUN	_	_	20	mod	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
@@ -467,7 +467,7 @@
 8	gàrin	gàriː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[town].[Masc]|Gloss=town.Masc|nWord=7|RX=[NOUN]|wordform=gàri
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	GE=that|Gloss=that|nWord=8|RX=[SCONJ]
 10	zâː	zâː	AUX	_	_	9	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=9|RX=[AUX]
-11	ta	ta	PRON	_	_	10	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
+11	ta	ta	PRON	_	_	10	subj/m	_	GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
 12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
 14	yas	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=13|RX=[AUX]
@@ -670,7 +670,7 @@
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	zâː	zâː	AUX	_	_	3	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=4|RX=[AUX]
-5	shi	shi	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
+5	shi	shi	PRON	_	_	4	subj/m	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
 6	tàhiyàː	tàhiyàː	VERB	_	_	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
@@ -932,7 +932,7 @@
 # text_orth = dà zaà ši tàhiyàa, dàn naǹ gidaa, sai yac ci waakee, koo kàn šì zoo can, cikìːnai yaa yi kùmbùᵲii.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	shi	shi	PRON	_	_	2	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
+3	shi	shi	PRON	_	_	2	subj/m	_	GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
 4	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	dàn	dàgà	ADP	_	_	_	_	_	GE=from|Gloss=from|nWord=6|RX=[ADP]
@@ -1341,8 +1341,8 @@
 41	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=41|RX=[NOUN]
 42	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
 43	bâː	bâː	PREDPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=43|RX=[PREDPART]
-44	koːmiː	koːmiː	PRON	_	_	_	_	_	GE=anything|Gloss=anything|nWord=44|RX=[PRON]
-45	gà	gà	ADP	_	_	_	_	_	GE=at|Gloss=at|nWord=45|RX=[ADP]
+44	koːmiː	koːmiː	PRON	_	_	43	subj	_	GE=anything|Gloss=anything|nWord=44|RX=[PRON]
+45	gà	gà	ADP	_	_	43	comp:pred	_	GE=at|Gloss=at|nWord=45|RX=[ADP]
 46	ɗwaim	ɗwai	NOUN	_	Definite=Cons	45	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=46|RX=[NOUN]|wordform=ɗwai
 47	mài	mài	PART	_	_	46	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=47|RX=[PART]
 48	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=48|RX=[NOUN]
