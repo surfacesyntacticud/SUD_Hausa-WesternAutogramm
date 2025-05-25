@@ -479,7 +479,7 @@
 30	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 31	taz	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=30|RX=[AUX]
 32	zama	zama	VERB	_	_	31	comp:aux	_	GE=become|Gloss=become|nWord=31|RX=[VERB]
-33	bùdurwaː	bùdurwaː	NOUN	_	_	32	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=32|RX=[NOUN]
+33	bùdurwaː	bùdurwaː	NOUN	_	_	32	comp:pred	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=32|RX=[NOUN]
 34	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 35	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=34|RX=[AUX]
 36	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=35|RX=[ADV]
@@ -553,7 +553,7 @@
 11	taz	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=11|RX=[AUX]
 12	zama	zama	VERB	_	_	11	comp:aux	_	GE=become|Gloss=become|nWord=12|RX=[VERB]
 13-14	màːtaːtai	_	_	_	_	_	_	_	_
-13	màːtaː	màːtaː	NOUN	_	_	12	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=13|RX=[NOUN]
+13	màːtaː	màːtaː	NOUN	_	_	12	comp:pred	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=13|RX=[NOUN]
 14	-tai	-ai	PRON	_	_	13	mod/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=13|RX=[PRON]|wordform=-ai
 15	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
 
@@ -2450,7 +2450,7 @@
 21	ìn	ìn	AUX	_	_	_	_	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=19|RX=[AUX]
 22-23	ganai	_	_	_	_	_	_	_	_
 22	gan	ganiː	VERB	_	_	21	comp:aux	_	GE=see|Gloss=see|nWord=20|RX=[VERB]
-23	-ai	-ai	PRON	_	_	22	comp:obj	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=20|RX=[PRON]
+23	-ai	-ai	PRON	_	_	22	comp/m:obj	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=20|RX=[PRON]
 24	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_080-080
