@@ -204,7 +204,7 @@
 # text_en = If there is no pipe, you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_orth = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	baːbù	baːbù	PREDPART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is_no|nWord=2|RX=[PREDPART]
+2	baːbù	baːbù	PredPART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is_no|nWord=2|RX=[PREDPART]
 3	loːhèː	loːhèː	NOUN	_	_	2	subj	_	GE=[pipe].[Masc]|Gloss=pipe.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
@@ -400,7 +400,7 @@
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 6	wa’àndà	wa’àndà	PRON	_	PronType=Rel	7	subj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=16|RX=[PRON]
 7	sunkà	sunkà	AUX	_	_	3	mod@relcl	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=17|RX=[AUX]
-8	buːshèː	buːshèː	BERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=18|RX=[BERB]
+8	buːshèː	buːshèː	VERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=18|RX=[BERB]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 10	sunkà	sunkà	AUX	_	_	7	conj:svc	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=20|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	GE=do|Gloss=do|nWord=21|RX=[VERB]
@@ -425,7 +425,7 @@
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	wa’àndà	wa’àndà	PRON	_	PronType=Rel	7	subj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=6|RX=[PRON]
 7	sunkà	sunkà	AUX	_	_	3	mod@relcl	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
-8	buːshèː	buːshèː	BERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=8|RX=[BERB]
+8	buːshèː	buːshèː	VERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=8|RX=[BERB]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sunkà	sunkà	AUX	_	_	7	conj:svc	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=10|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	GE=do|Gloss=do|nWord=11|RX=[VERB]
@@ -603,7 +603,7 @@
 3	bandà	bandà	ADP	_	_	15	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	suː	suː	PRON	_	_	3	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	àkwai	àkwai	PREDPART	_	_	15	discourse	_	GE=there_is|Gloss=there_is|nWord=6|RX=[PREDPART]
+6	àkwai	àkwai	PredPART	_	_	15	discourse	_	GE=there_is|Gloss=there_is|nWord=6|RX=[PREDPART]
 7	itàːceː	itàːceː	NOUN	_	_	6	subj	_	GE=[tree].[Plur]|Gloss=tree.Plur|nWord=7|RX=[NOUN]
 8	dà	dà	ADP	_	_	7	mod	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
 9	yawàː	yawàː	NOUN	_	_	8	comp:obj	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=9|RX=[NOUN]
@@ -751,7 +751,7 @@
 26	-tai	-ai	PRON	_	_	25	mod/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=25|RX=[PRON]|wordform=-ai
 27	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 28	in	in	SCONJ	_	_	33	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
-29	àkwai	àkwai	PREDPART	_	_	28	comp:obj	_	GE=there_is|Gloss=there_is|nWord=28|RX=[PREDPART]
+29	àkwai	àkwai	PredPART	_	_	28	comp:obj	_	GE=there_is|Gloss=there_is|nWord=28|RX=[PREDPART]
 30	ƙarhèː	ƙarhèː	NOUN	_	_	29	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=29|RX=[NOUN]
 31	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 32	sai	sai	ADV	_	_	33	mod	_	GE=then|Gloss=then|nWord=31|RX=[ADV]
@@ -884,7 +884,7 @@
 13	wàːsat	wàːsaː	NOUN	_	Definite=Cons	12	comp:aux	_	GE=[game].[Fem]|Gloss=game.Fem|nWord=13|RX=[NOUN]|wordform=wàːsa
 14	tauri	tauri	NOUN	_	_	13	mod	_	GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	àkwai	àkwai	PREDPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=16|RX=[PREDPART]
+16	àkwai	àkwai	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=16|RX=[PREDPART]
 17	maːgàniː	maːgàniː	NOUN	_	_	16	subj	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=17|RX=[NOUN]
 18	dà	dà	ADP	_	_	17	mod	_	GE=with|Gloss=with|nWord=18|RX=[ADP]
 19	yawàː	yawàː	NOUN	_	_	18	comp:obj	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=19|RX=[NOUN]
@@ -1719,7 +1719,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
-9	baːbù	baːbù	PREDPART	_	_	8	comp:obj	_	GE=there_is_no|Gloss=there_is_no|nWord=9|RX=[PREDPART]
+9	baːbù	baːbù	PredPART	_	_	8	comp:obj	_	GE=there_is_no|Gloss=there_is_no|nWord=9|RX=[PREDPART]
 10	ƙarhèn	ƙarhèː	NOUN	_	Definite=Def	9	subj	_	GE=[iron].[Masc].[Def]|Gloss=iron.Masc.Def|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
@@ -1857,7 +1857,7 @@
 5	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=5|RX=[AUX]
 6	shanyàː	shanyàː	VERB	_	_	5	comp:aux	_	GE=dry_in_sun|Gloss=dry_in_sun|nWord=6|RX=[VERB]
 7	shì	shì	AUX	_	_	6	mod	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=7|RX=[AUX]
-8	buːshèː	buːshèː	BERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=8|RX=[BERB]
+8	buːshèː	buːshèː	VERB	_	_	7	comp:aux	_	GE=dry|Gloss=dry|nWord=8|RX=[BERB]
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_058-058
