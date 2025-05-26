@@ -1442,52 +1442,60 @@
 4	mâː	mâː	PRON	_	_	3	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_053-053
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_053-053_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 47008, 47395
-# text = in zâː a yîn wani zuːgàl na maːtaː, sai à bìɗi bishshiyaː, à yankèː ta, à tàràːri jinintà cikin wata kwalbaː koː wani kwaːnòː // in ankà tàràːri jinîn, sai à ajèː.
+# text = in zâː a yîn wani zuːgàl na maːtaː , sai à bìɗi bishshiyaː , à yankèː ta , à tàràːri jinintà cikin wata kwalbaː koː wani kwaːnòː .
 # text_en = If you are going to do "zugal" for women, you look for a hedgehog, you kill it, you gather its blood in a bottle or a bowl.
-# text_orth = ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à bìɗi biššiyaa, ’à yankèe ta, ’à tàᵲàaᵲi jinintà cikin wata kwalbaa koo wani kwaanòo -
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+# text_orth = ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à bìɗi biššiyaa, ’à yankèe ta, ’à tàᵲàaᵲi jinintà cikin wata kwalbaa koo wani kwaanòo.
+1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj/m	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
 4	yîn	yi	VERB	_	Definite=Cons	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
-5	wani	wani	DET	_	PronType=Spec	_	_	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
-6	zuːgàl	zuːgàl	PROPN	_	_	_	_	_	GE=love_charm|Gloss=love_charm|nWord=6|RX=[PROPN]
-7	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
-8	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
-11	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
+5	wani	wani	DET	_	PronType=Spec	6	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
+6	zuːgàl	zuːgàl	PROPN	_	_	4	udep	_	GE=love_charm|Gloss=love_charm|nWord=6|RX=[PROPN]
+7	na	na	PART	_	_	6	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
+8	maːtaː	maːtaː	NOUN	_	_	7	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=8|RX=[NOUN]
+9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
+11	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	bìɗi	bìɗaː	VERB	_	_	11	comp:aux	_	GE=look_for|Gloss=look_for|nWord=12|RX=[VERB]
 13	bishshiyaː	bishshiyaː	NOUN	_	_	12	comp:obj	_	GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=13|RX=[NOUN]
-14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
+14	,	,	PUNCT	_	_	15	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+15	à	à	AUX	_	_	11	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
 16	yankèː	yankèː	VERB	_	_	15	comp:aux	_	GE=kill|Gloss=kill|nWord=16|RX=[VERB]
 17	ta	ta	PRON	_	_	16	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
-18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-19	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
+18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+19	à	à	AUX	_	_	15	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
 20	tàràːri	taràːraː	VERB	_	_	19	comp:aux	_	GE=percolate|Gloss=percolate|nWord=20|RX=[VERB]
 21-22	jinintà	_	_	_	_	_	_	_	_
 21	jinin	jiniː	NOUN	_	Definite=Cons	20	comp:obj	_	GE=[blood].[Masc]|Gloss=blood.Masc|nWord=21|RX=[NOUN]|wordform=jini
 22	-tà	-tà	PRON	_	_	21	mod/m	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=21|RX=[PRON]
-23	cikin	cikin	ADP	_	_	_	_	_	GE=in|Gloss=in|nWord=22|RX=[ADP]
+23	cikin	cikin	ADP	_	_	20	comp:obl	_	GE=in|Gloss=in|nWord=22|RX=[ADP]
 24	wata	wata	DET	_	_	25	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=23|RX=[DET]
-25	kwalbaː	kwalbaː	NOUN	_	_	_	_	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=24|RX=[NOUN]
-26	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=25|RX=[CCONJ]
+25	kwalbaː	kwalbaː	NOUN	_	_	23	comp:obj	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=24|RX=[NOUN]
+26	koː	koː	CCONJ	_	_	28	cc	_	GE=or|Gloss=or|nWord=25|RX=[CCONJ]
 27	wani	wani	DET	_	PronType=Spec	28	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=26|RX=[DET]
-28	kwaːnòː	kwaːnòː	NOUN	_	_	_	_	_	GE=[metal_bowl].[Masc]|Gloss=metal_bowl.Masc|nWord=27|RX=[NOUN]
-29	//	//	PUNCT	_	_	_	_	_	GE=[//]|Gloss=//|nWord=28|RX=[PUNCT]
-30	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=29|RX=[SCONJ]
-31	ankà	ankà	AUX	_	_	30	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=30|RX=[AUX]
-32	tàràːri	taràːraː	VERB	_	_	31	comp:aux	_	GE=percolate|Gloss=percolate|nWord=31|RX=[VERB]
-33	jinîn	jiniː	NOUN	_	Definite=Def	32	comp:obj	_	GE=[blood].[Masc].[Def]|Gloss=blood.Masc.Def|nWord=32|RX=[NOUN]
-34	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-35	sai	sai	ADV	_	_	36	mod	_	GE=then|Gloss=then|nWord=34|RX=[ADV]
-36	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=35|RX=[AUX]
-37	ajèː	ajèː	VERB	_	_	36	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=36|RX=[VERB]
-38	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=37|RX=[PUNCT]
+28	kwaːnòː	kwaːnòː	NOUN	_	_	25	conj:coord	_	GE=[metal_bowl].[Masc]|Gloss=metal_bowl.Masc|nWord=27|RX=[NOUN]
+29	.	.	PUNCT	_	_	11	punct	_	GE=[//]|Gloss=//|nWord=28|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_053-053_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 47008, 47395
+# text = in ankà tàràːri jinîn , sai à ajèː .
+# text_en = When you have gathered the blood, you keep it.
+# text_orth = ’in ankà tàᵲàaᵲi jiniǹ, sai ’à ’ajèe.
+1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=29|RX=[SCONJ]
+2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=30|RX=[AUX]
+3	tàràːri	taràːraː	VERB	_	_	2	comp:aux	_	GE=percolate|Gloss=percolate|nWord=31|RX=[VERB]
+4	jinîn	jiniː	NOUN	_	Definite=Def	3	comp:obj	_	GE=[blood].[Masc].[Def]|Gloss=blood.Masc.Def|nWord=32|RX=[NOUN]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
+6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=34|RX=[ADV]
+7	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=35|RX=[AUX]
+8	ajèː	ajèː	VERB	_	_	7	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=36|RX=[VERB]
+9	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=37|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_054-054
 # speaker_id = *
@@ -2057,7 +2065,7 @@
 4	shi	shi	PRON	_	_	3	subj/m	_	GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
 5	maːgànîn	maːgàniː	NOUN	_	Definite=Def	_	_	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
+7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	bìɗi	bìɗaː	VERB	_	_	8	comp:aux	_	GE=look_for|Gloss=look_for|nWord=9|RX=[VERB]
 10	gujjiyaƙ	gujjiyaː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[groundnut].[Fem]|Gloss=groundnut.Fem|nWord=10|RX=[NOUN]|wordform=gujjiya
@@ -2195,7 +2203,7 @@
 14	kaːsayoː	kaːsayad	VERB	_	_	13	comp:aux	_	GE=excrete|Gloss=excrete.Dir|nWord=14|RX=[VERB]|wordform=kaːsay
 15	ta	ta	PRON	_	_	14	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
 16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
+17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
 18	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
 19	ɗaukèː	ɗaukèː	VERB	_	_	18	comp:aux	_	GE=take|Gloss=take|nWord=19|RX=[VERB]
 20	ta	ta	PRON	_	_	19	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=20|RX=[PRON]
@@ -2571,7 +2579,7 @@
 5	cikin	cikin	ADP	_	_	_	_	_	GE=in|Gloss=in|nWord=5|RX=[ADP]
 6	ƙàhoː	ƙàhoː	NOUN	_	_	5	comp:obj	_	GE=[horn].[Masc]|Gloss=horn.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
+8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=9|RX=[AUX]
 10	sâː	sâː	VERB	_	_	9	comp:aux	_	GE=put|Gloss=put|nWord=10|RX=[VERB]
 11	ruwan	ruwaː	NOUN	_	Definite=Cons	10	comp:obj	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=11|RX=[NOUN]|wordform=ruwa
@@ -2933,7 +2941,7 @@
 4	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=4|RX=[VERB]
 5	-tai	-ai	PRON	_	_	4	udep/m	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=4|RX=[PRON]|wordform=-ai
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
+7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 8	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 9	sàːmu	saːmùː	VERB	_	_	8	comp:aux	_	GE=get|Gloss=get|nWord=8|RX=[VERB]
 10	lìngàːɓun	lìngàːɓuː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[tender_shoots].[Masc]|Gloss=tender_shoots.Masc|nWord=9|RX=[NOUN]|wordform=lìngàːɓu
@@ -3213,7 +3221,7 @@
 # text = sai à karkaroː dauɗàn nan, ta gà taɓaryaː, dauɗàd dà hannuwàntà sunkài, à gamèː dà maːgàniː // in zâː a baː tà naːmàː, sai à sâː mutà maːgànîn nan cikin naːmàː, à baː tà tà ci.
 # text_en = You scrape the dirt, that of the pestle, the dirt that her hands are doing, and mix it with the medicine. When you give her some meat, you put the medicine in the meat, and give her to eat.
 # text_orth = sai ’à kaᵲkaᵲoo dauɗàn nan, ta gà taɓaᵲyaa, dauɗàd dà hannuwàntà sunkài, ’à gamèe dà maagànii // ’in zaà ’a baa tà naamàa, sai ’à saà mutà maagàniǹ nan cikin naamàa, 'à baa tà tà ci.
-1	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
+1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=2|RX=[AUX]
 3	karkaroː	karkàreː	VERB	_	_	2	comp:aux	_	GE=scrape|Gloss=scrape.Dir|nWord=3|RX=[VERB]|wordform=karkar
 4	dauɗàn	dauɗàː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[dirt].[Fem]|Gloss=dirt.Fem|nWord=4|RX=[NOUN]|wordform=dauɗà
@@ -3939,7 +3947,7 @@
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
+5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	GE=get|Gloss=get|nWord=7|RX=[VERB]
 8	koːmoː	koːmoː	NOUN	_	_	7	comp:obj	_	GE=[bad_calabash].[Masc]|Gloss=bad_calabash.Masc|nWord=8|RX=[NOUN]
@@ -3951,7 +3959,7 @@
 14	saːbon	saːboː	ADJ	_	Definite=Cons	_	_	_	GE=[new].[Masc]|Gloss=new.Masc|nWord=14|RX=[ADJ]|wordform=saːbo
 15	kaskoː	kaskoː	NOUN	_	_	_	_	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
+17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
 18	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=18|RX=[AUX]
 19	ajèː	ajèː	VERB	_	_	18	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=19|RX=[VERB]
 20	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
@@ -5884,7 +5892,7 @@
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
+5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	nèːmi	nèːmaː	VERB	_	_	6	comp:aux	_	GE=look_for|Gloss=look_for|nWord=7|RX=[VERB]
 8	guntun	guntuː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[piece].[Masc]|Gloss=piece.Masc|nWord=8|RX=[NOUN]|wordform=guntu
@@ -5947,7 +5955,7 @@
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
+5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	ɗaukoː	ɗàukaː	VERB	_	_	6	comp:aux	_	GE=take|Gloss=take.Dir|nWord=7|RX=[VERB]|wordform=ɗauk
 8	gàːriː	gàːriː	NOUN	_	_	7	comp:obj	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=8|RX=[NOUN]
@@ -6090,7 +6098,7 @@
 2	yah	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	huːcèː	huːcèː	VERB	_	_	2	comp:aux	_	GE=rest|Gloss=rest|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
+5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	ɗàuki	ɗàukaː	VERB	_	_	6	comp:aux	_	GE=take|Gloss=take|nWord=7|RX=[VERB]
 8	mân	mâi	NOUN	_	Definite=Def	7	comp:obj	_	GE=[oil].[Masc].[Def]|Gloss=oil.Masc.Def|nWord=8|RX=[NOUN]
@@ -6281,7 +6289,7 @@
 34	yîn	yi	VERB	_	Definite=Cons	32	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=33|RX=[VERB]|wordform=yî
 35	kwântaː	kwântaː	VERB	_	_	_	_	_	GE=[lie_down].[Part]|Gloss=lie_down.Part|nWord=34|RX=[VERB]
 36	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-37	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=36|RX=[ADV]
+37	sai	sai	ADV	_	_	38	mod	_	GE=then|Gloss=then|nWord=36|RX=[ADV]
 38	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=37|RX=[AUX]
 39	ɗaukoː	ɗàukaː	VERB	_	_	38	comp:aux	_	GE=take|Gloss=take.Dir|nWord=38|RX=[VERB]|wordform=ɗauk
 40	maːgànîn	maːgàniː	NOUN	_	Definite=Def	39	comp:obj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=39|RX=[NOUN]
