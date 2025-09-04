@@ -1576,8 +1576,8 @@
 # text_orth = ’àbun dà ’as’ s’àaᵲìnci, ’in saᵲmàyii yay yi kiᵲàm bùduᵲwaa, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà yi kwànce, ’in yaᵲ ᵲùngùmi bùduᵲwaa, yaj ji sanyin jìkintà, ’in bùuᵲaatai tat taašì, ’in baà ši dà dànganàa, kuma baà ši dà kirkii, sai šì tàmbàyee tà, šì nàa soǹ šì cii tà.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
-3	as'	ak	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
-4	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=4|RX=[NOUN]
+3	as'	ak	IdPART	_	_	2	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
+4	s'àːrìnci	s'àːrìnci	NOUN	_	_	3	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=7|RX=[NOUN]
@@ -1735,15 +1735,15 @@
 # text = in an ci bùdurwaː, shiː as' s'àːrìnci.
 # text_en = If they have intercourse with the girl, its is "tsarince".
 # text_orth = ’in ’an ci bùduᵲwaa, šii ’as’ s’àaᵲìnci.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ci	ci	VERB	_	_	2	comp:aux	_	GE=eat|Gloss=eat|nWord=3|RX=[VERB]
 4	bùdurwaː	bùdurwaː	NOUN	_	_	3	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	as'	ak	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=7|RX=[IDPART]
-8	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
-9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+7	as'	ak	IdPART	_	_	6	comp:cleft	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=7|RX=[IDPART]
+8	s'àːrìnci	s'àːrìnci	NOUN	_	_	7	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
+9	.	.	PUNCT	_	_	6	_	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_51-51
 # speaker_id = *
@@ -2100,8 +2100,8 @@
 # text_orth = ’àbun dà ’ay yaawòo, ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
-3	ay	ak	IdPART	_	_	_	_	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=3|RX=[IDPART]
-4	yaːwòː	yaːwòː	NOUN	_	_	_	_	_	GE=[strolling].[Masc]|Gloss=strolling.Masc|nWord=4|RX=[NOUN]
+3	ay	ak	IdPART	_	_	2	comp:obj	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=3|RX=[IDPART]
+4	yaːwòː	yaːwòː	NOUN	_	_	3	comp:pred	_	GE=[strolling].[Masc]|Gloss=strolling.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=7|RX=[NOUN]
