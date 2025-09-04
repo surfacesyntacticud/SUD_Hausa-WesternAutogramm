@@ -1576,7 +1576,7 @@
 # text_orth = ’àbun dà ’as’ s’àaᵲìnci, ’in saᵲmàyii yay yi kiᵲàm bùduᵲwaa, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà yi kwànce, ’in yaᵲ ᵲùngùmi bùduᵲwaa, yaj ji sanyin jìkintà, ’in bùuᵲaatai tat taašì, ’in baà ši dà dànganàa, kuma baà ši dà kirkii, sai šì tàmbàyee tà, šì nàa soǹ šì cii tà.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
-3	as'	ak	IdPART	_	_	2	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
+3	as'	ak	IdPART	_	Background=Yes	2	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=3|RX=[IDPART]
 4	s'àːrìnci	s'àːrìnci	NOUN	_	_	3	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -1667,7 +1667,7 @@
 4	tà	ta	PRON	_	_	3	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	as'	ak	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=7|RX=[IDPART]
+7	as'	ak	IdPART	_	Background=Yes	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=7|RX=[IDPART]
 8	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
 9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
 
@@ -1741,7 +1741,7 @@
 4	bùdurwaː	bùdurwaː	NOUN	_	_	3	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	as'	ak	IdPART	_	_	6	comp:cleft	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=7|RX=[IDPART]
+7	as'	ak	IdPART	_	Background=Yes	6	comp:cleft	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=7|RX=[IDPART]
 8	s'àːrìnci	s'àːrìnci	NOUN	_	_	7	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
 9	.	.	PUNCT	_	_	6	_	_	Gloss=.|nWord=9|RX=[PUNCT]
 
@@ -2100,7 +2100,7 @@
 # text_orth = ’àbun dà ’ay yaawòo, ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
-3	ay	ak	IdPART	_	_	2	comp:obj	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=3|RX=[IDPART]
+3	ay	ak	IdPART	_	Background=Yes	2	comp:obj	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=3|RX=[IDPART]
 4	yaːwòː	yaːwòː	NOUN	_	_	3	comp:pred	_	GE=[strolling].[Masc]|Gloss=strolling.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -2418,7 +2418,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 67000, 68000
-# text = in swaːhiyaː tay yi, tum mutàːneː bàsù taːshì dà kwaːnaː ba, sai sarmàyiː shì hìta shì tàhiyàːtai, sai wata raːnaː.
+# text = in swaːhiyaː tay yi , tun mutàːneː bàsù taːshì dà kwaːnaː ba , sai sarmàyiː shì hìta shì tàhiyàːtai , sai wata raːnaː .
 # text_en = In the morning, before people get up, the boy will get out and leave for some time.
 # text_orth = ’in swaahiyaa tay yi, tum mutàanee bà sù taašì dà kwaanaa ba, sai saᵲmàyii šì hìta šì tàhiyàatai, sai wata ᵲaanaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2430,7 +2430,7 @@
 7	mutàːneː	mutàːneː	NOUN	_	_	_	_	_	GE=[people].[Plur]|Gloss=people.Plur|nWord=7|RX=[NOUN]
 8	bàsù	bàsù	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.Perf.Neg|nWord=8|RX=[AUX]
 9	taːshì	taːshì	VERB	_	_	8	comp:aux	_	GE=rise|Gloss=rise|nWord=9|RX=[VERB]
-10	dà	dà	ADP	_	_	9	comp:obl	_	GE=with|Gloss=with|nWord=10|RX=[ADP]
+10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with|nWord=10|RX=[ADP]
 11	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=11|RX=[VERB]
 12	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=12|RX=[PART]
 13	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]

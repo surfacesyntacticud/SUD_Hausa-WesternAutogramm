@@ -578,7 +578,7 @@
 4	kùmàːr̃âi	kùmàːr̃âi	NOUN	_	_	3	mod	_	GE=[crown-bird].[Masc]|Gloss=crown-bird.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	wandà	wandà	PRON	_	PronType=Rel	3	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=6|RX=[PRON]
-7	as	ak	IdPART	_	_	6	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=7|RX=[IDPART]
+7	as	ak	IdPART	_	Background=Yes	6	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=7|RX=[IDPART]
 8	sàhiːhìː	sàhiːhìː	NOUN	_	_	7	comp:pred	_	GE=[good_health].[Masc]|Gloss=good_health.Masc|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	à	à	AUX	_	_	1	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=10|RX=[AUX]
@@ -651,7 +651,7 @@
 5	=sù	=sù	PRON	_	_	4	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=4|RX=[PRON]|wordform=-sù
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 7	wandà	wandà	PRON	_	PronType=Rel	4	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=6|RX=[PRON]
-8	as	ak	IdPART	_	_	7	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=7|RX=[IDPART]
+8	as	ak	IdPART	_	Background=Yes	7	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=7|RX=[IDPART]
 9	sàhiːhìː	sàhiːhìː	NOUN	_	_	8	comp:pred	_	GE=[good_health].[Masc]|Gloss=good_health.Masc|nWord=8|RX=[NOUN]
 10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 11	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
@@ -773,7 +773,7 @@
 # text_en = That's the lion testes.
 # text_orth = šii ’às s’uyèn zaakìi.
 1	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=34|RX=[PRON]
-2	a'	ak	IdPART	_	_	1	comp:cleft	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=35|RX=[IDPART]
+2	a'	ak	IdPART	_	Background=Yes	1	comp:cleft	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=35|RX=[IDPART]
 3	s'uyèn	s'uyèː	NOUN	_	Definite=Cons	2	comp:pred	_	GE=[testicle].[Masc]|Gloss=testicle.Masc|nWord=36|RX=[NOUN]|wordform=s'uyè
 4	zaːkìː	zaːkìː	NOUN	_	_	3	mod	_	GE=[lion].[Masc]|Gloss=lion.Masc|nWord=37|RX=[NOUN]
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
@@ -1413,7 +1413,7 @@
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	ab	ak	IdPART	_	_	1	comp:cleft	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=5|RX=[IDPART]
+5	ab	ak	IdPART	_	Background=Yes	1	comp:cleft	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=5|RX=[IDPART]
 6-7	bâː’a	_	_	_	_	_	_	_	_
 6	bâː’a	bâː’a	AUX	_	_	5	comp:pred	_	GE=[4].[Imp].[Neg]|Gloss=4.Imp.Neg|nWord=6|RX=[AUX]
 7	yi	yi	AUX	_	_	6	comp:aux	_	GE=[4].[Imp].[Neg]|Gloss=4.Imp.Neg|nWord=6|RX=[AUX]
@@ -2887,7 +2887,7 @@
 29	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 30	suː	suː	PRON	_	_	37	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=30|RX=[PRON]
 31	mùtun	mùtun	NOUN	_	_	32	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=31|RX=[NOUN]
-32	ab	ak	IdPART	_	_	30	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc|nWord=32|RX=[IDPART]
+32	ab	ak	IdPART	_	Background=Yes	30	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=32|RX=[IDPART]
 33	bâːshi	bâːshi	AUX	_	_	32	comp:pred	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=33|RX=[AUX]
 34	cîː	cîː	VERB	_	_	33	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=34|RX=[VERB]
 35	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
@@ -2949,7 +2949,7 @@
 13	saːbiː	saːbiː	ADJ	_	_	_	_	_	GE=[new].[Plur]|Gloss=new.Plur|nWord=12|RX=[ADJ]
 14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 15	wa’àndà	wa’àndà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=14|RX=[PRON]
-16	ad	ak	IdPART	_	_	15	mod@relcl	_	GE=[4]|Gloss=Pred/Loc|nWord=15|RX=[IDPART]
+16	ad	ak	IdPART	_	Background=Yes	15	mod@relcl	_	GE=[4]|Gloss=Pred/Loc.Bkg|nWord=15|RX=[IDPART]
 17	dà	dà	ADP	_	_	16	comp:pred	_	GE=with|Gloss=with|nWord=16|RX=[ADP]
 18	tabshiː	tabshiː	NOUN	_	_	17	comp:obj	_	GE=[softness].[Masc]|Gloss=softness.Masc|nWord=17|RX=[NOUN]
 19	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]

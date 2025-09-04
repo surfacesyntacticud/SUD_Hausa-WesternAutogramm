@@ -599,7 +599,7 @@
 # text_en = He was the imam of the town and of the town chief.
 # text_orth = šii ’al lìimaamìn gàᵲii dà saᵲkin gàᵲii.
 1	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	al	ak	IdPART	_	_	1	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=2|RX=[IDPART]
+2	al	ak	IdPART	_	Background=Yes	1	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=2|RX=[IDPART]
 3	lì:maːmìn	lì:maːmìː	NOUN	_	Definite=Cons	2	comp:pred	_	GE=[imam].[Masc]|Gloss=imam.Masc|nWord=3|RX=[NOUN]|wordform=lì:maːmì
 4	gàriː	gàriː	NOUN	_	_	3	mod	_	GE=[town].[Masc]|Gloss=town.Masc|nWord=4|RX=[NOUN]
 5	dà	dà	CCONJ	_	_	6	cc	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
@@ -926,7 +926,7 @@
 16-17	ganintà	_	_	_	_	_	_	_	_
 16	ganin	ganiː	VERB	_	Definite=Cons	_	_	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=gani
 17	=tà	=tà	PRON	_	_	16	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=16|RX=[PRON]|wordform=-tà
-18	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=17|RX=[PART]
+18	ba	ba	PART	_	_	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|RX=[PART]
 19	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_028-028
@@ -2735,7 +2735,7 @@
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	GE=say|Gloss=say|nWord=22|RX=[VERB]
 24	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	wàː	wàː	PRON	_	_	_	_	_	GE=who|Gloss=who|nWord=24|RX=[PRON]
-26	ad	ak	IdPART	_	_	25	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=25|RX=[IDPART]
+26	ad	ak	IdPART	_	Background=Yes	25	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=25|RX=[IDPART]
 27	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 28	doːkì:	doːkì:	NOUN	_	_	27	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=27|RX=[NOUN]
 29	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
@@ -3690,7 +3690,7 @@
 17	kwàlhwaː	kwàlhwaː	NOUN	_	_	_	_	_	GE=[nutshell].[Fem]|Gloss=nutshell.Fem|nWord=17|RX=[NOUN]
 18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]
-20	aj	ak	IdPART	_	_	19	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=20|RX=[IDPART]
+20	aj	ak	IdPART	_	Background=Yes	19	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=20|RX=[IDPART]
 21	jìmɓiriː	jìmɓiriː	NOUN	_	_	20	comp:pred	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=21|RX=[NOUN]
 22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
 
@@ -3964,7 +3964,7 @@
 19	bakwài	bakwài	NUM	_	_	18	mod	_	GE=seven|Gloss=seven|nWord=19|RX=[NUM]
 20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	ìnaː	ìnaː	ADV	_	_	_	_	_	GE=[where].[Int]|Gloss=where.Int|nWord=21|RX=[ADV]
-22	ad	ak	IdPART	_	_	21	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=22|RX=[IDPART]
+22	ad	ak	IdPART	_	Background=Yes	21	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=22|RX=[IDPART]
 23	dà	dà	ADP	_	_	22	comp:pred	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	jìmɓiriː	jìmɓiriː	NOUN	_	_	23	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=24|RX=[NOUN]
 25	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=25|RX=[PUNCT]
@@ -4071,7 +4071,7 @@
 22	raːniː	raːniː	NOUN	_	_	_	_	_	GE=[dry_season].[Masc]|Gloss=dry_season.Masc|nWord=21|RX=[NOUN]
 23	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 24	ìnaː	ìnaː	ADV	_	_	_	_	_	GE=[where].[Int]|Gloss=where.Int|nWord=23|RX=[ADV]
-25	ad	ak	IdPART	_	_	24	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=24|RX=[IDPART]
+25	ad	ak	IdPART	_	Background=Yes	24	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=24|RX=[IDPART]
 26	dà	dà	ADP	_	_	25	comp:pred	_	GE=with|Gloss=with|nWord=25|RX=[ADP]
 27	jìmɓiriː	jìmɓiriː	NOUN	_	_	26	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=26|RX=[NOUN]
 28	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=27|RX=[PUNCT]
