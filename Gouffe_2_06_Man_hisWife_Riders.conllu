@@ -1370,11 +1370,11 @@
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bàtà	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=5|RX=[AUX]
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	GE=return|Gloss=return|nWord=6|RX=[VERB]
-7	yîm	yi	VERB	_	Definite=Cons	_	_	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
+7	yîm	yi	VERB	_	Definite=Cons	6	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
 8	bùtum	bùtu	NOUN	_	Definite=Cons	7	udep	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
-9	mài	mài	PART	_	_	8	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
-10	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
-11	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=11|RX=[PART]
+9	mài	mài	PART	_	_	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
+10	doːkìː	doːkìː	NOUN	_	_	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
+11	ba	ba	PART	_	_	6	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|RX=[PART]
 12	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_45-45
