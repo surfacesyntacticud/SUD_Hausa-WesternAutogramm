@@ -4,7 +4,7 @@
 # sent_timecode = 0, 1000
 # text = zâː mu baː kù làːbaːr̃ìː na wani bàhillaːcèː dà yay yi làːlaːtàː, yac ci sàràkkuwaːtai, uwam màːtaːtai.
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
-# text_orth = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
+# text_ortho = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
 1	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=1|RX=[AUX]
 2	mu	mu	PRON	_	_	1	subj	_	GE=[1Plur]|Gloss=1Plur|nWord=2|RX=[PRON]
 3	baː	baː	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=3|RX=[VERB]
@@ -36,7 +36,7 @@
 # sent_timecode = 1000, 2000
 # text = shinàː dà màːtashshì.
 # text_en = He has a wife.
-# text_orth = ši nàa dà màataššì.
+# text_ortho = ši nàa dà màataššì.
 1	shinàː	shinàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=1|RX=[AUX]
 2	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=2|RX=[ADP]
 3-4	màːtashshì	_	_	_	_	_	_	_	_
@@ -50,7 +50,7 @@
 # sent_timecode = 2000, 3000
 # text = ita màːtaːtai ta nàː dà uwaː // uwam màːtân nan ta bàhillaːcèː, ita kàu ta nàː dà kyâu.
 # text_en = She, his wife, she has a mother. The mother of the Fulani's wife, she is beautiful.
-# text_orth = ’ita màataatai ta nàa dà ’uwaa, ’uwam màatân nan ta bàhillaacèe, ’ita kàu ta nàa dà kyaù.
+# text_ortho = ’ita màataatai ta nàa dà ’uwaa, ’uwam màatân nan ta bàhillaacèe, ’ita kàu ta nàa dà kyaù.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2-3	màːtaːtai	_	_	_	_	_	_	_	_
 2	màːtaː	màːtaː	NOUN	_	_	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]
@@ -80,7 +80,7 @@
 # sent_timecode = 3000, 4000
 # text = kai bàhillaːcèː, kanàː sôː kà ci sàràkkuwakkà, kaː rasà wàdà zâː kâi kà ci sàràkkuwakkà.
 # text_en = You, Filani, you want to have sex with your mother-in-law, (but) you don't know how to have sex with your mother-in-law.
-# text_orth = kai bàhillaacèe, ka nàa soò kà ci sàᵲàkkuwakkà, kaa ᵲasà wàdà zaà kaì kà ci sàᵲàkkuwakkà.
+# text_ortho = kai bàhillaacèe, ka nàa soò kà ci sàᵲàkkuwakkà, kaa ᵲasà wàdà zaà kaì kà ci sàᵲàkkuwakkà.
 1	kai	kai	PRON	_	_	_	_	_	GE=[2Masc]|Gloss=2Masc|nWord=1|RX=[PRON]
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	_	_	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=2|RX=[PROPN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -112,7 +112,7 @@
 # sent_timecode = 4000, 5000
 # text = raːnad dà allàː yab baː shì sa’àː , ita sàràkkuwân nan taːshì , sai tac cêː zâː ta ùnguwaː , tà ganoː dangìː , sù shiryàː , dà shiː dà màːtaːtai , ɗìyât taːtà , sù ràkkyeː tà .
 # text_en = The day God gave him an opportunity, that mother-in-law of his, she said she was going to the village to see her relatives, let him and his wife, her daughter, accompany her.
-# text_orth = ᵲad dà ’allàa yab baa šì sa’àa, ’ita sàᵲàkkuwân nan taašì, sai tac ceè zaà ta ’ùnguwaa, tà ganoo dangìi, sù šiᵲyàa, dà šii dà màataatai, ɗìyat’ taatà, sù ᵲàkkyee tà.
+# text_ortho = ᵲad dà ’allàa yab baa šì sa’àa, ’ita sàᵲàkkuwân nan taašì, sai tac ceè zaà ta ’ùnguwaa, tà ganoo dangìi, sù šiᵲyàa, dà šii dà màataatai, ɗìyat’ taatà, sù ᵲàkkyee tà.
 1	raːnad	raːnaː	NOUN	_	Definite=Cons	_	_	_	GE=sun/day|Gloss=sun/day|nWord=1|RX=[NOUN]|wordform=raːna
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	allàː	allàː	PROPN	_	_	_	_	_	GE=[God]|Gloss=God|nWord=3|RX=[PROPN]
@@ -163,7 +163,7 @@
 # sent_timecode = 5000, 6000
 # text = sai shiː bàhillaːcèn ga yac cèː màːtaːtai tà yi zamantà, shiː shîː ràkkyi uwattà, shiː ɗai.
 # text_en = Then this Fulani, he said he wife should stay, he would accompany her mother, he alone.
-# text_orth = sai šii bàhillaacèn ga yac cèe màataatai tà yi zamantà, šii šiì ᵲàkkyi ’uwattà, šii ɗai.
+# text_ortho = sai šii bàhillaacèn ga yac cèe màataatai tà yi zamantà, šii šiì ᵲàkkyi ’uwattà, šii ɗai.
 1	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	bàhillaːcèn	bàhillaːcèː	PROPN	_	Definite=Def	_	_	_	GE=[Fulani].[Masc].[Def]|Gloss=Fulani.Masc.Def|nWord=3|RX=[PROPN]
@@ -196,7 +196,7 @@
 # sent_timecode = 6000, 7000
 # text = dà zâː su tàhiyàː, shiː bàhillaːcèn ga, sai yag gamà kâi dà àboːkiːnai, yac cèː in sun tàhi, dà shiː dà sàràkkuwaːtai, àboːkiːnai, shì bi dabràssù, indà sàràkkuwaːtai bâːta ganiːnai.
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
-# text_orth = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
+# text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	su	su	PRON	_	_	2	subj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=3|RX=[PRON]
@@ -253,7 +253,7 @@
 # sent_timecode = 7000, 8000
 # text = sunkà yi shaːwar̃àː, yac cêː mai : in mun kai gà daːjìː, kag ga na s'ayàː, nay yi kiràn dawàː, kà amsàː.
 # text_en = They made a plan // He told him : if we reach the bush, and you see I stop, and call the bush, answer (me).
-# text_orth = sunkà yi šaawaràa, yac ceè mai : ’in mun kai gà daajìi, kag ga na s’ayàa, nay yi kiᵲàn dawàa, kà ’amsàa.
+# text_ortho = sunkà yi šaawaràa, yac ceè mai : ’in mun kai gà daajìi, kag ga na s’ayàa, nay yi kiᵲàn dawàa, kà ’amsàa.
 1	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=1|RX=[AUX]
 2	yi	yi	VERB	_	_	1	comp:aux	_	GE=do|Gloss=do|nWord=2|RX=[VERB]
 3	shaːwar̃àː	shaːwar̃àː	NOUN	_	_	2	comp:pred	_	GE=[deliberation].[Fem]|Gloss=deliberation.Fem|nWord=3|RX=[NOUN]
@@ -288,7 +288,7 @@
 # sent_timecode = 8000, 9000
 # text = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàː, dà shiː dà sàràkkuwaː, sunàː bîn daːjìː.
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
-# text_orth = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
+# text_ortho = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -317,7 +317,7 @@
 # sent_timecode = 9000, 10000
 # text = àboːkin bàhillaːcèː, nàː bîn dabràssù.
 # text_en = The Fulani's friend is following them alongside.
-# text_orth = ’àbookim bàhillaacèe, nàa biǹ dabᵲàssù.
+# text_ortho = ’àbookim bàhillaacèe, nàa biǹ dabᵲàssù.
 1	àboːkim	àboːkiː	NOUN	_	Definite=Cons	_	_	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=1|RX=[NOUN]|wordform=àboːki
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	1	mod	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=2|RX=[PROPN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -334,7 +334,7 @@
 # sent_timecode = 10000, 11000
 # text = sai dà sunkà zoː gà daːjìː, s'akad daːjìː, baːbù hanyàː, shiː bàhillaːcèː, sai yay yi s'àye, yac cèː mà sàràkkuwaːtai, kâinai yaː ɓacèː, bài san indà shi kè ba, ɗiːmuwaː taː kaːmàː shi, yaː yi ɓatàn kâi.
 # text_en = When they arrived in the bush, in the middle of the bush, there was no path, the Fulanin, he stopped and told his mother-in-law that his head was confused, he did not know where he was, he had lost his bearings, he got lost.
-# text_orth = sai dà sunkà zoo gà daajìi, s’akad daajìi, baabù hanyàa, šii bàhillaacèe, sai yay yi s’àye, yac cèe mà sàᵲàkkuwaatai, kaìnai yaa ɓacèe, bài san ’indà ši kè ba, ɗiimuwaa taa kaamàa ši, yaa yi ɓatàn kaì.
+# text_ortho = sai dà sunkà zoo gà daajìi, s’akad daajìi, baabù hanyàa, šii bàhillaacèe, sai yay yi s’àye, yac cèe mà sàᵲàkkuwaatai, kaìnai yaa ɓacèe, bài san ’indà ši kè ba, ɗiimuwaa taa kaamàa ši, yaa yi ɓatàn kaì.
 1	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=2|RX=[SCONJ]
 3	sunkà	sunkà	AUX	_	_	2	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
@@ -393,7 +393,7 @@
 # sent_timecode = 11000, 12000
 # text = sunàː nan s'àis'àye, dà shiː dà sàràkkuwaː.
 # text_en = They were standing there, him and the mother-in-law.
-# text_orth = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
+# text_ortho = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
 1	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
 2	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
 3	s'àis'àye	s'àis'àye	VERB	_	_	_	_	_	GE=[stop].[Plur].[Stat]|Gloss=stop.Plur.Stat|nWord=3|RX=[VERB]
@@ -410,7 +410,7 @@
 # sent_timecode = 12000, 13000
 # text = yac cèː mà sàràkkuwaː : tôː ƙàːƙàː zâː mu yîː tun dà naː yi ɗiːmuwaː ?
 # text_en = He told his mother-in-law : well, how shall we do since I have a fever?
-# text_orth = yac cèe mà sàᵲàkkuwaa : toò ƙàaƙàa zaà mu yiì ? tun dà naa yi ɗiimuwaa.
+# text_ortho = yac cèe mà sàᵲàkkuwaa : toò ƙàaƙàa zaà mu yiì ? tun dà naa yi ɗiimuwaa.
 1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=2|RX=[IDPART]
 3	mà	mà	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=3|RX=[ADP]
@@ -434,7 +434,7 @@
 # sent_timecode = 13000, 14000
 # text = sàràkkuwaː tac cèː mishì : kai kas san dùbaːr̃àː, tundà kai namijì neː.
 # text_en = The mother-in-law told him : you're the one who knows the solution, since you are a man.
-# text_orth = sàᵲàkkuwaa tac cèe mišì : kai kas san dùbaaràa, tun dà kai namijì nee.
+# text_ortho = sàᵲàkkuwaa tac cèe mišì : kai kas san dùbaaràa, tun dà kai namijì nee.
 1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	_	_	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=1|RX=[NOUN]
 2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
@@ -457,7 +457,7 @@
 # sent_timecode = 14000, 15000
 # text = yac cêː mutà : iː.
 # text_en = He told her : yes.
-# text_orth = yac ceè mutà : ’ii.
+# text_ortho = yac ceè mutà : ’ii.
 1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	mutà	mutà	PRON	_	_	2	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
@@ -471,7 +471,7 @@
 # sent_timecode = 15000, 16000
 # text = tôː bàri in yi wata dùbaːr̃àː, in tàmbàyi dawàː, ham mù ji àbun dà dawàː yac cèː.
 # text_en = Well, let me try something, let me ask the bush so that we'll har what the bush says.
-# text_orth = toò bàᵲi ’in yi wata dùbaaràa, ’in tàmbàyi dawàa, ham mù ji ’àbun dà dawàa yac cèe.
+# text_ortho = toò bàᵲi ’in yi wata dùbaaràa, ’in tàmbàyi dawàa, ham mù ji ’àbun dà dawàa yac cèe.
 1	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	bàri	bàri	VERB	_	_	_	_	_	GE=[let].[Juss]|Gloss=let.Juss|nWord=2|RX=[VERB]
 3	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=3|RX=[SCONJ]
@@ -499,7 +499,7 @@
 # sent_timecode = 16000, 17000
 # text = sai yay yi kiràː, yay yi kiràn dawàː, yac cèː : kai dawàː, kâina yaː ɓacì.
 # text_en = Then he called, he called the bush and said : you, bush, my head has spoilt.
-# text_orth = sai yay yi kiᵲàa, yay yi kiᵲàn dawàa, yac cèe : kai dawàa, kaìna yaa ɓacì.
+# text_ortho = sai yay yi kiᵲàa, yay yi kiᵲàn dawàa, yac cèe : kai dawàa, kaìna yaa ɓacì.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -529,7 +529,7 @@
 # sent_timecode = 17000, 18000
 # text = dàc can àboːkiːnai nàː làɓe, cikin itàːceː.
 # text_en = From there, his friend is hidden in the trees.
-# text_orth = dàc can ’àbookiinai nàa làɓe, cikin ’itàacee.
+# text_ortho = dàc can ’àbookiinai nàa làɓe, cikin ’itàacee.
 1	dàc	dàgà	ADP	_	_	_	_	_	GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	can	can	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
 3-4	àboːkiːnai	_	_	_	_	_	_	_	_
@@ -548,7 +548,7 @@
 # sent_timecode = 18000, 19000
 # text = sàràkkuwaːtai bàtà san àboːkiːnai nàː nam ba.
 # text_en = The mother-in-law does not know that his friend is there.
-# text_orth = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
+# text_ortho = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
 1-2	sàràkkuwaːtai	_	_	_	_	_	_	_	_
 1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	_	_	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=1|RX=[NOUN]
 2	=tai	=tai	PRON	_	_	1	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=1|RX=[PRON]|wordform=-ai
@@ -568,7 +568,7 @@
 # sent_timecode = 19000, 20000
 # text = dà yaː yi kiràn dawàː, sai àboːkiːnai shì amsàː.
 # text_en = When he called the bush, his friend answered.
-# text_orth = dà yaa yi kiᵲàn dawàa, sai ’àbookiinai šì ’amsàa.
+# text_ortho = dà yaa yi kiᵲàn dawàa, sai ’àbookiinai šì ’amsàa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -589,7 +589,7 @@
 # sent_timecode = 20000, 21000
 # text = sai shì cêː mà dawàː : kâinai yaː ɓacèː.
 # text_en = Then he told the bush that his head had spoilt.
-# text_orth = sai šì ceè mà dawàa : kaìnai yaa ɓacèe.
+# text_ortho = sai šì ceè mà dawàa : kaìnai yaa ɓacèe.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
@@ -609,7 +609,7 @@
 # sent_timecode = 21000, 22490
 # text = sai àboːkiːnai shì cêː mai : ci sàràkkuwakkà, kânkà shì waːyèː
 # text_en = Then his friend told him : have sex with your mother-in-law, your head will recover.
-# text_orth = sai ’àbookiinai šì ceè mai : ci sàᵲàkkuwakkà, kânkà šì waayèe
+# text_ortho = sai ’àbookiinai šì ceè mai : ci sàᵲàkkuwakkà, kânkà šì waayèe
 1	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2-3	àboːkiːnai	_	_	_	_	_	_	_	_
 2	àboːkiː	àboːkiː	NOUN	_	_	_	_	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=2|RX=[NOUN]
@@ -635,7 +635,7 @@
 # sent_timecode = 22490, 24000
 # text = sunàː yîn hakà nan, has sôː ukkù.
 # text_en = They did that three times.
-# text_orth = su nàa yiǹ hakà nan, has soò ’ukkù.
+# text_ortho = su nàa yiǹ hakà nan, has soò ’ukkù.
 1	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
 2	yîn	yi	VERB	_	Definite=Cons	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=yî
 3	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
@@ -652,7 +652,7 @@
 # sent_timecode = 24000, 26000
 # text = dà sunkà yi hakà nan, shiː bàhillaːcèː, sai yac cêː mà sàràkkuwaːtai : tôː kinàː jîn àbun dà dawàː yac cêː.
 # text_en = After they did like this, the Fulani, he told his mother-in-law : Well, you hear what the bush has said.
-# text_orth = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
+# text_ortho = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -686,7 +686,7 @@
 # sent_timecode = 26000, 27000
 # text = tac cèː iː taː jiyàː.
 # text_en = She said yes, she has heard.
-# text_orth = tac cèe ’ii taa jiyàa.
+# text_ortho = tac cèe ’ii taa jiyàa.
 1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=2|RX=[IDPART]
 3	iː	iː	INTJ	_	_	_	_	_	GE=yes|Gloss=yes|nWord=3|RX=[INTJ]
@@ -700,7 +700,7 @@
 # sent_timecode = 27000, 28000
 # text = yac cêː matà : tôː ƙàːƙàː kic cèː ?
 # text_en = He told her : Well, what do you say?
-# text_orth = yac ceè matà : toò ƙàaƙàa kic cèe ?
+# text_ortho = yac ceè matà : toò ƙàaƙàa kic cèe ?
 1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	mutà	mutà	PRON	_	_	2	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
@@ -717,7 +717,7 @@
 # sent_timecode = 28000, 29000
 # text = tac cèː : ƙàːƙàː zâː ni cêːwaː ? ai sai kà yi àbun dà kay yi niyyàː.
 # text_en = She said : What shall I say? Eh, do your best.
-# text_orth = tac cèe : ƙàaƙàa zaà ni ceèwaa ? ’ai sai kà yi ’àbun dà kay yi niyyàa.
+# text_ortho = tac cèe : ƙàaƙàa zaà ni ceèwaa ? ’ai sai kà yi ’àbun dà kay yi niyyàa.
 1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=2|RX=[IDPART]
 3	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -743,7 +743,7 @@
 # sent_timecode = 29000, 30000
 # text = yac cèː : tôː shiːkèːnan.
 # text_en = He said, well, that's it.
-# text_orth = yac cèe : toò šii kèe nan.
+# text_ortho = yac cèe : toò šii kèe nan.
 1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=2|RX=[IDPART]
 3	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -757,7 +757,7 @@
 # sent_timecode = 30000, 31000
 # text = sai yay yi niyyàː, yac ci sàràkkuwaː, kâinai yaw waːyèː // shiːkèːnan, sai sunkà yi ta tàhiyàː dà yac ciː tà.
 # text_en = Then he did his best, he had sex with the mother-in-law, his head got better. // That's it, they went on travelling after he had sex with her.
-# text_orth = sai yay yi niyyàa, yac ci sàᵲàkkuwaa, kaìnai yaw waayèe šii kèe nan, sai sunkà yi ta tàhiyàa dà yac cii tà.
+# text_ortho = sai yay yi niyyàa, yac ci sàᵲàkkuwaa, kaìnai yaw waayèe šii kèe nan, sai sunkà yi ta tàhiyàa dà yac cii tà.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
