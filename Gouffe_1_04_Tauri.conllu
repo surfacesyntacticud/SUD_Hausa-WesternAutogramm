@@ -4,7 +4,7 @@
 # sent_timecode = 0, 1000
 # text = anàː yîm maːgàniː , maːgànin tauri , wandà in an yi shì , in na cîː neː , im mùtun yac ciː shì , ƙarhèː bâːshì huːdàː shi .
 # text_en = (When) you make a medicine [=charm], a toughness medicine, which if you make it, if it is the one you swallow, if someone swallows it, metal won't pierce him.
-# text_ortho = ’a nàa yim̀ maagànii, maagànin tauᵲi, wandà ’in ’an yi šì, ’in na ciì nee, ’im mùtun yac cii šì, ƙaᵲhèe baà šì huudàa ši.
+# text_orth = ’a nàa yim̀ maagànii, maagànin tauᵲi, wandà ’in ’an yi šì, ’in na ciì nee, ’im mùtun yac cii šì, ƙaᵲhèe baà šì huudàa ši.
 1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2	yîm	yi	VERB	_	Definite=Cons	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=yî
 3	maːgàniː	maːgàniː	NOUN	_	_	2	udep	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=3|RX=[NOUN]
@@ -41,7 +41,7 @@
 # sent_timecode = 1000, 2000
 # text = in kuma na laːyuː neː , ankà yi laːyàː , in tanàː gà jìkim mùtun , laːyàƙ , ƙarhèː bâːshi huːdà mùtun .
 # text_en = If it is the amulet type, if you make an amulet, if it is on somebody, that amulet, metal won't pierce him.
-# text_ortho = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
+# text_orth = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kuma	kuma	TopPART	_	_	1	discourse	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	na	na	PART	_	_	5	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
@@ -72,7 +72,7 @@
 # sent_timecode = 2000, 3000
 # text = in na ɗàmaràː neː, sai à yi ɗàmaràː, à sâː gà jìkiː, ƙarhèː bâːshi kaːmà jìkim mùtun.
 # text_en = If it is the belt type, you make a belt, you put it on your body, metal won't affect your body.
-# text_ortho = ’in na ɗàmaᵲàa nee, sai ’à yi ɗàmaᵲàa, ’à saà gà jìkii, ƙaᵲhèe baà šì kaamà jìkim mùtun.
+# text_orth = ’in na ɗàmaᵲàa nee, sai ’à yi ɗàmaᵲàa, ’à saà gà jìkii, ƙaᵲhèe baà šì kaamà jìkim mùtun.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	na	na	PART	_	_	4	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
 3	ɗàmaràː	ɗàmaràː	NOUN	_	_	2	comp:obj	_	GE=[belt].[Fem]|Gloss=belt.Fem|nWord=3|RX=[NOUN]
@@ -101,7 +101,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 3000, 4000
 # text_en = If it is the leather belt type, you make a leather belt, you put it on youṛ body, metal won't pierce you.
-# text_ortho = ’in na kàrhoo nèe, ’ankà yi kàrhoo, ’à saà gà jìkii, ƙaᵲhèe baà šì huudà mùtun.
+# text_orth = ’in na kàrhoo nèe, ’ankà yi kàrhoo, ’à saà gà jìkii, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	16	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	na	na	PART	_	_	4	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
 3	kàr̃hoː	kàr̃huː	NOUN	_	_	2	comp:obj	_	GE=[tubular_belt].[Masc]|Gloss=tubular_belt.Masc|nWord=3|RX=[NOUN]
@@ -128,7 +128,7 @@
 # sent_timecode = 4000, 5000
 # text = in na shaːhiː neː, sai à yi gàːriː, à kwaːɓàː dà ruwaː, à shaːhwàː gà jìkiː, ƙarhèː bâːshi huːdà mùtun.
 # text_en = If it is the lotion type, you make a powder, you mix it with water, you rub it on your body, metal won't pierce you.
-# text_ortho = ’in na šaahii nee, sai ’à yi gàaᵲii, ’à kwaaɓàa dà ᵲuwaa, ’à šaahwàa gà jìkii, ƙaᵲhèe baà ši huudà mùtun.
+# text_orth = ’in na šaahii nee, sai ’à yi gàaᵲii, ’à kwaaɓàa dà ᵲuwaa, ’à šaahwàa gà jìkii, ƙaᵲhèe baà ši huudà mùtun.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	na	na	PART	_	_	4	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
 3	shaːhiː	shaːhiː	NOUN	_	_	2	comp:obj	_	GE=[lotion].[Masc]|Gloss=lotion.Masc|nWord=3|RX=[NOUN]
@@ -161,7 +161,7 @@
 # sent_timecode = 5000, 6000
 # text = in na hayaːƙiː  neː , sai à yi gàːriː , à sâː gà loːhèː , à sâː wutaː , à r̃iƙà shân hayaːƙîn kàma’ anàː shân taːbàː , ƙarhèː bâːshi kaːmà mùtun .
 # text_en = If it is the type you smoke, you make a powder, you put it in a pipe, you light it, you inhale the smoke like you smoke tobacco, metal won't catch you.
-# text_ortho = ’in na hayaaƙii nèe, sai ’à yi gàaᵲii, ’à saà gà loohèe, ’à saà wutaa, ’à riƙà šaǹ hayaaƙiǹ, kàma’ ’a nàa šaǹ taabàa, ƙaᵲhèe baà ši kaamà mùtun.
+# text_orth = ’in na hayaaƙii nèe, sai ’à yi gàaᵲii, ’à saà gà loohèe, ’à saà wutaa, ’à riƙà šaǹ hayaaƙiǹ, kàma’ ’a nàa šaǹ taabàa, ƙaᵲhèe baà ši kaamà mùtun.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	na	na	PART	_	_	4	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=2|RX=[PART]
 3	hayaːƙiː 	hayaːƙiː 	NOUN	_	_	2	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=smoke.Masc|nWord=3|RX=[NOUN]
@@ -202,7 +202,7 @@
 # sent_timecode = 6000, 7000
 # text = im baːbù loːhèː , sai à yi nàɗeːnai , kàma’ an naɗè taːbàː cikin takàr̃daː , à kunnà wutaː , anàː shân hayaːƙiː , ƙarhèː bâːshi kaːmà mùtun .
 # text_en = If there is no pipe, you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
-# text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
+# text_orth = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	baːbù	baːbù	PredPART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is_no|nWord=2|RX=[PREDPART]
 3	loːhèː	loːhèː	NOUN	_	_	2	subj	_	GE=[pipe].[Masc]|Gloss=pipe.Masc|nWord=3|RX=[NOUN]
@@ -241,7 +241,7 @@
 # sent_timecode = 7000, 8000
 # text = in zâː a yîm maːgànîn, sai à ɗèːbi itàːceː, dum màːsu tauriː, à yi maːgànîn dà suː.
 # text_en = When you make the medicine, you take (different types of) woods, all hard ones, you make the medicine with them.
-# text_ortho = ’in zaà ’a yim̀ maagàniǹ, sai ’à ɗèebi ’itàacee, dum màasu tauᵲii, ’à yi maagàniǹ dà suu.
+# text_orth = ’in zaà ’a yim̀ maagàniǹ, sai ’à ɗèebi ’itàacee, dum màasu tauᵲii, ’à yi maagàniǹ dà suu.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
@@ -270,7 +270,7 @@
 # sent_timecode = 8000, 9000
 # text = hwaːrìn ɗiya -n ƙòːdagòː .
 # text_en = First, palm fruit.
-# text_ortho = hwaaᵲìn ɗiyan ƙòodagòo.
+# text_orth = hwaaᵲìn ɗiyan ƙòodagòo.
 1	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|ExtPos=ADV	2	mod	_	GE=[beginning].[Masc].[Def]|Gloss=beginning.Masc.Def|nWord=1|RX=[NOUN]
 2	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons	0	root	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=2|RX=[NOUN]|wordform=ɗiya
 3	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	2	mod	_	GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=3|RX=[NOUN]
@@ -282,7 +282,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 8000, 9000
 # text_en = You pound the palm fruit, dum palm, you take the seeds inside, hard ones, you use them.
-# text_ortho = ’à dakè ƙòodagòo, ƙòodagòn gòoᵲubàa, ’à hiddà ɗiyaa na cikii, màasu tauᵲii, ’à yi ’aikìi dà suu.
+# text_orth = ’à dakè ƙòodagòo, ƙòodagòn gòoᵲubàa, ’à hiddà ɗiyaa na cikii, màasu tauᵲii, ’à yi ’aikìi dà suu.
 1	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=5|RX=[AUX]
 2	dakè	dakèː	VERB	_	_	1	comp:aux	_	GE=pound|Gloss=pound|nWord=6|RX=[VERB]
 3	ƙòːdagòː	ƙòːdagòː	NOUN	_	_	2	comp:obj	_	GE=[dum_palm_nut].[Masc]|Gloss=dum_palm_nut.Masc|nWord=7|RX=[NOUN]
@@ -312,7 +312,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
-# text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
+# text_orth = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
 1	wa’àndà	wa’àndà	PRON	_	PronType=Rel	13	mod	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=27|RX=[PRON]
 2	su	su	PRON	_	_	3	subj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=28|RX=[PRON]
 3	kè	kè	AUX	_	_	1	comp:obj	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=29|RX=[AUX]
@@ -344,7 +344,7 @@
 # sent_timecode = 9000, 10000
 # text = koː dakàm maː , koːmiː ƙarhim mùtun , bâːshi iyà dakè ɗiyan ƙòːdagòː gà inìː gùdaː , sabòːdà taurinsù .
 # text_en = Even (by) pounding, whatever your strength, you won't succeed in pounding dum palm seeds in a day because of its toughness.
-# text_ortho = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
+# text_orth = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
 1	koː	koː	ADV	_	_	2	mod	_	GE=even|Gloss=even|nWord=1|RX=[ADV]
 2	dakàm	dakàː	VERB	_	Definite=Def	9	dislocated@top	_	GE=[pound].[Nmlz].[Masc].[Def]|Gloss=pound.Nmlz.Masc.Def|nWord=2|RX=[VERB]
 3	maː	maː	TopPART	_	_	2	mod@top	_	GE=self/too|Gloss=self/too|nWord=3|RX=[TOPPART]
@@ -374,7 +374,7 @@
 # sent_timecode = 10000, 11000
 # text = in ankà sàːmu ɗiya -n ƙòːdagòː , sai à ajèː .
 # text_en = If you find dum palm seeds, you keep them.
-# text_ortho = ’in ’ankà sàamu ɗiyan ƙòodagòo, sai ’à ’ajèe.
+# text_orth = ’in ’ankà sàamu ɗiyan ƙòodagòo, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
@@ -392,7 +392,7 @@
 # sent_timecode = 10000, 11000
 # text = à sàːmu ɗiya -n s'aːmiyaː , wa’àndà sunkà buːshèː , sunkà yi tauriː , sai à ajèː .
 # text_en = If you find tamarind seeds that have dried and become tough, you keep them.
-# text_ortho = ’à sàamu ɗiyan s’aamiyaa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
+# text_orth = ’à sàamu ɗiyan s’aamiyaa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
 1	à	à	AUX	_	_	15	mod	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 2	sàːmu	saːmùː	VERB	_	_	1	comp:obj	_	GE=get|Gloss=get|nWord=12|RX=[VERB]
 3	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=13|RX=[NOUN]|wordform=ɗiya
@@ -417,7 +417,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 11000, 12000
 # text_en = If you find ebony tree seeds that have dried and become tough, you keep them.
-# text_ortho = ’à sàamu ɗiyan kanyàa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
+# text_orth = ’à sàamu ɗiyan kanyàa, wa’àndà sunkà buušèe, sunkà yi tauᵲii, sai ’à ’ajèe.
 1	à	à	AUX	_	_	15	mod	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
 2	sàːmu	saːmùː	VERB	_	_	1	comp:aux	_	GE=get|Gloss=get|nWord=2|RX=[VERB]
 3	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=3|RX=[NOUN]|wordform=ɗiya
@@ -442,7 +442,7 @@
 # sent_timecode = 12000, 13000
 # text = à nèːmi àːjibìrma.
 # text_en = You look for 'ajibirma'.
-# text_ortho = ’à nèemi ’àajibìᵲma.
+# text_orth = ’à nèemi ’àajibìᵲma.
 1	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
 2	nèːmi	nèːmaː	VERB	_	_	1	comp:aux	_	GE=look_for|Gloss=look_for|nWord=2|RX=[VERB]
 3	àːjibìrma	àːjibìrma	NOUN	_	_	2	comp:obj	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
@@ -454,7 +454,7 @@
 # sent_timecode = 13000, 14000
 # text = shiː àːjibìrma , iccèː neː .
 # text_en = 'Ajibirma', it's a tree.
-# text_ortho = šii ’àajibìᵲma, ’iccèe nee.
+# text_orth = šii ’àajibìᵲma, ’iccèe nee.
 1	shiː	shiː	PRON	_	_	5	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	àːjibìrma	àːjibìrma	NOUN	_	_	1	comp:appos	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -468,7 +468,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 13000, 14000
 # text_en = Do you use its seeds? Its roots? Its wood? Its leaves? Its bark?
-# text_ortho = koo ɗiyaanai ’a kà ’aikìi dà suu ? koo saayèe ? koo ’iccèe ? koo kunnài ? koo ɓaawaa ?
+# text_orth = koo ɗiyaanai ’a kà ’aikìi dà suu ? koo saayèe ? koo ’iccèe ? koo kunnài ? koo ɓaawaa ?
 1	koː	koː	CCONJ	_	_	2	cc@preconj	_	GE=or|Gloss=or|nWord=7|RX=[CCONJ]
 2	ɗiyaː	ɗiyaː	NOUN	_	_	0	root	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=8|RX=[NOUN]
 3	=nai	=nai	PRON	_	_	2	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
@@ -496,7 +496,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 13000, 14000
 # text_en = Me, I don't know.
-# text_ortho = nii bàn sanìi ba.
+# text_orth = nii bàn sanìi ba.
 1	niː	niː	PRON	_	_	2	subj	_	GE=[1Sing]|Gloss=1Sing|nWord=26|RX=[PRON]
 2	bàn	bàn	AUX	_	_	0	root	_	GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.Perf.Neg|nWord=27|RX=[AUX]
 3	sanìː	sanìː	VERB	_	_	2	comp:aux	_	GE=know|Gloss=know|nWord=28|RX=[VERB]
@@ -509,7 +509,7 @@
 # sent_timecode = 14000, 15000
 # text = àmmaː shiː àːjibìrma , duy yawancin loːkàciː , màːsu aikìn tauri , bâːsu aikìː sai dà shiː .
 # text_en = But 'ajibirma', most of the time, those who prepare toughness medicine, they must use it.
-# text_ortho = ’àmmaa šii ’àajibìᵲma, duy yawancin lookàcii, màasu ’aikìn tauᵲi, baà su ’aikìi sai dà šii.
+# text_orth = ’àmmaa šii ’àajibìᵲma, duy yawancin lookàcii, màasu ’aikìn tauᵲi, baà su ’aikìi sai dà šii.
 1	àmmaː	àmmaː	CCONJ	_	_	13	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	shiː	shiː	PRON	_	_	13	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	àːjibìrma	àːjibìrma	NOUN	_	_	2	conj:appos	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=3|RX=[NOUN]
@@ -535,7 +535,7 @@
 # sent_timecode = 15000, 16000
 # text = in ankà sàːmeː shì, sai à ajèː shi.
 # text_en = If you find it, you keep it.
-# text_ortho = ’in ’ankà sàamee šì, sai ’à ’ajèe ši.
+# text_orth = ’in ’ankà sàamee šì, sai ’à ’ajèe ši.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
@@ -553,7 +553,7 @@
 # sent_timecode = 16000, 17000
 # text = à sàːmu ɓargon jaːkiː, sai à ajèː.
 # text_en = If you find donkey bone marrow, you keep it.
-# text_ortho = ’à sàamu ɓaᵲgon jaakii, sai ’à ’ajèe.
+# text_orth = ’à sàamu ɓaᵲgon jaakii, sai ’à ’ajèe.
 1	à	à	AUX	_	_	7	mod	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
 2	sàːmu	saːmùː	VERB	_	_	1	comp:aux	_	GE=get|Gloss=get|nWord=2|RX=[VERB]
 3	ɓargon	ɓargoː	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[bone_marrow].[Masc]|Gloss=bone_marrow.Masc|nWord=3|RX=[NOUN]|wordform=ɓargo
@@ -570,7 +570,7 @@
 # sent_timecode = 17000, 18000
 # text = wa’ànnan itaːtuwaː dà munkà zaːnàː, yawancin loːkàciː, suː màːsu aikìn tauri, dà suː sukà aikìː.
 # text_en = Those trees that we named, most of the time, those who make toughness medicines, it's them they use.
-# text_ortho = wa’ànnan ’itaatuwaa dà munkà zaanàa, yawancin lookàcii, suu màasu ’aikìn tauᵲi, dà suu su kà ’aikìi.
+# text_orth = wa’ànnan ’itaatuwaa dà munkà zaanàa, yawancin lookàcii, suu màasu ’aikìn tauᵲi, dà suu su kà ’aikìi.
 1	wa’ànnan	wa’ànnan	DET	_	_	2	det	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=1|RX=[DET]
 2	itaːtuwaː	itaːtuwaː	NOUN	_	_	15	dislocated@comp	_	GE=[tree].[Plur]|Gloss=tree.Plur|nWord=2|RX=[NOUN]
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=3|RX=[SCONJ]
@@ -597,7 +597,7 @@
 # sent_timecode = 18000, 19000
 # text = àmmaː koː bandà suː, àkwai itàːceː dà yawàː, wa’àndà akà ɗiːbàː, à yi maːgànin tauri.
 # text_en = But apart from them, there are many trees that you pick to use.
-# text_ortho = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
+# text_orth = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
 1	àmmaː	àmmaː	CCONJ	_	_	15	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	koː	koː	SCONJ	_	_	1	discourse@top	_	GE=even_if|Gloss=even_if|nWord=2|RX=[SCONJ]
 3	bandà	bandà	ADP	_	_	15	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
@@ -624,7 +624,7 @@
 # sent_timecode = 19000, 20000 20000, 21000
 # text = àmmaː niː, wa’àndà nis sanìː, suː zâm baːdà làːbaːr̃ìː, dom bâːshi yìwuwaː, mùtun shì baːdà làːbaːr̃ìː, na àbun dà bài sanìː ba.
 # text_en = But me, it is those I know that I will talk about because it is not possible for anybody to talk about things that he does not know.
-# text_ortho = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi, dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
+# text_orth = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi, dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
 1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	niː	niː	PRON	_	_	8	dislocated@subj	_	GE=[1Sing]|Gloss=1Sing|nWord=2|RX=[PRON]
 3	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -660,7 +660,7 @@
 # sent_timecode = 21000, 22000
 # text = àmmaː bandà hakà nan , shiː ɓargon jaːkiː , im maːgànin tauri na cîː neː , bâːa sanyàː shi cikiː , don im mùtun yaː ciː shì , bâːshi yîn ar̃zìkiː .
 # text_en = But apart from this, the donkey bone marrow, if it is for a medicine that you swallow, you don't put it inside because if you swallow it, it won't work.
-# text_ortho = ’àmmaa ban dà hakà nan, šii ɓaᵲgon jaakii, ’im maagànin tauᵲi na ciì nee, baà ’a sanyàa ši cikii, don ’im mùtun yaa cii šì, baà ši yiǹ ’arzìkii.
+# text_orth = ’àmmaa ban dà hakà nan, šii ɓaᵲgon jaakii, ’im maagànin tauᵲi na ciì nee, baà ’a sanyàa ši cikii, don ’im mùtun yaa cii šì, baà ši yiǹ ’arzìkii.
 1	àmmaː	àmmaː	CCONJ	_	_	17	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	bandà	bandà	ADP	_	_	17	mod	_	GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	2	comp:obj	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
@@ -700,7 +700,7 @@
 # sent_timecode = 21000, 22000
 # text = sai im mùtun yaː cêː shinàː sôː , sânnan à sâː mai .
 # text_en = It's only if somebody says he wants it, that you put it for him.
-# text_ortho = sai ’im mùtun yaa ceè ši nàa soò, saǹ nan ’à saà mai.
+# text_orth = sai ’im mùtun yaa ceè ši nàa soò, saǹ nan ’à saà mai.
 1	sai	sai	SCONJ	_	_	10	mod	_	GE=except|Gloss=except|nWord=34|RX=[SCONJ]
 2	im	in	SCONJ	_	_	1	comp:obj	_	GE=if|Gloss=if|nWord=35|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=36|RX=[NOUN]
@@ -721,7 +721,7 @@
 # sent_timecode = 22000, 23000
 # text = don im mùtun yac ci ɓargon jaːkiː, tàːre dà maːgànin tauri, in yay yi kuːwàː, du’ iyàːka’ indà iskàː yak kai kuːwàːtai, in àkwai ƙarhèː, sai yaː daddàːc'eː.
 # text_en = Because if somebody swallows donkey bone marrow together with a toughness potion, if he shouts, everywhere the wind carries his voice, if there is some metal, it will spoil.
-# text_ortho = don ’im mùtun yac ci ɓaᵲgon jaakii, tàaᵲe dà maagànin tauᵲi, ’in yay yi kuuwàa, du’ ’iyàaka’ ’indà ’iskàa yak kai kuuwàatai, ’in ’àkwai ƙaᵲhèe, sai yaa daddàac’ee.
+# text_orth = don ’im mùtun yac ci ɓaᵲgon jaakii, tàaᵲe dà maagànin tauᵲi, ’in yay yi kuuwàa, du’ ’iyàaka’ ’indà ’iskàa yak kai kuuwàatai, ’in ’àkwai ƙaᵲhèe, sai yaa daddàac’ee.
 1	don	don	SCONJ	_	_	33	discourse	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	im	in	SCONJ	_	_	33	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
@@ -765,7 +765,7 @@
 # sent_timecode = 23000, 24000
 # text = kuma im mùtun yaː hàsalà , dà yaː kaːmà ƙarhèː , dus sai shì laːlàːceː .
 # text_en = And if somebody gets angry, when he takes a piece of metal, it will spoil completely.
-# text_ortho = kuma ’im mùtun yaa hàsalà, dà yaa kaamà ƙaᵲhèe, dus sai šì laalàacee.
+# text_orth = kuma ’im mùtun yaa hàsalà, dà yaa kaamà ƙaᵲhèe, dus sai šì laalàacee.
 1	kuma	kuma	ADV	_	_	14	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	im	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
@@ -789,7 +789,7 @@
 # sent_timecode = 23000, 24000
 # text = koː yaː dìːbi ƙarhèː , kuma sai shì laːlàːceː , koː yaː tàːki ƙarhèː , kuma sai shì laːlàːceː .
 # text_en = If he looks at metal, it will get spoilt ; if he treads on metal, it will spoil.
-# text_ortho = koo yaa dìibi ƙaᵲhèe, kuma sai šì laalàacee, koo yaa tàaki ƙaᵲhèe, kuma sai šì laalàacee.
+# text_orth = koo yaa dìibi ƙaᵲhèe, kuma sai šì laalàacee, koo yaa tàaki ƙaᵲhèe, kuma sai šì laalàacee.
 1	koː	koː	CCONJ	_	_	8	mod	_	GE=or|Gloss=or|nWord=17|RX=[CCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=18|RX=[AUX]
 3	dìːbi	diːbàː	VERB	_	_	2	comp:aux	_	GE=look_at|Gloss=look_at|nWord=19|RX=[VERB]
@@ -817,7 +817,7 @@
 # sent_timecode = 24000, 25000
 # text = koː kòː shinàː kwaːnaː , à zoː bài sanìː ba , à bùgai dà ƙarhèː , ƙarhèm bâːshi kaːmàː shi .
 # text_en = Or else, if he is sleeping, and someone comes without him knowing, and beats him with metal, the metal won't catch him.
-# text_ortho = koo kòo ši nàa kwaanaa, ’à zoo bài sanìi ba, ’à bùgai dà ƙaᵲhèe, ƙaᵲhèm baà ši kaamàa ši.
+# text_orth = koo kòo ši nàa kwaanaa, ’à zoo bài sanìi ba, ’à bùgai dà ƙaᵲhèe, ƙaᵲhèm baà ši kaamàa ši.
 1	koː	koː	CCONJ	_	_	19	mod	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	kòː	kòː	TopPART	_	_	1	mod@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	shinàː	shinàː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=3|RX=[AUX]
@@ -848,7 +848,7 @@
 # sent_timecode = 24000, 25000
 # text = kàːhin shì kai gàr̃eː shi , dus sai shì laːlàːceː .
 # text_en = Before it reaches him, it will spoil completely.
-# text_ortho = kàahin šì kai gàᵲai, dus sai šì laalàacee.
+# text_orth = kàahin šì kai gàᵲai, dus sai šì laalàacee.
 1	kàːhin	kàːhin	SCONJ	_	_	9	mod	_	GE=before|Gloss=before|nWord=22|RX=[SCONJ]
 2	shì	shì	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
 3	kai	kai	VERB	_	_	2	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=24|RX=[VERB]
@@ -868,7 +868,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 25000, 26000
 # text_en = Apart from this, they, the toughness showmen, if they do their toughness show, there are many medicines that they prepare to do tricks with them, for people to see and wonder.
-# text_ortho = koo kuma ban dà hakà nan suu, ’yan tauᵲi, in su nàa wàasat tauᵲi, ’àkwai maagànii dà yawàa, na tauᵲi, wandà su kài, sù yi dabòo dà šii, tàaᵲe dà ƙaᵲhèe, dom mutàanee sù ganii, sù yi màamaakìi.
+# text_orth = koo kuma ban dà hakà nan suu, ’yan tauᵲi, in su nàa wàasat tauᵲi, ’àkwai maagànii dà yawàa, na tauᵲi, wandà su kài, sù yi dabòo dà šii, tàaᵲe dà ƙaᵲhèe, dom mutàanee sù ganii, sù yi màamaakìi.
 1	koː	koː	CCONJ	_	_	16	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	16	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
@@ -923,7 +923,7 @@
 # sent_timecode = 26000, 27000
 # text = sunàː ɗarmà maːgànin tauri gà hannuwàː, tàːre dà lallèː.
 # text_en = They wear the toughness amulet on their arm together with henna.
-# text_ortho = su nàa ɗaᵲmà maagànin tauᵲi gà hannuwàa, tàaᵲe dà lallèe.
+# text_orth = su nàa ɗaᵲmà maagànin tauᵲi gà hannuwàa, tàaᵲe dà lallèe.
 1	sunàː	sunàː	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
 2	ɗarmà	ɗarmàː	VERB	_	_	1	comp:aux	_	GE=tie|Gloss=tie|nWord=2|RX=[VERB]
 3	maːgànin	maːgàniː	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=3|RX=[NOUN]|wordform=maːgàni
@@ -942,7 +942,7 @@
 # sent_timecode = 27000, 28000
 # text = in sunàː wàːsaː, dà an sâː hannuː, an shàːhi wuƙaː, koː takòːbiː dà akaihwaː, sai ruwaː sù yi ta zùbaː gà jìkin ƙarhèː.
 # text_en = When they are doing their show, they use their hand, and rub a knife or a sword with their nail, then water will pour from the heart of the metal.
-# text_ortho = ’in su nàa wàasaa, dà ’an saà hannuu, ’an šàahi wuƙaa, koo takòobii dà ’akaihwaa, sai ᵲuwaa sù yi ta zùbaa gà jìkin ƙaᵲhèe.
+# text_orth = ’in su nàa wàasaa, dà ’an saà hannuu, ’an šàahi wuƙaa, koo takòobii dà ’akaihwaa, sai ᵲuwaa sù yi ta zùbaa gà jìkin ƙaᵲhèe.
 1	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunàː	sunàː	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=2|RX=[AUX]
 3	wàːsaː	wàːsaː	NOUN	_	_	2	comp:aux	_	GE=[game].[Fem]|Gloss=game.Fem|nWord=3|RX=[NOUN]
@@ -978,7 +978,7 @@
 # sent_timecode = 28000, 29000
 # text = koː ƙarhèː shì yi s'uːwàː, kàmam mabuːsaː, shì riƙà ƙaːraː, kàma’ oːdàm moːtàː.
 # text_en = Or the metal will squeal, like a flute, it will start making a noise like a car engine.
-# text_ortho = koo ƙaᵲhèe šì yi s’uuwàa, kàmam mabuusaa, šì ᵲiƙà ƙaaᵲaa, kàma’ ’oodàm mootàa.
+# text_orth = koo ƙaᵲhèe šì yi s’uuwàa, kàmam mabuusaa, šì ᵲiƙà ƙaaᵲaa, kàma’ ’oodàm mootàa.
 1	koː	koː	CCONJ	_	_	3	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	ƙarhèː	ƙarhèː	NOUN	_	_	3	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=2|RX=[NOUN]
 3	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=3|RX=[AUX]
@@ -1003,7 +1003,7 @@
 # sent_timecode = 29000, 30000
 # text = koː kuma bandà hakà nan , in sun yi zuhwàː , sai sù kwaːrè cikìː , sù yi ta yankaːnai dà takòːbiː , koː dà wuƙaː , bâːshi huːdèːwaː .
 # text_en = Or, apart from that, if they sweat, they will bare their belly, they will stab it with a sword or a knife, without piercing it.
-# text_ortho = koo kuma ban dà hakà nan, ’in sun yi zuhwàa, sai sù kwaaᵲè cikìi, sù yi ta yankaanai dà takòobii, koo dà wuƙaa, baà ši huudèewaa.
+# text_orth = koo kuma ban dà hakà nan, ’in sun yi zuhwàa, sai sù kwaaᵲè cikìi, sù yi ta yankaanai dà takòobii, koo dà wuƙaa, baà ši huudèewaa.
 1	koː	koː	CCONJ	_	_	13	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	13	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
@@ -1043,7 +1043,7 @@
 # sent_timecode = 29000, 30000
 # text = koː huriː bâːshi yîː , sabòːdà tauri .
 # text_en = It won't even leave a scratch, because of the toughness medicine.
-# text_ortho = koo huᵲii baà ši yiì, sabàd dà tauᵲi.
+# text_orth = koo huᵲii baà ši yiì, sabàd dà tauᵲi.
 1	koː	koː	ADV	_	_	2	mod	_	GE=even|Gloss=even|nWord=31|RX=[ADV]
 2	huriː	huriː	NOUN	_	_	3	subj	_	GE=[scratch].[Masc]|Gloss=scratch.Masc|nWord=32|RX=[NOUN]
 3	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=33|RX=[AUX]
@@ -1059,7 +1059,7 @@
 # sent_timecode = 30000, 31000
 # text = koː sù azà wuƙaː, c'ìːnin wuƙaː, bisà ijjiyàː, sù yi ta bugàːwaː dà màr̃tôː, bâːsu huːdèːwaː.
 # text_en = Or they will put a knife, a sharp knife on their eye, and beat it with a hammer, it won't pierce it.
-# text_ortho = koo sù ’azà wuƙaa, c’ìinin wuƙaa, bisà ’ijjiyàa, sù yi ta bugàawaa dà màrtoò, baà su huudèewaa.
+# text_orth = koo sù ’azà wuƙaa, c’ìinin wuƙaa, bisà ’ijjiyàa, sù yi ta bugàawaa dà màrtoò, baà su huudèewaa.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[SCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	azà	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=3|RX=[VERB]
@@ -1088,7 +1088,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 31000, 32000
 # text_en = Or they will put it on their neck, on their throat, and keep beating without piercing it.
-# text_ortho = koo sù ’azàa gà wuyàa, wuᵲim maƙoošii, sù yi ta bugàawaa, baà su huudèewaa.
+# text_orth = koo sù ’azàa gà wuyàa, wuᵲim maƙoošii, sù yi ta bugàawaa, baà su huudèewaa.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=3|RX=[VERB]
@@ -1113,7 +1113,7 @@
 # sent_timecode = 32000, 33000
 # text = koː sù azàː gà zucciyàː , wurin kân zucciyàː , sù yi ta bugàːwaː , bâːsu huːdèːwaː .
 # text_en = Or they will put it on their heart, on the top of their heart, and keep beating without piercing it.
-# text_ortho = koo sù ’azàa ga zucciyàa, wuᵲin kaǹ zucciyàa, sù yi ta bugàawaa, baà su huudèewa.
+# text_orth = koo sù ’azàa ga zucciyàa, wuᵲin kaǹ zucciyàa, sù yi ta bugàawaa, baà su huudèewa.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=3|RX=[VERB]
@@ -1139,7 +1139,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 33000, 34000
 # text_en = Or they would put it on their belly and keep beating without piercing it.
-# text_ortho = koo sù ’azàa gà cikìi, sù yi ta bugàawaa, baà su huudèewaa.
+# text_orth = koo sù ’azàa gà cikìi, sù yi ta bugàawaa, baà su huudèewaa.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=3|RX=[VERB]
@@ -1161,7 +1161,7 @@
 # sent_timecode = 34000, 35000
 # text = koː sù kìri wani yaròː , sù shaːhwàː mai maːgàniː , sù baː shì wata laːyàː , shì riƙèː , koː kàr̃hoː , sù yi ta yankaːnai dà ƙarhèː , koː wuːƙaː koː takòːbiː , bâːsu huːdàː shi .
 # text_en = Or they would call a boy, rub some ointment on him, or give him an amulet to take, or a belt, stab him with a piece of metal, or a knife or a sword, without piercing him.
-# text_ortho = koo sù kìᵲi wani yaᵲòo, sù šaahwàa mai maagànii , sù baa šì wata laayàa, šì ᵲiƙèe, koo kàrhoo, sù yi ta yankaanai dà ƙaᵲhèe, koo wuuƙaa koo takòobii, baà su huudàa ši.
+# text_orth = koo sù kìᵲi wani yaᵲòo, sù šaahwàa mai maagànii , sù baa šì wata laayàa, šì ᵲiƙèe, koo kàrhoo, sù yi ta yankaanai dà ƙaᵲhèe, koo wuuƙaa koo takòobii, baà su huudàa ši.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	kìri	kiraː	VERB	_	_	2	comp:aux	_	GE=call|Gloss=call|nWord=3|RX=[VERB]
@@ -1210,7 +1210,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 35000, 36000
 # text_en = Or they would put some razor blades, many blades, like twelve, put them on a sheet of paper, pour them in their mouth and chew them with their teeth.
-# text_ortho = koo sù sawoo reezàa, reezàa mài daamaa, kàmar reezàa goomà šaà biyu, sai sù ɗeebèe mutà takàrdaa, sù zubàa ta cikim bàakii, su nàa tamnaa dà haƙooᵲii.
+# text_orth = koo sù sawoo reezàa, reezàa mài daamaa, kàmar reezàa goomà šaà biyu, sai sù ɗeebèe mutà takàrdaa, sù zubàa ta cikim bàakii, su nàa tamnaa dà haƙooᵲii.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	sawoː	sàyaː	VERB	_	_	2	comp:aux	_	GE=buy|Gloss=buy.Dir|nWord=3|RX=[VERB]|wordform=saw
@@ -1250,7 +1250,7 @@
 # sent_timecode = 36000, 37000
 # text = in sun tamnèː sù zubdàː, kuma r̃eːzàː bâːta yankèː su.
 # text_en = When they have finished chewing, they would spit them out, and the blades would not cut them.
-# text_ortho = ’in sun tamnèe sù zubdàa, kuma reezàa baà ta yankèe su.
+# text_orth = ’in sun tamnèe sù zubdàa, kuma reezàa baà ta yankèe su.
 1	in	in	SCONJ	_	_	4	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sun	sun	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf]|Gloss=3Plur.Perf|nWord=2|RX=[AUX]
 3	tamnèː	tàmnaː	VERB	_	_	2	comp:aux	_	GE=[chew].[Ach]|Gloss=chew.Ach|nWord=3|RX=[VERB]
@@ -1270,7 +1270,7 @@
 # sent_timecode = 37040, 38000
 # text = koː sù ɗàuki màtattak kwalbaː , sù sâː cikim bàːkiː , sunàː tamnaː sunàː zubdàːwaː , kuma kwalbaː bâːta yankèː su .
 # text_en = Or they would take a broken bottle, put it in their mouth, chew and spit it out, and the bottle would not cut them.
-# text_ortho = koo sù ɗàuki màtattak kwalbaa, sù saà cikim bàakii, su nàa tamnaa su nàa zubdàawaa, kuma kwalbaa baà ta yankèe su.
+# text_orth = koo sù ɗàuki màtattak kwalbaa, sù saà cikim bàakii, su nàa tamnaa su nàa zubdàawaa, kuma kwalbaa baà ta yankèe su.
 1	koː	koː	CCONJ	_	_	2	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=2|RX=[AUX]
 3	ɗàuki	ɗaukaː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
@@ -1300,7 +1300,7 @@
 # sent_timecode = 38000, 39000
 # text = in zâː a yîm maːgànin ƙarhèː, anàː ɗiːbàːtai gà gwaddàː.
 # text_en = When you make a metal medicine, you get it from the pawpaw.
-# text_ortho = ’in zaà ’a yim̀ maagànin ƙaᵲhèe, ’a nàa ɗiibàatai gà gwaddàa.
+# text_orth = ’in zaà ’a yim̀ maagànin ƙaᵲhèe, ’a nàa ɗiibàatai gà gwaddàa.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
@@ -1322,7 +1322,7 @@
 # sent_timecode = 39000, 40000
 # text = gwaddàː iccèː neː.
 # text_en = The pawpaw is a tree.
-# text_ortho = gwaddàa ’iccèe nee.
+# text_orth = gwaddàa ’iccèe nee.
 1	gwaddàː	gwaddàː	NOUN	_	_	3	subj	_	GE=[pawpaw].[Fem]|Gloss=pawpaw.Fem|nWord=1|RX=[NOUN]
 2	iccèː	iccèː	NOUN	_	_	3	comp:pred	_	GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=2|RX=[NOUN]
 3	neː	neː	IdPART	_	_	0	root	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=3|RX=[IDPART]
@@ -1334,7 +1334,7 @@
 # sent_timecode = 40000, 41000
 # text = anàː ɗiːbàːtai gà runhuː .
 # text_en = You get it from the cassia.
-# text_ortho = ’a nàa ɗiibàatai gà ᵲunhuu.
+# text_orth = ’a nàa ɗiibàatai gà ᵲunhuu.
 1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2-3	ɗiːbàːtai	_	_	_	_	_	_	_	_
 2	ɗiːbàː	ɗiːbàː	VERB	_	_	1	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=2|RX=[VERB]
@@ -1349,7 +1349,7 @@
 # sent_timecode = 40000, 41000
 # text = shiː maː iccèː neː .
 # text_en = It is a tree too.
-# text_ortho = šii maa ’iccèe nee.
+# text_orth = šii maa ’iccèe nee.
 1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
 2	maː	maː	TopPART	_	_	1	mod@top	_	GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
 3	iccèː	iccèː	NOUN	_	_	4	comp:pred	_	GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=8|RX=[NOUN]
@@ -1362,7 +1362,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
 # text_en = When getting it from a cassia tree, you take an early start.
-# text_ortho = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo.
+# text_orth = ’in zaà ’a ɗiibàatai gà ᵲunhuu, sai mùtun yà yi sabkoo.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
@@ -1385,7 +1385,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 41000, 42000
 # text_en = On a Sunday, you go there with a piece of metal or a knife, or a reaper, or an axe, or a sickle or a piece of "kujiggi" (knife sp.).
-# text_ortho = ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
+# text_orth = ᵲaanal lahàdi, šì tàhi dà ƙaᵲhèe, koo wuƙaa, koo kwàašee, koo gàataᵲii, koo làujee, koo guntun kùjiggii.
 1	raːnal	raːna	NOUN	_	Definite=Cons	4	mod	_	GE=on|Gloss=day.Fem.Cons|nWord=14|RX=[NOUN]
 2	lahàdi	lahàdi	NOUN	_	_	1	mod	_	GE=[Sunday]|Gloss=Sunday|nWord=15|RX=[NOUN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
@@ -1417,7 +1417,7 @@
 # sent_timecode = 42000, 43000
 # text = sai shì zoː wurin runhuː , shì toːnàː shi dàg gabàs , hash shì kai gà saːyèː .
 # text_en = Then you go to where there is cassia, and dig on the East side, until you reach the root.
-# text_ortho = sai šì zoo wuᵲin ᵲunhuu, šì toonàa ši dàg gabàs, haš šì kai gà saayèe.
+# text_orth = sai šì zoo wuᵲin ᵲunhuu, šì toonàa ši dàg gabàs, haš šì kai gà saayèe.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=go|Gloss=go|nWord=3|RX=[VERB]
@@ -1443,7 +1443,7 @@
 # sent_timecode = 43000, 44000
 # text = in yak kai gà saːyèː, yah hiddoː jìkin saːyèː sar̃ai, bâːshi daːc'è saːyèn, sai shì bar̃ shì nan.
 # text_en = When you reach the root, you pull the full root, without breaking it, and leave it there.
-# text_ortho = ’in yak kai gà saayèe, yah hiddoo jìkin saayèe sarai, baà ši daac’è saayèn, sai šì bar šì nan.
+# text_orth = ’in yak kai gà saayèe, yah hiddoo jìkin saayèe sarai, baà ši daac’è saayèn, sai šì bar šì nan.
 1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yak	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	kai	kai	VERB	_	_	2	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=3|RX=[VERB]
@@ -1473,7 +1473,7 @@
 # sent_timecode = 44000, 45000
 # text = sai shì sâː kùsurwàh hannuː, shì aunà iyàːkas' s'awontà.
 # text_en = Then you use your elbow to measure the length (you need).
-# text_ortho = sai šì saà kùsuᵲwàh hannuu, šì ’aunà ’iyàakas’ s’awontà.
+# text_orth = sai šì saà kùsuᵲwàh hannuu, šì ’aunà ’iyàakas’ s’awontà.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=3|RX=[VERB]
@@ -1494,7 +1494,7 @@
 # sent_timecode = 45000, 46000
 # text = in ya’ aunà iyàːkas' s'awontà, ƙarhèn dà yat tàhi dà shiː, sai shì ɗàukai shì azàː, nam bisà saːyèn runhuː, dàidai indà ya’ aunàː, shì bar̃ shì nan tàːre dà saːyèn, shì sâː ƙasaː shì ruhèː.
 # text_en = When you have measured its length, the piece of metal you have brought with you, you take it and puts it there on top of the cassia root, excactly where you have measured, you leave it there with the root, put earth (on top) and cover it.
-# text_ortho = ’in ya’ ’aunà ’iyàakas’ s’awontà, ƙaᵲhèn dà yat tàhi dà šii, sai šì ɗàukai šì ’azàa, nam bisà saayèn ᵲunhuu, dàidai ’indà ya’ ’aunàa, šì bar šì nan tàaᵲe dà saayèn, šì saà ƙasaa šì ᵲuhèe.
+# text_orth = ’in ya’ ’aunà ’iyàakas’ s’awontà, ƙaᵲhèn dà yat tàhi dà šii, sai šì ɗàukai šì ’azàa, nam bisà saayèn ᵲunhuu, dàidai ’indà ya’ ’aunàa, šì bar šì nan tàaᵲe dà saayèn, šì saà ƙasaa šì ᵲuhèe.
 1	in	in	SCONJ	_	_	16	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ya’	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	aunà	aunàː	VERB	_	_	2	comp:aux	_	GE=measure|Gloss=measure|nWord=3|RX=[VERB]
@@ -1549,7 +1549,7 @@
 # sent_timecode = 46000, 47000
 # text = in yar ruhèː dà ƙasaː, sai shì tàhiyàːtai.
 # text_en = When you have covered it with earth, you leave.
-# text_ortho = ’in yaᵲ ᵲuhèe dà ƙasaa, sai šì tàhiyàatai.
+# text_orth = ’in yaᵲ ᵲuhèe dà ƙasaa, sai šì tàhiyàatai.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yar	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ruhèː	ruhèː	VERB	_	_	2	comp:aux	_	GE=close|Gloss=close|nWord=3|RX=[VERB]
@@ -1569,7 +1569,7 @@
 # sent_timecode = 47000, 48000
 # text = in yat tàhiyàːtai , bâːshi koːmàːwaː wurîn , sai wata lahàdi taː zoː .
 # text_en = After you have left, you don't go back until the following Sunday.
-# text_ortho = ’in yat tàhiyàatai, baà ši koomàawaa wuᵲiǹ, sai wata lahàdi taa zoo.
+# text_orth = ’in yat tàhiyàatai, baà ši koomàawaa wuᵲiǹ, sai wata lahàdi taa zoo.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàːtai	_	_	_	_	_	_	_	_
@@ -1593,7 +1593,7 @@
 # sent_timecode = 48000, 49000
 # text = in wata lahàdi taz zoː, sai shì koːmàː, can wurin runhuː.
 # text_en = The following Sunday, you go back to where the cassia is.
-# text_ortho = ’in wata lahàdi taz zoo, sai šì koomàa, can wuᵲin ᵲunhuu.
+# text_orth = ’in wata lahàdi taz zoo, sai šì koomàa, can wuᵲin ᵲunhuu.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	wata	wata	DET	_	_	3	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=2|RX=[DET]
 3	lahàdi	lahàdi	NOUN	_	_	4	subj	_	GE=[Sunday].[Fem]|Gloss=Sunday.Fem|nWord=3|RX=[NOUN]
@@ -1615,7 +1615,7 @@
 # sent_timecode = 49000, 50000
 # text = in yak koːmàː , sai shì toːnè saːyèn nan dà yar ruhèː tàːre dà ƙarhèː .
 # text_en = When you are back, you unearth the root that you have buried with the metal.
-# text_ortho = ’in yak koomàa, sai šì toonè saayèn nan dà yaᵲ ᵲuhèe tàaᵲe dà ƙaᵲhèe.
+# text_orth = ’in yak koomàa, sai šì toonè saayèn nan dà yaᵲ ᵲuhèe tàaᵲe dà ƙaᵲhèe.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yak	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	koːmàː	koːmàː	VERB	_	_	2	comp:aux	_	GE=return|Gloss=return|nWord=3|RX=[VERB]
@@ -1639,7 +1639,7 @@
 # sent_timecode = 50000, 51000
 # text = in yat toːnèː , im maːgànîn yaː ci , ƙarhèn nan dà yar ruhèː , tàːre dà saːyèː , dà yaː toːnèː , bâːshi ganiːnai , sai shì ga saːyèn shiː ɗai .
 # text_en = When you have unearthed the root, if the medicine has worked, that metal that you buried with the root that you have unearthed, you won't see it, you will see the root alone.
-# text_ortho = ’in yat toonèe, ’in maagàniǹ yaa ci, ƙaᵲhèn nan dà yaᵲ ᵲuhèe, tàaᵲe dà saayèe, dà yaa toonèe, baà ši ganiinai, sai šì ga saayèn šii ɗai.
+# text_orth = ’in yat toonèe, ’in maagàniǹ yaa ci, ƙaᵲhèn nan dà yaᵲ ᵲuhèe, tàaᵲe dà saayèe, dà yaa toonèe, baà ši ganiinai, sai šì ga saayèn šii ɗai.
 1	in	in	SCONJ	_	_	24	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	toːnèː	toːnèː	VERB	_	_	2	comp:aux	_	GE=dig_up|Gloss=dig_up|nWord=3|RX=[VERB]
@@ -1682,7 +1682,7 @@
 # sent_timecode = 51000, 52000
 # text = in kâu bài ci ba, sai shì iskè saːyèn tàːre dà ƙarhèn, kàmaw wàddà ya’ ajèː shi.
 # text_en = Bit if it hasn't worked, then you will find that root with the metal the way you left it.
-# text_ortho = ’in kaù bài ci ba, sai šì ’iskè saayèn tàaᵲe dà ƙaᵲhèn, kàmaw wàddà ya’ ’ajèe ši.
+# text_orth = ’in kaù bài ci ba, sai šì ’iskè saayèn tàaᵲe dà ƙaᵲhèn, kàmaw wàddà ya’ ’ajèe ši.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bài	bài	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=3|RX=[AUX]
@@ -1710,7 +1710,7 @@
 # sent_timecode = 52000, 53000
 # text = in kâu yaː ci , sai shì ga baːbù ƙarhèn .
 # text_en = If on the other hand it has worked, you will see that there is no metal,
-# text_ortho = ’in kaù yaa ci, sai šì ga baabù ƙaᵲhèn.
+# text_orth = ’in kaù yaa ci, sai šì ga baabù ƙaᵲhèn.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=3|RX=[AUX]
@@ -1729,7 +1729,7 @@
 # sent_timecode = 52000, 53000
 # text = sàrauta' allàː taː ɓaddàː shi .
 # text_en = God almighty has made it go.
-# text_ortho = sàᵲauta’ ’allàa taa ɓaddàa ši.
+# text_orth = sàᵲauta’ ’allàa taa ɓaddàa ši.
 1	sàrauta'	sàrautaː	NOUN	_	Definite=Cons	3	subj	_	GE=[power].[Fem]|Gloss=power.Fem|nWord=12|RX=[NOUN]|wordform=sàrauta
 2	allàː	allàː	PROPN	_	_	1	mod	_	GE=[God]|Gloss=God|nWord=13|RX=[PROPN]
 3	taː	taː	AUX	_	_	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=14|RX=[AUX]
@@ -1743,7 +1743,7 @@
 # sent_timecode = 53000, 54000
 # text = in yag ga hakà nan, sai shì sâː wani iccèː, koː wani duːc'ìː, shì yi ta daːs'as saːyèn.
 # text_en = When you see this, you will use a wood stick or a stone to hack off the root.
-# text_ortho = ’in yag ga hakà nan, sai šì saà wani ’iccèe, koo wani duuc’ìi, šì yi ta daas’as saayèn.
+# text_orth = ’in yag ga hakà nan, sai šì saà wani ’iccèe, koo wani duuc’ìi, šì yi ta daas’as saayèn.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yag	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
@@ -1773,7 +1773,7 @@
 # sent_timecode = 54000, 55000
 # text = in yad daːc'ìkkeː shi dàk koː’ìnaː, sai shì ɗaukìkkeː, shì ɗaukìkkè saːyèn, shì tàhi dà shiː gidaː.
 # text_en = Once you have hacked it off all around, then you remove it. ## You remove the root and take it home.
-# text_ortho = ’in yad daac’ìkkee ši dàk koo ’ìnaa, sai šì ɗaukìkkee, šì ɗaukìkkè saayèn, šì tàhi dà šii gidaa.
+# text_orth = ’in yad daac’ìkkee ši dàk koo ’ìnaa, sai šì ɗaukìkkee, šì ɗaukìkkè saayèn, šì tàhi dà šii gidaa.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yad	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	daːc'ìkkeː	daːs'àː	VERB	_	_	2	comp:aux	_	GE=[hack_off].[Ach].[Dir]|Gloss=hack_off.Ach.Dir|nWord=3|RX=[VERB]
@@ -1802,7 +1802,7 @@
 # sent_timecode = 55000, 56000
 # text = in yat tàhi dà shiː gidaː , sai à karkàrè ɓaːwan saːyèn .
 # text_en = After taking it home, you scrape off the bark of the root.
-# text_ortho = ’in yat tàhi dà šii gidaa, sai ’à kaᵲkàᵲè ɓaawan saayèn.
+# text_orth = ’in yat tàhi dà šii gidaa, sai ’à kaᵲkàᵲè ɓaawan saayèn.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	GE=go|Gloss=go|nWord=3|RX=[VERB]
@@ -1823,7 +1823,7 @@
 # sent_timecode = 55000, 56000
 # text = in an karkàreː , à sâː ɓaːwân gà turmiː , à yaddà iccèn , à dakè ɓaːwân .
 # text_en = After scraping it off, you put the bark in a mortar, you throw away the wood, and you pound the bark.
-# text_ortho = ’in ’an kaᵲkàᵲee, ’à saà ɓaawaǹ gà tuᵲmii, ’à yaddà ’iccèn, ’à dakè ɓaawaǹ.
+# text_orth = ’in ’an kaᵲkàᵲee, ’à saà ɓaawaǹ gà tuᵲmii, ’à yaddà ’iccèn, ’à dakè ɓaawaǹ.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=14|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=15|RX=[AUX]
 3	karkàreː	karkàraː	VERB	_	_	2	comp:aux	_	GE=[scrape].[Ach]|Gloss=scrape.Ach|nWord=16|RX=[VERB]
@@ -1849,7 +1849,7 @@
 # sent_timecode = 56000, 57000
 # text = in ankà dakèː, à shanyàː shì buːshèː.
 # text_en = After pounding it, you leave it out in the sun to dry.
-# text_ortho = ’in ’ankà dakèe, ’à šanyàa šì buušèe.
+# text_orth = ’in ’ankà dakèe, ’à šanyàa šì buušèe.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	GE=pound|Gloss=pound|nWord=3|RX=[VERB]
@@ -1866,7 +1866,7 @@
 # sent_timecode = 57000, 58000
 # text = in yab buːshèː, à maidàː cikin turmiː, à dakèː.
 # text_en = Once it is dry, you put it back in the mortar and pound it.
-# text_ortho = ’in yab buušèe, ’à maidàa cikin tuᵲmii, ’à dakèe.
+# text_orth = ’in yab buušèe, ’à maidàa cikin tuᵲmii, ’à dakèe.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yab	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	buːshèː	buːshèː	VERB	_	_	2	comp:aux	_	GE=dry|Gloss=dry|nWord=3|RX=[BERB]
@@ -1886,7 +1886,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 58000, 59000
 # text_en = After pounding it, you sieve it, you separate the siftings from the the powder, put the powder aside, return the siftings to the mortar and keep pounding.
-# text_ortho = ’in ’ankà dakèe, ’à tankàɗee, ’à hiddà s’àkii dàban, ’à hiddà gàaᵲii dàban, ’à ’ajè gàaᵲiǹ, ’à maidà s’àkiǹ cikin tuᵲmii, ’à ƙaaᵲà dakàawaa.
+# text_orth = ’in ’ankà dakèe, ’à tankàɗee, ’à hiddà s’àkii dàban, ’à hiddà gàaᵲii dàban, ’à ’ajè gàaᵲiǹ, ’à maidà s’àkiǹ cikin tuᵲmii, ’à ƙaaᵲà dakàawaa.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	GE=pound|Gloss=pound|nWord=3|RX=[VERB]
@@ -1925,7 +1925,7 @@
 # sent_timecode = 59000, 60000
 # text = in ankà dakàː, yad dàku yay yi gàːriː, sai à kwaːshèː.
 # text_en = After pounding, and it is completely pounded into powder, the you collect it.
-# text_ortho = ’in ’ankà dakàa, yad dàku yay yi gàaᵲii, sai ’à kwaašèe.
+# text_orth = ’in ’ankà dakàa, yad dàku yay yi gàaᵲii, sai ’à kwaašèe.
 1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	dakàː	dakàː	VERB	_	_	2	comp:aux	_	GE=pound|Gloss=pound|nWord=3|RX=[VERB]
@@ -1947,7 +1947,7 @@
 # sent_timecode = 60000, 61000
 # text = in an kwaːshèː, à ƙaːrà tankàɗeːwàː.
 # text_en = After collecting it, you sieve it again.
-# text_ortho = ’in ’an kwaašèe, ’à ƙaaᵲà tankàɗeewàa.
+# text_orth = ’in ’an kwaašèe, ’à ƙaaᵲà tankàɗeewàa.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	kwaːshèː	kwaːshèː	VERB	_	_	2	comp:aux	_	GE=collect|Gloss=collect|nWord=3|RX=[VERB]
@@ -1963,7 +1963,7 @@
 # sent_timecode = 61000, 62000
 # text = in an tankàɗeː, s'àkin dà ankà tankàɗeː, sai à ƙumshèː shi dàban, kuma à ƙumshè gàːrîn nan.
 # text_en = After sieving, the siftings that you have sieved, you wrap them apart, and you wrap the powder.
-# text_ortho = ’in ’an tankàɗee, s’àkin dà ’ankà tankàɗee, sai ’à ƙumšèe ši dàban, kuma ’à ƙumšè gàaᵲiǹ nan.
+# text_orth = ’in ’an tankàɗee, s’àkin dà ’ankà tankàɗee, sai ’à ƙumšèe ši dàban, kuma ’à ƙumšè gàaᵲiǹ nan.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	tankàɗeː	tankàɗeː	VERB	_	_	2	comp:aux	_	GE=sieve|Gloss=sieve|nWord=3|RX=[VERB]
@@ -1992,7 +1992,7 @@
 # sent_timecode = 62000, 63000
 # text = shiː gàːrîn , sai à riƙà kùnuː dà shiː , à sàːmu jàd daːwàː lànƙwàsau , à sussùkeː à sheːƙèː .
 # text_en = The powder, you do "kunu" [drink sp.] with it. ## You get red guinea-corn with drooping heads, you thresh it and you winnow it.
-# text_ortho = šii gàaᵲiǹ, sai ’à ᵲiƙà kùnuu dà šii, ’à sàamu jàd daawàa lànƙwàsau, ’à sussùkee ’à šeeƙèe.
+# text_orth = šii gàaᵲiǹ, sai ’à ᵲiƙà kùnuu dà šii, ’à sàamu jàd daawàa lànƙwàsau, ’à sussùkee ’à šeeƙèe.
 1	shiː	shiː	PRON	_	_	5	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	gàːrîn	gàːriː	NOUN	_	Definite=Def	1	conj:appos	_	GE=[flour].[Masc].[Def]|Gloss=flour.Masc.Def|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -2021,7 +2021,7 @@
 # sent_timecode = 63000, 64000
 # text = in ankà sheːƙèː, à surhèː à baːkàcè dùssaː.
 # text_en = When you have winnowed it, you pound it and you remove the bran by winnowing.
-# text_ortho = ’in ’ankà šeeƙèe, ’à suᵲhèe ’à baakàcè dùssaa.
+# text_orth = ’in ’ankà šeeƙèe, ’à suᵲhèe ’à baakàcè dùssaa.
 1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sheːƙèː	sheːƙàː	VERB	_	_	2	comp:aux	_	GE=[winnow].[Ach]|Gloss=winnow.Ach|nWord=3|RX=[VERB]
@@ -2039,7 +2039,7 @@
 # sent_timecode = 64000, 65000
 # text = in an baːkàcè dùssaː, à dakè daːwàk, tà zama gàːriː.
 # text_en = After removing the bran, you pound the guinea-corn into flour.
-# text_ortho = ’in ’an baakàcè dùssaa, ’à dakè daawàk, tà zama gàaᵲii.
+# text_orth = ’in ’an baakàcè dùssaa, ’à dakè daawàk, tà zama gàaᵲii.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	am	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	baːkàcè	baːkàceː	VERB	_	_	2	comp:aux	_	GE=winnow_grain|Gloss=winnow_grain|nWord=3|RX=[VERB]
@@ -2060,7 +2060,7 @@
 # sent_timecode = 65000, 66000
 # text = in taz zama gàːriː, à gamè gàːrintà dà gàːrim maːgànîn, wandà ankà ajèː.
 # text_en = When it has become flour, you mix it with the powdered medicine that you have set aside.
-# text_ortho = ’in taz zama gàaᵲii, ’à gamè gàaᵲintà dà gàaᵲim maagàniǹ, wandà ’ankà ’ajèe.
+# text_orth = ’in taz zama gàaᵲii, ’à gamè gàaᵲintà dà gàaᵲim maagàniǹ, wandà ’ankà ’ajèe.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	taz	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	zama	zama	VERB	_	_	2	comp:aux	_	GE=become|Gloss=become|nWord=3|RX=[VERB]
@@ -2086,7 +2086,7 @@
 # sent_timecode = 66000, 67000
 # text = in ankà gamè gàːrîn, sai à azà tukunyaː bisà wutaː, à sâː ruwaː, à hasà wutaː, à dahwà ruwaː.
 # text_en = Once you have mixed the flower, you put the pot on the fire, you pour water, you heat it until it boils.
-# text_ortho = ’in ’ankà gamè gàaᵲiǹ, sai ’à ’azà tukunyaa bisà wutaa, ’à saà ᵲuwaa, ’à hasà wutaa, ’à dahwà ᵲuwaa.
+# text_orth = ’in ’ankà gamè gàaᵲiǹ, sai ’à ’azà tukunyaa bisà wutaa, ’à saà ᵲuwaa, ’à hasà wutaa, ’à dahwà ᵲuwaa.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamè	gamàː	VERB	_	_	2	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=3|RX=[VERB]
@@ -2118,7 +2118,7 @@
 # sent_timecode = 67000, 68000
 # text = in ruwaː sunkà dàhu, à yi kùnuː.
 # text_en = When the water is hot, you make "kunu".
-# text_ortho = ’in ᵲuwaa sunkà dàhu, ’à yi kùnuu.
+# text_orth = ’in ᵲuwaa sunkà dàhu, ’à yi kùnuu.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ruwaː	ruwaː	NOUN	_	_	3	subj	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=2|RX=[NOUN]
 3	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=3|RX=[AUX]
@@ -2135,7 +2135,7 @@
 # sent_timecode = 68000, 69000
 # text = in kùnuː yah huːcèː, mài sôː shì shaː.
 # text_en = When the 'kunu" has rested, who wants to can drink it.
-# text_ortho = ’in kùnuu yah huucèe, mài soò šì šaa.
+# text_orth = ’in kùnuu yah huucèe, mài soò šì šaa.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kùnuː	kùnuː	NOUN	_	_	3	subj	_	GE=[guinea_corn_drink].[Masc]|Gloss=guinea_corn_drink.Masc|nWord=2|RX=[NOUN]
 3	yah	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
@@ -2153,7 +2153,7 @@
 # sent_timecode = 69000, 70000
 # text = bàːkin dà mùtun yash shaː wânnan kùnûn, ƙarhèː bâːshi koːmà huːdàː shi.
 # text_en = After somebody has drunk that "kunu", metal won't hurt him.
-# text_ortho = bàakin dà mùtun yaš šaa waǹnan kùnuǹ, ƙaᵲhèe baà ši koomà huudàa ši.
+# text_orth = bàakin dà mùtun yaš šaa waǹnan kùnuǹ, ƙaᵲhèe baà ši koomà huudàa ši.
 1	bàːkin	bàːkin	ADP	_	_	9	mod	_	GE=after|Gloss=after|nWord=1|RX=[ADP]
 2	dà	dà	SCONJ	_	_	1	comp:obj	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
@@ -2174,7 +2174,7 @@
 # sent_timecode = 70000, 71000
 # text = shiːkèːnan.
 # text_en = That's it.
-# text_ortho = šii kèe nan.
+# text_orth = šii kèe nan.
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	0	root	_	GE=that's_it|Gloss=that's_it|nWord=1|RX=[INTJ]
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=2|RX=[PUNCT]
 
@@ -2184,7 +2184,7 @@
 # sent_timecode = 71000, 72000
 # text = anàː yîm maːgànin ƙarhèː , wandà akà ɗiːbàː gà lòːdaː .
 # text_en = They do a toughness medicine which they get from "loda" [plant sp.]
-# text_ortho = ’a nàa yim̀ maagànin ƙaᵲhèe, wandà ’a kà ɗiibàa gà lòodaa.
+# text_orth = ’a nàa yim̀ maagànin ƙaᵲhèe, wandà ’a kà ɗiibàa gà lòodaa.
 1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2	yîm	yi	VERB	_	Definite=Cons	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=yî
 3	maːgànin	maːgàniː	NOUN	_	Definite=Cons	2	udep	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=3|RX=[NOUN]|wordform=maːgàni
@@ -2203,7 +2203,7 @@
 # sent_timecode = 72000, 73000
 # text = àmmaː ita lòːdaː, waddà bàː-shèːkaràː-s'àye-ba, gàreː tà akà ɗiːbàw wânnam maːgàniː, na maːgànin tauri.
 # text_en = But "loda", the "bàː-shèːkaràː-s'àye-ba" type, it's from it that you get that ingredient for the toughness medicine.
-# text_ortho = ’àmmaa ’ita lòodaa, waddà bàa šèekaᵲàa s’àye ba, gàᵲee tà ’a kà ɗiibàw waǹnam maagànii, na maagànin tauᵲi.
+# text_orth = ’àmmaa ’ita lòodaa, waddà bàa šèekaᵲàa s’àye ba, gàᵲee tà ’a kà ɗiibàw waǹnam maagànii, na maagànin tauᵲi.
 1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	ita	ita	PRON	_	_	8	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=2|RX=[PRON]
 3	lòːdaː	lòːdaː	NOUN	_	_	2	conj:appos	_	GE=[mucilaginous_plant_sp].[Fem]|Gloss=mucilaginous_plant_sp.Fem|nWord=3|RX=[NOUN]
@@ -2229,7 +2229,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 73000, 74000
 # text_en = When you get it, the man who has gone to the bush and seen where it is, he will go look for other makers of toughness medicines, because that medicine that you get from "loda", when you get it, it's that very day that you sew it [into the amulet].
-# text_ortho = ’in zaà ’a ɗiibàatai, mùtun yaa yi yaːwòo cikin daajìi, yaa ga ’indà ta kè, sai šì tahoowàatai, šì zoo šì bìɗi ’àbùkkan gamìm maagàniǹ, sabòo dà šii waǹnam maagànii, wandà ’akà ɗiibàa gà lòodaa, ᵲad dà ’ankà ɗèebai, ᵲaǹ nan ’a kà ɗumkèe ši.
+# text_orth = ’in zaà ’a ɗiibàatai, mùtun yaa yi yaːwòo cikin daajìi, yaa ga ’indà ta kè, sai šì tahoowàatai, šì zoo šì bìɗi ’àbùkkan gamìm maagàniǹ, sabòo dà šii waǹnam maagànii, wandà ’akà ɗiibàa gà lòodaa, ᵲad dà ’ankà ɗèebai, ᵲaǹ nan ’a kà ɗumkèe ši.
 1	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
@@ -2295,7 +2295,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 73000, 74000
 # text_en = You don't stay one day without sewing it.
-# text_ortho = baà ši kwaanaa bà ’à ɗumkèe ba.
+# text_orth = baà ši kwaanaa bà ’à ɗumkèe ba.
 1	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=53|RX=[AUX]
 2	kwaːnaː	kwaːnaː	VERB	_	_	1	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=54|RX=[VERB]
 3	bà’à	bà’à	AUX	_	_	2	mod	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg|nWord=55|RX=[AUX]
@@ -2309,7 +2309,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 74000, 75000
 # text_en = If you take it and leave it for the night without sewing it in, its strength diminishes.
-# text_ortho = ’in ’ankà ɗèebee šì, ’ankà baᵲìi yak kwan, bà ’à ɗumkèe ši ba, ’aikìinai yaa laalàcee.
+# text_orth = ’in ’ankà ɗèebee šì, ’ankà baᵲìi yak kwan, bà ’à ɗumkèe ši ba, ’aikìinai yaa laalàcee.
 1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗèːbeː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
@@ -2338,7 +2338,7 @@
 # sent_timecode = 75000, 76000
 # text = sabòːdà hakà nan , im mùtun zâː shi ɗiːbàːtai , yaː yi bìɗa’ indà lòːdaː ta kè , bàː-shèːkaràː-s'àye-ba , yaː ganeː tà , sai shì ƙyaːlèː , sai yaː bìɗi àbùkkan gamìː , yaː taːràː su wuriː gùdaː .
 # text_en = That's why, if someone goes to pick it, and is looking for where there is "loda", "bàː-shèːkaràː-s'àye-ba", and he finds it, he will leave it, look for his collaborators, and get together with them.
-# text_ortho = sabòo dà hakà nan, ’im mùtun zaà ši ɗiibàatai, yaa yi bìɗa’ ’indà lòodaa ta kè, bàa šèekaᵲàa s’àye ba, yaa ganee tà, sai šì ƙyaalèe, sai yaa bìɗi ’àbùkkan gamìi, yaa taaᵲàa su wuᵲii gùdaa.
+# text_orth = sabòo dà hakà nan, ’im mùtun zaà ši ɗiibàatai, yaa yi bìɗa’ ’indà lòodaa ta kè, bàa šèekaᵲàa s’àye ba, yaa ganee tà, sai šì ƙyaalèe, sai yaa bìɗi ’àbùkkan gamìi, yaa taaᵲàa su wuᵲii gùdaa.
 1	sabòːdà	sabòːdà	SCONJ	_	_	27	mod	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
@@ -2388,7 +2388,7 @@
 # sent_timecode = 76000, 77000
 # text = in yat taːràː su, sai shì tàhi shì ɗeːboː.
 # text_en = When he has gathered them, he will go and pick it.
-# text_ortho = ’in yat taaᵲàa su, sai šì tàhi šì ɗeeboo.
+# text_orth = ’in yat taaᵲàa su, sai šì tàhi šì ɗeeboo.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	taːràː	taːràː	VERB	_	_	2	comp:aux	_	GE=gather|Gloss=gather|nWord=3|RX=[VERB]
@@ -2407,7 +2407,7 @@
 # sent_timecode = 77000, 78000
 # text = dà yaː ɗeːboː , gà hwaːtàː , sai shì ɗumkèː .
 # text_en = When he has picked it, he sews it into the leather.
-# text_ortho = dà yaa ɗeeboo, gàa hwaatàa, sai šì ɗumkèe.
+# text_orth = dà yaa ɗeeboo, gàa hwaatàa, sai šì ɗumkèe.
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take.Dir|nWord=3|RX=[VERB]|wordform=ɗeːb
@@ -2426,7 +2426,7 @@
 # sent_timecode = 78000, 79000
 # text = in yaɗ ɗumkèː, sai shì ɗar̃màː.
 # text_en = When he has sewn it, he puts it on.
-# text_ortho = ’in yaɗ ɗumkèe, sai šì ɗarmàa.
+# text_orth = ’in yaɗ ɗumkèe, sai šì ɗarmàa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yaɗ	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗumkèː	ɗumkèː	VERB	_	_	2	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=3|RX=[VERB]
@@ -2442,7 +2442,7 @@
 # sent_timecode = 79000, 80000
 # text = àbùkkan gamìm maːgànîn , in jaːkiː yam mutù , sai à sàːmu kwalbaː , mài maruhiː , à ɗeːboː ɓargon jaːkiː , à sanyoː cikin kwalbaː à ajèː .
 # text_en = Those makers of toughness medicines, when a donkey dies, they get a basin with a lid, take the marrow of the donkey, put it in the basin and put it aside.
-# text_ortho = ’àbùkkan gamìm maagàniǹ, ’in jaakii yam mutù, sai ’à sàamu kwalbaa, mài maᵲuhii, ’à ɗeeboo ɓaᵲgon jaakii, ’à sanyoo cikin kwalbaa ’à ’ajèe.
+# text_orth = ’àbùkkan gamìm maagàniǹ, ’in jaakii yam mutù, sai ’à sàamu kwalbaa, mài maᵲuhii, ’à ɗeeboo ɓaᵲgon jaakii, ’à sanyoo cikin kwalbaa ’à ’ajèe.
 1	àbùkkan	àboːkiː	NOUN	_	Definite=Cons	11	dislocated@top	_	GE=[friend].[Plur]|Gloss=friend.Plur|nWord=1|RX=[NOUN]|wordform=àbùkkai
 2	gamìm	gamìː	NOUN	_	Definite=Cons	1	mod	_	GE=[collaboration].[Masc]|Gloss=collaboration.Masc|nWord=2|RX=[NOUN]|wordform=gamì
 3	maːgànîn	maːgàniː	NOUN	_	Definite=Def	2	mod	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=3|RX=[NOUN]
@@ -2479,7 +2479,7 @@
 # sent_timecode = 80000, 81000
 # text = in ankà ajèː , sai à sàːmu dunƙulèn shuːniː , shuːniː irìn na dâː , wandà maːtaː kà ùnhwàːniː dà shiː , dà suː dà marìnaː .
 # text_en = After putting it aside, they get balls of henna, the olf type of henna that women and dyers use.
-# text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu dunƙulèn šuunii, šuunii ’iᵲìn na daà, wandà maataa kà ’ùnhwàanii dà šii, dà suu dà maᵲìnaa.
+# text_orth = ’in ’ankà ’ajèe, sai ’à sàamu dunƙulèn šuunii, šuunii ’iᵲìn na daà, wandà maataa kà ’ùnhwàanii dà šii, dà suu dà maᵲìnaa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
@@ -2514,7 +2514,7 @@
 # sent_timecode = 81000, 82000
 # text = in ankà sàːmu dunƙulèn shuːnîn nan , sai à ajèː shi , à biɗaː àleːwà , àleːwàk karaː , waddà akài dà karan tàkànɗaː .
 # text_en = When they have got that henna, they put it aside, look for candy, candy in sticks that they make with sugar cane.
-# text_ortho = ’in ’ankà sàamu dunƙulèn šuuniǹ nan, sai ’à ’ajèe ši, ’à biɗi ’àleewà, àleewàk kaᵲaa, waddà ’a kài dà kaᵲan tàkànɗaa.
+# text_orth = ’in ’ankà sàamu dunƙulèn šuuniǹ nan, sai ’à ’ajèe ši, ’à biɗi ’àleewà, àleewàk kaᵲaa, waddà ’a kài dà kaᵲan tàkànɗaa.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
@@ -2549,7 +2549,7 @@
 # sent_timecode = 82000, 83000
 # text = anàː jân àleːwày.
 # text_en = They stretch the candy.
-# text_ortho = ’a nàa jaǹ àleewày.
+# text_orth = ’a nàa jaǹ àleewày.
 1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=1|RX=[AUX]
 2	jân	jaː	VERB	_	Definite=Cons	1	comp:aux	_	GE=[pull].[Nmlz].[Masc]|Gloss=pull.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=jâ
 3	àleːwày	àleːwà	NOUN	_	Definite=Def	2	udep	_	GE=[sweets].[Fem].[Def]|Gloss=sweets.Fem.Def|nWord=3|RX=[NOUN]
@@ -2561,7 +2561,7 @@
 # sent_timecode = 83000, 84000
 # text = in ankà jaː tà, tay yi s'awoː, anàː saːrantà dà hannuː, anàː dunƙùleːwàː.
 # text_en = When it is stretched, and it is long, they cut it with their hands, and roll it into a ball.
-# text_ortho = ’in ’ankà jaa tà, tay yi s’awoo, ’a nàa saaᵲantà dà hannuu, ’a nàa dunƙùleewàa.
+# text_orth = ’in ’ankà jaa tà, tay yi s’awoo, ’a nàa saaᵲantà dà hannuu, ’a nàa dunƙùleewàa.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	jaː	jaː	VERB	_	_	2	comp:aux	_	GE=pull|Gloss=pull|nWord=3|RX=[VERB]
@@ -2588,7 +2588,7 @@
 # sent_timecode = 84000, 85000
 # text = ita akà saːmùː, dunƙulèː gùdaː, à ajèː.
 # text_en = That's what they use, one ball, and store it.
-# text_ortho = ’ita ’a kà saamùu, dunƙulèe gùdaa, ’à ’ajèe.
+# text_orth = ’ita ’a kà saamùu, dunƙulèe gùdaa, ’à ’ajèe.
 1	ita	ita	PRON	_	_	0	root	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=2|RX=[AUX]
 3	saːmùː	saːmùː	VERB	_	_	2	comp:aux	_	GE=[get].[Nmlz].[Masc]|Gloss=get.Nmlz.Masc|nWord=3|RX=[VERB]
@@ -2606,7 +2606,7 @@
 # sent_timecode = 85000, 86000
 # text = in ankà ajèː , sai dà ral lahàdi , sai mùtun shì kwan wuri , in zâː shi tàhiyàː ɗiːbàm maːgànîn .
 # text_en = Once it is stored, then on a Sunday, you sleep outside when you are going to take the medicine.
-# text_ortho = ’in ’ankà ’ajèe, sai dà ᵲal lahàdi, sai mùtun šì kwan wuᵲi ’in zaà šì tàhiyàa ɗiibàm maagàniǹ.
+# text_orth = ’in ’ankà ’ajèe, sai dà ᵲal lahàdi, sai mùtun šì kwan wuᵲi ’in zaà šì tàhiyàa ɗiibàm maagàniǹ.
 1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
@@ -2636,7 +2636,7 @@
 # sent_timecode = 86000, 87000
 # text = kuma bandà hakà nan , dà raːnan dà zâː shi tàhiyàː ɗiːbàm maːgànîn , bâːshi kwaːnaː dà ƙarhèː gà jìkiːnai .
 # text_en = And apart from that, the day that you are going to take the medicine, you won't sleep with metal on your body.
-# text_ortho = kuma ban dà hakà nan, dà ᵲan dà zaà ši tàhiyàa ɗiibàm maagàniǹ, baà ši kwaanaa dà ƙaᵲhèe gà jìkiinai.
+# text_orth = kuma ban dà hakà nan, dà ᵲan dà zaà ši tàhiyàa ɗiibàm maagàniǹ, baà ši kwaanaa dà ƙaᵲhèe gà jìkiinai.
 1	kuma	kuma	ADV	_	_	15	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	bandà	bandà	ADP	_	_	15	mod	_	GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	2	comp:obj	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
@@ -2667,7 +2667,7 @@
 # sent_timecode = 86000, 87000
 # text = koː ɗan ƙàːƙàː neː ƙarhèn , sai shì ɗeːbèː shi dàg gà jìkiːnai gà wânnan darên , shì ajèː .
 # text_en = Whatever the type of metal, you will remove it from your body and put it aside.
-# text_ortho = koo ɗan ƙàaƙàa nee ƙaᵲhèn, sai šì ɗeebèe ši dàg gà jìkiinai, gà waǹnan daᵲeǹ, šì ’ajèe.
+# text_orth = koo ɗan ƙàaƙàa nee ƙaᵲhèn, sai šì ɗeebèe ši dàg gà jìkiinai, gà waǹnan daᵲeǹ, šì ’ajèe.
 1	koː	koː	ADV	_	ExtPos=ADV	4	comp:pred	_	GE=ever|Gloss=ever|Idiom=Yes|nWord=22|RX=[ADV]
 2	ɗan	ɗan	ADJ	_	_	1	unk	_	GE=little|Gloss=little|InIdiom=Yes|nWord=23|RX=[ADJ]
 3	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	unk	_	GE=how|Gloss=how|InIdiom=Yes|nWord=24|RX=[ADV]
@@ -2697,7 +2697,7 @@
 # sent_timecode = 87000, 88000
 # text = in yaː gamà har̃akàm maːgànîn , sai shì ɗàuki àbuːnai , shì maidàː gà jìkiːnai , koː wuƙaː cèː , koː takòːbiː , koː maːshìː , koː kùjiggiː , koː gàːtariː , koː kwàːsheː , koː làujeː , koː bidàː , koː kibiyàː , koː r̃eːzàː ,
 # text_en = When you have finished the medicine business, you take your [metal] thing back, put it back on your body, whether it's a knife, a sword, a spear, a "kujiggi", a reaper, a sickle, a needle, an arrow, a razor blade.
-# text_ortho = ’in yaa gamà harakàm maagàniǹ, sai šì ɗàuki ’àbuunai, šì maidàa gà jìkiinai, koo wuƙaa cèe, koo takòobii, koo maašìi, koo kùjiggii, koo gàataᵲii, koo kwàašee, koo làujee, koo bidàa, koo kibiyàa, koo reezàa.
+# text_orth = ’in yaa gamà harakàm maagàniǹ, sai šì ɗàuki ’àbuunai, šì maidàa gà jìkiinai, koo wuƙaa cèe, koo takòobii, koo maašìi, koo kùjiggii, koo gàataᵲii, koo kwàašee, koo làujee, koo bidàa, koo kibiyàa, koo reezàa.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	gamà	gamàː	VERB	_	_	2	comp:aux	_	GE=finish|Gloss=finish|nWord=3|RX=[VERB]
@@ -2756,7 +2756,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 87000, 88000
 # text_en = Even if it's a ring, hey any type of metal, whether tin or iron, whatever the type of metal, even money, if it is metal, if you want to take that medicine, you don't sleep with it.
-# text_ortho = koo dàa zoobèe nee, kaì du’ ’iᵲìn ƙaᵲhèe, koo hwaᵲii koo jàa koo baƙii, koo wanè ’iᵲìn ƙaᵲhèe nee, koo dàa kuɗɗii nèe, ’in dai na ƙaᵲhèe nee, ’im mùtun zaà ši ɗiibàw waǹnam maagànii, baà ši kwancìi dà šii.
+# text_orth = koo dàa zoobèe nee, kaì du’ ’iᵲìn ƙaᵲhèe, koo hwaᵲii koo jàa koo baƙii, koo wanè ’iᵲìn ƙaᵲhèe nee, koo dàa kuɗɗii nèe, ’in dai na ƙaᵲhèe nee, ’im mùtun zaà ši ɗiibàw waǹnam maagànii, baà ši kwancìi dà šii.
 1	koːdàː	koːdàː	SCONJ	_	_	40	mod	_	GE=even_if|Gloss=even_if|nWord=48|RX=[SCONJ]
 2	zoːbèː	zoːbèː	NOUN	_	_	3	comp:pred	_	GE=[ring].[Masc]|Gloss=ring.Masc|nWord=49|RX=[NOUN]
 3	neː	neː	IdPART	_	_	1	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=50|RX=[IDPART]
@@ -2808,7 +2808,7 @@
 # sent_timecode = 88000, 89000
 # text = im mùtun yak kwan dà shiː, ƙarhèː koːwanè irìː neː, maːgànîm bài yi ba.
 # text_en = If someone sleeps with it, if it is any type of metal, the medicine won't work.
-# text_ortho = ’im mùtun yak kwan dà šii, ƙaᵲhèe koo wanè ’iᵲìi nee, maagànim bài yi ba.
+# text_orth = ’im mùtun yak kwan dà šii, ƙaᵲhèe koo wanè ’iᵲìi nee, maagànim bài yi ba.
 1	im	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	mùtun	mùtun	NOUN	_	_	3	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=2|RX=[NOUN]
 3	yak	yak	AUX	_	_	1	comp:aux	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
@@ -2833,7 +2833,7 @@
 # sent_timecode = 89000, 90000
 # text = àmmaː im bàkà kwan dà ƙarhèː ba , dà raːnan dà zâː ka ɗiːbàm maːgànîn , kaɗ ɗeːboː maːgànîn , in shi nàː gà jìkinkà , du’ irìn juːyì wandà ankà yi dà ƙarhèː , bâːshi huːdè jìkinkà .
 # text_en = But if you don't sleep with metal, the day that you take the medicine, when you take the medicine, if it is in your body, whatever the trick they do with metal, it won't pierce your body.
-# text_ortho = ’àmmaa ’im bà kà kwan dà ƙaᵲhèe ba, dà ᵲan dà zaà ka ɗiibàm maagàniǹ, kaɗ ɗeeboo maagàniǹ, ’in ši nàa gà jìkinkà, du’ ’iᵲìn juuyì wandà ’ankà yi dà ƙaᵲhèe, baà ši huudè jìkinkà.
+# text_orth = ’àmmaa ’im bà kà kwan dà ƙaᵲhèe ba, dà ᵲan dà zaà ka ɗiibàm maagàniǹ, kaɗ ɗeeboo maagàniǹ, ’in ši nàa gà jìkinkà, du’ ’iᵲìn juuyì wandà ’ankà yi dà ƙaᵲhèe, baà ši huudè jìkinkà.
 1	àmmaː	àmmaː	CCONJ	_	_	37	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	im	in	SCONJ	_	_	37	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	bàkà	bàkà	AUX	_	_	2	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.Perf.Neg|nWord=3|RX=[AUX]
@@ -2884,7 +2884,7 @@
 # sent_timecode = 90000, 91000
 # text = in kak kwaːna wuri dà ral lahàdi , in swaːhiyal lahàdi tay yi , tundà àssùbâː , tum mutàːneː bàsù taːshì dàk kwaːnaː ba , kai kuma bàkà yi màganàː dà koːwaː ba , sai kà ɗàuki kaːyan ɗiːbàm maːgànîn , kà zoː wurin lòːdaː , bàː-shèːkaràː-s'àye-ba .
 # text_en = If you jave slept outside, on Sunday, when morning has broken, early in the morning, before anyone wakes up, and you haven't spoken to anyone, take the things to pick the medicine, go to the place where there is "loda", "bàː-shèːkaràː-s'àye-ba".
-# text_ortho = ’in kak kwaana wuᵲi dà ᵲal lahàdi, ’in swaahiyal lahàdi tay yi, tun dà ’àssùbaà, tun mutàanee bà sù taašì dàk kwaanaa ba, kai kuma bà kà yi màganàa dà koowaa ba, sai kà ɗàuki kaayan ɗiibàm maagàniǹ, kà zoo wuᵲin lòodaa, bàa šèekaᵲàa s’àye ba.
+# text_orth = ’in kak kwaana wuᵲi dà ᵲal lahàdi, ’in swaahiyal lahàdi tay yi, tun dà ’àssùbaà, tun mutàanee bà sù taašì dàk kwaanaa ba, kai kuma bà kà yi màganàa dà koowaa ba, sai kà ɗàuki kaayan ɗiibàm maagàniǹ, kà zoo wuᵲin lòodaa, bàa šèekaᵲàa s’àye ba.
 1	in	in	SCONJ	_	_	36	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kak	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	kwaːna	kwaːnaː	VERB	_	_	2	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=3|RX=[VERB]
@@ -2940,7 +2940,7 @@
 # sent_timecode = 91000, 92000
 # text = in kaz zoː wurintà, zâː ka ɗiːbàttà, bâː’a ɗiːbàttà dà hannuː, bâː’a ɗiːbàttà dà ƙarhèː.
 # text_en = When you arrive there, and you are going to pick it, don't pick it with your hands, don't pick it with metal.
-# text_ortho = ’in kaz zoo wuᵲintà, zaà ka ɗiibàttà, baà ’a ɗiibàttà dà hannuu, baà ’a ɗiibàttà dà ƙaᵲhèe.
+# text_orth = ’in kaz zoo wuᵲintà, zaà ka ɗiibàttà, baà ’a ɗiibàttà dà hannuu, baà ’a ɗiibàttà dà ƙaᵲhèe.
 1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kaz	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=3|RX=[VERB]
@@ -2975,7 +2975,7 @@
 # sent_timecode = 92000, 93000
 # text = sai kà sàːmu duwàːs'uː biyu, don ita lòːdaː, yàːɗoː takài, kàmay yàːɗiyaː.
 # text_en = Take two stones, because "loda", it creeps like "yàːɗiyaː".
-# text_ortho = sai kà sàamu duwàas’uu biyu, don ’ita lòodaa, yàaɗoo ta kài, kàmay yàaɗiyaa.
+# text_orth = sai kà sàamu duwàas’uu biyu, don ’ita lòodaa, yàaɗoo ta kài, kàmay yàaɗiyaa.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	kà	kà	AUX	_	_	0	root	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
@@ -3001,7 +3001,7 @@
 # sent_timecode = 93000, 94000
 # text = kuma girman itàːcentà, kàman na itàːcen yàːɗiyaː.
 # text_en = And its height, it is like that of "yàːɗiyaː".
-# text_ortho = kuma giᵲman ’itàacentà, kàman na ’itàacen yàaɗiyaa.
+# text_orth = kuma giᵲman ’itàacentà, kàman na ’itàacen yàaɗiyaa.
 1	kuma	kuma	ADV	_	_	6	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	girman	girmaː	NOUN	_	Definite=Cons	6	dislocated@subj	_	GE=[size].[Masc]|Gloss=size.Masc|nWord=2|RX=[NOUN]|wordform=girma
 3-4	itàːcentà	_	_	_	_	_	_	_	_
@@ -3020,7 +3020,7 @@
 # sent_timecode = 94000, 95000
 # text = in kaɗ ɗàuki duːc'ìː biyu , sai kà ɗèːbi iyàːka' indà kakà sôː , kà daːc'èː dà duːc'ìː , kanàː gamà duːc'ìː dà duːc'ìː , kanàː sâː jìkintà s'akad duwàːs'uː , kanàː bugàːwaː , hat tà daːc'èː .
 # text_en = When you have taken two stones, you take the length that you want, you chop it off with stone. ## You put the two stones together, you put the stem between the stones and you beat until it breaks.
-# text_ortho = ’in kaɗ ɗàuki duwàas’uu biyu, sai kà ɗèebi ’iyàaka’ ’indà ka kà soò, kà daac’èe dà duuc’ìi, ka nàa gamà duuc’ìi dà duuc’ìi, ka nàa saà jìkintà s’akad duwàas’uu, ka nàa bugàawaa, hat tà daac’èe.
+# text_orth = ’in kaɗ ɗàuki duwàas’uu biyu, sai kà ɗèebi ’iyàaka’ ’indà ka kà soò, kà daac’èe dà duuc’ìi, ka nàa gamà duuc’ìi dà duuc’ìi, ka nàa saà jìkintà s’akad duwàas’uu, ka nàa bugàawaa, hat tà daac’èe.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kaɗ	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗàuki	ɗaukaː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
@@ -3068,7 +3068,7 @@
 # sent_timecode = 95000, 96000
 # text = in tad daːc'èː, in dàƙ ƙasà kah hwaːrà daːc'èːwaː, kuma sai kà daːc'èː dàs samà.
 # text_en = Once it has broken, if you have started chopping from the bottom, then you chop from the top.
-# text_ortho = ’in tad daac’èe, ’in dàƙ ƙasà kah hwaaᵲà daac’èewaa, kuma sai kà daac’èe dàs samà.
+# text_orth = ’in tad daac’èe, ’in dàƙ ƙasà kah hwaaᵲà daac’èewaa, kuma sai kà daac’èe dàs samà.
 1	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tad	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	daːc'èː	daːc'èː	VERB	_	_	2	comp:aux	_	GE=chop_off|Gloss=chop_off|nWord=3|RX=[VERB]
@@ -3094,7 +3094,7 @@
 # sent_timecode = 96000, 97000
 # text = in kad daːc'èː dàs samà , sai kà tuːràː ta bisà duːc'ìː , wânnan dà kad daːc'èː , kà sâː wani duːc'ìː , kà tattàkeː ta .
 # text_en = Once it has broken from the top you push it on a stone, the one that you chopped it with, you use another stone and you hammer it.
-# text_ortho = ’in kad daac’èe dàs samà, sai kà tuuᵲàa ta bisà duuc’ìi, waǹnan dà kad daac’èe, kà saà wani duuc’ìi, kà tattàkee ta.
+# text_orth = ’in kad daac’èe dàs samà, sai kà tuuᵲàa ta bisà duuc’ìi, waǹnan dà kad daac’èe, kà saà wani duuc’ìi, kà tattàkee ta.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kad	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	daːc'èː	daːc'èː	VERB	_	_	2	comp:aux	_	GE=chop_off|Gloss=chop_off|nWord=3|RX=[VERB]
@@ -3129,7 +3129,7 @@
 # sent_timecode = 97000, 98000
 # text = in kat tattàkeː ta, tay yi tabshiː kàmas sòːsoː, sai kà sâː hannuː kà ɗaukàː, kà tumƙà iggiyàː, kà tumƙàː ta dà hannun hagum.
 # text_en = After hammering it and it has become soft as sponge, you take it with your hand, you take it and weave a rope [with it], you weave it with your left hand.
-# text_ortho = ’in kat tattàkee ta, tay yi tabšii kàmas sòosoo, sai kà saà hannuu kà ɗaukàa, kà tumƙà ’iggiyàa, kà tumƙàa ta dà hannun hagum.
+# text_orth = ’in kat tattàkee ta, tay yi tabšii kàmas sòosoo, sai kà saà hannuu kà ɗaukàa, kà tumƙà ’iggiyàa, kà tumƙàa ta dà hannun hagum.
 1	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kat	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	tattàkeː	tattàkeː	VERB	_	_	2	comp:aux	_	GE=[hammer].[Int].[Ach]|Gloss=hammer.Int.Ach|nWord=3|RX=[VERB]
@@ -3166,7 +3166,7 @@
 # sent_timecode = 98000, 99000
 # text = in tak kai s'awon kàr̃hoː, sai à barìː.
 # text_en = When it reaches the length of a belt, you finish.
-# text_ortho = ’in tak kai s’awon kàrhoo, sai ’à baᵲìi.
+# text_orth = ’in tak kai s’awon kàrhoo, sai ’à baᵲìi.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tak	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	kai	kai	VERB	_	_	2	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=3|RX=[VERB]
@@ -3184,7 +3184,7 @@
 # sent_timecode = 99000, 100000
 # text = in ankà barìː, sai kà ɗaukoː abuːbuwàn nan, dà shuːniː, dà àleːwà, sai kà jiƙàː su.
 # text_en = When you have finished, you take those things, the henna and the candy, and you wet them.
-# text_ortho = ’in ’ankà baᵲìi, sai kà ɗaukoo ’abuubuwàn nan, dà šuunii, dà ’àleewà, sai kà jiƙàa su.
+# text_orth = ’in ’ankà baᵲìi, sai kà ɗaukoo ’abuubuwàn nan, dà šuunii, dà ’àleewà, sai kà jiƙàa su.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	barìː	barìː	VERB	_	_	2	comp:aux	_	GE=leave|Gloss=leave|nWord=3|RX=[VERB]
@@ -3213,7 +3213,7 @@
 # sent_timecode = 100000, 101000
 # text = in kaj jiƙàː su, sunkà jìƙa, sai kà sâː kàr̃hôn nan cikiː, duk kà shaːhèː shi dà shuːniː dà àleːwà.
 # text_en = When they are wet, you put that belt in them, you rub it all with henna and candy.
-# text_ortho = ’in kaj jiƙàa su, sunkà jìƙa, sai kà saà kàrhoǹ nan cikii, duk kà šaahèe ši dà šuunii dà ’àleewà.
+# text_orth = ’in kaj jiƙàa su, sunkà jìƙa, sai kà saà kàrhoǹ nan cikii, duk kà šaahèe ši dà šuunii dà ’àleewà.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kaj	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	jiƙàː	jiƙàː	VERB	_	_	2	comp:aux	_	GE=soak|Gloss=soak|nWord=3|RX=[VERB]
@@ -3245,7 +3245,7 @@
 # sent_timecode = 101000, 102000
 # text = in kash shaːhèː shi , sai kà ɗaukoː hwaːtàː .
 # text_en = After rubbing it, you take some leather.
-# text_ortho = ’in kaš šaahèe ši, sai kà ɗaukoo hwaatàa.
+# text_orth = ’in kaš šaahèe ši, sai kà ɗaukoo hwaatàa.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kash	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	shaːhèː	shaːhèː	VERB	_	_	2	comp:aux	_	GE=rub|Gloss=rub|nWord=3|RX=[VERB]
@@ -3263,7 +3263,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 101000, 102000
 # text_en = Before you put the belt on it, that belt, before rubbing it with henna and candy, you must rub it with donkey marrow.
-# text_ortho = tum bà kà ’azà kàrhoo gàᵲee tà ba, šii kàrhoo, tun kaǹ kà šaahwàa mai šuunii dà ’àleewà, sai kaa šaahèe ši dà ɓaᵲgon jàakii.
+# text_orth = tum bà kà ’azà kàrhoo gàᵲee tà ba, šii kàrhoo, tun kaǹ kà šaahwàa mai šuunii dà ’àleewà, sai kaa šaahèe ši dà ɓaᵲgon jàakii.
 1	tum	tun	SCONJ	_	_	22	mod	_	GE=since/before|Gloss=since/before|nWord=11|RX=[SCONJ]
 2	bàkà	bàkà	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.Perf.Neg|nWord=12|RX=[AUX]
 3	azà	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=13|RX=[VERB]
@@ -3299,7 +3299,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 101000, 102000
 # text_en = Before you put the henna and the candy,  you rub it on.
-# text_ortho = yàakiǹ kà saà šuunii dà ’àleewà, kà šaahwàa mai.
+# text_orth = yàakiǹ kà saà šuunii dà ’àleewà, kà šaahwàa mai.
 1	yàːkîn	yàːkîn	SCONJ	_	_	8	mod	_	GE=before|Gloss=before|nWord=39|RX=[SCONJ]
 2	kà	kà	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=40|RX=[AUX]
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=41|RX=[VERB]
@@ -3318,7 +3318,7 @@
 # sent_timecode = 102000, 103000
 # text = in kaɗ ɗaukoː hwaːtàː, sai kà sâː àlluːr̃àː, koː c’inkèː, kà yi mutà hùːde-hùːdeː, irìn na ɗumkìː.
 # text_en = When you take the leather, you use a needle or a wooden skewer to pierce holes in it, like when sewing.
-# text_ortho = ’in kaɗ ɗaukoo hwaatàa, sai kà saà ’àlluuràa, koo c’inkèe, kà yi mutà hùude-hùudee, ’iᵲìn na ɗumkìi.
+# text_orth = ’in kaɗ ɗaukoo hwaatàa, sai kà saà ’àlluuràa, koo c’inkèe, kà yi mutà hùude-hùudee, ’iᵲìn na ɗumkìi.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kaɗ	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗaukoː	ɗaukaː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take.Dir|nWord=3|RX=[VERB]|wordform=ɗauk
@@ -3348,7 +3348,7 @@
 # sent_timecode = 103000, 104000
 # text = in kàr̃hôn nàː dà shaːhìː , na ɓargon jàːkiː dà àleːwà dà shuːniː , ankà azàː shi bisà hwaːtàː , waddà zâː a ɗumkèː shi .
 # text_en = When the belt has been lined with donkey's marrow, candy and henna, you put it on the leather where you will sew it.
-# text_ortho = ’in kàrhoǹ nàa dà šaahìi, na ɓaᵲgon jàakii dà ’àleewà dà šuunii, ’ankà ’azàa ši bisà hwaatàa, waddà zaà ’a ɗumkèe ši.
+# text_orth = ’in kàrhoǹ nàa dà šaahìi, na ɓaᵲgon jàakii dà ’àleewà dà šuunii, ’ankà ’azàa ši bisà hwaatàa, waddà zaà ’a ɗumkèe ši.
 1	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def	3	subj	_	GE=[charm_belt].[Masc].[Def]|Gloss=charm_belt.Masc.Def|nWord=2|RX=[NOUN]
 3	nàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
@@ -3382,7 +3382,7 @@
 # sent_timecode = 103000, 104000
 # text = im bà’à yi mutà hùːde-hùːdeː ba , tun hwaːrìn ankà rìgyaː ankà azàː shi , shaːhìn nan yak kaːmà hwaːtàː , koː an taːrà àlluːr̃àː , c’inkèː dubuː , bâːsu iyà huːdè hwaːtàk , bàleː à ɗumkè kàr̃hôn .
 # text_en = If you haven't pierced holes in it, [which] in the beginning you have already made, if that lining has caught the leather, not a thousand needles or a thousand skewers can pierce that leather, much less sew the belt [on it].
-# text_ortho = ’im bà ’à mutà hùude-hùudee ba, tun hwaaᵲìn ’ankà ᵲìgyaa ’ankà ’azàa ši, šaahìn nan yak kaamà hwaatàa, koo ’an taaᵲà ’àlluuràa dubuu, c’inkèe dubuu, baà su ’iya huudè hwaatàk, bàlee ’à ɗumkè kàrhoǹ.
+# text_orth = ’im bà ’à mutà hùude-hùudee ba, tun hwaaᵲìn ’ankà ᵲìgyaa ’ankà ’azàa ši, šaahìn nan yak kaamà hwaatàa, koo ’an taaᵲà ’àlluuràa dubuu, c’inkèe dubuu, baà su ’iya huudè hwaatàk, bàlee ’à ɗumkè kàrhoǹ.
 1	im	in	SCONJ	_	_	30	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
 2-3	bà’à	_	_	_	_	_	_	_	_
 2	bà’à	bà’à	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg|nWord=28|RX=[AUX]
@@ -3430,7 +3430,7 @@
 # sent_timecode = 104000, 105000
 # text = koːwanè ankà soːkàː gà hwaːtàː à yi huːdàː , sai shì karèː , à yaddàː à ɗàuki wani .
 # text_en = Each one you push into the leather to make a hole, it breaks, you throw it away and take another one.
-# text_ortho = koo wanè ’ankà sookàa gà hwaatàa ’à yi huudàa, sai šì kaᵲèe, ’à yaddàa ’à ɗàuki wani.
+# text_orth = koo wanè ’ankà sookàa gà hwaatàa ’à yi huudàa, sai šì kaᵲèe, ’à yaddàa ’à ɗàuki wani.
 1	koːwanè	koːwanè	PRON	_	_	11	dislocated@subj	_	GE=whichever|Gloss=whichever|nWord=1|RX=[PRON]
 2	ankà	ankà	AUX	_	_	1	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	soːkàː	soːkàː	VERB	_	_	2	comp:aux	_	GE=stab|Gloss=stab|nWord=3|RX=[VERB]
@@ -3457,7 +3457,7 @@
 # sent_timecode = 105000, 106000
 # text = dà hakà nan has sù laːlàːceː, bà’à ɗumkè kàr̃hôm ba.
 # text_en = Like this, until they are all spoilt and you haven't sewn the belt.
-# text_ortho = dà hakà nan has sù laalàacee, bà ’à ɗumkè kàrhom̀ ba.
+# text_orth = dà hakà nan has sù laalàacee, bà ’à ɗumkè kàrhom̀ ba.
 1	dà	dà	ADP	_	_	0	root	_	GE=with|Gloss=with|nWord=1|RX=[ADP]
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
@@ -3476,7 +3476,7 @@
 # sent_timecode = 106000, 107000
 # text = sabòːdà hakà nan akà mà hwaːtàː huːdàː , tum bà’à azàː mutà kàr̃hoː ba .
 # text_en = Because of this, you pierce the holes in the leather before you put the belt on it.
-# text_ortho = sabàd dà hakà nan ’a kà mà hwaatàa huudàa, tun bà ’à ’azàa mutà kàrhoo ba.
+# text_orth = sabàd dà hakà nan ’a kà mà hwaatàa huudàa, tun bà ’à ’azàa mutà kàrhoo ba.
 1	sabòːdà	sabòːdà	ADP	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
@@ -3501,7 +3501,7 @@
 # sent_timecode = 107000, 109000
 # text = in ankà yi hùːde , sai à yi àlluːr̃àƙ ƙayàː , à azà kàr̃hôn , anàː bîː cikin huːdàh hwaːrìn , anàː ɗumkèːwaː dà àlluːr̃àƙ ƙayàː , ha' à ɗumkèː .
 # text_en = When the holes are done, those holes, you make needles with thorns, you put the belt, you follow the previous holes, you sew with the thorn needles, until you have finished sewing.
-# text_ortho = ’in ’ankà yi hùude. hùudeǹ, sai ’à yi ’àlluuràƙ ƙayàa, ’à ’azà kàrhoǹ, ’a nàa biì cikin huudàh hwaaᵲìn, ’a nàa ɗumkèewaa dà ’àlluuràƙ ƙayàa, ha’ ’à ɗumkèe.
+# text_orth = ’in ’ankà yi hùude. hùudeǹ, sai ’à yi ’àlluuràƙ ƙayàa, ’à ’azà kàrhoǹ, ’a nàa biì cikin huudàh hwaaᵲìn, ’a nàa ɗumkèewaa dà ’àlluuràƙ ƙayàa, ha’ ’à ɗumkèe.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -3540,7 +3540,7 @@
 # sent_timecode = 109000, 110000
 # text = in an ɗumkèː, sai à ɗarmàː gà jìkiː.
 # text_en = Once it is sewn, you tie it on you body.
-# text_ortho = ’in ’an ɗumkèe, sai ’à ɗaᵲmàa gà jìkii.
+# text_orth = ’in ’an ɗumkèe, sai ’à ɗaᵲmàa gà jìkii.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ɗumkèː	ɗumkèː	VERB	_	_	2	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=3|RX=[VERB]
@@ -3558,7 +3558,7 @@
 # sent_timecode = 110000, 111000
 # text = in shi nàː gà jìkinkà, du’ irìn ƙarhèː, bâːshi huːdè jìkinkà.
 # text_en = If it is on you body, whatever metal won't pierce your body.
-# text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
+# text_orth = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	shi	shi	PRON	_	_	3	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	nàː	nàː	AUX	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
@@ -3584,7 +3584,6 @@
 # sent_timecode = 111000, 112000
 # text = shiːkèːnan.
 # text_en = That's it.
-# text_ortho = šii kèe nan.
+# text_orth = šii kèe nan.
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	0	root	_	GE=that's_it|Gloss=that's_it|nWord=1|RX=[INTJ]
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=2|RX=[PUNCT]
-
