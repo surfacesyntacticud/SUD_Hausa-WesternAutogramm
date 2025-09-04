@@ -328,7 +328,7 @@
 12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	hwarin	hwariː	ADJ	_	Definite=Cons	14	mod	_	GE=[white].[Masc]|Gloss=white.Masc|nWord=13|RX=[ADJ]|wordform=hwari
 14	kaːshiː	kaːshiː	NOUN	_	_	10	conj:dicto	_	GE=[faeces].[Masc]|Gloss=faeces.Masc|nWord=14|RX=[NOUN]
-15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+15	,	,	PUNCT	_	_	16	comp:obj	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	na	na	ADP	_	_	14	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
 17	bisà	bisà	ADP	_	_	16	comp:obj	_	GE=on_top_of|Gloss=on_top_of|nWord=17|RX=[ADP]
 18	shìːriyàː	shìːriyàː	NOUN	_	_	17	comp:obj	_	GE=[fig_tree].[Fem]|Gloss=fig_tree.Fem|nWord=18|RX=[NOUN]
@@ -1366,7 +1366,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	mutà	mutà	PRON	_	_	4	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=4|RX=[PRON]
 6	maːgàniː	maːgàniː	NOUN	_	_	4	comp:pred	_	GE=[medicine/spell].[Masc]|Gloss=medicine/spell.Masc|nWord=5|RX=[NOUN]
-7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	,	,	PUNCT	_	_	8	comp:obj	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 8	na	na	ADP	_	_	6	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
 9	tà	tà	AUX	_	_	8	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=8|RX=[AUX]
 10	soː	soː	VERB	_	_	9	comp:aux	_	GE=want|Gloss=want|nWord=9|RX=[VERB]
@@ -2861,7 +2861,7 @@
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=3|RX=[SCONJ]
 4	akà	akà	AUX	_	_	3	comp:obj	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=4|RX=[AUX]
 5	cîː	cîː	VERB	_	_	4	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=5|RX=[VERB]
-6	,	,	PUNCT	_	_	7	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	,	,	PUNCT	_	_	7	comp:obj	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	na	na	ADP	_	_	2	conj:appos	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=7|RX=[PART]
 8	cikim	cikin	ADP	_	_	7	comp:obj	_	GE=in(side)|Gloss=in(side)|nWord=8|RX=[ADP]
 9	maːgàniː	maːgàniː	NOUN	_	_	8	comp:obj	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=9|RX=[NOUN]
@@ -2910,60 +2910,59 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 88877, 89267
-# text = [5] àkwai zuːgàl na cîː, wandà akà ɗiːbàː gà runhuː.
+# text = àkwai zuːgàl na cîː , wandà akà ɗiːbàː gà runhuː .
 # text_en = [5] There is the "zugal" that you eat, which you pick the "runhu" tree.
 # text_ortho = [5] ’àkwai zuugàl na ciì, wandà ’a kà ɗiibàa gà ᵲunhuu,
-1	[5]	[5]	SYM	_	_	_	_	_	GE=[[5]]|Gloss=[5]|nWord=1|RX=[SYM]
-2	àkwai	àkwai	PredPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=2|RX=[PREDPART]
-3	zuːgàl	zuːgàl	PROPN	_	_	2	subj	_	GE=love_charm|Gloss=love_charm|nWord=3|RX=[PROPN]
-4	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
-5	cîː	cîː	VERB	_	_	_	_	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=5|RX=[VERB]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	wandà	wandà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=7|RX=[PRON]
-8	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=8|RX=[AUX]
-9	ɗiːbàː	ɗiːbàː	VERB	_	_	8	comp:aux	_	GE=take|Gloss=take|nWord=9|RX=[VERB]
-10	gà	gà	ADP	_	_	9	comp:obl	_	GE=at|Gloss=at|nWord=10|RX=[ADP]
-11	runhuː	runhuː	NOUN	_	_	10	comp:obj	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=11|RX=[NOUN]
-12	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=12|RX=[PUNCT]
+1	àkwai	àkwai	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=2|RX=[PREDPART]
+2	zuːgàl	zuːgàl	PROPN	_	_	1	subj	_	GE=love_charm|Gloss=love_charm|nWord=3|RX=[PROPN]
+3	na	na	ADP	_	_	2	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
+4	cîː	cîː	VERB	_	_	3	comp:obj	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=5|RX=[VERB]
+5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	wandà	wandà	PRON	_	PronType=Rel	8	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=7|RX=[PRON]
+7	akà	akà	AUX	_	_	2	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=8|RX=[AUX]
+8	ɗiːbàː	ɗiːbàː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take|nWord=9|RX=[VERB]
+9	gà	gà	ADP	_	_	8	comp:obl	_	GE=at|Gloss=at|nWord=10|RX=[ADP]
+10	runhuː	runhuː	NOUN	_	_	9	comp:obj	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=11|RX=[NOUN]
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_107-107
+# text = in zâː a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 89267, 90000
-# text = in zâː a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
-# text_en = When you pick it, you take tender shoots and leaves of the "runhu", new ones, that are soft. ## You pick them and take them home.
+# text_en = When you pick it, you take tender shoots and leaves of the "runhu", new ones, that are soft, you pick them and take them home.
 # text_ortho = ’in zaà ’a ɗiibàatai, sai ’à sàamu lìngàaɓun ᵲunhuu, saabii, wa’àndà ’ad dà tabšii ## sai ’à ɗeeboo sù, ’à zoo dà suu gidaa.
-1	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[PRON]
 4-5	ɗiːbàːtai	_	_	_	_	_	_	_	_
 4	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=4|RX=[VERB]
 5	=tai	=tai	PRON	_	_	4	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=4|RX=[PRON]|wordform=-ai
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
-8	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
+8	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 9	sàːmu	saːmùː	VERB	_	_	8	comp:aux	_	GE=get|Gloss=get|nWord=8|RX=[VERB]
 10	lìngàːɓun	lìngàːɓuː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[tender_shoots].[Masc]|Gloss=tender_shoots.Masc|nWord=9|RX=[NOUN]|wordform=lìngàːɓu
 11	runhuː	runhuː	NOUN	_	_	10	mod	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=10|RX=[NOUN]
-12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-13	saːbiː	saːbiː	ADJ	_	_	_	_	_	GE=[new].[Plur]|Gloss=new.Plur|nWord=12|RX=[ADJ]
-14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	wa’àndà	wa’àndà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=14|RX=[PRON]
-16	ad	ak	IdPART	_	Background=Yes	15	mod@relcl	_	GE=[4]|Gloss=Pred/Loc.Bkg|nWord=15|RX=[IDPART]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+13	saːbiː	saːbiː	ADJ	_	_	10	mod	_	GE=[new].[Plur]|Gloss=new.Plur|nWord=12|RX=[ADJ]
+14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+15	wa’àndà	wa’àndà	PRON	_	PronType=Rel	16	subj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=14|RX=[PRON]
+16	ad	ak	IdPART	_	Background=Yes	10	mod@relcl	_	GE=[4]|Gloss=Pred/Loc.Bkg|nWord=15|RX=[IDPART]
 17	dà	dà	ADP	_	_	16	comp:pred	_	GE=with|Gloss=with|nWord=16|RX=[ADP]
 18	tabshiː	tabshiː	NOUN	_	_	17	comp:obj	_	GE=[softness].[Masc]|Gloss=softness.Masc|nWord=17|RX=[NOUN]
-19	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+19	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 20	sai	sai	ADV	_	_	21	mod	_	GE=then|Gloss=then|nWord=19|RX=[ADV]
-21	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=20|RX=[AUX]
+21	à	à	AUX	_	_	8	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=20|RX=[AUX]
 22	ɗeːboː	ɗiːbàː	VERB	_	_	21	comp:aux	_	GE=take|Gloss=take.Dir|nWord=21|RX=[VERB]|wordform=ɗeːb
 23	sù	sù	PRON	_	_	22	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
 24	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-25	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
+25	à	à	AUX	_	_	21	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
 26	zoː	zoː	VERB	_	_	25	comp:aux	_	GE=come|Gloss=come|nWord=25|RX=[VERB]
 27	dà	dà	ADP	_	_	26	comp:obl	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 28	suː	suː	PRON	_	_	27	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=27|RX=[PRON]
-29	gidaː	gidaː	NOUN	_	_	_	_	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]
-30	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=29|RX=[PUNCT]
+29	gidaː	gidaː	NOUN	_	_	26	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]
+30	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=29|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_108-108
 # speaker_id = *
@@ -2972,24 +2971,24 @@
 # text = in ankà zoː dà suː gidaː, dà màraiceː akà ɗeːboː sù, raːnaː nàː shirin hwaːɗùwaː.
 # text_en = After you have taken them home, it's in the evening you pick them, just before sunset.
 # text_ortho = ’in ’ankà zoo dà suu gidaa, dà màᵲaicee ’a kà ɗeeboo sù, ᵲaanaa nàa šiᵲin hwaaɗùwaa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=3|RX=[VERB]
 4	dà	dà	ADP	_	_	3	comp:obl	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
 5	suː	suː	PRON	_	_	4	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=5|RX=[PRON]
-6	gidaː	gidaː	NOUN	_	_	_	_	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
+6	gidaː	gidaː	NOUN	_	_	3	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=6|RX=[NOUN]
+7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	dà	dà	ADP	_	_	0	root	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
 9	màraiceː	màraiceː	NOUN	_	_	8	comp:obj	_	GE=[late_evening].[Masc]|Gloss=late_evening.Masc|nWord=9|RX=[NOUN]
-10	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=10|RX=[AUX]
+10	akà	akà	AUX	_	_	8	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=10|RX=[AUX]
 11	ɗeːboː	ɗiːbàː	VERB	_	_	10	comp:aux	_	GE=take|Gloss=take.Dir|nWord=11|RX=[VERB]|wordform=ɗeːb
 12	sù	sù	PRON	_	_	11	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=12|RX=[PRON]
-13	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	raːnaː	raːnaː	NOUN	_	_	_	_	_	GE=sun/day|Gloss=sun/day|nWord=14|RX=[NOUN]
-15	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=15|RX=[AUX]
-16	shirin	shiriː	NOUN	_	Definite=Cons	_	_	_	GE=[preparation].[Masc]|Gloss=preparation.Masc|nWord=16|RX=[NOUN]|wordform=shiri
-17	hwaːɗùwaː	hwaːɗùwaː	VERB	_	_	16	mod	_	GE=[fall].[Nmlz].[Fem]|Gloss=fall.Nmlz.Fem|nWord=17|RX=[VERB]
-18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
+13	,	,	PUNCT	_	_	15	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	raːnaː	raːnaː	NOUN	_	_	15	subj	_	GE=sun/day|Gloss=sun/day|nWord=14|RX=[NOUN]
+15	nàː	nàː	AUX	_	_	8	parataxis@conj	_	GE=[Imp]|Gloss=Imp|nWord=15|RX=[AUX]
+16	shirin	shiriː	NOUN	_	Definite=Cons	15	comp:aux	_	GE=[preparation].[Masc]|Gloss=preparation.Masc|nWord=16|RX=[NOUN]|wordform=shiri
+17	hwaːɗùwaː	hwaːɗùwaː	VERB	_	_	16	udep	_	GE=[fall].[Nmlz].[Fem]|Gloss=fall.Nmlz.Fem|nWord=17|RX=[VERB]
+18	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_109-109
 # speaker_id = *
