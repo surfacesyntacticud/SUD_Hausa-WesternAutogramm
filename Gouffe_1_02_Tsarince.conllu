@@ -4,7 +4,7 @@
 # sent_timecode = 0, 2000
 # text = s'àːrìnceː anàː yîn s'àːrìnceː, àmmaː wurin s'àːrìnceː, anàː yîn abuːbuwàː dà yawàː, wa’àndà su kè dàban dàban.
 # text_en = Tsarince (Cuddling) They do tsarince, but in tsarince, they do many things that are different.
-# text_orth = s’àaᵲìncee ’a nàa yiǹ s’àaᵲìncee, ’àmmaa wuᵲin s’àaᵲìncee, ’a nàa yiǹ ’abuubuwàa dà yawàa, wa’àndà su kè dàban dàban.
+# text_ortho = s’àaᵲìncee ’a nàa yiǹ s’àaᵲìncee, ’àmmaa wuᵲin s’àaᵲìncee, ’a nàa yiǹ ’abuubuwàa dà yawàa, wa’àndà su kè dàban dàban.
 1	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	_	_	_	GE=cuddling|Gloss=cuddling|nWord=1|RX=[NOUN]
 2	anàː	nàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=2|RX=[AUX]
 3	yîn	yi	VERB	_	Definite=Cons	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=yî
@@ -33,7 +33,7 @@
 # sent_timecode = 2000, 3157
 # text = wurin s'àːrìnceː na hàusàːwaː, in sarmàyiː nàː sôn bùdurwaː, yanàː yìwuwaː shì tàhi gidansù, shì yi kiràntà, don tà zoː wuriːnai.
 # text_en = With the Hausa tsarince, if a boy likes a girl, it is possible that he will go to their house, call her and ask her to go to his place.
-# text_orth = wuᵲin s’àaᵲìncee na hàusàawaa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, ya nàa yìwuwaa šì tàhi gidansù, šì yi kiᵲàntà, don tà zoo wuᵲiinai.
+# text_ortho = wuᵲin s’àaᵲìncee na hàusàawaa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, ya nàa yìwuwaa šì tàhi gidansù, šì yi kiᵲàntà, don tà zoo wuᵲiinai.
 1	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=1|RX=[NOUN]|wordform=wuri
 2	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	1	mod	_	GE=cuddling|Gloss=cuddling|nWord=2|RX=[NOUN]
 3	na	na	PART	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
@@ -73,7 +73,7 @@
 # sent_timecode = 3323, 4000
 # text = in kâu bài tàhi dà kâinai ba, sai shì sâː wani yaːròː, shì kiranyoː mai ita.
 # text_en = If he does not go himself, he will send a boy to call her for him.
-# text_orth = ’in kaù bài tàhi dà kàinai ba, sai šì saà wani yaaᵲòo, šì kiᵲanyoo mai ’ita.
+# text_ortho = ’in kaù bài tàhi dà kàinai ba, sai šì saà wani yaaᵲòo, šì kiᵲanyoo mai ’ita.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=3|RX=[AUX]
@@ -104,7 +104,7 @@
 # sent_timecode = 4000, 5000
 # text = in kâu sun yi kwaːnaː , yanàː yìwu shì tàhi dà kâinai , kuma koː shì ( ita yaːrinyàː , ita dà uwàːyentà ) àiki yaːròn wurin ɗaːkin uwattà , à zoː à taːdoː tà sù tàhi wurin kwaːnaː , dà ita dà sarmàyiː .
 # text_en = If they are asleep, it is possible that he will go himself, or that he (she, the girl and her parents) will send a boy to her house to ask them to wake her up for them to sleep together, she and the boy.
-# text_orth = ‘in kaù sun yi kwaanaa, ya nàa yìwuwaa šì tàhi dà kaìnai, kuma koo šì (’ita yaaᵲinyàa, ’ita dà ’uwàayentà ) ’àiki yaaᵲòn wuᵲin ɗaakin ’uwattà, ’à zoo ’à taadoo tà sù tàhi wuᵲin kwaanaa, dà ’ita dà saᵲmàyii.
+# text_ortho = ‘in kaù sun yi kwaanaa, ya nàa yìwuwaa šì tàhi dà kaìnai, kuma koo šì (’ita yaaᵲinyàa, ’ita dà ’uwàayentà ) ’àiki yaaᵲòn wuᵲin ɗaakin ’uwattà, ’à zoo ’à taadoo tà sù tàhi wuᵲin kwaanaa, dà ’ita dà saᵲmàyii.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	sun	sun	AUX	_	_	_	_	_	GE=[3].[Pl]|Gloss=3Pl.Perf|nWord=3|RX=[AUX]
@@ -163,7 +163,7 @@
 # sent_timecode = 5000, 6000
 # text = in kâu bàsù yi kwaːnaː ba, in su nàː hwageː sunàː wargiː, irìn na ’yam maːtaː, sabòːdà in raːnaː tah hwaːɗi, ’yam maːtaː dà yawàː, sai sù tàːru wuriː gùdaː, sù tàhi hwageː, sù yi wargiː.
 # text_en = If they zare not asleep, if they are playing outside the way girls do, if the night has come, many girls, they would gather in one place, they would go outside to play.
-# text_orth = ’in kaù bà sù yi kwaanaa ba, ’in su nàa hwagee su nàa waᵲgii, ’iᵲìn na ’’yam maataa, sabòo dà ’in ᵲaanaa tah hwaaɗi, ’’yam maataa dà yawàa, sai sù tàaᵲu wuᵲii gùdaa, sù tàhi hwagee, sù yi waᵲgii.
+# text_ortho = ’in kaù bà sù yi kwaanaa ba, ’in su nàa hwagee su nàa waᵲgii, ’iᵲìn na ’’yam maataa, sabòo dà ’in ᵲaanaa tah hwaaɗi, ’’yam maataa dà yawàa, sai sù tàaᵲu wuᵲii gùdaa, sù tàhi hwagee, sù yi waᵲgii.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	sun	sun	AUX	_	_	_	_	_	GE=[Neg].[3Plur].[Perf]|Gloss=Neg.3Plur.Perf|nWord=3|RX=[AUX]
@@ -215,7 +215,7 @@
 # sent_timecode = 6000, 7000
 # text = cikin sunàː wargîn nan, sai sàmàːriː nàː zuwàː, koːwaː nàː kiram bùdurwad dà shìkà sôː, sù yi màganàː, don shì tàmbàyeː tà in taː yàr̃da, tà tàhi wuriːnai, tà yoː mai s'àːrìnceː.
 # text_en = While they are playing, boys would come, each would call the girl he likes, they would talk, he would ask her if she agrees to come to his place and do tsarince with him.
-# text_orth = cikin su nàa waᵲgiǹ nan, sai sàmàaᵲii nàa zuwàa, koo waa nàn kiᵲam bùduᵲwad dà šì kà soò, sù yi màganàa, don šì tàmbàyee tà ’in taa yàrda, tà tàhi wuᵲiinai, tà yoo mai s’àaᵲìncee.
+# text_ortho = cikin su nàa waᵲgiǹ nan, sai sàmàaᵲii nàa zuwàa, koo waa nàn kiᵲam bùduᵲwad dà šì kà soò, sù yi màganàa, don šì tàmbàyee tà ’in taa yàrda, tà tàhi wuᵲiinai, tà yoo mai s’àaᵲìncee.
 1	cikin	cikin	SCONJ	_	_	_	_	_	GE=while|Gloss=while|nWord=1|RX=[SCONJ]
 2	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=2|RX=[AUX]
 3	wargîn	wargiː	NOUN	_	Definite=Def	_	_	_	GE=[playing].[Masc].[Def]|Gloss=playing.Masc.Def|nWord=3|RX=[NOUN]
@@ -264,7 +264,7 @@
 # sent_timecode = 7000, 8000
 # text = in taː yàr̃da, sai tà gayàː mai taː yàr̃da.
 # text_en = If she agrees, she would tell him she agrees.
-# text_orth = ’in taa yàrda, sai tà gayàa mai taa yàrda.
+# text_ortho = ’in taa yàrda, sai tà gayàa mai taa yàrda.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
 3	yàr̃da	yàr̃da	VERB	_	_	2	comp:aux	_	GE=agree|Gloss=agree|nWord=3|RX=[VERB]
@@ -283,7 +283,7 @@
 # sent_timecode = 8000, 9000
 # text = in tah hwaɗàː mai taː yàr̃da, sai shì hwaɗàː matà indà zâː ta iskéː shì, sù yi s'àːrìnceː.
 # text_en = If she tells him she agrees, he tells her where she will meet him to do tsarince.
-# text_orth = ’in tah hwaɗàa mai taa yàrda, sai šì hwaɗàa matà ’indà zaà ta ’iskée šì, sù yi s’àaᵲìncee.
+# text_ortho = ’in tah hwaɗàa mai taa yàrda, sai šì hwaɗàa matà ’indà zaà ta ’iskée šì, sù yi s’àaᵲìncee.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tah	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	hwaɗàː	hwaɗàː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
@@ -312,7 +312,7 @@
 # sent_timecode = 9000, 10000
 # text = duz zallaː sàmàːriː, in dai sarmàyiː yaː ìsa kiràm bùdurwaː, tà yoː mai s'àːrìnceː, irin yaddà sukài kèːnan sabòːdà kiram bùdurwaː, koː à iskée su hwageː, à kirànyeː sù, koː à zoː gidan uwàːyensù, à kirànyeː sù.
 # text_en = All boys, if a boy has come to ask a girl to do tsarince with him, that's the way they do when asking a girl, either they meet them outside and call them or they go to their parents' house, and call them.
-# text_orth = duz zallaa sàmàaᵲii, ’in dai saᵲmàyii yaa ’ìsa kiᵲàm bùduᵲwaa, tà yoo mai s’àaᵲìncee, ’iᵲin yaddà su kài kèe nan sabòo dà kiᵲam bùduᵲwaa, koo ’à ’iskée su hwagee, ’à kiᵲànyee sù, koo ’à zoo gidan ’uwàayensù, ’à kìᵲànyee sù.
+# text_ortho = duz zallaa sàmàaᵲii, ’in dai saᵲmàyii yaa ’ìsa kiᵲàm bùduᵲwaa, tà yoo mai s’àaᵲìncee, ’iᵲin yaddà su kài kèe nan sabòo dà kiᵲam bùduᵲwaa, koo ’à ’iskée su hwagee, ’à kiᵲànyee sù, koo ’à zoo gidan ’uwàayensù, ’à kìᵲànyee sù.
 1	duz	dukà	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=1|RX=[DET]
 2	zallaː	zallaː	ADV	_	_	_	_	_	GE=completely|Gloss=completely|nWord=2|RX=[ADV]
 3	sàmàːriː	sàmàːriː	NOUN	_	_	_	_	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=3|RX=[NOUN]
@@ -369,7 +369,7 @@
 # sent_timecode = 10000, 11000
 # text = in kuma anàː bìkiː, ’yam maːtaː sai sù tàhi wurin gidam bìkiː, dus sù zamnàː can wurin bìkiː, kullum sàmàːriː nàː zuwàː, sunàː kirànsù, sunàː tàhiyàː wurin s'àrìnceː.
 # text_en = If there is a celebration, girls go to the place of the celebration, they are all there at the place of the celebration, the boys always go there, they call them, and they go and do tsarince.
-# text_orth = ’in kuma ’a nàa bìkii, ’’yam maataa sai sù tàhi wuᵲin gidam bìkii, dus sù zamnàa can wuᵲin bìkii, kullum sàmàaᵲii nàa zuwàa, su nàa kiᵲànsù, su nàa tàhiyàa wuᵲin s’àᵲìncee.
+# text_ortho = ’in kuma ’a nàa bìkii, ’’yam maataa sai sù tàhi wuᵲin gidam bìkii, dus sù zamnàa can wuᵲin bìkii, kullum sàmàaᵲii nàa zuwàa, su nàa kiᵲànsù, su nàa tàhiyàa wuᵲin s’àᵲìncee.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	anàː	anàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=3|RX=[AUX]
@@ -411,7 +411,7 @@
 # sent_timecode = 11000, 12000
 # text = in ankà gamà bìkiː, koːwàcè bùdurwaː, sai tà tàhi gidan uwàːyentà, kuma sai sun gàmu hwageː.
 # text_en = When the celebration is over, each girl go to her parents' house, and they gather outside.
-# text_orth = ’in ’ankà gamà bìkii, koo wacè bùduᵲwaa, sai tà tàhi gidan ’uwàayentà, kuma sai sun gàmu hwagee.
+# text_ortho = ’in ’ankà gamà bìkii, koo wacè bùduᵲwaa, sai tà tàhi gidan ’uwàayentà, kuma sai sun gàmu hwagee.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamà	gamàː	VERB	_	_	2	comp:aux	_	GE=finish|Gloss=finish|nWord=3|RX=[VERB]
@@ -441,7 +441,7 @@
 # sent_timecode = 12000, 13000
 # text = in kâu armeː zâː a yîː, anka shaːhwàː mà bùdurwaː lallèː ## in ankà kai tà gidan dà zâː à ruhìntà, ruhin zaman lallèː, dus sai ’yam maːtaː sù tàːru ## dà àbùkkantà, dà àbùkkan wargintà, dà dangìntà ’yam maːtaː, dus sai sù tàːru wurintà, nan indà akà zaman lallèː, nan sukà kwaːnaː, kuma nan sukà inìː, hak kullum.
 # text_en = If they are going to marry, they put henna on the girl. When they take her to the hut where they keep her locked for the henna period, all the girls get together. Her friends, the friends she plays with, and her female relatives, they all gather at her place. Where they do the henna period, there they sleep, there the spend the day, up till now.
-# text_orth = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe ## ’in ’ankà kai tà gidan dà zaà ’à ᵲuhìntà, ᵲuhin zaman lallèe, dus sai ’’yam maataa sù tàaᵲu, dà ’àbùkkantà, dà àbùkkan waᵲgintà, dà dangìntà ’’yam maataa, dus sai sù taàᵲu wuᵲintà, nan ’indà ’a kà zaman lallèe, nan su kà kwaanaa, kuma nan su kà ’inìi, hak kullum.
+# text_ortho = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe ## ’in ’ankà kai tà gidan dà zaà ’à ᵲuhìntà, ᵲuhin zaman lallèe, dus sai ’’yam maataa sù tàaᵲu, dà ’àbùkkantà, dà àbùkkan waᵲgintà, dà dangìntà ’’yam maataa, dus sai sù taàᵲu wuᵲintà, nan ’indà ’a kà zaman lallèe, nan su kà kwaanaa, kuma nan su kà ’inìi, hak kullum.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	armeː	armeː	NOUN	_	_	_	_	_	GE=[wedding].[Masc]|Gloss=wedding.Masc|nWord=3|RX=[NOUN]
@@ -529,7 +529,7 @@
 # sent_timecode = 13000, 14000
 # text = in zaman lallèn bakwài gùdaː nèː, dà an yi bakwài gùdaː, sai à yi kwaːnan zàmne, angòː shì zoː dà sàmàːriːnai dà àbùkkainai dà dangìːnai, shì zoː dà maːtaː dà ’yam maːtaː.
 # text_en = If the henna period is seven days, after seven days, they will stay there, the bridegroom will come with boys, with his friends and family, he will come with women and girls.
-# text_orth = ’in zaman lallèn bakwài gùdaa nèe, dà ’an yi bakwài gùdaa, sai ’à yi kwaanan zàmne, ’angòo šì zoo dà sàmàaᵲiinai dà ’àbùkkainai dà dangìinai, ì zoo dà maataa dà ’’yam maataa.
+# text_ortho = ’in zaman lallèn bakwài gùdaa nèe, dà ’an yi bakwài gùdaa, sai ’à yi kwaanan zàmne, ’angòo šì zoo dà sàmàaᵲiinai dà ’àbùkkainai dà dangìinai, ì zoo dà maataa dà ’’yam maataa.
 1	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zaman	zamaː	VERB	_	Definite=Cons	_	_	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=zama
 3	lallèn	lallèː	NOUN	_	Definite=Def	2	udep	_	GE=[henna].[Masc].[Def]|Gloss=henna.Masc.Def|nWord=3|RX=[NOUN]
@@ -580,7 +580,7 @@
 # sent_timecode = 14000, 15000
 # text = nan kuma ita amaryaː, dà dangìntà dà àbùkkantà, dà maːtaː na wajentà dà ’yam maːtaː na wajentà, dus sai à gamèː, à yi ta kiɗìː anàː shagàliː.
 # text_en = There, the bride, her family and friends, women on her side, and girls on her side, they will all gather and they will play music and party.
-# text_orth = nan kuma ’ita ’amaᵲyaa, dà dangìntà dà ’àbùkkantà, dà maataa na wajentà dà ’’yam maataa na wajentà, dus sai ’à gamèe, ’à yi ta kiɗìi ’a nàa šagàlii.
+# text_ortho = nan kuma ’ita ’amaᵲyaa, dà dangìntà dà ’àbùkkantà, dà maataa na wajentà dà ’’yam maataa na wajentà, dus sai ’à gamèe, ’à yi ta kiɗìi ’a nàa šagàlii.
 1	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=1|RX=[ADV]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=3|RX=[PRON]
@@ -626,7 +626,7 @@
 # sent_timecode = 15000, 16000
 # text = maːtaː nàː rawaː suː dà ’yam maːtaː ## sàmàːriː su nàː ta baːdà kuɗiː, kuma sunàː baːdà goːr̃ò dà tùràːreː ## makàɗaː nàː ta musù kiràːrìː ## su nàː mà sàmàːriː kiràːrìː su nàː mà ’yam maːtaː ## ɗan waːnè jiːkàn waːnè, koː ɗan wancè jiːkàn wancè, koː ’yaw wancè jiːkàw wancè koː ’yaw waːnè jiːkàw waːnè.
 # text_en = Women and girls are dancing. Youths are giving out money, they are giving kola and perfume. Drummers are praising them, they are praising the boys, they are praising the girls: son of so-and-so (male) and great-son of so-and-so (male), or son of so-and-so (female) and great-son of so-and-so (female) ), or daughter of so-and-so (female) and great-daughter of so-and-so (female), or daugther of so-and-so (male) and great-daughter of so-and-so (male).
-# text_orth = maataa nàa ᵲawaa suu dà ’’yam maataa, sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee, makàɗaa nàa ta musù kiᵲàaᵲìi, su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa, ɗan waanè jiikàn waanè, koo ɗan wancè jiikàn wancè, koo ’yaw wancè jiikàw wancè koo ’yaw wane jiikàw waanè.
+# text_ortho = maataa nàa ᵲawaa suu dà ’’yam maataa, sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee, makàɗaa nàa ta musù kiᵲàaᵲìi, su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa, ɗan waanè jiikàn waanè, koo ɗan wancè jiikàn wancè, koo ’yaw wancè jiikàw wancè koo ’yaw wane jiikàw waanè.
 1	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=1|RX=[NOUN]
 2	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=2|RX=[AUX]
 3	rawaː	rawaː	NOUN	_	_	_	_	_	GE=[dance].[Fem]|Gloss=dance.Fem|nWord=3|RX=[NOUN]
@@ -695,7 +695,7 @@
 # sent_timecode = 16000, 17000
 # text = makàɗaː kà hwaɗìn hakà nan, sunàː hwaɗìn suːnàːyen kàːkànnin sàmàːriː dà suːnàːyen uwàːyen sàmàːriː, dà suːnàːyen kàːkànnin ’yam maːtaː dà suːnàːyen uwàːyen ’yam maːtaː.
 # text_en = The drummers say so. They are saying the names of the boys' grand-parents, and the names of the boy's parents, and the names of the girl's grand-parents, and the names of the girls' parents.
-# text_orth = makàɗaa kà hwaɗìn hakà nan, su nàa hwaɗìn suunàayen kàakànnin sàmàaᵲii dà sunàayen ’uwàyen sàmàaᵲii, dà suunàayen kàakànnin ’’yam maataa dà suunàayen ’uwàayen ’’yam maataa.
+# text_ortho = makàɗaa kà hwaɗìn hakà nan, su nàa hwaɗìn suunàayen kàakànnin sàmàaᵲii dà sunàayen ’uwàyen sàmàaᵲii, dà suunàayen kàakànnin ’’yam maataa dà suunàayen ’uwàayen ’’yam maataa.
 1	makàɗiː	makàɗiː	NOUN	_	_	_	_	_	GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=1|RX=[NOUN]
 2	kà	kà	AUX	_	_	_	_	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=2|RX=[AUX]
 3	hwaɗìn	hwaɗìː	VERB	_	Definite=Cons	2	comp:aux	_	GE=[tell].[Nmlz].[Masc]|Gloss=tell.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=hwaɗì
@@ -730,7 +730,7 @@
 # sent_timecode = 17000, 18000
 # text = ’yam maːtaː dà sàmàːriː, sunàː jîn daːɗiː sunàː rawaː, anàː hwaɗìn kàːkànninsù dà uwàːyensù, sunàː jîn daːɗiː sunàː baːdà kuɗiː.
 # text_en = The girls and the boys are happy and they are dancing, they are naming their grand-parents and their parents, they hare happy and they are giving out money.
-# text_orth = ’’yam maataa dà sàmàaᵲii, su nàa jiǹ daaɗii su nàa ᵲawaa, ’a nàa hwaɗìn kàakànninsù dà ’uwàayensù, su nàa jiǹ daaɗii su nàa baadà kuɗii.
+# text_ortho = ’’yam maataa dà sàmàaᵲii, su nàa jiǹ daaɗii su nàa ᵲawaa, ’a nàa hwaɗìn kàakànninsù dà ’uwàayensù, su nàa jiǹ daaɗii su nàa baadà kuɗii.
 1	’yam	’yan	ADJ	_	_	2	mod	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=1|RX=[ADJ]
 2	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=2|RX=[NOUN]
 3	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=3|RX=[CCONJ]
@@ -766,7 +766,7 @@
 # sent_timecode = 18000, 19000
 # text = in ankà gàji dà kiɗìː , shâː biyun dareː yay yi , sai makàɗiː sù bar̃ kiɗìː .
 # text_en = When they are tired of the music, at midnight, the musicians will stop playing.
-# text_orth = ’in ’ankà gàji dà kiɗìi, šaà biyun daᵲee yay yi, sai makàɗaa sù bar kiɗìi.
+# text_ortho = ’in ’ankà gàji dà kiɗìi, šaà biyun daᵲee yay yi, sai makàɗaa sù bar kiɗìi.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	gàji	gàji	VERB	_	_	2	comp:aux	_	GE=get_tired|Gloss=get_tired|nWord=3|RX=[VERB]
@@ -792,7 +792,7 @@
 # sent_timecode = 19000, 20000
 # text = ’yam maːtaː dà sàmàːriː, suː kuma sù bar̃ rawaː, koːwaː shì tàhi shì ci àbunci.
 # text_en = Girls and boys they too will stop dancing. Everyone will go an eat food.
-# text_orth = ’’yam maataa dà sàmàaᵲii, suu kuma sù bar ᵲawaa, koo waa šì tàhi šì ci ’àbunci.
+# text_ortho = ’’yam maataa dà sàmàaᵲii, suu kuma sù bar ᵲawaa, koo waa šì tàhi šì ci ’àbunci.
 1	’yam	’yan	ADJ	_	_	2	mod	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=1|RX=[ADJ]
 2	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=2|RX=[NOUN]
 3	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=3|RX=[CCONJ]
@@ -818,7 +818,7 @@
 # sent_timecode = 20000, 21000
 # text = in sunkà ci àbunci, sai sù taːshì, sù tàhi indà zâː su kwaːnaː.
 # text_en = When they have finished eating, they will go to bed.
-# text_orth = ’in sunkà ci ’àbunci, sai sù taašì, sù tàhi ’indà zaà su kwaanaa.
+# text_ortho = ’in sunkà ci ’àbunci, sai sù taašì, sù tàhi ’indà zaà su kwaanaa.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	ci	ci	VERB	_	_	2	comp:aux	_	GE=eat|Gloss=eat|nWord=3|RX=[VERB]
@@ -842,7 +842,7 @@
 # sent_timecode = 21000, 22000
 # text = in sunkà tàhi indà zâː su kwaːnaː, sai sàmàːriː sù biː sù, koːwaː shì yi ta kiràm bùdurwaːtai.
 # text_en = When they have gone to bed, the boys will follow them, each one will call his girl.
-# text_orth = ’in sunkà tàhi ’indà zaà su kwaanaa, sai sàmàaᵲii sù bii sù, koo waa šì yi ta kiᵲàm bùduᵲwaatai.
+# text_ortho = ’in sunkà tàhi ’indà zaà su kwaanaa, sai sàmàaᵲii sù bii sù, koo waa šì yi ta kiᵲàm bùduᵲwaatai.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	GE=go|Gloss=go|nWord=3|RX=[VERB]
@@ -873,7 +873,7 @@
 # sent_timecode = 22000, 23000
 # text = wandà taːshì tay yàr̃da , yay yi kiràntà taz zoː , sai tà biː shì , sù tàhi wurin kwaːnaː .
 # text_en = The one whose (girl) agrees, ( he has called her and she has come ), she will follow him and they will go to bed.
-# text_orth = wanda taašì tay yàrda, yay yi kiᵲàntà taz zoo, sai tà bii šì, sù tàhi wuᵲin kwaanaa.
+# text_ortho = wanda taašì tay yàrda, yay yi kiᵲàntà taz zoo, sai tà bii šì, sù tàhi wuᵲin kwaanaa.
 1	wandà	wandà	PRON	_	PronType=Rel	14	dislocated@subj	_	GE=who|Gloss=who|nWord=1|RX=[PRON]
 2	taːshì	taːshì	PRON	_	_	3	subj	_	GE=[3Masc].[Poss].[Fem]|Gloss=3Masc.Poss.Fem|nWord=2|RX=[PRON]
 3	tay	tak	AUX	_	_	1	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
@@ -904,7 +904,7 @@
 # sent_timecode = 23000, 24000
 # text = in sunkà zoː wurin kwaːnaː, in s'àːrìnceː nèː, in sunkà yi shìnhuɗàː, sai sù tuːɓè kaːyansù, sù yi kwànce, sunàː hiːr̃a.
 # text_en = When they arrive to the bedroom, if it is tsarince, when they have made the bed, they undress, they lie down and they chat.
-# text_orth = ’in sunkà zoo wuᵲin kwaanaa, ’in s’àaᵲìncee nèe, ’in sunkà yi šìnhuɗàa, sai sù tuuɓè kaayansù, sù yi kwànce, su nàa hiira.
+# text_ortho = ’in sunkà zoo wuᵲin kwaanaa, ’in s’àaᵲìncee nèe, ’in sunkà yi šìnhuɗàa, sai sù tuuɓè kaayansù, sù yi kwànce, su nàa hiira.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=3|RX=[VERB]
@@ -941,7 +941,7 @@
 # sent_timecode = 24000, 25000
 # text = in sunkà gàji dà hiːr̃a, sù yi rùngumàː.
 # text_en = When they are tired of chatting, they hug.
-# text_orth = ’in sunkà gàji dà hiira, sù yi ᵲùngumàa.
+# text_ortho = ’in sunkà gàji dà hiira, sù yi ᵲùngumàa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	gàji	gàji	VERB	_	_	2	comp:aux	_	GE=get_tired|Gloss=get_tired|nWord=3|RX=[VERB]
@@ -959,7 +959,7 @@
 # sent_timecode = 25000, 26000
 # text = in sunkà yi rùngumàn nan, ita bùdurwaː sai tà azà nônnantà gà gàban sarmàyiː, tà r̃ungùmeː shi.
 # text_en = When they embrace, she the girl, she puts her breasts on the boy's chest and she hugs him.
-# text_orth = ’in sunkà yi ᵲùngumàn nan, ’ita bùduᵲwaa sai tà ’azà noǹnantà gà gàban saᵲmàyii, ta rungùmee ši.
+# text_ortho = ’in sunkà yi ᵲùngumàn nan, ’ita bùduᵲwaa sai tà ’azà noǹnantà gà gàban saᵲmàyii, ta rungùmee ši.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -989,7 +989,7 @@
 # sent_timecode = 26000, 27000
 # text = shiː kuma sarmàyiː shì r̃ungùmeː ta.
 # text_en = He too, the boy, will hug her.
-# text_orth = šii kuma saᵲmàyii šì rungùmee ta.
+# text_ortho = šii kuma saᵲmàyii šì rungùmee ta.
 1	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kuma	kuma	ADV	_	_	_	_	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
 3	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=3|RX=[NOUN]
@@ -1004,7 +1004,7 @@
 # sent_timecode = 27000, 28000
 # text = ita bùdurwaː, tà azàː mai hannuː gà baːyaːnai, tà jaːwoː jìkin sarmàyiː, tà gamèː dà jìkintà.
 # text_en = She the girl, she puts her hand on his back, she pulls the boys body to her body.
-# text_orth = ’ita bùduᵲwaa, tà ’azàa mai hannuu gà baayaanai, tà jàawoo jìkin saᵲmàyii, tà gamèe dà jìkintà.
+# text_ortho = ’ita bùduᵲwaa, tà ’azàa mai hannuu gà baayaanai, tà jàawoo jìkin saᵲmàyii, tà gamèe dà jìkintà.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -1038,7 +1038,7 @@
 # sent_timecode = 28000, 29000
 # text = in jìkinsù yag gamèː, kuma sunàː hiːr̃a, sunàː jîn daːɗiː, koːwaː shìnàː jîn daːɗim bùtun wani.
 # text_en = When they bodies are united, they are chatting, they are happy, each one is enjoying the other's body.
-# text_orth = ’in jìkinsù yag gamèe, kuma su nàa hiira, su nàa jiǹ daaɗii, koo waa šì nàa jìǹ daaɗim bùtun wani.
+# text_ortho = ’in jìkinsù yag gamèe, kuma su nàa hiira, su nàa jiǹ daaɗii, koo waa šì nàa jìǹ daaɗim bùtun wani.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2-3	jìkinsù	_	_	_	_	_	_	_	_
 2	jìkin	jìkiː	NOUN	_	Definite=Cons	_	_	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=2|RX=[NOUN]|wordform=jìki
@@ -1068,7 +1068,7 @@
 # sent_timecode = 29000, 30000
 # text = kuma shiː sarmàyiː, shì azà hannuːnai bisa jìkim bùdurwaː, shìnàː shaːhwaj jìkintà, shìnàː jîn daːɗiː sunàː nan sunàː yîn hakà nan, has sù yi kwaːnaː.
 # text_en = He too the boy, he puts his hand on the girl's body, he caresses her body, he is happy, here they are doing like that, until they fall asleep.
-# text_orth = kuma šii saᵲmàyii, šì ’azà hannuunai bisa jìkim bùduᵲwaa, šì nàa šaahwaj jìkintà, šì nàa jìn daaɗii su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
+# text_ortho = kuma šii saᵲmàyii, šì ’azà hannuunai bisa jìkim bùduᵲwaa, šì nàa šaahwaj jìkintà, šì nàa jìn daaɗii su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
 1	kuma	kuma	ADV	_	_	_	_	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=3|RX=[NOUN]
@@ -1110,7 +1110,7 @@
 # sent_timecode = 30000, 31000
 # text = in sunkà yi kwaːnaː, swaːhiyaː tay yi, sunkà taːshì, sai sù ɗèːbi ruwaː, koːwaː shì yi wankaː.
 # text_en = After they have slept, at the break of dawn, they go and fetch water, each one takes a bath.
-# text_orth = ’in sunkà yi kwaanaa, swaahiyaa tay yi, sunkà taašì, sai sù ɗèebi ᵲuwaa, koo waa šì yi wankaa.
+# text_ortho = ’in sunkà yi kwaanaa, swaahiyaa tay yi, sunkà taašì, sai sù ɗèebi ᵲuwaa, koo waa šì yi wankaa.
 1	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -1140,7 +1140,7 @@
 # sent_timecode = 31000, 32000
 # text = in sunkà yi wankaː, shiː sarmàyîn nan, in shì nàː dà kuɗiː, sai shì ɗèːbi kuɗiː dà tùràːreː dà goːr̃ò, shì bâː bùdurwân nan taːshì.
 # text_en = After they have taken a bath, he the boy, if he has money, he will take money and perfume and kola to give to his girl.
-# text_orth = ’in sunkà yi wankaa, šii saᵲmàyiǹ nan, ’in šì nàa dà kuɗii, sai šì ɗèebi kuɗii dà tùᵲàaᵲee dà goorò, šì baà bùduᵲwaǹ nan taašì.
+# text_ortho = ’in sunkà yi wankaa, šii saᵲmàyiǹ nan, ’in šì nàa dà kuɗii, sai šì ɗèebi kuɗii dà tùᵲàaᵲee dà goorò, šì baà bùduᵲwaǹ nan taašì.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -1178,7 +1178,7 @@
 # sent_timecode = 32000, 33000
 # text = ita kâu tà àmsaː, tà tàhiyàttà gidaː, shiː kuma shì tàhiyàːtai, sù yi ban kwaːnaː.
 # text_en = She will take it, go home, and he will go home too, they will say goodbye.
-# text_orth = ’ita kaù tà ’àmsaa, tà tàhiyàttà gidaa, šii kuma šì tàhiyàatai, sù yi ban kwaanaa.
+# text_ortho = ’ita kaù tà ’àmsaa, tà tàhiyàttà gidaa, šii kuma šì tàhiyàatai, sù yi ban kwaanaa.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=3|RX=[AUX]
@@ -1209,7 +1209,7 @@
 # sent_timecode = 33000, 34000
 # text = in gòːbe sûː koːmà, sù cêː “ sai gòːbe ”.
 # text_en = If tomorrow they will do it again, they say "see you tomorrow".
-# text_orth = ’in gòobe suù koomà, sù ceè “sai gòobe”.
+# text_ortho = ’in gòobe suù koomà, sù ceè “sai gòobe”.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	gòːbe	gòːbe	ADV	_	_	_	_	_	GE=tomorrow|Gloss=tomorrow|nWord=2|RX=[ADV]
 3	sûː	sûː	AUX	_	_	_	_	_	GE=[3Plur].[Pred]|Gloss=3Plur.Pred|nWord=3|RX=[AUX]
@@ -1229,7 +1229,7 @@
 # sent_timecode = 34000, 35000
 # text = in kuma sai wata ràːnaː, sù cêː “ sai wata ràːna ”.
 # text_en = If on the other hand, it is later, they say "see you later".
-# text_orth = ’in kuma sai wata ᵲaanaa, sù ceè “sai wata ᵲaana”.
+# text_ortho = ’in kuma sai wata ᵲaanaa, sù ceè “sai wata ᵲaana”.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
@@ -1251,7 +1251,7 @@
 # sent_timecode = 35000, 36000
 # text = ita kâu bùdurwaː, in taz zoː gidansù, sai tà gwadàː mà uwattà àbun dà sarmàyintà yab baː tà, uwaː tà ji daːɗiː, kuma tà yi mur̃nàː, sabòːdà sarmàyîn nan shìnàː sôn ɗiyattà.
 # text_en = She, the girl, when she arrives home, she tells her mother what the boy has given her, the mother is happy, she is rejoicing because that boy loves her daughter.
-# text_orth = ’ita kaù bùduᵲwaa, ’in taz zoo gidansù, sai tà gwadàa mà ’uwattà ’àbun dà saᵲmàyintà yab baa tà, ’uwaa tà ji daaɗii, kuma tà yi murnàa, sabòo dà saᵲmàyiǹ nan šì nàa soǹ ɗiyattà.
+# text_ortho = ’ita kaù bùduᵲwaa, ’in taz zoo gidansù, sai tà gwadàa mà ’uwattà ’àbun dà saᵲmàyintà yab baa tà, ’uwaa tà ji daaɗii, kuma tà yi murnàa, sabòo dà saᵲmàyiǹ nan šì nàa soǹ ɗiyattà.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
@@ -1305,7 +1305,7 @@
 # sent_timecode = 36000, 37000
 # text = in tag gamà mur̃nàː , tà cêː “ allàː shì yi mai àlbar̃kàː ” .
 # text_en = After rejoicing, she says "may God bless him."
-# text_orth = ’in tag gamà murnàa, tà ceè “’allàa šì mai ’àlbarkàa”.
+# text_ortho = ’in tag gamà murnàa, tà ceè “’allàa šì mai ’àlbarkàa”.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tag	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamà	gamàː	VERB	_	_	2	comp:aux	_	GE=finish|Gloss=finish|nWord=3|RX=[VERB]
@@ -1329,7 +1329,7 @@
 # sent_timecode = 37000, 38000
 # text = hakà nan akà s'àːrìnceː.
 # text_en = That's the way they do tsarince.
-# text_orth = hakà nan ’a kà s’àaᵲìncee.
+# text_ortho = hakà nan ’a kà s’àaᵲìncee.
 1	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=1|RX=[ADV]
 2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
 3	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=3|RX=[AUX]
@@ -1342,7 +1342,7 @@
 # sent_timecode = 38000, 39000
 # text = tôː kuma bandà hakà nan, shiː sarmàyiː, in yak kìri bùdurwaː, shìnàː sôntà, tanàː sôːnai, sunkà tàhi wurin s'àːrìnceː, sunkà tuːɓèː.
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
-# text_orth = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
+# text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
 1	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	kuma	kuma	ADV	_	_	_	_	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
 3	bandà	bandà	ADP	_	_	_	_	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
@@ -1382,7 +1382,7 @@
 # sent_timecode = 39000, 40000
 # text = in sunkà tuːɓèː, taggunànsù na gà jìkiː, suː sukà tuːɓèːwaː, bâːsu tuːɓè àbun ɗarmùː.
 # text_en = When they undress, their shirts, they remove them, but they do not remove their underpants.
-# text_orth = ’in sunkà tuuɓèe, taggunànsù na gà jìkii, suu su kà tuuɓèewaa, baà su tuuɓè ’àbun ɗaᵲmùu.
+# text_ortho = ’in sunkà tuuɓèe, taggunànsù na gà jìkii, suu su kà tuuɓèewaa, baà su tuuɓè ’àbun ɗaᵲmùu.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	tuːɓèː	tuːɓèː	VERB	_	_	2	comp:aux	_	GE=remove|Gloss=remove|nWord=3|RX=[VERB]
@@ -1410,7 +1410,7 @@
 # sent_timecode = 40000, 41000
 # text = shiː sarmàyiː, bâːshi hiddà wàndoː, ita kâu bùdurwaː, bâːta hiddà ɗan tòːhi, sai dai sù kwântaː dà suː.
 # text_en = He, the boy does not remove his trousers, and she the girl, she does not remove her pants, they sleep with them.
-# text_orth = šii saᵲmàyii, baà ši hiddà wàndoo, ’ita kaù bùduᵲwaa, baà ta hiddà ɗan tòohi, sai dai sù kwaǹtaa dà suu.
+# text_ortho = šii saᵲmàyii, baà ši hiddà wàndoo, ’ita kaù bùduᵲwaa, baà ta hiddà ɗan tòohi, sai dai sù kwaǹtaa dà suu.
 1	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -1441,7 +1441,7 @@
 # sent_timecode = 41000, 41283
 # text = in sunkà yi kwànce, sunkà gamà jìkiː, nônnan bùdurwaː sunkà kaːmà gàban sarmàyiː, yaj ji sanyin jìkintà, yanàː yìwuwaː bùːras sarmàyiː tà taːshì..
 # text_en = When they lie down, their bodies are close, the girl's breasts catch the boy's chest, his body may get excited, and it is possible that he will get an erection.
-# text_orth = ’in sunkà yi kwànce, sunkà gamà jìkii, noǹnan bùduᵲwaa sunkà kaamà gàban saᵲmàyii, yaj ji sanyin jìkintà, ya nàaa yìwuwaa bùuᵲas saᵲmàyii tà taašì.
+# text_ortho = ’in sunkà yi kwànce, sunkà gamà jìkii, noǹnan bùduᵲwaa sunkà kaamà gàban saᵲmàyii, yaj ji sanyin jìkintà, ya nàaa yìwuwaa bùuᵲas saᵲmàyii tà taašì.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -1479,7 +1479,7 @@
 # sent_timecode = 41283, 42000
 # text = in tat taːshì cikin wàndoː, bâːshi yàr̃daː bùdurwât tà sanìː, sai shì ɗaɗɗàkà ƙahwàːhuːnai, shì sâː bùːraːtai s'akaƙ ƙahwàːhuː, shì taushèː, don kâɓ bùdurwaː tà jiyàː, sabòːdà kumyàː.
 # text_en = If his penis gets hard in his trousers, he will not want the girl to know, he will spread his legs, put his penis between his thighs, and hold it down so that the girl won't feel it, because of decency.
-# text_orth = ’in tat taašì cikin wàandoo, baà šì yàrdaa bùduᵲwat̀ tà sanìi, sai šì ɗaɗɗàkà ƙahwàahuunai, šì saà bùuᵲaatai s’akaƙ ƙahwàahun, šì taušèe, don kab̀ bùduᵲwaa tà jiyàa, sabòo dà kumyàa.
+# text_ortho = ’in tat taašì cikin wàandoo, baà šì yàrdaa bùduᵲwat̀ tà sanìi, sai šì ɗaɗɗàkà ƙahwàahuunai, šì saà bùuᵲaatai s’akaƙ ƙahwàahun, šì taušèe, don kab̀ bùduᵲwaa tà jiyàa, sabòo dà kumyàa.
 1	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tat	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	taːshì	taːshì	VERB	_	_	2	comp:aux	_	GE=rise|Gloss=rise|nWord=3|RX=[VERB]
@@ -1526,7 +1526,7 @@
 # sent_timecode = 42000, 43000
 # text = in yat taushèː ta, tun tanàː taːshìː, hat tà barìː.
 # text_en = He holds it down, so long as it is hard, until it stops.
-# text_orth = ’in yat taušèe ta, tun ta nàa taašìi, hat tà baᵲìi.
+# text_ortho = ’in yat taušèe ta, tun ta nàa taašìi, hat tà baᵲìi.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	taushèː	taushèː	VERB	_	_	2	comp:aux	_	GE=block|Gloss=block|nWord=3|RX=[VERB]
@@ -1547,7 +1547,7 @@
 # sent_timecode = 43000, 44000
 # text = tôː kuma dud dà hakà nan, cikin s'àːrìnceː, yanàː yìwuwaː wata raːnaː shì zan s'àːrìnci.
 # text_en = Well, however, with tsarince, it is possible that sometimes, it becomes "tsarinci" (copulation).
-# text_orth = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
+# text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
 1	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	kuma	kuma	ADV	_	_	_	_	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
 3	dud	dukà	PRON	_	_	_	_	_	GE=all|Gloss=all|nWord=3|RX=[PRON]
@@ -1573,7 +1573,7 @@
 # sent_timecode = 44000, 45000
 # text = àbun dà as' s'àːrìnci, in sarmàyiː yay yi kiràm bùdurwaː, sunkà tàhi wurin s'àːrìnceː, sunkà yi kwànce, in yar rùngùmi bùdurwaː, yaj ji sanyin jìkintà, in bùːraːtai tat taːshì, in bâː shi dà dànganàː, kuma bâː shi dà kir̃kiː, sai shì tàmbàyeː tà, shìnàː sôn shì ciː tà.
 # text_en = "Tsarinci" is when a boy calls a girl, they go do to tsarince, they lie down ## If he feels excited when he hugs the girl, and he gets an erection, if he has no self-control, and no honour, he will ask her to have soeur with him.
-# text_orth = ’àbun dà ’as’ s’àaᵲìnci, ’in saᵲmàyii yay yi kiᵲàm bùduᵲwaa, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà yi kwànce, ’in yaᵲ ᵲùngùmi bùduᵲwaa, yaj ji sanyin jìkintà, ’in bùuᵲaatai tat taašì, ’in baà ši dà dànganàa, kuma baà ši dà kirkii, sai šì tàmbàyee tà, šì nàa soǹ šì cii tà.
+# text_ortho = ’àbun dà ’as’ s’àaᵲìnci, ’in saᵲmàyii yay yi kiᵲàm bùduᵲwaa, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà yi kwànce, ’in yaᵲ ᵲùngùmi bùduᵲwaa, yaj ji sanyin jìkintà, ’in bùuᵲaatai tat taašì, ’in baà ši dà dànganàa, kuma baà ši dà kirkii, sai šì tàmbàyee tà, šì nàa soǹ šì cii tà.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	as'	ak	IdPART	_	Background=Yes	2	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=3|RX=[IDPART]
@@ -1644,7 +1644,7 @@
 # sent_timecode = 45000, 46000
 # text = in taː yàr̃da sai shì ciː tà.
 # text_en = If she agrees, he will penetrate her.
-# text_orth = ’in taa yàrda sai šì cii tà.
+# text_ortho = ’in taa yàrda sai šì cii tà.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
 3	yàr̃da	yàr̃da	VERB	_	_	2	comp:aux	_	GE=agree|Gloss=agree|nWord=3|RX=[VERB]
@@ -1660,7 +1660,7 @@
 # sent_timecode = 46000, 47000
 # text = in yac ciː tà, shiː as' s'àːrìnci.
 # text_en = If he penetrates her, that's "tsarinci".
-# text_orth = ’in yac cii tà, šii ’as’ s’àaᵲìnci.
+# text_ortho = ’in yac cii tà, šii ’as’ s’àaᵲìnci.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yac	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ciː	ci	VERB	_	_	2	comp:aux	_	GE=eat|Gloss=eat|nWord=3|RX=[VERB]
@@ -1677,7 +1677,7 @@
 # sent_timecode = 47000, 48000
 # text = in kâu taː ƙiyàː, yay yi lâːllaɓàttà hay yag gàji tà yàr̃da shì ciː tà ## in taƙ ƙiyàː, shiː kuma yad dànganà, yaƙ ƙyaːlèː ta, sunkà yi kwancìnsù hakà nan, bàː s'àːrìnci ba nèː, yaː zan s'àːrìnceː.
 # text_en = If she refuses, he will beg her util she gives up and agrees for him to penetrate her. If she refuses, and he controls himself, respects her, and they sleep like this, it is not "tsarinci", and becomes "tsarince".
-# text_orth = ’in kaù taa ƙiyàa, yay yi laàllaɓàttà hay yag gàji tà yàrda šì cii tà, ’in taƙ ƙiyàa, šii kuma yad dànganà, yaƙ ƙyaalèe ta, sunkà yi kwancìnsù hakà nan, bàa s’àaᵲìnci ba nèe, yaa zan s’àaᵲìncee.
+# text_ortho = ’in kaù taa ƙiyàa, yay yi laàllaɓàttà hay yag gàji tà yàrda šì cii tà, ’in taƙ ƙiyàa, šii kuma yad dànganà, yaƙ ƙyaalèe ta, sunkà yi kwancìnsù hakà nan, bàa s’àaᵲìnci ba nèe, yaa zan s’àaᵲìncee.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
@@ -1734,7 +1734,7 @@
 # sent_timecode = 48000, 49000
 # text = in an ci bùdurwaː, shiː as' s'àːrìnci.
 # text_en = If they have intercourse with the girl, its is "tsarince".
-# text_orth = ’in ’an ci bùduᵲwaa, šii ’as’ s’àaᵲìnci.
+# text_ortho = ’in ’an ci bùduᵲwaa, šii ’as’ s’àaᵲìnci.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ci	ci	VERB	_	_	2	comp:aux	_	GE=eat|Gloss=eat|nWord=3|RX=[VERB]
@@ -1751,7 +1751,7 @@
 # sent_timecode = 49000, 50000
 # text = in sarmàyiː zâː shi kiràm bùdurwaː, bùtun s'àːrìnceː, bâːshi tàmbayà’ uwàːyentà, sai dai shì kìri bùdurwaː.
 # text_en = If a boy goes to call a girl for "tsarince", he does not ask her parents, he just calls the girl.
-# text_orth = ’in saᵲmàyii zaà ši kiᵲàm bùduᵲwaa, bùtun s’àaᵲìncee, baà ši tàmbayà’ ’uwàayentà, sai dai šì kìᵲi bùduᵲwaa.
+# text_ortho = ’in saᵲmàyii zaà ši kiᵲàm bùduᵲwaa, bùtun s’àaᵲìncee, baà ši tàmbayà’ ’uwàayentà, sai dai šì kìᵲi bùduᵲwaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=2|RX=[NOUN]
 3	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
@@ -1781,7 +1781,7 @@
 # sent_timecode = 50000, 51000
 # text = suː uwàːyen bùdurwaː , bâːsu tàmbayàs sarmàyîn nan , bâːsu tàmbayàːtai koːmiː , sai dai kumyàː s'àkaːninsù , sabòːdà shiː sùrkinsù neː , suː kuma sàràkkunnànshì neː .
 # text_en = They, the girl's parents, they do not ask about the boy, they do not ask anything. It is taboo for them to talk, because they are in-laws.
-# text_orth = suu ’uwàayen bùduᵲwaa, baà su tàmbayàs saᵲmàyiǹ nan, baà su tàmbayàatai koomii, sai dai kumyàa s’àkaaninsù, sabòo dà šii sùᵲkinsù nee, suu kuma sàᵲàkkunnànšì nee.
+# text_ortho = suu ’uwàayen bùduᵲwaa, baà su tàmbayàs saᵲmàyiǹ nan, baà su tàmbayàatai koomii, sai dai kumyàa s’àkaaninsù, sabòo dà šii sùᵲkinsù nee, suu kuma sàᵲàkkunnànšì nee.
 1	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	_	_	_	GE=[parents].[Plur]|Gloss=parents.Plur|nWord=2|RX=[NOUN]|wordform=uwàːye
 3	bùdurwaː	bùdurwaː	NOUN	_	_	2	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
@@ -1825,7 +1825,7 @@
 # sent_timecode = 51000, 52000
 # text = ita bùdurwân nan , in uwàːyentà sunkà mutà mijìː , in zâː a yîn armeː , in bâːta sôn mijìn nan , wandà uwàːyeː sunkà yi mutà , sai tà cêː mà uwàːyentà , mijìn nan dà sunkà baːdàː ta gàrai , bâːta sôːnai , bâːshi yìwuwaː tà àrmeː shì .
 # text_en = She, that girl, if her parents have chosen her a husband, if she is going to get married, if she does not like that husband whom the parents have chosen, she will tell her parents that the husband they have given her, she does not like him, she cannot marry him.
-# text_orth = ’ita bùduᵲwaǹ nan, ’in ’uwàayentà sunkà mutà mijìi, ’in zaà ’a yiǹ ’aᵲmee, ’im baà ta soǹ mijìn nan, wandà ’uwàayee sunkà mutà, sai tà ceè mà ’uwàayentà, mijìn nan dà sunkà baadàa ta gàᵲai, baà ta soònai, baà ši yìwuwaa tà ’àᵲmee šì.
+# text_ortho = ’ita bùduᵲwaǹ nan, ’in ’uwàayentà sunkà mutà mijìi, ’in zaà ’a yiǹ ’aᵲmee, ’im baà ta soǹ mijìn nan, wandà ’uwàayee sunkà mutà, sai tà ceè mà ’uwàayentà, mijìn nan dà sunkà baadàa ta gàᵲai, baà ta soònai, baà ši yìwuwaa tà ’àᵲmee šì.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	bùdurwân	bùdurwaː	NOUN	_	Definite=Def	_	_	_	GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=2|RX=[NOUN]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[DET]
@@ -1895,7 +1895,7 @@
 # sent_timecode = 52000, 53000
 # text = suː kuma uwàːyên nan , sai sù cêː mutà “ tundà bâːki sôn wânga mijìː , wandà munkà mikì , an bar̃ bùtu , sai kì hwàɗi wandà kikà sôː ” .
 # text_en = They, the parents, they will tell her "since you do no like this husband that we chose for you, we stop the talks, tell us who you want."
-# text_orth = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
+# text_ortho = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
 1	suː	suː	PRON	_	_	7	dislocated@top	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	uwàːyên	uwàːyeː	NOUN	_	Definite=Def	1	conj:appos	_	GE=[parents].[Plur].[Def]|Gloss=parents.Plur.Def|nWord=3|RX=[NOUN]
@@ -1937,7 +1937,7 @@
 # sent_timecode = 53000, 54000
 # text = in sunkà hwàɗaː mutà hakà nan , sai tà gayàː musù sarmàyin dà takà sôː , wandà takà s'àːrìnceː , sai sù cêː mutà : “ tundà shiː kikà sôː , an baː shì , shì kaːwoː duːkìyaw wâncân wandà bâːki sôː , à baː shi àbuːtai tundà bâːki sôːnai , shì bìɗi wani mài sôːnai .
 # text_en = If they talk to her like this, she will tell them which boy she likes, whom she is doing tsarince with. They will tell her "since it's him that you like, we give him to you, let him give back the cattle to the one you don't like. Let him recover his things since you don't like him, so that he will look for someone who likes him.
-# text_orth = ’in sunkà hwàɗàa mutà hakà nan, sai tà gayàaa musù saᵲmàyin dà ta kà soò, wanda ta kà s’àaᵲìncee, sai sù ceè mutà : “tun dà šii ki kà soò, ’am baa šì, šì kaawoo duukìyaw waǹcaǹ wandà baà ki soò, ’à baa šì ’àbuutai tun dà baà ki soònai, šì bìɗi wata mài soònai.
+# text_ortho = ’in sunkà hwàɗàa mutà hakà nan, sai tà gayàaa musù saᵲmàyin dà ta kà soò, wanda ta kà s’àaᵲìncee, sai sù ceè mutà : “tun dà šii ki kà soò, ’am baa šì, šì kaawoo duukìyaw waǹcaǹ wandà baà ki soò, ’à baa šì ’àbuutai tun dà baà ki soònai, šì bìɗi wata mài soònai.
 1	in	in	SCONJ	_	_	22	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	hwàɗaː	hwàɗaː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
@@ -2010,7 +2010,7 @@
 # sent_timecode = 54000, 55000
 # text = in ankà baː shì duːkìyaːtai , sai à musù armeː , dà wandà takà sôː .
 # text_en = If he is given back his cattle, let her get married with the one she likes.
-# text_orth = ’in ’ankà baa šì duukìyaatai, sai ’à musù ’aᵲmee, dà wanda ta kà soò.
+# text_ortho = ’in ’ankà baa šì duukìyaatai, sai ’à musù ’aᵲmee, dà wanda ta kà soò.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	baː	baː	VERB	_	_	2	comp:aux	_	GE=give|Gloss=give|nWord=3|RX=[VERB]
@@ -2038,7 +2038,7 @@
 # sent_timecode = 55000, 56000
 # text = shiː kuma wandà bâːta sôː , shì bìɗi wani .
 # text_en = He, the one she does not like, let him look for another one.
-# text_orth = šii kuma wanda baà ta soò, šì bìɗi wata.
+# text_ortho = šii kuma wanda baà ta soò, šì bìɗi wata.
 1	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	GE=who|Gloss=who|nWord=3|RX=[PRON]
@@ -2056,7 +2056,7 @@
 # sent_timecode = 56000, 57000
 # text = shiːkèːnan.
 # text_en = That's it.
-# text_orth = šii kèe nan.
+# text_ortho = šii kèe nan.
 1	shiːkèːnan	shiːkèːnan	INTJ	_	_	_	_	_	GE=that's_it|Gloss=that's_it|nWord=1|RX=[INTJ]
 2	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=2|RX=[PUNCT]
 
@@ -2066,7 +2066,7 @@
 # sent_timecode = 57000, 58000
 # text = bùtun ’yam maːtaː, dà suː dà sàmàːriː, cikin tagaːmaːwaː dà buːzàːyeː dà abzinaːwaː, bâː’a s'àːrìnceː, sai dai yaːwòː.
 # text_en = Concerning girls, them and boys, among the Tagama people, the Tuareg, and the Azben people, they don't do "tsarince", only "yawo".
-# text_orth = bùtun ’’yam maataa, dà suu dà sàmàaᵲii, cikin tagaamaawaa dà buuzàayee dà ’abzinaawaa, baà ’a s’àaᵲìncee, sai dai yaawòo.
+# text_ortho = bùtun ’’yam maataa, dà suu dà sàmàaᵲii, cikin tagaamaawaa dà buuzàayee dà ’abzinaawaa, baà ’a s’àaᵲìncee, sai dai yaawòo.
 1	bùtun	bùtu	NOUN	_	Definite=Cons	_	_	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=1|RX=[NOUN]|wordform=bùtu
 2	’yam	’yan	ADJ	_	_	3	mod	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=2|RX=[ADJ]
 3	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=3|RX=[NOUN]
@@ -2097,7 +2097,7 @@
 # sent_timecode = 58000, 59000
 # text = àbun dà ay yaːwòː, in sarmàyiː yag ga bùdurwaː, waddà shikà sôː, sai in dareː yaː yi, shì sanyà riːgunàːnai, shì sâː hùllaː, kuma shì yi naɗiː, shì shaːhwà tùràːreː, shì raːtàyà takòːbiː.
 # text_en = What yawo is : when a boy sees a girl that he likes, when night comes, he dresses up, puts on a cap, or a turban, puts on some perfume, and takes his sword.
-# text_orth = ’àbun dà ’ay yaawòo, ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
+# text_ortho = ’àbun dà ’ay yaawòo, ’in saᵲmàyii yag ga bùduᵲwaa, waddà ši kà soò, sai ’in daᵲee yaa yi, šì sanyà ᵲiigunàanai, šì saà hùllaa, kuma šì yi naɗii, šì šaahwà tùᵲàaᵲee, šì ᵲaatàyà takòobii.
 1	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=1|RX=[NOUN]|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	ay	ak	IdPART	_	Background=Yes	2	comp:obj	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=3|RX=[IDPART]
@@ -2149,7 +2149,7 @@
 # sent_timecode = 59000, 60000
 # text = in zangunàː neː, sai dareː yaː yi, an shìga kwaːnaː, sai sarmàyiː shì tàhi, yaː shaː kaːyaːnai, yaː raːtàyà takòːbiː, yà zoː wurin ɗaːkìː, na uwab bùdurwaː, shì shìga sànnu.
 # text_en = If it is the camps, when night comes and people have gone to bed, the boy goes after he has put on his things and taken his sword, he goes to the house, that of the girl's mother, aṅd he enters quietly.
-# text_orth = ’in zangunàa nee, sai daᵲee yaa yi, ’an šìga kwaanaa, sai saᵲmàyii šì tàhi, yaa šaa kaayaanai, yaa ᵲaatàyà takòobii, yà zoo wuᵲin ɗaakìii, na ‘uwab bùduᵲwaa, šì šìga sànnu.
+# text_ortho = ’in zangunàa nee, sai daᵲee yaa yi, ’an šìga kwaanaa, sai saᵲmàyii šì tàhi, yaa šaa kaayaanai, yaa ᵲaatàyà takòobii, yà zoo wuᵲin ɗaakìii, na ‘uwab bùduᵲwaa, šì šìga sànnu.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zangòː	zangòː	NOUN	_	_	_	_	_	GE=[camp].[Plur]|Gloss=camp.Plur|nWord=2|RX=[NOUN]
 3	neː	neː	IdPART	_	_	_	_	_	GE=[Ident/Loc]|Gloss=Ident/Loc|nWord=3|RX=[IDPART]
@@ -2198,7 +2198,7 @@
 # sent_timecode = 60000, 61000
 # text = in yash shìga sànnu, sai shì diːbàː dà kyâu, shì ga indà bùdurwaː ta kè.
 # text_en = When he has entered quietly, the looks well to see where the girl is.
-# text_orth = ’in yaš šìga sànnu, sai šì diibàa dà kyaù, šì ga ’indà bùduᵲwaa ta kè.
+# text_ortho = ’in yaš šìga sànnu, sai šì diibàa dà kyaù, šì ga ’indà bùduᵲwaa ta kè.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yash	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	shìga	shìga	VERB	_	_	2	comp:aux	_	GE=enter|Gloss=enter|nWord=3|RX=[VERB]
@@ -2224,7 +2224,7 @@
 # sent_timecode = 61000, 62000
 # text = in yag ga indà bùdurwaː ta kè, sai shì taːdàː ta, shì taːdàː ta zàmne.
 # text_en = When he has seen where the girl is, he wakes her up, he wakes her up right there.
-# text_orth = ’in yag ga ’indà bùduᵲwaa ta kè, sai šì taadàa tà, šì taadàa ta zàmne.
+# text_ortho = ’in yag ga ’indà bùduᵲwaa ta kè, sai šì taadàa tà, šì taadàa ta zàmne.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yag	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ganiː	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
@@ -2250,7 +2250,7 @@
 # sent_timecode = 62000, 63000
 # text = in yat taːdàː ta zàmne, tab bar̃ kwaːnaː, idòntà yab buːɗèː, gìːgin kwaːnaː yas sàkeː tà.
 # text_en = When has waken her up, she has stopped sleeping, her eyes are open, the heaviness of sleep has left her.
-# text_orth = ’in yat taadàa ta zàmne, tab bar kwaanaa, ’idòntà yab buuɗèe, gìigin kwaanaa yas sake tà.
+# text_ortho = ’in yat taadàa ta zàmne, tab bar kwaanaa, ’idòntà yab buuɗèe, gìigin kwaanaa yas sake tà.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	taːdàː	taːdàː	VERB	_	_	2	comp:aux	_	GE=wake_up|Gloss=wake_up|nWord=3|RX=[VERB]
@@ -2280,7 +2280,7 @@
 # sent_timecode = 63000, 64000
 # text = in gìːgin kwaːnaː yas sàkeː tà, sai sarmàyiː shì yi zàmne, nan wurim bùdurwaː.
 # text_en = When the heaviness of sleep has left her, the boy sits down there, at the girl's place.
-# text_orth = ’in gìigin kwaanaa yas sàkee tà, sai saᵲmàyii šì yi zàmne, nan wuᵲim bùduᵲwaa.
+# text_ortho = ’in gìigin kwaanaa yas sàkee tà, sai saᵲmàyii šì yi zàmne, nan wuᵲim bùduᵲwaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	gìːgiː	gìːgiː	NOUN	_	_	_	_	_	GE=[dizziness].[Masc]|Gloss=dizziness.Masc|nWord=2|RX=[NOUN]
 3	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=3|RX=[VERB]
@@ -2305,7 +2305,7 @@
 # sent_timecode = 64000, 65000
 # text = in yay yi zàmne, shìnàː mâː bùdurwaː hiːr̃a, kuma shìnàː taɓà jìkintà, shìnàː shaːhwaj jìkintà, shì shaːhwà jìkintà koː’ìnaː, dàgà nan zàmne, àmmaː hwa bâːshì taɓà ƙuːgùː.
 # text_en = After he has sat down, he chats withe the girl, he touches her body, he caresses her body, he
-# text_orth = ’in yay yi zàmne, šì nàa maà bùduᵲwaa hiira, kuma šì nàa taɓà jìkintà, šì nàa šaahwaj jìkintà, šì šaahwà jìkintà koo ’ìnaa, dàgà nan zàmne, ’àmmaa hwa baà šì taɓà ƙuugùu.
+# text_ortho = ’in yay yi zàmne, šì nàa maà bùduᵲwaa hiira, kuma šì nàa taɓà jìkintà, šì nàa šaahwaj jìkintà, šì šaahwà jìkintà koo ’ìnaa, dàgà nan zàmne, ’àmmaa hwa baà šì taɓà ƙuugùu.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yay	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -2353,7 +2353,7 @@
 # sent_timecode = 65000, 66000
 # text = ita bùdurwaː, in tad diːbàː tag ga sarmàyîn nan, wandà takà sôː neː, sai sù yi ta hiːr̃a dà shiː, sunàː hiːr̃a, ita maː bùdurwaː, tanàː taɓà jìkin sarmàyiː.
 # text_en = She, the girl, if she looks and sees the boy, the one she likes, they chat together. They are chatting and the girl too, she is touching the boy's body.
-# text_orth = ’ita bùduᵲwaa, ’in tad diibàa tag ga saᵲmàyiǹ nan, wandà ta kà soò nee, sai sù yi ta hiira dà šii, su nàa hiira, ’ita maa bùduᵲwaa, ta nàa taɓà jìkin saᵲmàyii.
+# text_ortho = ’ita bùduᵲwaa, ’in tad diibàa tag ga saᵲmàyiǹ nan, wandà ta kà soò nee, sai sù yi ta hiira dà šii, su nàa hiira, ’ita maa bùduᵲwaa, ta nàa taɓà jìkin saᵲmàyii.
 1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -2397,7 +2397,7 @@
 # sent_timecode = 66000, 67000
 # text = koːwaː nàː taɓà jìkin wani, kuma sunàː hiːr̃a, has swaːhiyaː tà yi.
 # text_en = Each is touching the other's body, they are chatting till morning.
-# text_orth = koo waa nàa taɓà jìkin wani, kuma su nàa hiira, has swaahiyaa tà yi.
+# text_ortho = koo waa nàa taɓà jìkin wani, kuma su nàa hiira, has swaahiyaa tà yi.
 1	koːwaː	koːwaː	PRON	_	_	_	_	_	GE=everyone|Gloss=everyone|nWord=1|RX=[PRON]
 2	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=2|RX=[AUX]
 3	taɓà	taɓàː	VERB	_	_	2	comp:aux	_	GE=touch|Gloss=touch|nWord=3|RX=[VERB]
@@ -2420,7 +2420,7 @@
 # sent_timecode = 67000, 68000
 # text = in swaːhiyaː tay yi , tun mutàːneː bàsù taːshì dà kwaːnaː ba , sai sarmàyiː shì hìta shì tàhiyàːtai , sai wata raːnaː .
 # text_en = In the morning, before people get up, the boy will get out and leave for some time.
-# text_orth = ’in swaahiyaa tay yi, tum mutàanee bà sù taašì dà kwaanaa ba, sai saᵲmàyii šì hìta šì tàhiyàatai, sai wata ᵲaanaa.
+# text_ortho = ’in swaahiyaa tay yi, tum mutàanee bà sù taašì dà kwaanaa ba, sai saᵲmàyii šì hìta šì tàhiyàatai, sai wata ᵲaanaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	swaːhiyaː	swaːhiyaː	NOUN	_	_	_	_	_	GE=[morning].[Fem]|Gloss=morning.Fem|nWord=2|RX=[NOUN]
 3	tay	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
@@ -2454,7 +2454,7 @@
 # sent_timecode = 68000, 70000
 # text = koːkòː shiː sarmàyîn nan dà yaz zoː wurim bùdurwaː don sù yi yaːwòː. ita bùdurwân nan, in tad diːbàː, tad dìːbi sarmàyîn nan, tag ga bàː wanda takà sôː ba nèː, in bâːta sôːnai, koː yaː taːdàː ta, don sù yi hiːr̃a, sai tà ƙyaːlèː shì, koː shìnàː mutà ɗùmiː.
 # text_en = Or he, the boy who has come to the girl to do "yawo", she, the girl, if she looks at the boy and sees that it is not the one she likes, if she does not like him, even if he wakes her up to chat, she will humour him, even if he is bothering her.
-# text_orth = koo kòo šii saᵲmàyiǹ nan dà yaz zoo wuᵲim bùduᵲwaa don sù yi yaawòo. ’ita bùduᵲwaǹ nan, ’in tad diibàa, tad dìibi saᵲmàyiǹ nan, tag ga bàa wanda ta kà soò ba nèe, ’in baà ta soònai, koo yaa taadàa ta, don sù yi hiira, sai tà ƙyaalèe šì, koo šì nàa mutà ɗùmii.
+# text_ortho = koo kòo šii saᵲmàyiǹ nan dà yaz zoo wuᵲim bùduᵲwaa don sù yi yaawòo. ’ita bùduᵲwaǹ nan, ’in tad diibàa, tad dìibi saᵲmàyiǹ nan, tag ga bàa wanda ta kà soò ba nèe, ’in baà ta soònai, koo yaa taadàa ta, don sù yi hiira, sai tà ƙyaalèe šì, koo šì nàa mutà ɗùmii.
 1	koːkòː	koːkòː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
 3	sarmàyîn	sarmàyîn	NOUN	_	Definite=Def	_	_	_	GE=[youth].[Masc].[Def]|Gloss=youth.Masc.Def|nWord=3|RX=[NOUN]
@@ -2526,7 +2526,7 @@
 # sent_timecode = 70000, 71000
 # text = sai tà yi banzaː dà shiː, hash shì gàji shì tàhiyàːtai.
 # text_en = She will lead him on,until he gets tired and goes away.
-# text_orth = sai tà yi banzaa dà šii, haš šì gàji šì tàhiyàatai.
+# text_ortho = sai tà yi banzaa dà šii, haš šì gàji šì tàhiyàatai.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -2549,7 +2549,7 @@
 # sent_timecode = 71000, 72000
 # text = in kâu tanàː sôːnai, sai sù yi ta làːbaːr̃ìː, sunàː yîː sunàː cîn goːr̃ò, sunàː dàːriyaː, has swaːhiyaː tà waːyèː, shì tàhiyàːtai ## cikin har̃akàs sàmàːriː, dà suː dà ’yam maːtaː, àkwai zàncen hillàniː màːsu yîn tàbiː’àː kàmat ta hàusàːwaː.
 # text_en = But if she likes him, they will keep talking. They are talking, they are eating kola, they are laughing until morning breaks and he will leave [???] ## There are Fulani wards where they have the same customs as the Hausa.
-# text_orth = ’in kaù ta nàa soònai, sai sù yi ta làabaarìi, su nàa yiì su nàa ciǹ goorò, su nàa dàaᵲiyaa, has swaahiyaa tà waayèe, šì tàhiyàatai. ## cikin harakàs zangòo, sàmàaᵲii, dà suu dà ’’yam maataa, ’àkwai zàncen hillànii masu yin tàbii’àa kàmat ta hàusàawaa.
+# text_ortho = ’in kaù ta nàa soònai, sai sù yi ta làabaarìi, su nàa yiì su nàa ciǹ goorò, su nàa dàaᵲiyaa, has swaahiyaa tà waayèe, šì tàhiyàatai. ## cikin harakàs zangòo, sàmàaᵲii, dà suu dà ’’yam maataa, ’àkwai zàncen hillànii masu yin tàbii’àa kàmat ta hàusàawaa.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=3|RX=[AUX]
@@ -2609,7 +2609,7 @@
 # sent_timecode = 72000, 73000
 # text = kas'inaːwan hillàːniː , dà hwarhwarun hillàːniː dà kyakkyataːwaː dà ùːddawaː , dut tàbiː’àssù ɗai cèː , kàmar̃ ta hàusàːwaː .
 # text_en = The Fulani of Katsina, the white Fulani, the [Kyakkyata?] and the Timbuctoo Fulani, they all have the same customs as the Hausa.
-# text_orth = kac’inaawan hillàanii, dà hwaᵲhwaᵲun hillàanii dà kyakkyataawaa dà ’ùuddawaa, dut tàbii’àssù ɗai cèe, kàmat ta hàusàawaa.
+# text_ortho = kac’inaawan hillàanii, dà hwaᵲhwaᵲun hillàanii dà kyakkyataawaa dà ’ùuddawaa, dut tàbii’àssù ɗai cèe, kàmat ta hàusàawaa.
 1	kas'inaːwan	kas'inaːwaː	PROPN	_	Definite=Cons	_	_	_	GE=[Katsina_inhabitants].[Plur]|Gloss=Katsina_inhabitants.Plur|nWord=1|RX=[PROPN]
 2	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=2|RX=[PROPN]
 3	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
@@ -2639,7 +2639,7 @@
 # sent_timecode = 73000, 74000
 # text = in sàmàːrinsù sunkà kìri bùdurwaː, sunkà tàhi wurin kwanaː, kwànce sukài, sù yi s'àːrìnceː.
 # text_en = When their youths call a girl, and they go to bed, they lie down and do "tsarince".
-# text_orth = ’in sàmàaᵲinsù sunkà kìᵲi bùduᵲwaa, sunkà tàhi wuᵲin kwanaa, kwànce su kài, sù yi s’àaᵲìncee.
+# text_ortho = ’in sàmàaᵲinsù sunkà kìᵲi bùduᵲwaa, sunkà tàhi wuᵲin kwanaa, kwànce su kài, sù yi s’àaᵲìncee.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2-3	sàmàːrinsù	_	_	_	_	_	_	_	_
 2	sàmàːrin	sàmàːriː	NOUN	_	Definite=Cons	_	_	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=2|RX=[NOUN]|wordform=sàmàːri
@@ -2669,7 +2669,7 @@
 # sent_timecode = 74000, 75000
 # text = ha’ im bùdurwaː taː yàr̃da, yanàː yiwuwaː sù ciː tà.
 # text_en = If the girl accepts, they can even have intercourse.
-# text_orth = ha’ ’im bùduᵲwaa taa yàrda, ya nàa yiwuwaa sù cii tà.
+# text_ortho = ha’ ’im bùduᵲwaa taa yàrda, ya nàa yiwuwaa sù cii tà.
 1	har̃	har̃	SCONJ	_	_	_	_	_	GE=until|Gloss=until|nWord=1|RX=[SCONJ]
 2	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
@@ -2689,7 +2689,7 @@
 # sent_timecode = 75000, 76000
 # text = in kâu taː ƙiyàː, sù ƙyaːlèː ta, sù yi s'àːrìnceː.
 # text_en = But if she refuses, they will respect her and do "tsarince".
-# text_orth = ’in kaù taa ƙiyàa, šù ƙyaalèe ta, sù yi s’àaᵲìncee.
+# text_ortho = ’in kaù taa ƙiyàa, šù ƙyaalèe ta, sù yi s’àaᵲìncee.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
@@ -2710,7 +2710,7 @@
 # sent_timecode = 76000, 77000
 # text = suː kâu hillàːniː bar̃ar̃oːjì suː kâu taːsù tàbiː’àː, sàmàːriː dà ’yam maːtaː, in sarmàyiː nàː sôn bùdurwaː, sai shì kìreː tà, sù tàhi wurin kwaːnaː, sù yi s'àːrìnci, shì ciː tà, sù kwaːna wuriː gùdaː, had dà swaːhe.
 # text_en = As for the Bororo, their customs concerning boys and girls, if a boy likes a girl, he will (abduct?) her, they will go somewhere to sleep together, they will have intercourse, him and her, they will sleep in the same place until morning.
-# text_orth = suu kaù hillàanii bararoojì suu kaù taasù tàbii’àa, sàmàaᵲii dà ’’yam maataa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, sai šì kìᵲee tà, sù tàhi wuᵲin kwaanaa, sù yi s’àaᵲìnci, šì cìi tà, sù kwaana wuᵲii gùdaa, had dà swaahe.
+# text_ortho = suu kaù hillàanii bararoojì suu kaù taasù tàbii’àa, sàmàaᵲii dà ’’yam maataa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, sai šì kìᵲee tà, sù tàhi wuᵲin kwaanaa, sù yi s’àaᵲìnci, šì cìi tà, sù kwaana wuᵲii gùdaa, had dà swaahe.
 1	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	hillàːniː	hillàːniː	PROPN	_	_	_	_	_	GE=[Fulani].[Plur]|Gloss=Fulani.Plur|nWord=3|RX=[PROPN]
@@ -2765,7 +2765,7 @@
 # sent_timecode = 77000, 78000
 # text = koː kuma in shinàː sôm bùdurwân nan, shiː sarmàyiː, sai shì tàmbàyeː tà, in tanàː sôːnai, shì tàhi dà ita, can cikin duːniyàː, kullun sunàː kwaːnaː tàːre, hal lokacin dà sunkà soː gida, sù tahoː gida, don sù ga mutàːnen gidaː.
 # text_en = If he likes the girl, he the boy; he will ask her, if she likes him, to go with him in the world. They keep sleeping together until the time when they want to go home. They go home to see their family.
-# text_orth = koo kuma ’in šì nàa sòm bùduᵲwaǹ nan, šii saᵲmàyii, sai šì tàmbàyee tà, ’in ta nàa soònai, šì tàhi dà ’ita, can cikin duuniyàa, kullun su nàa kwaanaa tàaᵲe, hal lokacin dà sunkà soo gida, sù tahoo gida, don sù ga mutàanen gidaa.
+# text_ortho = koo kuma ’in šì nàa sòm bùduᵲwaǹ nan, šii saᵲmàyii, sai šì tàmbàyee tà, ’in ta nàa soònai, šì tàhi dà ’ita, can cikin duuniyàa, kullun su nàa kwaanaa tàaᵲe, hal lokacin dà sunkà soo gida, sù tahoo gida, don sù ga mutàanen gidaa.
 1	koː	koː	CCONJ	_	_	_	_	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
 2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=3|RX=[SCONJ]
@@ -2826,7 +2826,7 @@
 # sent_timecode = 78000, 79000
 # text = don ita bùdurwân nan, in sarmàyiː yat tàhi dà ita, wani loːkàciː bâːsu daːwowwaː, sai bùdurwân nan taː yi cikìː.
 # text_en = Because she, the girl, if the boy goes away with her without ever coming back, the girl will become pregnant.
-# text_orth = don ’ita bùduᵲwaǹ nan, ’in saᵲmàyii yat tàhi dà ’ita, wani lookàcii baà su daawowwaa, sai bùduᵲwaǹ nan taa yi cikìi.
+# text_ortho = don ’ita bùduᵲwaǹ nan, ’in saᵲmàyii yat tàhi dà ’ita, wani lookàcii baà su daawowwaa, sai bùduᵲwaǹ nan taa yi cikìi.
 1	don	don	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=2|RX=[PRON]
 3	bùdurwân	bùdurwân	NOUN	_	Definite=Def	_	_	_	GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=3|RX=[NOUN]
@@ -2858,7 +2858,7 @@
 # sent_timecode = 79000, 80000
 # text = in tay yi cikìː , sai sù koːmoː gidaː , àm musù armeː , tà zam màːtaːtai .
 # text_en = If she becomes pregnant, they go back home, they get married and she becomes his wife.
-# text_orth = ’in tay yi cikìi, sai sù koomoo gidaa, ’à musù ’aᵲmee, tà zam màataatai.
+# text_ortho = ’in tay yi cikìi, sai sù koomoo gidaa, ’à musù ’aᵲmee, tà zam màataatai.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tay	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
@@ -2888,7 +2888,7 @@
 # sent_timecode = 80000, 81000
 # text = in tah haihù, shì mâː ɗaːnai suːnaː.
 # text_en = If she gives birth, he will give his boy his name.
-# text_orth = ’in tah haihù, šì maà ɗaanai suunaa.
+# text_ortho = ’in tah haihù, šì maà ɗaanai suunaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tah	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	haihù	haihù	VERB	_	_	2	comp:aux	_	GE=give_birth|Gloss=give_birth|nWord=3|RX=[VERB]
@@ -2907,7 +2907,7 @@
 # sent_timecode = 81000, 83000
 # text = shiːkèːnan .
 # text_en = This is it.
-# text_orth = šii kèe nan.
+# text_ortho = šii kèe nan.
 1	shiːkèːnan 	shiːkèːnan 	INTJ	_	_	_	_	_	GE=that's_all|Gloss=that's_all|nWord=1|RX=[INTJ]
 2	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=2|RX=[PUNCT]
 
