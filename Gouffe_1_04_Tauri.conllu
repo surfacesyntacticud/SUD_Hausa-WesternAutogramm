@@ -43,7 +43,7 @@
 # text_en = If it is the amulet type, if you make an amulet, if it is on somebody, that amulet, metal won't pierce him.
 # text_ortho = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	kuma	kuma	TopPART	_	_	1	discourse	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	na	na	ADP	_	_	5	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
 4	laːyuː	laːyuː	NOUN	_	_	3	comp:obj	_	GE=[charm].[Plur]|Gloss=charm.Plur|nWord=4|RX=[NOUN]
 5	neː	neː	IdPART	_	_	1	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=5|RX=[IDPART]
@@ -766,7 +766,7 @@
 # text = kuma im mùtun yaː hàsalà , dà yaː kaːmà ƙarhèː , dus sai shì laːlàːceː .
 # text_en = And if somebody gets angry, when he takes a piece of metal, it will spoil completely.
 # text_ortho = kuma ’im mùtun yaa hàsalà, dà yaa kaamà ƙaᵲhèe, dus sai šì laalàacee.
-1	kuma	kuma	ADV	_	_	14	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
+1	kuma	kuma	PART	_	_	14	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	im	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
 4	yaː	yaː	AUX	_	_	2	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=4|RX=[AUX]
@@ -795,7 +795,7 @@
 3	dìːbi	diːbàː	VERB	_	_	2	comp:aux	_	GE=look_at|Gloss=look_at|nWord=19|RX=[VERB]
 4	ƙarhèː	ƙarhèː	NOUN	_	_	3	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=20|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-6	kuma	kuma	ADV	_	_	8	mod	_	GE=also|Gloss=also|nWord=22|RX=[ADV]
+6	kuma	kuma	PART	_	_	8	mod	_	GE=also|Gloss=also|nWord=22|RX=[ADV]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=23|RX=[ADV]
 8	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=24|RX=[AUX]
 9	laːlàːceː	laːlàːceː	VERB	_	_	8	comp:aux	_	GE=spoil|Gloss=spoil|nWord=25|RX=[VERB]
@@ -805,7 +805,7 @@
 13	tàːki	tàːkaː	VERB	_	_	12	comp:aux	_	GE=tread_on|Gloss=tread_on|nWord=29|RX=[VERB]
 14	ƙarhèː	ƙarhèː	NOUN	_	_	13	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=30|RX=[NOUN]
 15	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-16	kuma	kuma	ADV	_	_	18	mod	_	GE=also|Gloss=also|nWord=32|RX=[ADV]
+16	kuma	kuma	PART	_	_	18	mod	_	GE=also|Gloss=also|nWord=32|RX=[ADV]
 17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=33|RX=[ADV]
 18	shì	shì	AUX	_	_	8	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=34|RX=[AUX]
 19	laːlàːceː	laːlàːceː	VERB	_	_	18	comp:aux	_	GE=spoil|Gloss=spoil|nWord=35|RX=[VERB]
@@ -1257,7 +1257,7 @@
 4	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=4|RX=[AUX]
 5	zubdàː	zubdàː	VERB	_	_	4	comp:aux	_	GE=throw_away|Gloss=throw_away|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	kuma	kuma	ADV	_	_	9	mod	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
+7	kuma	kuma	PART	_	_	9	mod	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
 8	r̃eːzàː	r̃eːzàː	NOUN	_	_	9	subj	_	GE=[razor_blade].[Fem]|Gloss=razor_blade.Fem|nWord=8|RX=[NOUN]
 9	bâːta	bâːta	AUX	_	_	4	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=9|RX=[AUX]
 10	yankèː	yankèː	VERB	_	_	9	comp:aux	_	GE=kill|Gloss=kill|nWord=10|RX=[VERB]
@@ -1287,7 +1287,7 @@
 14	sunàː	sunàː	AUX	_	_	12	parataxis	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=14|RX=[AUX]
 15	zubdàːwaː	zubdàː	VERB	_	_	14	comp:aux	_	GE=throw_away|Gloss=throw_away.Nmlz.Fem|nWord=15|RX=[VERB]|wordform=zubdàː
 16	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	kuma	kuma	ADV	_	_	19	mod	_	GE=also|Gloss=also|nWord=17|RX=[ADV]
+17	kuma	kuma	PART	_	_	19	mod	_	GE=also|Gloss=also|nWord=17|RX=[ADV]
 18	kwalbaː	kwalbaː	NOUN	_	_	19	subj	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=18|RX=[NOUN]
 19	bâːta	bâːta	AUX	_	_	14	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=19|RX=[AUX]
 20	yankèː	yankèː	VERB	_	_	19	comp:aux	_	GE=kill|Gloss=kill|nWord=20|RX=[VERB]
@@ -1979,7 +1979,7 @@
 13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
 14	dàban	dàban	ADV	_	_	12	mod	_	GE=apart|Gloss=apart|nWord=14|RX=[ADV]
 15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	kuma	kuma	CCONJ	_	_	17	cc	_	GE=also|Gloss=also|nWord=16|RX=[ADV]
+16	kuma	kuma	PART	_	_	17	cc	_	GE=also|Gloss=also|nWord=16|RX=[ADV]
 17	à	à	AUX	_	_	11	conj:coord	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
 18	ƙumshè	ƙumshèː	VERB	_	_	17	comp:aux	_	GE=wrap_up|Gloss=wrap_up|nWord=18|RX=[VERB]
 19	gàːrîn	gàːriː	NOUN	_	Definite=Def	18	comp:obj	_	GE=[flour].[Masc].[Def]|Gloss=flour.Masc.Def|nWord=19|RX=[NOUN]
@@ -2637,7 +2637,7 @@
 # text = kuma bandà hakà nan , dà raːnan dà zâː shi tàhiyàː ɗiːbàm maːgànîn , bâːshi kwaːnaː dà ƙarhèː gà jìkiːnai .
 # text_en = And apart from that, the day that you are going to take the medicine, you won't sleep with metal on your body.
 # text_ortho = kuma ban dà hakà nan, dà ᵲan dà zaà ši tàhiyàa ɗiibàm maagàniǹ, baà ši kwaanaa dà ƙaᵲhèe gà jìkiinai.
-1	kuma	kuma	ADV	_	_	15	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
+1	kuma	kuma	PART	_	_	15	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	bandà	bandà	ADP	_	_	15	mod	_	GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	2	comp:obj	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
 4	nan	nan	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
@@ -3002,7 +3002,7 @@
 # text = kuma girman itàːcentà, kàman na itàːcen yàːɗiyaː.
 # text_en = And its height, it is like that of "yàːɗiyaː".
 # text_ortho = kuma giᵲman ’itàacentà, kàman na ’itàacen yàaɗiyaa.
-1	kuma	kuma	ADV	_	_	6	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
+1	kuma	kuma	PART	_	_	6	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	girman	girmaː	NOUN	_	Definite=Cons	6	dislocated@subj	_	GE=[size].[Masc]|Gloss=size.Masc|nWord=2|RX=[NOUN]|wordform=girma
 3-4	itàːcentà	_	_	_	_	_	_	_	_
 3	itàːcen	itàːceː	NOUN	_	Definite=Cons	2	mod	_	GE=[tree].[Plur]|Gloss=tree.Plur|nWord=3|RX=[NOUN]|wordform=itàːce
@@ -3080,7 +3080,7 @@
 9	hwaːrà	hwaːràː	VERB	_	_	8	comp:aux	_	GE=begin|Gloss=begin|nWord=9|RX=[VERB]
 10	daːc'èːwaː	daːc'èː	VERB	_	_	9	comp:obj	_	GE=chop_off|Gloss=chop_off.Nmlz.Fem|nWord=10|RX=[VERB]|wordform=daːc'èː
 11	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	kuma	kuma	ADV	_	_	14	mod	_	GE=also|Gloss=also|nWord=12|RX=[ADV]
+12	kuma	kuma	PART	_	_	14	mod	_	GE=also|Gloss=also|nWord=12|RX=[ADV]
 13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
 14	kà	kà	AUX	_	_	0	root	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=14|RX=[AUX]
 15	daːc'èː	daːc'èː	VERB	_	_	14	comp:aux	_	GE=chop_off|Gloss=chop_off|nWord=15|RX=[VERB]
