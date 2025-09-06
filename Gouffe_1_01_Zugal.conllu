@@ -3320,7 +3320,7 @@
 19	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_120-120
-# text = in dai taː rìgyaː taː ci maːgànîn, hay yaː zoː cikin cikìntà, ita kuma dùbaːr̃àː taː kubcèː mutà, bâːta dà wata dùbaːr̃àː, sai waddà kam mutà, sai kâu ta allàː.
+# text = in dai taː rìgyaː taː ci maːgànîn , har̃ yaː zoː cikin cikìntà , ita kuma dùbaːr̃àː taː kubcèː mutà , bâːta dà wata dùbaːr̃àː , sai waddà kam mutà , sai kâu ta allàː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 102000, 102911
@@ -3355,15 +3355,17 @@
 26	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	24	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=25|RX=[NOUN]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 28	sai	sai	ADP	_	_	26	mod	_	GE=then|Gloss=then|nWord=27|RX=[ADV]
-29	waddà	waddà	PRON	_	PronType=Rel	28	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=28|RX=[PRON]
-30	kam	kam	TopPART	_	_	29	mod@relcl	_	GE=indeed|Gloss=indeed|nWord=29|RX=[TOPPART]
-31	mutà	mutà	PRON	_	_	30	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
-32	,	,	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-33	sai	sai	ADP	_	_	26	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
-34	kâu	kâu	TopPART	_	_	33	mod@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
-35	ta	ta	ADP	_	_	33	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=34|RX=[PART]
-36	allàː	allàː	PROPN	_	_	35	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
-37	.	.	PUNCT	_	_	19	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
+29	waddà	waddà	PRON	_	PronType=Rel	28	comp:obj	_	GE=[who].[Fem]|Gloss=what|nWord=28|RX=[PRON]
+30-31	kam	_	_	_	_	_	_	_	_
+30	kay	kay	AUX	_	_	29	mod@relcl	_	GE=indeed|Gloss=2MascSing.Perf.Bkg|nWord=29|RX=[TOPPART]
+31	yi	yi	VERB	_	_	30	comp:aux	_	GE=indeed|Gloss=do|nWord=29|RX=[TOPPART]
+32	mutà	mutà	PRON	_	_	31	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
+33	,	,	PUNCT	_	_	34	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+34	sai	sai	ADP	_	_	26	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
+35	kâu	kâu	TopPART	_	_	34	mod@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
+36	ta	ta	ADP	_	_	34	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=34|RX=[PART]
+37	allàː	allàː	PROPN	_	_	36	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
+38	.	.	PUNCT	_	_	19	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_121-122
 # speaker_id = *
