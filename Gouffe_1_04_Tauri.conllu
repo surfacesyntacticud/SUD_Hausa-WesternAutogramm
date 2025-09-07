@@ -57,7 +57,7 @@
 13	nàː	nàː	PredPART	_	_	11	comp:obj	_	GE=[3Fem].[Imp]|Gloss=Pred/Loc|nWord=12|RX=[AUX]
 14	gà	gà	ADP	_	_	13	comp:pred	_	GE=at|Gloss=at|nWord=13|RX=[ADP]
 15	jìkim	jìkiː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]|wordform=jìki
-16	mùtun	mùtun	NOUN	_	_	15	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=15|RX=[NOUN]
+16	mùtun	mùtun	NOUN	_	Definite=Cons	15	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=15|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 18	laːyàƙ	laːyàː	NOUN	_	Definite=Def	11	dislocated@subj	_	GE=[charm].[Fem].[Def]|Gloss=charm.Fem.Def|nWord=17|RX=[NOUN]
 19	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
@@ -93,7 +93,7 @@
 17	bâːshi	bâːshi	AUX	_	_	11	parataxis:coord	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=17|RX=[AUX]
 18	kaːmà	kaːmàː	VERB	_	_	17	comp:aux	_	GE=catch|Gloss=catch|nWord=18|RX=[VERB]
 19	jìkim	jìkiː	NOUN	_	Definite=Cons	18	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=19|RX=[NOUN]|wordform=jìki
-20	mùtun	mùtun	NOUN	_	_	19	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
+20	mùtun	mùtun	NOUN	_	Definite=Cons	19	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_004-004
@@ -324,7 +324,7 @@
 8	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
 9	koːmiː	koːmiː	DET	_	_	10	det	_	GE=anything|Gloss=anything|nWord=35|RX=[PRON]
 10	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	13	mod	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]|wordform=ƙarhi
-11	mùtun	mùtun	NOUN	_	_	10	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
+11	mùtun	mùtun	NOUN	_	Definite=Cons	10	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
 12	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 13	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=39|RX=[AUX]
 14	iyà	iyàː	VERB	_	_	13	comp:aux	_	GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
@@ -352,7 +352,7 @@
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	koːmiː	koːmiː	PRON	_	_	6	det	_	GE=anything|Gloss=anything|nWord=5|RX=[PRON]
 6	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	9	mod	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=6|RX=[NOUN]|wordform=ƙarhi
-7	mùtun	mùtun	NOUN	_	_	6	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
+7	mùtun	mùtun	NOUN	_	Definite=Cons	6	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=9|RX=[AUX]
 10	iyà	iyàː	VERB	_	_	9	comp:aux	_	GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]
@@ -2492,7 +2492,7 @@
 9	shuːniː	shuːniː	NOUN	_	_	8	mod	_	GE=[indigo].[Masc]|Gloss=indigo.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	shuːniː	shuːniː	NOUN	_	_	9	conj:appos	_	GE=[indigo].[Masc]|Gloss=indigo.Masc|nWord=11|RX=[NOUN]
-12	irìn	irìː	NOUN	_	_	11	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=12|RX=[NOUN]
+12	irìn	irìː	NOUN	_	Definite=Def	11	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=12|RX=[NOUN]
 13	na	na	ADP	_	_	12	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=13|RX=[PART]
 14	dâː	dâː	ADV	_	_	13	comp:obj	_	GE=formerly|Gloss=formerly|nWord=14|RX=[ADV]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
@@ -2503,7 +2503,7 @@
 20	dà	dà	ADP	_	_	19	comp:obl	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
 21	shiː	shiː	PRON	_	_	20	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=21|RX=[PRON]
 22	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-23	dà	dà	CCONJ	_	_	24	cc	_	GE=and|Gloss=and|nWord=23|RX=[CCONJ]
+23	dà	dà	CCONJ	_	_	24	cc@preconj	_	GE=and|Gloss=and|nWord=23|RX=[CCONJ]
 24	suː	suː	PRON	_	_	18	dislocated@subj	_	GE=[3Plur]|Gloss=3Plur|nWord=24|RX=[PRON]
 25	dà	dà	CCONJ	_	_	26	cc	_	GE=and|Gloss=and|nWord=25|RX=[CCONJ]
 26	marìnaː	marìnaː	NOUN	_	_	24	conj:coord	_	GE=[dyer].[Plur]|Gloss=dyer.Plur|nWord=26|RX=[NOUN]

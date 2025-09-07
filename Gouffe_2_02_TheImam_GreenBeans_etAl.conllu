@@ -769,7 +769,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 23000, 24000
-# text = in yab biyaː tà kuɗɗin dàudawaː, sai tà ɗàuki sauran dàudawattà waddà maːlàmiː bài sàyeː ba, tà tàhi tàlla cikin gàriː.
+# text = in yab biyaː tà kuɗɗin dàudawaː , sai tà ɗaukaː sauran dàudawattà waddà maːlàmiː bài sàyeː ba , tà tàhi tàlla cikin gàriː .
 # text_en = When he had given her the money for the "daudawa", then she would take the rest of the "daudawa" that the malam had not bought and go and sell it in town.
 # text_ortho = ’in yab biyaa tà kuɗɗin dàudawaa, sai tà ɗàuki sauᵲan dàudawattà, waddà maalàmii bài sàyee ba, tà tàhi tàlla cikin gàᵲii.
 1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -782,9 +782,9 @@
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=9|RX=[AUX]
 10	ɗaukaː	ɗaukaː	VERB	_	_	9	comp:aux	_	GE=take|Gloss=take|nWord=10|RX=[VERB]
-11	sauran	sauran	ADJ	_	_	12	mod	_	GE=other|Gloss=other|nWord=11|RX=[ADJ]
+11	sauran	sauran	NOUN	_	_	10	comp:obj	_	Gloss=remnants|nWord=11
 12-13	dàudawattà	_	_	_	_	_	_	_	_
-12	dàudawat	dàudawaː	NOUN	_	Definite=Cons	_	_	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=12|RX=[NOUN]|wordform=dàudawa
+12	dàudawat	dàudawaː	NOUN	_	Definite=Cons	11	mod	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=12|RX=[NOUN]|wordform=dàudawa
 13	=tà	=tà	PRON	_	_	12	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=12|RX=[PRON]|wordform=-tà
 14	waddà	waddà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=13|RX=[PRON]
 15	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
