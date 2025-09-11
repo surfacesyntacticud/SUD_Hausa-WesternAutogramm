@@ -81,7 +81,7 @@
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=8|RX=[PART]
-9	màccen	màcce	NOUN	_	Definite=Cons	_	_	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=9|RX=[NOUN]|wordform=màcce
+9	màccen	màcce	NOUN	_	Definite=Cons	8	comp:obj	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=9|RX=[NOUN]|wordform=màcce
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
 11	bàtà	bàtà	AUX	_	_	10	comp:obj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=11|RX=[AUX]
 12	shaː	shaː	VERB	_	_	11	comp:aux	_	GE=drink/suffer|Gloss=drink/suffer|nWord=12|RX=[VERB]
@@ -762,7 +762,7 @@
 11	kuɗɗin	kuɗɗiː	NOUN	_	Definite=Cons	_	_	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=11|RX=[NOUN]|wordform=kuɗɗi
 12	=tà	=tà	PRON	_	_	11	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=11|RX=[PRON]|wordform=-tà
 13	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=12|RX=[PART]
-14	dàudawaː	dàudawaː	NOUN	_	_	_	_	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=13|RX=[NOUN]
+14	dàudawaː	dàudawaː	NOUN	_	_	13	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=13|RX=[NOUN]
 15	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_023-023
@@ -857,7 +857,7 @@
 8	màccên	màcce	NOUN	_	Definite=Def	_	_	_	GE=[woman].[Fem].[Def]|Gloss=woman.Fem.Def|nWord=8|RX=[NOUN]
 9	=ga	=ga	DET	_	_	8	det	_	GE=[Prox]|Gloss=Prox|nWord=8|RX=[DET]|wordform=-ga
 10	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=9|RX=[PART]
-11	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
+11	maːlàmiː	maːlàm	NOUN	_	_	10	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 13	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=12|RX=[AUX]
 14	sam	sanìː	VERB	_	_	13	comp:aux	_	GE=know|Gloss=know|nWord=13|RX=[VERB]
@@ -1627,7 +1627,7 @@
 10	=tà	=tà	PRON	_	_	9	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=9|RX=[PRON]|wordform=-tà
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 12	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=11|RX=[PART]
-13	dàudawaː	dàudawaː	NOUN	_	_	_	_	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=12|RX=[NOUN]
+13	dàudawaː	dàudawaː	NOUN	_	_	12	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=12|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 15	tat	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=14|RX=[AUX]
 16	tàhi	tàhi	VERB	_	_	15	comp:aux	_	GE=go|Gloss=go|nWord=15|RX=[VERB]
@@ -3510,7 +3510,7 @@
 30	=mù	=mù	PRON	_	_	29	mod	_	GE=[1Plur].[Poss]|Gloss=1Plur.Poss|nWord=29|RX=[PRON]|wordform=-mù
 31	ceː	ceː	PART	_	_	_	_	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=30|RX=[PART]
 32	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=31|RX=[PART]
-33	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=32|RX=[NOUN]
+33	maːtaː	maːtaː	NOUN	_	_	32	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=32|RX=[NOUN]
 34	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=33|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_116-116
@@ -3960,7 +3960,7 @@
 15	raːniː	raːniː	NOUN	_	_	_	_	_	GE=[dry_season].[Masc]|Gloss=dry_season.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=17|RX=[PART]
-18	watàm	watàː	NOUN	_	Definite=Cons	_	_	_	GE=[moon/month].[Masc]|Gloss=moon/month.Masc|nWord=18|RX=[NOUN]|wordform=watà
+18	watàm	watàː	NOUN	_	Definite=Cons	17	comp:obj	_	GE=[moon/month].[Masc]|Gloss=moon/month.Masc|nWord=18|RX=[NOUN]|wordform=watà
 19	bakwài	bakwài	NUM	_	_	18	mod	_	GE=seven|Gloss=seven|nWord=19|RX=[NUM]
 20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	ìnaː	ìnaː	ADV	_	_	_	_	_	GE=[where].[Int]|Gloss=where.Int|nWord=21|RX=[ADV]
@@ -4326,7 +4326,7 @@
 4	=kù	=kù	PRON	_	_	3	mod	_	GE=[2Plur].[Poss]|Gloss=2Plur.Poss|nWord=3|RX=[PRON]|wordform=-kù
 5	ceː	ceː	PART	_	_	_	_	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=4|RX=[PART]
 6	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=5|RX=[PART]
-7	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=6|RX=[NOUN]
+7	maːtaː	maːtaː	NOUN	_	_	6	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=6|RX=[NOUN]
 8	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=7|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_145-145
@@ -4390,7 +4390,7 @@
 28	=mù	=mù	PRON	_	_	27	mod	_	GE=[1Plur].[Poss]|Gloss=1Plur.Poss|nWord=27|RX=[PRON]|wordform=-mù
 29	ceː	ceː	PART	_	_	_	_	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=28|RX=[PART]
 30	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=29|RX=[PART]
-31	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=30|RX=[NOUN]
+31	maːtaː	maːtaː	NOUN	_	_	30	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=30|RX=[NOUN]
 32	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_147-147
