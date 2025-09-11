@@ -5337,13 +5337,13 @@
 7	abuːbuwàː	àbù	NOUN	_	_	6	comp:obj	_	GE=[thing].[Plur]|Gloss=thing.Plur|nWord=7|RX=[NOUN]
 8	dà	dà	CCONJ	_	_	9	cc	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
 9	màllakàː	màllakàː	NOUN	_	_	7	conj:coord	_	GE=[grass].[sp].[Fem]|Gloss=grass.sp.Fem|nWord=9|RX=[NOUN]
-10	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=10|RX=[CCONJ]
+10	dà	dà	CCONJ	_	_	11	cc	_	GE=and|Gloss=and|nWord=10|RX=[CCONJ]
 11	màntà-’uwa	màntà-’uwa	NOUN	_	_	9	conj:coord	_	GE=[grass_sp].[Fem]|Gloss=grass_sp.Fem|nWord=11|RX=[NOUN]
 12	dà	dà	CCONJ	_	_	13	cc	_	GE=and|Gloss=and|nWord=12|RX=[CCONJ]
 13	bàː-ni-bàː-ni	bàː-ni-bàː-ni	NOUN	_	_	11	conj:coord	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=13|RX=[NOUN]
 14	dà	dà	CCONJ	_	_	15	cc	_	GE=and|Gloss=and|nWord=14|RX=[CCONJ]
 15	ƙwaːtai	ƙwaːtai	NOUN	_	_	13	conj:coord	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=15|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	dà	dà	CCONJ	_	_	18	cc	_	GE=and|Gloss=and|nWord=17|RX=[CCONJ]
 18	zàrau	zàrau	NOUN	_	_	15	conj:coord	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=18|RX=[NOUN]
 19	dà	dà	CCONJ	_	_	20	cc	_	GE=and|Gloss=and|nWord=19|RX=[CCONJ]
@@ -5409,7 +5409,7 @@
 6-7	yam	_	_	_	_	_	_	_	_
 6	yay	yak	AUX	_	_	5	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=42|RX=[AUX]|wordform=yam
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
-8	mutà	mutà	PRON	_	_	7	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
+8	mutà	mutà	PRON	_	_	7	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=43|RX=[PRON]
 9	maːgànîn	maːgàniː	NOUN	_	Definite=Def	7	comp:pred	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=44|RX=[NOUN]
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=45|RX=[PUNCT]
 
@@ -5417,115 +5417,122 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 163246, 164000
-# text = koːdà namijì neː, im màccè tas sâː mai suː cikim maːgàniː, tiːlàs tà màllàkeː shì.
+# text = koːdà namijì neː , im màccè tas sâː mai suː cikim maːgàniː , tiːlàs tà màllakàː shi .
 # text_en = Even if it is a man, if a woman gives them to him in a medicine, she has to possess him.
 # text_ortho = koo dà namijì nee, ’im màccè tas saà mai suu, cikim maagànii, tiilàs tà màllàkee šì.
-1	koːdà	koːdà	SCONJ	_	_	_	_	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
-2	namijì	namijì	NOUN	_	_	_	_	_	GE=[man].[Masc]|Gloss=man.Masc|nWord=2|RX=[NOUN]
-3	neː	neː	IdPART	_	_	_	_	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=3|RX=[IDPART]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	im	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
-6	màccè	màccè	NOUN	_	_	_	_	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=6|RX=[NOUN]
-7	tas	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
+1	koːdà	koːdà	SCONJ	_	_	15	mod	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
+2	namijì	namijì	NOUN	_	_	3	comp:pred	_	GE=[man].[Masc]|Gloss=man.Masc|nWord=2|RX=[NOUN]
+3	neː	neː	IdPART	_	_	1	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=3|RX=[IDPART]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	im	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
+6	màccè	màccè	NOUN	_	_	7	subj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=6|RX=[NOUN]
+7	tas	tak	AUX	_	_	5	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	GE=put|Gloss=put|nWord=8|RX=[VERB]
-9	mai	mai	PRON	_	_	8	comp:obj	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=9|RX=[PRON]
-10	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
-11	cikim	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=11|RX=[ADP]
+9	mai	mai	PRON	_	_	8	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=9|RX=[PRON]
+10	suː	suː	PRON	_	_	8	comp:obj@T	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
+11	cikim	cikin	ADP	_	_	8	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=11|RX=[ADP]
 12	maːgàniː	maːgàniː	NOUN	_	_	11	comp:obj	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=12|RX=[NOUN]
-13	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	tiːlàs	tiːlàs	ADV	_	_	_	_	_	GE=necessarily|Gloss=necessarily|nWord=14|RX=[ADV]
-15	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
-16	màllakàː	màllakàː	NOUN	_	_	_	_	_	GE=[grass].[sp].[Fem]|Gloss=grass.sp.Fem|nWord=16|RX=[NOUN]
-17	shi	shi	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
-18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
+13	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	tiːlàs	tiːlàs	ADV	_	_	15	mod	_	GE=necessarily|Gloss=necessarily|nWord=14|RX=[ADV]
+15	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
+16	màllakàː	màllakàː	VERB	_	_	15	comp:aux	_	GE=[grass].[sp].[Fem]|Gloss=control|nWord=16|RX=[NOUN]
+17	shi	shi	PRON	_	_	16	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
+18	.	.	PUNCT	_	_	15	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_188-188
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 164000, 164888
-# text = shiː kèː nan.
+# text = shiː kèː nan .
 # text_en = That's it.
 # text_ortho = šii kèe nan.
-1	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kèː	kèː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=2|RX=[PART]
-3	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
-4	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=4|RX=[PUNCT]
+1	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
+2	kèː	kèː	PredPART	_	_	1	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=2|RX=[PART]
+3	nan	nan	ADV	_	_	2	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=4|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_189-190
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 164888, 166000
-# text = [8] anàː yîn zuːgàl, maːgànim maːtaː, na maːtaː sù soː mùtun.
+# text = anàː yîn zuːgàl , maːgànim maːtaː , na maːtaː sù soː mùtun .
 # text_en = [8] They do "zugal", a medicine for women, for women to love a man.
 # text_ortho = [8] ’a nàa yiǹ zuugàl, maagànim maataa, na maataa sù soo mùtun.
-1	[8]	[8]	SYM	_	_	_	_	_	GE=[[8]]|Gloss=[8]|nWord=1|RX=[SYM]
-2	anàː	anàː	AUX	_	_	_	_	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=2|RX=[AUX]
-3	yîn	yi	VERB	_	Definite=Cons	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=yî
-4	zuːgàl	zuːgàl	NOUN	_	_	_	_	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	maːgànim	maːgàniː	NOUN	_	Definite=Cons	_	_	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=6|RX=[NOUN]|wordform=maːgàni
-7	maːtaː	maːtaː	NOUN	_	_	6	mod	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=7|RX=[NOUN]
-8	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=9|RX=[PART]
-10	maːtaː	maːtaː	NOUN	_	_	9	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=10|RX=[NOUN]
-11	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=11|RX=[AUX]
-12	soː	soː	VERB	_	_	11	comp:aux	_	GE=want|Gloss=want|nWord=12|RX=[VERB]
-13	mùtun	mùtun	NOUN	_	_	12	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=13|RX=[NOUN]
-14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
+1	anàː	anàː	AUX	_	_	0	root	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=2|RX=[AUX]
+2	yîn	yi	VERB	_	Definite=Cons	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=yî
+3	zuːgàl	zuːgàl	NOUN	_	_	2	comp:obj	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
+4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+5	maːgànim	maːgàniː	NOUN	_	Definite=Cons	3	conj:appos	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=6|RX=[NOUN]|wordform=maːgàni
+6	maːtaː	maːtaː	NOUN	_	_	5	mod	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=7|RX=[NOUN]
+7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+8	na	na	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=9|RX=[PART]
+9	maːtaː	maːtaː	NOUN	_	_	10	subj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=10|RX=[NOUN]
+10	sù	sù	AUX	_	_	8	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=11|RX=[AUX]
+11	soː	soː	VERB	_	_	10	comp:aux	_	GE=want|Gloss=want|nWord=12|RX=[VERB]
+12	mùtun	mùtun	NOUN	_	_	11	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=13|RX=[NOUN]
+13	.	.	PUNCT	_	_	1	_	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_191-191
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 166000, 167000
-# text = in zâː à yîːnai, sai à nèːmi kaskàː, ta gà kàryaː màccè.
+# text = in zâː à yîːnai , sai à nèːmi kaskàː , ta gà kàryaː màccè .
 # text_en = If you're going to do it, you must look for a tick, that of a female dog.
 # text_ortho = ’in zaà ’à yiìnai, sai ’à nèemi kaskàa, ta gà kàᵲyaa màccè.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
-3	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
+3	à	à	PRON	_	_	2	subj	_	Gloss=4|nWord=3
 4-5	yîːnai	_	_	_	_	_	_	_	_
-4	yîː	yi	VERB	_	_	3	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]
+4	yîː	yi	VERB	_	_	2	comp:pred	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]
 5	=nai	=nai	PRON	_	_	4	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=4|RX=[PRON]|wordform=-ai
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 8	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 9	nèːmi	nèːmaː	VERB	_	_	8	comp:aux	_	GE=look_for|Gloss=look_for|nWord=8|RX=[VERB]
 10	kaskàː	kaskàː	NOUN	_	_	9	comp:obj	_	GE=[tick].[Fem]|Gloss=tick.Fem|nWord=9|RX=[NOUN]
-11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-12	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=11|RX=[PART]
-13	gà	gà	ADP	_	_	_	_	_	GE=at|Gloss=at|nWord=12|RX=[ADP]
+11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+12	ta	ta	ADP	_	_	10	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=11|RX=[PART]
+13	gà	gà	ADP	_	_	12	comp:obj	_	GE=at|Gloss=at|nWord=12|RX=[ADP]
 14	kàryaː	kàryaː	NOUN	_	_	13	comp:obj	_	GE=[bitch].[Fem]|Gloss=bitch.Fem|nWord=13|RX=[NOUN]
-15	màccè	màccè	NOUN	_	_	_	_	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=14|RX=[NOUN]
-16	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=15|RX=[PUNCT]
+15	màccè	màccè	NOUN	_	_	14	compound	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=14|RX=[NOUN]
+16	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_192-192
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_192-192_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 167000, 168000
-# text = in ankà sàːmu kaskàː, iyàːkaw waddà akà sôː, ankà ɗiːbàː // in an ɗiːbàː, sai à ajèː.
-# text_en = When you find a tick with all that you want, you take it. After you have taken it, you put it aside.
-# text_ortho = ’in ’ankà sàamu kaskàa, ’iyàakaw waddà ’a kà soò, ’ankà ɗiibàa, ’in ’an ɗiibàa, sai ’à ’ajèe.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+# text = in ankà sàːmu kaskàː , iyàːkaw waddà akà sôː , ankà ɗiːbàː .
+# text_en = When you find a tick with all that you want, you pick it.
+# text_ortho = ’in ’ankà sàamu kaskàa, ’iyàakaw waddà ’a kà soò, ’ankà ɗiibàa.
+1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
 4	kaskàː	kaskàː	NOUN	_	_	3	comp:obj	_	GE=[tick].[Fem]|Gloss=tick.Fem|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	iyàːkaw	iyàːkaː	NOUN	_	Definite=Cons	_	_	_	GE=[totality].[Fem]|Gloss=totality.Fem|nWord=6|RX=[NOUN]|wordform=iyàːka
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	iyàːkaw	iyàːkaː	NOUN	_	Definite=Cons	11	mod	_	GE=[totality].[Fem]|Gloss=totality.Fem|nWord=6|RX=[NOUN]|wordform=iyàːka
 7	waddà	waddà	PRON	_	PronType=Rel	6	mod	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=7|RX=[PRON]
-8	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=8|RX=[AUX]
+8	akà	akà	AUX	_	_	7	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=8|RX=[AUX]
 9	sôː	sôː	VERB	_	_	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	ankà	ankà	AUX	_	_	_	_	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=11|RX=[AUX]
+10	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	ankà	ankà	AUX	_	_	0	root	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=11|RX=[AUX]
 12	ɗiːbàː	ɗiːbàː	VERB	_	_	11	comp:aux	_	GE=take|Gloss=take|nWord=12|RX=[VERB]
-13	//	//	PUNCT	_	_	_	_	_	GE=[//]|Gloss=//|nWord=13|RX=[PUNCT]
-14	in	in	SCONJ	_	_	19	mod	_	GE=if|Gloss=if|nWord=14|RX=[SCONJ]
-15	an	an	AUX	_	_	14	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=15|RX=[AUX]
-16	ɗiːbàː	ɗiːbàː	VERB	_	_	15	comp:aux	_	GE=take|Gloss=take|nWord=16|RX=[VERB]
-17	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=18|RX=[ADV]
-19	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
-20	ajèː	ajèː	VERB	_	_	19	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=20|RX=[VERB]
-21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
+13	.	.	PUNCT	_	_	11	punct	_	GE=[//]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_192-192_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 167000, 168000
+# text = in an ɗiːbàː , sai à ajèː .
+# text_en = When you have picked it, you put it aside.
+# text_ortho = ’in ’an ɗiibàa, sai ’à ’ajèe.
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=14|RX=[SCONJ]
+2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=15|RX=[AUX]
+3	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=16|RX=[VERB]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=18|RX=[ADV]
+6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
+7	ajèː	ajèː	VERB	_	_	6	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=20|RX=[VERB]
+8	.	.	PUNCT	_	_	6	_	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_193-193
 # speaker_id = *
@@ -5544,10 +5551,10 @@
 8	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[daughter].[Plur]|Gloss=daughter.Plur|nWord=8|RX=[NOUN]|wordform=ɗiya
 9	ɗam	ɗaː	NOUN	_	Definite=Cons	8	mod	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=9|RX=[NOUN]|wordform=ɗa
 10	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	_	9	mod	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
-11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	hakìː	hakìː	NOUN	_	_	_	_	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=12|RX=[NOUN]
-13	neː	neː	IdPART	_	_	_	_	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=13|RX=[IDPART]
-14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
+11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	hakìː	hakìː	NOUN	_	_	13	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=12|RX=[NOUN]
+13	neː	neː	IdPART	_	_	10	parataxis:insert	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=13|RX=[IDPART]
+14	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_194-194
 # speaker_id = *
@@ -5566,16 +5573,16 @@
 8	ɗèːbeː	ɗiːbàː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take|nWord=8|RX=[VERB]
 9	sù	sù	PRON	_	_	8	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=9|RX=[PRON]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
+11	à	à	AUX	_	_	7	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	ajèː	ajèː	VERB	_	_	11	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=12|RX=[VERB]
-13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
+13	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_195-195
+# text = in ankà ajèː, sai à sàːmu ƙàràngiyak kuːsaː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 170000, 171000
-# text = in ankà ajèː, sai à sàːmu ƙàràngiyak kuːsaː.
-# text_en = After having put them aside, you must get rat "ƙàràngiya" (a grass).
+# text_en = After having put them aside, you must get "rat ƙàràngiya" [a grass].
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu ƙàᵲàngiyak kuusaa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
@@ -5585,29 +5592,29 @@
 6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	GE=get|Gloss=get|nWord=7|RX=[VERB]
 8	ƙàràngiyak	ƙàràngiyaː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[grass_sp].[Fem]|Gloss=grass_sp.Fem|nWord=8|RX=[NOUN]|wordform=ƙàràngiya
-9	kuːsaː	kuːsaː	NOUN	_	_	8	mod	_	GE=[rat].[Fem]|Gloss=rat.Fem|nWord=9|RX=[NOUN]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+9	kuːsaː	kuːsaː	NOUN	_	_	8	compound	_	GE=[rat].[Fem]|Gloss=rat.Fem|nWord=9|RX=[NOUN]
+10	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_196-196
+# text = in ankà sàːmu ƙàràngiyak kuːsaː, sai à ɗèːbeː tà à ajèː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 171000, 172000
-# text = in ankà sàːmu ƙàràngiyak kuːsaː, sai à ɗèːbeː tà à ajèː.
-# text_en = If you find rat "ƙàràngiya", you take it and put it aside.
+# text_en = If you find "rat ƙàràngiya", you take it and put it aside.
 # text_ortho = ’in ’ankà sàamu ƙàᵲàngiyak kuusaa, sai ’à ɗèebee tà ’à ’ajèe.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
 4	ƙàràngiyak	ƙàràngiyaː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[grass_sp].[Fem]|Gloss=grass_sp.Fem|nWord=4|RX=[NOUN]|wordform=ƙàràngiya
-5	kuːsaː	kuːsaː	NOUN	_	_	4	mod	_	GE=[rat].[Fem]|Gloss=rat.Fem|nWord=5|RX=[NOUN]
+5	kuːsaː	kuːsaː	NOUN	_	_	4	compound	_	GE=[rat].[Fem]|Gloss=rat.Fem|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ɗèːbeː	ɗiːbàː	VERB	_	_	8	comp:aux	_	GE=take|Gloss=take|nWord=9|RX=[VERB]
 10	tà	ta	PRON	_	_	9	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=10|RX=[PRON]
-11	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
+11	à	à	AUX	_	_	8	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	ajèː	ajèː	VERB	_	_	11	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=12|RX=[VERB]
-13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
+13	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_197-197
 # speaker_id = *
@@ -5625,7 +5632,7 @@
 7	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 8	sàːmu	saːmùː	VERB	_	_	7	comp:aux	_	GE=get|Gloss=get|nWord=8|RX=[VERB]
 9	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	8	comp:obj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=9|RX=[NOUN]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+10	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_198-198
 # speaker_id = *
@@ -5634,68 +5641,68 @@
 # text = shiː bìː-ta-zâizâi, àkwai ƙwaːròː bìː-ta-zâizâi, àkwai hakìː bìː-ta-zâizâi.
 # text_en = As for "bìː-ta-zâizâi", there are insect "bìː-ta-zâizâi", there are grass "bìː-ta-zâizâi".
 # text_ortho = šii bìi ta zaìzaì, ’àkwai ƙwaaᵲòo bìi ta zaìzaì, ’àkwai hakìi bìi ta zaìzaì.
-1	shi	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=2|RX=[NOUN]
-3	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	àkwai	àkwai	PredPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=4|RX=[PREDPART]
-5	ƙwaːrò	ƙwaːròː	NOUN	_	_	4	subj	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=5|RX=[NOUN]
-6	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	àkwai	àkwai	PredPART	_	_	_	_	_	GE=there_is|Gloss=there_is|nWord=8|RX=[PREDPART]
-9	hakì	hakìː	NOUN	_	_	8	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=9|RX=[NOUN]
-10	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	_	_	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
-11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
+1	shi	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
+2	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	1	conj:appos	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=2|RX=[NOUN]
+3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
+4	àkwai	àkwai	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=4|RX=[PREDPART]
+5	ƙwaːrò	ƙwaːròː	NOUN	_	_	6	mod	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=5|RX=[NOUN]
+6	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	4	subj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
+7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	àkwai	àkwai	PredPART	_	_	4	parataxis@conj	_	GE=there_is|Gloss=there_is|nWord=8|RX=[PREDPART]
+9	hakì	hakìː	NOUN	_	_	10	mod	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=9|RX=[NOUN]
+10	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	8	subj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
+11	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_199-199
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 174000, 175000
-# text = in ankà sàːmu bìː-ta-zâizâi, koːwanè ankà saːmùː, sai à yi aikìː dà shiː.
+# text = in ankà sàːmu bìː-ta-zâizâi , koːwanè ankà saːmùː , sai à yi aikìː dà shiː .
 # text_en = When you find "bìː-ta-zâizâi" whichever you get, you use it.
 # text_ortho = ’in ’ankà sàamu bìi ta zaìzaì, koo wanè ’ankà saamùu, sai ’à yi ’aikìi dà šii.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	GE=get|Gloss=get|nWord=3|RX=[VERB]
 4	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	3	comp:obj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	koːwanè	koːwanè	PRON	_	_	_	_	_	GE=whichever|Gloss=whichever|nWord=6|RX=[PRON]
-7	ankà	ankà	AUX	_	_	_	_	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	koːwanè	koːwanè	PRON	_	PronType=Ind	11	mod	_	GE=whichever|Gloss=whichever|nWord=6|RX=[PRON]
+7	ankà	ankà	AUX	_	_	6	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
 8	saːmùː	saːmùː	VERB	_	_	7	comp:aux	_	GE=get|Gloss=get|nWord=8|RX=[VERB]
-9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	,	,	PUNCT	_	_	6	root	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 11	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
-13	aikìː	aikìː	NOUN	_	_	12	comp:pred	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=13|RX=[NOUN]
-14	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=14|RX=[ADP]
+13	aikìː	aikìː	NOUN	_	_	12	comp:obj@lvc	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=13|RX=[NOUN]
+14	dà	dà	ADP	_	_	12	comp:obl	_	GE=with|Gloss=with|nWord=14|RX=[ADP]
 15	shiː	shiː	PRON	_	_	14	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=15|RX=[PRON]
-16	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=16|RX=[PUNCT]
+16	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_200-200
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 175000, 176000
-# text = in ankà ɗèːbai, sai à ajèː shi.
+# text = in ankà ɗèːbai , sai à ajèː shi .
 # text_en = After taking it, you put it aside.
 # text_ortho = ’in ’ankà ɗèebai, sai ’à ’ajèe ši.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	ɗèːbai	_	_	_	_	_	_	_	_
-3	ɗèːb-	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
+3	ɗèːb	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
 4	=ai	shi	PRON	_	_	3	comp:obj	_	GE=[3Masc]|Gloss=-3Masc|nWord=3|RX=[PRON]|wordform=-ai
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 7	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 8	ajèː	ajèː	VERB	_	_	7	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=7|RX=[VERB]
 9	shi	shi	PRON	_	_	8	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
+10	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_201-201
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_201-201_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 176000, 177000
-# text = in an ajèː, sai à gamèː su wuriː gùdaː, duw wa’àndà ankà ɗiːbàː, à ajèː su.
-# text_en = When putting it aside, you put them all together, all those you have picked, you put them aside.
-# text_ortho = ’in ’ankà ’ajèe, sai ’à gamèe su wuᵲii gùdaa, duw wa’àndà ’ankà ɗiibàa, ’à ’ajèe su.
+# text = in an ajèː , sai à gamèː su wuriː gùdaː .
+# text_en = When putting it aside, you put them all together.
+# text_ortho = ’in ’ankà ’ajèe, sai ’à gamèe su wuᵲii gùdaa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
@@ -5704,36 +5711,44 @@
 6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=7|RX=[VERB]
 8	su	su	PRON	_	_	7	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=8|RX=[PRON]
-9	wuriː	wuriː	NOUN	_	_	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]
-10	gùdaː	gùdaː	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
-11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	duw	dukà	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=12|RX=[DET]
-13	wa’àndà	wa’àndà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=13|RX=[PRON]
-14	ankà	ankà	AUX	_	_	_	_	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
-15	ɗiːbàː	ɗiːbàː	VERB	_	_	14	comp:aux	_	GE=take|Gloss=take|nWord=15|RX=[VERB]
-16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
-18	ajèː	ajèː	VERB	_	_	17	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=18|RX=[VERB]
-19	su	su	PRON	_	_	18	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=19|RX=[PRON]
-20	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
+9	wuriː	wuriː	NOUN	_	_	7	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]
+10	gùdaː	gùdaː	NUM	_	_	9	mod:num	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
+11	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_201-201_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 176000, 177000
+# text = duw wa’àndà ankà ɗiːbàː , à ajèː su .
+# text_en = All those you have picked, you put them aside.
+# text_ortho = duw wa’àndà ’ankà ɗiibàa, ’à ’ajèe su.
+1	duw	dukà	DET	_	_	2	det	_	GE=all|Gloss=all|nWord=12|RX=[DET]
+2	wa’àndà	wa’àndà	PRON	_	PronType=Rel	6	dislocated@comp	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=13|RX=[PRON]
+3	ankà	ankà	AUX	_	_	2	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
+4	ɗiːbàː	ɗiːbàː	VERB	_	_	3	comp:aux	_	GE=take|Gloss=take|nWord=15|RX=[VERB]
+5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
+7	ajèː	ajèː	VERB	_	_	6	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=18|RX=[VERB]
+8	su	su	PRON	_	_	7	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=19|RX=[PRON]
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_202-202
+# text = sai à ɗèːbi zuccìyak karaː, zuccìyak karaː ɗàriː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 177000, 178000
-# text = sai à ɗèːbi zuccìyak karaː, zuccìyak karaː ɗàriː.
-# text_en = You must find core of (millet) stalks, a hundred cores of stalks.
+# text_en = You must find cores of (millet) stalks, a hundred cores of stalks.
 # text_ortho = sai ’à ɗèebi zuccìyak kaᵲaa, zuccìyak kaᵲaa ɗàᵲii.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
-2	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=2|RX=[AUX]
+2	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=2|RX=[AUX]
 3	ɗèːbi	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
 4	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=4|RX=[NOUN]|wordform=zuccìya
 5	karaː	karaː	NOUN	_	_	4	mod	_	GE=[millet_stalk].[Fem]|Gloss=millet_stalk.Fem|nWord=5|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons	_	_	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=7|RX=[NOUN]|wordform=zuccìya
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons	4	conj:dicto	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=7|RX=[NOUN]|wordform=zuccìya
 8	karaː	karaː	NOUN	_	_	7	mod	_	GE=[millet_stalk].[Fem]|Gloss=millet_stalk.Fem|nWord=8|RX=[NOUN]
-9	ɗàriː	ɗàriː	NUM	_	_	_	_	_	GE=hundred|Gloss=hundred|nWord=9|RX=[NUM]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+9	ɗàriː	ɗàriː	NUM	_	_	7	mod:num	_	GE=hundred|Gloss=hundred|nWord=9|RX=[NUM]
+10	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_203-203
 # speaker_id = *
@@ -5745,37 +5760,37 @@
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
-4	ɗàriː	ɗàriː	NUM	_	_	_	_	_	GE=hundred|Gloss=hundred|nWord=4|RX=[NUM]
+4	ɗàriː	ɗàriː	NUM	_	_	3	comp:obj	_	GE=hundred|Gloss=hundred|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 8	hiddàː	hiddàː	VERB	_	_	7	comp:aux	_	GE=remove|Gloss=remove|nWord=8|RX=[VERB]
-9	gùdaː	gùdaː	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=9|RX=[NUM]
+9	gùdaː	gùdaː	NUM	_	_	8	comp:obj	_	GE=one|Gloss=one|nWord=9|RX=[NUM]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
+11	à	à	AUX	_	_	7	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	yaddàː	yaddàː	VERB	_	_	11	comp:aux	_	GE=throw_away|Gloss=throw_away|nWord=12|RX=[VERB]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
+14	à	à	AUX	_	_	11	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
 15	yi	yi	VERB	_	_	14	comp:aux	_	GE=do|Gloss=do|nWord=15|RX=[VERB]
-16	aikìː	aikìː	NOUN	_	_	15	comp:pred	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=16|RX=[NOUN]
-17	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
-18	ɗàriː	ɗàriː	NUM	_	_	_	_	_	GE=hundred|Gloss=hundred|nWord=18|RX=[NUM]
-19	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=19|RX=[PREDPART]
-20	ɗaya	ɗaya	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
-21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
+16	aikìː	aikìː	NOUN	_	_	15	comp:obj@lvc	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=16|RX=[NOUN]
+17	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
+18	ɗàriː	ɗàriː	NUM	_	_	17	comp:obj	_	GE=hundred|Gloss=hundred|nWord=18|RX=[NUM]
+19	bâː	bâː	PredPART	_	_	18	flat@num	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=19|RX=[PREDPART]
+20	ɗaya	ɗaya	NUM	_	_	19	flat@num	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
+21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_204-204
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 179000, 180000
-# text = ɗàrîn nan bâː ɗaya, in ankà ɗèːbeː tà, sai à gamàː ta dà wa’ànnan sauran abuːbuwàː, dà ankà ɗiːbàː, à gamèː su wuriː gùdaː à dakèː.
+# text = ɗàrîn nan bâː ɗaya , in ankà ɗèːbeː tà , sai à gamàː ta dà wa’ànnan sauran abuːbuwàː , dà ankà ɗiːbàː , à gamèː su wuriː gùdaː à dakèː .
 # text_en = Those ninety-nine, once you have picked them, you put them with the other things that you have collected, you put them together and you pound them.
 # text_ortho = ɗàᵲiǹ nan baà ɗàya, ’in ’ankà ɗèebee tà, sai ’à gamàa ta dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa, ’à gamèe su wuᵲii gùdaa ’à dakèe.
-1	ɗàrîn	ɗàriː	NUM	_	Definite=Def	_	_	_	GE=[hundred].[Masc].[Def]|Gloss=hundred.Masc.Def|nWord=1|RX=[NUM]
-2	nan	nan	DET	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
-3	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=3|RX=[PREDPART]
-4	ɗaya	ɗaya	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+1	ɗàrîn	ɗàriː	NUM	_	Definite=Def	12	dislocated@comp	_	GE=[hundred].[Masc].[Def]|Gloss=hundred.Masc.Def|nWord=1|RX=[NUM]
+2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
+3	bâː	bâː	PredPART	_	_	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=3|RX=[PREDPART]
+4	ɗaya	ɗaya	NUM	_	_	3	comp:pred	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	ankà	ankà	AUX	_	_	6	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=7|RX=[AUX]
 8	ɗèːbeː	ɗiːbàː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take|nWord=8|RX=[VERB]
@@ -5785,47 +5800,55 @@
 12	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
 13	gamàː	gamàː	VERB	_	_	12	comp:aux	_	GE=join|Gloss=join|nWord=13|RX=[VERB]
 14	ta	ta	PRON	_	_	13	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=14|RX=[PRON]
-15	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
-16	wa’ànnan	wa’ànnan	DET	_	_	_	_	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=16|RX=[DET]
-17	sauran	sauran	ADJ	_	Definite=Cons	18	mod	_	GE=other|Gloss=other|nWord=17|RX=[ADJ]
-18	abuːbuwàː	àbù	NOUN	_	_	_	_	_	GE=[thing].[Plur]|Gloss=thing.Plur|nWord=18|RX=[NOUN]
-19	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-20	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
+15	dà	dà	ADP	_	_	13	comp:obl	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
+16	wa’ànnan	wa’ànnan	DET	_	_	18	det	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=16|RX=[DET]
+17	sauran	sauran	ADJ	_	Definite=Cons	18	comp:obj	_	GE=other|Gloss=other.Cons|nWord=17|RX=[ADJ]
+18	abuːbuwàː	àbù	NOUN	_	_	15	comp:obj	_	GE=[thing].[Plur]|Gloss=thing.Plur|nWord=18|RX=[NOUN]
+19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
+20	dà	dà	SCONJ	_	_	18	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
 21	ankà	ankà	AUX	_	_	20	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=21|RX=[AUX]
 22	ɗiːbàː	ɗiːbàː	VERB	_	_	21	comp:aux	_	GE=take|Gloss=take|nWord=22|RX=[VERB]
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-24	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
+24	à	à	AUX	_	_	12	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
 25	gamèː	gamèː	VERB	_	_	24	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=25|RX=[VERB]
 26	su	su	PRON	_	_	25	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=26|RX=[PRON]
-27	wuriː	wuriː	NOUN	_	_	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]
-28	gùdaː	gùdaː	NUM	_	_	_	_	_	GE=one|Gloss=one|nWord=28|RX=[NUM]
-29	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=29|RX=[AUX]
+27	wuriː	wuriː	NOUN	_	_	25	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]
+28	gùdaː	gùdaː	NUM	_	_	27	mod:num	_	GE=one|Gloss=one|nWord=28|RX=[NUM]
+29	à	à	AUX	_	_	24	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=29|RX=[AUX]
 30	dakèː	dakèː	VERB	_	_	29	comp:aux	_	GE=pound|Gloss=pound|nWord=30|RX=[VERB]
-31	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=31|RX=[PUNCT]
+31	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_205-205
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_205-205_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 180000, 181000
-# text = in ankà dakèː, à tankàɗeː, in an tankàɗeː, à ƙaːrà dakà s'àkiː.
-# text_en = After pounding, you sieve it. After sieving, you pound again the siftings.
-# text_ortho = ’in ’ankà dakèe, ’à tankàɗee, ’in ’an tankàɗee, ’à ƙaaᵲà dakà s’àkii.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+# text = in ankà dakèː , à tankàɗeː .
+# text_en = After pounding, you sieve it.
+# text_ortho = ’in ’ankà dakèe, ’à tankàɗee.
+1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	GE=pound|Gloss=pound|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=5|RX=[AUX]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=5|RX=[AUX]
 6	tankàɗeː	tankàɗeː	VERB	_	_	5	comp:aux	_	GE=sieve|Gloss=sieve|nWord=6|RX=[VERB]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
-9	an	an	AUX	_	_	8	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=9|RX=[AUX]
-10	tankàɗeː	tankàɗeː	VERB	_	_	9	comp:aux	_	GE=sieve|Gloss=sieve|nWord=10|RX=[VERB]
-11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
-13	ƙaːràː	ƙaːràː	VERB	_	_	12	comp:aux	_	GE=increase/continue|Gloss=increase/continue|nWord=13|RX=[VERB]
-14	dakà	dakàː	VERB	_	_	_	_	_	GE=pound|Gloss=pound|nWord=14|RX=[VERB]
-15	s'àkiː	s'àkiː	NOUN	_	_	14	comp:obj	_	GE=[siftings].[Masc]|Gloss=siftings.Masc|nWord=15|RX=[NOUN]
-16	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=16|RX=[PUNCT]
+7	.	.	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_205-205_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 180000, 181000
+# text = in an tankàɗeː , à ƙaːràː dakà s'àkiː .
+# text_en = After sieving, you pound again the siftings.
+# text_ortho = ’in ’an tankàɗee, ’à ƙaaᵲà dakà s’àkii.
+1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
+2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=9|RX=[AUX]
+3	tankàɗeː	tankàɗeː	VERB	_	_	2	comp:aux	_	GE=sieve|Gloss=sieve|nWord=10|RX=[VERB]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+5	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
+6	ƙaːràː	ƙaːràː	VERB	_	_	5	comp:aux	_	GE=increase/continue|Gloss=increase/continue|nWord=13|RX=[VERB]
+7	dakà	dakàː	VERB	_	_	_	_	_	GE=pound|Gloss=pound|nWord=14|RX=[VERB]
+8	s'àkiː	s'àkiː	NOUN	_	_	7	comp:obj	_	GE=[siftings].[Masc]|Gloss=siftings.Masc|nWord=15|RX=[NOUN]
+9	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_206-206
 # speaker_id = *
