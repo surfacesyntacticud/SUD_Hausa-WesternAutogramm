@@ -5854,7 +5854,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 181000, 182000
-# text = in ankà dakà s'àkiː, yaz zama gàːriː, sai à gamèː shi dà gàːriː ɗan uwaːnai.
+# text = in ankà dakà s'àkiː , yaz zama gàːriː , sai à gamèː shi dà gàːriː ɗan uwaː =nai .
 # text_en = After pounding the siftings into powder, you put it with its sister powder.
 # text_ortho = ’in ’ankà dakà s’àkii, yaz zama gàaᵲii, sai ’à gamèe ši dà gàaᵲii ɗan ’uwaanai.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -5862,7 +5862,7 @@
 3	dakà	dakàː	VERB	_	_	2	comp:aux	_	GE=pound|Gloss=pound|nWord=3|RX=[VERB]
 4	s'àkiː	s'àkiː	NOUN	_	_	3	comp:obj	_	GE=[siftings].[Masc]|Gloss=siftings.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
+6	yaz	yak	AUX	_	_	2	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	zama	zama	VERB	_	_	6	comp:aux	_	GE=become|Gloss=become|nWord=7|RX=[VERB]
 8	gàːriː	gàːriː	NOUN	_	_	7	comp:pred	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
@@ -5870,12 +5870,12 @@
 11	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	gamèː	gamèː	VERB	_	_	11	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=12|RX=[VERB]
 13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
-14	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=14|RX=[ADP]
+14	dà	dà	ADP	_	_	12	comp:obl	_	GE=with|Gloss=with|nWord=14|RX=[ADP]
 15	gàːriː	gàːriː	NOUN	_	_	14	comp:obj	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=15|RX=[NOUN]
-16	ɗan	ɗaː	NOUN	_	Definite=Cons	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=16|RX=[NOUN]|wordform=ɗa
-17-18	uwaːnai	_	_	_	_	_	_	_	_
+16	ɗan	ɗaː	NOUN	_	Definite=Cons	15	mod	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=16|RX=[NOUN]|wordform=ɗa
 17	uwaː	uwaː	NOUN	_	_	16	mod	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=17|RX=[NOUN]
 18	=nai	=nai	PRON	_	_	17	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=17|RX=[PRON]|wordform=-ai
+19	.	.	PRON	_	_	11	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_207-207
 # speaker_id = *
@@ -5884,18 +5884,18 @@
 # text = in ankà gamèː shi dà gàːriː ɗan uwaːnai, ankà moːc'èː su.
 # text_en = After putting it with its sister powder, you mix them.
 # text_ortho = ’in ’ankà gamèe ši dà gàaᵲii ɗan ’uwaanai, ’ankà mooc’èe su,
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=3|RX=[VERB]
 4	shi	shi	PRON	_	_	3	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
-5	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=5|RX=[ADP]
+5	dà	dà	ADP	_	_	3	comp:obl	_	GE=with|Gloss=with|nWord=5|RX=[ADP]
 6	gàːriː	gàːriː	NOUN	_	_	5	comp:obj	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=6|RX=[NOUN]
-7	ɗan	ɗaː	NOUN	_	Definite=Cons	_	_	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=7|RX=[NOUN]|wordform=ɗa
+7	ɗan	ɗaː	NOUN	_	Definite=Cons	6	mod	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=7|RX=[NOUN]|wordform=ɗa
 8-9	uwaːnai	_	_	_	_	_	_	_	_
 8	uwaː	uwaː	NOUN	_	_	7	mod	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=8|RX=[NOUN]
 9	=nai	=nai	PRON	_	_	8	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	ankà	ankà	AUX	_	_	_	_	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=10|RX=[AUX]
+10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+11	ankà	ankà	AUX	_	_	0	root	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=10|RX=[AUX]
 12	moːc'èː	moːc'èː	VERB	_	_	11	comp:aux	_	GE=stir|Gloss=stir|nWord=11|RX=[VERB]
 13	su	su	PRON	_	_	12	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=12|RX=[PRON]
 14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
@@ -5912,14 +5912,14 @@
 3	moːc'èː	moːc'èː	VERB	_	_	2	comp:aux	_	GE=stir|Gloss=stir|nWord=3|RX=[VERB]
 4	su	su	PRON	_	_	3	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=6|RX=[AUX]
+6	sunkà	sunkà	AUX	_	_	2	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=6|RX=[AUX]
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=7|RX=[VERB]
-8	ƙwar̃ai	ƙwar̃ai	ADV	_	_	_	_	_	GE=completely|Gloss=completely|nWord=8|RX=[ADV]
+8	ƙwar̃ai	ƙwar̃ai	ADV	_	_	7	mod	_	GE=completely|Gloss=completely|nWord=8|RX=[ADV]
 9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 11	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=11|RX=[AUX]
 12	ajèː	ajèː	VERB	_	_	11	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=12|RX=[VERB]
-13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
+13	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_209-209
 # speaker_id = *
@@ -5928,25 +5928,25 @@
 # text = in ankà ajèː, sai à nèːmi guntun wuc'c'iyàl luɗɗai, sai à yankèː ta, à kwarkwàreː.
 # text_en = After they have been put aside, you look for the tail of a gourd, you cut it and scrape it clean.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à nèemi guntun wuc’c’iyàl lud’dai, sai ’à yankèe ta, ’à kwaᵲkwàᵲee.
-1	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ankà	ankà	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
-6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
+6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	nèːmi	nèːmaː	VERB	_	_	6	comp:aux	_	GE=look_for|Gloss=look_for|nWord=7|RX=[VERB]
 8	guntun	guntuː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[piece].[Masc]|Gloss=piece.Masc|nWord=8|RX=[NOUN]|wordform=guntu
 9	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons	8	mod	_	GE=[tail].[Fem]|Gloss=tail.Fem|nWord=9|RX=[NOUN]|wordform=wuc'c'iyà
 10	luɗɗai	luɗɗai	NOUN	_	_	9	mod	_	GE=[gourd].[Masc]|Gloss=gourd.Masc|nWord=10|RX=[NOUN]
-11	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
-13	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
+13	à	à	AUX	_	_	6	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
 14	yankèː	yankèː	VERB	_	_	13	comp:aux	_	GE=kill|Gloss=kill|nWord=14|RX=[VERB]
 15	ta	ta	PRON	_	_	14	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
+17	à	à	AUX	_	_	13	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=17|RX=[AUX]
 18	kwarkwàreː	kwarkwàreː	VERB	_	_	17	comp:aux	_	GE=scrape|Gloss=scrape|nWord=18|RX=[VERB]
-19	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=19|RX=[PUNCT]
+19	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_210-210
 # speaker_id = *
@@ -5964,7 +5964,7 @@
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	GE=get|Gloss=get|nWord=7|RX=[VERB]
 8	kic'èn	kic'èː	NOUN	_	Definite=Cons	7	comp:obj	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=8|RX=[NOUN]|wordform=kic'è
 9	damoː	damoː	NOUN	_	_	8	mod	_	GE=[land-monitor].[Masc]|Gloss=land-monitor.Masc|nWord=9|RX=[NOUN]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+10	.	.	PUNCT	_	_	6	_	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_211-211
 # speaker_id = *
@@ -5982,38 +5982,46 @@
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ajèː	ajèː	VERB	_	_	8	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
-10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+10	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_212-212
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_212-212_split1
+# text = in an ajèː , sai à ɗaukoː gàːriː , gàːrim maːgàniː , wandà ankà dakàː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 186000, 187000
-# text = in an ajèː, sai à ɗaukoː gàːriː, gàːrim maːgàniː, wandà ankà dakàː, sai à zubàː cikin wuc'c'iyàl luɗɗai.
-# text_en = After putting it aside, you take the powder, the medicine powder that you have pounded, you pour it into the tail of the gourd.
-# text_ortho = ’in ’an ’ajèe, sai ’à ɗaukoo gàaᵲii, gàaᵲim maagànii, wandà ’ankà dakàa, sai ’à zubàa cikin wuc’c’iyàl lud’dai.
-1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+# text_en = After putting it aside, you take the powder, medicine powder, the one you have pounded.
+# text_ortho = ’in ’an ’ajèe, sai ’à ɗaukoo gàaᵲii, gàaᵲim maagànii, wandà ’ankà dakàa.
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
-6	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
+6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	ɗaukoː	ɗàukaː	VERB	_	_	6	comp:aux	_	GE=take|Gloss=take.Dir|nWord=7|RX=[VERB]|wordform=ɗauk
 8	gàːriː	gàːriː	NOUN	_	_	7	comp:obj	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	gàːrim	gàːriː	NOUN	_	Definite=Cons	_	_	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=10|RX=[NOUN]|wordform=gàːri
+10	gàːrim	gàːriː	NOUN	_	Definite=Cons	8	conj:dicto	_	GE=[flour].[Masc]|Gloss=flour.Masc|nWord=10|RX=[NOUN]|wordform=gàːri
 11	maːgàniː	maːgàniː	NOUN	_	_	10	mod	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=11|RX=[NOUN]
-12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	wandà	wandà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
-14	ankà	ankà	AUX	_	_	_	_	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	wandà	wandà	PRON	_	PronType=Rel	10	conj:dicto	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
+14	ankà	ankà	AUX	_	_	13	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=14|RX=[AUX]
 15	dakàː	dakàː	VERB	_	_	14	comp:aux	_	GE=pound|Gloss=pound|nWord=15|RX=[VERB]
-16	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
-18	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=18|RX=[AUX]
-19	zubàː	zubàː	VERB	_	_	18	comp:aux	_	GE=pour|Gloss=pour|nWord=19|RX=[VERB]
-20	cikin	cikin	ADP	_	_	19	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=20|RX=[ADP]
-21	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons	20	comp:obj	_	GE=[tail].[Fem]|Gloss=tail.Fem|nWord=21|RX=[NOUN]|wordform=wuc'c'iyà
-22	luɗɗai	luɗɗai	NOUN	_	_	21	mod	_	GE=[gourd].[Masc]|Gloss=gourd.Masc|nWord=22|RX=[NOUN]
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=23|RX=[PUNCT]
+16	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_212-212_split2
+# text = sai à zubàː cikin wuc'c'iyàl luɗɗai .
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 186000, 187000
+# text_en = Then you pour it into the tail of the gourd.
+# text_ortho = sai ’à zubàa cikin wuc’c’iyàl lud’dai.
+1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
+2	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=18|RX=[AUX]
+3	zubàː	zubàː	VERB	_	_	2	comp:aux	_	GE=pour|Gloss=pour|nWord=19|RX=[VERB]
+4	cikin	cikin	ADP	_	_	3	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=20|RX=[ADP]
+5	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons	4	comp:obj	_	GE=[tail].[Fem]|Gloss=tail.Fem|nWord=21|RX=[NOUN]|wordform=wuc'c'iyà
+6	luɗɗai	luɗɗai	NOUN	_	_	5	mod	_	GE=[gourd].[Masc]|Gloss=gourd.Masc|nWord=22|RX=[NOUN]
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=23|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_213-213
 # speaker_id = *
@@ -6026,7 +6034,7 @@
 2	an	an	AUX	_	_	1	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=2|RX=[AUX]
 3	zubàː	zubàː	VERB	_	_	2	comp:aux	_	GE=pour|Gloss=pour|nWord=3|RX=[VERB]
 4	shi	shi	PRON	_	_	3	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
-5	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=5|RX=[ADP]
+5	cikin	cikin	ADP	_	_	3	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=5|RX=[ADP]
 6	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons	5	comp:obj	_	GE=[tail].[Fem]|Gloss=tail.Fem|nWord=6|RX=[NOUN]|wordform=wuc'c'iyà
 7	luɗɗai	luɗɗai	NOUN	_	_	6	mod	_	GE=[gourd].[Masc]|Gloss=gourd.Masc|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -6036,24 +6044,24 @@
 12	kic'èn	kic'èː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=12|RX=[NOUN]|wordform=kic'è
 13	damoː	damoː	NOUN	_	_	12	mod	_	GE=[land-monitor].[Masc]|Gloss=land-monitor.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
+15	à	à	AUX	_	_	10	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=15|RX=[AUX]
 16	sâː	sâː	VERB	_	_	15	comp:aux	_	GE=put|Gloss=put|nWord=16|RX=[VERB]
 17	kic'èn	kic'èː	NOUN	_	Definite=Cons	16	comp:obj	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=17|RX=[NOUN]|wordform=kic'è
 18	damoː	damoː	NOUN	_	_	17	mod	_	GE=[land-monitor].[Masc]|Gloss=land-monitor.Masc|nWord=18|RX=[NOUN]
-19	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=19|RX=[ADP]
+19	cikin	cikin	ADP	_	_	16	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=19|RX=[ADP]
 20	kaskoː	kaskoː	NOUN	_	_	19	comp:obj	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=20|RX=[NOUN]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=22|RX=[AUX]
+22	à	à	AUX	_	_	15	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=22|RX=[AUX]
 23	azà	azàː	VERB	_	_	22	comp:aux	_	GE=put|Gloss=put|nWord=23|RX=[VERB]
 24	kaskoː	kaskoː	NOUN	_	_	23	comp:obj	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=24|RX=[NOUN]
-25	bisà	bisà	ADP	_	_	_	_	_	GE=on_top_of|Gloss=on_top_of|nWord=25|RX=[ADP]
+25	bisà	bisà	ADP	_	_	23	comp:obl	_	GE=on_top_of|Gloss=on_top_of|nWord=25|RX=[ADP]
 26	wutaː	wutaː	NOUN	_	_	25	comp:obj	_	GE=[fire].[Masc]|Gloss=fire.Masc|nWord=26|RX=[NOUN]
-27	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-28	kaskoː	kaskoː	NOUN	_	_	_	_	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=28|RX=[NOUN]
-29	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=29|RX=[AUX]
+27	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
+28	kaskoː	kaskoː	NOUN	_	_	29	subj	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=28|RX=[NOUN]
+29	shì	shì	AUX	_	_	23	parataxis@mod	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=29|RX=[AUX]
 30	yi	yi	VERB	_	_	29	comp:aux	_	GE=do|Gloss=do|nWord=30|RX=[VERB]
 31	zaːhiː	zaːhiː	NOUN	_	_	30	comp:pred	_	GE=[heat].[Masc]|Gloss=heat.Masc|nWord=31|RX=[NOUN]
-32	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=32|RX=[PUNCT]
+32	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=32|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_214-214
 # speaker_id = *
@@ -6062,23 +6070,23 @@
 # text = in yay yi zaːhiː, zaːhin kaskoː shì kaːmà kic'èn damoː, kic'èn damoː shì narkèː.
 # text_en = When it its hot, the heat of the pot will catch the lizard fat and the lizard fat will melt.
 # text_ortho = ’in yay yi zaahii, zaahin kaskoo šì kaamà kic’èn damoo, kic’èn damoo šì naᵲkèe,
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yay	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	zaːhiː	zaːhiː	NOUN	_	_	3	comp:pred	_	GE=[heat].[Masc]|Gloss=heat.Masc|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	zaːhin	zaːhiː	NOUN	_	Definite=Cons	_	_	_	GE=[heat].[Masc]|Gloss=heat.Masc|nWord=6|RX=[NOUN]|wordform=zaːhi
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	zaːhin	zaːhiː	NOUN	_	Definite=Cons	8	subj	_	GE=[heat].[Masc]|Gloss=heat.Masc|nWord=6|RX=[NOUN]|wordform=zaːhi
 7	kaskoː	kaskoː	NOUN	_	_	6	mod	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=7|RX=[NOUN]
-8	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
+8	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	kaːmà	kaːmàː	VERB	_	_	8	comp:aux	_	GE=catch|Gloss=catch|nWord=9|RX=[VERB]
 10	kic'èn	kic'èː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=10|RX=[NOUN]|wordform=kic'è
 11	damoː	damoː	NOUN	_	_	10	mod	_	GE=[land-monitor].[Masc]|Gloss=land-monitor.Masc|nWord=11|RX=[NOUN]
-12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	kic'èn	kic'èː	NOUN	_	Definite=Cons	_	_	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=13|RX=[NOUN]|wordform=kic'è
+12	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	kic'èn	kic'èː	NOUN	_	Definite=Cons	15	subj	_	GE=[fat].[Masc]|Gloss=fat.Masc|nWord=13|RX=[NOUN]|wordform=kic'è
 14	damoː	damoː	NOUN	_	_	13	mod	_	GE=[land-monitor].[Masc]|Gloss=land-monitor.Masc|nWord=14|RX=[NOUN]
-15	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=15|RX=[AUX]
+15	shì	shì	AUX	_	_	8	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=15|RX=[AUX]
 16	narkèː	narkèː	VERB	_	_	15	comp:aux	_	GE=[melt].[Ach]|Gloss=melt.Ach|nWord=16|RX=[VERB]
-17	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=17|RX=[PUNCT]
+17	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_215-215
 # speaker_id = *
@@ -6087,15 +6095,15 @@
 # text = in yay ji zaːhiː, shì zama ruwaː.
 # text_en = If it is hot, it will become liquid.
 # text_ortho = ’in yay ji zaahii, šì zama ᵲuwaa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yay	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ji	jiyàː	VERB	_	_	2	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=3|RX=[VERB]
 4	zaːhiː	zaːhiː	NOUN	_	_	3	comp:obj	_	GE=[heat].[Masc]|Gloss=heat.Masc|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
 7	zama	zama	VERB	_	_	6	comp:aux	_	GE=become|Gloss=become|nWord=7|RX=[VERB]
 8	ruwaː	ruwaː	NOUN	_	_	7	comp:pred	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=8|RX=[NOUN]
-9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_216-216
 # speaker_id = *
@@ -6115,17 +6123,17 @@
 9	gà	gà	ADP	_	_	8	comp:obl	_	GE=at|Gloss=at|nWord=9|RX=[ADP]
 10	ƙasaː	ƙasaː	NOUN	_	_	9	comp:obj	_	GE=[ground/earth].[Fem]|Gloss=ground/earth.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
+12	à	à	AUX	_	_	7	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
 13	jiddoː	jiddàː	VERB	_	_	12	comp:aux	_	GE=descend|Gloss=descend.Dir|nWord=13|RX=[VERB]|wordform=jidd
 14	dàb	dàgà	ADP	_	_	13	comp:obl	_	GE=from|Gloss=from|nWord=14|RX=[ADP]
-15	bisà	bisà	ADP	_	_	_	_	_	GE=on_top_of|Gloss=on_top_of|nWord=15|RX=[ADP]
+15	bisà	bisà	ADP	_	_	14	comp:obj	_	GE=on_top_of|Gloss=on_top_of|nWord=15|RX=[ADP]
 16	wutaː	wutaː	NOUN	_	_	15	comp:obj	_	GE=[fire].[Masc]|Gloss=fire.Masc|nWord=16|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=18|RX=[AUX]
+18	à	à	AUX	_	_	12	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=18|RX=[AUX]
 19	barìː	barìː	VERB	_	_	18	comp:aux	_	GE=leave|Gloss=leave|nWord=19|RX=[VERB]
-20	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
+20	shì	shì	AUX	_	_	19	parataxis@mod	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
 21	huːcèː	huːcèː	VERB	_	_	20	comp:aux	_	GE=rest|Gloss=rest|nWord=21|RX=[VERB]
-22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
+22	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_217-217
 # speaker_id = *
