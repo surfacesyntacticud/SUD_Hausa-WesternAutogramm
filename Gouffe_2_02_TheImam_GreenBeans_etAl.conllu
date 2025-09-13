@@ -1328,12 +1328,12 @@
 # text = tac cêː sabòːdà hakà nan takà shìgaː gidan lì:mân ## yac cêː tôː maːdàlla, in kin yàr̃da, keː s'oːhuwaː, in zâː ki tàhiyàː gidan lì:mân, kì riƙà zôwwaː, inàː aikìnkì, wurim màːtal lì:mân, kì riƙà kai matà goːr̃ò, dà kuɗɗiː ## keː kuma ìm biyaː kì, ìm baː kì laːdakkì, in kik kai mutà naːtà, kihw hwaɗàː mutà sàːƙoːna, sabòːdà inàː sôntà.
 # text_en = She said that's why she goes into the imam's compound ## He said well, OK, if you agree, you, old woman, when you go to the imam's compound, keep on going, I'm sending you to the imam's wife to keep bringing her kola nuts and money ## As for you, I will pay you, I will give you your commission if you bring her her things and you give her my message because I love her.
 # text_ortho = tac ceè sabòo dà hakà nan ta kà šìgaa gidan lìimaǹ, yac ceè toò maadàlla, ’in kin yàrda, kee s’oohuwaa, ’in zaà ki tàhiyàa gidan lìimaǹ, kì ᵲiƙà zoẁwaa, ’i nàa ’aikìnkì, wuᵲim màatal lìimaǹ, kì ᵲiƙà kai matà goorò, dà kuɗɗii, kee kuma ’ìm biyaa kì, ’ìm baa kì laadakkì, ’in kik kai mutà naatà, kihw hwaɗàa mutà sàaƙoona, sabòo dà ’i nàa soǹtà.
-1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
+1	tac	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
-3	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=3|RX=[SCONJ]
-4	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
+3	sabòːdà	sabòːdà	SCONJ	_	_	2	comp:obj	_	GE=because|Gloss=because|nWord=3|RX=[SCONJ]
+4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	takà	takà	AUX	_	_	_	_	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=6|RX=[AUX]
+6	takà	takà	AUX	_	_	3	comp:cleft	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=6|RX=[AUX]
 7	shìgaː	shìga	VERB	_	_	6	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=7|RX=[VERB]
 8	gidan	gidaː	NOUN	_	Definite=Cons	7	udep	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]|wordform=gida
 9	lì:mân	lì:maːmìː	NOUN	_	Definite=Def	8	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=9|RX=[NOUN]
@@ -3006,11 +3006,11 @@
 # text = sabòːdà hakà nan, tat tuːrà maːlàm, yat tàhi wurin sarkiː, shì yoː gòːdiyaː ## dà maːlàm yaz zoː, yash shìga zaurèː, gidan sarkiː, ya’ iskè sarkiː, yay yi gaisuwaː.
 # text_en = Because of this, she sent the malam away, he went to the chief's place to thank him. ## Whe the malam arrived, he entered the entrance hut at the chief's compound, he found the chief and greeted him.
 # text_ortho = sabòo dà hakà nan, tat tuuᵲà maalàm, yat tàhi wuᵲin saᵲkii, šì yoo gòodiyaa ## dà maalàm yaz zoo, yaš šìga zauᵲèe, gidan saᵲkii, ya’ ’iskè saᵲkii, yay yi gaisuwaa.
-1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
-2	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
+1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	tat	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=5|RX=[AUX]
+5	tat	tak	AUX	_	_	1	comp:cleft	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=5|RX=[AUX]
 6	tuːrà	tuːràː	VERB	_	_	5	comp:aux	_	GE=push/send|Gloss=push/send|nWord=6|RX=[VERB]
 7	maːlàmiː	maːlàm	NOUN	_	_	6	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -3119,11 +3119,11 @@
 # text = sabòːdà hakà nan , naz zoː ìn mukà gòːdiyaː .
 # text_en = That's why I have come to thank you.
 # text_ortho = sabòo dà hakà nan, naz zoo ’ìm mukà gòodiyaa.
-1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
-2	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
+1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	naz	nak	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
+5	naz	nak	AUX	_	_	1	comp:cleft	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
 6	zoː	zoː	VERB	_	_	5	comp:aux	_	GE=come|Gloss=come|nWord=6|RX=[VERB]
 7-8	ìn	_	_	_	_	_	_	_	_
 7	ìn	ìn	AUX	_	_	6	mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
@@ -4426,10 +4426,10 @@
 # text = sabòːdà hakà nan nig gwadàː maː, kà san mu nàː dà kissà, muː maːtaː.
 # text_en = That's why I showed you so that you know that we women are deceitful.
 # text_ortho = sabòo dà hakà nan nig gwadàa maa, kà san mu nàa dà kissà, muu maataa.
-1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
-2	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
+1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
+2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
-4	nig	nik	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=4|RX=[AUX]
+4	nig	nik	AUX	_	_	1	comp:cleft	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=4|RX=[AUX]
 5	gwadàː	gwadàː	VERB	_	_	4	comp:aux	_	GE=show|Gloss=show|nWord=5|RX=[VERB]
 6	maː	makà	PRON	_	_	5	comp:obj	_	GE=[2Masc].[Dat]|Gloss=2Masc.Dat|nWord=6|RX=[PRON]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
