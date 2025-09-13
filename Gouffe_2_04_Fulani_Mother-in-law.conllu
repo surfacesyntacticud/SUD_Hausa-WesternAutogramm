@@ -376,7 +376,7 @@
 37	kè	kè	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=35|RX=[AUX]
 38	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=36|RX=[PART]
 39	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
-40	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	_	_	_	_	GE=[confusion].[Fem]|Gloss=confusion.Fem|nWord=38|RX=[NOUN]
+40	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	_	41	subj	_	GE=[confusion].[Fem]|Gloss=confusion.Fem|nWord=38|RX=[NOUN]
 41	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=39|RX=[AUX]
 42	kaːmàː	kaːmàː	VERB	_	_	41	comp:aux	_	GE=catch|Gloss=catch|nWord=40|RX=[VERB]
 43	shi	shi	PRON	_	_	42	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=41|RX=[PRON]
@@ -435,7 +435,7 @@
 # text = sàràkkuwaː tac cèː mishì : kai kas san dùbaːr̃àː, tundà kai namijì neː.
 # text_en = The mother-in-law told him : you're the one who knows the solution, since you are a man.
 # text_ortho = sàᵲàkkuwaa tac cèe mišì : kai kas san dùbaaràa, tun dà kai namijì nee.
-1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	_	_	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=1|RX=[NOUN]
+1	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	2	subj	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=1|RX=[NOUN]
 2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
 4	mishì	mishì	PRON	_	_	_	_	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=4|RX=[PRON]
@@ -488,7 +488,7 @@
 14	ji	ji	VERB	_	_	13	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=14|RX=[VERB]
 15	àbun	àbu	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=15|RX=[NOUN]|wordform=àbu
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
-17	dawàː	dawàː	NOUN	_	_	_	_	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=17|RX=[NOUN]
+17	dawàː	dawàː	NOUN	_	_	18	subj	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=17|RX=[NOUN]
 18	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
 19	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=19|RX=[IDPART]
 20	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
@@ -675,7 +675,7 @@
 19	jîn	jîː	VERB	_	Definite=Cons	18	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=18|RX=[VERB]|wordform=jî
 20	àbun	àbu	NOUN	_	Definite=Cons	19	udep	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbu
 21	dà	dà	SCONJ	_	_	20	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
-22	dawàː	dawàː	NOUN	_	_	_	_	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=21|RX=[NOUN]
+22	dawàː	dawàː	NOUN	_	_	23	subj	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=21|RX=[NOUN]
 23	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
 24	cêː	cêː	VERB	_	_	23	comp:aux	_	GE=say|Gloss=say|nWord=23|RX=[VERB]
 25	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=24|RX=[PUNCT]

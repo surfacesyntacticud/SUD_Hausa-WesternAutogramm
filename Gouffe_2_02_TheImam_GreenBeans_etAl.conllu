@@ -286,7 +286,7 @@
 # text_en = As the malam spoke like this, the girl's father understood, he said he agreed, let them go and take her.
 # text_ortho = dà maalàmii yah hwàɗi hakà, ’ùban ɗìyaa nàa jiì, yac ceè yaa yàrda, ’à tàhi ’à ɗaukoo tà.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yah	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	hwàɗaː	hwàɗaː	VERB	_	_	3	comp:aux	_	GE=tell|Gloss=tell|nWord=4|RX=[VERB]
 5	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
@@ -473,7 +473,7 @@
 24	bàiwaː	bàiwaː	NOUN	_	_	_	_	_	GE=[slave].[Fem]|Gloss=slave.Fem|nWord=23|RX=[NOUN]
 25	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 26	hay	hat	SCONJ	_	_	_	_	_	GE=until|Gloss=until|nWord=25|RX=[SCONJ]
-27	yaːrinyàː	yaːrinyàː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=26|RX=[NOUN]
+27	yaːrinyàː	yaːrinyàː	NOUN	_	_	28	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=26|RX=[NOUN]
 28	tag	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=27|RX=[AUX]
 29	girma	girma	VERB	_	_	28	comp:aux	_	GE=grow|Gloss=grow|nWord=28|RX=[VERB]
 30	,	,	PUNCT	_	_	31	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
@@ -527,7 +527,7 @@
 # text_en = Then the girl reached nubility.
 # text_ortho = hay yaaᵲinyàa ta’ ’ìsa ’aᵲmee.
 1	hay	hat	ADV	_	_	_	_	_	GE=finally|Gloss=finally|nWord=1|RX=[ADV]
-2	yaːrinyàː	yaːrinyàː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=2|RX=[NOUN]
+2	yaːrinyàː	yaːrinyàː	NOUN	_	_	3	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=2|RX=[NOUN]
 3	ta’	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	ìsa	ìsa	VERB	_	_	3	comp:aux	_	GE=arrive|Gloss=arrive|nWord=4|RX=[VERB]
 5	armeː	armeː	NOUN	_	_	4	comp:obj	_	GE=[wedding].[Masc]|Gloss=wedding.Masc|nWord=5|RX=[NOUN]
@@ -667,7 +667,7 @@
 17	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=17|RX=[NOUN]|wordform=wuri
 18	maːlàmiː	maːlàm	NOUN	_	_	17	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=18|RX=[NOUN]
 19	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-20	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=20|RX=[NOUN]
+20	maːlàmiː	maːlàm	NOUN	_	_	21	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=20|RX=[NOUN]
 21	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=21|RX=[AUX]
 22	sàyeː	sàyaː	VERB	_	_	21	comp:aux	_	GE=[buy].[Nmlz].[Masc]|Gloss=buy.Nmlz.Masc|nWord=22|RX=[VERB]
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
@@ -706,7 +706,7 @@
 21	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=21|RX=[ADP]
 22	gidaː	gidaː	NOUN	_	_	21	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=22|RX=[NOUN]
 23	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-24	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=24|RX=[NOUN]
+24	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	25	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=24|RX=[NOUN]
 25	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=25|RX=[AUX]
 26	ɗàuki	ɗaukaː	VERB	_	_	25	comp:aux	_	GE=take|Gloss=take|nWord=26|RX=[VERB]
 27	dàudawaː	dàudawaː	NOUN	_	_	26	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=27|RX=[NOUN]
@@ -727,7 +727,7 @@
 42	màːtam	màːtaː	NOUN	_	Definite=Cons	41	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=42|RX=[NOUN]|wordform=màːta
 43	maːlàmiː	maːlàm	NOUN	_	_	42	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=43|RX=[NOUN]
 44	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
-45	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=45|RX=[NOUN]
+45	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	46	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=45|RX=[NOUN]
 46	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=46|RX=[AUX]
 47	hitoː	hita	VERB	_	_	46	comp:aux	_	GE=get_out|Gloss=get_out.Dir|nWord=47|RX=[VERB]|wordform=hit
 48	,	,	PUNCT	_	_	49	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=48|RX=[PUNCT]
@@ -749,11 +749,11 @@
 # text_en = When the old woman came, the malam would give her the money for the "daudawa".
 # text_ortho = ’in s’oohuwaa taz zoo, maalàmii šì biyaa tà, kuɗɗintà na dàudawaa.
 1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
+2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	3	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	taz	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
+6	maːlàmiː	maːlàm	NOUN	_	_	7	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
 7	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=7|RX=[AUX]
 8	biyaː	biyaː	VERB	_	_	7	comp:aux	_	GE=pay|Gloss=pay|nWord=8|RX=[VERB]
 9	tà	ta	PRON	_	_	8	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
@@ -787,7 +787,7 @@
 12	dàudawat	dàudawaː	NOUN	_	Definite=Cons	11	mod	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=12|RX=[NOUN]|wordform=dàudawa
 13	=tà	=tà	PRON	_	_	12	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=12|RX=[PRON]|wordform=-tà
 14	waddà	waddà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=13|RX=[PRON]
-15	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
+15	maːlàmiː	maːlàm	NOUN	_	_	16	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
 16	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=15|RX=[AUX]
 17	sàyeː	sàyaː	VERB	_	_	16	comp:aux	_	GE=buy|Gloss=buy|nWord=16|RX=[VERB]
 18	ba	ba	PART	_	_	17	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|RX=[PART]
@@ -1105,7 +1105,7 @@
 14	yag	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
 15	ga	ganiː	VERB	_	_	14	comp:aux	_	GE=see|Gloss=see|nWord=15|RX=[VERB]
 16	mài	mài	PART	_	_	_	_	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=17|RX=[PART]
-17	tàllad	tàlla	NOUN	_	Definite=Cons	_	_	_	GE=[hawking_wares].[Fem]|Gloss=hawking_wares.Fem|nWord=18|RX=[NOUN]|wordform=tàlla
+17	tàllad	tàlla	NOUN	_	Definite=Cons	18	subj	_	GE=[hawking_wares].[Fem]|Gloss=hawking_wares.Fem|nWord=18|RX=[NOUN]|wordform=tàlla
 18	yay	yak	AUX	_	_	17	mod	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=20|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	GE=do|Gloss=do|nWord=21|RX=[VERB]
 20	kiràn	kiràː	VERB	_	Definite=Cons	_	_	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=22|RX=[VERB]|wordform=kirà
@@ -1210,7 +1210,7 @@
 # text = lìːmân yaː san kì ?
 # text_en = Does the imam know you?
 # text_ortho = lìimaǹ yaa san kì ?
-1	lìːmân	lìːmân	NOUN	_	Definite=Def	_	_	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
+1	lìːmân	lìːmân	NOUN	_	Definite=Def	2	subj	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
 2	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	san	sanìː	VERB	_	_	2	comp:aux	_	GE=know|Gloss=know|nWord=3|RX=[VERB]
 4	kì	kì	PRON	_	_	3	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=4|RX=[PRON]
@@ -1296,7 +1296,7 @@
 1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	shiː	shiː	PRON	_	_	2	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
-4	lìːmân	lìːmân	NOUN	_	Definite=Def	_	_	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
+4	lìːmân	lìːmân	NOUN	_	Definite=Def	5	subj	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
 5	kà	kà	AUX	_	_	_	_	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=5|RX=[AUX]
 6-7	aikìntà	_	_	_	_	_	_	_	_
 6	aikìn	aikìː	VERB	_	Definite=Cons	5	comp:aux	_	GE=[send].[Nmlz].[Masc]|Gloss=send.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=aikì
@@ -1452,7 +1452,7 @@
 # text = s'oːhuwaː tac cêː taː yàr̃da ## koːmì: yab baː tà tanàː iyà kai mutà shiː, maːlàm bài sanì: ba.
 # text_en = The old woman said she agreed ## Whatever he gave her, she can take it to her without the malam knowing.
 # text_ortho = s’oohuwaa tac ceè taa yàrda, koo mìi yab baa tà ta nàa ’iyà kai mutà šii, maalàm bài sanìi ba.
-1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
+1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=4|RX=[AUX]
@@ -1468,7 +1468,7 @@
 14	mutà	mutà	PRON	_	_	13	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
 15	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=15|RX=[PRON]
 16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=17|RX=[NOUN]
+17	maːlàmiː	maːlàm	NOUN	_	_	18	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=17|RX=[NOUN]
 18	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=18|RX=[AUX]
 19	sanì:	sanì:	VERB	_	_	18	comp:aux	_	GE=know|Gloss=know|nWord=19|RX=[VERB]
 20	ba	ba	PART	_	_	19	mod	_	GE=[Neg]|Gloss=Neg|nWord=20|RX=[PART]
@@ -1482,7 +1482,7 @@
 # text_en = When the old woman agreed, she said she could (do it) because she would be given a commission, he said well, let's go ## When you go, (when) you go there to their house, I will give you things to take to her, take them to her.
 # text_ortho = dà s’oohuwaa tay yàrda, tac ceè taa ’iyàa, don ’à baa tà laadaa, yac ceè toò tàhi ’in zaà ki tàhiyàa, can gidansù kì zoo, ’ìm baa kì ’àbun dà zaà kì kai mutà, ki kai mutà.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
+2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	3	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	tay	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	yàr̃da	yàr̃da	VERB	_	_	3	comp:aux	_	GE=agree|Gloss=agree|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1583,7 +1583,7 @@
 11	màːtam	màːtaː	NOUN	_	Definite=Cons	10	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=11|RX=[NOUN]|wordform=màːta
 12	maːlàmiː	maːlàm	NOUN	_	_	11	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=14|RX=[NOUN]
+14	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	15	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=14|RX=[NOUN]
 15	taɓ	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=15|RX=[AUX]
 16	ɓoːyèː	ɓoːyèː	VERB	_	_	15	comp:aux	_	GE=hide|Gloss=hide|nWord=16|RX=[VERB]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
@@ -1602,7 +1602,7 @@
 29	=tà	=tà	PRON	_	_	28	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=28|RX=[PRON]|wordform=-tà
 30	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 31	indà	indà	ADV	_	_	_	_	_	GE=where|Gloss=where|nWord=30|RX=[ADV]
-32	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=31|RX=[NOUN]
+32	maːlàmiː	maːlàm	NOUN	_	_	33	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=31|RX=[NOUN]
 33	bâːshi	bâːshi	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=32|RX=[AUX]
 34	ganiː	ganiː	VERB	_	_	33	comp:aux	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc|nWord=33|RX=[VERB]
 35	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=34|RX=[PUNCT]
@@ -1683,7 +1683,7 @@
 # text = s'oːhuwaː tac cêː m.
 # text_en = The old woman said yes.
 # text_ortho = s’oohuwaa tac ceè ’m.
-1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
+1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	m	m	INTJ	_	_	_	_	_	GE=yes|Gloss=yes|nWord=4|RX=[INTJ]
@@ -1697,12 +1697,12 @@
 # text_en = As the old woman said yes, the malam bought the "daudawa" and gave it to the old woman and said she should carry it to the compound and give it to his wife's.
 # text_ortho = dà s’oohuwaa tac ceè ’m, maalàm yas sàyi dàudawaa, yab baà s’oohuwaa, yac ceè tà kai cikin gidaa, tà kai wuᵲim màataatai.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=that|Gloss=that|nWord=1|RX=[SCONJ]
-2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
+2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	3	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	GE=say|Gloss=say|nWord=4|RX=[VERB]
 5	m	m	INTJ	_	_	_	_	_	GE=yes|Gloss=yes|nWord=5|RX=[INTJ]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=7|RX=[NOUN]
+7	maːlàmiː	maːlàm	NOUN	_	_	8	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=7|RX=[NOUN]
 8	yas	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 9	sàyi	sàyaː	VERB	_	_	8	comp:aux	_	GE=buy|Gloss=buy|nWord=9|RX=[VERB]
 10	dàudawaː	dàudawaː	NOUN	_	_	9	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=10|RX=[NOUN]
@@ -1733,7 +1733,7 @@
 # text = s'oːhuwaː taɗ ɗàuki dàudawaː, tak kai cikin gidaː, can wurim màːtam maːlàm.
 # text_en = The old woman took the "daudawa", she carried it into the compound, there to the malam's wife.
 # text_ortho = s’oohuwaa taɗ ɗàuki dàudawaa, tak kai cikin gidaa, can wuᵲim màatam maalàm.
-1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
+1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	taɗ	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗàuki	ɗaukaː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
 4	dàudawaː	dàudawaː	NOUN	_	_	3	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=4|RX=[NOUN]
@@ -1810,7 +1810,7 @@
 8	bak	baːyar̃	VERB	_	_	7	comp:aux	_	GE=give|Gloss=give|nWord=8|RX=[VERB]
 9	kì	ki	PRON	_	_	8	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=8|RX=[PRON]
 10	wa’ànga	wa’ànga	DET	_	_	11	det	_	GE=[Prox].[Plur]|Gloss=Prox.Plur|nWord=9|RX=[DET]
-11	kaːyaː	kaːyaː	NOUN	_	_	_	_	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=10|RX=[NOUN]
+11	kaːyaː	kaːyaː	NOUN	_	_	12	subj	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=10|RX=[NOUN]
 12	kik	kik	AUX	_	_	_	_	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=11|RX=[AUX]
 13	kaːwoː	kai	VERB	_	_	12	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to.Dir|nWord=12|RX=[VERB]|wordform=kaːw
 14	minì	minì	PRON	_	_	13	comp:obj	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=13|RX=[PRON]
@@ -1957,7 +1957,7 @@
 # sent_timecode = 67000, 68000
 # text_en = The old woman went her way, she went back to the entrance hut, she met the imam, the imam paid her the price of her "daudawa".
 # text_ortho = s’oohuwaa tat tahoowàttà, tak koomoo zauᵲèe, taz zoo wuᵲim maalàmii, maalàmii yab biyaa tà, kuɗɗin dàudawattà.
-1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
+1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	tat	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tahoːwàttà	_	_	_	_	_	_	_	_
 3	tahoːwat	tàhi	VERB	_	Definite=Cons	2	comp:aux	_	GE=go|Gloss=go.Dir.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=tah
@@ -1972,7 +1972,7 @@
 12	wurim	wuriː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
 13	maːlàmiː	maːlàm	NOUN	_	_	12	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=12|RX=[NOUN]
 14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
+15	maːlàmiː	maːlàm	NOUN	_	_	16	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=14|RX=[NOUN]
 16	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=15|RX=[AUX]
 17	biyaː	biyaː	VERB	_	_	16	comp:aux	_	GE=pay|Gloss=pay|nWord=16|RX=[VERB]
 18	tà	ta	PRON	_	_	17	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
@@ -1990,7 +1990,7 @@
 # text_en = When the malam had paid her, she took her basin and went back.
 # text_ortho = dà maalàmii yab biyaa tà, taɗ ɗàuki ƙwaᵲyattà, tak koomàa gidantà.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	biyaː	biyaː	VERB	_	_	3	comp:aux	_	GE=pay|Gloss=pay|nWord=4|RX=[VERB]
 5	tà	ta	PRON	_	_	4	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=5|RX=[PRON]
@@ -2157,7 +2157,7 @@
 # text = s'oːhuwaː tac cêː tôː.
 # text_en = The old woman said OK.
 # text_ortho = s’oohuwaa tac ceè toò.
-1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
+1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=4|RX=[INTJ]
@@ -2224,7 +2224,7 @@
 3	kai	kai	VERB	_	_	2	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=3|RX=[VERB]
 4	dàudawaː	dàudawaː	NOUN	_	_	3	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
+6	maːlàmiː	maːlàm	NOUN	_	_	7	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=6|RX=[NOUN]
 7	yas	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
 8	sàyeː	sàyaː	VERB	_	_	7	comp:aux	_	GE=buy|Gloss=buy|nWord=8|RX=[VERB]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
@@ -2321,11 +2321,11 @@
 # text_en = As the salla arrived, the old woman went to see the malam's wife, she brought her "daudawa" and the things that the chief's son was giving her, she brought them to her.
 # text_ortho = dà sallàa tam mas’oo, s’oohuwaa taa zoo wuᵲim màatam maalàm, taa kaawoo mutà dàudawaa dà kaayan ɗan saᵲkii kà baa tà, ta nàa kai matà.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sallàː	sallàː	NOUN	_	_	_	_	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=2|RX=[NOUN]
+2	sallàː	sallàː	NOUN	_	_	3	subj	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=2|RX=[NOUN]
 3	tam	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	mas'àːoː	mas'àː	VERB	_	_	3	comp:aux	_	GE=get_close|Gloss=get_close.Dir|nWord=4|RX=[VERB]|wordform=mas'àː
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=6|RX=[NOUN]
+6	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	7	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=6|RX=[NOUN]
 7	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=7|RX=[AUX]
 8	zoː	zoː	VERB	_	_	7	comp:aux	_	GE=come|Gloss=come|nWord=8|RX=[VERB]
 9	wurim	wuriː	NOUN	_	Definite=Cons	8	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]|wordform=wuri
@@ -2357,7 +2357,7 @@
 # text_en = As the old woman was going to leave, the malam's wife told the old woman: When you have gone, tell the chief's son that if he wants to see me, let him wait until the day of salla when they have started the ceremony, and the malam has gone to the place of the ceremony, there, to the ceremony ground together with the chief and the town people.
 # text_ortho = dà s’oohuwaa zaà ta tàhiyàa, sai màatam maalàm, tac ceè mà s’oohuwaa : ’in kin zoo, kì gayàa mà ɗan saᵲkii, ’in ši nàa soǹ šì gan nì, šì baᵲìi sai ᵲas sallàa, ’in ’an hau ’iidìi. maalàm yaa tàhi wuᵲin ’iidìi, can hiilin ’iidìi - tàaᵲe dà saᵲkii, dà mutàanen gàᵲii.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
+2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	3	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
 4	ta	ta	PRON	_	_	3	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5	tàhiyàː	tàhiyàː	VERB	_	_	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
@@ -2398,7 +2398,7 @@
 40	hau	hau	VERB	_	_	39	comp:aux	_	GE=climb/start|Gloss=climb/start|nWord=40|RX=[VERB]
 41	iːdì:	iːdì:	NOUN	_	_	40	comp:obj	_	GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=41|RX=[NOUN]
 42	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=42|RX=[PUNCT]
-43	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=43|RX=[NOUN]
+43	maːlàmiː	maːlàm	NOUN	_	_	44	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=43|RX=[NOUN]
 44	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=44|RX=[AUX]
 45	tàhi	tàhi	VERB	_	_	44	comp:aux	_	GE=go|Gloss=go|nWord=45|RX=[VERB]
 46-47	wuri	_	_	_	_	_	_	_	_
@@ -2470,7 +2470,7 @@
 8	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=8|RX=[ADV]
 9	nan	nan	DET	_	_	8	det	_	GE=[Dist]|Gloss=Dist|nWord=9|RX=[ADV]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	_	_	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=11|RX=[NOUN]
+11	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	12	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=11|RX=[NOUN]
 12	taz	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=12|RX=[AUX]
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	GE=come|Gloss=come|nWord=13|RX=[VERB]
 14	tag	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=14|RX=[AUX]
@@ -2520,21 +2520,21 @@
 # text_en = When salla came, when it was time to go to the ceremony, the chief went, the imam went, the town people, all those going to the ceremony, they too they went.
 # text_ortho = dà sallàa taz zoo, lookàcin tàhiyàa ’iidìi yay yi, saᵲkii yah hitoo, lìimaǹ yah hitoo, mutàanen gàᵲii, dum mài zuwàa wuᵲin ’iidìi, suu maa sunkà hitoo.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sallàː	sallàː	NOUN	_	_	_	_	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=2|RX=[NOUN]
+2	sallàː	sallàː	NOUN	_	_	3	subj	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=2|RX=[NOUN]
 3	taz	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	loːkàcim	loːkàciː	NOUN	_	Definite=Cons	_	_	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=6|RX=[NOUN]|wordform=loːkàci
+6	loːkàcim	loːkàciː	NOUN	_	Definite=Cons	7	subj	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=6|RX=[NOUN]|wordform=loːkàci
 7	tàhiyàː	tàhiyàː	VERB	_	_	6	mod	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=7|RX=[VERB]
 8	iːdì:	iːdì:	NOUN	_	_	7	udep	_	GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=8|RX=[NOUN]
 9	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=9|RX=[AUX]
 10	yi	yi	VERB	_	_	9	comp:aux	_	GE=do|Gloss=do|nWord=10|RX=[VERB]
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
+12	sarkiː	sarkiː	NOUN	_	_	13	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
 13	yah	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=13|RX=[AUX]
 14	hitoː	hita	VERB	_	_	13	comp:aux	_	GE=get_out|Gloss=get_out.Dir|nWord=14|RX=[VERB]|wordform=hit
 15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	lì:maːmìː	lì:maːmìː	NOUN	_	_	_	_	_	GE=[imam].[Masc]|Gloss=imam.Masc|nWord=16|RX=[NOUN]
+16	lì:maːmìː	lì:maːmìː	NOUN	_	_	17	subj	_	GE=[imam].[Masc]|Gloss=imam.Masc|nWord=16|RX=[NOUN]
 17	yah	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
 18	hitoː	hita	VERB	_	_	17	comp:aux	_	GE=get_out|Gloss=get_out.Dir|nWord=18|RX=[VERB]|wordform=hit
 19	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
@@ -2697,7 +2697,7 @@
 5	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|RX=[PART]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	ham	hat	SCONJ	_	_	_	_	_	GE=until|Gloss=until|nWord=7|RX=[SCONJ]
-8	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=8|RX=[NOUN]
+8	maːlàmiː	maːlàm	NOUN	_	_	9	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=8|RX=[NOUN]
 9	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=9|RX=[AUX]
 10	zoː	zoː	VERB	_	_	9	comp:aux	_	GE=come|Gloss=come|nWord=10|RX=[VERB]
 11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
@@ -2710,7 +2710,7 @@
 # text_en = As the malam arrived, he entered the compound, then he saw the horse inside his compound, he was surprised, he said : Who has a horse in my compound?
 # text_ortho = dà maalàm yaz zoo, yaš šigoo gidaa, sai yag ga dookìi, cikin gidaanai, yay yi màamaakìi, yac ceè : wàa ’ad dà dookìi, cikin gidaana ?
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2782,7 +2782,7 @@
 28	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=27|RX=[AUX]
 29	cêː	cêː	VERB	_	_	28	comp:aux	_	GE=say|Gloss=say|nWord=28|RX=[VERB]
 30	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
-31	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=30|RX=[NOUN]
+31	maːlàmiː	maːlàm	NOUN	_	_	32	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=30|RX=[NOUN]
 32	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=31|RX=[AUX]
 33	daːwoː	daːwoː	VERB	_	_	32	comp:aux	_	GE=return|Gloss=return|nWord=32|RX=[VERB]
 34	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=33|RX=[PUNCT]
@@ -2794,7 +2794,7 @@
 # text = maːlàm yac cêː : iː, naː daːwoː.
 # text_en = The malam said : Yes, I have come back.
 # text_ortho = maalàm yac ceè : ’ii, naa daawoo.
-1	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=1|RX=[NOUN]
+1	maːlàmiː	maːlàm	NOUN	_	_	2	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=1|RX=[NOUN]
 2	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
@@ -2846,7 +2846,7 @@
 7	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=7|RX=[NOUN]|wordform=wuri
 8	iːdì:	iːdì:	NOUN	_	_	7	mod	_	GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=10|RX=[NOUN]
+10	sarkiː	sarkiː	NOUN	_	_	11	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=10|RX=[NOUN]
 11	ya’	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
 12	aikoː	àikaː	VERB	_	_	11	comp:aux	_	GE=send|Gloss=send.Dir|nWord=12|RX=[VERB]|wordform=aik
 13	dà	dà	ADP	_	_	12	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
@@ -2872,7 +2872,7 @@
 6	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=6|RX=[ADV]
 7	nan	nan	DET	_	_	6	det	_	GE=[Dist]|Gloss=Dist|nWord=7|RX=[ADV]
 8	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=9|RX=[NOUN]
+9	maːlàmiː	maːlàm	NOUN	_	_	10	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=9|RX=[NOUN]
 10	yah	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 11	hìta	hìta	VERB	_	_	10	comp:aux	_	GE=get_out|Gloss=get_out|nWord=11|RX=[VERB]
 12	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=12|RX=[AUX]
@@ -2893,7 +2893,7 @@
 # text_en = When the malam left, the chief's son came out, he got on his horse and left.
 # text_ortho = koo dà maalàm yat tàhi, sai ɗan saᵲkii yah hitoo, yah hau dookìinai, yat tàhiyàatai.
 1	koːdà	koːdà	SCONJ	_	_	_	_	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	tàhi	tàhi	VERB	_	_	3	comp:aux	_	GE=go|Gloss=go|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -3024,7 +3024,7 @@
 16	gòːdiyaː	gòːdiyaː	NOUN	_	_	15	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=16|RX=[NOUN]
 17	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=18|RX=[SCONJ]
-19	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=19|RX=[NOUN]
+19	maːlàmiː	maːlàm	NOUN	_	_	20	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=19|RX=[NOUN]
 20	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=20|RX=[AUX]
 21	zoː	zoː	VERB	_	_	20	comp:aux	_	GE=come|Gloss=come|nWord=21|RX=[VERB]
 22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
@@ -3052,7 +3052,7 @@
 # text_en = After he had greeted the chief, he said : God bless you, I have come to your place to thank you.
 # text_ortho = dà maalàm yag gaidà saᵲkii, yac cèe : ’allàa šì baa kà nasaràa, wuᵲinkà niz zoo, don ’ìn yi gòodiyaa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yag	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	gaidà	gaidàː	VERB	_	_	3	comp:aux	_	GE=greet|Gloss=greet|nWord=4|RX=[VERB]
 5	sarkiː	sarkiː	NOUN	_	_	4	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=5|RX=[NOUN]
@@ -3139,13 +3139,13 @@
 # text = sarkiː yac cêː mà maːlàm : maːlàm kaː haukàceː, kuma kaː yi mun ƙaryaː.
 # text_en = The chief told the malam : Malam, you have gone mad, and you have lied to me.
 # text_ortho = saᵲkii yac ceè mà maalàm : maalàm kaa haukàcee, kuma kaa yi mun ƙaᵲyaa.
-1	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
+1	sarkiː	sarkiː	NOUN	_	_	2	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
 2	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	mà	mà	ADP	_	_	3	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 5	maːlàmiː	maːlàm	NOUN	_	_	4	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
 6	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=7|RX=[NOUN]
+7	maːlàmiː	maːlàm	NOUN	_	_	8	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=7|RX=[NOUN]
 8	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=8|RX=[AUX]
 9	haukàceː	haukàceː	VERB	_	_	8	comp:aux	_	GE=go_crazy|Gloss=go_crazy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -3206,12 +3206,12 @@
 # text = maːlàmiː yac cêː : in ƙaryaː tàː shikài, à gamàː shi dà bàhwaːdìː, sù tàhi gidaːnai, à ganoː doːkì:, can gidaːnai.
 # text_en = The malam said : If he has lied, put him with a courtier, let them go to his place and see the horse, there at his house.
 # text_ortho = maalàmii yac ceè : ’in ƙaᵲyaa tàa ši kài, ’à gamàa ši dà bàhwaadii, sù tàhi gidaanai, ’à ganoo dookìi, can gidaanai.
-1	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=1|RX=[NOUN]
+1	maːlàmiː	maːlàm	NOUN	_	_	2	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=1|RX=[NOUN]
 2	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
 4	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
-6	ƙaryaː	ƙaryaː	NOUN	_	_	_	_	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=6|RX=[NOUN]
+6	ƙaryaː	ƙaryaː	NOUN	_	_	7	subj	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=6|RX=[NOUN]
 7	tàː	tàː	AUX	_	_	_	_	_	GE=[Id/Foc].[Fem]|Gloss=Id/Foc.Fem|nWord=7|RX=[AUX]
 8-9	shikài	_	_	_	_	_	_	_	_
 8	shikà	shikà	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Bkg]|Gloss=3Masc.Imp.Bkg|nWord=8|RX=[AUX]
@@ -3285,7 +3285,7 @@
 36	kic	kic	AUX	_	_	_	_	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf.Bkg|nWord=35|RX=[AUX]
 37	cêː	cêː	VERB	_	_	36	comp:aux	_	GE=say|Gloss=say|nWord=36|RX=[VERB]
 38	minì	minì	PRON	_	_	37	comp:obj	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=37|RX=[PRON]
-39	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=38|RX=[NOUN]
+39	sarkiː	sarkiː	NOUN	_	_	40	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=38|RX=[NOUN]
 40	ya’	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=39|RX=[AUX]
 41	aikoː	àikaː	VERB	_	_	40	comp:aux	_	GE=send|Gloss=send.Dir|nWord=40|RX=[VERB]|wordform=aik
 42	mun	minì	PRON	_	_	41	comp:obj	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=41|RX=[PRON]
@@ -3300,7 +3300,7 @@
 # text_en = When the malam spoke like that to his wife, then the wife of the malam started to shed tears, she was crying, she was saying let them catch the malam, he has lied to me.
 # text_ortho = dà maalàm yac cèe mà màataatai hakà nan, sai màatam maalàm tah hwasà kuukaa, ta nàa ta ƙaaᵲaa, ta nàa cèewaa ’à kaamà maalàm, yaa mutà ƙaᵲyaa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	_	_	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	cèː	cèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=4|RX=[IDPART]
 5	mà	mà	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=5|RX=[ADP]
@@ -3461,7 +3461,7 @@
 8	ɗarmè	ɗarmèː	VERB	_	_	7	comp:aux	_	GE=[tie].[Ach]|Gloss=tie.Ach|nWord=8|RX=[VERB]
 9	maːlàmiː	maːlàm	NOUN	_	_	8	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=11|RX=[NOUN]
+11	sarkiː	sarkiː	NOUN	_	_	12	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=11|RX=[NOUN]
 12	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=12|RX=[AUX]
 13	taːshì	taːshì	VERB	_	_	12	comp:aux	_	GE=rise|Gloss=rise|nWord=13|RX=[VERB]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
@@ -3549,7 +3549,7 @@
 # text_en = As the chief told her that, she said : Is that what you say?
 # text_ortho = dà saᵲkii yac ceé mutà hakà nan, tac ceè : hakà nan kac ceè ?
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=2|RX=[NOUN]
+2	sarkiː	sarkiː	NOUN	_	_	3	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=2|RX=[NOUN]
 3	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	GE=say|Gloss=say|nWord=4|RX=[VERB]
 5	mutà	mutà	PRON	_	_	4	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=5|RX=[PRON]
@@ -3607,7 +3607,7 @@
 5	=tà	=tà	PRON	_	_	4	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=4|RX=[PRON]|wordform=-tà
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 7	kuma	kuma	PART	_	_	_	_	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
-8	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=7|RX=[NOUN]
+8	sarkiː	sarkiː	NOUN	_	_	9	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=7|RX=[NOUN]
 9	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
 10-11	tàhiyàːtai	_	_	_	_	_	_	_	_
 10	tàhiyàː	tàhiyàː	VERB	_	_	9	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=9|RX=[VERB]
@@ -3654,11 +3654,11 @@
 # text_en = When the rain season came, beans carried seeds.
 # text_ortho = dà dàamunaa tay yi, waakee yaa yi ɗiyaa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	dàːmunaː	dàːmunaː	NOUN	_	_	_	_	_	GE=[wet_season].[Fem]|Gloss=wet_season.Fem|nWord=2|RX=[NOUN]
+2	dàːmunaː	dàːmunaː	NOUN	_	_	3	subj	_	GE=[wet_season].[Fem]|Gloss=wet_season.Fem|nWord=2|RX=[NOUN]
 3	tay	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	waːkeː	waːkeː	NOUN	_	_	_	_	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=6|RX=[NOUN]
+6	waːkeː	waːkeː	NOUN	_	_	7	subj	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=6|RX=[NOUN]
 7	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	ɗiyaː	ɗiyaː	NOUN	_	_	8	comp:pred	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=9|RX=[NOUN]
@@ -3672,7 +3672,7 @@
 # text_en = When beans produced seeds, the chief's wife picked some green beans. ## Unripe beans in the pods, that's green beans.
 # text_ortho = dà waakee yay yi ɗiyaa, sai màatas saᵲkii taɗ ɗèebi jìmɓiᵲii, ɗanyen waakee mài kwàlhwaa, šii ’aj jìmɓiᵲii.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	waːkeː	waːkeː	NOUN	_	_	_	_	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=2|RX=[NOUN]
+2	waːkeː	waːkeː	NOUN	_	_	3	subj	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=2|RX=[NOUN]
 3	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5	ɗiyaː	ɗiyaː	NOUN	_	_	4	comp:pred	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=5|RX=[NOUN]
@@ -3734,7 +3734,7 @@
 14	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=15|RX=[ADV]
 16	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=16|RX=[SCONJ]
-17	raːniː	raːniː	NOUN	_	_	_	_	_	GE=[dry_season].[Masc]|Gloss=dry_season.Masc|nWord=17|RX=[NOUN]
+17	raːniː	raːniː	NOUN	_	_	18	subj	_	GE=[dry_season].[Masc]|Gloss=dry_season.Masc|nWord=17|RX=[NOUN]
 18	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
 20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
@@ -3788,7 +3788,7 @@
 # text_ortho = sai dà saᵲkii yaz zoo wajentà, ɗaakìntà baà koowaa kusa, sai taɗ ɗaukoo jìmɓiᵲii, sai tab baà saᵲkii.
 1	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
 2	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=2|RX=[SCONJ]
-3	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=3|RX=[NOUN]
+3	sarkiː	sarkiː	NOUN	_	_	4	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=3|RX=[NOUN]
 4	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=4|RX=[AUX]
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	GE=come|Gloss=come|nWord=5|RX=[VERB]
 6-7	wajentà	_	_	_	_	_	_	_	_
@@ -3830,7 +3830,7 @@
 8	nasar̃àː	nasar̃àː	NOUN	_	_	_	_	_	GE=[luck/success].[Fem]|Gloss=luck/success.Fem|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	gàː	gàː	PredPART	_	_	_	_	_	GE=here_is|Gloss=here_is|nWord=10|RX=[PREDPART]
-11	jìmɓiriː	jìmɓiriː	NOUN	_	_	_	_	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=11|RX=[NOUN]
+11	jìmɓiriː	jìmɓiriː	NOUN	_	_	12	subj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=11|RX=[NOUN]
 12	nis	nik	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=12|RX=[AUX]
 13	saːmoː	saːmùː	VERB	_	_	12	comp:aux	_	GE=get|Gloss=get.Dir|nWord=13|RX=[VERB]|wordform=saːm
 14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
@@ -3842,7 +3842,7 @@
 # text = sarkiː ya’ àmshi jìmɓiriː, yac ci jìmɓiriː, yaw wankè hannuwàːnai, yak koːmàː zaurèː, can wurin hwàːdàːwaː.
 # text_en = The chief took the green beans, he ate the green beans, he washed his hands, he went back to the entrance hut where the courtiers were.
 # text_ortho = saᵲkii ya’ ’àmši jìmɓiᵲii, yac ci jìmɓiᵲii, yaw wankè hannuwàanai, yak koomàa zauᵲèe, can wuᵲin hwàadàawaa.
-1	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
+1	sarkiː	sarkiː	NOUN	_	_	2	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
 2	ya’	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	àmshi	àmsaː	VERB	_	_	2	comp:aux	_	GE=answer/take|Gloss=answer/take|nWord=3|RX=[VERB]
 4	jìmɓiriː	jìmɓiriː	NOUN	_	_	3	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=4|RX=[NOUN]
@@ -3905,7 +3905,7 @@
 # text_en = When the chief went to the entrance hut, while talking with the courtiers, he said to the courtiers that he, today, had eaten fresh green beans.
 # text_ortho = dà saᵲkii yaz zoo zauᵲèe, ’a nàa s’akah hiira, dà šii dà hwàadàawaa, sai yac ceè mà hwàadàawaa, ši yaù yaa ci jìmɓiᵲii, na ɗanyen waakee.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=2|RX=[NOUN]
+2	sarkiː	sarkiː	NOUN	_	_	3	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=2|RX=[NOUN]
 3	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	zaurèː	zaurèː	NOUN	_	_	4	comp:obj	_	GE=[entrance_hut].[Masc]|Gloss=entrance_hut.Masc|nWord=5|RX=[NOUN]
@@ -4022,7 +4022,7 @@
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	GE=say|Gloss=say|nWord=9|RX=[VERB]
 10	mutà	mutà	PRON	_	_	9	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=10|RX=[PRON]
 11	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
+12	sarkiː	sarkiː	NOUN	_	_	13	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
 13	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=13|RX=[AUX]
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	GE=say|Gloss=say|nWord=14|RX=[VERB]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
@@ -4115,7 +4115,7 @@
 6	mà	mà	ADP	_	_	5	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=6|RX=[ADP]
 7	sarkiː	sarkiː	NOUN	_	_	6	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	sarkiː	sarkiː	NOUN	_	_	_	_	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=9|RX=[NOUN]
+9	sarkiː	sarkiː	NOUN	_	_	10	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=9|RX=[NOUN]
 10	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 11	taːshì	taːshì	VERB	_	_	10	comp:aux	_	GE=rise|Gloss=rise|nWord=11|RX=[VERB]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
