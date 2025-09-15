@@ -614,27 +614,26 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 23000, 24000
-# text = im màccè ta nàː dà mijìː , in yam mutù , bâːta yîn wani har̃ tà mutù .
+# text = im màccè tanàː dà mijìː , in yam mutù , bâːta yîn wani har̃ tà mutù .
 # text_en = If the female has a male, if he dies, she does not get another until she dies.
 # text_ortho = ’im màccè ta nàa dà mijìi, ’in yam mutù, baà ta yiǹ wani hat tà mutù.
-1	im	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	màccè	màccè	NOUN	_	_	_	_	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=2|RX=[NOUN]
-3	ta	ta	PRON	_	_	4	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=3|RX=[PRON]
-4	nàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[PredPART]
-5	dà	dà	ADP	_	_	4	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
-6	mijìː	mijìː	NOUN	_	_	5	comp:obj	_	GE=husband/male|Gloss=husband/male|nWord=5|RX=[NOUN]
-7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-8	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=7|RX=[SCONJ]
-9	yam	yak	AUX	_	_	8	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
-10	mutù	mutù	VERB	_	_	9	comp:aux	_	GE=die|Gloss=die|nWord=9|RX=[VERB]
-11	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-12	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=11|RX=[AUX]
-13	yîn	yi	VERB	_	Definite=Cons	12	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=yî
-14	wani	wani	DET	_	PronType=Spec	13	comp:pred	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=13|RX=[DET]
-15	har̃	har̃	SCONJ	_	_	13	mod	_	GE=until|Gloss=until|nWord=14|RX=[SCONJ]
-16	tà	tà	AUX	_	_	15	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
-17	mutù	mutù	VERB	_	_	16	comp:aux	_	GE=die|Gloss=die|nWord=16|RX=[VERB]
-18	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
+1	im	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	màccè	màccè	NOUN	_	_	3	subj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=2|RX=[NOUN]
+3	tanàː	tanàː	AUX	_	_	1	comp:obj	_	Gloss=3Fem.Pred/Loc|nWord=3
+4	dà	dà	ADP	_	_	3	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
+5	mijìː	mijìː	NOUN	_	_	4	comp:obj	_	GE=husband/male|Gloss=husband/male|nWord=5|RX=[NOUN]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=7|RX=[SCONJ]
+8	yam	yak	AUX	_	_	7	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=8|RX=[AUX]
+9	mutù	mutù	VERB	_	_	8	comp:aux	_	GE=die|Gloss=die|nWord=9|RX=[VERB]
+10	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=11|RX=[AUX]
+12	yîn	yi	VERB	_	Definite=Cons	11	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=yî
+13	wani	wani	DET	_	PronType=Spec	12	comp:pred	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=13|RX=[DET]
+14	har̃	har̃	SCONJ	_	_	12	mod	_	GE=until|Gloss=until|nWord=14|RX=[SCONJ]
+15	tà	tà	AUX	_	_	14	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
+16	mutù	mutù	VERB	_	_	15	comp:aux	_	GE=die|Gloss=die|nWord=16|RX=[VERB]
+17	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_025-025
 # speaker_id = *

@@ -411,7 +411,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 12000, 13000
-# text = kullun a nàː nan zaman duːniyàː, yaːrinyàː ta nàː wurim bàiwaː, tanàː baː tà madar̃aː, kuma tanàː rèːnontà.
+# text = kullun a nàː nan zaman duːniyàː , yaːrinyàː tanàː wurim bàiwaː , tanàː baː ta madar̃aː , kuma tanàː rèːnontà .
 # text_en = Time went by, the girl was with the slave, she gave her cow's milk, she educated her.
 # text_ortho = kullun ’a nàa nan zaman duuniyàa, yaaᵲinyàa ta nàa wuᵲim bàiwaa, ta nàa baa tà madaraa, kuma ta nàa ᵲèenontà.
 1	kullun	kullun	ADV	_	_	_	_	_	GE=always|Gloss=always|nWord=1|RX=[ADV]
@@ -422,22 +422,21 @@
 6	duːniyàː	duːniyàː	NOUN	_	_	5	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaːrinyàː	yaːrinyàː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
-9	ta	ta	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
-10	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=10|RX=[AUX]
-11	wurim	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
-12	bàiwaː	bàiwaː	NOUN	_	_	11	mod	_	GE=[slave].[Fem]|Gloss=slave.Fem|nWord=12|RX=[NOUN]
-13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=14|RX=[AUX]
-15	baː	baː	VERB	_	_	14	comp:aux	_	GE=give|Gloss=give|nWord=15|RX=[VERB]
-16	ta	ta	PRON	_	_	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-17	madar̃aː	madar̃aː	NOUN	_	_	_	_	_	GE=[cow_milk].[Fem]|Gloss=cow_milk.Fem|nWord=17|RX=[NOUN]
-18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-19	kuma	kuma	PART	_	_	20	discourse	_	GE=also|Gloss=also|nWord=19|RX=[ADV]
-20	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=20|RX=[AUX]
-21-22	rèːnontà	_	_	_	_	_	_	_	_
-21	rèːnon	rèːnoː	VERB	_	Definite=Cons	20	comp:aux	_	GE=[take_care].[Nmlz].[Masc]|Gloss=take_care.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=rèːno
-22	=tà	=tà	PRON	_	_	21	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=21|RX=[PRON]|wordform=-tà
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
+9	tanàː	tanàː	AUX	_	_	_	_	_	Gloss=3Fem.Pred/Loc
+10	wurim	wuriː	NOUN	_	Definite=Cons	9	comp:pred	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
+11	bàiwaː	bàiwaː	NOUN	_	_	10	mod	_	GE=[slave].[Fem]|Gloss=slave.Fem|nWord=12|RX=[NOUN]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+13	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=14|RX=[AUX]
+14	baː	baː	VERB	_	_	13	comp:aux	_	GE=give|Gloss=give|nWord=15|RX=[VERB]
+15	ta	ta	PRON	_	_	14	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
+16	madar̃aː	madar̃aː	NOUN	_	_	_	_	_	GE=[cow_milk].[Fem]|Gloss=cow_milk.Fem|nWord=17|RX=[NOUN]
+17	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+18	kuma	kuma	PART	_	_	19	discourse	_	GE=also|Gloss=also|nWord=19|RX=[ADV]
+19	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=20|RX=[AUX]
+20-21	rèːnontà	_	_	_	_	_	_	_	_
+20	rèːnon	rèːnoː	VERB	_	Definite=Cons	19	comp:aux	_	GE=[take_care].[Nmlz].[Masc]|Gloss=take_care.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=rèːno
+21	=tà	=tà	PRON	_	_	20	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=21|RX=[PRON]|wordform=-tà
+22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_013-013
 # speaker_id = *
@@ -3715,7 +3714,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 130000, 131000
-# text = dà ta’ ajèː yab buːshèː ## dà yab buːshèː, sai taƙ ƙyaːlèː ## sai dà raːniː yay yi, koːmiː yaː buːshèː, bâː indà ɗanyen hakì: shi kè, bàleː ɗanyen waːkeː ## sai taɗ ɗaukoː jìmɓirintà, sai taj jiƙàː cikin ruwaː ## dà yaj jìƙa yaz zan kàmaɗ ɗanyeː, sai tad dahwàː.
+# text = dà ta’ ajèː yab buːshèː ## dà yab buːshèː , sai taƙ ƙyaːlèː ## sai dà raːniː yay yi , koːmiː yaː buːshèː , bâː indà ɗanyen hakì: shikè , bàleː ɗanyenn waːkeː ## sai taɗ ɗaukoː jìmɓirintà , sai taj jiƙàː cikin ruwaː ## dà yaj jìƙa yaz zama kàmaɗ ɗanyeː , sai tad dahwàː .
 # text_en = When she kept them, they dried. ## When they got dey, she left them alone. ## Then when the dry season came, there was no green grass anywhere, much less unripe beans. ## Theṅ she took the green beans, she soaked them in water. ## After they had soaked, they became like unripe, then she boiled them.
 # text_ortho = dà ta’ ’ajèe yab buušèe, dà yab buušèe, sai taƙ ƙyaalèe, sai dà ᵲaanii yay yi, koomii yaa buušèe, baà ’indà ɗanyen hakìi ši kè, bàlee ɗanyen waakee, sai taɗ ɗaukoo jìmɓiᵲintà, sai taj jiƙàa cikin ᵲuwaa, dà yaj jìƙa yaz zan kàmaɗ ɗanyee, sai tad dahwàa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -3743,41 +3742,40 @@
 23	buːshèː	buːshèː	VERB	_	_	22	comp:aux	_	GE=dry|Gloss=dry|nWord=23|RX=[BERB]
 24	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=25|RX=[PREDPART]
-26	indà	indà	ADV	_	_	_	_	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
-27	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	_	_	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
-28	hakì:	hakì:	NOUN	_	_	_	_	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
-29	shi	shi	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
-30	kè	kè	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=30|RX=[AUX]
-31	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-32	bàleː	bàleː	SCONJ	_	_	_	_	_	GE=much_less|Gloss=much_less|nWord=32|RX=[SCONJ]
-33	ɗanyenn	ɗanyeː	ADJ	_	Definite=Cons	34	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=33|RX=[ADJ]|wordform=ɗanyen
-34	waːkeː	waːkeː	NOUN	_	_	_	_	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=34|RX=[NOUN]
-35	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-36	sai	sai	ADV	_	_	37	mod	_	GE=then|Gloss=then|nWord=36|RX=[ADV]
-37	taɗ	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=37|RX=[AUX]
-38	ɗaukoː	ɗaukaː	VERB	_	_	37	comp:aux	_	GE=take|Gloss=take.Dir|nWord=38|RX=[VERB]|wordform=ɗauk
-39-40	jìmɓirintà	_	_	_	_	_	_	_	_
-39	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Cons	38	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=39|RX=[NOUN]|wordform=jìmɓiri
-40	=tà	=tà	PRON	_	_	39	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=39|RX=[PRON]|wordform=-tà
-41	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
-42	sai	sai	ADV	_	_	43	mod	_	GE=then|Gloss=then|nWord=41|RX=[ADV]
-43	taj	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=42|RX=[AUX]
-44	jiƙàː	jiƙàː	VERB	_	_	43	comp:aux	_	GE=soak|Gloss=soak|nWord=43|RX=[VERB]
-45	cikin	cikin	ADP	_	_	44	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=44|RX=[ADP]
-46	ruwaː	ruwaː	NOUN	_	_	45	comp:obj	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=45|RX=[NOUN]
-47	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
-48	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=47|RX=[SCONJ]
-49	yaj	yak	AUX	_	_	48	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
-50	jìƙa	jìƙa	VERB	_	_	49	comp:aux	_	GE=be_soaked|Gloss=be_soaked|nWord=49|RX=[VERB]
-51	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=50|RX=[AUX]
-52	zama	zama	VERB	_	_	51	comp:aux	_	GE=become|Gloss=become|nWord=51|RX=[VERB]
-53	kàmaɗ	kàmat	ADP	_	_	52	comp:obl	_	GE=like|Gloss=like|nWord=52|RX=[ADP]
-54	ɗanyeː	ɗanyeː	ADJ	_	_	_	_	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=53|RX=[ADJ]
-55	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
-56	sai	sai	ADV	_	_	57	mod	_	GE=then|Gloss=then|nWord=55|RX=[ADV]
-57	tad	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=56|RX=[AUX]
-58	dahwàː	dahwàː	VERB	_	_	57	comp:aux	_	GE=boil|Gloss=boil|nWord=57|RX=[VERB]
-59	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=58|RX=[PUNCT]
+26	indà	indà	ADV	_	_	25	comp:pred	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
+27	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	28	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
+28	hakì:	hakì:	NOUN	_	_	29	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
+29	shikè	shikè	AUX	_	_	26	mod@relcl	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc.Bkg|nWord=29|RX=[PRON]
+30	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+31	bàleː	bàleː	SCONJ	_	_	_	_	_	GE=much_less|Gloss=much_less|nWord=32|RX=[SCONJ]
+32	ɗanyenn	ɗanyeː	ADJ	_	Definite=Cons	33	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=33|RX=[ADJ]|wordform=ɗanyen
+33	waːkeː	waːkeː	NOUN	_	_	_	_	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=34|RX=[NOUN]
+34	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
+35	sai	sai	ADV	_	_	36	mod	_	GE=then|Gloss=then|nWord=36|RX=[ADV]
+36	taɗ	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=37|RX=[AUX]
+37	ɗaukoː	ɗaukaː	VERB	_	_	36	comp:aux	_	GE=take|Gloss=take.Dir|nWord=38|RX=[VERB]|wordform=ɗauk
+38-39	jìmɓirintà	_	_	_	_	_	_	_	_
+38	jìmɓirin	jìmɓiriː	NOUN	_	Definite=Cons	37	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=39|RX=[NOUN]|wordform=jìmɓiri
+39	=tà	=tà	PRON	_	_	38	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=39|RX=[PRON]|wordform=-tà
+40	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
+41	sai	sai	ADV	_	_	42	mod	_	GE=then|Gloss=then|nWord=41|RX=[ADV]
+42	taj	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=42|RX=[AUX]
+43	jiƙàː	jiƙàː	VERB	_	_	42	comp:aux	_	GE=soak|Gloss=soak|nWord=43|RX=[VERB]
+44	cikin	cikin	ADP	_	_	43	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=44|RX=[ADP]
+45	ruwaː	ruwaː	NOUN	_	_	44	comp:obj	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=45|RX=[NOUN]
+46	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
+47	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=47|RX=[SCONJ]
+48	yaj	yak	AUX	_	_	47	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
+49	jìƙa	jìƙa	VERB	_	_	48	comp:aux	_	GE=be_soaked|Gloss=be_soaked|nWord=49|RX=[VERB]
+50	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=50|RX=[AUX]
+51	zama	zama	VERB	_	_	50	comp:aux	_	GE=become|Gloss=become|nWord=51|RX=[VERB]
+52	kàmaɗ	kàmat	ADP	_	_	51	comp:obl	_	GE=like|Gloss=like|nWord=52|RX=[ADP]
+53	ɗanyeː	ɗanyeː	ADJ	_	_	_	_	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=53|RX=[ADJ]
+54	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
+55	sai	sai	ADV	_	_	56	mod	_	GE=then|Gloss=then|nWord=55|RX=[ADV]
+56	tad	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=56|RX=[AUX]
+57	dahwàː	dahwàː	VERB	_	_	56	comp:aux	_	GE=boil|Gloss=boil|nWord=57|RX=[VERB]
+58	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=58|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_126-126
 # speaker_id = *
@@ -3796,11 +3794,11 @@
 7	=tà	=tà	PRON	_	_	6	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=6|RX=[PRON]|wordform=-tà
 8	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 9-10	ɗaːkìntà	_	_	_	_	_	_	_	_
-9	ɗaːkì:n	ɗaːkì:	NOUN	_	Definite=Cons	_	_	_	GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=8|RX=[NOUN]|wordform=ɗaːkì:
+9	ɗaːkì:n	ɗaːkì:	NOUN	_	Definite=Cons	11	dislocated@T	_	GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=8|RX=[NOUN]|wordform=ɗaːkì:
 10	=tà	=tà	PRON	_	_	9	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=8|RX=[PRON]|wordform=-tà
 11	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=9|RX=[PREDPART]
 12	koːwaː	koːwaː	PRON	_	_	11	subj	_	GE=everyone|Gloss=everyone|nWord=10|RX=[PRON]
-13	kusa	kusa	ADV	_	_	_	_	_	GE=near|Gloss=near|nWord=11|RX=[ADV]
+13	kusa	kusa	ADV	_	_	11	comp:pred	_	GE=near|Gloss=near|nWord=11|RX=[ADV]
 14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 15	sai	sai	ADV	_	_	16	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
 16	taɗ	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=14|RX=[AUX]

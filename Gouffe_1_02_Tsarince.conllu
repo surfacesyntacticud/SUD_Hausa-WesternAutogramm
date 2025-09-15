@@ -684,35 +684,34 @@
 # text_en = Women and girls are dancing.
 # text_ortho = maataa nàa ᵲawaa suu dà ’’yam maataa.
 1	maːtaː	maːtaː	NOUN	_	_	2	subj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=1|RX=[NOUN]
-2	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=2|RX=[AUX]
-3	rawaː	rawaː	NOUN	_	_	_	_	_	GE=[dance].[Fem]|Gloss=dance.Fem|nWord=3|RX=[NOUN]
-4	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
-5	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
-6	’yam	’yan	ADJ	_	_	_	_	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=6|RX=[ADJ]
-7	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=7|RX=[NOUN]
+2	nàː	nàː	AUX	_	_	0	root	_	GE=[Imp]|Gloss=Imp|nWord=2|RX=[AUX]
+3	rawaː	rawaː	NOUN	_	_	2	comp:aux	_	GE=[dance].[Fem]|Gloss=dance.Fem|nWord=3|RX=[NOUN]
+4	suː	suː	PRON	_	_	2	dislocated@subj	_	GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
+5	dà	dà	CCONJ	_	_	6	cc	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
+6	’yam	’yan	ADJ	_	_	4	conj:coord	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=6|RX=[ADJ]
+7	maːtaː	maːtaː	NOUN	_	_	6	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=7|RX=[NOUN]
 8	.	.	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 15000, 16000
-# text = sàmàːriː su nàː ta baːdà kuɗiː , kuma sunàː baːdà goːr̃ò dà turàːreː ##
+# text = sàmàːriː sunàː ta baːdà kuɗiː , kuma sunàː baːdà goːr̃ò dà turàːreː ##
 # text_en = Boys are giving out money, they are giving kola and perfume.
 # text_ortho = sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee.
-1	sàmàːriː	sàmàːriː	NOUN	_	_	_	_	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=9|RX=[NOUN]
-2	su	su	PRON	_	_	_	_	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=10|RX=[PRON]
-3	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=11|RX=[AUX]
-4	ta	ta	ADP	_	_	_	_	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
-5	baːdà	baːdàː	VERB	_	_	_	_	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
-6	kuɗiː	kuɗiː	NOUN	_	_	5	comp:obj	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=14|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-8	kuma	kuma	PART	_	_	9	discourse	_	GE=also|Gloss=also|nWord=16|RX=[ADV]
-9	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=17|RX=[AUX]
-10	baːdà	baːdàː	VERB	_	_	9	comp:aux	_	GE=give|Gloss=give|nWord=18|RX=[VERB]
-11	goːr̃ò	goːr̃ò	NOUN	_	_	10	comp:obj	_	GE=[kola].[Masc]|Gloss=kola.Masc|nWord=19|RX=[NOUN]
-12	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=20|RX=[CCONJ]
-13	turàːreː	turàːreː	NOUN	_	_	_	_	_	GE=[perfume].[Masc]|Gloss=perfume.Masc|nWord=21|RX=[NOUN]
-14	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
+1	sàmàːriː	sàmàːriː	NOUN	_	_	2	subj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=9|RX=[NOUN]
+2	sunàː	sunàː	AUX	_	_	0	root	_	GE=[Imp]|Gloss=3Plur.Imp|nWord=11|RX=[AUX]
+3	ta	ta	ADP	_	_	_	_	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
+4	baːdà	baːdàː	VERB	_	_	_	_	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
+5	kuɗiː	kuɗiː	NOUN	_	_	4	comp:obj	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=14|RX=[NOUN]
+6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=16|RX=[ADV]
+8	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=17|RX=[AUX]
+9	baːdà	baːdàː	VERB	_	_	8	comp:aux	_	GE=give|Gloss=give|nWord=18|RX=[VERB]
+10	goːr̃ò	goːr̃ò	NOUN	_	_	9	comp:obj	_	GE=[kola].[Masc]|Gloss=kola.Masc|nWord=19|RX=[NOUN]
+11	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=20|RX=[CCONJ]
+12	turàːreː	turàːreː	NOUN	_	_	_	_	_	GE=[perfume].[Masc]|Gloss=perfume.Masc|nWord=21|RX=[NOUN]
+13	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split1
 # speaker_id = *
@@ -732,20 +731,22 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 15000, 16000
-# text = su nàː mà sàmàːriː kiràːrìː su nàː mà ’yam maːtaː ##
+# text = sunàː mà sàmàːriː kiràːrìː sunàː mà ’yam maːtaː .
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
-1	su	su	PRON	_	_	_	_	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=29|RX=[PRON]
-2	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=30|RX=[AUX]
-3	mà	mà	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
+1-2	sunàː	_	_	_	_	_	_	_	_
+1	sunàː	sunàː	AUX	_	_	0	root	_	Gloss=3Pl.Imp
+2	yi	yi	AUX	_	_	1	comp:aux	_	Gloss=3Pl.Imp
+3	mà	mà	ADP	_	_	2	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
 4	sàmàːriː	sàmàːriː	NOUN	_	_	3	comp:obj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=32|RX=[NOUN]
-5	kiràːrìː	kiràːrìː	NOUN	_	_	_	_	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
-6	su	su	PRON	_	_	_	_	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=34|RX=[PRON]
-7	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=35|RX=[AUX]
-8	mà	mà	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
-9	’yam	’yan	ADJ	_	_	10	mod	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
-10	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
-11	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
+5	kiràːrìː	kiràːrìː	NOUN	_	_	2	comp:obj@T	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
+6-7	sunàː	_	_	_	_	_	_	_	_
+6	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	Gloss=3.Pl.Imp|nWord=34
+7	yi	yi	AUX	_	_	6	comp:aux	_	Gloss=3.Pl.Imp|nWord=34
+8	mà	mà	ADP	_	_	7	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
+9	’yam	’yan	ADJ	_	_	8	comp:obj	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
+10	maːtaː	maːtaː	NOUN	_	_	9	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
+11	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split2
 # speaker_id = *
@@ -2284,7 +2285,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 60000, 61000
-# text = in yash shìga sànnu, sai shì diːbàː dà kyâu, shì ga indà bùdurwaː ta kè.
+# text = in yash shìga sànnu , sai shì diːbàː dà kyâu , shì ga indà bùdurwaː takè .
 # text_en = When he has entered quietly, the looks well to see where the girl is.
 # text_ortho = ’in yaš šìga sànnu, sai šì diibàa dà kyaù, šì ga ’indà bùduᵲwaa ta kè.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2299,38 +2300,36 @@
 10	kyâu	kyâu	NOUN	_	_	9	comp:obj	_	GE=[goodness/beauty].[Masc]|Gloss=goodness/beauty.Masc|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
-13	ganiː	ganiː	VERB	_	_	12	comp:aux	_	GE=see|Gloss=see|nWord=13|RX=[VERB]
-14	indà	indà	ADV	_	_	_	_	_	GE=where|Gloss=where|nWord=14|RX=[ADV]
-15	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=15|RX=[NOUN]
-16	ta	ta	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-17	kè	kè	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=17|RX=[AUX]
-18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
+13	ga	ganiː	VERB	_	_	12	comp:aux	_	GE=see|Gloss=see|nWord=13|RX=[VERB]
+14	indà	indà	ADV	_	_	13	comp:obj	_	GE=where|Gloss=where|nWord=14|RX=[ADV]
+15	bùdurwaː	bùdurwaː	NOUN	_	_	16	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=15|RX=[NOUN]
+16	takè	takè	AUX	_	_	14	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg
+17	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_63-63
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 61000, 62000
-# text = in yag ga indà bùdurwaː ta kè, sai shì taːdàː ta, shì taːdàː ta zàmne.
+# text = in yag ga indà bùdurwaː takè , sai shì taːdàː ta , shì taːdàː ta zamnàː .
 # text_en = When he has seen where the girl is, he wakes her up, he wakes her up right there.
 # text_ortho = ’in yag ga ’indà bùduᵲwaa ta kè, sai šì taadàa tà, šì taadàa ta zàmne.
-1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yag	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
-3	ganiː	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
-4	indà	indà	ADV	_	_	_	_	_	GE=where|Gloss=where|nWord=4|RX=[ADV]
-5	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=5|RX=[NOUN]
-6	ta	ta	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=6|RX=[PRON]
-7	kè	kè	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=7|RX=[AUX]
-8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
-10	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
-11	taːdàː	taːdàː	VERB	_	_	10	comp:aux	_	GE=wake_up|Gloss=wake_up|nWord=11|RX=[VERB]
-12	ta	ta	PRON	_	_	11	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=12|RX=[PRON]
-13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
-15	taːdàː	taːdàː	VERB	_	_	14	comp:aux	_	GE=wake_up|Gloss=wake_up|nWord=15|RX=[VERB]
-16	ta	ta	PRON	_	_	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-17	zamnàː	zamnàː	VERB	_	_	_	_	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=17|RX=[VERB]
-18	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
+3	ga	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
+4	indà	indà	ADV	_	_	3	comp:obj	_	GE=where|Gloss=where|nWord=4|RX=[ADV]
+5	bùdurwaː	bùdurwaː	NOUN	_	_	6	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=5|RX=[NOUN]
+6	takè	takè	AUX	_	_	4	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg|nWord=6
+7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
+9	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
+10	taːdàː	taːdàː	VERB	_	_	9	comp:aux	_	GE=wake_up|Gloss=wake_up|nWord=11|RX=[VERB]
+11	ta	ta	PRON	_	_	10	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=12|RX=[PRON]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+13	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
+14	taːdàː	taːdàː	VERB	_	_	13	comp:aux	_	GE=wake_up|Gloss=wake_up|nWord=15|RX=[VERB]
+15	ta	ta	PRON	_	_	14	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
+16	zamnàː	zamnàː	VERB	_	_	_	_	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=17|RX=[VERB]
+17	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_64-64
 # speaker_id = *

@@ -54,7 +54,7 @@
 2	màːtaw	màːtaː	NOUN	_	Definite=Cons	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
 3	wandà	wandà	PRON	_	PronType=Rel	2	mod	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
 4	bâː	bâː	PredPART	_	_	3	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=4|RX=[PREDPART]
-5	doːkìː	doːkìː	NOUN	_	_	_	_	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
+5	doːkìː	doːkìː	NOUN	_	_	4	comp:pred	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=8|RX=[AUX]
@@ -111,10 +111,10 @@
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	_	_	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
 2-3	mijìntà	_	_	_	_	_	_	_	_
-2	mijìn	mijìː	NOUN	_	Definite=Cons	_	_	_	GE=husband/male|Gloss=husband/male|nWord=2|RX=[NOUN]|wordform=mijì
+2	mijìn	mijìː	NOUN	_	Definite=Cons	4	subj	_	GE=husband/male|Gloss=husband/male|nWord=2|RX=[NOUN]|wordform=mijì
 3	=tà	=tà	PRON	_	_	2	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=2|RX=[PRON]|wordform=-tà
 4	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
-5	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
+5	nan	nan	ADV	_	_	4	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 7	in	in	SCONJ	_	_	16	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 8	tag	tak	AUX	_	_	7	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
@@ -1229,7 +1229,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 40000, 41000
-# text = yaz zoː yay yi zamaːnai cikin gidaːnai, kàmab bài zoː koː’ìnaː ba, ham màcceːnai taz zoː dàw wurim bìkiː, ta’ iskèː shi gidaː, bàtà san shiː ba nèː, yaz zoː wurim bìkiː, shi nàː dà doːkìː, yak kìreː tà, yay yi ta mutà tuːsàː.
+# text = yaz zoː yay yi zamaːnai cikin gidaːnai , kàmab bài zoː koː’ìnaː ba , ham màcceːnai taz zoː dàw wurim bìkiː , ta’ iskèː shi gidaː , bàtà san shiː ba neː , yaz zoː wurim bìkiː shinàː dà doːkìː , yak kìreː ta , yay yi ta mutà tuːsàː .
 # text_en = He went to settle in his house as if he had not gone anywhere, until his wive came back from the party and found him at home without knowing it was him who had gone to the party with a horse, had called her, and had farted for her.
 # text_ortho = yaz zoo yay yi zamaanai cikin gidaanai, kàmab bài zoo koo ’ìnaa ba, ham màcceenai taz zoo, dàw wuᵲim bìkii, ta’ ’iskèe ši gidaa, bà tà san šii ba nèe, yaz zoo wuᵲim bìkii, ši nàa dà dookìː, yak kìᵲee tà, yay yi ta mutà tuusàa.
 1	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
@@ -1275,21 +1275,20 @@
 38	zoː	zoː	VERB	_	_	37	comp:aux	_	GE=come|Gloss=come|nWord=35|RX=[VERB]
 39	wurim	wuriː	NOUN	_	Definite=Cons	38	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=36|RX=[NOUN]|wordform=wuri
 40	bìkiː	bìkiː	NOUN	_	_	39	mod	_	GE=festivity|Gloss=festivity|nWord=37|RX=[NOUN]
-41	shi	shi	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=39|RX=[PRON]
-42	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=40|RX=[AUX]
-43	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=41|RX=[ADP]
-44	doːkìː	doːkìː	NOUN	_	_	43	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=42|RX=[NOUN]
-45	,	,	PUNCT	_	_	46	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=43|RX=[PUNCT]
-46	yak	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=44|RX=[AUX]
-47	kìreː	kìraː	VERB	_	_	46	comp:aux	_	GE=call|Gloss=call|nWord=45|RX=[VERB]
-48	ta	ta	PRON	_	_	47	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=46|RX=[PRON]
-49	,	,	PUNCT	_	_	50	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
-50	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
-51	yi	yi	VERB	_	_	50	comp:aux	_	GE=do|Gloss=do|nWord=49|RX=[VERB]
-52	ta	ta	ADP	_	_	51	comp:pred	_	GE=via|Gloss=via|nWord=50|RX=[ADP]
-53	mutà	mutà	PRON	_	_	52	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
-54	tuːsàː	tuːsàː	NOUN	_	_	_	_	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
-55	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=53|RX=[PUNCT]
+41	shinàː	shinàː	PRON	_	_	_	_	_	Gloss=3Masc.Pred/Loc
+42	dà	dà	ADP	_	_	41	comp:pred	_	GE=with|Gloss=with|nWord=41|RX=[ADP]
+43	doːkìː	doːkìː	NOUN	_	_	42	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=42|RX=[NOUN]
+44	,	,	PUNCT	_	_	45	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=43|RX=[PUNCT]
+45	yak	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=44|RX=[AUX]
+46	kìreː	kìraː	VERB	_	_	45	comp:aux	_	GE=call|Gloss=call|nWord=45|RX=[VERB]
+47	ta	ta	PRON	_	_	46	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=46|RX=[PRON]
+48	,	,	PUNCT	_	_	49	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
+49	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=48|RX=[AUX]
+50	yi	yi	VERB	_	_	49	comp:aux	_	GE=do|Gloss=do|nWord=49|RX=[VERB]
+51	ta	ta	ADP	_	_	50	comp:pred	_	GE=via|Gloss=via|nWord=50|RX=[ADP]
+52	mutà	mutà	PRON	_	_	51	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
+53	tuːsàː	tuːsàː	NOUN	_	_	_	_	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
+54	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=53|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_42-43
 # speaker_id = *
