@@ -177,7 +177,7 @@
 21	ba	ba	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=21|RX=[PART]
 22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	wani	wani	DET	_	PronType=Spec	25	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
-24	kâu	kâu	TopPART	_	_	23	mod@top	_	GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
+24	kâu	kâu	TopPART	_	_	23	discourse@top	_	GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
 25	kà	kà	AUX	_	_	12	parataxis	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=25|RX=[AUX]
 26	ci	ci	VERB	_	_	25	comp:aux	_	GE=eat|Gloss=eat|nWord=26|RX=[VERB]
 27	dà	dà	ADP	_	_	26	comp:obl	_	GE=with|Gloss=with|nWord=27|RX=[ADP]
@@ -262,7 +262,7 @@
 # text_en = Some, you rub on the penis.
 # text_ortho = wani kaù ’à šaahwàa gà bùuᵲaa.
 1	wani	wani	DET	_	PronType=Spec	3	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
-2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
 4	shaːhwàː	shaːhwàː	VERB	_	_	3	comp:aux	_	GE=rub|Gloss=rub|nWord=4|RX=[VERB]
 5	gà	gà	ADP	_	_	4	comp:obl	_	GE=at|Gloss=at|nWord=5|RX=[ADP]
@@ -362,7 +362,7 @@
 19	shìːriyàː	shìːriyàː	NOUN	_	_	18	comp:obj	_	GE=[fig_tree].[Fem]|Gloss=fig_tree.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	koː	koː	CCONJ	_	_	23	cc	_	GE=or|Gloss=or|nWord=21|RX=[CCONJ]
-22	kuma	kuma	TopPART	_	_	21	mod@top	_	GE=also|Gloss=also|nWord=22|RX=[TOPPART]
+22	kuma	kuma	TopPART	_	_	21	discourse@top	_	GE=also|Gloss=also|nWord=22|RX=[TOPPART]
 23	shì	shì	AUX	_	_	16	conj:coord	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
 24	hwaːɗoː	hwaːɗi	VERB	_	_	23	comp:aux	_	GE=fall|Gloss=fall.Dir|nWord=24|RX=[VERB]|wordform=hwaːɗ
 25	ƙasà	ƙasà	ADV	_	_	24	conj:obl@G	_	GE=on_ground|Gloss=on_ground|nWord=25|RX=[ADV]
@@ -476,7 +476,7 @@
 14	mùntàleːtàː	mùntàleːtàː	X	_	_	13	mod	_	GE=[X]|Gloss=X|nWord=30|RX=[X]
 15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 16	shiː	shiː	PRON	_	_	18	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
-17	maː	maː	TopPART	_	_	16	mod@top	_	GE=self|Gloss=self|nWord=33|RX=[TOPPART]
+17	maː	maː	TopPART	_	_	16	discourse@top	_	GE=self|Gloss=self|nWord=33|RX=[TOPPART]
 18	mài	mài	PART	_	_	14	parataxis	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
 19	maruhiː	maruhiː	NOUN	_	_	18	comp:obj	_	GE=[cover].[Masc]|Gloss=cover.Masc|nWord=35|RX=[NOUN]
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
@@ -1714,7 +1714,7 @@
 # text_en = As for the bat, if it catches a branch, it holds it, it cannot let it go whatever pain it endures, unless you kill it.
 # text_ortho = ši kaù jeemaagèe, ’in yak kaamà ’iccèe, yaᵲ ᵲiƙèe, baà ši ’iyà sakìinai, koo mii wùyad dà yaš šaa, sai ’an kašèe ši.
 1	shi	shi	PRON	_	_	13	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	jeːmaːgèː	jeːmaːgèː	NOUN	_	_	1	conj:appos	_	GE=[bat].[Masc]|Gloss=bat.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1751,7 +1751,7 @@
 # text_en = As for the hedgehog, if it curls up into a ball, you cannot open it unless you kill it.
 # text_ortho = ’ita kaù biššiyaa, ’in tad dunƙùlee, baà ’a ’iyà buɗèe ta, sai ’an yankèe ta.
 1	ita	ita	PRON	_	_	9	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bishshiyaː	bishshiyaː	NOUN	_	_	1	conj:appos	_	GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1819,7 +1819,7 @@
 39	allàː	allàː	PROPN	_	_	_	_	_	GE=[God]|Gloss=God|nWord=37|RX=[PROPN]
 40	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 41	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=39|RX=[ADV]
-42	kâu	kâu	TopPART	_	_	41	mod@top	_	GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
+42	kâu	kâu	TopPART	_	_	41	discourse@top	_	GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
 43	mutuwàː	mutuwàː	NOUN	_	_	_	_	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=41|RX=[NOUN]
 44	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=42|RX=[PUNCT]
 
@@ -2328,7 +2328,7 @@
 # text_en = The groundnuts, nine too, you break the shells and keep the seeds.
 # text_ortho = ’ita maa ɗaa tarà, ’à ƙanƙàrè kwàlhwaa, ’à ’ajè ɗiyaǹ -
 1	ita	ita	PRON	_	_	6	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	maː	maː	TopPART	_	_	1	mod@top	_	GE=self|Gloss=self|nWord=2|RX=[TOPPART]
+2	maː	maː	TopPART	_	_	1	discourse@top	_	GE=self|Gloss=self|nWord=2|RX=[TOPPART]
 3	ɗaː	ɗaː	NOUN	_	_	1	conj:appos	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=3|RX=[NOUN]
 4	tar̃à	tar̃à	NUM	_	_	3	mod:num	_	GE=nine|Gloss=nine|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2354,7 +2354,7 @@
 4	ayaː	ayaː	NOUN	_	_	3	comp:obj	_	GE=[tiger_nut].[Fem]|Gloss=tiger_nut.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	ita	ita	PRON	_	_	8	dislocated@comp	_	GE=[3Fem]|Gloss=3Fem|nWord=6|RX=[PRON]
-7	maː	maː	TopPART	_	_	6	mod@top	_	GE=self|Gloss=self|nWord=7|RX=[TOPPART]
+7	maː	maː	TopPART	_	_	6	discourse@top	_	GE=self|Gloss=self|nWord=7|RX=[TOPPART]
 8	à	à	AUX	_	_	2	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ajèː	ajèː	VERB	_	_	8	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
@@ -2687,7 +2687,7 @@
 # text_en = But, apart from this, that medicine, when the man uses it on the woman, him, him the man, he does not go to bed during the day until he has finished that medicine.
 # text_ortho = ’àmmaa hwa ban dà hakà nan, šii waǹnam maagànii, lookàcin dà namijì kà maà màccè šii, šii namijìn, baà ši kwaanan ᵲaana sai yaa gamà waǹnam maagànii.
 1	àmmaː	àmmaː	CCONJ	_	_	23	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	hwa	hwa	TopPART	_	_	1	mod@top	_	GE=however|Gloss=however|nWord=2|RX=[TOPPART]
+2	hwa	hwa	TopPART	_	_	1	discourse@top	_	GE=however|Gloss=however|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	23	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -2792,7 +2792,7 @@
 # text = kuma bandà hakà nan , du' abuːbuwàn dà ankà sânyaː cikim maːgànîn , irìn wa’àndà akà cîː , mùtun bâːshi cînsù , loːkàcin dà shikà wânnam maːgànîn .
 # text_en = But apart from that, all the things that have been put inside the medicine, those that are used, the man does not eat them when he uses the medicine.
 # text_ortho = kuma ban dà hakà nan, du’ ’abuubuwàn dà ’ankà saǹyaa cikim maagàniǹ, ’iᵲìn wa’àndà ’a kà ciì, mùtun baà ši ciǹsù, lookàcin dà ši kà waǹnam maagàniǹ -
-1	kuma	kuma	TopPART	_	_	0	mod@top	_	GE=also|Gloss=also|nWord=1|RX=[TOPPART]
+1	kuma	kuma	TopPART	_	_	0	discourse@top	_	GE=also|Gloss=also|nWord=1|RX=[TOPPART]
 2	bandà	bandà	ADP	_	_	_	_	_	GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
 4	nan	nan	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
@@ -3326,7 +3326,7 @@
 # text_en = As soon as she has taken the medicine and it has gone into her body, her reason escapes her, she has no sense left except for what you do to her, or indeed except for God.
 # text_ortho = ’in dai taa rìgyaa taa ci maagàniǹ, hay yaa zoo cìkin cikìntà, ’ita kuma dùbaaràa taa kubcèe mutà, baà ta dà wata dùbaaràa, sai waddà kam mutà, sai kaù ta ’allàa.
 1	in	in	SCONJ	_	_	19	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TopPART	_	_	1	mod@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	3	comp:aux	_	GE=precece/have_already|Gloss=precece/have_already|nWord=4|RX=[VERB]
 5	taː	taː	AUX	_	_	4	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -3342,7 +3342,7 @@
 14	=tà	=tà	PRON	_	_	13	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=13|RX=[PRON]|wordform=-tà
 15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 16	ita	ita	PRON	_	_	19	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
-17	kuma	kuma	TopPART	_	_	16	mod@top	_	GE=also|Gloss=also|nWord=16|RX=[TOPPART]
+17	kuma	kuma	TopPART	_	_	16	discourse@top	_	GE=also|Gloss=also|nWord=16|RX=[TOPPART]
 18	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	16	conj:appos	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=17|RX=[NOUN]
 19	taː	taː	AUX	_	_	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=18|RX=[AUX]
 20	kubcèː	kubcèː	VERB	_	_	19	comp:aux	_	GE=drop|Gloss=drop|nWord=19|RX=[VERB]
@@ -3362,7 +3362,7 @@
 33	mutà	mutà	PRON	_	_	32	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
 34	,	,	PUNCT	_	_	35	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 35	sai	sai	ADP	_	_	23	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
-36	kâu	kâu	TopPART	_	_	35	mod@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
+36	kâu	kâu	TopPART	_	_	35	discourse@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
 37	ta	ta	ADP	_	_	35	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=34|RX=[PART]
 38	allàː	allàː	PROPN	_	_	37	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
 39	.	.	PUNCT	_	_	19	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
@@ -3693,7 +3693,7 @@
 # text_ortho = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa, sai ’à ɗeeboo na ƙanaanàa, ’à gamàa su dà na hannuwàa, ’à ’ajèe.
 1	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=2|RX=[PRON]
-3	maː	maː	TopPART	_	_	2	mod@top	_	GE=self|Gloss=self|nWord=3|RX=[TOPPART]
+3	maː	maː	TopPART	_	_	2	discourse@top	_	GE=self|Gloss=self|nWord=3|RX=[TOPPART]
 4	na	na	ADP	_	_	7	dislocated@top	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=4|RX=[PART]
 5	ƙahwaːhuwàː	ƙahwàː	NOUN	_	_	4	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -4176,7 +4176,7 @@
 # text_en = The water for washing his face, let him collect it inside the pot.
 # text_ortho = suu kuma ᵲuwan wankìn ’idòo šì wankàa su nan cikin kaskoo.
 1	suː	suː	PRON	_	_	6	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	ruwan	ruwaː	NOUN	_	Definite=Cons	1	conj:appos	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=3|RX=[NOUN]|wordform=ruwa
 4	wankìn	wankìː	VERB	_	Definite=Cons	3	mod	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=wankì
 5	idòː	idòː	NOUN	_	_	4	udep	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=5|RX=[NOUN]
@@ -4569,7 +4569,7 @@
 # text_en = It's a grass, "zarau" that clings to young girls.
 # text_ortho = šii maa hakìi nee, zàᵲau mài zaᵲè yaaᵲinyàa.
 1	shiː	shiː	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-2	maː	maː	TopPART	_	_	1	mod@top	_	GE=self|Gloss=self|nWord=7|RX=[TOPPART]
+2	maː	maː	TopPART	_	_	1	discourse@top	_	GE=self|Gloss=self|nWord=7|RX=[TOPPART]
 3	hakìː	hakìː	NOUN	_	_	4	comp:pred	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=8|RX=[NOUN]
 4	neː	neː	IdPART	_	_	0	root	_	GE=[Ident/Loc]|Gloss=Ident/Loc|nWord=9|RX=[IDPART]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -4759,7 +4759,7 @@
 16	hushiː	hushiː	NOUN	_	_	14	comp:pred	_	GE=[anger].[Masc]|Gloss=anger.Masc|nWord=14|RX=[NOUN]
 17	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 18	kai	kai	PRON	_	_	20	dislocated@subj	_	GE=[2Masc]|Gloss=2Masc|nWord=16|RX=[PRON]
-19	kuma	kuma	TopPART	_	_	18	mod@top	_	GE=also|Gloss=also|nWord=17|RX=[TOPPART]
+19	kuma	kuma	TopPART	_	_	18	discourse@top	_	GE=also|Gloss=also|nWord=17|RX=[TOPPART]
 20-21	kam	_	_	_	_	_	_	_	_
 20	kay	kaː	AUX	_	_	13	parataxis@conj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=18|RX=[AUX]|wordform=kaː
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
@@ -4816,7 +4816,7 @@
 66	tàhiyàː	tàhiyàː	VERB	_	_	65	comp:obj	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=57|RX=[VERB]
 67	,	,	PUNCT	_	_	68	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=58|RX=[PUNCT]
 68	sai	sai	SCONJ	_	_	65	mod	_	GE=then|Gloss=then|nWord=59|RX=[ADV]
-69	dai	dai	TopPART	_	_	68	mod@top	_	GE=indeed|Gloss=indeed|nWord=60|RX=[TOPPART]
+69	dai	dai	TopPART	_	_	68	discourse@top	_	GE=indeed|Gloss=indeed|nWord=60|RX=[TOPPART]
 70	tà	tà	AUX	_	_	68	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=61|RX=[AUX]
 71	yi	yi	VERB	_	_	70	comp:aux	_	GE=do|Gloss=do|nWord=62|RX=[VERB]
 72	kuːkaː	kuːkaː	NOUN	_	_	71	comp:pred	_	GE=[crying].[Masc]|Gloss=crying.Masc|nWord=63|RX=[NOUN]
@@ -5148,7 +5148,7 @@
 # text_en = If she takes it, whatever you say and is in your mouth, she cannot go against it, she cannot start a dispute.
 # text_ortho = ’in dai taa ᵲìgyaa taa ci, du’ ’àbun dà kah hwaɗìi, cikin bàakinkà, baà ta ’iyà ƙeetàᵲee ši, baà ta ’iyà maa gardamàa.
 1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TopPART	_	_	1	mod@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	3	comp:aux	_	GE=have_already|Gloss=have_already|nWord=4|RX=[VERB]
 5	taː	taː	AUX	_	_	4	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -5232,7 +5232,7 @@
 # text_en = As for your nails, your eyebrows, your armpits and pubic hair, the water that you used to wash your body, your hands, face and penis in order to collect the dirt of your body, you put them in the medicine and give it to the woman to eat.
 # text_ortho = suu kàu ’àkàihunkà, dà gaašìn gàban gòošinkà, dà na hamùttaa dà na zaazakkà, dà ᵲuwan dà kaw wawwànkè jìkinkà, dà hannuwàa dà huskàa dà màzàakuutàa, don ’à sàamu dauɗàn nan ta jìkinkà, ’à saà cikim maagànii, ’à baà màccè tà ci.
 1	suː	suː	PRON	_	_	44	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kàu	kàu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kàu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3-4	àkàihunkà	_	_	_	_	_	_	_	_
 3	àkàihun	àkàihuː	NOUN	_	Definite=Cons	1	conj:appos	_	GE=[nail].[Plur]|Gloss=nail.Plur|nWord=3|RX=[NOUN]|wordform=àkàihu
 4	=kà	=kà	PRON	_	_	3	mod	_	GE=[2Masc].[Gen]|Gloss=2Masc.Gen|nWord=3|RX=[PRON]|wordform=-kà
@@ -5299,7 +5299,7 @@
 # text_en = If she eats it, well your body meets hers, she won't be able to leave you.
 # text_ortho = ’in dai hat taa ci, toò jìkinkà yag gàmu dà naatà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	TopPART	_	_	1	mod@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
+2	dai	dai	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	hat	hat	ADV	_	_	4	mod	_	GE=finally|Gloss=finally|nWord=3|RX=[ADV]
 4	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=4|RX=[AUX]
 5	ci	ci	VERB	_	_	4	comp:aux	_	GE=eat|Gloss=eat|nWord=5|RX=[VERB]
@@ -5359,7 +5359,7 @@
 1	suː	suː	PRON	_	_	33	dislocated@top	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	wa’ànnan	wa’ànnan	DET	_	_	3	det	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=2|RX=[DET]
 3	hakuːkuwàː	hakuːkuwàː	NOUN	_	_	1	conj:appos	_	GE=[grass].[Plur]|Gloss=grass.Plur|nWord=3|RX=[NOUN]
-4	koː	koː	TopPART	_	_	3	mod@top	_	GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
+4	koː	koː	TopPART	_	_	3	discourse@top	_	GE=or_else|Gloss=or_else|nWord=4|RX=[TOPPART]
 5	can	can	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
 6	dà	dà	SCONJ	_	_	3	mod@relcl	_	GE=that|Gloss=that|nWord=6|RX=[SCONJ]
 7	ùbangijìː	ùbangijìː	PROPN	_	_	8	subj	_	GE=[God].[Masc]|Gloss=God.Masc|nWord=7|RX=[PROPN]
@@ -6576,7 +6576,7 @@
 # text_en = Well, apart from this, the seeds of "maɗaɗɗafi", and the rats' "ƙarangiya", are like gum.
 # text_ortho = toò kuma ban dà hakà nan, suu ɗiyam màɗaɗɗahii, dà ƙàᵲangiyak kuusaa, danƙòo gàᵲee sù.
 1	tôː	tôː	INTJ	_	_	16	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
-2	kuma	kuma	TopPART	_	_	1	mod@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	16	mod	_	GE=[give].[Nmlz].[Masc]|Gloss=apart_from|nWord=3|RX=[ADP]
 4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
@@ -6657,7 +6657,7 @@
 3	hakìː	hakìː	NOUN	_	_	2	mod	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=4|RX=[NOUN]
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	shiː	shiː	PRON	_	_	8	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-6	maː	maː	TopPART	_	_	5	mod@top	_	GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
+6	maː	maː	TopPART	_	_	5	discourse@top	_	GE=self/too|Gloss=self/too|nWord=7|RX=[TOPPART]
 7	danƙòː	danƙòː	NOUN	_	_	8	subj	_	GE=[gum].[Masc]|Gloss=gum.Masc|nWord=8|RX=[NOUN]
 8-9	gàrai	_	_	_	_	_	_	_	_
 8	gàr̃eː	gàr̃eː	ADP	_	_	0	root	_	GE=at/to|Gloss=at/to|nWord=9|RX=[ADP]
@@ -6685,7 +6685,7 @@
 7	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	_	6	mod	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 9	shiː	shiː	PRON	_	_	11	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
-10	maː	maː	TopPART	_	_	9	mod@top	_	GE=self/too|Gloss=self/too|nWord=9|RX=[TOPPART]
+10	maː	maː	TopPART	_	_	9	discourse@top	_	GE=self/too|Gloss=self/too|nWord=9|RX=[TOPPART]
 11	hakà	hakà	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=10|RX=[ADV]
 12	nan	nan	DET	_	_	11	det	_	GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
 13-14	akài	_	_	_	_	_	_	_	_
@@ -6703,7 +6703,7 @@
 # text_en = As for the insect "bìː-ta-zâizâi", wherever the man goes, the woman has to follow him.
 # text_ortho = šii kaù bìi ta zaìzaì ƙwaaᵲòo, du’ ’indà namijì yay yi, sai màcceǹ tà yi ta bìyaatai.
 1	shiː	shiː	PRON	_	_	14	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	mod@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	1	conj:appos	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=3|RX=[NOUN]
 4	ƙwaːròː	ƙwaːròː	NOUN	_	_	3	mod	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
