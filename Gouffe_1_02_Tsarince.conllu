@@ -1452,11 +1452,11 @@
 # text = hakà nan akà s'àːrìnceː.
 # text_en = That's the way they do tsarince.
 # text_ortho = hakà nan ’a kà s’àaᵲìncee.
-1	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=1|RX=[ADV]
+1	hakà	hakà	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=1|RX=[ADV]
 2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
-3	akà	akà	AUX	_	_	_	_	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=3|RX=[AUX]
-4	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	_	_	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=4|RX=[NOUN]
-5	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=5|RX=[PUNCT]
+3	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=3|RX=[AUX]
+4	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	3	comp:aux	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=4|RX=[NOUN]
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_39-39
 # speaker_id = *
@@ -1465,38 +1465,38 @@
 # text = tôː kuma bandà hakà nan, shiː sarmàyiː, in yak kìri bùdurwaː, shìnàː sôntà, tanàː sôːnai, sunkà tàhi wurin s'àːrìnceː, sunkà tuːɓèː.
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
 # text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
-1	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
-2	kuma	kuma	PART	_	_	_	_	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
-3	bandà	bandà	ADP	_	_	_	_	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
-4	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
+1	tôː	tôː	INTJ	_	_	23	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
+2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
+3	bandà	bandà	ADP	_	_	23	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
+4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
-8	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=10|RX=[SCONJ]
+6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	shiː	shiː	PRON	_	_	11	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
+8	sarmàyiː	sarmàyiː	NOUN	_	_	7	conj:appos	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=8|RX=[NOUN]
+9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	in	in	SCONJ	_	_	23	mod	_	GE=if|Gloss=if|nWord=10|RX=[SCONJ]
 11	yak	yak	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
 12	kìri	kìraː	VERB	_	_	11	comp:aux	_	GE=call|Gloss=call|nWord=12|RX=[VERB]
 13	bùdurwaː	bùdurwaː	NOUN	_	_	12	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=15|RX=[AUX]
+15	shìnàː	shìnàː	AUX	_	_	11	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=15|RX=[AUX]
 16-17	sôntà	_	_	_	_	_	_	_	_
 16	sôn	sôː	VERB	_	Definite=Cons	15	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=sô
 17	=tà	=tà	PRON	_	_	16	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=16|RX=[PRON]|wordform=-tà
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	tanàː	tanàː	AUX	_	_	_	_	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=18|RX=[AUX]
+19	tanàː	tanàː	AUX	_	_	15	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=18|RX=[AUX]
 20-21	sôːnai	_	_	_	_	_	_	_	_
 20	sôː	sôː	VERB	_	_	19	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=19|RX=[VERB]
 21	=nai	=nai	PRON	_	_	20	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=19|RX=[PRON]|wordform=-ai
-22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-23	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=21|RX=[AUX]
+22	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+23	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=21|RX=[AUX]
 24	tàhi	tàhi	VERB	_	_	23	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
 25	wurin	wuriː	NOUN	_	Definite=Cons	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=23|RX=[NOUN]|wordform=wuri
 26	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	25	mod	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=24|RX=[NOUN]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-28	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=26|RX=[AUX]
+28	sunkà	sunkà	AUX	_	_	23	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=26|RX=[AUX]
 29	tuːɓèː	tuːɓèː	VERB	_	_	28	comp:aux	_	GE=remove|Gloss=remove|nWord=27|RX=[VERB]
-30	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=28|RX=[PUNCT]
+30	.	.	PUNCT	_	_	23	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_40-40
 # speaker_id = *
@@ -1505,115 +1505,131 @@
 # text = in sunkà tuːɓèː, taggunànsù na gà jìkiː, suː sukà tuːɓèːwaː, bâːsu tuːɓè àbun ɗarmùː.
 # text_en = When they undress, their shirts, they remove them, but they do not remove their underpants.
 # text_ortho = ’in sunkà tuuɓèe, taggunànsù na gà jìkii, suu su kà tuuɓèewaa, baà su tuuɓè ’àbun ɗaᵲmùu.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	tuːɓèː	tuːɓèː	VERB	_	_	2	comp:aux	_	GE=remove|Gloss=remove|nWord=3|RX=[VERB]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5-6	taggunànsù	_	_	_	_	_	_	_	_
-5	taggunàn	taggunàː	NOUN	_	Definite=Cons	_	_	_	GE=[clothes].[Plur]|Gloss=clothes.Plur|nWord=5|RX=[NOUN]|wordform=taggunà
+5	taggunàn	taggunàː	NOUN	_	Definite=Cons	11	dislocated@top	_	GE=[clothes].[Plur]|Gloss=clothes.Plur|nWord=5|RX=[NOUN]|wordform=taggunà
 6	=sù	=sù	PRON	_	_	5	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=5|RX=[PRON]|wordform=-sù
-7	na	na	ADP	_	_	_	_	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
-8	gà	gà	ADP	_	_	_	_	_	GE=at|Gloss=at|nWord=7|RX=[ADP]
+7	na	na	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
+8	gà	gà	ADP	_	_	7	comp:obj	_	GE=at|Gloss=at|nWord=7|RX=[ADP]
 9	jìkiː	jìkiː	NOUN	_	_	8	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=8|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
-12	sukà	sukà	AUX	_	_	_	_	_	GE=[3Plur].[Imp].[Bkg]|Gloss=3Plur.Imp.Bkg|nWord=11|RX=[AUX]
+10	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+11	suː	suː	PRON	_	_	0	root	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
+12	sukà	sukà	AUX	_	_	11	comp:cleft	_	GE=[3Plur].[Imp].[Bkg]|Gloss=3Plur.Imp.Bkg|nWord=11|RX=[AUX]
 13	tuːɓèwaː	tuːɓèː	VERB	_	_	12	comp:aux	_	GE=remove|Gloss=remove.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=tuːɓè
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	bâːsu	bâːsu	AUX	_	_	_	_	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=14|RX=[AUX]
+15	bâːsu	bâːsu	AUX	_	_	11	parataxis@conj	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=14|RX=[AUX]
 16	tuːɓè	tuːɓèː	VERB	_	_	15	comp:aux	_	GE=remove|Gloss=remove|nWord=15|RX=[VERB]
 17	àbun	àbu	NOUN	_	Definite=Cons	16	comp:obj	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=16|RX=[NOUN]|wordform=àbu
 18	ɗarmùː	ɗarmùː	NOUN	_	_	17	mod	_	GE=[(underwear)?].[Masc]|Gloss=(underwear)?.Masc|nWord=17|RX=[NOUN]
-19	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=18|RX=[PUNCT]
+19	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_02_Tsarince_41-41
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_41-41_split1
+# text = shiː sarmàyiː , bâːshi hiddà wàndoː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 40000, 41000
-# text = shiː sarmàyiː, bâːshi hiddà wàndoː, ita kâu bùdurwaː, bâːta hiddà ɗan tòːhi, sai dai sù kwântaː dà suː.
-# text_en = He, the boy does not remove his trousers, and she the girl, she does not remove her pants, they sleep with them.
-# text_ortho = šii saᵲmàyii, baà ši hiddà wàndoo, ’ita kaù bùduᵲwaa, baà ta hiddà ɗan tòohi, sai dai sù kwaǹtaa dà suu.
-1	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	sarmàyiː	sarmàyiː	NOUN	_	_	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=2|RX=[NOUN]
+# text_en = He, the boy, he does not remove his trousers.
+# text_ortho = šii saᵲmàyii, baà ši hiddà wàndoo.
+1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
+2	sarmàyiː	sarmàyiː	NOUN	_	_	1	conj:appos	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	bâːshi	bâːshi	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=4|RX=[AUX]
+4	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=4|RX=[AUX]
 5	hiddà	hiddàː	VERB	_	_	4	comp:aux	_	GE=remove|Gloss=remove|nWord=5|RX=[VERB]
 6	wàndoː	wàndoː	NOUN	_	_	5	comp:obj	_	GE=trousers|Gloss=trousers|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=8|RX=[PRON]
-9	kâu	kâu	TopPART	_	_	8	discourse@top	_	GE=anyway|Gloss=anyway|nWord=9|RX=[TOPPART]
-10	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=10|RX=[NOUN]
-11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	bâːta	bâːta	AUX	_	_	_	_	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=12|RX=[AUX]
-13	hiddà	hiddàː	VERB	_	_	12	comp:aux	_	GE=remove|Gloss=remove|nWord=13|RX=[VERB]
-14	ɗan	ɗaː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=14|RX=[NOUN]|wordform=ɗa
-15	tòːhi	tòːhi	NOUN	_	_	14	mod	_	GE=underwear_sp|Gloss=underwear_sp|nWord=15|RX=[NOUN]
-16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
-18	dai	dai	TopPART	_	_	17	discourse@top	_	GE=indeed|Gloss=indeed|nWord=18|RX=[TOPPART]
-19	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=19|RX=[AUX]
-20	kwântaː	kwântaː	VERB	_	_	19	comp:aux	_	GE=lie_down|Gloss=lie_down|nWord=20|RX=[VERB]
-21	dà	dà	ADP	_	_	20	comp:obl	_	GE=with|Gloss=with|nWord=21|RX=[ADP]
-22	suː	suː	PRON	_	_	21	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=23|RX=[PUNCT]
+7	.	.	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_41-41_split2_split1
+# text = ita kâu bùdurwaː , bâːta hiddà ɗan tòːhi .
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
+# sent_timecode = 40000, 41000
+# text_en = She, the girl, she does not remove her pants.
+# text_ortho = ’ita kaù bùduᵲwaa, baà ta hiddà ɗan tòohi.
+1	ita	ita	PRON	_	_	5	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=8|RX=[PRON]
+2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=9|RX=[TOPPART]
+3	bùdurwaː	bùdurwaː	NOUN	_	_	1	conj:appos	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=10|RX=[NOUN]
+4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+5	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=12|RX=[AUX]
+6	hiddà	hiddàː	VERB	_	_	5	comp:aux	_	GE=remove|Gloss=remove|nWord=13|RX=[VERB]
+7	ɗan	ɗaː	NOUN	_	Definite=Cons	6	comp:obj	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=14|RX=[NOUN]|wordform=ɗa
+8	tòːhi	tòːhi	NOUN	_	_	7	mod	_	GE=underwear_sp|Gloss=underwear_sp|nWord=15|RX=[NOUN]
+9	.	.	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_41-41_split2_split2
+# text = sai dai sù kwântaː dà suː .
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
+# sent_timecode = 40000, 41000
+# text_en = they must sleep with them.
+# text_ortho = sai dai sù kwaǹtaa dà suu.
+1	sai	sai	ADV	_	_	3	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
+2	dai	dai	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=indeed|nWord=18|RX=[TOPPART]
+3	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=19|RX=[AUX]
+4	kwântaː	kwântaː	VERB	_	_	3	comp:aux	_	GE=lie_down|Gloss=lie_down|nWord=20|RX=[VERB]
+5	dà	dà	ADP	_	_	4	comp:obl	_	GE=with|Gloss=with|nWord=21|RX=[ADP]
+6	suː	suː	PRON	_	_	5	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=22|RX=[PRON]
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=23|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_42-42
+# text = in sunkà yi kwànce, sunkà gamà jìkiː, nônnan bùdurwaː sunkà kaːmà gàban sarmàyiː, yaj ji sanyin jìkintà, yanàː yìwuwaː bùːras sarmàyiː tà taːshì..
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 41000, 41283
-# text = in sunkà yi kwànce, sunkà gamà jìkiː, nônnan bùdurwaː sunkà kaːmà gàban sarmàyiː, yaj ji sanyin jìkintà, yanàː yìwuwaː bùːras sarmàyiː tà taːshì..
-# text_en = When they lie down, their bodies are close, the girl's breasts catch the boy's chest, his body may get excited, and it is possible that he will get an erection.
+# text_en = When they lie down, their bodies are close, the girl's breasts catch the boy's chest, he feels the coolness of her body, it is possible that he will get an erection.
 # text_ortho = ’in sunkà yi kwànce, sunkà gamà jìkii, noǹnan bùduᵲwaa sunkà kaamà gàban saᵲmàyii, yaj ji sanyin jìkintà, ya nàaa yìwuwaa bùuᵲas saᵲmàyii tà taašì.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	23	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
-4	kwànce	kwànce	VERB	_	_	_	_	_	GE=[lie_down].[Part]|Gloss=lie_down.Part|nWord=4|RX=[VERB]
+4	kwànce	kwànce	VERB	_	_	3	comp:pred	_	GE=[lie_down].[Part]|Gloss=lie_down.Part|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=6|RX=[AUX]
+6	sunkà	sunkà	AUX	_	_	2	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=6|RX=[AUX]
 7	gamà	gamàː	VERB	_	_	6	comp:aux	_	GE=join|Gloss=join|nWord=7|RX=[VERB]
 8	jìkiː	jìkiː	NOUN	_	_	7	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	nônnan	nônnai	NOUN	_	Definite=Cons	_	_	_	GE=[breast].[Plur]|Gloss=breast.Plur|nWord=10|RX=[NOUN]|wordform=nônna
+9	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	nônnan	nônnai	NOUN	_	Definite=Cons	12	subj	_	GE=[breast].[Plur]|Gloss=breast.Plur|nWord=10|RX=[NOUN]|wordform=nônna
 11	bùdurwaː	bùdurwaː	NOUN	_	_	10	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=11|RX=[NOUN]
-12	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=12|RX=[AUX]
+12	sunkà	sunkà	AUX	_	_	6	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=12|RX=[AUX]
 13	kaːmà	kaːmàː	VERB	_	_	12	comp:aux	_	GE=catch|Gloss=catch|nWord=13|RX=[VERB]
 14	gàban	gàbaː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=front|Gloss=front|nWord=14|RX=[NOUN]|wordform=gàba
 15	sarmàyiː	sarmàyiː	NOUN	_	_	14	mod	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	yaj	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
+17	yaj	yak	AUX	_	_	12	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
 18	ji	jiyàː	VERB	_	_	17	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=18|RX=[VERB]
 19	sanyin	sanyiː	NOUN	_	Definite=Cons	18	comp:obj	_	GE=cold|Gloss=cold|nWord=19|RX=[NOUN]|wordform=sanyi
 20-21	jìkintà	_	_	_	_	_	_	_	_
 20	jìkin	jìkiː	NOUN	_	Definite=Cons	19	mod	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=20|RX=[NOUN]|wordform=jìki
 21	=tà	=tà	PRON	_	_	20	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=20|RX=[PRON]|wordform=-tà
-22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-23	yanàː	yanàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=22|RX=[AUX]
+22	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+23	yanàː	yanàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=22|RX=[AUX]
 24	yìwuwaː	yìwu	VERB	_	_	23	comp:aux	_	GE=be_possible|Gloss=be_possible.Nmlz.Fem|nWord=23|RX=[VERB]|wordform=yìwu
-25	bùːras	bùːraː	NOUN	_	Definite=Cons	24	udep	_	GE=[penis].[Fem]|Gloss=penis.Fem|nWord=24|RX=[NOUN]|wordform=bùːra
+25	bùːras	bùːraː	NOUN	_	Definite=Cons	27	subj	_	GE=[penis].[Fem]|Gloss=penis.Fem|nWord=24|RX=[NOUN]|wordform=bùːra
 26	sarmàyiː	sarmàyiː	NOUN	_	_	25	mod	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=25|RX=[NOUN]
-27	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=26|RX=[AUX]
+27	tà	tà	AUX	_	_	23	subj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=26|RX=[AUX]
 28	taːshì	taːshì	VERB	_	_	27	comp:aux	_	GE=rise|Gloss=rise|nWord=27|RX=[VERB]
-29	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=28|RX=[PUNCT]
+29	.	.	PUNCT	_	_	23	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_43-43
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 41283, 42000
-# text = in tat taːshì cikin wàndoː, bâːshi yàr̃daː bùdurwât tà sanìː, sai shì ɗaɗɗàkà ƙahwàːhuːnai, shì sâː bùːraːtai s'akaƙ ƙahwàːhuː, shì taushèː, don kâɓ bùdurwaː tà jiyàː, sabòːdà kumyàː.
+# text = in tat taːshì cikin wàndoː , bâːshi yàr̃daː bùdurwât tà sanìː . sai shì ɗaɗɗàkà ƙahwàːhuːnai , shì sâː bùːraːtai s'akaƙ ƙahwàːhuː , shì taushèː , don kâɓ bùdurwaː tà jiyàː , sabòːdà kumyàː .
 # text_en = If his penis gets hard in his trousers, he will not want the girl to know, he will spread his legs, put his penis between his thighs, and hold it down so that the girl won't feel it, because of decency.
 # text_ortho = ’in tat taašì cikin wàandoo, baà šì yàrdaa bùduᵲwat̀ tà sanìi, sai šì ɗaɗɗàkà ƙahwàahuunai, šì saà bùuᵲaatai s’akaƙ ƙahwàahun, šì taušèe, don kab̀ bùduᵲwaa tà jiyàa, sabòo dà kumyàa.
-1	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tat	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	taːshì	taːshì	VERB	_	_	2	comp:aux	_	GE=rise|Gloss=rise|nWord=3|RX=[VERB]
 4	cikin	cikin	ADP	_	_	3	comp:obl	_	GE=in|Gloss=in|nWord=4|RX=[ADP]
 5	wàndoː	wàndoː	NOUN	_	_	4	comp:obj	_	GE=trousers|Gloss=trousers|nWord=5|RX=[NOUN]
-6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	bâːshi	bâːshi	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=7|RX=[AUX]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=7|RX=[AUX]
 8	yàr̃daː	yàr̃da	VERB	_	_	7	comp:aux	_	GE=[agree].[Nmlz]|Gloss=agree.Nmlz|nWord=8|RX=[VERB]
-9	bùdurwât	bùdurwaː	NOUN	_	Definite=Def	8	udep	_	GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=9|RX=[NOUN]
-10	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=10|RX=[AUX]
+9	bùdurwât	bùdurwaː	NOUN	_	Definite=Def	10	subj	_	GE=[girl].[Fem].[Def]|Gloss=girl.Fem.Def|nWord=9|RX=[NOUN]
+10	tà	tà	AUX	_	_	8	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=10|RX=[AUX]
 11	sanìː	sanìː	VERB	_	_	10	comp:aux	_	GE=know|Gloss=know|nWord=11|RX=[VERB]
-12	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+12	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
 14	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
 15	ɗaɗɗàkà	ɗaɗɗàkaː	VERB	_	_	14	comp:aux	_	GE=spread|Gloss=spread|nWord=15|RX=[VERB]
@@ -1621,12 +1637,12 @@
 16	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	_	15	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=16|RX=[NOUN]
 17	=nai	=nai	PRON	_	_	16	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=16|RX=[PRON]|wordform=-ai
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
+19	shì	shì	AUX	_	_	14	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	GE=put|Gloss=put|nWord=19|RX=[VERB]
 21-22	bùːraːtai	_	_	_	_	_	_	_	_
 21	bùːraː	bùːraː	NOUN	_	_	20	comp:obj	_	GE=[penis].[Fem]|Gloss=penis.Fem|nWord=20|RX=[NOUN]
 22	=tai	=tai	PRON	_	_	21	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=20|RX=[PRON]|wordform=-ai
-23	s'akaƙ	s'akak	ADP	_	_	_	_	_	GE=between|Gloss=between|nWord=21|RX=[ADP]
+23	s'akaƙ	s'akak	ADP	_	_	20	comp:obl	_	GE=between|Gloss=between|nWord=21|RX=[ADP]
 24	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	_	23	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=22|RX=[NOUN]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 26	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=24|RX=[AUX]
