@@ -1286,36 +1286,44 @@
 29	taːshì	taːshì	PRON	_	_	27	mod@poss	_	GE=[3Masc].[Poss].[Fem]|Gloss=3Masc.Poss.Fem|nWord=29|RX=[PRON]
 30	.	.	PUNCT	_	_	17	punct	_	Gloss=.|nWord=30|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 32000, 33000
-# text = ita kâu tà àmsaː, tà tàhiyàttà gidaː, shiː kuma shì tàhiyàːtai, sù yi ban kwaːnaː.
-# text_en = She will take it, go home, and he will go home too, they will say goodbye.
-# text_ortho = ’ita kaù tà ’àmsaa, tà tàhiyàttà gidaa, šii kuma šì tàhiyàatai, sù yi ban kwaanaa.
-1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
+# text = ita kâu tà àmsaː , tà tàhiyàt =tà gidaː .
+# text_en = She, she will take it and go home.
+# text_ortho = ’ita kaù tà ’àmsaa, tà tàhiyàttà gidaa.
+1	ita	ita	PRON	_	_	3	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=3|RX=[AUX]
 4	àmsaː	àmsaː	VERB	_	_	3	comp:aux	_	GE=answer|Gloss=answer|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=6|RX=[AUX]
+6	tà	tà	AUX	_	_	3	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=6|RX=[AUX]
 7-8	tàhiyàttà	_	_	_	_	_	_	_	_
 7	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons	6	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=tàhiyà
 8	=tà	=tà	PRON	_	_	7	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=7|RX=[PRON]|wordform=-tà
-9	gidaː	gidaː	NOUN	_	_	_	_	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
-10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
-12	kuma	kuma	TopPART	_	_	11	discourse@top	_	GE=also|Gloss=also|nWord=11|RX=[TOPPART]
-13	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
-14-15	tàhiyàːtai	_	_	_	_	_	_	_	_
-14	tàhiyàː	tàhiyàː	VERB	_	_	13	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=13|RX=[VERB]
-15	=tai	=tai	PRON	_	_	14	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=13|RX=[PRON]|wordform=-ai
-16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-17	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=15|RX=[AUX]
-18	yi	yi	VERB	_	_	17	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
-19	ban	ban	VERB	_	_	_	_	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=17|RX=[VERB]
-20	kwaːnaː	kwaːnaː	VERB	_	_	_	_	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=18|RX=[VERB]
-21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=19|RX=[PUNCT]
+9	gidaː	gidaː	NOUN	_	_	7	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
+10	.	.	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
+# sent_timecode = 32000, 33000
+# text = shiː kuma shì tàhiyàː =tai , sù yi ban kwaːnaː .
+# text_en = He too, he will go home , they will say goodbye.
+# text_ortho = šii kuma šì tàhiyàatai, sù yi ban kwaanaa.
+1	shiː	shiː	PRON	_	_	3	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
+2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=11|RX=[TOPPART]
+3	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
+4-5	tàhiyàːtai	_	_	_	_	_	_	_	_
+4	tàhiyàː	tàhiyàː	VERB	_	_	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=13|RX=[VERB]
+5	=tai	=tai	PRON	_	_	4	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=13|RX=[PRON]|wordform=-ai
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+7	sù	sù	AUX	_	_	3	parataxis@conj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=15|RX=[AUX]
+8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
+9	ban	ban	VERB	_	_	8	comp:pred	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=17|RX=[VERB]
+10	kwaːnaː	kwaːnaː	VERB	_	_	9	compound	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=18|RX=[VERB]
+11	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_34-34
 # speaker_id = *
@@ -1324,18 +1332,18 @@
 # text = in gòːbe sûː koːmà, sù cêː “ sai gòːbe ”.
 # text_en = If tomorrow they will do it again, they say "see you tomorrow".
 # text_ortho = ’in gòobe suù koomà, sù ceè “sai gòobe”.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	gòːbe	gòːbe	ADV	_	_	_	_	_	GE=tomorrow|Gloss=tomorrow|nWord=2|RX=[ADV]
-3	sûː	sûː	AUX	_	_	_	_	_	GE=[3Plur].[Pred]|Gloss=3Plur.Pred|nWord=3|RX=[AUX]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	gòːbe	gòːbe	ADV	_	_	3	mod	_	GE=tomorrow|Gloss=tomorrow|nWord=2|RX=[ADV]
+3	sûː	sûː	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Pred]|Gloss=3Plur.Pred|nWord=3|RX=[AUX]
 4	koːmà	koːmà	VERB	_	_	3	comp:aux	_	GE=come_back|Gloss=come_back|nWord=4|RX=[VERB]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=6|RX=[AUX]
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	GE=say|Gloss=say|nWord=7|RX=[VERB]
-8	“	“	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
-10	gòːbe	gòːbe	ADV	_	_	_	_	_	GE=tomorrow|Gloss=tomorrow|nWord=10|RX=[ADV]
-11	”	”	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=12|RX=[PUNCT]
+8	“	“	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+9	sai	sai	ADP	_	_	6	comp:obj	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
+10	gòːbe	gòːbe	ADV	_	_	9	comp:obj	_	GE=tomorrow|Gloss=tomorrow|nWord=10|RX=[ADV]
+11	”	”	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+12	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_35-35
 # speaker_id = *
@@ -1344,20 +1352,20 @@
 # text = in kuma sai wata ràːnaː, sù cêː “ sai wata ràːna ”.
 # text_en = If on the other hand, it is later, they say "see you later".
 # text_ortho = ’in kuma sai wata ᵲaanaa, sù ceè “sai wata ᵲaana”.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
-3	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
+3	sai	sai	ADP	_	_	1	comp:obj	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=4|RX=[DET]
-5	ràːnaː	ràːnaː	NOUN	_	_	_	_	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=5|RX=[NOUN]
-6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sù	sù	AUX	_	_	_	_	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=7|RX=[AUX]
+5	ràːnaː	ràːnaː	NOUN	_	_	3	comp:obj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=5|RX=[NOUN]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=7|RX=[AUX]
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	GE=say|Gloss=say|nWord=8|RX=[VERB]
-9	“	“	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
+9	“	“	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	sai	sai	ADV	_	_	8	comp:obj	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 11	wani	wani	DET	_	PronType=Spec	12	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=11|RX=[DET]
-12	raːnaː	raːnaː	NOUN	_	_	_	_	_	GE=sun|Gloss=sun|nWord=12|RX=[NOUN]
-13	”	”	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
+12	raːnaː	raːnaː	NOUN	_	_	10	comp:obj	_	GE=sun|Gloss=sun|nWord=12|RX=[NOUN]
+13	”	”	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_36-36
 # speaker_id = *
@@ -1366,10 +1374,10 @@
 # text = ita kâu bùdurwaː, in taz zoː gidansù, sai tà gwadàː mà uwattà àbun dà sarmàyintà yab baː tà, uwaː tà ji daːɗiː, kuma tà yi mur̃nàː, sabòːdà sarmàyîn nan shìnàː sôn ɗiyattà.
 # text_en = She, the girl, when she arrives home, she tells her mother what the boy has given her, the mother is happy, she is rejoicing because that boy loves her daughter.
 # text_ortho = ’ita kaù bùduᵲwaa, ’in taz zoo gidansù, sai tà gwadàa mà ’uwattà ’àbun dà saᵲmàyintà yab baa tà, ’uwaa tà ji daaɗii, kuma tà yi murnàa, sabòo dà saᵲmàyiǹ nan šì nàa soǹ ɗiyattà.
-1	ita	ita	PRON	_	_	_	_	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
+1	ita	ita	PRON	_	_	12	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3	bùdurwaː	bùdurwaː	NOUN	_	_	_	_	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
-4	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+3	bùdurwaː	bùdurwaː	NOUN	_	_	1	conj:appos	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
 6	taz	tak	AUX	_	_	5	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=6|RX=[AUX]
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	GE=come|Gloss=come|nWord=7|RX=[VERB]
@@ -1380,38 +1388,38 @@
 11	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 12	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=11|RX=[AUX]
 13	gwadàː	gwadàː	VERB	_	_	12	comp:aux	_	GE=show|Gloss=show|nWord=12|RX=[VERB]
-14	mà	mà	ADP	_	_	13	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
+14	mà	mà	ADP	_	_	13	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
 15-16	uwattà	_	_	_	_	_	_	_	_
 15	uwat	uwaː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=14|RX=[NOUN]|wordform=uwa
 16	=tà	=tà	PRON	_	_	15	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]|wordform=-tà
-17	àbun	àbu	NOUN	_	Definite=Cons	_	_	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=15|RX=[NOUN]|wordform=àbu
+17	àbun	àbu	NOUN	_	Definite=Cons	13	comp:obj@T	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=15|RX=[NOUN]|wordform=àbu
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
 19-20	sarmàyintà	_	_	_	_	_	_	_	_
-19	sarmàyin	sarmàyiː	NOUN	_	Definite=Cons	_	_	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=17|RX=[NOUN]|wordform=sarmàyi
+19	sarmàyin	sarmàyiː	NOUN	_	Definite=Cons	21	subj	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=17|RX=[NOUN]|wordform=sarmàyi
 20	=tà	=tà	PRON	_	_	19	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=17|RX=[PRON]|wordform=-tà
-21	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
+21	yab	yak	AUX	_	_	18	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
 22	baː	baː	VERB	_	_	21	comp:aux	_	GE=give|Gloss=give|nWord=19|RX=[VERB]
 23	tà	ta	PRON	_	_	22	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=20|RX=[PRON]
-24	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+24	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 25	uwaː	uwaː	NOUN	_	_	26	subj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=22|RX=[NOUN]
-26	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=23|RX=[AUX]
+26	tà	tà	AUX	_	_	12	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=23|RX=[AUX]
 27	ji	jiyàː	VERB	_	_	26	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=24|RX=[VERB]
 28	daːɗiː	daːɗiː	NOUN	_	_	27	comp:obj	_	GE=[happiness].[Masc]|Gloss=happiness.Masc|nWord=25|RX=[NOUN]
-29	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+29	,	,	PUNCT	_	_	31	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 30	kuma	kuma	PART	_	_	31	discourse	_	GE=also|Gloss=also|nWord=27|RX=[ADV]
-31	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=28|RX=[AUX]
+31	tà	tà	AUX	_	_	26	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=28|RX=[AUX]
 32	yi	yi	VERB	_	_	31	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
 33	mur̃nàː	mur̃nàː	NOUN	_	_	32	comp:pred	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=30|RX=[NOUN]
-34	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-35	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=32|RX=[SCONJ]
-36	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def	_	_	_	GE=[youth].[Masc].[Def]|Gloss=youth.Masc.Def|nWord=33|RX=[NOUN]
+34	,	,	PUNCT	_	_	35	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+35	sabòːdà	sabòːdà	SCONJ	_	_	32	mod	_	GE=because|Gloss=because|nWord=32|RX=[SCONJ]
+36	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def	38	subj	_	GE=[youth].[Masc].[Def]|Gloss=youth.Masc.Def|nWord=33|RX=[NOUN]
 37	nan	nan	DET	_	_	36	det	_	GE=[Dist]|Gloss=Dist|nWord=34|RX=[DET]
-38	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=35|RX=[AUX]
+38	shìnàː	shìnàː	AUX	_	_	35	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=35|RX=[AUX]
 39	sôn	sôː	VERB	_	Definite=Cons	38	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=36|RX=[VERB]|wordform=sô
 40-41	ɗiyattà	_	_	_	_	_	_	_	_
 40	ɗiyat	ɗiyaː	NOUN	_	Definite=Cons	39	udep	_	GE=[daughter].[Fem]|Gloss=daughter.Fem|nWord=37|RX=[NOUN]|wordform=ɗiya
 41	=tà	=tà	PRON	_	_	40	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=37|RX=[PRON]|wordform=-tà
-42	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=38|RX=[PUNCT]
+42	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_37-37
 # speaker_id = *
@@ -1420,22 +1428,22 @@
 # text = in tag gamà mur̃nàː , tà cêː “ allàː shì yi mai àlbar̃kàː ” .
 # text_en = After rejoicing, she says "may God bless him."
 # text_ortho = ’in tag gamà murnàa, tà ceè “’allàa šì mai ’àlbarkàa”.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	subj	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	tag	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	gamà	gamàː	VERB	_	_	2	comp:aux	_	GE=finish|Gloss=finish|nWord=3|RX=[VERB]
 4	mur̃nàː	mur̃nàː	NOUN	_	_	3	comp:obj	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=6|RX=[AUX]
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	GE=say|Gloss=say|nWord=7|RX=[VERB]
-8	“	“	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	allàː	allàː	PROPN	_	_	_	_	_	GE=[God]|Gloss=God|nWord=9|RX=[PROPN]
+8	“	“	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+9	allàː	allàː	PROPN	_	_	10	subj	_	GE=[God]|Gloss=God|nWord=9|RX=[PROPN]
 10-11	shì	_	_	_	_	_	_	_	_
-10	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
+10	shì	shì	AUX	_	_	7	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	mai	mai	PRON	_	_	11	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=11|RX=[PRON]
+12	mai	mai	PRON	_	_	11	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=11|RX=[PRON]
 13	àlbar̃kàː	àlbar̃kàː	NOUN	_	_	11	comp:pred	_	GE=[prosperity].[Fem]|Gloss=prosperity.Fem|nWord=12|RX=[NOUN]
-14	”	”	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=14|RX=[PUNCT]
+14	”	”	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+15	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_38-38
 # speaker_id = *
