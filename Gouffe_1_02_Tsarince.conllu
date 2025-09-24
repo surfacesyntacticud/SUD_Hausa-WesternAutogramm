@@ -1790,7 +1790,7 @@
 53	shì	shì	AUX	_	_	52	udep	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=56|RX=[AUX]
 54	ciː	ci	VERB	_	_	53	comp:aux	_	GE=eat|Gloss=eat|nWord=57|RX=[VERB]
 55	tà	ta	PRON	_	_	54	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=58|RX=[PRON]
-56	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=59|RX=[PUNCT]
+56	.	.	PUNCT	_	_	47	punct	_	Gloss=.|nWord=59|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_47-47
 # speaker_id = *
@@ -1799,14 +1799,14 @@
 # text = in taː yàr̃da sai shì ciː tà.
 # text_en = If she agrees, he will penetrate her.
 # text_ortho = ’in taa yàrda sai šì cii tà.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	5	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=2|RX=[AUX]
 3	yàr̃da	yàr̃da	VERB	_	_	2	comp:aux	_	GE=agree|Gloss=agree|nWord=3|RX=[VERB]
 4	sai	sai	ADV	_	_	5	mod	_	GE=then|Gloss=then|nWord=4|RX=[ADV]
-5	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=5|RX=[AUX]
+5	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=5|RX=[AUX]
 6	ciː	ci	VERB	_	_	5	comp:aux	_	GE=eat|Gloss=eat|nWord=6|RX=[VERB]
 7	tà	ta	PRON	_	_	6	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=7|RX=[PRON]
-8	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=8|RX=[PUNCT]
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_48-48
 # speaker_id = *
@@ -1815,72 +1815,72 @@
 # text = in yac ciː tà, shiː as' s'àːrìnci.
 # text_en = If he penetrates her, that's "tsarinci".
 # text_ortho = ’in yac cii tà, šii ’as’ s’àaᵲìnci.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yac	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ciː	ci	VERB	_	_	2	comp:aux	_	GE=eat|Gloss=eat|nWord=3|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-7	as'	ak	IdPART	_	Background=Yes	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=7|RX=[IDPART]
-8	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
-9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=9|RX=[PUNCT]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+7	as'	ak	IdPART	_	Background=Yes	6	comp:cleft	_	GE=[Id/Foc]|Gloss=Id/Foc.Bkg|nWord=7|RX=[IDPART]
+8	s'àːrìnci	s'àːrìnci	NOUN	_	_	7	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=8|RX=[NOUN]
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_49-49
+# text = in kâu taː ƙiyàː , yay yi lâːllaɓàttà har̃ yag gàji tà yàr̃da shì ciː tà , in taƙ ƙiyàː , shiː kuma yad dànganà , yaƙ ƙyaːlèː ta , sunkà yi kwancìnsù hakà nan , bàː s'àːrìnci ba nèː , yaː zan s'àːrìnceː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 47000, 48000
-# text = in kâu taː ƙiyàː, yay yi lâːllaɓàttà hay yag gàji tà yàr̃da shì ciː tà ## in taƙ ƙiyàː, shiː kuma yad dànganà, yaƙ ƙyaːlèː ta, sunkà yi kwancìnsù hakà nan, bàː s'àːrìnci ba nèː, yaː zan s'àːrìnceː.
-# text_en = If she refuses, he will beg her util she gives up and agrees for him to penetrate her. If she refuses, and he controls himself, respects her, and they sleep like this, it is not "tsarinci", and becomes "tsarince".
+# text_en = If she refuses, he begs her as much as he can to let him penetrate her, if she refuses, and he controls himself, respects her, and they sleep like this, it is not "tsarinci", it is "tsarince".
 # text_ortho = ’in kaù taa ƙiyàa, yay yi laàllaɓàttà hay yag gàji tà yàrda šì cii tà, ’in taƙ ƙiyàa, šii kuma yad dànganà, yaƙ ƙyaalèe ta, sunkà yi kwancìnsù hakà nan, bàa s’àaᵲìnci ba nèe, yaa zan s’àaᵲìncee.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	42	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3	taː	taː	AUX	_	_	_	_	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
+3	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	ƙiyàː	ƙiyàː	VERB	_	_	3	comp:aux	_	GE=refuse|Gloss=refuse|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
+6	yay	yak	AUX	_	_	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=7|RX=[VERB]
 8-9	lâːllaɓàttà	_	_	_	_	_	_	_	_
 8	lâːllaɓàt	lâːllaɓàː	NOUN	_	Definite=Cons	7	comp:pred	_	GE=[flattering].[Fem]|Gloss=flattering.Fem|nWord=8|RX=[NOUN]|wordform=lâːllaɓà
-9	=tà	=tà	PRON	_	_	8	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=8|RX=[PRON]|wordform=-tà
-10	har̃	har̃	SCONJ	_	_	_	_	_	GE=until|Gloss=until|nWord=9|RX=[SCONJ]
-11	yag	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
+9	=tà	=tà	PRON	_	_	8	udep@R	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=8|RX=[PRON]|wordform=-tà
+10	har̃	har̃	SCONJ	_	_	8	mod	_	GE=until|Gloss=until|nWord=9|RX=[SCONJ]
+11	yag	yak	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 12	gàji	gàji	VERB	_	_	11	comp:aux	_	GE=get_tired|Gloss=get_tired|nWord=11|RX=[VERB]
-13	tà	tà	AUX	_	_	_	_	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=12|RX=[AUX]
+13	tà	tà	AUX	_	_	8	udep@T	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=12|RX=[AUX]
 14	yàr̃da	yàr̃da	VERB	_	_	13	comp:aux	_	GE=agree|Gloss=agree|nWord=13|RX=[VERB]
-15	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
+15	shì	shì	AUX	_	_	14	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
 16	ciː	ci	VERB	_	_	15	comp:aux	_	GE=eat|Gloss=eat|nWord=15|RX=[VERB]
 17	tà	ta	PRON	_	_	16	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-18	##	##	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=18|RX=[SCONJ]
+18	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+19	in	in	SCONJ	_	_	42	mod	_	GE=if|Gloss=if|nWord=18|RX=[SCONJ]
 20	taƙ	tak	AUX	_	_	19	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=19|RX=[AUX]
 21	ƙiyàː	ƙiyàː	VERB	_	_	20	comp:aux	_	GE=refuse|Gloss=refuse|nWord=20|RX=[VERB]
-22	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-23	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
+22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+23	shiː	shiː	PRON	_	_	25	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
 24	kuma	kuma	TopPART	_	_	23	discourse@top	_	GE=also|Gloss=also|nWord=23|RX=[TOPPART]
-25	yad	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=24|RX=[AUX]
+25	yad	yak	AUX	_	_	20	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=24|RX=[AUX]
 26	dànganà	dànganà	VERB	_	_	25	comp:aux	_	GE=bear_up|Gloss=bear_up|nWord=25|RX=[VERB]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-28	yaƙ	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=27|RX=[AUX]
+28	yaƙ	yak	AUX	_	_	25	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=27|RX=[AUX]
 29	ƙyaːlèː	ƙyaːlèː	VERB	_	_	28	comp:aux	_	GE=leave_alone|Gloss=leave_alone|nWord=28|RX=[VERB]
 30	ta	ta	PRON	_	_	29	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=29|RX=[PRON]
 31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-32	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=31|RX=[AUX]
+32	sunkà	sunkà	AUX	_	_	28	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=31|RX=[AUX]
 33	yi	yi	VERB	_	_	32	comp:aux	_	GE=do|Gloss=do|nWord=32|RX=[VERB]
 34-35	kwancìnsù	_	_	_	_	_	_	_	_
 34	kwancìn	kwancìː	VERB	_	Definite=Cons	_	_	_	GE=[lie_down].[Nmlz].[Masc]|Gloss=lie_down.Nmlz.Masc|nWord=33|RX=[VERB]|wordform=kwancì
 35	=sù	=sù	PRON	_	_	34	udep	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=33|RX=[PRON]|wordform=-sù
-36	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=34|RX=[ADV]
+36	hakà	hakà	ADV	_	_	33	mod	_	GE=thus|Gloss=thus|nWord=34|RX=[ADV]
 37	nan	nan	DET	_	_	36	det	_	GE=[Dist]|Gloss=Dist|nWord=35|RX=[ADV]
-38	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
-39	bàː	bàː	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=37|RX=[PART]
-40	s'àːrìnci	s'àːrìnci	NOUN	_	_	_	_	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=38|RX=[NOUN]
-41	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=39|RX=[PART]
-42	nèː	nèː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
+38	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
+39	bàː	bàː	PART	_	_	40	mod	_	GE=[Neg]|Gloss=Neg|nWord=37|RX=[PART]
+40	s'àːrìnci	s'àːrìnci	NOUN	_	_	42	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=38|RX=[NOUN]
+41	ba	ba	PART	_	_	40	mod	_	GE=[Neg]|Gloss=Neg|nWord=39|RX=[PART]
+42	nèː	nèː	IdPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
 43	,	,	PUNCT	_	_	44	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
-44	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=42|RX=[AUX]
+44	yaː	yaː	AUX	_	_	42	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=42|RX=[AUX]
 45	zan	zama	VERB	_	_	44	comp:aux	_	GE=become|Gloss=become|nWord=43|RX=[VERB]
 46	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	45	comp:pred	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=44|RX=[NOUN]
-47	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=45|RX=[PUNCT]
+47	.	.	PUNCT	_	_	42	punct	_	Gloss=.|nWord=45|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_50-50
 # speaker_id = *
@@ -1903,75 +1903,83 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 49000, 50000
-# text = in sarmàyiː zâː shi kiràm bùdurwaː, bùtun s'àːrìnceː, bâːshi tàmbayà’ uwàːyentà, sai dai shì kìri bùdurwaː.
+# text = in sarmàyiː zâː shi kiràm bùdurwaː , bùtun s'àːrìnceː , bâːshi tàmbayà’ uwàːyentà , sai dai shì kìri bùdurwaː .
 # text_en = If a boy goes to call a girl for "tsarince", he does not ask her parents, he just calls the girl.
 # text_ortho = ’in saᵲmàyii zaà ši kiᵲàm bùduᵲwaa, bùtun s’àaᵲìncee, baà ši tàmbayà’ ’uwàayentà, sai dai šì kìᵲi bùduᵲwaa.
-1	in	in	SCONJ	_	_	_	_	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sarmàyiː	sarmàyiː	NOUN	_	_	3	dislocated@subj	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=2|RX=[NOUN]
-3	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
+3	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=3|RX=[AUX]
 4	shi	shi	PRON	_	_	3	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=4|RX=[PRON]
-5	kiràn	kiràː	VERB	_	Definite=Cons	3	comp:aux	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=kirà
+5	kiràm	kiràː	VERB	_	Definite=Cons	3	comp:aux	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=kirà
 6	bùdurwaː	bùdurwaː	NOUN	_	_	5	udep	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	bàtu	bàtu	NOUN	_	_	_	_	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]
-9	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	_	_	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	bâːshi	bâːshi	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=11|RX=[AUX]
+7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	bùtun	bàtu	NOUN	_	_	11	dislocated@top	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]
+9	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	8	mod	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=9|RX=[NOUN]
+10	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=11|RX=[AUX]
 12	tàmbayà’	tàmbayàː	VERB	_	Definite=Cons	11	comp:aux	_	GE=[ask].[Nmlz].[Fem]|Gloss=ask.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=tàmbayà
 13-14	uwàːyentà	_	_	_	_	_	_	_	_
 13	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	12	udep	_	GE=[parents].[Plur]|Gloss=parents.Plur|nWord=13|RX=[NOUN]|wordform=uwàːye
 14	=tà	=tà	PRON	_	_	13	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=13|RX=[PRON]|wordform=-tà
-15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-16	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=15|RX=[ADV]
+15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+16	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=15|RX=[ADV]
 17	dai	dai	TopPART	_	_	16	discourse@top	_	GE=indeed|Gloss=indeed|nWord=16|RX=[TOPPART]
-18	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
+18	shì	shì	AUX	_	_	11	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
 19	kìri	kìraː	VERB	_	_	18	comp:aux	_	GE=call|Gloss=call|nWord=18|RX=[VERB]
 20	bùdurwaː	bùdurwaː	NOUN	_	_	19	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=19|RX=[NOUN]
-21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
+21	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_02_Tsarince_52-52
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_52-52_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 50000, 51000
-# text = suː uwàːyen bùdurwaː , bâːsu tàmbayàs sarmàyîn nan , bâːsu tàmbayàːtai koːmiː , sai dai kumyàː s'àkaːninsù , sabòːdà shiː sùrkinsù neː , suː kuma sàràkkunnànshì neː .
-# text_en = They, the girl's parents, they do not ask about the boy, they do not ask anything. It is taboo for them to talk, because they are in-laws.
-# text_ortho = suu ’uwàayen bùduᵲwaa, baà su tàmbayàs saᵲmàyiǹ nan, baà su tàmbayàatai koomii, sai dai kumyàa s’àkaaninsù, sabòo dà šii sùᵲkinsù nee, suu kuma sàᵲàkkunnànšì nee.
-1	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	_	_	_	GE=[parents].[Plur]|Gloss=parents.Plur|nWord=2|RX=[NOUN]|wordform=uwàːye
+# text = suː uwàːyen bùdurwaː , bâːsu tàmbayàs sarmàyîn nan , bâːsu tàmbayàː =tai koːmiː .
+# text_en = They, the girl's parents, they do not ask about the boy, they do not ask anything.
+# text_ortho = suu ’uwàayen bùduᵲwaa, baà su tàmbayàs saᵲmàyiǹ nan, baà su tàmbayàatai koomii.
+1	suː	suː	PRON	_	_	5	dislocated@subj	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
+2	uwàːyen	uwàːyeː	NOUN	_	Definite=Cons	1	conj:appos	_	GE=[parents].[Plur]|Gloss=parents.Plur|nWord=2|RX=[NOUN]|wordform=uwàːye
 3	bùdurwaː	bùdurwaː	NOUN	_	_	2	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=3|RX=[NOUN]
-4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	bâːsu	bâːsu	AUX	_	_	_	_	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=5|RX=[AUX]
+4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	bâːsu	bâːsu	AUX	_	_	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=5|RX=[AUX]
 6	tàmbayàs	tàmbayàː	VERB	_	Definite=Cons	5	comp:aux	_	GE=[ask].[Nmlz].[Fem]|Gloss=ask.Nmlz.Fem|nWord=6|RX=[VERB]|wordform=tàmbayà
-7	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def	6	udep	_	GE=[youth].[Masc].[Def]|Gloss=youth.Masc.Def|nWord=7|RX=[NOUN]
+7	sarmàyîn	sarmàyiː	NOUN	_	Definite=Def	6	comp:obj@R	_	GE=[youth].[Masc].[Def]|Gloss=youth.Masc.Def|nWord=7|RX=[NOUN]
 8	nan	nan	DET	_	_	7	det	_	GE=[Dist]|Gloss=Dist|nWord=8|RX=[DET]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	bâːsu	bâːsu	AUX	_	_	_	_	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=10|RX=[AUX]
+10	bâːsu	bâːsu	AUX	_	_	5	parataxis@conj	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=10|RX=[AUX]
 11-12	tàmbayàːtai	_	_	_	_	_	_	_	_
 11	tàmbayàː	tàmbayàː	VERB	_	_	10	comp:aux	_	GE=[ask].[Nmlz].[Fem]|Gloss=ask.Nmlz.Fem|nWord=11|RX=[VERB]
-12	=tai	=tai	PRON	_	_	11	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=11|RX=[PRON]|wordform=-ai
-13	koːmiː	koːmiː	PRON	_	_	_	_	_	GE=anything|Gloss=anything|nWord=12|RX=[PRON]
-14	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
-16	dai	dai	TopPART	_	_	15	discourse@top	_	GE=indeed|Gloss=indeed|nWord=15|RX=[TOPPART]
-17	kumyàː	kumyàː	NOUN	_	_	_	_	_	GE=[shame].[Fem]|Gloss=shame.Fem|nWord=16|RX=[NOUN]
-18-19	s'àkaːninsù	_	_	_	_	_	_	_	_
-18	s'àkaːnin	s'àkaːnin	ADP	_	_	_	_	_	GE=between|Gloss=between|nWord=17|RX=[ADP]
-19	=sù	=sù	PRON	_	_	18	comp:obj	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=17|RX=[PRON]|wordform=-sù
-20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-21	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=19|RX=[SCONJ]
-22	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=20|RX=[PRON]
-23-24	sùrkinsù	_	_	_	_	_	_	_	_
-23	sùrkin	sùrkiː	NOUN	_	Definite=Cons	_	_	_	GE=[in-law].[Masc]|Gloss=in-law.Masc|nWord=21|RX=[NOUN]|wordform=sùrki
-24	=sù	=sù	PRON	_	_	23	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=21|RX=[PRON]|wordform=-sù
-25	neː	neː	IdPART	_	_	_	_	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=22|RX=[IDPART]
-26	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-27	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=24|RX=[PRON]
-28	kuma	kuma	TopPART	_	_	27	discourse@top	_	GE=also|Gloss=also|nWord=25|RX=[TOPPART]
-29-30	sàràkkunnànshì	_	_	_	_	_	_	_	_
-29	sàràkkunnàn	sàràkkunnài	NOUN	_	Definite=Cons	_	_	_	GE=[inlaw].[Plur]|Gloss=inlaw.Plur|nWord=26|RX=[NOUN]|wordform=sàràkkunnài
-30	=shì	=shì	PRON	_	_	29	mod	_	GE=[3Masc]|Gloss=3Masc|nWord=26|RX=[PRON]|wordform=-shì
-31	neː	neː	IdPART	_	_	_	_	_	GE=[Id/Loc]|Gloss=Id/Loc|nWord=27|RX=[IDPART]
-32	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=28|RX=[PUNCT]
+12	=tai	=tai	PRON	_	_	11	comp:obj@R	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=11|RX=[PRON]|wordform=-ai
+13	koːmiː	koːmiː	PRON	_	_	11	comp:obj@T	_	GE=anything|Gloss=anything|nWord=12|RX=[PRON]
+14	.	.	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_02_Tsarince_52-52_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
+# sent_timecode = 50000, 51000
+# text = sai dai kumyàː s'àkaːnin =sù , sabòːdà shiː sùrkin =sù neː , suː kuma sàràkkunnàn =shì neː .
+# text_en = It is taboo for them to talk, because they are in-laws.
+# text_ortho = sai dai kumyàa s’àkaaninsù, sabòo dà šii sùᵲkinsù nee, suu kuma sàᵲàkkunnànšì nee.
+1	sai	sai	ADV	_	_	3	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
+2	dai	dai	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=indeed|nWord=15|RX=[TOPPART]
+3	kumyàː	kumyàː	NOUN	_	_	0	root	_	GE=[shame].[Fem]|Gloss=shame.Fem|nWord=16|RX=[NOUN]
+4-5	s'àkaːninsù	_	_	_	_	_	_	_	_
+4	s'àkaːnin	s'àkaːnin	ADP	_	_	3	comp:pred	_	GE=between|Gloss=between|nWord=17|RX=[ADP]
+5	=sù	=sù	PRON	_	_	4	comp:obj	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=17|RX=[PRON]|wordform=-sù
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+7	sabòːdà	sabòːdà	SCONJ	_	_	3	mod	_	GE=because|Gloss=because|nWord=19|RX=[SCONJ]
+8	shiː	shiː	PRON	_	_	11	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=20|RX=[PRON]
+9-10	sùrkinsù	_	_	_	_	_	_	_	_
+9	sùrkin	sùrkiː	NOUN	_	Definite=Cons	11	comp:pred	_	GE=[in-law].[Masc]|Gloss=in-law.Masc|nWord=21|RX=[NOUN]|wordform=sùrki
+10	=sù	=sù	PRON	_	_	9	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=21|RX=[PRON]|wordform=-sù
+11	neː	neː	IdPART	_	_	7	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=22|RX=[IDPART]
+12	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+13	suː	suː	PRON	_	_	17	subj	_	GE=[3Plur]|Gloss=3Plur|nWord=24|RX=[PRON]
+14	kuma	kuma	TopPART	_	_	13	discourse@top	_	GE=also|Gloss=also|nWord=25|RX=[TOPPART]
+15-16	sàràkkunnànshì	_	_	_	_	_	_	_	_
+15	sàràkkunnàn	sàràkkunnài	NOUN	_	Definite=Cons	17	comp:pred	_	GE=[inlaw].[Plur]|Gloss=inlaw.Plur|nWord=26|RX=[NOUN]|wordform=sàràkkunnài
+16	=shì	=shì	PRON	_	_	15	mod	_	GE=[3Masc]|Gloss=3Masc|nWord=26|RX=[PRON]|wordform=-shì
+17	neː	neː	IdPART	_	_	11	parataxis@conj	_	GE=[Id/Loc]|Gloss=Id/Loc|nWord=27|RX=[IDPART]
+18	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_53-53
 # speaker_id = *
