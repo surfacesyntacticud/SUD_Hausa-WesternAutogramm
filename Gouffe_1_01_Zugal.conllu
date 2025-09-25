@@ -1027,9 +1027,9 @@
 12	bâːta	bâːta	AUX	_	_	7	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=10|RX=[AUX]
 13	iyà	iyàː	VERB	_	_	12	comp:aux	_	GE=be_able|Gloss=be_able|nWord=11|RX=[VERB]
 14	zamaː	zama	VERB	_	_	13	comp:obj	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=12|RX=[VERB]
-15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-16	sai	sai	ADV	_	_	17	mod	_	GE=then|Gloss=must|nWord=14|RX=[ADV]
-17	taː	taː	AUX	_	_	12	parataxis	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=15|RX=[AUX]
+15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+16	sai	sai	SCONJ	_	_	13	mod	_	Gloss=until|nWord=14
+17	taː	taː	AUX	_	_	16	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=15|RX=[AUX]
 18-19	ganai	_	_	_	_	_	_	_	_
 18	gan	ganiː	VERB	_	_	17	comp:aux	_	GE=see|Gloss=see|nWord=16|RX=[VERB]
 19	=ai	shi	PRON	_	_	18	comp:obj	_	GE=[3Masc]|Gloss=-3Masc|nWord=16|RX=[PRON]|wordform=-ai
@@ -1697,9 +1697,9 @@
 24	dà	dà	ADP	_	_	22	mod	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 25	wani	wani	DET	_	PronType=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=24|RX=[DET]
 26	wuriː	wuriː	NOUN	_	_	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
-27	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-28	sai	sai	ADV	_	_	29	mod	_	GE=must|Gloss=must|nWord=27|RX=[ADV]
-29	taː	taː	AUX	_	_	20	parataxis	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=28|RX=[AUX]
+27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+28	sai	sai	SCONJ	_	_	21	mod	_	Gloss=until|nWord=27
+29	taː	taː	AUX	_	_	28	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=28|RX=[AUX]
 30	koːmoː	koːmàː	VERB	_	_	29	comp:aux	_	GE=return|Gloss=return.Dir|nWord=29|RX=[VERB]|wordform=koːm
 31-32	gàrai	_	_	_	_	_	_	_	_
 31	gàr̃eː	gàr̃eː	ADP	_	_	30	comp:obl	_	GE=at/to|Gloss=at/to|nWord=30|RX=[ADP]
@@ -2711,7 +2711,7 @@
 22	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 23	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=22|RX=[AUX]
 24	kwaːnan	kwaːnaː	VERB	_	Definite=Cons	23	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=kwaːna
-25	raːna	raːna	ADV	_	_	24	udep	_	GE=in_the_day|Gloss=in_the_day|nWord=24|RX=[ADV]
+25	raːna	raːna	ADV	_	_	24	mod	_	GE=in_the_day|Gloss=in_the_day|nWord=24|RX=[ADV]
 26	sai	sai	SCONJ	_	_	24	mod	_	GE=until|Gloss=until|nWord=25|RX=[SCONJ]
 27	yaː	yaː	AUX	_	_	26	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=26|RX=[AUX]
 28	gamà	gamàː	VERB	_	_	27	comp:aux	_	GE=finish|Gloss=finish|nWord=27|RX=[VERB]
@@ -2996,14 +2996,14 @@
 # text = bâː’a barìː sù bushèː, sai mùtun shì yi dùbaːr̃àː, shì ɓoːyèː su wani wuriː, indà bâːsu bushèːwaː.
 # text_en = To prevent them from drying, people have a trick, they hide them somewhere where they won't dry.
 # text_ortho = baà ’a baᵲìi sù bušèe, sai mùtun šì yi dùbaaràa, šì ɓooyèe su wani wuᵲii, ’indà baà su bušèewaa.
-1	bâː’a	bâː’a	AUX	_	_	0	root	_	GE=[4].[Imp].[Neg]|Gloss=4.Imp.Neg|nWord=1|RX=[AUX]
+1	bâː’a	bâː’a	AUX	_	_	8	parataxis@mod	_	GE=[4].[Imp].[Neg]|Gloss=4.Imp.Neg|nWord=1|RX=[AUX]
 2	barìː	barìː	VERB	_	_	1	comp:aux	_	GE=leave|Gloss=leave|nWord=2|RX=[VERB]
 3	sù	sù	AUX	_	_	2	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=3|RX=[AUX]
 4	bushèː	bushèː	VERB	_	_	3	comp:aux	_	GE=dry_up|Gloss=dry_up|nWord=4|RX=[VERB]
-5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	mùtun	mùtun	NOUN	_	_	8	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
-8	shì	shì	AUX	_	_	1	parataxis@mod	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
+8	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=9|RX=[VERB]
 10	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	9	comp:pred	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -3016,7 +3016,7 @@
 18	indà	indà	ADV	_	_	19	mod	_	GE=where|Gloss=where|nWord=18|RX=[ADV]
 19	bâːsu	bâːsu	AUX	_	_	16	mod@relcl	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=19|RX=[AUX]
 20	bushèːwaː	bushèː	VERB	_	_	19	comp:aux	_	GE=dry_up|Gloss=dry_up.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=bushèː
-21	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
+21	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_110-110
 # speaker_id = *
@@ -3684,13 +3684,13 @@
 12	hannuwàː	hannuː	NOUN	_	_	11	comp:obj	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=12|RX=[NOUN]
 13	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_1_01_Zugal_134-134
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_134-134_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 115000, 116000
-# text = àmmaː suː maː na ƙahwaːhuwàː , bâː’a ɗiːbàn na hwar̃uttàː mayyaː , sai à ɗeːboː na ƙanaːnàː , à gamàː su dà na hannuwàː , à ajèː .
-# text_en = But the toenails too, you don't take the big ones, just the small ones, you put them with the fingernails, and put them aside.
-# text_ortho = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa, sai ’à ɗeeboo na ƙanaanàa, ’à gamàa su dà na hannuwàa, ’à ’ajèe.
+# text = àmmaː suː maː na ƙahwaːhuwàː , bâː’a ɗiːbàn na hwar̃uttàː mayyaː .
+# text_en = But the toenails too, you don't take the big ones.
+# text_ortho = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa.
 1	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	suː	suː	PRON	_	_	_	_	_	GE=[3Plur]|Gloss=3Plur|nWord=2|RX=[PRON]
 3	maː	maː	TopPART	_	_	2	discourse@top	_	GE=self|Gloss=self|nWord=3|RX=[TOPPART]
@@ -3702,23 +3702,31 @@
 9	na	na	ADP	_	_	8	udep	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=9|RX=[PART]
 10	hwar̃uttàː	hwar̃uttàː	NOUN	_	_	9	comp:obj	_	GE=[nail].[Plur]|Gloss=nail.Plur|nWord=10|RX=[NOUN]
 11	mayyaː	mayyaː	ADJ	_	_	9	mod	_	GE=[big].[Plur]|Gloss=big.Plur|nWord=11|RX=[ADJ]
-12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
-14	à	à	AUX	_	_	8	parataxis@mod	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
-15	ɗeːboː	ɗiːbàː	VERB	_	_	14	comp:aux	_	GE=take|Gloss=take.Dir|nWord=15|RX=[VERB]|wordform=ɗeːb
-16	na	na	ADP	_	_	15	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
-17	ƙanaːnàː	ƙanaːnàː	ADJ	_	_	16	comp:obj	_	GE=[small].[Plur]|Gloss=small.Plur|nWord=17|RX=[ADJ]
-18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-19	à	à	AUX	_	_	14	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
-20	gamàː	gamàː	VERB	_	_	19	comp:aux	_	GE=join|Gloss=join|nWord=20|RX=[VERB]
-21	su	su	PRON	_	_	20	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=21|RX=[PRON]
-22	dà	dà	ADP	_	_	20	comp:obl	_	GE=with|Gloss=with|nWord=22|RX=[ADP]
-23	na	na	ADP	_	_	22	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=23|RX=[PART]
-24	hannuwàː	hannuː	NOUN	_	_	23	comp:obj	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=24|RX=[NOUN]
-25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	à	à	AUX	_	_	19	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=26|RX=[AUX]
-27	ajèː	ajèː	VERB	_	_	26	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=27|RX=[VERB]
-28	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
+12	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_134-134_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 115000, 116000
+# text = sai à ɗeːboː na ƙanaːnàː , à gamàː su dà na hannuwàː , à ajèː .
+# text_en = You only take the small ones, you put them with the fingernails, and put them aside.
+# text_ortho = sai ’à ɗeeboo na ƙanaanàa, ’à gamàa su dà na hannuwàa, ’à ’ajèe.
+1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
+2	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
+3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take.Dir|nWord=15|RX=[VERB]|wordform=ɗeːb
+4	na	na	ADP	_	_	3	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
+5	ƙanaːnàː	ƙanaːnàː	ADJ	_	_	4	comp:obj	_	GE=[small].[Plur]|Gloss=small.Plur|nWord=17|RX=[ADJ]
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+7	à	à	AUX	_	_	2	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
+8	gamàː	gamàː	VERB	_	_	7	comp:aux	_	GE=join|Gloss=join|nWord=20|RX=[VERB]
+9	su	su	PRON	_	_	8	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=21|RX=[PRON]
+10	dà	dà	ADP	_	_	8	comp:obl	_	GE=with|Gloss=with|nWord=22|RX=[ADP]
+11	na	na	ADP	_	_	10	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=23|RX=[PART]
+12	hannuwàː	hannuː	NOUN	_	_	11	comp:obj	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=24|RX=[NOUN]
+13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+14	à	à	AUX	_	_	7	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=26|RX=[AUX]
+15	ajèː	ajèː	VERB	_	_	14	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=27|RX=[VERB]
+16	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_135-135
 # speaker_id = *
@@ -6527,15 +6535,15 @@
 4	liːƙèː	liːƙèː	VERB	_	_	3	comp:aux	_	GE=stick|Gloss=stick|nWord=4|RX=[VERB]
 5	mà	mà	ADP	_	_	4	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=5|RX=[ADP]
 6	kàreː	kàreː	NOUN	_	_	5	comp:obj	_	GE=[dog].[Masc]|Gloss=dog.Masc|nWord=6|RX=[NOUN]
-7	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
+7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	in	in	SCONJ	_	_	16	mod	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
 9	tal	tak	AUX	_	_	8	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=9|RX=[AUX]
 10	liːƙèː	liːƙèː	VERB	_	_	9	comp:aux	_	GE=stick|Gloss=stick|nWord=10|RX=[VERB]
 11	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
-13	an	an	AUX	_	_	3	parataxis@conj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=13|RX=[AUX]
+12	sai	sai	SCONJ	_	_	16	mod	_	Gloss=except_if|nWord=12
+13	an	an	AUX	_	_	12	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=13|RX=[AUX]
 14	cirèː	cirèː	VERB	_	_	13	comp:aux	_	GE=[pull].[Ach]|Gloss=pull.Ach|nWord=14|RX=[VERB]
-15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+15	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	hakà	hakà	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=16|RX=[ADV]
 17	nan	nan	DET	_	_	16	det	_	GE=[Dist]|Gloss=Dist|nWord=17|RX=[ADV]
 18	takà	takà	AUX	_	_	16	comp:cleft	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=18|RX=[AUX]
