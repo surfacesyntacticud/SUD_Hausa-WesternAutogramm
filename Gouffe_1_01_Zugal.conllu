@@ -55,7 +55,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 4000, 5000
-# text = in sunkà rìgyaː sunkà yi musù , maːgànîn nan na zuːgàl , har̃ yak kaːmàː su , bâːsu iyà yîn koːmiː , sai dà cêːwaːm mazaː .
+# text = in sunkà rìgyaː sunkà musù , maːgànîn nan na zuːgàl , har̃ yak kaːmàː su , bâːsu iyà yîn koːmiː , sai dà cêːwaːm mazaː .
 # text_en = When they have done it to them, that zugal medicine, and it has caught them, they cannot do anything without telling the men.
 # text_ortho = ’in sunkà ᵲìgyaa sunkà musù, maagàniǹ nan na zuugàl, hay yak kaamàa su, baà su ’iyà yiǹ koomii, sai dà ceèwam mazaa.
 1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -80,9 +80,9 @@
 19	iyà	iyàː	VERB	_	_	18	comp:aux	_	GE=be_able|Gloss=be_able|nWord=18|RX=[VERB]
 20	yîn	yi	VERB	_	Definite=Cons	19	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=yî
 21	koːmiː	koːmiː	PRON	_	_	20	udep	_	GE=anything|Gloss=anything|nWord=20|RX=[PRON]
-22	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-23	sai	sai	ADV	_	_	24	mod	_	GE=then|Gloss=then|nWord=22|RX=[ADV]
-24	dà	dà	ADP	_	_	20	comp:obl	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
+22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+23	sai	sai	ADP	_	_	19	mod	_	Gloss=except|nWord=22
+24	dà	dà	ADP	_	_	23	comp:obj	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 25	cêːwaːm	cêː	VERB	_	Definite=Cons	24	comp:obj	_	GE=say|Gloss=say.Nmlz.Fem|nWord=24|RX=[VERB]|wordform=cêː
 26	mazaː	mazaː	NOUN	_	_	25	udep	_	GE=[husband].[Plur]|Gloss=husband.Plur|nWord=25|RX=[NOUN]
 27	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=26|RX=[PUNCT]
