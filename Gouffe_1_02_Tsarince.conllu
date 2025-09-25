@@ -737,17 +737,14 @@
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
 1	sunàː	sunàː	AUX	_	_	0	root	_	Gloss=3Pl.Imp
-2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
-3	mà	mà	ADP	_	_	2	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
-4	sàmàːriː	sàmàːriː	NOUN	_	_	3	comp:obj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=32|RX=[NOUN]
-5	kiràːrìː	kiràːrìː	NOUN	_	_	2	comp:obj@T	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
-6-7	sunàː	_	_	_	_	_	_	_	_
-6	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	Gloss=3.Pl.Imp|nWord=34
-7	yi	yi	AUX	_	_	6	comp:aux	_	Gloss=3.Pl.Imp|nWord=34
-8	mà	mà	ADP	_	_	7	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
-9	’yam	’yan	ADJ	_	_	8	comp:obj	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
-10	maːtaː	maːtaː	NOUN	_	_	9	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
-11	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
+2	mà	mà	ADP	_	_	1	udep	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
+3	sàmàːriː	sàmàːriː	NOUN	_	_	2	comp:obj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=32|RX=[NOUN]
+4	kiràːrìː	kiràːrìː	NOUN	_	_	1	comp:aux	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
+5	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	Gloss=3.Pl.Imp|nWord=34
+6	mà	mà	ADP	_	_	5	udep	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
+7	’yam	’yan	ADJ	_	_	6	comp:obj	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
+8	maːtaː	maːtaː	NOUN	_	_	7	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
+9	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split2
 # speaker_id = *
@@ -2487,7 +2484,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 64000, 65000
-# text = in yay yi zamnàː , shìnàː mà bùdurwaː hiːr̃a , kuma shìnàː taɓà jìkintà , shìnàː shaːhwaj jìkintà , shì shaːhwà jìkintà koː’ìnaː , dàgà nan zamnàː , àmmaː hwa bâːshì taɓà ƙuːgùː .
+# text = in yay yi zamnàː , shìnàː mâː bùdurwaː hiːr̃a , kuma shìnàː taɓà jìkintà , shìnàː shaːhwaj jìkintà , shì shaːhwà jìkintà koː’ìnaː , dàgà nan zamnàː , àmmaː hwa bâːshì taɓà ƙuːgùː .
 # text_en = After he has sat down, he chats withe the girl, he touches her body, he caresses her body, he
 # text_ortho = ’in yay yi zàmne, šì nàa maà bùduᵲwaa hiira, kuma šì nàa taɓà jìkintà, šì nàa šaahwaj jìkintà, šì šaahwà jìkintà koo ’ìnaa, dàgà nan zàmne, ’àmmaa hwa baà šì taɓà ƙuugùu.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2496,41 +2493,40 @@
 4	zamnàː	zamnàː	VERB	_	_	3	comp:pred	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shìnàː	shìnàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=6|RX=[AUX]
-7	yi	yi	ADP	_	_	6	comp:aux	_	GE=[Dat]|Gloss=Dat|nWord=7|RX=[ADP]
-8	mà	mà	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=7|RX=[ADP]
-9	bùdurwaː	bùdurwaː	NOUN	_	_	7	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
-10	hiːr̃a	hiːr̃a	NOUN	_	_	_	_	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=9|RX=[NOUN]
-11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-12	kuma	kuma	PART	_	_	13	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
-13	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=12|RX=[AUX]
-14	taɓà	taɓàː	VERB	_	_	13	comp:aux	_	GE=touch|Gloss=touch|nWord=13|RX=[VERB]
-15-16	jìkintà	_	_	_	_	_	_	_	_
-15	jìkin	jìkiː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]|wordform=jìki
-16	=tà	=tà	PRON	_	_	15	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]|wordform=-tà
-17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-18	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=16|RX=[AUX]
-19	shaːhwaj	shaːhwàː	VERB	_	_	18	comp:aux	_	GE=[rub].[Nmlz].[Fem]|Gloss=rub.Nmlz.Fem|nWord=17|RX=[VERB]
-20-21	jìkintà	_	_	_	_	_	_	_	_
-20	jìkin	jìkiː	NOUN	_	Definite=Cons	19	udep	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=18|RX=[NOUN]|wordform=jìki
-21	=tà	=tà	PRON	_	_	20	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=18|RX=[PRON]|wordform=-tà
-22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-23	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
-24	shaːhwà	shaːhwàː	VERB	_	_	23	comp:aux	_	GE=rub|Gloss=rub|nWord=21|RX=[VERB]
-25-26	jìkintà	_	_	_	_	_	_	_	_
-25	jìkin	jìkiː	NOUN	_	Definite=Cons	24	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=22|RX=[NOUN]|wordform=jìki
-26	=tà	=tà	PRON	_	_	25	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]|wordform=-tà
-27	koː’ìnaː	koː’ìnaː	PRON	_	_	_	_	_	GE=everywhere|Gloss=everywhere|nWord=23|RX=[PRON]
-28	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-29	dàgà	dàgà	ADP	_	_	_	_	_	GE=from|Gloss=from|nWord=25|RX=[ADP]
-30	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=26|RX=[ADV]
-31	zamnàː	zamnàː	VERB	_	_	_	_	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=27|RX=[VERB]
-32	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-33	àmmaː	àmmaː	CCONJ	_	_	_	_	_	GE=but|Gloss=but|nWord=29|RX=[CCONJ]
-34	hwa	hwa	TopPART	_	_	33	discourse@top	_	GE=however|Gloss=however|nWord=30|RX=[TOPPART]
-35	bâːshì	bâːshì	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=31|RX=[AUX]
-36	taɓà	taɓàː	VERB	_	_	35	comp:aux	_	GE=touch|Gloss=touch|nWord=32|RX=[VERB]
-37	ƙuːgùː	ƙuːgùː	NOUN	_	_	36	comp:obj	_	GE=[bottom].[Masc]|Gloss=bottom.Masc|nWord=33|RX=[NOUN]
-38	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=34|RX=[PUNCT]
+7	mâː	mâː	ADP	_	_	_	_	_	GE=[Dat]|Gloss=Dat|nWord=7|RX=[ADP]
+8	bùdurwaː	bùdurwaː	NOUN	_	_	7	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
+9	hiːr̃a	hiːr̃a	NOUN	_	_	_	_	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=9|RX=[NOUN]
+10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
+12	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=12|RX=[AUX]
+13	taɓà	taɓàː	VERB	_	_	12	comp:aux	_	GE=touch|Gloss=touch|nWord=13|RX=[VERB]
+14-15	jìkintà	_	_	_	_	_	_	_	_
+14	jìkin	jìkiː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]|wordform=jìki
+15	=tà	=tà	PRON	_	_	14	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=14|RX=[PRON]|wordform=-tà
+16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+17	shìnàː	shìnàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=16|RX=[AUX]
+18	shaːhwaj	shaːhwàː	VERB	_	_	17	comp:aux	_	GE=[rub].[Nmlz].[Fem]|Gloss=rub.Nmlz.Fem|nWord=17|RX=[VERB]
+19-20	jìkintà	_	_	_	_	_	_	_	_
+19	jìkin	jìkiː	NOUN	_	Definite=Cons	18	udep	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=18|RX=[NOUN]|wordform=jìki
+20	=tà	=tà	PRON	_	_	19	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=18|RX=[PRON]|wordform=-tà
+21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
+22	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
+23	shaːhwà	shaːhwàː	VERB	_	_	22	comp:aux	_	GE=rub|Gloss=rub|nWord=21|RX=[VERB]
+24-25	jìkintà	_	_	_	_	_	_	_	_
+24	jìkin	jìkiː	NOUN	_	Definite=Cons	23	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=22|RX=[NOUN]|wordform=jìki
+25	=tà	=tà	PRON	_	_	24	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]|wordform=-tà
+26	koː’ìnaː	koː’ìnaː	PRON	_	_	_	_	_	GE=everywhere|Gloss=everywhere|nWord=23|RX=[PRON]
+27	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+28	dàgà	dàgà	ADP	_	_	_	_	_	GE=from|Gloss=from|nWord=25|RX=[ADP]
+29	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=26|RX=[ADV]
+30	zamnàː	zamnàː	VERB	_	_	_	_	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=27|RX=[VERB]
+31	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
+32	àmmaː	àmmaː	CCONJ	_	_	_	_	_	GE=but|Gloss=but|nWord=29|RX=[CCONJ]
+33	hwa	hwa	TopPART	_	_	32	discourse@top	_	GE=however|Gloss=however|nWord=30|RX=[TOPPART]
+34	bâːshì	bâːshì	AUX	_	_	_	_	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=31|RX=[AUX]
+35	taɓà	taɓàː	VERB	_	_	34	comp:aux	_	GE=touch|Gloss=touch|nWord=32|RX=[VERB]
+36	ƙuːgùː	ƙuːgùː	NOUN	_	_	35	comp:obj	_	GE=[bottom].[Masc]|Gloss=bottom.Masc|nWord=33|RX=[NOUN]
+37	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=34|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_67-67
 # speaker_id = *
