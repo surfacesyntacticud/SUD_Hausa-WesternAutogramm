@@ -2484,7 +2484,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 64000, 65000
-# text = in yay yi zamnàː , shìnàː mâː bùdurwaː hiːr̃a , kuma shìnàː taɓà jìkin =tà , shìnàː shaːhwaj jìkin =tà ,
+# text = in yay yi zamnàː , shìnàː mâː bùdurwaː hiːr̃a , kuma shìnàː taɓà jìkintà , shìnàː shaːhwaj jìkintà ,
 # text_en = After he has sat down, he chats withe the girl, he touches her body, he caresses her body.
 # text_ortho = ’in yay yi zàmne, šì nàa maà bùduᵲwaa hiira, kuma šì nàa taɓà jìkintà, šì nàa šaahwaj jìkintà.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -2493,9 +2493,9 @@
 4	zamnàː	zamnàː	VERB	_	_	3	comp:pred	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shìnàː	shìnàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=6|RX=[AUX]
-7	mâː	mâː	ADP	_	_	6	udep	_	GE=[Dat]|Gloss=Dat|nWord=7|RX=[ADP]
-8	bùdurwaː	bùdurwaː	NOUN	_	_	7	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
-9	hiːr̃a	hiːr̃a	NOUN	_	_	6	comp:aux	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=9|RX=[NOUN]
+7	mâː	mâː	VERB	_	_	6	comp:aux	_	Gloss=do.Dat|nWord=7
+8	bùdurwaː	bùdurwaː	NOUN	_	_	7	comp:obj@R	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
+9	hiːr̃a	hiːr̃a	NOUN	_	_	7	comp:pred	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
 12	shìnàː	shìnàː	AUX	_	_	6	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=12|RX=[AUX]
