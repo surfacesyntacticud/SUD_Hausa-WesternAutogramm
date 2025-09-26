@@ -1312,15 +1312,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 43000, 44000
-# text = ita kakà yi mâː .
+# text = ita kakà mâː .
 # text_en = It's to her that you do it.
 # text_ortho = ’ita ka kà maà.
 1	ita	ita	PRON	_	_	0	root	_	GE=[3Fem]|Gloss=3Fem|nWord=19|RX=[PRON]
-2-3	kakà	_	_	_	_	_	_	_	_
 2	kakà	kakà	AUX	_	_	1	comp:cleft	_	GE=[2Masc].[Imp].[Bkg]|Gloss=2Masc.Imp.Bkg|nWord=20|RX=[AUX]
-3	yi	yi	VERB	_	_	2	comp:aux	_	GE=[2Masc].[Imp].[Bkg]|Gloss=2Masc.Imp.Bkg|nWord=20|RX=[AUX]
-4	mâː	mâː	PRON	_	_	3	comp:obl	_	GE=[Dat]|Gloss=3.Fem.Dat|nWord=21|RX=[PRON]
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
+3	mâː	mâː	VERB	_	_	2	comp:aux	_	Gloss=do.Dat|nWord=21
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_050-050
 # speaker_id = *
