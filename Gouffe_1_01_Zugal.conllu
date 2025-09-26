@@ -1285,7 +1285,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 43000, 44000
-# text = don shiː maːgànin zuːgàl , mùtum bâːshi yi mà màccè waddà bâːshi sôː , sai waddà kakà sôː .
+# text = don shiː maːgànin zuːgàl , mùtum bâːshi mâː màccè waddà bâːshi sôː , sai waddà kakà sôː .
 # text_en = Because that "zugal" medicine, a man does not do it on a woman he does not love, only to the one you love.
 # text_ortho = don šii maagànin zuugàl, mùtum baà ši maà màccè waddà baà ši soò, sai waddà ka kà soò.
 1	don	don	SCONJ	_	_	7	discourse	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
@@ -1295,18 +1295,17 @@
 5	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	mùtum	mùtun	NOUN	_	_	7	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=6|RX=[NOUN]
 7	bâːshi	bâːshi	AUX	_	_	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=7|RX=[AUX]
-8	yi	yi	AUX	_	_	7	comp:aux	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=7|RX=[AUX]
-9	mâː	mâː	ADP	_	_	8	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=8|RX=[ADP]
-10	màccè	màccè	NOUN	_	_	9	comp:obj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=9|RX=[NOUN]
-11	waddà	waddà	PRON	_	PronType=Rel	13	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
-12	bâːshi	bâːshi	AUX	_	_	10	mod@relcl	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=11|RX=[AUX]
-13	sôː	sôː	VERB	_	_	12	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]
-14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	sai	sai	ADP	_	_	8	mod	_	GE=only|Gloss=only|nWord=14|RX=[ADP]
-16	waddà	waddà	PRON	_	PronType=Rel	15	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=15|RX=[PRON]
-17	kakà	kakà	AUX	_	_	16	mod@relcl	_	GE=[2Masc].[Imp].[Bkg]|Gloss=2Masc.Imp.Bkg|nWord=16|RX=[AUX]
-18	sôː	sôː	VERB	_	_	17	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=17|RX=[VERB]
-19	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+8	mâː	mâː	VERB	_	_	7	comp:aux	_	Gloss=do.Dat|nWord=8
+9	màccè	màccè	NOUN	_	_	8	comp:obj@R	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=9|RX=[NOUN]
+10	waddà	waddà	PRON	_	PronType=Rel	12	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
+11	bâːshi	bâːshi	AUX	_	_	9	mod@relcl	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=11|RX=[AUX]
+12	sôː	sôː	VERB	_	_	11	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]
+13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	sai	sai	ADP	_	_	8	mod	_	GE=only|Gloss=only|nWord=14|RX=[ADP]
+15	waddà	waddà	PRON	_	PronType=Rel	14	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=15|RX=[PRON]
+16	kakà	kakà	AUX	_	_	15	mod@relcl	_	GE=[2Masc].[Imp].[Bkg]|Gloss=2Masc.Imp.Bkg|nWord=16|RX=[AUX]
+17	sôː	sôː	VERB	_	_	16	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=17|RX=[VERB]
+18	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_049-049_split1_split2_split2
 # speaker_id = *
@@ -1433,9 +1432,8 @@
 # text_ortho = ’ita ’a kà maà.
 1	ita	ita	PRON	_	_	0	root	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
 2	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=18|RX=[AUX]
-3	yi	yi	AUX	_	_	2	comp:aux	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=18|RX=[AUX]
-4	mâː	mâː	PRON	_	_	3	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
+3	mâː	mâː	VERB	_	_	2	comp:aux	_	Gloss=do.Dat|nWord=19
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_053-053_split1
 # speaker_id = *
