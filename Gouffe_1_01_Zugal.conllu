@@ -2709,10 +2709,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 85000, 86000
-# text = in shinàː yîn kwaːnaː dà raːna , wânnam maːgànîn dà yam mà màccè , don tà yi ta sôːnai , sai maːgànîn shì kaːmàː shi , shiː shì yi ta sôm màcce .
+# text = in shinàː yîn kwaːnaː dà raːna , wânnam maːgànîn dà yam mâː màccè , don tà yi ta sôːnai , sai maːgànîn shì kaːmàː shi , shiː shì yi ta sôm màcce .
 # text_en = If he goes to bed during the day, that medicine that he has used on the woman, for her to love him, then that medicine will catch him, and he, he will keep loving the woman.
 # text_ortho = ’in ši nàa yiǹ kwaanaa dà ᵲaana, waǹnam maagàniǹ dà yam maà màccè, don tà yi ta soònai, sai maagàniǹ šì kaamàa ši, šii šì yi ta som̀ màcceǹ.
-1	in	in	SCONJ	_	_	25	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	24	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	shinàː	shinàː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=2|RX=[AUX]
 3	yîn	yi	VERB	_	Definite=Cons	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=yî
 4	kwaːnaː	kwaːnaː	VERB	_	_	3	comp:pred	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
@@ -2720,34 +2720,33 @@
 6	raːna	raːna	ADV	_	_	5	comp:obj	_	GE=in_the_day|Gloss=in_the_day|nWord=6|RX=[ADV]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	wânnam	wânnan	DET	_	_	9	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=8|RX=[DET]
-9	maːgànîn	maːgàniː	NOUN	_	Definite=Def	25	dislocated@subj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=9|RX=[NOUN]
+9	maːgànîn	maːgàniː	NOUN	_	Definite=Def	24	dislocated@subj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=9|RX=[NOUN]
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
-11	yay	yay	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
-12	yi	yi	AUX	_	_	11	comp:aux	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
-13	mà	mà	ADP	_	_	12	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=12|RX=[ADP]
-14	màccè	màccè	NOUN	_	_	13	comp:obj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=13|RX=[NOUN]
-15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-16	don	don	SCONJ	_	_	12	mod	_	GE=because|Gloss=because|nWord=15|RX=[SCONJ]
-17	tà	tà	AUX	_	_	16	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=16|RX=[AUX]
-18	yi	yi	VERB	_	_	17	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-19	ta	ta	ADP	_	_	18	comp:pred	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
-20-21	sôːnai	_	_	_	_	_	_	_	_
-20	sôː	sôː	VERB	_	_	19	comp:obj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=19|RX=[VERB]
-21	=nai	=nai	PRON	_	_	20	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=19|RX=[PRON]|wordform=-ai
-22	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-23	sai	sai	ADV	_	_	25	mod	_	GE=then|Gloss=then|nWord=21|RX=[ADV]
-24	maːgànîn	maːgàniː	NOUN	_	Definite=Def	25	subj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=22|RX=[NOUN]
-25	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
-26	kaːmàː	kaːmàː	VERB	_	_	25	comp:aux	_	GE=catch|Gloss=catch|nWord=24|RX=[VERB]
-27	shi	shi	PRON	_	_	26	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
-28	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-29	shiː	shiː	PRON	_	_	30	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=27|RX=[PRON]
-30	shì	shì	AUX	_	_	25	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
-31	yi	yi	VERB	_	_	30	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
-32	ta	ta	ADP	_	_	31	comp:pred	_	GE=via|Gloss=via|nWord=30|RX=[ADP]
-33	sôm	sôː	VERB	_	Definite=Cons	32	comp:obj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=31|RX=[VERB]|wordform=sô
-34	màcce	màcce	NOUN	_	_	33	udep	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=32|RX=[NOUN]
-35	.	.	PUNCT	_	_	25	punct	_	Gloss=.|nWord=33|RX=[PUNCT]
+11	yam	yay	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.[do]|nWord=11|RX=[AUX]
+12	mâː	mâː	ADP	_	_	11	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=12|RX=[ADP]
+13	màccè	màccè	NOUN	_	_	12	comp:obj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=13|RX=[NOUN]
+14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+15	don	don	SCONJ	_	_	11	mod	_	GE=because|Gloss=because|nWord=15|RX=[SCONJ]
+16	tà	tà	AUX	_	_	15	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=16|RX=[AUX]
+17	yi	yi	VERB	_	_	16	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
+18	ta	ta	ADP	_	_	17	comp:pred	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
+19-20	sôːnai	_	_	_	_	_	_	_	_
+19	sôː	sôː	VERB	_	_	18	comp:obj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=19|RX=[VERB]
+20	=nai	=nai	PRON	_	_	19	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=19|RX=[PRON]|wordform=-ai
+21	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+22	sai	sai	ADV	_	_	24	mod	_	GE=then|Gloss=then|nWord=21|RX=[ADV]
+23	maːgànîn	maːgàniː	NOUN	_	Definite=Def	24	subj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=22|RX=[NOUN]
+24	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
+25	kaːmàː	kaːmàː	VERB	_	_	24	comp:aux	_	GE=catch|Gloss=catch|nWord=24|RX=[VERB]
+26	shi	shi	PRON	_	_	25	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
+27	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+28	shiː	shiː	PRON	_	_	29	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=27|RX=[PRON]
+29	shì	shì	AUX	_	_	24	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
+30	yi	yi	VERB	_	_	29	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
+31	ta	ta	ADP	_	_	30	comp:pred	_	GE=via|Gloss=via|nWord=30|RX=[ADP]
+32	sôm	sôː	VERB	_	Definite=Cons	31	comp:obj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=31|RX=[VERB]|wordform=sô
+33	màcce	màcce	NOUN	_	_	32	udep	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=32|RX=[NOUN]
+34	.	.	PUNCT	_	_	24	punct	_	Gloss=.|nWord=33|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_101-101
 # speaker_id = *

@@ -43,33 +43,31 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 1000, 2000
-# text = dà sunàː mai kissà, sai yac cêː shiː dai yaː gàji dà kissàm maːtaː, sai yar ràbu dà suː.
+# text = dà sunàː mai kissà , sai yac cêː shiː dai yaː gàji dà kissàm maːtaː , sai yar ràbu dà suː .
 # text_en = As they cheated on him, he said that he was tired of women's deception, he must give them up.
 # text_ortho = dà su nàa mai kissà, sai yac ceè šii dai yaa gàji dà kissàm maataa, sai yaᵲ ᵲàbu dà suu.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2-3	sunàː	_	_	_	_	_	_	_	_
-2	sunàː	sunàː	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=2|RX=[AUX]
-3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	mai	mai	PRON	_	_	3	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=3|RX=[PRON]
-5	kissà	kissà	NOUN	_	_	3	comp:pred	_	GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=4|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
-8	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
-9	cêː	cêː	VERB	_	_	8	comp:aux	_	GE=say|Gloss=say|nWord=8|RX=[VERB]
-10	shiː	shiː	PRON	_	_	9	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-11	dai	dai	TopPART	_	_	10	discourse@top	_	GE=indeed|Gloss=indeed|nWord=10|RX=[TOPPART]
-12	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=11|RX=[AUX]
-13	gàji	gàji	VERB	_	_	12	comp:aux	_	GE=get_tired|Gloss=get_tired|nWord=12|RX=[VERB]
-14	dà	dà	ADP	_	_	13	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
-15	kissàm	kissà	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=14|RX=[NOUN]|wordform=kissà
-16	maːtaː	maːtaː	NOUN	_	_	15	mod	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=15|RX=[NOUN]
-17	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
-19	yar	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
-20	ràbu	ràbu	VERB	_	_	19	comp:aux	_	GE=separate|Gloss=separate|nWord=19|RX=[VERB]
-21	dà	dà	ADP	_	_	20	comp:obl	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
-22	suː	suː	PRON	_	_	21	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=21|RX=[PRON]
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
+2	sunàː	sunàː	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp.[do]|nWord=2|RX=[AUX]
+3	mai	mai	PRON	_	_	2	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=3|RX=[PRON]
+4	kissà	kissà	NOUN	_	_	2	comp:pred	_	GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=4|RX=[NOUN]
+5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
+7	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
+8	cêː	cêː	VERB	_	_	7	comp:aux	_	GE=say|Gloss=say|nWord=8|RX=[VERB]
+9	shiː	shiː	PRON	_	_	8	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
+10	dai	dai	TopPART	_	_	9	discourse@top	_	GE=indeed|Gloss=indeed|nWord=10|RX=[TOPPART]
+11	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=11|RX=[AUX]
+12	gàji	gàji	VERB	_	_	11	comp:aux	_	GE=get_tired|Gloss=get_tired|nWord=12|RX=[VERB]
+13	dà	dà	ADP	_	_	12	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
+14	kissàm	kissà	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[cheating].[Fem]|Gloss=cheating.Fem|nWord=14|RX=[NOUN]|wordform=kissà
+15	maːtaː	maːtaː	NOUN	_	_	14	mod	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=15|RX=[NOUN]
+16	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
+18	yar	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=18|RX=[AUX]
+19	ràbu	ràbu	VERB	_	_	18	comp:aux	_	GE=separate|Gloss=separate|nWord=19|RX=[VERB]
+20	dà	dà	ADP	_	_	19	comp:obl	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
+21	suː	suː	PRON	_	_	20	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=21|RX=[PRON]
+22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_003-003
 # speaker_id = *
@@ -615,7 +613,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 19000, 20000
-# text = du’ àbun dà yak kàmaːtà à yi cikin gàriː, sai sarkiː yaː mai shaːwar̃àː, sabòːdà lì:maːmìnshì neː.
+# text = du’ àbùn dà yak kàmaːtà à yi cikin gàriː , sai sarkiː yaː mai shaːwar̃àː , sabòːdà lì:maːmìnshì neː .
 # text_en = Whatever had to be done in town, the chief took his advice because he was his imam.
 # text_ortho = du’ ’àbun dà yak kàmaatà, ’à yi cikin gàᵲii, sai saᵲkii yaa mai šaawaràa, sabòo dà lìimaamìnšì nee.
 1	du’	duk	DET	_	_	_	_	_	GE=all|Gloss=all|nWord=1|RX=[DET]
@@ -632,18 +630,16 @@
 11	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 12	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 13	sarkiː	sarkiː	NOUN	_	_	14	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
-14-15	yam	_	_	_	_	_	_	_	_
-14	yay	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=13|RX=[AUX]|wordform=yaː
-15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
-16	mai	mai	PRON	_	_	15	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=14|RX=[PRON]
-17	shaːwar̃àː	shaːwar̃àː	NOUN	_	_	15	comp:pred	_	GE=[deliberation].[Fem]|Gloss=deliberation.Fem|nWord=15|RX=[NOUN]
-18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-19	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=17|RX=[SCONJ]
-20-21	lì:maːmìnshì	_	_	_	_	_	_	_	_
-20	lì:maːmìn	lì:maːmìː	NOUN	_	Definite=Cons	_	_	_	GE=[imam].[Masc]|Gloss=imam.Masc|nWord=18|RX=[NOUN]|wordform=lì:maːmì
-21	=shì	=shì	PRON	_	_	20	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=18|RX=[PRON]|wordform=-shì
-22	neː	neː	IdPART	_	_	_	_	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=19|RX=[IDPART]
-23	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
+14	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=13|RX=[AUX]
+15	mai	mai	PRON	_	_	14	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=14|RX=[PRON]
+16	shaːwar̃àː	shaːwar̃àː	NOUN	_	_	14	comp:pred	_	GE=[deliberation].[Fem]|Gloss=deliberation.Fem|nWord=15|RX=[NOUN]
+17	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+18	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=17|RX=[SCONJ]
+19-20	lì:maːmìnshì	_	_	_	_	_	_	_	_
+19	lì:maːmìn	lì:maːmìː	NOUN	_	Definite=Cons	_	_	_	GE=[imam].[Masc]|Gloss=imam.Masc|nWord=18|RX=[NOUN]|wordform=lì:maːmì
+20	=shì	=shì	PRON	_	_	19	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=18|RX=[PRON]|wordform=-shì
+21	neː	neː	IdPART	_	_	_	_	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=19|RX=[IDPART]
+22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_020-020
 # speaker_id = *
@@ -2049,42 +2045,38 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 70000, 71000
-# text = yac cêː maːdàlla, yam mutà gòːdiyaː.
+# text = yac cêː maːdàlla , yam mutà gòːdiyaː .
 # text_en = He said OK, he thanked her.
 # text_ortho = yac ceè maadàlla, yam mutà gòodiyaa.
 1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	maːdàlla	maːdàlla	INTJ	_	_	_	_	_	GE=[thank_God]|Gloss=thank_God|nWord=3|RX=[INTJ]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5-6	yam	_	_	_	_	_	_	_	_
-5	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=5|RX=[AUX]|wordform=yam
-6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
-7	mutà	mutà	PRON	_	_	6	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=6|RX=[PRON]
-8	gòːdiyaː	gòːdiyaː	NOUN	_	_	6	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=7|RX=[NOUN]
-9	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=8|RX=[PUNCT]
+5	yam	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg.[do]|nWord=5|RX=[AUX]
+6	mutà	mutà	PRON	_	_	5	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=6|RX=[PRON]
+7	gòːdiyaː	gòːdiyaː	NOUN	_	_	5	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=7|RX=[NOUN]
+8	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_069-069
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 71000, 73000
-# text = dà yam mutà gòːdiyaː, kuma yab baː tà laːdattà.
+# text = dà yam mutà gòːdiyaː , kuma yab baː tà laːdattà .
 # text_en = After thanking her, he gave her her commission.
 # text_ortho = dà yam mutà gòodiyaa, kuma yab baa tà laadattà.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2-3	yam	_	_	_	_	_	_	_	_
-2	yay	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]|wordform=yam
-3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	mutà	mutà	PRON	_	_	3	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
-5	gòːdiyaː	gòːdiyaː	NOUN	_	_	3	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=4|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
-8	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
-9	baː	baː	VERB	_	_	8	comp:aux	_	GE=give|Gloss=give|nWord=8|RX=[VERB]
-10	tà	ta	PRON	_	_	9	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
-11-12	laːdattà	_	_	_	_	_	_	_	_
-11	laːdat	laːdaː	NOUN	_	Definite=Cons	_	_	_	GE=[wages].[Fem]|Gloss=wages.Fem|nWord=10|RX=[NOUN]|wordform=laːda
-12	=tà	=tà	PRON	_	_	11	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=10|RX=[PRON]|wordform=-tà
-13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
+2	yam	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg.[do]|nWord=2|RX=[AUX]
+3	mutà	mutà	PRON	_	_	2	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
+4	gòːdiyaː	gòːdiyaː	NOUN	_	_	2	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=4|RX=[NOUN]
+5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
+7	yab	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=7|RX=[AUX]
+8	baː	baː	VERB	_	_	7	comp:aux	_	GE=give|Gloss=give|nWord=8|RX=[VERB]
+9	tà	ta	PRON	_	_	8	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
+10-11	laːdattà	_	_	_	_	_	_	_	_
+10	laːdat	laːdaː	NOUN	_	Definite=Cons	_	_	_	GE=[wages].[Fem]|Gloss=wages.Fem|nWord=10|RX=[NOUN]|wordform=laːda
+11	=tà	=tà	PRON	_	_	10	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=10|RX=[PRON]|wordform=-tà
+12	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_070-070
 # speaker_id = *
@@ -2962,7 +2954,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 103000, 104000
-# text = don ita màːtam maːlàm, koː can ƙaryaː cèː tay yi mà maːlàm, tat tuːràː shi gidan sarkiː, don shì hìta shì bar̃ gidaː, kâsh shì shìga ɗaːkì:, shì ga ɗan sarkiː.
+# text = don ita màːtam maːlàmiː , koː can ƙaryaː cèː tay yi mà maːlàm , tat tuːràː shi gidan sarkiː , don shì hìta shì bar̃ gidaː , kâsh shì shìga ɗaːkì: , shì ganiː ɗan sarkiː .
 # text_en = Because she, the malam's wife, although it was a lie she told then to the malam, she sent him to the chief's house so that he would go out and leave the compound lest he should enter the hut and see the chief's son.
 # text_ortho = don ’ita màatam maalàm, koo can ƙaᵲyaa cèe tay yi mà maalàm, tat tuuᵲàa ši gidan saᵲkii, don šì hìta šì bar gidaa, kaš’ šì šìga ɗaakìi, šì ga ɗan saᵲkii.
 1	don	don	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
@@ -2977,7 +2969,7 @@
 10	tay	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=10|RX=[AUX]
 11	yi	yi	VERB	_	_	10	comp:aux	_	GE=do|Gloss=do|nWord=11|RX=[VERB]
 12	mà	mà	ADP	_	_	11	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=12|RX=[ADP]
-13	maːlàmiː	maːlàm	NOUN	_	_	12	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=13|RX=[NOUN]
+13	maːlàm	maːlàm	NOUN	_	_	12	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	tat	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=15|RX=[AUX]
 16	tuːràː	tuːràː	VERB	_	_	15	comp:aux	_	GE=push/send|Gloss=push/send|nWord=16|RX=[VERB]
@@ -3120,7 +3112,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 107000, 108000
-# text = sabòːdà hakà nan , naz zoː ìn mukà gòːdiyaː .
+# text = sabòːdà hakà nan , naz zoː ìm mukà gòːdiyaː .
 # text_en = That's why I have come to thank you.
 # text_ortho = sabòo dà hakà nan, naz zoo ’ìm mukà gòodiyaa.
 1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
@@ -3129,18 +3121,16 @@
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	naz	nak	AUX	_	_	1	comp:cleft	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=5|RX=[AUX]
 6	zoː	zoː	VERB	_	_	5	comp:aux	_	GE=come|Gloss=come|nWord=6|RX=[VERB]
-7-8	ìn	_	_	_	_	_	_	_	_
-7	ìn	ìn	AUX	_	_	6	mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
-8	yi	yi	VERB	_	_	7	comp:aux	_	GE=[1Sing].[Aor]|Gloss=do|nWord=7|RX=[VERB]
-9	mukà	mukà	PRON	_	_	8	comp:obl	_	GE=[1Plur]|Gloss=1Plur.Dat|nWord=8|RX=[PRON]
-10	gòːdiyaː	gòːdiyaː	NOUN	_	_	8	comp:pred	_	Gloss=thanks.Fem|nWord=10|RX=[NOUN]
-11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+7	ìm	ìn	AUX	_	_	6	mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor.[do]|nWord=7|RX=[AUX]
+8	mukà	mukà	PRON	_	_	7	comp:obl@R	_	GE=[1Plur]|Gloss=1Plur.Dat|nWord=8|RX=[PRON]
+9	gòːdiyaː	gòːdiyaː	NOUN	_	_	7	comp:pred	_	Gloss=thanks.Fem|nWord=10|RX=[NOUN]
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_104-104
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 108000, 109000
-# text = sarkiː yac cêː mà maːlàm : maːlàm kaː haukàceː, kuma kaː yi mun ƙaryaː.
+# text = sarkiː yac cêː mà maːlàmiː : maːlàmiː kaː haukàceː , kuma kaː yi mun ƙaryaː .
 # text_en = The chief told the malam : Malam, you have gone mad, and you have lied to me.
 # text_ortho = saᵲkii yac ceè mà maalàm : maalàm kaa haukàcee, kuma kaa yi mun ƙaᵲyaa.
 1	sarkiː	sarkiː	NOUN	_	_	2	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
@@ -3154,7 +3144,7 @@
 9	haukàceː	haukàceː	VERB	_	_	8	comp:aux	_	GE=go_crazy|Gloss=go_crazy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
-12	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=12|RX=[AUX]
+12	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf.[do]|nWord=12|RX=[AUX]
 13	yi	yi	VERB	_	_	12	comp:aux	_	GE=do|Gloss=do|nWord=13|RX=[VERB]
 14	mun	minì	PRON	_	_	13	comp:obl@R	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=14|RX=[PRON]
 15	ƙaryaː	ƙaryaː	NOUN	_	_	_	_	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=15|RX=[NOUN]
@@ -3179,11 +3169,11 @@
 10	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_106-106
+# text = sabòːdà miː zâː ka zoːwaː nân wuriːna [?] kà mun ƙaryaː ? .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 110000, 111000
-# text = sabòːdà miː zâː ka zoːwaː nân wuriːna [?] kà mun ƙaryaː ? .
-# text_en = Why would you come here to my plce to lie to me?
+# text_en = Why would you come here to my place to lie to me?
 # text_ortho = sabòo dà mii zaà ka zoẁwaa naǹ wuᵲiina [?] kà mun ƙaᵲyaa ?.
 1	sabòːdà	sabòːdà	SCONJ	_	_	_	_	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	miː	miː	PRON	_	_	_	_	_	GE=[what].[Int]|Gloss=what.Int|nWord=2|RX=[PRON]
@@ -3195,13 +3185,11 @@
 7	wuriː	wuriː	NOUN	_	_	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=7|RX=[NOUN]
 8	=na	=na	PRON	_	_	7	mod	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=7|RX=[PRON]|wordform=-na
 9	[?]	[?]	PUNCT	_	_	10	punct	_	GE=[[?]]|Gloss=[?]|nWord=8|RX=[PUNCT]
-10-11	kà	_	_	_	_	_	_	_	_
-10	kà	kà	AUX	_	_	_	_	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=9|RX=[AUX]
-11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
-12	mun	minì	PRON	_	_	11	comp:obl	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
-13	ƙaryaː	ƙaryaː	NOUN	_	_	11	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=11|RX=[NOUN]
-14	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=12|RX=[PUNCT]
-15	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
+10	kà	kà	AUX	_	_	_	_	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor.[do]|nWord=9|RX=[AUX]
+11	mun	minì	PRON	_	_	10	comp:obl@R	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
+12	ƙaryaː	ƙaryaː	NOUN	_	_	10	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=11|RX=[NOUN]
+13	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=12|RX=[PUNCT]
+14	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_107-107
 # speaker_id = *
@@ -3300,7 +3288,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 113000, 115000
-# text = dà maːlàmiː yac cèː mà màːtaːtai hakà nan , sai màːtam maːlàmiː tah hwasà kuːkaː , tanàː ta ƙaːraː , tanàː cèːwaː à kaːmà maːlàmiː , yaː yi mutà ƙaryaː .
+# text = dà maːlàmiː yac cèː mà màːtaːtai hakà nan , sai màːtam maːlàmiː tah hwasà kuːkaː , tanàː ta ƙaːraː , tanàː cèːwaː à kaːmà maːlàmiː , yaː mutà ƙaryaː .
 # text_en = When the malam spoke like that to his wife, then the wife of the malam started to shed tears, she was crying, she was saying let them catch the malam, he has lied to me.
 # text_ortho = dà maalàm yac cèe mà màataatai hakà nan, sai màatam maalàm tah hwasà kuukaa, ta nàa ta ƙaaᵲaa, ta nàa cèewaa ’à kaamà maalàm, yaa mutà ƙaᵲyaa.
 1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -3333,12 +3321,10 @@
 26	kaːmà	kaːmàː	VERB	_	_	25	comp:aux	_	GE=catch|Gloss=catch|nWord=24|RX=[VERB]
 27	maːlàmiː	maːlàm	NOUN	_	_	26	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=25|RX=[NOUN]
 28	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-29-30	yaː	_	_	_	_	_	_	_	_
-29	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=27|RX=[AUX]
-30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
-31	mutà	mutà	PRON	_	_	30	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=28|RX=[PRON]
-32	ƙaryaː	ƙaryaː	NOUN	_	_	30	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=29|RX=[NOUN]
-33	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=30|RX=[PUNCT]
+29	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=27|RX=[AUX]
+30	mutà	mutà	PRON	_	_	29	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=28|RX=[PRON]
+31	ƙaryaː	ƙaryaː	NOUN	_	_	29	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=29|RX=[NOUN]
+32	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=30|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_110-110
 # speaker_id = *

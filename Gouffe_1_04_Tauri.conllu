@@ -3316,7 +3316,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 102000, 103000
-# text = in kaɗ ɗaukoː hwaːtàː, sai kà sâː àlluːr̃àː, koː c’inkèː, kà yi mutà hùːde-hùːdeː, irìn na ɗumkìː.
+# text = in kaɗ ɗaukoː hwaːtàː , sai kà sâː àlluːr̃àː , koː c’inkèː , kà mutà hùːde-hùːdeː , irìn na ɗumkìː .
 # text_en = When you take the leather, you use a needle or a wooden skewer to pierce holes in it, like when sewing.
 # text_ortho = ’in kaɗ ɗaukoo hwaatàa, sai kà saà ’àlluuràa, koo c’inkèe, kà yi mutà hùude-hùudee, ’iᵲìn na ɗumkìi.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -3332,15 +3332,14 @@
 11	koː	koː	CCONJ	_	_	12	cc	_	GE=or|Gloss=or|nWord=11|RX=[CCONJ]
 12	c’inkèː	c’inkèː	NOUN	_	_	9	conj:coord	_	GE=[wooden_skewer].[Masc]|Gloss=wooden_skewer.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	kà	kà	AUX	_	_	7	parataxis	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=14|RX=[AUX]
-15	yi	yi	VERB	_	_	14	comp:aux	_	GE=do|Gloss=do|nWord=15|RX=[VERB]
-16	mutà	mutà	PRON	_	_	15	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=16|RX=[PRON]
-17	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	_	15	comp:obj	_	GE=[holes].[Plur]|Gloss=holes.Plur|nWord=17|RX=[NOUN]
-18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-19	irìn	irìː	NOUN	_	Definite=Cons	17	conj:appos	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=19|RX=[NOUN]|wordform=irì
-20	na	na	ADP	_	_	19	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=20|RX=[PART]
-21	ɗumkìː	ɗumkìː	NOUN	_	_	20	comp:obj	_	GE=[sewing].[Masc]|Gloss=sewing.Masc|nWord=21|RX=[NOUN]
-22	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
+14	kà	kà	AUX	_	_	7	parataxis	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor.[do]|nWord=14|RX=[AUX]
+15	mutà	mutà	PRON	_	_	14	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=16|RX=[PRON]
+16	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	_	14	comp:pred	_	GE=[holes].[Plur]|Gloss=holes.Plur|nWord=17|RX=[NOUN]
+17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+18	irìn	irìː	NOUN	_	Definite=Cons	16	conj:appos	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=19|RX=[NOUN]|wordform=irì
+19	na	na	ADP	_	_	18	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=20|RX=[PART]
+20	ɗumkìː	ɗumkìː	NOUN	_	_	19	comp:obj	_	GE=[sewing].[Masc]|Gloss=sewing.Masc|nWord=21|RX=[NOUN]
+21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_104-104_split1
 # speaker_id = *
@@ -3380,49 +3379,47 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 103000, 104000
-# text = im bà’à yi mutà hùːde-hùːdeː ba , tun hwaːrìn ankà rìgyaː ankà azàː shi , shaːhìn nan yak kaːmà hwaːtàː , koː an taːrà àlluːr̃àː , c’inkèː dubuː , bâːsu iyà huːdè hwaːtàk , bàleː à ɗumkè kàr̃hôn .
+# text = im bà’à mutà hùːde-hùːdeː ba , tun hwaːrìn ankà rìgyaː ankà azàː shi , shaːhìn nan yak kaːmà hwaːtàː , koː an taːrà àlluːr̃àː , c’inkèː dubuː , bâːsu iyà huːdè hwaːtàk , bàleː à ɗumkè kàr̃hôn .
 # text_en = If you haven't pierced holes in it, [which] in the beginning you have already made, if that lining has caught the leather, not a thousand needles or a thousand skewers can pierce that leather, much less sew the belt [on it].
 # text_ortho = ’im bà ’à mutà hùude-hùudee ba, tun hwaaᵲìn ’ankà ᵲìgyaa ’ankà ’azàa ši, šaahìn nan yak kaamà hwaatàa, koo ’an taaᵲà ’àlluuràa dubuu, c’inkèe dubuu, baà su ’iya huudè hwaatàk, bàlee ’à ɗumkè kàrhoǹ.
-1	im	in	SCONJ	_	_	30	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
-2-3	bà’à	_	_	_	_	_	_	_	_
-2	bà’à	bà’à	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg|nWord=28|RX=[AUX]
-3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	mutà	mutà	PRON	_	_	3	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=29|RX=[PRON]
-5	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	_	3	comp:pred	_	GE=[holes].[Plur]|Gloss=holes.Plur|nWord=30|RX=[NOUN]
-6	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|RX=[PART]
-7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
-8	tun	tun	ADP	_	_	10	mod	_	GE=since/before|Gloss=since/before|nWord=33|RX=[SCONJ]
-9	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def	8	comp:obj	_	GE=[beginning].[Masc].[Def]|Gloss=beginning.Masc.Def|nWord=34|RX=[NOUN]
-10	ankà	ankà	AUX	_	_	30	mod	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=35|RX=[AUX]
-11	rìgyaː	rìgyaː	VERB	_	_	10	comp:aux	_	GE=have_already|Gloss=have_already|nWord=36|RX=[VERB]
-12	ankà	ankà	AUX	_	_	11	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=37|RX=[AUX]
-13	azàː	azàː	VERB	_	_	12	comp:aux	_	GE=put|Gloss=put|nWord=38|RX=[VERB]
-14	shi	shi	PRON	_	_	13	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=39|RX=[PRON]
-15	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
-16	shaːhìn	shaːhìn	NOUN	_	Definite=Def	18	subj	_	GE=[lining].[Masc].[Def]|Gloss=lining.Masc.Def|nWord=41|RX=[NOUN]
-17	nan	nan	DET	_	_	16	det	_	GE=[Dist]|Gloss=Dist|nWord=42|RX=[DET]
-18	yak	yak	AUX	_	_	30	mod	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=43|RX=[AUX]
-19	kaːmà	kaːmàː	VERB	_	_	18	comp:aux	_	GE=catch|Gloss=catch|nWord=44|RX=[VERB]
-20	hwaːtàː	hwaːtàː	NOUN	_	_	19	comp:obj	_	GE=[skin].[Fem]|Gloss=skin.Fem|nWord=45|RX=[NOUN]
-21	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
-22	koː	koː	SCONJ	_	_	30	mod	_	GE=or|Gloss=or|nWord=47|RX=[SCONJ]
-23	an	an	AUX	_	_	22	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=48|RX=[AUX]
-24	taːrà	taːràː	VERB	_	_	23	comp:aux	_	GE=gather|Gloss=gather|nWord=49|RX=[VERB]
-25	àlluːr̃àː	àlluːr̃àː	NOUN	_	_	24	comp:obj	_	GE=[needle].[Fem]|Gloss=needle.Fem|nWord=50|RX=[NOUN]
-26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
-27	c’inkèː	c’inkèː	NOUN	_	_	25	conj:coord	_	GE=[wooden_skewer].[Masc]|Gloss=wooden_skewer.Masc|nWord=53|RX=[NOUN]
-28	dubuː	dubuː	NUM	_	_	27	mod:num	_	GE=[thousand].[Fem]|Gloss=thousand.Fem|nWord=54|RX=[NUM]
-29	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=55|RX=[PUNCT]
-30	bâːsu	bâːsu	AUX	_	_	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=56|RX=[AUX]
-31	iyà	iyàː	VERB	_	_	30	comp:aux	_	GE=be_able|Gloss=be_able|nWord=57|RX=[VERB]
-32	huːdè	huːdèː	VERB	_	_	31	comp:obj	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=58|RX=[VERB]
-33	hwaːtàk	hwaːtàː	NOUN	_	Definite=Def	32	comp:obj	_	GE=[skin].[Fem].[Def]|Gloss=skin.Fem.Def|nWord=59|RX=[NOUN]
-34	,	,	PUNCT	_	_	35	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=60|RX=[PUNCT]
-35	bàleː	bàleː	SCONJ	_	_	31	mod	_	GE=much_less|Gloss=much_less|nWord=61|RX=[SCONJ]
-36	à	à	AUX	_	_	35	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=62|RX=[AUX]
-37	ɗumkè	ɗumkèː	VERB	_	_	36	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=63|RX=[VERB]
-38	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def	37	comp:obj	_	GE=[charm_belt].[Masc].[Def]|Gloss=charm_belt.Masc.Def|nWord=64|RX=[NOUN]
-39	.	.	PUNCT	_	_	30	punct	_	Gloss=.|nWord=65|RX=[PUNCT]
+1	im	in	SCONJ	_	_	29	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
+2	bà’à	bà’à	AUX	_	_	1	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg.[do]|nWord=28|RX=[AUX]
+3	mutà	mutà	PRON	_	_	2	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=29|RX=[PRON]
+4	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	_	2	comp:pred	_	GE=[holes].[Plur]|Gloss=holes.Plur|nWord=30|RX=[NOUN]
+5	ba	ba	PART	_	_	2	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|RX=[PART]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
+7	tun	tun	ADP	_	_	9	mod	_	GE=since/before|Gloss=since/before|nWord=33|RX=[SCONJ]
+8	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def	7	comp:obj	_	GE=[beginning].[Masc].[Def]|Gloss=beginning.Masc.Def|nWord=34|RX=[NOUN]
+9	ankà	ankà	AUX	_	_	29	mod	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=35|RX=[AUX]
+10	rìgyaː	rìgyaː	VERB	_	_	9	comp:aux	_	GE=have_already|Gloss=have_already|nWord=36|RX=[VERB]
+11	ankà	ankà	AUX	_	_	10	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=37|RX=[AUX]
+12	azàː	azàː	VERB	_	_	11	comp:aux	_	GE=put|Gloss=put|nWord=38|RX=[VERB]
+13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=39|RX=[PRON]
+14	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
+15	shaːhìn	shaːhìn	NOUN	_	Definite=Def	17	subj	_	GE=[lining].[Masc].[Def]|Gloss=lining.Masc.Def|nWord=41|RX=[NOUN]
+16	nan	nan	DET	_	_	15	det	_	GE=[Dist]|Gloss=Dist|nWord=42|RX=[DET]
+17	yak	yak	AUX	_	_	29	mod	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=43|RX=[AUX]
+18	kaːmà	kaːmàː	VERB	_	_	17	comp:aux	_	GE=catch|Gloss=catch|nWord=44|RX=[VERB]
+19	hwaːtàː	hwaːtàː	NOUN	_	_	18	comp:obj	_	GE=[skin].[Fem]|Gloss=skin.Fem|nWord=45|RX=[NOUN]
+20	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
+21	koː	koː	SCONJ	_	_	29	mod	_	GE=or|Gloss=or|nWord=47|RX=[SCONJ]
+22	an	an	AUX	_	_	21	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=48|RX=[AUX]
+23	taːrà	taːràː	VERB	_	_	22	comp:aux	_	GE=gather|Gloss=gather|nWord=49|RX=[VERB]
+24	àlluːr̃àː	àlluːr̃àː	NOUN	_	_	23	comp:obj	_	GE=[needle].[Fem]|Gloss=needle.Fem|nWord=50|RX=[NOUN]
+25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
+26	c’inkèː	c’inkèː	NOUN	_	_	24	conj:coord	_	GE=[wooden_skewer].[Masc]|Gloss=wooden_skewer.Masc|nWord=53|RX=[NOUN]
+27	dubuː	dubuː	NUM	_	_	26	mod:num	_	GE=[thousand].[Fem]|Gloss=thousand.Fem|nWord=54|RX=[NUM]
+28	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=55|RX=[PUNCT]
+29	bâːsu	bâːsu	AUX	_	_	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.Imp.Neg|nWord=56|RX=[AUX]
+30	iyà	iyàː	VERB	_	_	29	comp:aux	_	GE=be_able|Gloss=be_able|nWord=57|RX=[VERB]
+31	huːdè	huːdèː	VERB	_	_	30	comp:obj	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=58|RX=[VERB]
+32	hwaːtàk	hwaːtàː	NOUN	_	Definite=Def	31	comp:obj	_	GE=[skin].[Fem].[Def]|Gloss=skin.Fem.Def|nWord=59|RX=[NOUN]
+33	,	,	PUNCT	_	_	34	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=60|RX=[PUNCT]
+34	bàleː	bàleː	SCONJ	_	_	30	mod	_	GE=much_less|Gloss=much_less|nWord=61|RX=[SCONJ]
+35	à	à	AUX	_	_	34	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=62|RX=[AUX]
+36	ɗumkè	ɗumkèː	VERB	_	_	35	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=63|RX=[VERB]
+37	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def	36	comp:obj	_	GE=[charm_belt].[Masc].[Def]|Gloss=charm_belt.Masc.Def|nWord=64|RX=[NOUN]
+38	.	.	PUNCT	_	_	29	punct	_	Gloss=.|nWord=65|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_105-105
 # speaker_id = *
@@ -3477,23 +3474,21 @@
 # text = sabòːdà hakà nan akà mà hwaːtàː huːdàː , tum bà’à azàː mutà kàr̃hoː ba .
 # text_en = Because of this, you pierce the holes in the leather before you put the belt on it.
 # text_ortho = sabàd dà hakà nan ’a kà mà hwaatàa huudàa, tun bà ’à ’azàa mutà kàrhoo ba.
-1	sabòːdà	sabòːdà	ADP	_	_	0	root	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
+1	sabòːdà	sabòːdà	ADP	_	_	4	mod	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
 2	hakà	hakà	ADV	_	_	1	comp:obj	_	GE=thus|Gloss=thus|nWord=2|RX=[ADV]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
-4-5	akà	_	_	_	_	_	_	_	_
-4	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=4|RX=[AUX]
-5	yi	yi	VERB	_	_	4	comp:aux	_	GE=[do]|Gloss=do|RX=[VERB]
-6	mà	mà	ADP	_	_	5	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=5|RX=[ADP]
-7	hwaːtàː	hwaːtàː	NOUN	_	_	6	comp:obj	_	GE=[skin].[Fem]|Gloss=skin.Fem|nWord=6|RX=[NOUN]
-8	huːdàː	huːdàː	NOUN	_	_	5	comp:pred	_	GE=hole|Gloss=hole.Fem|nWord=7|RX=[NOUN]
-9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-10	tum	tun	SCONJ	_	_	5	mod	_	GE=since/before|Gloss=since/before|nWord=9|RX=[SCONJ]
-11	bà’à	bà’à	AUX	_	_	10	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg|nWord=10|RX=[AUX]
-12	azàː	àzàː	VERB	_	_	11	comp:aux	_	GE=put|Gloss=put|nWord=11|RX=[VERB]
-13	mutà	mutà	PRON	_	_	12	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=12|RX=[PRON]
-14	kàr̃hoː	kàr̃hoː	NOUN	_	_	12	comp:obj	_	GE=[charm_belt].[Masc]|Gloss=charm_belt.Masc|nWord=13|RX=[NOUN]
-15	ba	ba	PART	_	_	12	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|RX=[PART]
-16	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
+4	akà	akà	AUX	_	_	0	root	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg.[do]|nWord=4|RX=[AUX]
+5	mà	mà	ADP	_	_	4	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=5|RX=[ADP]
+6	hwaːtàː	hwaːtàː	NOUN	_	_	5	comp:obj	_	GE=[skin].[Fem]|Gloss=skin.Fem|nWord=6|RX=[NOUN]
+7	huːdàː	huːdàː	NOUN	_	_	4	comp:pred	_	GE=hole|Gloss=hole.Fem|nWord=7|RX=[NOUN]
+8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
+9	tum	tun	SCONJ	_	_	4	mod	_	GE=since/before|Gloss=since/before|nWord=9|RX=[SCONJ]
+10	bà’à	bà’à	AUX	_	_	9	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.Perf.Neg|nWord=10|RX=[AUX]
+11	azàː	àzàː	VERB	_	_	10	comp:aux	_	GE=put|Gloss=put|nWord=11|RX=[VERB]
+12	mutà	mutà	PRON	_	_	11	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=12|RX=[PRON]
+13	kàr̃hoː	kàr̃hoː	NOUN	_	_	11	comp:obj	_	GE=[charm_belt].[Masc]|Gloss=charm_belt.Masc|nWord=13|RX=[NOUN]
+14	ba	ba	PART	_	_	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|RX=[PART]
+15	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_108 BC_HAU_Gouffé_1_04_Tauri_109-109
 # speaker_id = *
