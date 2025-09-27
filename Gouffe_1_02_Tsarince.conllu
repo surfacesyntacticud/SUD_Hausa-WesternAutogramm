@@ -736,12 +736,12 @@
 # text = sunàː mà sàmàːriː kiràːrìː sunàː mà ’yam maːtaː .
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
-1	sunàː	sunàː	AUX	_	_	0	root	_	Gloss=3Pl.Imp
-2	mà	mà	ADP	_	_	1	udep	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
+1	sunàː	sunàː	AUX	_	_	0	root	_	Gloss=3Pl.Imp.[do]
+2	mà	mà	ADP	_	_	1	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
 3	sàmàːriː	sàmàːriː	NOUN	_	_	2	comp:obj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=32|RX=[NOUN]
-4	kiràːrìː	kiràːrìː	NOUN	_	_	1	comp:aux	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
-5	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	Gloss=3.Pl.Imp|nWord=34
-6	mà	mà	ADP	_	_	5	udep	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
+4	kiràːrìː	kiràːrìː	NOUN	_	_	1	comp:pred	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
+5	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	Gloss=3.Pl.Imp.[do]|nWord=34
+6	mà	mà	ADP	_	_	5	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
 7	’yam	’yan	ADJ	_	_	6	comp:obj	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
 8	maːtaː	maːtaː	NOUN	_	_	7	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
 9	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=39|RX=[PUNCT]
@@ -2710,9 +2710,9 @@
 55	shì	shì	AUX	_	_	54	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=54|RX=[AUX]
 56	,	,	PUNCT	_	_	57	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=55|RX=[PUNCT]
 57	koː	koː	SCONJ	_	_	54	mod	_	GE=even_if|Gloss=even_if|nWord=56|RX=[SCONJ]
-58	shìnàː	shìnàː	AUX	_	_	57	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=57|RX=[AUX]
-59	mutà	mutà	PRON	_	_	58	udep	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=58|RX=[PRON]
-60	ɗùmiː	ɗùmiː	NOUN	_	_	58	comp:aux	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=59|RX=[NOUN]
+58	shìnàː	shìnàː	AUX	_	_	57	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp.[do]|nWord=57|RX=[AUX]
+59	mutà	mutà	PRON	_	_	58	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=58|RX=[PRON]
+60	ɗùmiː	ɗùmiː	NOUN	_	_	58	comp:pred	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=59|RX=[NOUN]
 61	.	.	PUNCT	_	_	53	punct	_	Gloss=.|nWord=60|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_71-71
