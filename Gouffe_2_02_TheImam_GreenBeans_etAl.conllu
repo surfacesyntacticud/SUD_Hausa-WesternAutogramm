@@ -2798,20 +2798,20 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 95000, 96000
-# text = dà maːlàm yaz zoː , yash shigoː gidaː , sai yag ga doːkì: cikin gidaːnai , yay yi màːmaːkì: , yac cêː : wàː ad dà doːkì: cikin gidaːna ?
+# text = dà maːlàm yaz zoː, yash shigoː gidaː, sai yag ga doːkì: cikin gidaːnai, yay yi màːmaːkì:, yac cêː : wàː ad dà doːkì: cikin gidaːna ?
 # text_en = As the malam arrived, he entered the compound, then he saw the horse inside his compound, he was surprised, he said : Who has a horse in my compound?
 # text_ortho = dà maalàm yaz zoo, yaš šigoo gidaa, sai yag ga dookìi, cikin gidaanai, yay yi màamaakìi, yac ceè : wàa ’ad dà dookìi, cikin gidaana ?
-1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàm	maːlàmiː	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+1	dà	dà	SCONJ	_	_	6	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yaz	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	yash	yak	AUX	_	_	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	yash	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	shigoː	shìga	VERB	_	_	6	comp:aux	_	GE=enter|Gloss=enter.Dir|nWord=7|RX=[VERB]|wordform=shig
 8	gidaː	gidaː	NOUN	_	_	7	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
-11	yag	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
+11	yag	yak	AUX	_	_	6	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	GE=see|Gloss=see|nWord=12|RX=[VERB]
 13	doːkì:	doːkì:	NOUN	_	_	12	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=13|RX=[NOUN]
 14	cikin	cikin	ADP	_	_	12	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
@@ -2825,59 +2825,75 @@
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 22	yac	yak	AUX	_	_	18	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=21|RX=[AUX]
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	GE=say|Gloss=say|nWord=22|RX=[VERB]
-24	:	:	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+24	:	:	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 25	wàː	wàː	PRON	_	_	23	comp:obj@L	_	GE=who|Gloss=who|nWord=24|RX=[PRON]
-26	ad	ak	PredPART	_	Background=Yes	25	mod@relcl	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=25|RX=[IDPART]
+26	ad	ak	PredPART	_	Background=Yes	25	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=25|RX=[IDPART]
 27	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
-28	doːkì:	doːkì:	NOUN	_	_	29	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=27|RX=[NOUN]
-29	cikin	cikin	ADP	_	_	23	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
+28	doːkì:	doːkì:	NOUN	_	_	27	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=27|RX=[NOUN]
+29	cikin	cikin	ADP	_	_	26	comp:pred	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
 30-31	gidaːna	_	_	_	_	_	_	_	_
 30	gidaː	gidaː	NOUN	_	_	29	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=29|RX=[NOUN]
-31	=na	=na	PRON	_	_	28	mod	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=29|RX=[PRON]|wordform=-na
+31	=na	=na	PRON	_	_	30	mod	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=29|RX=[PRON]|wordform=-na
 32	?	?	PUNCT	_	_	11	punct	_	GE=[?]|Gloss=?|nWord=30|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092
+# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 96000, 97000
-# text = dà màːtam maːlàm taj jiyà, taj ji ɗùmim maːlàm, yaː shigoː gidaː, tum bài shìga ɗakà ba, sai tah hitoː wuriːnai, tac cêː : maːlàm kaː daːwoː ?
-# text_en = When the malam's wife heard (it), she heard the malam's voice, he had entered the compound, since he had not entered the hut, she went to his place and said : Malam, you have come back?
-# text_ortho = dà màatam maalàm taj jiyà, taj ji ɗùmim maalàm, yaa šigoo gidaa, tum bài šìga ɗakà ba, sai tah hitoo wuᵲiinai, tac ceè : maalàm kaa daawoo ?
-1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	màːtam	màːtaː	NOUN	_	Definite=Cons	_	_	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
-3	maːlàmiː	maːlàmiː	NOUN	_	_	2	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=3|RX=[NOUN]
-4	taj	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
+# text = dà màːtam maːlàmiː taj jiyàː , taj ji ɗùmim maːlàmiː .
+# text_en = When the malam's wife heard (it), she heard the malam's voice.
+# text_ortho = dà màatam maalàm taj jiyà, taj ji ɗùmim maalàm.
+1	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+2	màːtam	màːtaː	NOUN	_	Definite=Cons	4	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
+3	maːlàmiː	maːlàm	NOUN	_	_	2	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=3|RX=[NOUN]
+4	taj	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=4|RX=[AUX]
 5	jiyàː	jiyàː	VERB	_	_	4	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=5|RX=[VERB]
-6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	taj	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	taj	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=7|RX=[AUX]
 8	ji	jiyàː	VERB	_	_	7	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=8|RX=[VERB]
 9	ɗùmim	ɗùmiː	NOUN	_	Definite=Cons	8	comp:obj	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=9|RX=[NOUN]|wordform=ɗùmi
-10	maːlàmiː	maːlàmiː	NOUN	_	_	9	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
-11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=12|RX=[AUX]
-13	shigoː	shìga	VERB	_	_	12	comp:aux	_	GE=enter|Gloss=enter.Dir|nWord=13|RX=[VERB]|wordform=shig
-14	gidaː	gidaː	NOUN	_	_	13	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=14|RX=[NOUN]
-15	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	tun	tun	SCONJ	_	_	_	_	_	GE=since/before|Gloss=since/before|nWord=16|RX=[SCONJ]
-17	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=17|RX=[AUX]
-18	shìga	shìga	VERB	_	_	17	comp:aux	_	GE=enter|Gloss=enter|nWord=18|RX=[VERB]
-19	ɗakà	ɗakà	ADV	_	_	_	_	_	GE=in_the_room|Gloss=in_the_room|nWord=19|RX=[ADV]
-20	ba	ba	PART	_	_	_	_	_	GE=[Neg]|Gloss=Neg|nWord=20|RX=[PART]
-21	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	sai	sai	ADV	_	_	23	mod	_	GE=then|Gloss=then|nWord=22|RX=[ADV]
-23	tah	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=23|RX=[AUX]
-24	hitoː	hìta	VERB	_	_	23	comp:aux	_	GE=get_out|Gloss=get_out.Dir|nWord=24|RX=[VERB]|wordform=hit
-25-26	wuriːnai	_	_	_	_	_	_	_	_
-25	wuriː	wuriː	NOUN	_	_	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
-26	=nai	=nai	PRON	_	_	25	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=25|RX=[PRON]|wordform=-ai
-27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-28	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=27|RX=[AUX]
-29	cêː	cêː	VERB	_	_	28	comp:aux	_	GE=say|Gloss=say|nWord=28|RX=[VERB]
-30	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
-31	maːlàmiː	maːlàmiː	NOUN	_	_	32	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=30|RX=[NOUN]
-32	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=31|RX=[AUX]
-33	daːwoː	daːwoː	VERB	_	_	32	comp:aux	_	GE=return|Gloss=return|nWord=32|RX=[VERB]
-34	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=33|RX=[PUNCT]
+10	maːlàmiː	maːlàm	NOUN	_	_	9	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
+11	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092_split2_split1
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
+# sent_timecode = 96000, 97000
+# text = yaː shigoː gidaː .
+# text_en = He had entered the compound.
+# text_ortho = yaa šigoo gidaa.
+1	yaː	yaː	AUX	_	_	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=12|RX=[AUX]
+2	shigoː	shìga	VERB	_	_	1	comp:aux	_	GE=enter|Gloss=enter.Dir|nWord=13|RX=[VERB]|wordform=shig
+3	gidaː	gidaː	NOUN	_	_	2	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=14|RX=[NOUN]
+4	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092_split2_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
+# sent_timecode = 96000, 97000
+# text = tun bài shìga ɗakà ba , sai tah hitoː wuriː =nai , tac cêː : maːlàmiː kaː daːwoː ?
+# text_en = Since he had not entered the hut, she went to his place and said : Malam, you have come back?
+# text_ortho = tum bài šìga ɗakà ba, sai tah hitoo wuᵲiinai, tac ceè : maalàm kaa daawoo ?
+1	tun	tun	SCONJ	_	_	8	mod	_	GE=since/before|Gloss=since/before|nWord=16|RX=[SCONJ]
+2	bài	bài	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=17|RX=[AUX]
+3	shìga	shìga	VERB	_	_	2	comp:aux	_	GE=enter|Gloss=enter|nWord=18|RX=[VERB]
+4	ɗakà	ɗakà	ADV	_	_	3	comp:obl	_	GE=in_the_room|Gloss=in_the_room|nWord=19|RX=[ADV]
+5	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=20|RX=[PART]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=22|RX=[ADV]
+8	tah	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=23|RX=[AUX]
+9	hitoː	hìta	VERB	_	_	8	comp:aux	_	GE=get_out|Gloss=get_out.Dir|nWord=24|RX=[VERB]|wordform=hit
+10-11	wuriːnai	_	_	_	_	_	_	_	_
+10	wuriː	wuriː	NOUN	_	_	9	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
+11	=nai	=nai	PRON	_	_	10	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=25|RX=[PRON]|wordform=-ai
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+13	tac	tak	AUX	_	_	8	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=27|RX=[AUX]
+14	cêː	cêː	VERB	_	_	13	comp:aux	_	GE=say|Gloss=say|nWord=28|RX=[VERB]
+15	:	:	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
+16	maːlàmiː	maːlàm	NOUN	_	_	17	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=30|RX=[NOUN]
+17	kaː	kaː	AUX	_	_	14	mod	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=31|RX=[AUX]
+18	daːwoː	daːwoː	VERB	_	_	17	comp:aux	_	GE=return|Gloss=return|nWord=32|RX=[VERB]
+19	?	?	PUNCT	_	_	8	punct	_	GE=[?]|Gloss=?|nWord=33|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_093-093
 # speaker_id = *
