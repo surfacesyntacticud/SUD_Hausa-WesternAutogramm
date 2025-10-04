@@ -19,8 +19,8 @@
 3	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	2	udep	_	GE=cuddling|Gloss=cuddling|nWord=4|RX=[NOUN]
 4	,	,	PUNCT	_	_	9	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	àmmaː	àmmaː	CCONJ	_	_	9	cc	_	GE=but|Gloss=but|nWord=6|RX=[CCONJ]
-6	wurin	wuriː	NOUN	_	Definite=Cons	9	dislocated@top	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=7|RX=[NOUN]|wordform=wuri
-7	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	6	mod	_	GE=cuddling|Gloss=cuddling|nWord=8|RX=[NOUN]
+6	wurin	wurin	ADP	_	Definite=Cons	9	dislocated@top	_	GE=[place].[Masc]|Gloss=at|nWord=7|RX=[NOUN]|wordform=wuri
+7	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	6	comp:obj	_	GE=cuddling|Gloss=cuddling|nWord=8|RX=[NOUN]
 8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 9	anàː	anàː	AUX	_	_	1	conj:coord	_	GE=[4].[Imp]|Gloss=4.Imp|nWord=10|RX=[AUX]
 10	yîn	yi	VERB	_	Definite=Cons	9	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=11|RX=[VERB]|wordform=yî
@@ -42,8 +42,8 @@
 # text = wurin s'àːrìnceː na hàusàːwaː, in sarmàyiː nàː sôn bùdurwaː, yanàː yìwuwaː shì tàhi gidansù, shì yi kiràntà, don tà zoː wuriːnai.
 # text_en = With the Hausa tsarince, if a boy likes a girl, it is possible that he will go to their house, call her and ask her to go to his place.
 # text_ortho = wuᵲin s’àaᵲìncee na hàusàawaa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, ya nàa yìwuwaa šì tàhi gidansù, šì yi kiᵲàntà, don tà zoo wuᵲiinai.
-1	wurin	wuriː	NOUN	_	Definite=Cons	12	dislocated@top	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=1|RX=[NOUN]|wordform=wuri
-2	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	1	mod	_	GE=cuddling|Gloss=cuddling|nWord=2|RX=[NOUN]
+1	wurin	wurin	ADP	_	Definite=Cons	12	dislocated@top	_	GE=[place].[Masc]|Gloss=at|nWord=1|RX=[NOUN]|wordform=wuri
+2	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	1	comp:obj	_	GE=cuddling|Gloss=cuddling|nWord=2|RX=[NOUN]
 3	na	na	ADP	_	_	2	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
 4	bàhaushèː	bàhaushèː	PROPN	_	_	3	comp:obj	_	GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=4|RX=[PROPN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -141,8 +141,8 @@
 26	)	)	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 27	àiki	àikaː	VERB	_	_	17	comp:aux	_	GE=lead|Gloss=lead|nWord=25|RX=[VERB]
 28	yaːròn	yaːròː	NOUN	_	Definite=Def	27	comp:obj@T	_	GE=[boy].[Masc]|Gloss=boy.Masc.Def|nWord=26|RX=[NOUN]|wordform=yaːrò
-29	wurin	wuriː	NOUN	_	Definite=Cons	27	comp:obj@G	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]|wordform=wuri
-30	ɗaːkin	ɗaːkiː	NOUN	_	Definite=Cons	29	mod	_	GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=28|RX=[NOUN]|wordform=ɗaːki
+29	wurin	wurin	ADP	_	Definite=Cons	27	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=27|RX=[NOUN]|wordform=wuri
+30	ɗaːkin	ɗaːkiː	NOUN	_	Definite=Cons	29	comp:obj	_	GE=[hut/room].[Masc]|Gloss=hut/room.Masc|nWord=28|RX=[NOUN]|wordform=ɗaːki
 31-32	uwattà	_	_	_	_	_	_	_	_
 31	uwat	uwaː	NOUN	_	Definite=Cons	30	mod	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=29|RX=[NOUN]|wordform=uwa
 32	=tà	=tà	PRON	_	_	31	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=29|RX=[PRON]|wordform=-tà
@@ -402,16 +402,16 @@
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=9|RX=[AUX]
 10	tàhi	tàhi	VERB	_	_	9	comp:aux	_	GE=go|Gloss=go|nWord=10|RX=[VERB]
-11	wurin	wuriː	NOUN	_	Definite=Cons	10	comp:obj@G	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=11|RX=[NOUN]|wordform=wuri
-12	gidan	gidaː	NOUN	_	Definite=Cons	11	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=12|RX=[NOUN]|wordform=gida
+11	wurin	wurin	ADP	_	Definite=Cons	10	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
+12	gidan	gidaː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=12|RX=[NOUN]|wordform=gida
 13	bìkiː	bìkiː	NOUN	_	_	12	mod	_	GE=festivity|Gloss=festivity|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	dus	dukà	PRON	_	_	16	subj	_	GE=all|Gloss=all|nWord=15|RX=[DET]
 16	sù	sù	AUX	_	_	9	parataxis@conj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=16|RX=[AUX]
 17	zamnàː	zamnàː	VERB	_	_	16	comp:aux	_	GE=stay|Gloss=stay|nWord=17|RX=[VERB]
 18	can	can	ADV	_	_	17	comp:obj@L	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
-19	wurin	wuriː	NOUN	_	Definite=Cons	18	conj:appos	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=19|RX=[NOUN]|wordform=wuri
-20	bìkiː	bìkiː	NOUN	_	_	19	mod	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
+19	wurin	wurin	ADP	_	Definite=Cons	18	conj:appos	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
+20	bìkiː	bìkiː	NOUN	_	_	19	comp:obj	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
 21	.	.	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_11-11_split2
@@ -431,8 +431,8 @@
 7	=sù	=sù	PRON	_	_	6	udep	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=28|RX=[PRON]|wordform=-sù
 8	sunàː	sunàː	AUX	_	_	5	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=30|RX=[AUX]
 9	tàhiyàː	tàhiyàː	VERB	_	_	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
-10	wurin	wuriː	NOUN	_	Definite=Cons	9	udep	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=32|RX=[NOUN]|wordform=wuri
-11	s'àrìnceː	s'àrìnceː	NOUN	_	_	10	mod	_	GE=cuddling|Gloss=cuddling|nWord=33|RX=[NOUN]
+10	wurin	wurin	ADP	_	Definite=Cons	9	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=32|RX=[NOUN]|wordform=wuri
+11	s'àrìnceː	s'àrìnceː	NOUN	_	_	10	comp:obj	_	GE=cuddling|Gloss=cuddling|nWord=33|RX=[NOUN]
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=34|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_12-12
@@ -1485,8 +1485,8 @@
 22	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 23	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=21|RX=[AUX]
 24	tàhi	tàhi	VERB	_	_	23	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
-25	wurin	wuriː	NOUN	_	Definite=Cons	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=23|RX=[NOUN]|wordform=wuri
-26	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	25	mod	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=24|RX=[NOUN]
+25	wurin	wurin	ADP	_	Definite=Cons	24	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=23|RX=[NOUN]|wordform=wuri
+26	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	25	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=24|RX=[NOUN]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 28	sunkà	sunkà	AUX	_	_	23	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=26|RX=[AUX]
 29	tuːɓèː	tuːɓèː	VERB	_	_	28	comp:aux	_	GE=remove|Gloss=remove|nWord=27|RX=[VERB]
@@ -1736,8 +1736,8 @@
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 8	sunkà	sunkà	AUX	_	_	3	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=13|RX=[AUX]
 9	tàhi	tàhi	VERB	_	_	8	comp:aux	_	GE=go|Gloss=go|nWord=14|RX=[VERB]
-10	wurin	wuriː	NOUN	_	Definite=Cons	9	comp:obj@G	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=15|RX=[NOUN]|wordform=wuri
-11	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	10	mod	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=16|RX=[NOUN]
+10	wurin	wurin	ADP	_	Definite=Cons	9	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=15|RX=[NOUN]|wordform=wuri
+11	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	10	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=16|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 13	sunkà	sunkà	AUX	_	_	8	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=18|RX=[AUX]
 14	yi	yi	VERB	_	_	13	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
@@ -2355,8 +2355,8 @@
 9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 10	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=27|RX=[AUX]
 11	zoː	zoː	VERB	_	_	10	comp:aux	_	GE=come|Gloss=come|nWord=28|RX=[VERB]
-12	wurin	wuriː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=29|RX=[NOUN]|wordform=wuri
-13	ɗaːkìː	ɗaːkìː	NOUN	_	_	12	mod	_	GE=[hut].[Masc]|Gloss=hut.Masc|nWord=30|RX=[NOUN]
+12	wurin	wurin	ADP	_	Definite=Cons	11	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=29|RX=[NOUN]|wordform=wuri
+13	ɗaːkìː	ɗaːkìː	NOUN	_	_	12	comp:obj	_	GE=[hut].[Masc]|Gloss=hut.Masc|nWord=30|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 15	na	na	ADP	_	_	13	conj:appos	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=32|RX=[PART]
 16	uwab	uwaː	NOUN	_	Definite=Cons	15	comp:obj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=33|RX=[NOUN]|wordform=uwa
@@ -2468,8 +2468,8 @@
 12	zamnàː	zamnàː	VERB	_	_	11	comp:pred	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=12|RX=[VERB]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	nan	nan	ADV	_	_	11	mod	_	GE=[Dist]|Gloss=Dist|nWord=14|RX=[ADV]
-15	wurim	wuriː	NOUN	_	_	14	conj:appos	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=15|RX=[NOUN]
-16	bùdurwaː	bùdurwaː	NOUN	_	_	15	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=16|RX=[NOUN]
+15	wurim	wurin	ADP	_	_	14	conj:appos	_	GE=[place].[Masc]|Gloss=at|nWord=15|RX=[NOUN]
+16	bùdurwaː	bùdurwaː	NOUN	_	_	15	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=16|RX=[NOUN]
 17	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_66-66_split1
@@ -2659,8 +2659,8 @@
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	GE=that|Gloss=that|nWord=5|RX=[SCONJ]
 6	yaz	yak	AUX	_	_	5	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	GE=come|Gloss=come|nWord=7|RX=[VERB]
-8	wurin	wuriː	NOUN	_	Definite=Cons	7	comp:obj@G	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=8|RX=[NOUN]|wordform=wuri
-9	bùdurwaː	bùdurwaː	NOUN	_	_	8	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=9|RX=[NOUN]
+8	wurin	wurin	ADP	_	Definite=Cons	7	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=8|RX=[NOUN]|wordform=wuri
+9	bùdurwaː	bùdurwaː	NOUN	_	_	8	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=9|RX=[NOUN]
 10	don	don	SCONJ	_	_	7	mod	_	GE=because|Gloss=because|nWord=10|RX=[SCONJ]
 11	sù	sù	AUX	_	_	10	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
