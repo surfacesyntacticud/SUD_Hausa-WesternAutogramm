@@ -2745,22 +2745,22 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 92000, 93000
-# text = sunàː nan sunàː hiːr̃a, kuma sunkà yi àbun dà sunkà yi.
+# text = sunàː nan sunàː hiːr̃a , kuma sunkà yi àbun dà sunkà yi .
 # text_en = They were there, chatting, and they did what they did.
 # text_ortho = su nàa nan su nàa hiira, kuma sunkà yi ’àbun dà sunkà yi.
-1	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
-2	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
-3	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=3|RX=[AUX]
-4	hiːr̃a	hiːr̃a	NOUN	_	_	_	_	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=4|RX=[NOUN]
-5	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+1	sunàː	sunàː	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
+2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
+3	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=3|RX=[AUX]
+4	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:aux	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=4|RX=[NOUN]
+5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
-7	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
+7	sunkà	sunkà	AUX	_	_	3	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
-9	àbùn	àbù	NOUN	_	Definite=Cons	8	comp:pred	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=9|RX=[NOUN]|wordform=àbù
+9	àbun	àbù	NOUN	_	Definite=Cons	8	comp:pred	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=9|RX=[NOUN]|wordform=àbù
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	GE=that|Gloss=that|nWord=10|RX=[SCONJ]
 11	sunkà	sunkà	AUX	_	_	10	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=11|RX=[AUX]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
-13	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=13|RX=[PUNCT]
+13	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_089-089
 # speaker_id = *
@@ -2770,71 +2770,71 @@
 # text_en = Then they chatted again.
 # text_ortho = kuma sunkà koomàa hiira.
 1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
-2	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
+2	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	koːmàː	koːmàː	VERB	_	_	2	comp:aux	_	GE=return|Gloss=return|nWord=3|RX=[VERB]
 4	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:obj	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=4|RX=[NOUN]
-5	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=5|RX=[PUNCT]
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_090-090
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 94000, 95000
-# text = sunàː nan bàsù taːshì ba, ham maːlàm yaz zoː.
+# text = sunàː nan bàsù taːshì ba , ham maːlàm yaz zoː .
 # text_en = There they were, they did not get up then the malam arrived.
 # text_ortho = su nàa nan bà sù taašì ba, ham maalàm yaz zoo.
-1	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
-2	nan	nan	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
-3	bàsù	bàsù	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.Perf.Neg|nWord=3|RX=[AUX]
+1	sunàː	sunàː	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
+2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
+3	bàsù	bàsù	AUX	_	_	1	parataxis@conj	_	GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.Perf.Neg|nWord=3|RX=[AUX]
 4	taːshì	taːshì	VERB	_	_	3	comp:aux	_	GE=rise|Gloss=rise|nWord=4|RX=[VERB]
 5	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|RX=[PART]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	ham	hat	SCONJ	_	_	_	_	_	GE=until|Gloss=until|nWord=7|RX=[SCONJ]
-8	maːlàmiː	maːlàm	NOUN	_	_	9	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=8|RX=[NOUN]
-9	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=9|RX=[AUX]
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	ham	hat	SCONJ	_	_	4	mod	_	GE=until|Gloss=until|nWord=7|RX=[SCONJ]
+8	maːlàm	maːlàmiː	NOUN	_	_	9	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=8|RX=[NOUN]
+9	yaz	yak	AUX	_	_	7	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=9|RX=[AUX]
 10	zoː	zoː	VERB	_	_	9	comp:aux	_	GE=come|Gloss=come|nWord=10|RX=[VERB]
-11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_091-091
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 95000, 96000
-# text = dà maːlàm yaz zoː, yash shigoː gidaː, sai yag ga doːkì: cikin gidaːnai, yay yi màːmaːkì:, yac cêː : wàː ad dà doːkì: cikin gidaːna ?
+# text = dà maːlàm yaz zoː , yash shigoː gidaː , sai yag ga doːkì: cikin gidaːnai , yay yi màːmaːkì: , yac cêː : wàː ad dà doːkì: cikin gidaːna ?
 # text_en = As the malam arrived, he entered the compound, then he saw the horse inside his compound, he was surprised, he said : Who has a horse in my compound?
 # text_ortho = dà maalàm yaz zoo, yaš šigoo gidaa, sai yag ga dookìi, cikin gidaanai, yay yi màamaakìi, yac ceè : wàa ’ad dà dookìi, cikin gidaana ?
-1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
-3	yaz	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
+1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+2	maːlàm	maːlàmiː	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
+3	yaz	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	yash	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
+6	yash	yak	AUX	_	_	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	shigoː	shìga	VERB	_	_	6	comp:aux	_	GE=enter|Gloss=enter.Dir|nWord=7|RX=[VERB]|wordform=shig
-8	gidaː	gidaː	NOUN	_	_	7	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+8	gidaː	gidaː	NOUN	_	_	7	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
+9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
-11	yag	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
+11	yag	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	GE=see|Gloss=see|nWord=12|RX=[VERB]
 13	doːkì:	doːkì:	NOUN	_	_	12	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=13|RX=[NOUN]
-14	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
+14	cikin	cikin	ADP	_	_	12	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
 15-16	gidaːnai	_	_	_	_	_	_	_	_
 15	gidaː	gidaː	NOUN	_	_	14	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=15|RX=[NOUN]
 16	=nai	=nai	PRON	_	_	15	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=15|RX=[PRON]|wordform=-ai
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-18	yay	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
+18	yay	yak	AUX	_	_	11	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=17|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	GE=do|Gloss=do|nWord=18|RX=[VERB]
 20	màːmaːkì:	màːmaːkì:	NOUN	_	_	19	comp:pred	_	GE=[surprise].[Masc]|Gloss=surprise.Masc|nWord=19|RX=[NOUN]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-22	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=21|RX=[AUX]
+22	yac	yak	AUX	_	_	18	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=21|RX=[AUX]
 23	cêː	cêː	VERB	_	_	22	comp:aux	_	GE=say|Gloss=say|nWord=22|RX=[VERB]
-24	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-25	wàː	wàː	PRON	_	_	_	_	_	GE=who|Gloss=who|nWord=24|RX=[PRON]
-26	ad	ak	PredPART	_	Background=Yes	25	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=25|RX=[IDPART]
+24	:	:	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
+25	wàː	wàː	PRON	_	_	23	comp:obj@L	_	GE=who|Gloss=who|nWord=24|RX=[PRON]
+26	ad	ak	PredPART	_	Background=Yes	25	mod@relcl	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=25|RX=[IDPART]
 27	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
-28	doːkì:	doːkì:	NOUN	_	_	27	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=27|RX=[NOUN]
-29	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
+28	doːkì:	doːkì:	NOUN	_	_	29	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=27|RX=[NOUN]
+29	cikin	cikin	ADP	_	_	23	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
 30-31	gidaːna	_	_	_	_	_	_	_	_
 30	gidaː	gidaː	NOUN	_	_	29	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=29|RX=[NOUN]
-31	=na	=na	PRON	_	_	30	mod	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=29|RX=[PRON]|wordform=-na
-32	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=30|RX=[PUNCT]
+31	=na	=na	PRON	_	_	28	mod	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=29|RX=[PRON]|wordform=-na
+32	?	?	PUNCT	_	_	11	punct	_	GE=[?]|Gloss=?|nWord=30|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092
 # speaker_id = *
