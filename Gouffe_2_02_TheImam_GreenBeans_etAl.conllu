@@ -230,7 +230,7 @@
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 4	mà	mà	ADP	_	_	3	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 5	maːlàmiː	maːlàm	NOUN	_	_	4	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
-6	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=6|RX=[ADV]
+6	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=6|RX=[ADV]
 7	nan	nan	DET	_	_	6	det	_	GE=[Dist]|Gloss=Dist|nWord=7|RX=[ADV]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	yac	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=9|RX=[AUX]
@@ -300,7 +300,7 @@
 2	maːlàmiː	maːlàm	NOUN	_	_	3	subj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=2|RX=[NOUN]
 3	yah	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	hwàɗaː	hwàɗaː	VERB	_	_	3	comp:aux	_	GE=tell|Gloss=tell|nWord=4|RX=[VERB]
-5	hakà	hakà	ADV	_	_	4	comp:obj	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
+5	hakà	hakà	ADV	_	_	4	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	ùban	ùbaː	NOUN	_	Definite=Cons	9	subj	_	GE=[father].[Masc]|Gloss=father.Masc|nWord=7|RX=[NOUN]|wordform=ùba
 8	ɗìyaː	ɗìyaː	NOUN	_	_	7	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
@@ -1072,7 +1072,7 @@
 10	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 11	yar	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 12	rasàː	rasàː	VERB	_	_	11	comp:aux	_	GE=lack|Gloss=lack|nWord=11|RX=[VERB]
-13	wàdà	wàdà	ADV	_	_	12	comp:obj	_	GE=[how].[Rel]|Gloss=how.Rel|nWord=12|RX=[ADV]
+13	wàdà	wàdà	PRON	_	_	12	comp:obj	_	GE=[how].[Rel]|Gloss=how.Rel|nWord=12|RX=[ADV]
 14	zâː	zâː	AUX	_	_	13	mod@relcl	_	GE=[Fut]|Gloss=Fut|nWord=13|RX=[AUX]
 15	shi	shi	PRON	_	_	14	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
 16	yîː	yi	VERB	_	_	14	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=15|RX=[VERB]
@@ -1595,9 +1595,9 @@
 3	ki	ki	PRON	_	_	2	subj	_	GE=[2Fem]|Gloss=2Fem|nWord=24|RX=[PRON]
 4	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=25|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-6	can	can	ADV	_	_	4	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=27|RX=[ADV]
+6	can	can	ADV	_	_	4	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=27|RX=[ADV]
 7-8	gidansù	_	_	_	_	_	_	_	_
-7	gidan	gidaː	NOUN	_	Definite=Cons	6	conj:appos	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]|wordform=gida
+7	gidan	gidaː	NOUN	_	Definite=Cons	6	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=28|RX=[NOUN]|wordform=gida
 8	=sù	=sù	PRON	_	_	7	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=28|RX=[PRON]|wordform=-sù
 9	kì	kì	AUX	_	_	0	root	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=29|RX=[AUX]
 10	zoː	zoː	VERB	_	_	9	comp:obj	_	GE=come|Gloss=come|nWord=30|RX=[VERB]
@@ -2192,8 +2192,8 @@
 16	ki	ki	PRON	_	_	15	comp:aux	_	GE=[2Fem]|Gloss=2Fem|nWord=15|RX=[PRON]
 17	tàhiyàː	tàhiyàː	VERB	_	_	15	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=16|RX=[VERB]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	can	can	ADV	_	_	17	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
-20	gidam	gidaː	NOUN	_	Definite=Cons	19	conj:appos	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=19|RX=[NOUN]|wordform=gida
+19	can	can	ADV	_	_	17	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
+20	gidam	gidaː	NOUN	_	Definite=Cons	19	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=19|RX=[NOUN]|wordform=gida
 21	maːlàmiː	maːlàm	NOUN	_	_	20	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=20|RX=[NOUN]
 22	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 23	koːwacè	koːwacè	DET	_	_	24	det	_	GE=[each].[Fem]|Gloss=each.Fem|nWord=22|RX=[PRON]
@@ -2286,8 +2286,8 @@
 30	dà	dà	ADP	_	_	29	comp:obl	_	GE=with|Gloss=with|nWord=30|RX=[ADP]
 31	suː	suː	PRON	_	_	30	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=31|RX=[PRON]
 32	,	,	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
-33	can	can	ADV	_	_	29	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=33|RX=[ADV]
-34	wurim	wurin	ADP	_	_	33	conj:appos	_	GE=[place].[Masc]|Gloss=at|nWord=34|RX=[NOUN]|wordform=wuri
+33	can	can	ADV	_	_	29	comp:obj	_	GE=[Dist]|Gloss=Dist|nWord=33|RX=[ADV]
+34	wurim	wurin	ADP	_	_	33	mod	_	GE=[place].[Masc]|Gloss=at|nWord=34|RX=[NOUN]|wordform=wuri
 35	maːlàmiː	maːlàm	NOUN	_	_	34	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=35|RX=[NOUN]
 36	,	,	PUNCT	_	_	37	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 37	tà	tà	AUX	_	_	28	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=37|RX=[AUX]
@@ -2529,7 +2529,7 @@
 8	shì	shì	AUX	_	_	3	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=6|RX=[AUX]
 9	zoː	zoː	VERB	_	_	8	comp:aux	_	GE=come|Gloss=come|nWord=7|RX=[VERB]
 10	nan	nan	ADV	_	_	9	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=8|RX=[ADV]
-11	gidam	gidaː	NOUN	_	Definite=Cons	10	conj:appos	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=9|RX=[NOUN]|wordform=gida
+11	gidam	gidaː	NOUN	_	Definite=Cons	10	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=9|RX=[NOUN]|wordform=gida
 12	maːlàm	maːlàm	NOUN	_	_	11	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=10|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 14	sabòːdà	sabòːdà	SCONJ	_	_	9	mod	_	GE=because|Gloss=because|nWord=12|RX=[SCONJ]

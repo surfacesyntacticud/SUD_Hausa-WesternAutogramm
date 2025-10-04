@@ -363,7 +363,7 @@
 22	kuma	kuma	TopPART	_	_	21	discourse@top	_	GE=also|Gloss=also|nWord=22|RX=[TOPPART]
 23	shì	shì	AUX	_	_	16	conj:coord	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
 24	hwaːɗoː	hwaːɗi	VERB	_	_	23	comp:aux	_	GE=fall|Gloss=fall.Dir|nWord=24|RX=[VERB]|wordform=hwaːɗ
-25	ƙasà	ƙasà	ADV	_	_	24	conj:obl@G	_	GE=on_ground|Gloss=on_ground|nWord=25|RX=[ADV]
+25	ƙasà	ƙasà	ADV	_	_	24	comp:obl	_	GE=on_ground|Gloss=on_ground|nWord=25|RX=[ADV]
 26	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=26|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_017-017
@@ -377,7 +377,7 @@
 2	wandà	wandà	PRON	_	PronType=Rel	13	dislocated@comp	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
 3	yah	yak	AUX	_	_	2	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	hwaːɗoː	hwaːɗi	VERB	_	_	3	comp:aux	_	GE=fall|Gloss=fall.Dir|nWord=4|RX=[VERB]|wordform=hwaːɗ
-5	ƙasà	ƙasà	ADV	_	_	4	comp:obj@G	_	GE=on_ground|Gloss=on_ground|nWord=5|RX=[ADV]
+5	ƙasà	ƙasà	ADV	_	_	4	comp:obl	_	GE=on_ground|Gloss=on_ground|nWord=5|RX=[ADV]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	dà	dà	CCONJ	_	_	8	cc@preconj	_	GE=and|Gloss=and|nWord=7|RX=[CCONJ]
 8	wandà	wandà	PRON	_	PronType=Rel	2	conj:coord	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=8|RX=[PRON]
@@ -1674,10 +1674,10 @@
 13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=12|RX=[PRON]
 14	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 15	du'	dukà	DET	_	_	16	det	_	GE=all|Gloss=all|nWord=14|RX=[DET]
-16	indà	indà	ADV	_	PronType=Rel	18	comp:obj@G	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
-17	tat	tak	AUX	_	_	20	mod	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=16|RX=[AUX]
-18	tàhi	tàhi	VERB	_	_	17	comp:obj	_	GE=go|Gloss=go|nWord=17|RX=[VERB]
-19	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+16	indà	indà	PRON	_	PronType=Rel	20	mod	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
+17	tat	tak	AUX	_	_	16	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=16|RX=[AUX]
+18	tàhi	tàhi	VERB	_	_	17	comp:aux	_	GE=go|Gloss=go|nWord=17|RX=[VERB]
+19	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 20	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=19|RX=[AUX]
 21	iyà	iyàː	VERB	_	_	20	comp:aux	_	GE=be_able|Gloss=be_able|nWord=20|RX=[VERB]
 22	shân	shâː	VERB	_	Definite=Cons	21	comp:obj	_	GE=[drink].[Nmlz].[Masc]|Gloss=drink.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=shâ

@@ -1519,8 +1519,8 @@
 19	shì	shì	AUX	_	_	16	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
 20	azàː	azàː	VERB	_	_	19	comp:aux	_	GE=put|Gloss=put|nWord=18|RX=[VERB]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-22	nam	nan	ADV	_	_	20	comp:obj@L	_	GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
-23	bisà	bisà	ADP	_	_	22	conj:dicto	_	GE=on_top_of|Gloss=on_top_of|nWord=21|RX=[ADP]
+22	nam	nan	ADV	_	_	20	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
+23	bisà	bisà	ADP	_	_	22	mod	_	GE=on_top_of|Gloss=on_top_of|nWord=21|RX=[ADP]
 24	saːyèn	saːyèː	NOUN	_	Definite=Cons	23	comp:obj	_	GE=[root].[Masc]|Gloss=root.Masc|nWord=22|RX=[NOUN]|wordform=saːyè
 25	runhuː	runhuː	NOUN	_	_	24	mod	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=23|RX=[NOUN]
 26	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
@@ -1605,8 +1605,8 @@
 8	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
 9	koːmàː	koːmàː	VERB	_	_	8	comp:aux	_	GE=return|Gloss=return|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	can	can	ADV	_	_	9	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
-12	wurin	wurin	ADP	_	Definite=Cons	11	conj:appos	_	GE=[place].[Masc]|Gloss=at|nWord=12|RX=[NOUN]|wordform=wuri
+11	can	can	ADV	_	_	9	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=11|RX=[ADV]
+12	wurin	wurin	ADP	_	Definite=Cons	11	mod	_	GE=[place].[Masc]|Gloss=at|nWord=12|RX=[NOUN]|wordform=wuri
 13	runhuː	runhuː	NOUN	_	_	12	comp:obj	_	GE=[tree_sp].[Masc]|Gloss=tree_sp.Masc|nWord=13|RX=[NOUN]
 14	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
@@ -1748,7 +1748,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yag	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
-4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
+4	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -2247,7 +2247,7 @@
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 14	yaː	yaː	AUX	_	_	8	conj:coord	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=13|RX=[AUX]
 15	ga	ganiː	VERB	_	_	14	comp:aux	_	GE=see|Gloss=see|nWord=14|RX=[VERB]
-16	indà	indà	ADV	_	_	15	comp:obj	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
+16	indà	indà	PRON	_	_	15	comp:obj	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
 17	ta	ta	PRON	_	_	18	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
 18	kè	kè	PredPART	_	_	16	mod@relcl	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=17|RX=[AUX]
 19	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
@@ -3227,7 +3227,7 @@
 11	sâː	sâː	VERB	_	_	10	comp:aux	_	GE=put|Gloss=put|nWord=11|RX=[VERB]
 12	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def	11	comp:obj	_	GE=[charm_belt].[Masc].[Def]|Gloss=charm_belt.Masc.Def|nWord=12|RX=[NOUN]
 13	nan	nan	DET	_	_	12	det	_	GE=[Dist]|Gloss=Dist|nWord=13|RX=[DET]
-14	cikiː	cikiː	ADV	_	_	11	comp:obj@G	_	GE=inside|Gloss=inside|nWord=14|RX=[ADV]
+14	cikiː	cikiː	ADV	_	_	11	comp:obl	_	GE=inside|Gloss=inside|nWord=14|RX=[ADV]
 15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	duk	duk	ADV	_	_	17	mod	_	GE=all|Gloss=all|nWord=16|RX=[ADV]
 17	kà	kà	AUX	_	_	10	parataxis	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=17|RX=[AUX]
