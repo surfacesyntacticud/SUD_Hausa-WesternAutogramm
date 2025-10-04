@@ -1933,60 +1933,68 @@
 18	mikì	mikì	PRON	_	_	17	comp:obl@R	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=11|RX=[PRON]
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
-# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_062-062
+# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_062-062_split1
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 63000, 65000
-# text = niː kàu nik kaːwoː mikì, kuma yaː yoː mun sàːƙoː wurinkì ## yac cêː ìn gaisheː kì, kuma ìn gayàː makì, shinàː sônkì, àmmaː bài san dùbaːr̃àː waddà zâː shi yîː ba, shì sàːmu ganinkì.
-# text_en = As for me, I brought (them) to you, and he gave me a message for you ## He said I should greet you and tell you that he loves you, but he does not know how he will do to manage to see you.
-# text_ortho = nii kàu nik kaawoo mikì, kuma yaa yoo mun sàaƙoo ## wuᵲinkì, yac ceè ’ìn gaišee kì, kuma ’ìn gayàa makì, ši nàa soǹkì ## ’àmmaa bài san dùbaaràa, waddà zaà ši yiì ba, šì sàamu ganinkì.
-1	niː	niː	PRON	_	_	_	_	_	GE=[1Sing]|Gloss=1Sing|nWord=1|RX=[PRON]
+# text = niː kâu nik kaːwoː mikì , kuma yaː yoː mun sàːƙoː wurinkì .
+# text_en = As for me, I brought (them) to you, and he gave me a message for you.
+# text_ortho = nii kàu nik kaawoo mikì, kuma yaa yoo mun sàaƙoo  wuᵲinkì.
+1	niː	niː	PRON	_	_	3	dislocated@subj	_	GE=[1Sing]|Gloss=1Sing|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3	nik	nik	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=3|RX=[AUX]
-4	kaːwoː	kai	VERB	_	_	3	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to.Dir|nWord=4|RX=[VERB]|wordform=kaːw
-5	mikì	mikì	PRON	_	_	4	comp:obl@R	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=5|RX=[PRON]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+3	nik	nik	AUX	_	_	0	root	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=3|RX=[AUX]
+4	kaːwoː	kai	VERB	_	_	3	comp:obj	_	GE=reach/take_to|Gloss=reach/take_to.Dir|nWord=4|RX=[VERB]|wordform=kaːw
+5	mikì	mikì	PRON	_	_	4	mod	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=5|RX=[PRON]
+6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
-8	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
+8	yaː	yaː	AUX	_	_	3	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 9	yoː	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do.Dir|nWord=9|RX=[VERB]|wordform=y
 10	mun	minì	PRON	_	_	9	comp:obl@R	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
-11	sàːƙoː	sàːƙoː	NOUN	_	_	_	_	_	GE=[message].[Masc]|Gloss=message.Masc|nWord=11|RX=[NOUN]
+11	sàːƙoː	sàːƙoː	NOUN	_	_	9	comp:obj@T	_	GE=[message].[Masc]|Gloss=message.Masc|nWord=11|RX=[NOUN]
 12-13	wurinkì	_	_	_	_	_	_	_	_
-12	wurin	wuriː	NOUN	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=12|RX=[NOUN]|wordform=wuri
-13	=kì	=kì	PRON	_	_	12	mod	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=12|RX=[PRON]|wordform=-kì
-14	##	##	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
-16	cêː	cêː	VERB	_	_	15	comp:aux	_	GE=say|Gloss=say|nWord=15|RX=[VERB]
-17	ìn	ìn	AUX	_	_	_	_	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=16|RX=[AUX]
-18	gaisheː	gaisàː	VERB	_	_	17	comp:aux	_	GE=greet|Gloss=greet|nWord=17|RX=[VERB]
-19	kì	kì	PRON	_	_	18	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=18|RX=[PRON]
-20	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-21	kuma	kuma	PART	_	_	22	discourse	_	GE=also|Gloss=also|nWord=20|RX=[ADV]
-22	ìn	ìn	AUX	_	_	_	_	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=21|RX=[AUX]
-23	gayàː	gayàː	VERB	_	_	22	comp:aux	_	GE=tell|Gloss=tell|nWord=22|RX=[VERB]
-24	makì	makì	PRON	_	_	23	comp:obl@R	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=23|RX=[PRON]
-25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-26	shinàː	shinàː	AUX	_	_	_	_	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=25|RX=[AUX]
-27-28	sônkì	_	_	_	_	_	_	_	_
-27	sôn	sôː	VERB	_	Definite=Cons	26	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=26|RX=[VERB]|wordform=sô
-28	=kì	=kì	PRON	_	_	27	udep	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=26|RX=[PRON]|wordform=-kì
-29	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-30	àmmaː	àmmaː	CCONJ	_	_	_	_	_	GE=but|Gloss=but|nWord=28|RX=[CCONJ]
-31	bài	bài	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=29|RX=[AUX]
-32	san	sanìː	VERB	_	_	31	comp:aux	_	GE=know|Gloss=know|nWord=30|RX=[VERB]
-33	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	32	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=31|RX=[NOUN]
-34	waddà	waddà	PRON	_	PronType=Rel	_	_	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=32|RX=[PRON]
-35	zâː	zâː	AUX	_	_	_	_	_	GE=[Fut]|Gloss=Fut|nWord=33|RX=[AUX]
-36	shi	shi	PRON	_	_	35	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=34|RX=[PRON]
-37	yîː	yi	VERB	_	_	35	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=35|RX=[VERB]
-38	ba	ba	PART	_	_	32	mod	_	GE=[Neg]|Gloss=Neg|nWord=36|RX=[PART]
-39	,	,	PUNCT	_	_	40	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
-40	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=38|RX=[AUX]
-41	saːmùː	saːmùː	VERB	_	_	40	comp:aux	_	GE=get|Gloss=get|nWord=39|RX=[VERB]
-42-43	ganinkì	_	_	_	_	_	_	_	_
-42	ganin	ganiː	VERB	_	Definite=Cons	_	_	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc|nWord=40|RX=[VERB]|wordform=gani
-43	=kì	=kì	PRON	_	_	42	udep	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=40|RX=[PRON]|wordform=-kì
-44	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=41|RX=[PUNCT]
+12	wurin	wurin	ADP	_	_	9	comp:obl	_	Gloss=to|nWord=12
+13	=kì	=kì	PRON	_	_	12	udep	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=12|RX=[PRON]|wordform=-kì
+14	.	.	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+
+# sent_id = BC_HAU_Gouffé_2_02_GreenBeans_062-062_split2
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
+# sent_timecode = 63000, 65000
+# text = yac cêː ìn gaisheː kì , kuma ìn gayàː makì , shinàː sôn =kì , àmmaː bài san dùbaːr̃àː waddà zâː shi yîː ba , shì saːmùː ganin =kì .
+# text_en = He said I should greet you and tell you that he loves you, but he does not know how he will do to manage to see you.
+# text_ortho = yac ceè ’ìn gaišee kì, kuma ’ìn gayàa makì, ši nàa soǹkì, ’àmmaa bài san dùbaaràa, waddà zaà ši yiì ba, šì sàamu ganinkì.
+1	yac	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
+2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=15|RX=[VERB]
+3	ìn	ìn	AUX	_	Definite=Cons	2	comp:obj	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=16|RX=[AUX]
+4	gaisheː	gaisàː	VERB	_	_	3	comp:aux	_	GE=greet|Gloss=greet|nWord=17|RX=[VERB]
+5	kì	kì	PRON	_	_	4	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=18|RX=[PRON]
+6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
+7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=20|RX=[ADV]
+8	ìn	ìn	AUX	_	Definite=Cons	3	parataxis@conj	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=21|RX=[AUX]
+9	gayàː	gayàː	VERB	_	_	8	comp:aux	_	GE=tell|Gloss=tell|nWord=22|RX=[VERB]
+10	makì	makì	PRON	_	_	9	comp:obl@R	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=23|RX=[PRON]
+11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+12	shinàː	shinàː	AUX	_	_	9	comp:obj@T	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=25|RX=[AUX]
+13-14	sônkì	_	_	_	_	_	_	_	_
+13	sôn	sôː	VERB	_	Definite=Cons	12	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=26|RX=[VERB]|wordform=sô
+14	=kì	=kì	PRON	_	_	13	udep	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=26|RX=[PRON]|wordform=-kì
+15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
+16	àmmaː	àmmaː	CCONJ	_	_	17	cc	_	GE=but|Gloss=but|nWord=28|RX=[CCONJ]
+17	bài	bài	AUX	_	_	12	conj:coord	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.Perf.Neg|nWord=29|RX=[AUX]
+18	san	sanìː	VERB	_	_	17	comp:aux	_	GE=know|Gloss=know|nWord=30|RX=[VERB]
+19	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	18	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=31|RX=[NOUN]
+20	waddà	waddà	PRON	_	PronType=Rel	23	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=32|RX=[PRON]
+21	zâː	zâː	AUX	_	_	19	mod@relcl	_	GE=[Fut]|Gloss=Fut|nWord=33|RX=[AUX]
+22	shi	shi	PRON	_	_	21	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=34|RX=[PRON]
+23	yîː	yi	VERB	_	_	21	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=35|RX=[VERB]
+24	ba	ba	PART	_	_	18	mod	_	GE=[Neg]|Gloss=Neg|nWord=36|RX=[PART]
+25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
+26	shì	shì	AUX	_	_	23	parataxis@mod	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=38|RX=[AUX]
+27	saːmùː	saːmùː	VERB	_	_	26	comp:aux	_	GE=get|Gloss=get|nWord=39|RX=[VERB]
+28-29	ganinkì	_	_	_	_	_	_	_	_
+28	ganin	ganiː	VERB	_	Definite=Cons	27	comp:obj	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc|nWord=40|RX=[VERB]|wordform=gani
+29	=kì	=kì	PRON	_	_	28	udep	_	GE=[2Fem].[Poss]|Gloss=2Fem.Poss|nWord=40|RX=[PRON]|wordform=-kì
+30	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=41|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_063-063
 # speaker_id = *
@@ -1995,11 +2003,11 @@
 # text = tac cêː bâː koːmiː.
 # text_en = She said it's nothing.
 # text_ortho = tac ceè baà koomii.
-1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
+1	tac	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
-3	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=3|RX=[PREDPART]
-4	koːmiː	koːmiː	PRON	_	_	3	subj	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
-5	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=5|RX=[PUNCT]
+3	bâː	bâː	PredPART	_	_	2	comp:obj	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=3|RX=[PREDPART]
+4	koːmiː	koːmiː	PRON	_	_	3	comp:pred	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_064-064
 # speaker_id = *
