@@ -4527,79 +4527,79 @@
 # text = yac cêː kissàkkù ceː ta maːtaː.
 # text_en = He said your female deception.
 # text_ortho = yac ceè kissàkkù cee ta maataa.
-1	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
+1	yac	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3-4	kissàkkù	_	_	_	_	_	_	_	_
-3	kissàk	kissà	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=3|RX=[NOUN]|wordform=kissà
+3	kissàk	kissà	NOUN	_	Definite=Cons	2	comp:obj@T	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=3|RX=[NOUN]|wordform=kissà
 4	=kù	=kù	PRON	_	_	3	mod	_	GE=[2Plur].[Poss]|Gloss=2Plur.Poss|nWord=3|RX=[PRON]|wordform=-kù
-5	ceː	ceː	PART	_	_	_	_	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=4|RX=[PART]
-6	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=5|RX=[PART]
+5	ceː	ceː	PART	_	_	3	discourse@foc	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=4|RX=[PART]
+6	ta	ta	ADP	_	_	3	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=5|RX=[PART]
 7	maːtaː	maːtaː	NOUN	_	_	6	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=6|RX=[NOUN]
-8	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=7|RX=[PUNCT]
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=7|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_145-145
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 150000, 151000
-# text = tac cêː mai : àsheː, kaː sam mu nàː dà kissà ? muː maːtaː ?
+# text = tac cêː mai : àsheː , kaː sam munàː dà kissà ? muː maːtaː ?
 # text_en = She said indeed, you have realised we are deceitful, we women?
 # text_ortho = tac ceè mai : ’àšee, kaa sam mu nàa dà kissà ? muu maataa ?
-1	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
+1	tac	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	mai	mai	PRON	_	_	2	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=3|RX=[PRON]
-4	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	àsheː	àsheː	INTJ	_	_	_	_	_	GE=you_don't_say!|Gloss=you_don't_say!|nWord=5|RX=[INTJ]
-6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	kaː	kaː	AUX	_	_	_	_	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=7|RX=[AUX]
-8	sam	sanìː	VERB	_	_	7	comp:aux	_	GE=know|Gloss=know|nWord=8|RX=[VERB]
-9	mu	mu	PRON	_	_	8	comp:obj	_	GE=[1Plur]|Gloss=1Plur|nWord=9|RX=[PRON]
-10	nàː	nàː	PredPART	_	_	_	_	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=10|RX=[AUX]
-11	dà	dà	ADP	_	_	_	_	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
-12	kissà	kissà	NOUN	_	_	11	comp:obj	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=12|RX=[NOUN]
-13	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
-14	maːtaː	maːtaː	NOUN	_	_	_	_	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=15|RX=[NOUN]
-15	?	?	PUNCT	_	_	_	_	_	GE=[?]|Gloss=?|nWord=16|RX=[PUNCT]
+4	:	:	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
+5	àsheː	àsheː	INTJ	_	_	7	discourse	_	GE=you_don't_say!|Gloss=you_don't_say!|nWord=5|RX=[INTJ]
+6	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	kaː	kaː	AUX	_	_	2	comp:obj@T	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=7|RX=[AUX]
+8	sam	sanìː	VERB	_	_	7	comp:obj	_	GE=know|Gloss=know|nWord=8|RX=[VERB]
+9	munàː	nàː	AUX	_	_	8	comp:obj	_	Gloss=1Plur.Pred/Loc
+10	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
+11	kissà	kissà	NOUN	_	_	10	comp:obj	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=12|RX=[NOUN]
+12	?	?	PUNCT	_	_	13	punct	_	GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
+13	muː	muː	PRON	_	_	9	dislocated@subj	_	Gloss=1Plur
+14	maːtaː	maːtaː	NOUN	_	_	13	conj:appos	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=15|RX=[NOUN]
+15	?	?	PUNCT	_	_	7	punct	_	GE=[?]|Gloss=?|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_146-146
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 151000, 152000
-# text = dà kaɗ ɗarmè maːlàm, kas sâː cikin kasòː, nic cêː maː à sàki maːlàm, bâː shi dà lâihiː, cikim màganàn nan, kissàmmù ceː ta maːtaː.
+# text = dà kaɗ ɗarmè maːlàmiː , kas sâː cikin kasòː . nic cêː makà à sàki maːlàmiː , bâː shi dà lâihiː , cikin màganàn nan , kissàmmù ceː ta maːtaː .
 # text_en = When you tied up the malam, you put him in jail, I told you to release him, he did nothing wrong, that that story was a matter of female deception.
 # text_ortho = dà kaɗ ɗaᵲmè maalàm, kas saà cikin kasòo, nic ceè maa ’à sàki maalàm, baà ši dà laìhii, cikim màganàn nan, kissàmmù cee ta maataa.
-1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	6	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	kaɗ	kak	AUX	_	_	1	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	ɗarmè	ɗarmèː	VERB	_	_	2	comp:aux	_	GE=[tie].[Ach]|Gloss=tie.Ach|nWord=3|RX=[VERB]
-4	maːlàm	maːlàmiː	NOUN	_	_	3	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=4|RX=[NOUN]|wordform=maːlàmiː
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	kas	kak	AUX	_	_	_	_	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=6|RX=[AUX]
+4	maːlàmiː	maːlàm	NOUN	_	_	3	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=4|RX=[NOUN]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	kas	kak	AUX	_	_	0	root	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	sâː	sâː	VERB	_	_	6	comp:aux	_	GE=put|Gloss=put|nWord=7|RX=[VERB]
 8	cikin	cikin	ADP	_	_	7	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=8|RX=[ADP]
 9	kasòː	kasòː	NOUN	_	_	8	comp:obj	_	GE=[prison].[Masc]|Gloss=prison.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	nic	nik	AUX	_	_	_	_	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=11|RX=[AUX]
-12	cêː	cêː	VERB	_	_	11	comp:aux	_	GE=say|Gloss=say|nWord=12|RX=[VERB]
+10	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+11	nic	nik	AUX	_	_	18	mod	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=11|RX=[AUX]
+12	cêː	cêː	VERB	_	_	11	comp:obj	_	GE=say|Gloss=say|nWord=12|RX=[VERB]
 13	makà	makà	PRON	_	_	12	comp:obl@R	_	GE=[2Masc].[Dat]|Gloss=2Masc.Dat|nWord=13|RX=[PRON]
-14	à	à	AUX	_	_	_	_	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
+14	à	à	AUX	_	_	11	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=14|RX=[AUX]
 15	sàki	sàkaː	VERB	_	_	14	comp:aux	_	GE=release|Gloss=release|nWord=15|RX=[VERB]
-16	maːlàm	maːlàmiː	NOUN	_	_	15	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=16|RX=[NOUN]|wordform=maːlàmiː
-17	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	bâː	bâː	PredPART	_	_	_	_	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=18|RX=[PREDPART]
+16	maːlàmiː	maːlàm	NOUN	_	_	15	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=16|RX=[NOUN]
+17	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+18	bâː	bâː	PredPART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=18|RX=[PREDPART]
 19	shi	shi	PRON	_	_	18	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]
 20	dà	dà	ADP	_	_	18	comp:pred	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
 21	lâihiː	lâihiː	NOUN	_	_	20	comp:obj	_	GE=[fault].[Masc]|Gloss=fault.Masc|nWord=21|RX=[NOUN]
-22	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-23	cikin	cikin	ADP	_	_	_	_	_	GE=in(side)|Gloss=in(side)|nWord=23|RX=[ADP]
+22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
+23	cikin	cikin	ADP	_	_	18	mod	_	GE=in(side)|Gloss=in(side)|nWord=23|RX=[ADP]
 24	màganàn	màganàː	NOUN	_	Definite=Def	23	comp:obj	_	GE=[talk].[Fem].[Def]|Gloss=talk.Fem.Def|nWord=24|RX=[NOUN]
 25	nan	nan	DET	_	_	24	det	_	GE=[Dist]|Gloss=Dist|nWord=25|RX=[DET]
-26	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+26	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27-28	kissàmmù	_	_	_	_	_	_	_	_
-27	kissàm	kissà	NOUN	_	Definite=Cons	_	_	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=27|RX=[NOUN]|wordform=kissà
+27	kissàm	kissà	NOUN	_	Definite=Cons	29	mod	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=27|RX=[NOUN]|wordform=kissà
 28	=mù	=mù	PRON	_	_	27	mod	_	GE=[1Plur].[Poss]|Gloss=1Plur.Poss|nWord=27|RX=[PRON]|wordform=-mù
-29	ceː	ceː	PART	_	_	_	_	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=28|RX=[PART]
-30	ta	ta	ADP	_	_	_	_	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=29|RX=[PART]
+29	ceː	ceː	PART	_	_	23	comp:obj	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=28|RX=[PART]
+30	ta	ta	ADP	_	_	29	subj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=29|RX=[PART]
 31	maːtaː	maːtaː	NOUN	_	_	30	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=30|RX=[NOUN]
-32	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=31|RX=[PUNCT]
+32	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_147-147
 # speaker_id = *
