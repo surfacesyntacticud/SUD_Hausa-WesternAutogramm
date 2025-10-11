@@ -68,7 +68,7 @@
 22	=tà	=tà	PRON	_	_	21	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=20|RX=[PRON]|wordform=-tà
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 24	don	don	SCONJ	_	_	20	mod	_	GE=because|Gloss=because|nWord=22|RX=[SCONJ]
-25	tà	tà	PRON	_	_	24	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=23|RX=[PRON]
+25	tà	tà	AUX	_	_	24	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=23|RX=[PRON]
 26	zoː	zoː	VERB	_	_	25	comp:aux	_	GE=go|Gloss=go|nWord=24|RX=[VERB]
 27-28	wuriːnai	_	_	_	_	_	_	_	_
 27	wuriː	wuriː	NOUN	_	_	26	comp:obj@G	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
@@ -2292,7 +2292,7 @@
 19	riːgunàː	rìːgaː	NOUN	_	_	18	comp:obj	_	GE=[robe].[Plur]|Gloss=robe.Plur|nWord=24|RX=[NOUN]
 20	=nai	=nai	PRON	_	_	19	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=24|RX=[PRON]|wordform=-ai
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-22	shì	shì	PRON	_	_	17	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc|nWord=26|RX=[PRON]
+22	shì	shì	AUX	_	_	17	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc|nWord=26|RX=[PRON]
 23	sâː	sâː	VERB	_	_	22	comp:aux	_	GE=put|Gloss=put|nWord=27|RX=[VERB]
 24	hùllaː	hùllaː	NOUN	_	_	23	comp:obj	_	GE=[hat].[Fem]|Gloss=hat.Fem|nWord=28|RX=[NOUN]
 25	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
@@ -2599,7 +2599,7 @@
 2	nàː	nàː	AUX	_	_	0	root	_	GE=[Imp]|Gloss=Imp|nWord=2|RX=[AUX]
 3	taɓà	taɓàː	VERB	_	_	2	comp:aux	_	GE=touch|Gloss=touch|nWord=3|RX=[VERB]
 4	jìkin	jìkiː	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=4|RX=[NOUN]|wordform=jìki
-5	wani	wani	PRON	_	PronType=Spec	4	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
+5	wani	wani	DET	_	PronType=Spec	4	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
 8	sunàː	sunàː	AUX	_	_	2	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=8|RX=[AUX]
@@ -2766,7 +2766,7 @@
 # text = sunàː yîː sunàː cîn goːr̃ò , sunàː dàːriyaː , har̃ swaːhiyaː tà waːyèː , shì tàhiyàː =tai .
 # text_en = They are talking, they are eating kola, they are laughing until morning breaks and he will leave.
 # text_ortho = su nàa yiì su nàa ciǹ goorò, su nàa dàaᵲiyaa, has swaahiyaa tà waayèe, šì tàhiyàatai.
-1	sunàː	sunàː	PRON	_	_	0	root	_	Gloss=3Pl.Imp|nWord=12
+1	sunàː	sunàː	AUX	_	_	0	root	_	Gloss=3Pl.Imp|nWord=12
 2	yîː	yi	VERB	_	ExtPos=NOUN	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=13|RX=[VERB]
 3	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=14|RX=[AUX]
 4	cîn	cîː	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:aux	_	GE=[eat].[Nmlz].[Masc]|Gloss=eat.Nmlz.Masc|nWord=15|RX=[VERB]|wordform=cî

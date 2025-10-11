@@ -655,7 +655,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 22490, 24000
-# text = sunàː yîn hakà nan, has sôː ukkù.
+# text = sunàː yîn hakà nan , has sôː ukkù .
 # text_en = They did that three times.
 # text_ortho = su nàa yiǹ hakà nan, has soò ’ukkù.
 1	sunàː	sunàː	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
@@ -663,8 +663,8 @@
 3	hakà	hakà	ADV	_	_	2	mod	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
 4	nan	nan	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	hac	hat	ADP	_	_	2	mod	_	GE=until|Gloss=until|nWord=6|RX=[ADP]
-7	sôː	sôː	NOUN	_	_	6	comp:aux	_	GE=[times].[Masc]|Gloss=times.Masc|nWord=7|RX=[NOUN]
+6	has	hat	ADP	_	_	2	mod	_	GE=until|Gloss=until|nWord=6|RX=[ADP]
+7	sôː	sôː	NOUN	_	_	6	comp:obj	_	GE=[times].[Masc]|Gloss=times.Masc|nWord=7|RX=[NOUN]
 8	ukkù	ukkù	NUM	_	_	7	mod:num	_	GE=three|Gloss=three|nWord=8|RX=[NUM]
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 

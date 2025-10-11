@@ -315,7 +315,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	a	a	PRON	_	_	2	subj	_	GE=[4]|Gloss=4|nWord=3|RX=[AUX]
-4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
+4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
 5	zuːgàl	zuːgàl	NOUN	_	_	4	udep	_	GE=love_charm|Gloss=love_charm|nWord=5|RX=[PROPN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -879,7 +879,7 @@
 # text_ortho = lookàcin dà mùtun zaà ši harakàa dà màcce, sai šì ɗèebi gàaᵲiǹ nan ɗan kàɗannà, šì saà gà ᵲuwaa, šì kwaaɓàa.
 1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	11	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=1|RX=[NOUN]|wordform=loːkàci
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
-3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
+3	mùtun	mùtun	NOUN	_	_	4	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
 4	zâː	zâː	AUX	_	_	2	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=4|RX=[AUX]
 5	shi	shi	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
 6	har̃akàː	har̃akàː	VERB	_	_	4	comp:aux	_	GE=deal|Gloss=deal|nWord=6|RX=[VERB]
@@ -1235,7 +1235,7 @@
 # text_ortho = koo dà wane lookàcii mùtun zaà ši cim̀ màccè, sai šì aukoo maaganiǹ nan, šì ɗèebi ɗan kàɗannà, šì šaahwaà gà bùuᵲaa.
 1	koːdàwane	koːdàwane	DET	_	_	2	det	_	GE=[each].[Masc]|Gloss=each.Masc|nWord=1|RX=[DET]
 2	loːkàciː	loːkàciː	NOUN	_	_	10	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=2|RX=[NOUN]
-3	mùtun	mùtun	NOUN	_	_	4	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
+3	mùtun	mùtun	NOUN	_	_	4	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
 4	zâː	zâː	AUX	_	_	2	mod@relcl	_	GE=[Fut]|Gloss=Fut|nWord=4|RX=[AUX]
 5	shi	shi	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
 6	cîm	cîː	VERB	_	Definite=Cons|ExtPos=NOUN	4	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=cî
@@ -1499,9 +1499,9 @@
 6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	GE=get|Gloss=get|nWord=7|RX=[VERB]
 8	jibdàː	jibdàː	NOUN	_	_	7	comp:obj	_	GE=[musk].[Fem]|Gloss=musk.Fem|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	waddà	waddà	PRON	_	PronType=Rel	11	subj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
-11	bâː	bâː	PredPART	_	_	8	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=11|RX=[PREDPART]
+9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	waddà	waddà	PRON	_	PronType=Rel	8	conj:appos	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
+11	bâː	bâː	PredPART	_	_	10	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=11|RX=[PREDPART]
 12	ta	ta	PRON	_	_	11	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=12|RX=[PRON]
 13	dà	dà	ADP	_	_	11	comp:pred	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14	gamìː	gamìː	NOUN	_	_	13	comp:obj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=14|RX=[NOUN]
@@ -1862,11 +1862,11 @@
 5	dul	dukà	DET	_	_	6	det	_	GE=all|Gloss=all|nWord=5|RX=[DET]
 6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	18	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=6|RX=[NOUN]|wordform=loːkàci
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	GE=that|Gloss=that|nWord=7|RX=[SCONJ]
-8	mùtun	mùtun	NOUN	_	_	9	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=8|RX=[NOUN]
-9	zâː	zâː	PART	_	_	7	comp:obj	_	GE=[Dir]|Gloss=Dir|nWord=9|RX=[PART]
+8	mùtun	mùtun	NOUN	_	_	9	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=8|RX=[NOUN]
+9	zâː	zâː	PredPART	_	_	7	comp:obj	_	GE=[Dir]|Gloss=Dir|nWord=9|RX=[PART]
 10	shi	shi	PRON	_	_	9	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
 11	wani	wani	DET	_	PronType=Spec	12	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=11|RX=[DET]
-12	sha’àniː	sha’àniː	NOUN	_	_	9	comp:obj@G	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=12|RX=[NOUN]
+12	sha’àniː	sha’àniː	NOUN	_	_	9	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=12|RX=[NOUN]
 13	dà	dà	ADP	_	_	9	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14-15	màːtashshì	_	_	_	_	_	_	_	_
 14	màːtash	màːtaː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=14|RX=[NOUN]|wordform=màːta
@@ -2148,7 +2148,7 @@
 8	ɗaukoː	ɗaukàː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take.Dir|nWord=8|RX=[VERB]|wordform=ɗauk
 9	iccèː	iccèː	NOUN	_	_	8	comp:obj	_	GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	shì	shì	PRON	_	_	7	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=11|RX=[PRON]
+11	shì	shì	AUX	_	_	7	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=11|RX=[PRON]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
 13	ta	ta	ADP	_	_	12	comp:pred	_	GE=via|Gloss=via|nWord=13|RX=[ADP]
 14	toːnà	toːnà	VERB	_	_	13	comp:obj	_	GE=scour|Gloss=scour|nWord=14|RX=[VERB]
@@ -2527,7 +2527,7 @@
 4	mai	mai	PRON	_	_	3	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=4|RX=[PRON]
 5	bàːkiː	bàːkiː	NOUN	_	_	3	comp:obj	_	GE=[mouth].[Masc]|Gloss=mouth.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	wânnan	wânnan	PRON	_	_	8	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=7|RX=[PRON]
+7	wânnan	wânnan	DET	_	_	8	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=7|RX=[PRON]
 8	gàːrim	gàːriː	NOUN	_	Definite=Cons	16	dislocated@comp	_	GE=[powder].[Masc]|Gloss=powder.Masc|nWord=8|RX=[NOUN]|wordform=gàːri
 9	maːgàniː	maːgàniː	NOUN	_	_	8	mod	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -3045,7 +3045,7 @@
 36	ƙyalleː	ƙyalleː	NOUN	_	_	34	comp:obj	_	GE=cloth|Gloss=cloth|nWord=35|RX=[NOUN]
 37	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 38	sai	sai	ADV	_	_	39	mod	_	GE=then|Gloss=then|nWord=37|RX=[ADV]
-39	shì	shì	PRON	_	_	32	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc.Aor|nWord=38|RX=[PRON]
+39	shì	shì	AUX	_	_	32	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc.Aor|nWord=38|RX=[PRON]
 40	ɗaukoː	ɗàukaː	VERB	_	_	39	comp:aux	_	GE=take|Gloss=take.Dir|nWord=39|RX=[VERB]|wordform=ɗauk
 41	kunnàn	kunnài	NOUN	_	Definite=Cons	40	comp:obj	_	GE=[ear].[Plur]|Gloss=ear.Plur|nWord=40|RX=[NOUN]|wordform=kunnài
 42	nan	nan	DET	_	_	41	det	_	GE=[Dist]|Gloss=Dist|nWord=41|RX=[DET]
@@ -4667,7 +4667,7 @@
 50	ankà	ankà	AUX	_	_	49	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.Perf.Bkg|nWord=50|RX=[AUX]
 51	sâː	sâː	VERB	_	_	50	comp:aux	_	GE=put|Gloss=put|nWord=51|RX=[VERB]
 52	mà	mà	ADP	_	_	51	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=52|RX=[ADP]
-53	wânnam	wânnan	PRON	_	_	54	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=53|RX=[PRON]
+53	wânnam	wânnan	DET	_	_	54	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=53|RX=[PRON]
 54	maːgàniː	maːgàniː	NOUN	_	_	52	comp:obj	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=54|RX=[NOUN]
 55	in	in	SCONJ	_	_	74	mod	_	GE=if|Gloss=if|nWord=55|RX=[SCONJ]
 56	tak	tak	AUX	_	_	55	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=56|RX=[AUX]
@@ -6268,7 +6268,7 @@
 # text = shinàː sôntà ƙwar̃ai , ita shikà mà wânnam maːgàniː , bâːshi mà waddà bâːshi sôː .
 # text_en = He loves her seriously, she is the one he is doing that medicine for, he is not doing it for the one he does not love.
 # text_ortho = ši nàa soǹtà ƙwarai, ’ita ši kà maà waǹnam maagànii, baà ši maà waddà baà ši soò.
-1	shinàː	shinàː	PRON	_	_	6	parataxis@mod	_	GE=[3Masc.Imp]|Gloss=3Masc.Imp|nWord=42|RX=[PRON]
+1	shinàː	shinàː	AUX	_	_	6	parataxis@mod	_	GE=[3Masc.Imp]|Gloss=3Masc.Imp|nWord=42|RX=[PRON]
 2-3	sôntà	_	_	_	_	_	_	_	_
 2	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	1	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=43|RX=[VERB]|wordform=sô
 3	=tà	=tà	PRON	_	_	2	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=43|RX=[PRON]|wordform=-tà
@@ -6531,7 +6531,7 @@
 # text_en = That woman, whatever the man does to her, she cannot leave him.
 # text_ortho = ’ita waǹǹam màccèǹ koo mii mùtun yam mutà, baà ta ’iyà ᵲàbuwaa dà šii.
 1	ita	ita	PRON	_	_	9	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	wânnam	wânnan	PRON	_	_	3	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=2|RX=[PRON]
+2	wânnam	wânnan	DET	_	_	3	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=2|RX=[PRON]
 3	màcce	màcce	NOUN	_	_	1	conj:appos	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=3|RX=[NOUN]
 4	koːmiː	koːmiː	PRON	_	PronType=Ind	9	mod	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
 5	mùtun	mùtun	NOUN	_	_	6	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=5|RX=[NOUN]
