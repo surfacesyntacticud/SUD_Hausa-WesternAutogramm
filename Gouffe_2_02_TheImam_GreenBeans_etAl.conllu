@@ -1046,11 +1046,11 @@
 # text_en = Then he moved on.
 # text_ortho = sai yat tàhiyàatai.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
-2	yat	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	yat	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàːtai	_	_	_	_	_	_	_	_
 3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]
 4	=tai	=tai	PRON	_	_	3	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]|wordform=-ai
-5	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=4|RX=[PUNCT]
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=4|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_032-032
 # speaker_id = *
@@ -2242,10 +2242,10 @@
 # text_en = The old woman said OK.
 # text_ortho = s’oohuwaa tac ceè toò.
 1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	2	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
-2	tac	tak	AUX	_	_	_	_	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
+2	tac	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
-4	tôː	tôː	INTJ	_	_	_	_	_	GE=well|Gloss=well|nWord=4|RX=[INTJ]
-5	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=5|RX=[PUNCT]
+4	tôː	tôː	INTJ	_	_	3	comp:obj	_	GE=well|Gloss=well|nWord=4|RX=[INTJ]
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_072-072
 # speaker_id = *
@@ -4030,28 +4030,28 @@
 # text_en = The chief took the green beans, he ate the green beans, he washed his hands, he went back to the entrance hut where the courtiers were.
 # text_ortho = saᵲkii ya’ ’àmši jìmɓiᵲii, yac ci jìmɓiᵲii, yaw wankè hannuwàanai, yak koomàa zauᵲèe, can wuᵲin hwàadàawaa.
 1	sarkiː	sarkiː	NOUN	_	_	2	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=1|RX=[NOUN]
-2	ya’	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
+2	ya’	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	àmshi	àmsaː	VERB	_	_	2	comp:aux	_	GE=answer/take|Gloss=answer/take|nWord=3|RX=[VERB]
 4	jìmɓiriː	jìmɓiriː	NOUN	_	_	3	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	yac	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
+6	yac	yak	AUX	_	_	2	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=6|RX=[AUX]
 7	ci	ci	VERB	_	_	6	comp:aux	_	GE=eat|Gloss=eat|nWord=7|RX=[VERB]
 8	jìmɓiriː	jìmɓiriː	NOUN	_	_	7	comp:obj	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	yaw	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
+10	yaw	yak	AUX	_	_	6	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 11	wankè	wankèː	VERB	_	_	10	comp:aux	_	GE=wash|Gloss=wash|nWord=11|RX=[VERB]
 12-13	hannuwàːnai	_	_	_	_	_	_	_	_
 12	hannuwàː	hannuː	NOUN	_	_	11	comp:obj	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=12|RX=[NOUN]
 13	=nai	=nai	PRON	_	_	12	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=12|RX=[PRON]|wordform=-ai
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	yak	yak	AUX	_	_	_	_	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
+15	yak	yak	AUX	_	_	10	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=14|RX=[AUX]
 16	koːmàː	koːmàː	VERB	_	_	15	comp:aux	_	GE=return|Gloss=return|nWord=15|RX=[VERB]
-17	zaurèː	zaurèː	NOUN	_	_	16	comp:obj	_	GE=[entrance_hut].[Masc]|Gloss=entrance_hut.Masc|nWord=16|RX=[NOUN]
-18	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	can	can	ADV	_	_	_	_	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
-20	wurin	wurin	ADP	_	Definite=Cons	_	_	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
+17	zaurèː	zaurèː	NOUN	_	_	16	comp:obj@G	_	GE=[entrance_hut].[Masc]|Gloss=entrance_hut.Masc|nWord=16|RX=[NOUN]
+18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+19	can	can	ADV	_	_	16	mod	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
+20	wurin	wurin	ADP	_	Definite=Cons	19	mod	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
 21	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	_	20	comp:obj	_	GE=[courtiers].[Plur]|Gloss=courtiers.Plur|nWord=20|RX=[NOUN]
-22	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
+22	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_129-129
 # speaker_id = *

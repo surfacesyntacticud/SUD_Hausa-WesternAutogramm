@@ -302,27 +302,27 @@
 # text = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàː, dà shiː dà sàràkkuwaː, sunàː bîn daːjìː.
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
 # text_ortho = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
-1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	8	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
-4	hakà	hakà	ADV	_	_	_	_	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
+4	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
-8	sunkà	sunkà	AUX	_	_	_	_	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=8|RX=[AUX]
+8	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=8|RX=[AUX]
 9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=9|RX=[VERB]
 10	ta	ta	ADP	_	_	9	comp:pred	_	GE=via|Gloss=via|nWord=10|RX=[ADP]
 11	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	10	comp:obj	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=11|RX=[VERB]
-12	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
-14	shiː	shiː	PRON	_	_	_	_	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
-15	dà	dà	CCONJ	_	_	_	_	_	GE=and|Gloss=and|nWord=15|RX=[CCONJ]
-16	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	_	_	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=16|RX=[NOUN]
+12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	dà	dà	CCONJ	_	_	14	cc@preconj	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
+14	shiː	shiː	PRON	_	_	8	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
+15	dà	dà	CCONJ	_	_	16	cc	_	GE=and|Gloss=and|nWord=15|RX=[CCONJ]
+16	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	14	conj:coord	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=16|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	sunàː	sunàː	AUX	_	_	_	_	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=18|RX=[AUX]
+18	sunàː	sunàː	AUX	_	_	8	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=18|RX=[AUX]
 19	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:aux	_	GE=[follow].[Nmlz].[Masc]|Gloss=follow.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=bî
 20	daːjìː	daːjìː	NOUN	_	_	19	udep	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=20|RX=[NOUN]
-21	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=21|RX=[PUNCT]
+21	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_10
 # speaker_id = *
@@ -331,15 +331,15 @@
 # text = àboːkin bàhillaːcèː, nàː bîn dabràssù.
 # text_en = The Fulani's friend is following them alongside.
 # text_ortho = ’àbookim bàhillaacèe, nàa biǹ dabᵲàssù.
-1	àboːkim	àboːkiː	NOUN	_	Definite=Cons	_	_	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=1|RX=[NOUN]|wordform=àboːki
+1	àboːkim	àboːkiː	NOUN	_	Definite=Cons	4	subj	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=1|RX=[NOUN]|wordform=àboːki
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	1	mod	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=2|RX=[PROPN]
-3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	nàː	nàː	AUX	_	_	_	_	_	GE=[Imp]|Gloss=Imp|nWord=4|RX=[AUX]
+3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
+4	nàː	nàː	AUX	_	_	0	root	_	GE=[Imp]|Gloss=Imp|nWord=4|RX=[AUX]
 5	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN	4	comp:aux	_	GE=[follow].[Nmlz].[Masc]|Gloss=follow.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=bî
 6-7	dabràssù	_	_	_	_	_	_	_	_
 6	dabràs	dabràt	ADP	_	_	5	comp:obl	_	GE=alongside|Gloss=alongside|nWord=6|RX=[ADP]
 7	=sù	=sù	PRON	_	_	6	comp:obj	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=6|RX=[PRON]|wordform=-sù
-8	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=7|RX=[PUNCT]
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=7|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_11_split1
 # speaker_id = *
@@ -590,19 +590,19 @@
 # text = dà yaː yi kiràn dawàː, sai àboːkiːnai shì amsàː.
 # text_en = When he called the bush, his friend answered.
 # text_ortho = dà yaa yi kiᵲàn dawàa, sai ’àbookiinai šì ’amsàa.
-1	dà	dà	SCONJ	_	_	_	_	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yaː	yaː	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
-4	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	_	_	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=kirà
+4	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:pred	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=kirà
 5	dawàː	dawàː	NOUN	_	_	4	udep	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=5|RX=[NOUN]
-6	,	,	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sai	sai	ADV	_	_	_	_	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+7	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8-9	àboːkiːnai	_	_	_	_	_	_	_	_
-8	àboːkiː	àboːkiː	NOUN	_	_	_	_	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=8|RX=[NOUN]
+8	àboːkiː	àboːkiː	NOUN	_	_	10	subj	_	GE=[friend].[Masc]|Gloss=friend.Masc|nWord=8|RX=[NOUN]
 9	=nai	=nai	PRON	_	_	8	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=8|RX=[PRON]|wordform=-ai
-10	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
+10	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
 11	amsàː	amsàː	VERB	_	_	10	comp:aux	_	GE=answer|Gloss=answer|nWord=10|RX=[VERB]
-12	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=11|RX=[PUNCT]
+12	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_21
 # speaker_id = *
@@ -612,17 +612,17 @@
 # text_en = Then he told the bush that his head had spoilt.
 # text_ortho = sai šì ceè mà dawàa : kaìnai yaa ɓacèe.
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
-2	shì	shì	AUX	_	_	_	_	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
+2	shì	shì	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	GE=say|Gloss=say|nWord=3|RX=[VERB]
-4	mà	mà	ADP	_	_	3	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
+4	mà	mà	ADP	_	_	3	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 5	dawàː	dawàː	NOUN	_	_	4	comp:obj	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=5|RX=[NOUN]
-6	:	:	PUNCT	_	_	_	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	:	:	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7-8	kâinai	_	_	_	_	_	_	_	_
-7	kâi	kâi	NOUN	_	_	_	_	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=7|RX=[NOUN]
+7	kâi	kâi	NOUN	_	_	9	subj	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=7|RX=[NOUN]
 8	=nai	=nai	PRON	_	_	7	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=7|RX=[PRON]|wordform=-ai
-9	yaː	yaː	AUX	_	_	_	_	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
+9	yaː	yaː	AUX	_	_	3	comp:obj@T	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 10	ɓacèː	ɓacèː	VERB	_	_	9	comp:aux	_	GE=[spoil].[Ach]|Gloss=spoil.Ach|nWord=9|RX=[VERB]
-11	.	.	PUNCT	_	_	_	_	_	Gloss=.|nWord=10|RX=[PUNCT]
+11	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_22-23
 # speaker_id = *
