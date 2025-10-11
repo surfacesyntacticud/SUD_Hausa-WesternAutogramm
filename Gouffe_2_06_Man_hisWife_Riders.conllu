@@ -66,7 +66,7 @@
 6	,	,	PUNCT	_	_	1	_	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	tanàː	tanàː	AUX	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=8|RX=[AUX]
-9	sôm	sôː	VERB	_	Definite=Cons	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]|wordform=sô
+9	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]|wordform=sô
 10	mài	mài	PART	_	_	9	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=10|RX=[PART]
 11	doːkìː	doːkìː	NOUN	_	_	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=11|RX=[NOUN]
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
@@ -163,7 +163,7 @@
 3	mijìn	mijìː	NOUN	_	Definite=Cons	1	conj:appos	_	GE=husband/male|Gloss=husband/male|nWord=3|RX=[NOUN]|wordform=mijì
 4	=tà	=tà	PRON	_	_	3	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]|wordform=-tà
 5	shinàː	shinàː	AUX	_	_	11	parataxis@mod	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=4|RX=[AUX]
-6	jîː	jîː	VERB	_	_	5	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=5|RX=[VERB]
+6	jîː	jîː	VERB	_	ExtPos=NOUN	5	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=5|RX=[VERB]
 7	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 8	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 9-10	râinai	_	_	_	_	_	_	_	_
@@ -192,7 +192,7 @@
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
 1	anà	nà	AUX	_	_	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
-3	zaman	zamaː	VERB	_	Definite=Cons	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
+3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	_	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	kullun	kullun	ADV	_	_	7	mod	_	GE=always|Gloss=always|nWord=7|RX=[ADV]
@@ -220,7 +220,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	zâː	zâː	PredPART	_	_	4	parataxis@conj	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
 9	ta	ta	PRON	_	_	8	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
-10	tàhiyàː	tàhiyàː	VERB	_	_	8	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
+10	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	8	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
 11	wurim	wurin	ADP	_	Definite=Cons	10	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
 12	bìkiː	bìkiː	NOUN	_	_	11	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -257,7 +257,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 17	zâː	zâː	AUX	_	_	12	comp:obj@T	_	GE=[Fut]|Gloss=Fut|nWord=16|RX=[AUX]
 18	ta	ta	PRON	_	_	17	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=17|RX=[PRON]
-19	tàhiyàː	tàhiyàː	VERB	_	_	17	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
+19	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	17	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
 20	wurim	wurin	ADP	_	Definite=Cons	19	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
 21	bìkiː	bìkiː	NOUN	_	_	20	comp:obj	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
 22	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
@@ -347,7 +347,7 @@
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
 26	yay	yak	AUX	_	_	22	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=43|RX=[AUX]
 27	yi	yi	VERB	_	_	26	comp:aux	_	GE=do|Gloss=do|nWord=44|RX=[VERB]
-28	naɗìː	naɗìː	VERB	_	_	27	comp:pred	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=45|RX=[VERB]
+28	naɗìː	naɗìː	VERB	_	ExtPos=NOUN	27	comp:pred	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=45|RX=[VERB]
 29	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=46|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_13
@@ -361,7 +361,7 @@
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	yay	yak	AUX	_	_	2	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
-5	naɗìː	naɗìː	VERB	_	_	4	comp:pred	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=5|RX=[VERB]
+5	naɗìː	naɗìː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	don	don	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=7|RX=[SCONJ]
 8	kâm	kaɗà	PART	_	_	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=8|RX=[PART]
@@ -472,7 +472,7 @@
 1	dà	dà	SCONJ	_	_	6	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yat	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàːtai	_	_	_	_	_	_	_	_
-3	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]
+3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]
 4	=tai	=tai	PRON	_	_	3	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=3|RX=[PRON]|wordform=-ai
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6	yaz	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=5|RX=[AUX]
@@ -570,7 +570,7 @@
 22	yay	yak	AUX	_	_	13	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=21|RX=[AUX]
 23	yi	yi	VERB	_	_	22	comp:aux	_	GE=do|Gloss=do|nWord=22|RX=[VERB]
 24-25	kiràntà	_	_	_	_	_	_	_	_
-24	kiràn	kiràː	VERB	_	Definite=Cons	23	comp:pred	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=kirà
+24	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	23	comp:pred	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=kirà
 25	=tà	=tà	PRON	_	_	24	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=23|RX=[PRON]|wordform=-tà
 26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 27	yac	yak	AUX	_	_	22	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=25|RX=[AUX]
@@ -658,7 +658,7 @@
 11	yac	yak	AUX	_	_	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=10|RX=[AUX]
 12	cêː	cêː	VERB	_	_	11	comp:aux	_	GE=say|Gloss=say|nWord=11|RX=[VERB]
 13	tà	tà	AUX	_	_	12	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=12|RX=[AUX]
-14	kwaːnaː	kwaːnaː	VERB	_	_	13	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
+14	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	13	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
 15-16	wuriːnai	_	_	_	_	_	_	_	_
 15	wuriː	wuriː	NOUN	_	_	14	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=14|RX=[NOUN]
 16	=nai	=nai	PRON	_	_	15	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=14|RX=[PRON]|wordform=-ai
@@ -681,7 +681,7 @@
 3	dà	dà	SCONJ	_	_	8	mod	_	GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	zâː	zâː	AUX	_	_	3	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=4|RX=[AUX]
 5	shi	shi	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
-6	tàhiyàː	tàhiyàː	VERB	_	_	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
+6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaː	yaː	AUX	_	_	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 9	sàːmu	saːmùː	VERB	_	_	8	comp:aux	_	GE=get|Gloss=get|nWord=9|RX=[VERB]
@@ -729,7 +729,7 @@
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	iskàː	iskàː	NOUN	_	_	12	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=11|RX=[NOUN]
 12	bâːshi	bâːshi	AUX	_	_	9	parataxis@conj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.Imp.Neg|nWord=12|RX=[AUX]
-13	shìgaː	shìgaː	VERB	_	_	12	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=13|RX=[VERB]
+13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN	12	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=13|RX=[VERB]
 14	ciki	ciki	ADV	_	_	13	comp:obl	_	GE=inside|Gloss=inside|nWord=14|RX=[ADV]
 15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=16|RX=[ADV]
@@ -743,14 +743,14 @@
 24	indà	indà	PRON	_	_	23	subj	_	GE=where|Gloss=where|nWord=24|RX=[ADV]
 25	iskàː	iskàː	NOUN	_	_	26	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=25|RX=[NOUN]
 26	kà	kà	AUX	_	_	24	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=26|RX=[AUX]
-27	shìgaː	shìgaː	VERB	_	_	26	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=27|RX=[VERB]
+27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN	26	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=27|RX=[VERB]
 28	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
 29	kuma	kuma	PART	_	_	30	discourse	_	GE=also|Gloss=also|nWord=29|RX=[ADV]
 30	bâː	bâː	PredPART	_	_	23	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=30|RX=[PREDPART]
 31	indà	indà	PRON	_	_	30	subj	_	GE=where|Gloss=where|nWord=31|RX=[ADV]
 32	iskàː	iskàː	NOUN	_	_	33	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=32|RX=[NOUN]
 33	kà	kà	AUX	_	_	31	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=33|RX=[AUX]
-34	hìtaː	hìtaː	VERB	_	_	33	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=34|RX=[VERB]
+34	hìtaː	hìtaː	VERB	_	ExtPos=NOUN	33	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=34|RX=[VERB]
 35	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=35|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_26
@@ -764,7 +764,7 @@
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	màganàk	màganàː	NOUN	_	Definite=Cons	3	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=4|RX=[NOUN]|wordform=màganà
-5	kwaːnaː	kwaːnaː	VERB	_	_	4	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
+5	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	4	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
 6	dà	dà	ADP	_	_	4	comp:obl	_	GE=with|Gloss=with|nWord=6|RX=[ADP]
 7	ita	ita	PRON	_	_	6	comp	_	GE=[3Fem]|Gloss=3Fem|nWord=7|RX=[PRON]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -782,8 +782,8 @@
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	tà	tà	AUX	_	_	16	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=21|RX=[AUX]
 22	shiryoː	shiryàː	VERB	_	_	21	comp:aux	_	GE=prepare|Gloss=prepare.Dir|nWord=22|RX=[VERB]|wordform=shiry
-23	shirìn	shirìː	VERB	_	Definite=Cons	22	udep	_	GE=[prepare].[Nmlz].[Masc]|Gloss=prepare.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=shirì
-24	kwaːnaː	kwaːnaː	VERB	_	_	23	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=24|RX=[VERB]
+23	shirìn	shirìː	VERB	_	Definite=Cons|ExtPos=NOUN	22	udep	_	GE=[prepare].[Nmlz].[Masc]|Gloss=prepare.Nmlz.Masc|nWord=23|RX=[VERB]|wordform=shirì
+24	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	23	mod	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=24|RX=[VERB]
 25	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=25|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_27
@@ -930,14 +930,14 @@
 12	indà	indà	PRON	_	_	11	subj	_	GE=where|Gloss=where|nWord=29|RX=[ADV]
 13	iskàː	iskàː	NOUN	_	_	14	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=30|RX=[NOUN]
 14	kà	kà	AUX	_	_	12	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=31|RX=[AUX]
-15	shìgaː	shìgaː	VERB	_	_	14	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=32|RX=[VERB]
+15	shìgaː	shìgaː	VERB	_	ExtPos=NOUN	14	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=32|RX=[VERB]
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 17	kuma	kuma	PART	_	_	18	discourse	_	GE=also|Gloss=also|nWord=34|RX=[ADV]
 18	bâː	bâː	PredPART	_	_	11	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=35|RX=[PREDPART]
 19	indà	indà	PRON	_	_	18	subj	_	GE=where|Gloss=where|nWord=36|RX=[ADV]
 20	iskàː	iskàː	NOUN	_	_	21	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=37|RX=[NOUN]
 21	kà	kà	AUX	_	_	19	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=38|RX=[AUX]
-22	hìtaː	hìtaː	VERB	_	_	21	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=39|RX=[VERB]
+22	hìtaː	hìtaː	VERB	_	ExtPos=NOUN	21	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=39|RX=[VERB]
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=40|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_32_1
@@ -950,7 +950,7 @@
 1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	shi	shi	PRON	_	_	2	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
-4	tàhiyàː	tàhiyàː	VERB	_	_	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
+4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	dàn	dàgà	ADP	_	_	11	mod	_	GE=from|Gloss=from|nWord=6|RX=[ADP]
 7	nân	nân	ADV	_	_	6	comp:obj	_	GE=[Prox]|Gloss=Prox|nWord=7|RX=[ADV]
@@ -1026,7 +1026,7 @@
 9	ɗwai	ɗwai	NOUN	_	_	8	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	tanàː	tanàː	AUX	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=11|RX=[AUX]
-12	sôn	sôː	VERB	_	Definite=Cons	11	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=sô
+12	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	11	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=sô
 13	tà	tà	AUX	_	_	12	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=13|RX=[AUX]
 14	kwaːrè	kwaːrèː	VERB	_	_	13	comp:aux	_	GE=peel_off|Gloss=peel_off|nWord=14|RX=[VERB]
 15	zanèː	zanèː	NOUN	_	_	14	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=15|RX=[NOUN]
@@ -1117,7 +1117,7 @@
 5	wàhalàː	wàhalàː	VERB	_	_	4	comp:aux	_	GE=suffer|Gloss=suffer|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	tanàː	tanàː	AUX	_	_	4	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=7|RX=[AUX]
-8	bìɗam	bìɗaː	VERB	_	Definite=Cons	7	comp:aux	_	GE=[look_for].[Nmlz].[Masc]|Gloss=look_for.Nmlz.Masc|nWord=8|RX=[VERB]|wordform=bìɗa
+8	bìɗam	bìɗaː	VERB	_	Definite=Cons|ExtPos=NOUN	7	comp:aux	_	GE=[look_for].[Nmlz].[Masc]|Gloss=look_for.Nmlz.Masc|nWord=8|RX=[VERB]|wordform=bìɗa
 9	mutuwàː	mutuwàː	NOUN	_	_	8	udep	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	don	don	SCONJ	_	_	19	mod	_	GE=because|Gloss=because|nWord=11|RX=[SCONJ]
@@ -1151,8 +1151,8 @@
 9	taːshì	taːshì	VERB	_	_	8	comp:aux	_	GE=rise|Gloss=rise|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	baːbù	baːbù	PredPART	_	_	0	root	_	GE=there_is_no|Gloss=there_is_no|nWord=11|RX=[PREDPART]
-12	ban	ban	VERB	_	_	11	subj	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=12|RX=[VERB]
-13	kwaːnaː	kwaːnaː	VERB	_	_	12	compound	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
+12	ban	ban	VERB	_	ExtPos=NOUN	11	subj	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=12|RX=[VERB]
+13	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	12	compound	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	sai	sai	ADV	_	_	16	mod	_	GE=then|Gloss=then|nWord=15|RX=[ADV]
 16	tad	tak	AUX	_	_	11	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=16|RX=[AUX]
@@ -1162,7 +1162,7 @@
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	tat	tak	AUX	_	_	16	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=21|RX=[AUX]
 22-23	tàhiyàttà	_	_	_	_	_	_	_	_
-22	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons	21	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=22|RX=[VERB]|wordform=tàhiyà
+22	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons|ExtPos=NOUN	21	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=22|RX=[VERB]|wordform=tàhiyà
 23	=tà	=tà	PRON	_	_	22	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=22|RX=[PRON]|wordform=-tà
 24	.	.	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 
@@ -1192,7 +1192,7 @@
 1	dà	dà	SCONJ	_	_	8	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	tat	tak	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=2|RX=[AUX]
 3-4	tàhiyàttà	_	_	_	_	_	_	_	_
-3	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=tàhiyà
+3	tàhiyàt	tàhiyàː	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=tàhiyà
 4	=tà	=tà	PRON	_	_	3	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=3|RX=[PRON]|wordform=-tà
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	8	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
@@ -1221,7 +1221,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 27	yat	yak	AUX	_	_	22	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=23|RX=[AUX]
 28-29	tàhiyàːtai	_	_	_	_	_	_	_	_
-28	tàhiyàː	tàhiyàː	VERB	_	_	27	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=24|RX=[VERB]
+28	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	27	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=24|RX=[VERB]
 29	=tai	=tai	PRON	_	_	28	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=24|RX=[PRON]|wordform=-ai
 30	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=25|RX=[PUNCT]
 
@@ -1251,8 +1251,8 @@
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 17	sunkà	sunkà	AUX	_	_	7	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=16|RX=[AUX]
 18	yi	yi	VERB	_	_	17	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-19	ban	ban	VERB	_	_	18	comp:pred	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=18|RX=[VERB]
-20	kwaːnaː	kwaːnaː	VERB	_	_	19	compound	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=19|RX=[VERB]
+19	ban	ban	VERB	_	ExtPos=NOUN	18	comp:pred	_	GE=[give].[Nmlz].[Masc]|Gloss=give.Nmlz.Masc|nWord=18|RX=[VERB]
+20	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	19	compound	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=19|RX=[VERB]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 22	yat	yak	AUX	_	_	17	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=21|RX=[AUX]
 23	tàhi	tàhi	VERB	_	_	22	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
@@ -1273,7 +1273,7 @@
 3	yay	yak	AUX	_	_	1	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5-6	zamaːnai	_	_	_	_	_	_	_	_
-5	zamaː	zamaː	VERB	_	_	4	comp:pred	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=5|RX=[VERB]
+5	zamaː	zamaː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=5|RX=[VERB]
 6	=nai	=nai	PRON	_	_	5	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=5|RX=[PRON]|wordform=-ai
 7	cikin	cikin	ADP	_	_	4	mod	_	GE=in(side)|Gloss=in(side)|nWord=6|RX=[ADP]
 8-9	gidaːnai	_	_	_	_	_	_	_	_
@@ -1388,7 +1388,7 @@
 3	shì	shì	AUX	_	_	2	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
 5	ta	ta	PART	_	_	4	compound:prt	_	GE=via|Gloss=via|nWord=30|RX=[ADP]
-6	tàhiyàː	tàhiyàː	VERB	_	_	4	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
+6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 8	shiː	shiː	PRON	_	_	3	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=33|RX=[PRON]
 9	mài	mài	PART	_	_	8	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
@@ -1404,7 +1404,7 @@
 # text_ortho = kuma baà ta som̀ mài dookìː,
 1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=37|RX=[ADV]
 2	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=38|RX=[AUX]
-3	sôm	sôː	VERB	_	Definite=Cons	2	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=39|RX=[VERB]|wordform=sô
+3	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=39|RX=[VERB]|wordform=sô
 4	mài	mài	PART	_	_	3	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=40|RX=[PART]
 5	doːkìː	doːkìː	NOUN	_	_	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=41|RX=[NOUN]
 6	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
@@ -1447,7 +1447,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bàtà	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=5|RX=[AUX]
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	GE=return|Gloss=return|nWord=6|RX=[VERB]
-7	yîm	yi	VERB	_	Definite=Cons	6	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
+7	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN	6	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
 8	bùtum	bùtu	NOUN	_	Definite=Cons	7	udep	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
 9	mài	mài	PART	_	_	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
@@ -1480,7 +1480,7 @@
 # text_en = She loved noone but him.
 # text_ortho = baà ta soǹ koowaa sai šii.
 1	bâːta	bâːta	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Imp.Neg|nWord=9|RX=[AUX]
-2	sôn	sôː	VERB	_	Definite=Cons	1	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=10|RX=[VERB]|wordform=sô
+2	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	1	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=10|RX=[VERB]|wordform=sô
 3	koːwaː	koːwaː	PRON	_	_	2	udep	_	GE=everyone|Gloss=everyone|nWord=11|RX=[PRON]
 4	sai	sai	ADP	_	_	2	mod	_	Gloss=except
 5	shiː	shiː	PRON	_	_	4	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
