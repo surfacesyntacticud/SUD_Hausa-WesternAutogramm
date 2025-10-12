@@ -721,7 +721,7 @@
 # text_en = Drummers are praising them.
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	_	2	subj	_	GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=23|RX=[NOUN]
-2	nàː	nàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=24|RX=[AUX]
+2	nàː	nàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=Imp|nWord=24|RX=[AUX]
 3-4	ta	_	_	_	_	_	_	_	_
 3	ta	ta	ADP	_	_	2	comp:pred	_	GE=via|Gloss=via|nWord=25|RX=[ADP]
 4	yi	yi	VERB	_	_	3	comp:obj	_	Gloss=do
@@ -963,8 +963,8 @@
 15	koːwaː	koːwaː	PRON	_	_	16	subj	_	GE=everyone|Gloss=everyone|nWord=15|RX=[PRON]
 16	shì	shì	AUX	_	_	11	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
 17	yi	yi	VERB	_	_	16	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-18	ta	ta	ADP	_	_	17	comp:pred	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
-19	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:obj	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=kirà
+18	ta	ta	ADP	_	_	17	compound@prt	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
+19	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	17	comp:pred	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=kirà
 20-21	bùdurwaːtai	_	_	_	_	_	_	_	_
 20	bùdurwaː	bùdurwaː	NOUN	_	_	19	udep	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=20|RX=[NOUN]
 21	=tai	=tai	PRON	_	_	20	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=20|RX=[PRON]|wordform=-ai
@@ -2562,8 +2562,8 @@
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
 2	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=18|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
-4	ta	ta	ADP	_	_	3	comp:pred	_	GE=via|Gloss=via|nWord=20|RX=[ADP]
-5	hiːr̃a	hiːr̃a	NOUN	_	_	4	comp:obj	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=21|RX=[NOUN]
+4	ta	ta	ADP	_	_	3	compound@prt	_	GE=via|Gloss=via|nWord=20|RX=[ADP]
+5	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:pred	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=21|RX=[NOUN]
 6	dà	dà	ADP	_	_	5	udep	_	GE=with|Gloss=with|nWord=22|RX=[ADP]
 7	shiː	shiː	PRON	_	_	6	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=23|RX=[PRON]
 8	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
@@ -2755,8 +2755,8 @@
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 8	sù	sù	AUX	_	_	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=7|RX=[AUX]
 9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
-10	ta	ta	ADP	_	_	9	comp:pred	_	GE=via|Gloss=via|nWord=9|RX=[ADP]
-11	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	10	comp:obj	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=10|RX=[NOUN]
+10	ta	ta	ADP	_	_	9	compound@prt	_	GE=via|Gloss=via|nWord=9|RX=[ADP]
+11	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	9	comp:pred	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=10|RX=[NOUN]
 12	.	.	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_72-72_split2_split1
