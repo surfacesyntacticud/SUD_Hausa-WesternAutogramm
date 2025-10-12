@@ -79,8 +79,8 @@
 19	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=yî
 20	koːmiː	koːmiː	PRON	_	_	19	udep	_	GE=anything|Gloss=anything|nWord=20|RX=[PRON]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	sai	sai	ADP	_	_	18	mod	_	Gloss=except|nWord=22
-23	dà	dà	ADP	_	_	22	comp:obj	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
+22	sai	sai	SCONJ	_	_	18	mod	_	Gloss=except|nWord=22
+23	dà	dà	SCONJ	_	_	22	comp:obj	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	cêːwaːm	cêː	VERB	_	Definite=Cons|ExtPos=NOUN	23	comp:obj	_	GE=say|Gloss=say.Nmlz.Fem|nWord=24|RX=[VERB]|wordform=cêː
 25	mazaː	mazaː	NOUN	_	_	24	udep	_	GE=[husband].[Plur]|Gloss=husband.Plur|nWord=25|RX=[NOUN]
 26	.	.	PUNCT	_	_	17	punct	_	Gloss=.|nWord=26|RX=[PUNCT]
@@ -682,7 +682,7 @@
 # text = kun san ita taːbàː, wandà duy yas sabàː dà shântà, im bài sàːmeː tà ba yash shaː, bâːshi iyà zamaː sai yaː bìɗeː tà.
 # text_en = You know it, whoever has tasted it once, if he does not get some to take, he won't stay quiet but look for some.
 # text_ortho = kun san ’ita taabàa, wandà duy yas sabàa dà šaǹtà, ’im bài sàamee tà ba yaš šaa, baà ši ’iyà zamaa sai yaa bìɗee tà.
-1	kun	kun	AUX	_	_	22	dislocated	_	GE=[2Plur].[Perf]|Gloss=2Plur.Perf|nWord=1|RX=[AUX]
+1	kun	kun	AUX	_	_	22	discourse@top	_	GE=[2Plur].[Perf]|Gloss=2Plur.Perf|nWord=1|RX=[AUX]
 2	san	sanìː	VERB	_	_	1	comp:aux	_	GE=know|Gloss=know|nWord=2|RX=[VERB]
 3	ita	ita	PRON	_	_	2	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=3|RX=[PRON]
 4	taːbàː	taːbàː	NOUN	_	_	3	conj:appos	_	GE=[tobacco].[Fem]|Gloss=tobacco.Fem|nWord=4|RX=[NOUN]
@@ -792,7 +792,7 @@
 8	gamèː	gamèː	VERB	_	_	7	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=8|RX=[VERB]
 9	su	su	PRON	_	_	8	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=9|RX=[PRON]
 10	wuriː	wuriː	NOUN	_	_	8	mod	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=10|RX=[NOUN]
-11	gùdaː	gùdaː	NUM	_	_	10	mod:num	_	GE=one|Gloss=one|nWord=11|RX=[NUM]
+11	gùdaː	gùdaː	NUM	_	_	10	mod@num	_	GE=one|Gloss=one|nWord=11|RX=[NUM]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	dà	dà	ADP	_	_	8	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14	wa’ànnan	wa’ànnan	DET	_	_	15	det	_	GE=[Dist].[Plur]|Gloss=Dist.Plur|nWord=14|RX=[DET]
@@ -1959,7 +1959,7 @@
 17	hancìː	hancìː	NOUN	_	_	16	comp:obj	_	GE=[nose/stem].[Masc]|Gloss=nose/stem.Masc|nWord=18|RX=[NOUN]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 19	ɗaː	ɗaː	NOUN	_	_	13	mod	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=20|RX=[NOUN]
-20	tar̃à	tar̃à	NUM	_	_	19	mod:num	_	GE=nine|Gloss=nine|nWord=21|RX=[NUM]
+20	tar̃à	tar̃à	NUM	_	_	19	mod@num	_	GE=nine|Gloss=nine|nWord=21|RX=[NUM]
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_073-073_split1
@@ -2057,7 +2057,7 @@
 13	ƙanaːnàː	ƙanaːnàː	ADJ	_	_	9	mod	_	GE=[small].[Plur]|Gloss=small.Plur|nWord=14|RX=[ADJ]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 15	ɗaː	ɗaː	NOUN	_	_	9	mod	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=16|RX=[NOUN]
-16	tar̃à	tar̃à	NUM	_	_	15	mod:num	_	GE=nine|Gloss=nine|nWord=17|RX=[NUM]
+16	tar̃à	tar̃à	NUM	_	_	15	mod@num	_	GE=nine|Gloss=nine|nWord=17|RX=[NUM]
 17	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=19|RX=[ADV]
 19	shì	shì	AUX	_	_	7	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
@@ -2191,7 +2191,7 @@
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 22	gujjiyân	gujjiyaː	NOUN	_	Definite=Def	18	dislocated@comp	_	GE=[groundnut].[Fem].[Def]|Gloss=groundnut.Fem.Def|nWord=22|RX=[NOUN]
 23	nan	nan	DET	_	_	22	det	_	GE=[Dist]|Gloss=Dist|nWord=23|RX=[DET]
-24	tar̃à	tar̃à	NUM	_	_	22	mod:num	_	GE=nine|Gloss=nine|nWord=24|RX=[NUM]
+24	tar̃à	tar̃à	NUM	_	_	22	mod@num	_	GE=nine|Gloss=nine|nWord=24|RX=[NUM]
 25	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 26	sai	sai	ADV	_	_	27	mod	_	GE=then|Gloss=then|nWord=26|RX=[ADV]
 27	shì	shì	AUX	_	_	18	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=27|RX=[AUX]
@@ -2316,7 +2316,7 @@
 1	ita	ita	PRON	_	_	6	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	maː	maː	TopPART	_	_	1	discourse@top	_	GE=self|Gloss=self|nWord=2|RX=[TOPPART]
 3	ɗaː	ɗaː	NOUN	_	_	1	conj:appos	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=3|RX=[NOUN]
-4	tar̃à	tar̃à	NUM	_	_	3	mod:num	_	GE=nine|Gloss=nine|nWord=4|RX=[NUM]
+4	tar̃à	tar̃à	NUM	_	_	3	mod@num	_	GE=nine|Gloss=nine|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	ƙanƙàr̃è	ƙanƙàr̃eː	VERB	_	_	6	comp:aux	_	GE=[break].[Ach]|Gloss=break.Ach|nWord=7|RX=[VERB]
@@ -2410,7 +2410,7 @@
 17	gamèː	gamèː	VERB	_	_	16	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=17|RX=[VERB]
 18	su	su	PRON	_	_	17	comp:obj@T	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=18|RX=[PRON]
 19	wuriː	wuriː	NOUN	_	_	17	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=19|RX=[NOUN]
-20	gùdaː	gùdaː	NUM	_	_	19	mod:num	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
+20	gùdaː	gùdaː	NUM	_	_	19	mod@num	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
 21	.	.	PUNCT	_	_	16	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_090-090
@@ -2425,7 +2425,7 @@
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=3|RX=[VERB]
 4	su	su	PRON	_	_	3	comp:obj@T	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=4|RX=[PRON]
 5	wuriː	wuriː	NOUN	_	_	3	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=5|RX=[NOUN]
-6	gùdaː	gùdaː	NUM	_	_	5	mod:num	_	GE=one|Gloss=one|nWord=6|RX=[NUM]
+6	gùdaː	gùdaː	NUM	_	_	5	mod@num	_	GE=one|Gloss=one|nWord=6|RX=[NUM]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=9|RX=[AUX]
@@ -3161,7 +3161,7 @@
 8	gamèː	gamèː	VERB	_	_	7	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=8|RX=[VERB]
 9	shi	shi	PRON	_	_	8	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	wuriː	wuriː	NOUN	_	_	8	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=10|RX=[NOUN]
-11	gùdaː	gùdaː	NUM	_	_	10	mod:num	_	GE=one|Gloss=one|nWord=11|RX=[NUM]
+11	gùdaː	gùdaː	NUM	_	_	10	mod@num	_	GE=one|Gloss=one|nWord=11|RX=[NUM]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	à	à	AUX	_	_	7	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=13|RX=[AUX]
 14	ajèː	ajèː	VERB	_	_	13	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=14|RX=[VERB]
@@ -3418,7 +3418,7 @@
 14	hwarhwaruː	hwarhwaruː	ADJ	_	_	11	mod	_	GE=[white].[Plur]|Gloss=white.Plur|nWord=14|RX=[ADJ]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	suː	suː	PRON	_	_	11	mod	_	GE=[3Plur]|Gloss=3Plur|nWord=16|RX=[PRON]
-17	huɗu	huɗu	NUM	_	_	16	mod:num	_	GE=four|Gloss=four|nWord=17|RX=[NUM]
+17	huɗu	huɗu	NUM	_	_	16	mod@num	_	GE=four|Gloss=four|nWord=17|RX=[NUM]
 18	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_125-125
@@ -3434,7 +3434,7 @@
 4	kàːjîn	kàːjiː	NOUN	_	Definite=Def	3	comp:obj	_	GE=[hen].[Plur].[Def]|Gloss=hen.Plur.Def|nWord=4|RX=[NOUN]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[DET]
 6	suː	suː	PRON	_	_	4	mod	_	GE=[3Plur]|Gloss=3Plur|nWord=6|RX=[PRON]
-7	huɗu	huɗu	NUM	_	_	6	mod:num	_	GE=four|Gloss=four|nWord=7|RX=[NUM]
+7	huɗu	huɗu	NUM	_	_	6	mod@num	_	GE=four|Gloss=four|nWord=7|RX=[NUM]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
 10	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=10|RX=[AUX]
@@ -3739,7 +3739,7 @@
 # text_ortho = dukà hamùttaa biyu, koo wacè ’à ɗèebi gaašìntà.
 1	duk	dukà	DET	_	_	2	det	_	GE=all|Gloss=all|nWord=1|RX=[DET]
 2	hamùttaː	hamùttaː	NOUN	_	_	6	dislocated@top	_	GE=[armpit].[Plur]|Gloss=armpit.Plur|nWord=2|RX=[NOUN]
-3	biyu	biyu	NUM	_	_	2	mod:num	_	GE=two|Gloss=two|nWord=3|RX=[NUM]
+3	biyu	biyu	NUM	_	_	2	mod@num	_	GE=two|Gloss=two|nWord=3|RX=[NUM]
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	koːwacè	koːwacè	PRON	_	_	6	dislocated@top	_	GE=[each].[Fem]|Gloss=each.Fem|nWord=5|RX=[PRON]
 6	à	à	AUX	_	_	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
@@ -3801,7 +3801,7 @@
 22	à	à	AUX	_	_	17	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=22|RX=[AUX]
 23	gamèː	gamèː	VERB	_	_	22	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=23|RX=[VERB]
 24	wuriː	wuriː	NOUN	_	_	23	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=24|RX=[NOUN]
-25	gùdaː	gùdaː	NUM	_	_	24	mod:num	_	GE=one|Gloss=one|nWord=25|RX=[NUM]
+25	gùdaː	gùdaː	NUM	_	_	24	mod@num	_	GE=one|Gloss=one|nWord=25|RX=[NUM]
 26	dà	dà	ADP	_	_	23	comp:obl	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 27	àkàihuː	àkàihuː	NOUN	_	_	26	comp:obj	_	GE=[nail].[Plur]|Gloss=nail.Plur|nWord=27|RX=[NOUN]
 28	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
@@ -4590,7 +4590,7 @@
 19	gamèː	gamèː	VERB	_	_	18	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=19|RX=[VERB]
 20	su	su	PRON	_	_	19	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=20|RX=[PRON]
 21	wuriː	wuriː	NOUN	_	_	19	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=21|RX=[NOUN]
-22	gùdaː	gùdaː	NUM	_	_	21	mod:num	_	GE=one|Gloss=one|nWord=22|RX=[NUM]
+22	gùdaː	gùdaː	NUM	_	_	21	mod@num	_	GE=one|Gloss=one|nWord=22|RX=[NUM]
 23	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 24	koː	koː	CCONJ	_	_	25	cc	_	GE=or|Gloss=or|nWord=24|RX=[CCONJ]
 25	à	à	AUX	_	_	18	conj:coord	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=25|RX=[AUX]
@@ -5682,7 +5682,7 @@
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=7|RX=[VERB]
 8	su	su	PRON	_	_	7	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=8|RX=[PRON]
 9	wuriː	wuriː	NOUN	_	_	7	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]
-10	gùdaː	gùdaː	NUM	_	_	9	mod:num	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
+10	gùdaː	gùdaː	NUM	_	_	9	mod@num	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
 11	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_201-201_split2
@@ -5717,7 +5717,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	zuccìyak	zuccìyaː	NOUN	_	Definite=Cons	4	conj:dicto	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=7|RX=[NOUN]|wordform=zuccìya
 8	karaː	karaː	NOUN	_	_	7	mod	_	GE=[millet_stalk].[Fem]|Gloss=millet_stalk.Fem|nWord=8|RX=[NOUN]
-9	ɗàriː	ɗàriː	NUM	_	_	7	mod:num	_	GE=hundred|Gloss=hundred|nWord=9|RX=[NUM]
+9	ɗàriː	ɗàriː	NUM	_	_	7	mod@num	_	GE=hundred|Gloss=hundred|nWord=9|RX=[NUM]
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_203-203
@@ -5783,7 +5783,7 @@
 25	gamèː	gamèː	VERB	_	_	24	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=25|RX=[VERB]
 26	su	su	PRON	_	_	25	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=26|RX=[PRON]
 27	wuriː	wuriː	NOUN	_	_	25	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]
-28	gùdaː	gùdaː	NUM	_	_	27	mod:num	_	GE=one|Gloss=one|nWord=28|RX=[NUM]
+28	gùdaː	gùdaː	NUM	_	_	27	mod@num	_	GE=one|Gloss=one|nWord=28|RX=[NUM]
 29	à	à	AUX	_	_	24	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=29|RX=[AUX]
 30	dakèː	dakèː	VERB	_	_	29	comp:aux	_	GE=pound|Gloss=pound|nWord=30|RX=[VERB]
 31	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
@@ -6951,7 +6951,7 @@
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=7|RX=[VERB]
 8	su	su	PRON	_	_	7	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=8|RX=[PRON]
 9	wuriː	wuriː	NOUN	_	_	7	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]
-10	gùdaː	gùdaː	NUM	_	_	9	mod:num	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
+10	gùdaː	gùdaː	NUM	_	_	9	mod@num	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
 11	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_246-246_split2
