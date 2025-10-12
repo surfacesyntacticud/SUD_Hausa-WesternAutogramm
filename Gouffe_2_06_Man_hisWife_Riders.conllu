@@ -198,11 +198,10 @@
 6	kullun	kullun	ADV	_	_	7	mod	_	GE=always|Gloss=always|nWord=7|RX=[ADV]
 7	tanàː	tanàː	AUX	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp.[do]|nWord=8|RX=[AUX]
 8	mai	mai	PRON	_	_	7	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=9|RX=[PRON]
-9	hakà	hakà	ADV	_	_	7	mod	_	GE=thus|Gloss=thus|nWord=10|RX=[ADV]
-10	nan	nan	DET	_	_	9	det	_	GE=[Dist]|Gloss=Dist|nWord=11|RX=[DET]
-11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-12	ita	ita	PRON	_	_	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=13|RX=[PRON]
-13	màːtaw	màːtaː	NOUN	_	Definite=Cons	12	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=14|RX=[NOUN]|wordform=màːta
+9	hakànan	hakànan	ADV	_	_	7	mod	_	GE=thus|Gloss=thus|nWord=10|RX=[ADV]|wordform=hakà
+10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+11	ita	ita	PRON	_	_	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=13|RX=[PRON]
+12	màːtaw	màːtaː	NOUN	_	Definite=Cons	11	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=14|RX=[NOUN]|wordform=màːta
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_08
 # speaker_id = *
@@ -603,39 +602,38 @@
 # text = dà yag gayàː mutà hakà nan , koːdà tac ci àbunci , sai tat tahoː , tanàː ta mur̃nàː , taː saːmùː mài doːkìː , bàtà san mijìntà ba neː .
 # text_en = When he told her like this, as soon as she had taken her food, she left she was happy, she had got a rider, she did not know it was her husband.
 # text_ortho = dà yag gayàa mutà hakà nan, koo dà tac ci ’àbunci, sai tat tahoo, ta nàa ta murnàa, taa sàamu mài dookìː, bà tà san mijìntà ba nèe.
-1	dà	dà	SCONJ	_	_	14	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	13	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yag	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=2|RX=[AUX]
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 4	mutà	mutà	PRON	_	_	3	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=4|RX=[PRON]
-5	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
-6	nan	nan	DET	_	_	5	det	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[DET]
-7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	koːdà	koːdà	SCONJ	_	_	14	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=8|RX=[SCONJ]
-9	tac	tak	AUX	_	_	8	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=9|RX=[AUX]
-10	ci	ci	VERB	_	_	9	comp:aux	_	GE=eat|Gloss=eat|nWord=10|RX=[VERB]
-11	àbunci	àbunci	NOUN	_	_	10	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=11|RX=[NOUN]
-12	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
-14	tat	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=14|RX=[AUX]
-15	tahoː	tàhi	VERB	_	_	14	comp:aux	_	GE=go|Gloss=go.Dir|nWord=15|RX=[VERB]|wordform=tah
-16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	tanàː	tanàː	AUX	_	_	14	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=17|RX=[AUX]
-18	ta	ta	ADP	_	_	17	compound@prt	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
-19	mur̃nàː	mur̃nàː	NOUN	_	_	17	comp:aux	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=19|RX=[NOUN]
-20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-21	taː	taː	AUX	_	_	17	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=21|RX=[AUX]
-22	saːmùː	saːmùː	VERB	_	_	21	comp:aux	_	GE=get|Gloss=get|nWord=22|RX=[VERB]
-23	mài	mài	PART	_	_	22	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
-24	doːkìː	doːkìː	NOUN	_	_	23	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
-25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	bàtà	bàtà	AUX	_	_	21	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=26|RX=[AUX]
-27	san	saniː	VERB	_	_	26	comp:aux	_	Gloss=know
-28-29	mijìntà	_	_	_	_	_	_	_	_
-28	mijìn	mijìː	NOUN	_	Definite=Cons	31	comp:pred	_	GE=husband/male|Gloss=husband/male|nWord=28|RX=[NOUN]|wordform=mijì
-29	=tà	=tà	PRON	_	_	28	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=28|RX=[PRON]|wordform=-tà
-30	ba	ba	PART	_	_	27	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|RX=[PART]
-31	neː	neː	IdPART	_	_	27	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=30|RX=[IDPART]
-32	.	.	PUNCT	_	_	14	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
+5	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]|wordform=hakà
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+7	koːdà	koːdà	SCONJ	_	_	13	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=8|RX=[SCONJ]
+8	tac	tak	AUX	_	_	7	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=9|RX=[AUX]
+9	ci	ci	VERB	_	_	8	comp:aux	_	GE=eat|Gloss=eat|nWord=10|RX=[VERB]
+10	àbunci	àbunci	NOUN	_	_	9	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=11|RX=[NOUN]
+11	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
+13	tat	tak	AUX	_	_	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=14|RX=[AUX]
+14	tahoː	tàhi	VERB	_	_	13	comp:aux	_	GE=go|Gloss=go.Dir|nWord=15|RX=[VERB]|wordform=tah
+15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+16	tanàː	tanàː	AUX	_	_	13	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=17|RX=[AUX]
+17	ta	ta	ADP	_	_	16	compound@prt	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
+18	mur̃nàː	mur̃nàː	NOUN	_	_	16	comp:aux	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=19|RX=[NOUN]
+19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+20	taː	taː	AUX	_	_	16	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=21|RX=[AUX]
+21	saːmùː	saːmùː	VERB	_	_	20	comp:aux	_	GE=get|Gloss=get|nWord=22|RX=[VERB]
+22	mài	mài	PART	_	_	21	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
+23	doːkìː	doːkìː	NOUN	_	_	22	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
+24	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+25	bàtà	bàtà	AUX	_	_	20	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.Perf.Neg|nWord=26|RX=[AUX]
+26	san	saniː	VERB	_	_	25	comp:aux	_	Gloss=know
+27-28	mijìntà	_	_	_	_	_	_	_	_
+27	mijìn	mijìː	NOUN	_	Definite=Cons	30	comp:pred	_	GE=husband/male|Gloss=husband/male|nWord=28|RX=[NOUN]|wordform=mijì
+28	=tà	=tà	PRON	_	_	27	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=28|RX=[PRON]|wordform=-tà
+29	ba	ba	PART	_	_	26	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|RX=[PART]
+30	neː	neː	IdPART	_	_	26	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=Ident/Loc.Masc/Plur|nWord=30|RX=[IDPART]
+31	.	.	PUNCT	_	_	13	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_22
 # speaker_id = *

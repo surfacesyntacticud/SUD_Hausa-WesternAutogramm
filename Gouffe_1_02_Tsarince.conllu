@@ -44,7 +44,7 @@
 # text_ortho = wuᵲin s’àaᵲìncee na hàusàawaa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, ya nàa yìwuwaa šì tàhi gidansù, šì yi kiᵲàntà, don tà zoo wuᵲiinai.
 1	wurin	wurin	ADP	_	Definite=Cons	12	dislocated@top	_	GE=[place].[Masc]|Gloss=at|nWord=1|RX=[NOUN]|wordform=wuri
 2	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	1	comp:obj	_	GE=cuddling|Gloss=cuddling|nWord=2|RX=[NOUN]
-3	na	na	ADP	_	_	2	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
+3	na	na	PART	_	_	2	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
 4	bàhaushèː	bàhaushèː	PROPN	_	_	3	comp:obj	_	GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=4|RX=[PROPN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -185,7 +185,7 @@
 13	wargiː	wargiː	NOUN	_	_	12	comp:pred	_	GE=[playing].[Masc]|Gloss=playing.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	irìn	irìː	NOUN	_	Definite=Def	13	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=15|RX=[NOUN]
-16	na	na	ADP	_	_	15	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
+16	na	na	PART	_	_	15	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
 17	’yam	ɗan	ADJ	_	_	16	comp:obj	_	GE=[litlle].[Fem]|Gloss=litlle.Fem|nWord=17|RX=[ADJ]
 18	maːtaː	maːtaː	NOUN	_	_	17	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=18|RX=[NOUN]
 19	.	.	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
@@ -784,9 +784,8 @@
 1	makàɗiː	makàɗiː	NOUN	_	_	2	subj	_	GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=1|RX=[NOUN]
 2	kà	kà	AUX	_	_	0	root	_	GE=[Imp].[Bkg]|Gloss=Imp.Bkg|nWord=2|RX=[AUX]
 3	hwaɗìn	hwaɗìː	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[tell].[Nmlz].[Masc]|Gloss=tell.Nmlz.Masc|nWord=3|RX=[VERB]|wordform=hwaɗì
-4	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+4	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
+5	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_17-17_split2
 # speaker_id = *
@@ -1203,14 +1202,13 @@
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
 3	sunàː	sunàː	AUX	_	_	1	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=21|RX=[AUX]
 4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=22|RX=[VERB]|wordform=yî
-5	hakà	hakà	ADV	_	_	4	mod	_	GE=thus|Gloss=thus|nWord=23|RX=[ADV]
-6	nan	nan	DET	_	_	5	det	_	GE=[Dist]|Gloss=Dist|nWord=24|RX=[ADV]
-7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-8	har̃	har̃	SCONJ	_	_	4	mod	_	GE=until|Gloss=until|nWord=26|RX=[SCONJ]
-9	sù	sù	AUX	_	_	8	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=27|RX=[AUX]
-10	yi	yi	VERB	_	_	9	comp:aux	_	GE=do|Gloss=do|nWord=28|RX=[VERB]
-11	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	10	comp:pred	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=29|RX=[VERB]
-12	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=30|RX=[PUNCT]
+5	hakànan	hakànan	ADV	_	_	4	mod	_	GE=thus|Gloss=thus|nWord=23|RX=[ADV]|wordform=hakà
+6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+7	har̃	har̃	SCONJ	_	_	4	mod	_	GE=until|Gloss=until|nWord=26|RX=[SCONJ]
+8	sù	sù	AUX	_	_	7	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=27|RX=[AUX]
+9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=28|RX=[VERB]
+10	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	9	comp:pred	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=29|RX=[VERB]
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=30|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_31-31
 # text = in sunkà yi kwaːnaː, swaːhiyaː tay yi, sunkà taːshì, sai sù ɗèːbi ruwaː, koːwaː shì yi wankaː.
@@ -1444,11 +1442,10 @@
 # text = hakà nan akà s'àːrìnceː.
 # text_en = That's the way they do tsarince.
 # text_ortho = hakà nan ’a kà s’àaᵲìncee.
-1	hakà	hakà	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=1|RX=[ADV]
-2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
-3	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=3|RX=[AUX]
-4	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	3	comp:aux	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=4|RX=[NOUN]
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
+1	hakànan	hakànan	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=1|RX=[ADV]|wordform=hakà
+2	akà	akà	AUX	_	_	1	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.Imp.Bkg|nWord=3|RX=[AUX]
+3	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	2	comp:aux	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=4|RX=[NOUN]
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_39-39
 # speaker_id = *
@@ -1457,38 +1454,37 @@
 # text = tôː kuma bandà hakà nan, shiː sarmàyiː, in yak kìri bùdurwaː, shìnàː sôntà, tanàː sôːnai, sunkà tàhi wurin s'àːrìnceː, sunkà tuːɓèː.
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
 # text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
-1	tôː	tôː	INTJ	_	_	23	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
+1	tôː	tôː	INTJ	_	_	22	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
-3	bandà	bandà	ADP	_	_	23	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
-4	hakà	hakà	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	shiː	shiː	PRON	_	_	11	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
-8	sarmàyiː	sarmàyiː	NOUN	_	_	7	conj:appos	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	in	in	SCONJ	_	_	23	mod	_	GE=if|Gloss=if|nWord=10|RX=[SCONJ]
-11	yak	yak	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
-12	kìri	kìraː	VERB	_	_	11	comp:aux	_	GE=call|Gloss=call|nWord=12|RX=[VERB]
-13	bùdurwaː	bùdurwaː	NOUN	_	_	12	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=13|RX=[NOUN]
-14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	shìnàː	shìnàː	AUX	_	_	11	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=15|RX=[AUX]
-16-17	sôntà	_	_	_	_	_	_	_	_
-16	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	15	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=sô
-17	=tà	=tà	PRON	_	_	16	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=16|RX=[PRON]|wordform=-tà
-18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	tanàː	tanàː	AUX	_	_	15	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=18|RX=[AUX]
-20-21	sôːnai	_	_	_	_	_	_	_	_
-20	sôː	sôː	VERB	_	ExtPos=NOUN	19	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=19|RX=[VERB]
-21	=nai	=nai	PRON	_	_	20	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=19|RX=[PRON]|wordform=-ai
-22	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-23	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=21|RX=[AUX]
-24	tàhi	tàhi	VERB	_	_	23	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
-25	wurin	wurin	ADP	_	Definite=Cons	24	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=23|RX=[NOUN]|wordform=wuri
-26	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	25	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=24|RX=[NOUN]
-27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-28	sunkà	sunkà	AUX	_	_	23	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=26|RX=[AUX]
-29	tuːɓèː	tuːɓèː	VERB	_	_	28	comp:aux	_	GE=remove|Gloss=remove|nWord=27|RX=[VERB]
-30	.	.	PUNCT	_	_	23	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
+3	bandà	bandà	ADP	_	_	22	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
+4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
+5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	shiː	shiː	PRON	_	_	10	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
+7	sarmàyiː	sarmàyiː	NOUN	_	_	6	conj:appos	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=8|RX=[NOUN]
+8	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	in	in	SCONJ	_	_	22	mod	_	GE=if|Gloss=if|nWord=10|RX=[SCONJ]
+10	yak	yak	AUX	_	_	9	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
+11	kìri	kìraː	VERB	_	_	10	comp:aux	_	GE=call|Gloss=call|nWord=12|RX=[VERB]
+12	bùdurwaː	bùdurwaː	NOUN	_	_	11	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=13|RX=[NOUN]
+13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+14	shìnàː	shìnàː	AUX	_	_	10	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=15|RX=[AUX]
+15-16	sôntà	_	_	_	_	_	_	_	_
+15	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	14	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=sô
+16	=tà	=tà	PRON	_	_	15	udep	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=16|RX=[PRON]|wordform=-tà
+17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+18	tanàː	tanàː	AUX	_	_	14	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp|nWord=18|RX=[AUX]
+19-20	sôːnai	_	_	_	_	_	_	_	_
+19	sôː	sôː	VERB	_	ExtPos=NOUN	18	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=19|RX=[VERB]
+20	=nai	=nai	PRON	_	_	19	udep	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=19|RX=[PRON]|wordform=-ai
+21	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+22	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=21|RX=[AUX]
+23	tàhi	tàhi	VERB	_	_	22	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
+24	wurin	wurin	ADP	_	Definite=Cons	23	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=23|RX=[NOUN]|wordform=wuri
+25	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	24	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=24|RX=[NOUN]
+26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+27	sunkà	sunkà	AUX	_	_	22	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=26|RX=[AUX]
+28	tuːɓèː	tuːɓèː	VERB	_	_	27	comp:aux	_	GE=remove|Gloss=remove|nWord=27|RX=[VERB]
+29	.	.	PUNCT	_	_	22	punct	_	Gloss=.|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_40-40
 # speaker_id = *
@@ -1504,7 +1500,7 @@
 5-6	taggunànsù	_	_	_	_	_	_	_	_
 5	taggunàn	taggunàː	NOUN	_	Definite=Cons	11	dislocated@top	_	GE=[clothes].[Plur]|Gloss=clothes.Plur|nWord=5|RX=[NOUN]|wordform=taggunà
 6	=sù	=sù	PRON	_	_	5	mod	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=5|RX=[PRON]|wordform=-sù
-7	na	na	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
+7	na	na	PART	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
 8	gà	gà	ADP	_	_	7	comp:obj	_	GE=at|Gloss=at|nWord=7|RX=[ADP]
 9	jìkiː	jìkiː	NOUN	_	_	8	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=8|RX=[NOUN]
 10	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
@@ -1686,24 +1682,23 @@
 # text = tôː kuma dud dà hakà nan, cikin s'àːrìnceː, yanàː yìwuwaː wata raːnaː shì zan s'àːrìnci.
 # text_en = Well, however, with tsarince, it is possible that sometimes, it becomes "tsarinci" (copulation).
 # text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
-1	tôː	tôː	INTJ	_	_	11	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
+1	tôː	tôː	INTJ	_	_	10	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
 2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[ADV]
-3	dud	dukà	PRON	_	_	11	mod	_	GE=all|Gloss=all|nWord=3|RX=[PRON]
+3	dud	dukà	PRON	_	_	10	mod	_	GE=all|Gloss=all|nWord=3|RX=[PRON]
 4	dà	dà	CCONJ	_	_	5	cc	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
-5	hakà	hakà	ADV	_	_	3	conj:coord	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
-6	nan	nan	DET	_	_	5	det	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
-7	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	cikin	cikin	ADP	_	_	11	mod	_	GE=in|Gloss=in|nWord=8|RX=[ADP]
-9	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	8	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	yanàː	yanàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=11|RX=[AUX]
-12	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN	11	comp:aux	_	GE=be_possible|Gloss=be_possible.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=yìwu
-13	wani	wani	DET	_	PronType=Spec	14	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=13|RX=[DET]
-14	raːnaː	raːnaː	NOUN	_	_	15	mod	_	GE=sun|Gloss=sun|nWord=14|RX=[NOUN]
-15	shì	shì	AUX	_	_	11	subj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=15|RX=[AUX]
-16	zan	zama	VERB	_	_	15	comp:aux	_	GE=become|Gloss=become|nWord=16|RX=[VERB]
-17	s'àːrìnci	s'àːrìnci	NOUN	_	_	16	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=17|RX=[NOUN]
-18	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
+5	hakànan	hakànan	ADV	_	_	3	conj:coord	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]|wordform=hakà
+6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+7	cikin	cikin	ADP	_	_	10	mod	_	GE=in|Gloss=in|nWord=8|RX=[ADP]
+8	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	7	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=9|RX=[NOUN]
+9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+10	yanàː	yanàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=11|RX=[AUX]
+11	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN	10	comp:aux	_	GE=be_possible|Gloss=be_possible.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=yìwu
+12	wani	wani	DET	_	PronType=Spec	13	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=13|RX=[DET]
+13	raːnaː	raːnaː	NOUN	_	_	14	mod	_	GE=sun|Gloss=sun|nWord=14|RX=[NOUN]
+14	shì	shì	AUX	_	_	10	subj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=15|RX=[AUX]
+15	zan	zama	VERB	_	_	14	comp:aux	_	GE=become|Gloss=become|nWord=16|RX=[VERB]
+16	s'àːrìnci	s'àːrìnci	NOUN	_	_	15	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=17|RX=[NOUN]
+17	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_46-46_split1
 # speaker_id = *
@@ -1824,7 +1819,7 @@
 # sent_timecode = 47000, 48000
 # text_en = If she refuses, he begs her as much as he can to let him penetrate her, if she refuses, and he controls himself, respects her, and they sleep like this, it is not "tsarinci", it is "tsarince".
 # text_ortho = ’in kaù taa ƙiyàa, yay yi laàllaɓàttà hay yag gàji tà yàrda šì cii tà, ’in taƙ ƙiyàa, šii kuma yad dànganà, yaƙ ƙyaalèe ta, sunkà yi kwancìnsù hakà nan, bàa s’àaᵲìnci ba nèe, yaa zan s’àaᵲìncee.
-1	in	in	SCONJ	_	_	42	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	41	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	taː	taː	AUX	_	_	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	ƙiyàː	ƙiyàː	VERB	_	_	3	comp:aux	_	GE=refuse|Gloss=refuse|nWord=4|RX=[VERB]
@@ -1843,7 +1838,7 @@
 16	ciː	ci	VERB	_	_	15	comp:aux	_	GE=eat|Gloss=eat|nWord=15|RX=[VERB]
 17	tà	ta	PRON	_	_	16	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
 18	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-19	in	in	SCONJ	_	_	42	mod	_	GE=if|Gloss=if|nWord=18|RX=[SCONJ]
+19	in	in	SCONJ	_	_	41	mod	_	GE=if|Gloss=if|nWord=18|RX=[SCONJ]
 20	taƙ	tak	AUX	_	_	19	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.Perf.Bkg|nWord=19|RX=[AUX]
 21	ƙiyàː	ƙiyàː	VERB	_	_	20	comp:aux	_	GE=refuse|Gloss=refuse|nWord=20|RX=[VERB]
 22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
@@ -1861,18 +1856,17 @@
 34-35	kwancìnsù	_	_	_	_	_	_	_	_
 34	kwancìn	kwancìː	VERB	_	Definite=Cons|ExtPos=NOUN	33	comp:pred	_	GE=[lie_down].[Nmlz].[Masc]|Gloss=lie_down.Nmlz.Masc|nWord=33|RX=[VERB]|wordform=kwancì
 35	=sù	=sù	PRON	_	_	34	udep	_	GE=[3Plur].[Poss]|Gloss=3Plur.Poss|nWord=33|RX=[PRON]|wordform=-sù
-36	hakà	hakà	ADV	_	_	33	mod	_	GE=thus|Gloss=thus|nWord=34|RX=[ADV]
-37	nan	nan	DET	_	_	36	det	_	GE=[Dist]|Gloss=Dist|nWord=35|RX=[ADV]
-38	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
-39	bàː	bàː	PART	_	_	40	mod	_	GE=[Neg]|Gloss=Neg|nWord=37|RX=[PART]
-40	s'àːrìnci	s'àːrìnci	NOUN	_	_	42	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=38|RX=[NOUN]
-41	ba	ba	PART	_	_	40	mod	_	GE=[Neg]|Gloss=Neg|nWord=39|RX=[PART]
-42	nèː	nèː	IdPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
-43	,	,	PUNCT	_	_	44	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
-44	yaː	yaː	AUX	_	_	42	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=42|RX=[AUX]
-45	zan	zama	VERB	_	_	44	comp:aux	_	GE=become|Gloss=become|nWord=43|RX=[VERB]
-46	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	45	comp:pred	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=44|RX=[NOUN]
-47	.	.	PUNCT	_	_	42	punct	_	Gloss=.|nWord=45|RX=[PUNCT]
+36	hakànan	hakànan	ADV	_	_	33	mod	_	GE=thus|Gloss=thus|nWord=34|RX=[ADV]|wordform=hakà
+37	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
+38	bàː	bàː	PART	_	_	39	mod	_	GE=[Neg]|Gloss=Neg|nWord=37|RX=[PART]
+39	s'àːrìnci	s'àːrìnci	NOUN	_	_	41	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=38|RX=[NOUN]
+40	ba	ba	PART	_	_	39	mod	_	GE=[Neg]|Gloss=Neg|nWord=39|RX=[PART]
+41	nèː	nèː	IdPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
+42	,	,	PUNCT	_	_	43	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
+43	yaː	yaː	AUX	_	_	41	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=42|RX=[AUX]
+44	zan	zama	VERB	_	_	43	comp:aux	_	GE=become|Gloss=become|nWord=43|RX=[VERB]
+45	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	44	comp:pred	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=44|RX=[NOUN]
+46	.	.	PUNCT	_	_	41	punct	_	Gloss=.|nWord=45|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_50-50
 # speaker_id = *
@@ -2090,26 +2084,25 @@
 # text = in sunkà hwàɗaː mutà hakà nan , sai tà gayàː musù sarmàyin dà takà sôː , wandà takà s'àːrìnceː .
 # text_en = If they talk to her like this, she will tell them which boy she likes, the one she is doing tsarince with.
 # text_ortho = ’in sunkà hwàɗàa mutà hakà nan, sai tà gayàaa musù saᵲmàyin dà ta kà soò, wanda ta kà s’àaᵲìncee.
-1	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	hwàɗaː	hwàɗaː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
 4	mutà	mutà	PRON	_	_	3	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=4|RX=[PRON]
-5	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]
-6	nan	nan	DET	_	_	5	det	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
-7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
-9	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=9|RX=[AUX]
-10	gayàː	gayàː	VERB	_	_	9	comp:aux	_	GE=tell|Gloss=tell|nWord=10|RX=[VERB]
-11	musù	musù	PRON	_	_	10	comp:obl@R	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=11|RX=[PRON]
-12	sarmàyin	sarmàyiː	NOUN	_	Definite=Cons	10	comp:obj@T	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=12|RX=[NOUN]|wordform=sarmàyi
-13	dà	dà	SCONJ	_	_	12	mod@relcl	_	GE=that|Gloss=that|nWord=13|RX=[SCONJ]
-14	takà	takà	AUX	_	_	13	comp:obj	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=14|RX=[AUX]
-15	sôː	sôː	VERB	_	ExtPos=NOUN	14	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=15|RX=[VERB]
-16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	wandà	wandà	PRON	_	PronType=Rel	12	conj:appos	_	GE=who|Gloss=who|nWord=17|RX=[PRON]
-18	takà	takà	AUX	_	_	17	mod@relcl	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=18|RX=[AUX]
-19	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	18	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=19|RX=[NOUN]
-20	.	.	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
+5	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]|wordform=hakà
+6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
+8	tà	tà	AUX	_	_	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=9|RX=[AUX]
+9	gayàː	gayàː	VERB	_	_	8	comp:aux	_	GE=tell|Gloss=tell|nWord=10|RX=[VERB]
+10	musù	musù	PRON	_	_	9	comp:obl@R	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=11|RX=[PRON]
+11	sarmàyin	sarmàyiː	NOUN	_	Definite=Cons	9	comp:obj@T	_	GE=[youth].[Masc]|Gloss=youth.Masc|nWord=12|RX=[NOUN]|wordform=sarmàyi
+12	dà	dà	SCONJ	_	_	11	mod@relcl	_	GE=that|Gloss=that|nWord=13|RX=[SCONJ]
+13	takà	takà	AUX	_	_	12	comp:obj	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=14|RX=[AUX]
+14	sôː	sôː	VERB	_	ExtPos=NOUN	13	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=15|RX=[VERB]
+15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+16	wandà	wandà	PRON	_	PronType=Rel	11	conj:appos	_	GE=who|Gloss=who|nWord=17|RX=[PRON]
+17	takà	takà	AUX	_	_	16	mod@relcl	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.Imp.Bkg|nWord=18|RX=[AUX]
+18	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	17	comp:obj	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=19|RX=[NOUN]
+19	.	.	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split2
 # speaker_id = *
@@ -2356,7 +2349,7 @@
 12	wurin	wurin	ADP	_	Definite=Cons	11	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=29|RX=[NOUN]|wordform=wuri
 13	ɗaːkìː	ɗaːkìː	NOUN	_	_	12	comp:obj	_	GE=[hut].[Masc]|Gloss=room.Masc|nWord=30|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-15	na	na	ADP	_	_	13	conj:appos	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=32|RX=[PART]
+15	na	na	PART	_	_	13	conj:appos	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=32|RX=[PART]
 16	uwab	uwaː	NOUN	_	Definite=Cons	15	comp:obj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=33|RX=[NOUN]|wordform=uwa
 17	bùdurwaː	bùdurwaː	NOUN	_	_	16	mod	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=34|RX=[NOUN]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
@@ -2807,7 +2800,7 @@
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	13	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=43|RX=[VERB]|wordform=yî
 15	tàbiː’àː	tàbiː’àː	NOUN	_	_	14	udep	_	GE=[custom].[Fem]|Gloss=custom.Fem|nWord=44|RX=[NOUN]
 16	kàmar̃	kàmar̃	ADP	_	_	14	mod	_	GE=like|Gloss=like|nWord=45|RX=[ADP]
-17	ta	ta	ADP	_	_	16	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=46|RX=[PART]
+17	ta	ta	PART	_	_	16	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=46|RX=[PART]
 18	hàusàːwaː	hàusàːwaː	PROP.N	_	_	17	comp:obj	_	GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=47|RX=[PROP].[N]
 19	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=48|RX=[PUNCT]
 
@@ -2837,7 +2830,7 @@
 16	cèː	cèː	IdPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=15|RX=[IDPART]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 18	kàmat	kàmar̃	ADP	_	_	16	mod	_	GE=like|Gloss=like|nWord=17|RX=[ADP]
-19	ta	ta	ADP	_	_	18	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=18|RX=[PART]
+19	ta	ta	PART	_	_	18	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=18|RX=[PART]
 20	hàusàːwaː	hàusàːwaː	PROP.N	_	_	19	comp:obj	_	GE=[Hausa].[Plur]|Gloss=Hausa.Plur|nWord=19|RX=[PROP].[N]
 21	.	.	PUNCT	_	_	16	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
 

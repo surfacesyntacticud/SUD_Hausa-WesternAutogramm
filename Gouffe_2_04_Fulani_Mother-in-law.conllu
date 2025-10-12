@@ -10,7 +10,7 @@
 3	baː	baː	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=3|RX=[VERB]
 4	kù	kù	PRON	_	_	3	comp:obj@R	_	GE=[2Plur]|Gloss=2Plur|nWord=4|RX=[PRON]
 5	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	3	comp:obj@T	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=5|RX=[NOUN]
-6	na	na	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
+6	na	na	PART	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=6|RX=[PART]
 7	wani	wani	DET	_	PronType=Spec	8	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=7|RX=[DET]
 8	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	6	comp:obj	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=8|RX=[PROPN]
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	GE=that|Gloss=that|nWord=9|RX=[SCONJ]
@@ -70,7 +70,7 @@
 1	uwam	uwaː	NOUN	_	Definite=Cons	9	dislocated@subj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=8|RX=[NOUN]|wordform=uwa
 2	màːtaː	màːtaː	NOUN	_	_	1	mod	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=9|RX=[NOUN]
 3	nan	nan	DET	_	_	2	det	_	GE=[Dist]|Gloss=Dist|nWord=10|RX=[DET]
-4	ta	ta	ADP	_	_	2	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=11|RX=[PART]
+4	ta	ta	PART	_	_	2	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=11|RX=[PART]
 5	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	4	comp:obj	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=12|RX=[PROPN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 7	ita	ita	PRON	_	_	9	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=14|RX=[PRON]
@@ -283,7 +283,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 11	kag	kak	AUX	_	_	6	parataxis@conj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.Perf.Bkg|nWord=15|RX=[AUX]
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	GE=see|Gloss=see|nWord=16|RX=[VERB]
-13	na	na	ADP	_	_	12	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=17|RX=[PART]
+13	na	na	PART	_	_	12	comp:obj	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=17|RX=[PART]
 14	s'ayàː	s'ayàː	VERB	_	_	13	comp:obj	_	GE=stop|Gloss=stop|nWord=18|RX=[VERB]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 16	nay	nak	AUX	_	_	13	parataxis@conj	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.Perf.Bkg|nWord=20|RX=[AUX]
@@ -302,27 +302,26 @@
 # text = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàː, dà shiː dà sàràkkuwaː, sunàː bîn daːjìː.
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
 # text_ortho = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
-1	dà	dà	SCONJ	_	_	8	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
-4	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
-8	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=8|RX=[AUX]
-9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=9|RX=[VERB]
-10	ta	ta	ADP	_	_	9	compound@prt	_	GE=via|Gloss=via|nWord=10|RX=[ADP]
-11	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	9	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=11|RX=[VERB]
-12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	dà	dà	CCONJ	_	_	14	cc@preconj	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
-14	shiː	shiː	PRON	_	_	8	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
-15	dà	dà	CCONJ	_	_	16	cc	_	GE=and|Gloss=and|nWord=15|RX=[CCONJ]
-16	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	14	conj:coord	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=16|RX=[NOUN]
-17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	sunàː	sunàː	AUX	_	_	8	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=18|RX=[AUX]
-19	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:aux	_	GE=[follow].[Nmlz].[Masc]|Gloss=follow.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=bî
-20	daːjìː	daːjìː	NOUN	_	_	19	udep	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=20|RX=[NOUN]
-21	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
+4	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
+7	sunkà	sunkà	AUX	_	_	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=8|RX=[AUX]
+8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=9|RX=[VERB]
+9	ta	ta	ADP	_	_	8	compound@prt	_	GE=via|Gloss=via|nWord=10|RX=[ADP]
+10	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	8	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=11|RX=[VERB]
+11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+12	dà	dà	CCONJ	_	_	13	cc@preconj	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
+13	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]
+14	dà	dà	CCONJ	_	_	15	cc	_	GE=and|Gloss=and|nWord=15|RX=[CCONJ]
+15	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	13	conj:coord	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=16|RX=[NOUN]
+16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+17	sunàː	sunàː	AUX	_	_	7	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=18|RX=[AUX]
+18	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN	17	comp:aux	_	GE=[follow].[Nmlz].[Masc]|Gloss=follow.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=bî
+19	daːjìː	daːjìː	NOUN	_	_	18	udep	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=20|RX=[NOUN]
+20	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_10
 # speaker_id = *
@@ -660,13 +659,12 @@
 # text_ortho = su nàa yiǹ hakà nan, has soò ’ukkù.
 1	sunàː	sunàː	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Imp|nWord=1|RX=[AUX]
 2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	1	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=2|RX=[VERB]|wordform=yî
-3	hakà	hakà	ADV	_	_	2	mod	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]
-4	nan	nan	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
-5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	has	hat	ADP	_	_	2	mod	_	GE=until|Gloss=until|nWord=6|RX=[ADP]
-7	sôː	sôː	NOUN	_	_	6	comp:obj	_	GE=[times].[Masc]|Gloss=times.Masc|nWord=7|RX=[NOUN]
-8	ukkù	ukkù	NUM	_	_	7	mod:num	_	GE=three|Gloss=three|nWord=8|RX=[NUM]
-9	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
+3	hakànan	hakànan	ADV	_	_	2	mod	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]|wordform=hakà
+4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+5	has	hat	ADP	_	_	2	mod	_	GE=until|Gloss=until|nWord=6|RX=[ADP]
+6	sôː	sôː	NOUN	_	_	5	comp:obj	_	GE=[times].[Masc]|Gloss=times.Masc|nWord=7|RX=[NOUN]
+7	ukkù	ukkù	NUM	_	_	6	mod:num	_	GE=three|Gloss=three|nWord=8|RX=[NUM]
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_25-26
 # speaker_id = *
@@ -675,32 +673,31 @@
 # text = dà sunkà yi hakà nan , shiː bàhillaːcèː , sai yac cêː mà sàràkkuwaːtai : tôː kinàː jîn àbun dà dawàː yac cêː ?
 # text_en = After they did like this, the Fulani, he told his mother-in-law : Well, you hear what the bush has said.
 # text_ortho = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
-1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunkà	sunkà	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.Perf.Bkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
-4	hakà	hakà	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]
-5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[ADV]
-6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	shiː	shiː	PRON	_	_	11	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
-8	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	7	conj:appos	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=8|RX=[PROPN]
-9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
-11	yac	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
-12	cêː	cêː	VERB	_	_	11	comp:aux	_	GE=say|Gloss=say|nWord=12|RX=[VERB]
-13	mà	mà	ADP	_	_	12	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
-14-15	sàràkkuwaːtai	_	_	_	_	_	_	_	_
-14	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	13	comp:obj	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=14|RX=[NOUN]
-15	=tai	=tai	PRON	_	_	14	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=14|RX=[PRON]|wordform=-ai
-16	:	:	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-17	tôː	tôː	INTJ	_	_	18	discourse	_	GE=well|Gloss=well|nWord=16|RX=[INTJ]
-18	kinàː	kinàː	AUX	_	_	12	comp:obj@T	_	GE=[2Fem].[Imp]|Gloss=2Fem.Imp|nWord=17|RX=[AUX]
-19	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=18|RX=[VERB]|wordform=jî
-20	àbun	àbu	NOUN	_	Definite=Cons	19	udep	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbu
-21	dà	dà	SCONJ	_	_	20	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
-22	dawàː	dawàː	NOUN	_	_	23	subj	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=21|RX=[NOUN]
-23	yac	yak	AUX	_	_	21	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
-24	cêː	cêː	VERB	_	_	23	comp:aux	_	GE=say|Gloss=say|nWord=23|RX=[VERB]
-25	?	?	PUNCT	_	_	11	punct	_	Gloss=.|nWord=24|RX=[PUNCT]
+4	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	shiː	shiː	PRON	_	_	10	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=7|RX=[PRON]
+7	bàhillaːcèː	bàhillaːcèː	PROPN	_	_	6	conj:appos	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=8|RX=[PROPN]
+8	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
+10	yac	yak	AUX	_	_	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=11|RX=[AUX]
+11	cêː	cêː	VERB	_	_	10	comp:aux	_	GE=say|Gloss=say|nWord=12|RX=[VERB]
+12	mà	mà	ADP	_	_	11	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
+13-14	sàràkkuwaːtai	_	_	_	_	_	_	_	_
+13	sàràkkuwaː	sàràkkuwaː	NOUN	_	_	12	comp:obj	_	GE=[in-law].[Fem]|Gloss=in-law.Fem|nWord=14|RX=[NOUN]
+14	=tai	=tai	PRON	_	_	13	mod	_	GE=[3Masc].[Poss]|Gloss=3Masc.Poss|nWord=14|RX=[PRON]|wordform=-ai
+15	:	:	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+16	tôː	tôː	INTJ	_	_	17	discourse	_	GE=well|Gloss=well|nWord=16|RX=[INTJ]
+17	kinàː	kinàː	AUX	_	_	11	comp:obj@T	_	GE=[2Fem].[Imp]|Gloss=2Fem.Imp|nWord=17|RX=[AUX]
+18	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN	17	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=18|RX=[VERB]|wordform=jî
+19	àbun	àbu	NOUN	_	Definite=Cons	18	udep	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbu
+20	dà	dà	SCONJ	_	_	19	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
+21	dawàː	dawàː	NOUN	_	_	22	subj	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=21|RX=[NOUN]
+22	yac	yak	AUX	_	_	20	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.Bkg|nWord=22|RX=[AUX]
+23	cêː	cêː	VERB	_	_	22	comp:aux	_	GE=say|Gloss=say|nWord=23|RX=[VERB]
+24	?	?	PUNCT	_	_	10	punct	_	Gloss=.|nWord=24|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_27
 # speaker_id = *
