@@ -701,8 +701,8 @@
 # text_ortho = sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee.
 1	sàmàːriː	sàmàːriː	NOUN	_	_	2	subj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=9|RX=[NOUN]
 2	sunàː	sunàː	AUX	_	_	0	root	_	GE=[Imp]|Gloss=3Plur.Pred/Loc|nWord=11|RX=[AUX]
-3	ta	ta	ADP	_	_	2	comp:pred	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
-4	baːdà	baːdàː	VERB	_	_	3	comp:obj	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
+3	ta	ta	ADP	_	_	2	compound@prt	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
+4	baːdà	baːdàː	VERB	_	_	2	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
 5	kuɗiː	kuɗiː	NOUN	_	_	4	comp:obj	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=14|RX=[NOUN]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=16|RX=[ADV]
@@ -722,11 +722,10 @@
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	_	2	subj	_	GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=23|RX=[NOUN]
 2	nàː	nàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=Imp|nWord=24|RX=[AUX]
-3	ta	ta	ADP	_	_	2	comp:pred	_	GE=via|Gloss=via|nWord=25|RX=[ADP]
-4	yi	yi	VERB	_	_	3	comp:obj	_	Gloss=do
-5	musù	musù	PRON	_	_	4	comp:obl@R	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=26|RX=[PRON]
-6	kiràːrìː	kiràːrìː	NOUN	_	_	4	comp:obj@T	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=27|RX=[NOUN]
-7	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
+3	ta	ta	ADP	_	_	2	compound@prt	_	GE=via|Gloss=via|nWord=25|RX=[ADP]
+4	musù	musù	PRON	_	_	2	comp:obl@R	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=26|RX=[PRON]
+5	kiràːrìː	kiràːrìː	NOUN	_	_	2	comp:aux	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=27|RX=[NOUN]
+6	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_16-16_split2_split2_split2_split1
 # speaker_id = *
