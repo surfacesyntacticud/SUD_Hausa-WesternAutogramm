@@ -3295,7 +3295,7 @@
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_106-106
-# text = sabòːdà miː zâː ka zôwwaː nân wuriːna [?] kà mun ƙaryaː ?
+# text = sabòːdà miː zâː ka zôwwaː nân wuriːna kà mun ƙaryaː ?
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 110000, 111000
@@ -3310,11 +3310,10 @@
 7-8	wuriːna	_	_	_	_	_	_	_	_
 7	wuriː	wurin	ADP	_	_	6	mod	_	Gloss=at|nWord=7
 8	=na	=na	PRON	_	_	7	comp:obj	_	GE=[1Sing].[Poss]|Gloss=1Sing.Poss|nWord=7|RX=[PRON]|wordform=-na
-9	[?]	[?]	SYM	_	_	10	unk	_	GE=[[?]]|Gloss=[?]|nWord=8|RX=[PUNCT]
-10	kà	kà	AUX	_	_	5	mod	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor.[do]|nWord=9|RX=[AUX]
-11	mun	minì	PRON	_	_	10	comp:obl@R	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
-12	ƙaryaː	ƙaryaː	NOUN	_	_	10	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=11|RX=[NOUN]
-13	?	?	PUNCT	_	_	1	punct	_	GE=[?]|Gloss=?|nWord=12|RX=[PUNCT]
+9	kà	kà	AUX	_	_	5	mod	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor.[do]|nWord=9|RX=[AUX]
+10	mun	minì	PRON	_	_	9	comp:obl@R	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
+11	ƙaryaː	ƙaryaː	NOUN	_	_	9	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=11|RX=[NOUN]
+12	?	?	PUNCT	_	_	1	punct	_	GE=[?]|Gloss=?|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_107-107
 # speaker_id = *
