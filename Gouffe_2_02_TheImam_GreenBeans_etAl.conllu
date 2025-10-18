@@ -1917,7 +1917,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 66000, 67000
-# text = in kinàː zoːwaː wata raːnaː , nîː hwaɗàː mikì dùbaːr̃àː waddà zâː shi yîː , shì sàːmu ganiːna .
+# text = in kinàː zoːwaː wata raːnaː , nîː hwaɗàː mikì dùbaːr̃àː waddà zâːshi yîː , shì sàːmu ganiːna .
 # text_en = If you come another day, I will tell you a trick that he will to do to manage to see me.
 # text_ortho = ’in ki nàa zoẁwaa wata ᵲaanaa, niì hwaɗàa mikì dùbaaràa, waddà zaà ši yiì, šì sàamu ganiina.
 1	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -1926,7 +1926,7 @@
 4	wata	wata	DET	_	_	5	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=4|RX=[DET]
 5	raːnaː	raːnaː	NOUN	_	_	3	mod	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	nîː	nîː	AUX	_	_	15	subj	_	GE=[1Sing].[Pred]|Gloss=1Sing.Pred|nWord=7|RX=[AUX]
+7	nîː	nîː	AUX	_	Tense=Predict	15	subj	_	GE=[1Sing].[Pred]|Gloss=1Sing.Predict|nWord=7|RX=[AUX]
 8	hwaɗàː	hwaɗàː	VERB	_	_	7	comp:aux	_	GE=tell|Gloss=tell|nWord=8|RX=[VERB]
 9	mikì	mikì	PRON	_	_	8	comp:obl@R	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=9|RX=[PRON]
 10	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	9	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=10|RX=[NOUN]

@@ -4895,7 +4895,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 156000, 157000
-# text = koː mài suː yaː baː sù kaːshiː, in yab barìː, dà an jimàː, sûː koːmoː wuriːnai.
+# text = koː mài suː yaː baː sù kaːshiː , in yab barìː , dà an jimàː , sûː koːmoː wuriːnai .
 # text_en = Even if their master beats them, when he stops, after a while, they will go back to him.
 # text_ortho = koo mài suu yaa baa sù kaašii, ’in yab baᵲìi, dà ’an jimàa, suù koomoo wuᵲiinai.
 1	koː	koː	SCONJ	_	_	17	mod	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
@@ -4914,7 +4914,7 @@
 14	an	yaː	AUX	_	Aspect=Perf	13	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=14|RX=[AUX]
 15	jimàː	jimàː	VERB	_	_	14	comp:aux	_	GE=spend_time|Gloss=spend_time|nWord=15|RX=[VERB]
 16	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sûː	sûː	AUX	_	_	0	root	_	GE=[3Plur].[Pred]|Gloss=3Plur.Pred|nWord=17|RX=[AUX]
+17	sûː	sûː	AUX	_	Tense=Predict	0	root	_	GE=[3Plur].[Pred]|Gloss=3Plur.Predict|nWord=17|RX=[AUX]
 18	koːmoː	koːmoː	VERB	_	_	17	comp:aux	_	GE=[bad_calabash].[Masc]|Gloss=bad_calabash.Masc|nWord=18|RX=[NOUN]
 19	wuriːnai	wuriːnai	NOUN	_	_	17	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=19|RX=[NOUN]|wordform=wuriː
 20	.	.	PUNCT	_	_	17	punct	_	Gloss=.|nWord=20|RX=[PUNCT]

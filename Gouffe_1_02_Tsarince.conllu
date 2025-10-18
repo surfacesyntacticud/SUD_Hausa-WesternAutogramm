@@ -1245,12 +1245,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 33000, 34000
-# text = in gòːbe sûː koːmà, sù cêː “ sai gòːbe ”.
+# text = in gòːbe sûː koːmà , sù cêː “ sai gòːbe ” .
 # text_en = If tomorrow they will do it again, they say "see you tomorrow".
 # text_ortho = ’in gòobe suù koomà, sù ceè “sai gòobe”.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	gòːbe	gòːbe	ADV	_	_	3	mod	_	GE=tomorrow|Gloss=tomorrow|nWord=2|RX=[ADV]
-3	sûː	sûː	AUX	_	_	1	comp:obj	_	GE=[3Plur].[Pred]|Gloss=3Plur.Pred|nWord=3|RX=[AUX]
+3	sûː	sûː	AUX	_	Tense=Predict	1	comp:obj	_	GE=[3Plur].[Pred]|Gloss=3Plur.Predict|nWord=3|RX=[AUX]
 4	koːmà	koːmà	VERB	_	_	3	comp:aux	_	GE=come_back|Gloss=come_back|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sù	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=6|RX=[AUX]
