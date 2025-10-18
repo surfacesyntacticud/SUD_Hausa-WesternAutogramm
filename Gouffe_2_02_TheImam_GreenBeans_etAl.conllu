@@ -425,13 +425,13 @@
 # text_en = Time went by, the girl was with the slave, she gave her cow's milk, she educated her.
 # text_ortho = kullun ’a nàa nan zaman duuniyàa, yaaᵲinyàa ta nàa wuᵲim bàiwaa, ta nàa baa tà madaraa, kuma ta nàa ᵲèenontà.
 1	kullun	kullun	ADV	_	_	2	mod	_	GE=always|Gloss=always|nWord=1|RX=[ADV]
-2	anàː	anàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=4.Pred/Loc|nWord=3|RX=[AUX]
+2	anàː	anàː	PredPART	_	_	0	root	_	GE=[Pred/Loc]|Gloss=4.Pred/Loc|nWord=3|RX=[AUX]
 3	nan	nan	ADV	_	_	2	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 4	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN	3	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=zama
 5	duːniyàː	duːniyàː	NOUN	_	_	4	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=6|RX=[NOUN]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 7	yaːrinyàː	yaːrinyàː	NOUN	_	_	8	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=8|RX=[NOUN]
-8	tanàː	tanàː	AUX	_	_	2	parataxis@conj	_	Gloss=3Fem.Pred/Loc
+8	tanàː	tanàː	PredPART	_	_	2	parataxis@conj	_	Gloss=3Fem.Pred/Loc
 9	wurim	wurin	ADP	_	Definite=Cons	8	comp:pred	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
 10	bâiwaː	bàiwaː	NOUN	_	_	9	comp:obj	_	GE=[slave].[Fem]|Gloss=slave.Fem|nWord=12|RX=[NOUN]|wordform=bàiwaː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -468,7 +468,7 @@
 14	cîn	cîː	VERB	_	Definite=Cons|ExtPos=NOUN	13	comp:obj	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=14|RX=[VERB]|wordform=cî
 15	àbunci	àbunci	NOUN	_	_	14	udep	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	sunàː	sunàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=3Plur.Pred/Loc|nWord=18|RX=[AUX]
+17	sunàː	sunàː	PredPART	_	_	0	root	_	GE=[Pred/Loc]|Gloss=3Plur.Pred/Loc|nWord=18|RX=[AUX]
 18	nan	nan	ADV	_	_	17	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=19|RX=[ADV]
 19	zamansù	zamaːsù	VERB	_	Definite=Cons|ExtPos=NOUN	18	parataxis@conj	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc.3Plur.Poss|nWord=20|RX=[VERB]|wordform=zama
 20	ita	ita	PRON	_	_	17	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=21|RX=[PRON]
@@ -492,7 +492,7 @@
 7	zama	zama	VERB	_	_	6	comp:aux	_	GE=become|Gloss=become|nWord=31|RX=[VERB]
 8	bùdurwaː	bùdurwaː	NOUN	_	_	7	comp:pred	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=32|RX=[NOUN]
 9	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-10	tanàː	tanàː	AUX	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=34|RX=[AUX]
+10	tanàː	tanàː	PredPART	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=34|RX=[AUX]
 11	nan	nan	ADV	_	_	10	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=35|RX=[ADV]
 12	cikin	cikin	ADP	_	_	11	mod	_	GE=in(side)|Gloss=in(side)|nWord=36|RX=[ADP]
 13	gidaː	gidaː	NOUN	_	_	12	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=37|RX=[NOUN]
@@ -627,7 +627,7 @@
 10	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 12	sarkiː	sarkiː	NOUN	_	_	13	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=12|RX=[NOUN]
-13	yaː	yaː	AUX	_	_	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=13|RX=[AUX]
+13	yaː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=13|RX=[AUX]
 14	mai	mai	PRON	_	_	13	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=14|RX=[PRON]
 15	shaːwar̃àː	shaːwar̃àː	NOUN	_	_	13	comp:pred	_	GE=[deliberation].[Fem]|Gloss=deliberation.Fem|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
@@ -2280,7 +2280,7 @@
 # text = anàː nan sai sallàː tam mas'oː .
 # text_en = After a while, the salla arrived.
 # text_ortho = ’à nàa nan sai sallàa tam mas’oo.
-1	anàː	anàː	AUX	_	_	5	parataxis@mod	_	Gloss=4.Pred/Loc|nWord=1
+1	anàː	anàː	PredPART	_	_	5	parataxis@mod	_	Gloss=4.Pred/Loc|nWord=1
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
 3	sai	sai	ADV	_	_	5	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	sallàː	sallàː	NOUN	_	_	5	subj	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=4|RX=[NOUN]
@@ -3138,10 +3138,10 @@
 9	haukàceː	haukàceː	VERB	_	_	8	comp:aux	_	GE=go_crazy|Gloss=go_crazy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
-12	kaː	kaː	AUX	_	_	8	parataxis@conj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf.[do]|nWord=12|RX=[AUX]
+12	kaː	yaː	AUX	_	Aspect=Perf	8	parataxis@conj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=12|RX=[AUX]
 13	yi	yi	VERB	_	_	12	comp:aux	_	GE=do|Gloss=do|nWord=13|RX=[VERB]
-14	mun	minì	PRON	_	_	13	comp:pred	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=14|RX=[PRON]
-15	ƙaryaː	ƙaryaː	NOUN	_	_	14	mod	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=15|RX=[NOUN]
+14	mun	minì	PRON	_	_	13	comp:obl	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=14|RX=[PRON]
+15	ƙaryaː	ƙaryaː	NOUN	_	_	13	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=15|RX=[NOUN]
 16	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_105-105
@@ -3276,7 +3276,7 @@
 24	?	?	PUNCT	_	_	3	punct	_	GE=[?]|Gloss=?|nWord=43|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_109-109
-# text = dà maːlàmiː yac cèː mà màːtaːtai hakà nan , sai màːtam maːlàmiː tah hwasà kuːkaː , tanàː ta ƙaːraː , tanàː cêːwaː à kaːmà maːlàmiː , yaː mutà ƙaryaː .
+# text = dà maːlàmiː yac cèː mà màːtaːtai hakànan , sai màːtam maːlàmiː tah hwasà kuːkaː , tanàː ta ƙaːraː , tanàː cêːwaː à kaːmà maːlàmiː , yaː mutà ƙaryaː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 113000, 115000
@@ -3307,7 +3307,7 @@
 23	kaːmà	kaːmàː	VERB	_	_	22	comp:aux	_	GE=catch|Gloss=catch|nWord=24|RX=[VERB]
 24	maːlàmiː	maːlàm	NOUN	_	_	23	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=25|RX=[NOUN]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-26	yaː	yaː	AUX	_	_	22	parataxis@mod	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=27|RX=[AUX]
+26	yaː	yaː	AUX	_	Aspect=Perf	22	parataxis@mod	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf.[do]|nWord=27|RX=[AUX]
 27	mutà	mutà	PRON	_	_	26	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=28|RX=[PRON]
 28	ƙaryaː	ƙaryaː	NOUN	_	_	26	comp:pred	_	GE=[lie].[Fem]|Gloss=lie.Fem|nWord=29|RX=[NOUN]
 29	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=30|RX=[PUNCT]
@@ -3753,7 +3753,7 @@
 12	indà	indà	ADV	_	_	11	comp:pred	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
 13	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	14	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
 14	hakì:	hakì:	NOUN	_	_	15	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
-15	shikè	shikè	AUX	_	_	12	mod@relcl	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc.Bkg|nWord=29|RX=[PRON]
+15	shikè	shikè	PredPART	_	_	12	mod@relcl	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc.Bkg|nWord=29|RX=[PRON]
 16	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 17	bàleː	bàleː	CCONJ	_	_	19	cc	_	GE=much_less|Gloss=much_less|nWord=32|RX=[SCONJ]
 18	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	19	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=33|RX=[ADJ]
@@ -4059,9 +4059,9 @@
 4	mà	mà	ADP	_	_	3	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=4|RX=[ADP]
 5	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	_	4	comp:obj	_	GE=[courtiers].[Plur]|Gloss=courtiers.Plur|nWord=5|RX=[NOUN]
 6	:	:	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	kù	kù	AUX	_	_	3	comp:obj@T	_	GE=[2Plur]|Gloss=2Plur|nWord=7|RX=[PRON]
+7	kù	ø	AUX	_	Aspect=Aor	3	comp:obj@T	_	GE=[2Plur]|Gloss=2Plur.Aor|nWord=7|RX=[PRON]
 8	tàhi	tàhi	VERB	_	_	7	comp:aux	_	GE=go|Gloss=go|nWord=8|RX=[VERB]
-9	kù	kù	AUX	_	_	7	parataxis@conj	_	GE=[2Plur]|Gloss=2Plur|nWord=9|RX=[PRON]
+9	kù	ø	AUX	_	Aspect=Aor	7	parataxis@conj	_	GE=[2Plur]|Gloss=2Plur.Aor|nWord=9|RX=[PRON]
 10	baː	baː	VERB	_	_	9	comp:aux	_	GE=give|Gloss=give|nWord=10|RX=[VERB]
 11	nì	ni	PRON	_	_	10	comp:obj@R	_	GE=[1Sing]|Gloss=1Sing|nWord=11|RX=[PRON]
 12	wuriː	wuriː	NOUN	_	_	10	comp:obj@T	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=12|RX=[NOUN]
@@ -4277,11 +4277,11 @@
 4	dà	dà	CCONJ	_	_	5	cc	_	GE=and|Gloss=and|nWord=4|RX=[CCONJ]
 5	maːlàmiː	maːlàm	NOUN	_	_	3	conj:coord	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sunàː	nàː	AUX	_	_	0	root	_	GE=[Pred/Loc]|Gloss=3Plur.Pred/Loc|nWord=8|RX=[AUX]
+7	sunàː	nàː	PredPART	_	_	0	root	_	GE=[Pred/Loc]|Gloss=3Plur.Pred/Loc|nWord=8|RX=[AUX]
 8	nan	nan	ADV	_	_	7	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=9|RX=[DET]
 9	zamaː-zamaː	zamaː	ADV	_	_	8	mod	_	Gloss=stay.Nmlz.Masc.Redup
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-11	sunàː	nàː	AUX	_	_	7	parataxis@conj	_	Gloss=3Plur.Pred/Loc
+11	sunàː	nàː	PredPART	_	_	7	parataxis@conj	_	Gloss=3Plur.Pred/Loc
 12	nan	nan	ADV	_	_	11	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=15|RX=[ADV]
 13	cikin	cikin	ADP	_	_	12	mod	_	GE=in(side)|Gloss=in(side)|nWord=16|RX=[ADP]
 14	kasòː	kasòː	NOUN	_	_	13	comp:obj	_	GE=[prison].[Masc]|Gloss=prison.Masc|nWord=17|RX=[NOUN]
@@ -4306,7 +4306,7 @@
 10	sakoː	sàkaː	VERB	_	_	9	comp:aux	_	GE=release|Gloss=release.Dir|nWord=10|RX=[VERB]|wordform=sak
 11	sarkiː	sarkiː	NOUN	_	_	10	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	tanàː	nàː	AUX	_	_	9	parataxis@conj	_	Gloss=3Fem.Pred/Loc|RX=[AUX]
+13	tanàː	nàː	PredPART	_	_	9	parataxis@conj	_	Gloss=3Fem.Pred/Loc|RX=[AUX]
 14	dà	dà	ADP	_	_	13	comp:pred	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
 15	màganàː	màganàː	NOUN	_	_	14	comp:obj	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=16|RX=[NOUN]
 16	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
@@ -4368,7 +4368,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	kaː	yaː	AUX	_	Aspect=Perf	2	comp:obj@T	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=7|RX=[AUX]
 8	sam	sanìː	VERB	_	_	7	comp:obj	_	GE=know|Gloss=know|nWord=8|RX=[VERB]
-9	munàː	nàː	AUX	_	_	8	comp:obj	_	Gloss=1Plur.Pred/Loc
+9	munàː	nàː	PredPART	_	_	8	comp:obj	_	Gloss=1Plur.Pred/Loc
 10	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
 11	kissà	kissà	NOUN	_	_	10	comp:obj	_	GE=[deception].[Fem]|Gloss=deception.Fem|nWord=12|RX=[NOUN]
 12	?	?	PUNCT	_	_	13	punct	_	GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
