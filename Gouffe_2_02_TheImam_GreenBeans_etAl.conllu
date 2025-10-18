@@ -1115,7 +1115,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 35782, 37365
-# text = dà sunkà zoː cikin gidaː, yac cêː : s'oːhuwaː, àbun dà nay yi kirànkì, don ìn tàmbàyeː kì in kin san gidan lìːmân.
+# text = dà sunkà zoː cikin gidaː , yac cêː : s'oːhuwaː , àbùn dà nay yi kirànkì , don ìn tàmbàyeː kì in kin san gidan lìːmân .
 # text_en = When they entered the compound, he said : Old woman, the reason why I called you is to ask you if you know the imam's house.
 # text_ortho = dà sunkà zoo cikin gidaa, yac ceè : s’oohuwaa, ’àbun dà nay yi kiᵲànkì, don ’ìn tàmbàyee kì, ’in kin san gidan lìimaǹ.
 1	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -1140,7 +1140,7 @@
 20	tàmbàyeː	tàmbayàː	VERB	_	_	19	comp:aux	_	GE=ask|Gloss=ask|nWord=20|RX=[VERB]
 21	kì	kì	PRON	_	_	20	comp:obj@R	_	GE=[2Fem]|Gloss=2Fem|nWord=21|RX=[PRON]
 22	in	in	SCONJ	_	_	20	comp:obj@T	_	GE=if|Gloss=if|nWord=22|RX=[SCONJ]
-23	kin	(n)kà	AUX	_	Aspect=PerfBkg	22	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.PerfBkg|nWord=23|RX=[AUX]
+23	kin	yaː	AUX	_	Aspect=Perf	22	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=23|RX=[AUX]
 24	san	sanìː	VERB	_	_	23	comp:aux	_	GE=know|Gloss=know|nWord=24|RX=[VERB]
 25	gidan	gidaː	NOUN	_	Definite=Cons	24	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=25|RX=[NOUN]|wordform=gida
 26	lìːmân	lìːmân	NOUN	_	Definite=Def	25	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=26|RX=[NOUN]
@@ -1176,7 +1176,7 @@
 7	yac	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	GE=say|Gloss=say|nWord=8|RX=[VERB]
 9	:	:	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	kin	(n)kà	AUX	_	Aspect=PerfBkg	8	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.PerfBkg|nWord=10|RX=[AUX]
+10	kin	yaː	AUX	_	Aspect=Perf	8	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=10|RX=[AUX]
 11	taɓà	taɓàː	VERB	_	_	10	comp:aux	_	GE=touch|Gloss=touch|nWord=11|RX=[VERB]
 12	zuwàː	zuwàː	VERB	_	ExtPos=NOUN	11	comp:obj	_	GE=[go].[Nmlz].[Masc]|Gloss=go.Nmlz.Masc|nWord=12|RX=[VERB]
 13	?	?	PUNCT	_	_	7	punct	_	GE=[?]|Gloss=?|nWord=13|RX=[PUNCT]
@@ -1333,7 +1333,7 @@
 4	maːdàlla	maːdàlla	INTJ	_	_	20	discourse	_	GE=[thank_God]|Gloss=thank_God|nWord=14|RX=[INTJ]
 5	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 6	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=16|RX=[SCONJ]
-7	kin	(n)kà	AUX	_	Aspect=PerfBkg	6	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.PerfBkg|nWord=17|RX=[AUX]
+7	kin	yaː	AUX	_	Aspect=Perf	6	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=17|RX=[AUX]
 8	yàr̃da	yàr̃da	VERB	_	_	7	comp:aux	_	GE=agree|Gloss=agree|nWord=18|RX=[VERB]
 9	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 10	keː	keː	PRON	_	_	20	vocative	_	GE=[2Fem]|Gloss=2Fem|nWord=20|RX=[PRON]
@@ -2357,7 +2357,7 @@
 13	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	12	comp:obj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=13|RX=[NOUN]
 14	:	:	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	in	in	SCONJ	_	_	19	mod	_	GE=if|Gloss=if|nWord=15|RX=[SCONJ]
-16	kin	(n)kà	AUX	_	Aspect=PerfBkg	15	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.PerfBkg|nWord=16|RX=[AUX]
+16	kin	yaː	AUX	_	Aspect=Perf	15	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=16|RX=[AUX]
 17	zoː	zoː	VERB	_	_	16	comp:aux	_	GE=come|Gloss=come|nWord=17|RX=[VERB]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	kì	ø	AUX	_	Aspect=Aor	11	comp:obj@T	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=19|RX=[AUX]
@@ -4048,7 +4048,7 @@
 13	yaː	yaː	AUX	_	Aspect=Perf	9	comp:obj@T	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=13|RX=[AUX]
 14	cêː	cêː	VERB	_	_	13	comp:aux	_	GE=say|Gloss=say|nWord=14|RX=[VERB]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	kin	(n)kà	AUX	_	Aspect=PerfBkg	14	comp:obj@T	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.PerfBkg|nWord=16|RX=[AUX]
+16	kin	yaː	AUX	_	Aspect=Perf	14	comp:obj@T	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=16|RX=[AUX]
 17	baː	baː	VERB	_	_	16	comp:aux	_	GE=give|Gloss=give|nWord=17|RX=[VERB]
 18	shì	shi	PRON	_	_	17	comp:obj@R	_	GE=[3Masc]|Gloss=3Masc|nWord=18|RX=[PRON]
 19	jìmɓiriː	jìmɓiriː	NOUN	_	_	17	comp:obj@T	_	GE=[green_beans].[Masc]|Gloss=green_beans.Masc|nWord=19|RX=[NOUN]
