@@ -1250,21 +1250,20 @@
 # text = dà su nàː nan gidaː , sai mài doːkìː yab biyoː , shinàː zaːmiyaː .
 # text_en = As they were home, the rider arrived and made his horse slide.
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
-1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	su	su	PRON	_	_	3	subj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=2|RX=[PRON]
-3	nàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
-4	nan	nan	ADV	_	_	3	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
-5	gidaː	gidaː	NOUN	_	_	3	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
-6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
-8	mài	mài	PART	_	_	10	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=8|RX=[PART]
-9	doːkìː	doːkìː	NOUN	_	_	8	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=9|RX=[NOUN]
-10	yab	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
-11	biyoː	biyaː	VERB	_	_	10	comp:aux	_	GE=follow|Gloss=follow.Dir|nWord=11|RX=[VERB]|wordform=biy
-12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	shinàː	nàː	AUX	_	Aspect=Prog	10	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=13|RX=[AUX]
-14	zaːmiyaː	zaːmiyaː	NOUN	_	_	13	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=14|RX=[NOUN]
-15	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
+2	sunàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
+3	nan	nan	ADV	_	_	2	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
+4	gidaː	gidaː	NOUN	_	_	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
+7	mài	mài	PART	_	_	9	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=8|RX=[PART]
+8	doːkìː	doːkìː	NOUN	_	_	7	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=9|RX=[NOUN]
+9	yab	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
+10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	GE=follow|Gloss=follow.Dir|nWord=11|RX=[VERB]|wordform=biy
+11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+12	shinàː	nàː	AUX	_	Aspect=Prog	9	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=13|RX=[AUX]
+13	zaːmiyaː	zaːmiyaː	NOUN	_	_	12	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=14|RX=[NOUN]
+14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_42_2
 # speaker_id = *

@@ -42,7 +42,7 @@
 # text = in kuma na laːyuː neː , ankà yi laːyàː , in ta nàː gà jìkim mùtun , laːyàƙ , ƙarhèː bâːshi huːdà mùtun .
 # text_en = If it is the amulet type, if you make an amulet, if it is on somebody, that amulet, metal won't pierce him.
 # text_ortho = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
-1	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	na	na	PART	_	_	5	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=3|RX=[PART]
 4	laːyuː	laːyuː	NOUN	_	_	3	comp:obj	_	GE=[charm].[Plur]|Gloss=charm.Plur|nWord=4|RX=[NOUN]
@@ -52,20 +52,19 @@
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	laːyàː	laːyàː	NOUN	_	_	8	comp:obj	_	GE=[charm].[Fem]|Gloss=charm.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=11|RX=[SCONJ]
-12	ta	ta	PRON	_	_	13	subj	_	GE=[3Fem].[Imp]|Gloss=3Fem|nWord=12|RX=[AUX]
-13	nàː	nàː	PredPART	_	_	11	comp:obj	_	GE=[3Fem].[Imp]|Gloss=Pred/Loc|nWord=12|RX=[AUX]
-14	gà	gà	ADP	_	_	13	comp:pred	_	GE=at|Gloss=at|nWord=13|RX=[ADP]
-15	jìkim	jìkiː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]|wordform=jìki
-16	mùtun	mùtun	NOUN	_	Definite=Cons	15	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=15|RX=[NOUN]
-17	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-18	laːyàƙ	laːyàː	NOUN	_	Definite=Def	21	dislocated@comp	_	GE=[charm].[Fem].[Def]|Gloss=charm.Fem.Def|nWord=17|RX=[NOUN]
-19	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-20	ƙarhèː	ƙarhèː	NOUN	_	_	21	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=19|RX=[NOUN]
-21	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=20|RX=[AUX]
-22	huːdà	huːdàː	VERB	_	_	21	comp:aux	_	GE=pierce|Gloss=pierce|nWord=21|RX=[VERB]
-23	mùtun	mùtun	NOUN	_	_	22	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=22|RX=[NOUN]
-24	.	.	PUNCT	_	_	21	punct	_	Gloss=.|nWord=23|RX=[PUNCT]
+11	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=11|RX=[SCONJ]
+12	tanàː	nàː	PredPART	_	_	11	comp:obj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=12|RX=[AUX]|wordform=ta
+13	gà	gà	ADP	_	_	12	comp:pred	_	GE=at|Gloss=at|nWord=13|RX=[ADP]
+14	jìkim	jìkiː	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]|wordform=jìki
+15	mùtun	mùtun	NOUN	_	Definite=Cons	14	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=15|RX=[NOUN]
+16	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
+17	laːyàƙ	laːyàː	NOUN	_	Definite=Def	20	dislocated@comp	_	GE=[charm].[Fem].[Def]|Gloss=charm.Fem.Def|nWord=17|RX=[NOUN]
+18	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+19	ƙarhèː	ƙarhèː	NOUN	_	_	20	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=19|RX=[NOUN]
+20	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=20|RX=[AUX]
+21	huːdà	huːdàː	VERB	_	_	20	comp:aux	_	GE=pierce|Gloss=pierce|nWord=21|RX=[VERB]
+22	mùtun	mùtun	NOUN	_	_	21	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=22|RX=[NOUN]
+23	.	.	PUNCT	_	_	20	punct	_	Gloss=.|nWord=23|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_003-003
 # text = in na ɗàmaràː neː, sai à yi ɗàmaràː, à sâː gà jìkiː, ƙarhèː bâːshi kaːmà jìkim mùtun.
@@ -311,29 +310,28 @@
 # sent_timecode = 8000, 9000
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
-1	wa’àndà	wa’àndà	PRON	_	PronType=Rel	13	mod	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=27|RX=[PRON]
-2	su	su	PRON	_	_	3	subj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=28|RX=[PRON]
-3	kè	kè	PredPART	_	_	1	mod@relcl	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=29|RX=[AUX]
-4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-5	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=31|RX=[SCONJ]
-6	sum	yaː	AUX	_	Aspect=Perf	5	comp:obj	_	GE=[3Plur].[Perf]|Gloss=3Plur.Perf|nWord=32|RX=[AUX]
-7	bushèː	bushèː	VERB	_	_	6	comp:aux	_	GE=dry_up|Gloss=dry_up|nWord=33|RX=[VERB]
-8	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-9	koːmiː	koːmiː	PRON	_	_	13	mod	_	Gloss=whatever|nWord=35
-10	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	9	mod@relcl	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]|wordform=ƙarhi
-11	mùtun	mùtun	NOUN	_	Definite=Cons	10	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
-12	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
-13	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=39|RX=[AUX]
-14	iyà	iyàː	VERB	_	_	13	comp:aux	_	GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
-15	gùrguràssù	gùrguràːsù	VERB	_	Definite=Cons|ExtPos=NOUN	14	comp:obj	_	GE=[gnaw].[Nmlz].[Fem]|Gloss=gnaw.Nmlz.Fem.3Plur.Poss|nWord=41|RX=[VERB]|wordform=gùrgurà
-16	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=42|RX=[ADP]
-17	haƙoːriː	haƙoːriː	NOUN	_	_	16	comp:obj	_	GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
-18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
-19	sai	sai	SCONJ	_	_	14	mod	_	GE=then|Gloss=then|nWord=45|RX=[ADV]
-20	dai	dai	TopPART	_	_	19	discourse@top	_	GE=indeed|Gloss=indeed|nWord=46|RX=[TOPPART]
-21	à	ø	AUX	_	Aspect=Aor	19	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=47|RX=[AUX]
-22	dakàː	dakàː	VERB	_	_	21	comp:aux	_	GE=pound|Gloss=pound|nWord=48|RX=[VERB]
-23	.	.	PUNCT	_	_	13	punct	_	Gloss=.|nWord=49|RX=[PUNCT]
+1	wa’àndà	wa’àndà	PRON	_	PronType=Rel	12	mod	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=27|RX=[PRON]
+2	sukè	kè	PredPART	_	_	1	mod@relcl	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc.Bkg|nWord=28|RX=[PRON]|wordform=su
+3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+4	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=31|RX=[SCONJ]
+5	sum	yaː	AUX	_	Aspect=Perf	4	comp:obj	_	GE=[3Plur].[Perf]|Gloss=3Plur.Perf|nWord=32|RX=[AUX]
+6	bushèː	bushèː	VERB	_	_	5	comp:aux	_	GE=dry_up|Gloss=dry_up|nWord=33|RX=[VERB]
+7	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
+8	koːmiː	koːmiː	PRON	_	_	12	mod	_	Gloss=whatever|nWord=35
+9	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	8	mod@relcl	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]|wordform=ƙarhi
+10	mùtun	mùtun	NOUN	_	Definite=Cons	9	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
+11	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
+12	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=39|RX=[AUX]
+13	iyà	iyàː	VERB	_	_	12	comp:aux	_	GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
+14	gùrguràssù	gùrguràːsù	VERB	_	Definite=Cons|ExtPos=NOUN	13	comp:obj	_	GE=[gnaw].[Nmlz].[Fem]|Gloss=gnaw.Nmlz.Fem.3Plur.Poss|nWord=41|RX=[VERB]|wordform=gùrgurà
+15	dà	dà	ADP	_	_	14	comp:obl	_	GE=with|Gloss=with|nWord=42|RX=[ADP]
+16	haƙoːriː	haƙoːriː	NOUN	_	_	15	comp:obj	_	GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
+17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
+18	sai	sai	SCONJ	_	_	13	mod	_	GE=then|Gloss=then|nWord=45|RX=[ADV]
+19	dai	dai	TopPART	_	_	18	discourse@top	_	GE=indeed|Gloss=indeed|nWord=46|RX=[TOPPART]
+20	à	ø	AUX	_	Aspect=Aor	18	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=47|RX=[AUX]
+21	dakàː	dakàː	VERB	_	_	20	comp:aux	_	GE=pound|Gloss=pound|nWord=48|RX=[VERB]
+22	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=49|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_010-010
 # speaker_id = *
@@ -2190,12 +2188,12 @@
 # sent_timecode = 73000, 74000
 # text_en = When you get it, the man who has gone to the bush and seen where it is, he will go look for other makers of toughness medicines, because that medicine that you get from "loda", when you get it, it's that very day that you sew it [into the amulet].
 # text_ortho = ’in zaà ’a ɗiibàatai, mùtun yaa yi yaːwòo cikin daajìi, yaa ga ’indà ta kè, sai šì tahoowàatai, šì zoo šì bìɗi ’àbùkkan gamìm maagàniǹ, sabòo dà šii waǹnam maagànii, wandà ’akà ɗiibàa gà lòodaa, ᵲad dà ’ankà ɗèebai, ᵲaǹ nan ’a kà ɗumkèe ši.
-1	in	in	SCONJ	_	_	19	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	ɗiːbàːtai	ɗiːbàːtai	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Masc.Poss|nWord=4|RX=[VERB]|wordform=ɗiːbàː
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	mùtun	mùtun	NOUN	_	_	6	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=6|RX=[NOUN]
-6	yaː	yaː	AUX	_	Aspect=Perf	19	mod	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=7|RX=[AUX]
+6	yaː	yaː	AUX	_	Aspect=Perf	18	mod	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=7|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 8	yaːwòː	yaːwòː	NOUN	_	_	7	comp:pred	_	GE=[strolling].[Masc]|Gloss=strolling.Masc|nWord=9|RX=[NOUN]
 9	cikin	cikin	ADP	_	_	7	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=10|RX=[ADP]
@@ -2204,45 +2202,44 @@
 12	yaː	yaː	AUX	_	Aspect=Perf	6	conj:coord	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=13|RX=[AUX]
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	GE=see|Gloss=see|nWord=14|RX=[VERB]
 14	indà	indà	PRON	_	_	13	comp:obj	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
-15	ta	ta	PRON	_	_	16	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-16	kè	kè	PredPART	_	_	14	mod@relcl	_	GE=[Pred/Loc].[Bkg]|Gloss=Pred/Loc.Bkg|nWord=17|RX=[AUX]
-17	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=19|RX=[ADV]
-19	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
-20	tahoːwaːtai	tàhitai	VERB	_	ExtPos=NOUN	19	comp:aux	_	GE=go|Gloss=go.Dir.Nmlz.Fem.3Masc.Poss|nWord=21|RX=[VERB]|wordform=tahoːwaː
-21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-22	shì	ø	AUX	_	Aspect=Aor	19	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
-23	zoː	zoː	VERB	_	_	22	comp:aux	_	GE=come|Gloss=come|nWord=24|RX=[VERB]
-24	shì	ø	AUX	_	Aspect=Aor	22	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=25|RX=[AUX]
-25	bìɗi	biɗaː	VERB	_	_	24	comp:aux	_	GE=look_for|Gloss=look_for|nWord=26|RX=[VERB]
-26	àbùkkan	àboːkiː	NOUN	_	Definite=Cons	25	comp:obj	_	GE=[friend].[Plur]|Gloss=friend.Plur|nWord=27|RX=[NOUN]|wordform=àbùkkai
-27	gamìm	gamàː	VERB	_	Definite=Cons|ExtPos=NOUN	26	mod	_	GE=[join].[Nmlz].[Masc]|Gloss=join.Nmlz.Masc|nWord=28|RX=[VERB]|wordform=gamì
-28	maːgànîn	maːgàniː	NOUN	_	Definite=Def	27	udep	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=29|RX=[NOUN]
-29	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-30	sabòːdà	sabòːdà	SCONJ	_	_	25	mod	_	GE=because|Gloss=because|nWord=31|RX=[SCONJ]
-31	shiː	shiː	PRON	_	_	47	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
-32	wânnam	wânnan	DET	_	_	33	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=33|RX=[PRON]
-33	maːgàniː	maːgàniː	NOUN	_	_	31	conj:appos	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=34|RX=[NOUN]
-34	,	,	PUNCT	_	_	36	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-35	wandà	wandà	PRON	_	PronType=Rel	37	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=36|RX=[PRON]
-36	akà	kà	AUX	_	Aspect=ProgBkg	33	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=37|RX=[AUX]
-37	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN	36	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=38|RX=[VERB]
-38	gà	gà	ADP	_	_	37	comp:obl	_	GE=at|Gloss=at|nWord=39|RX=[ADP]
-39	lòːdaː	lòːdaː	NOUN	_	_	38	comp:obj	_	GE=[plant_sp].[Fem]|Gloss=plant_sp.Fem|nWord=40|RX=[NOUN]
-40	,	,	PUNCT	_	_	31	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
-41	raːnad	raːnaː	NOUN	_	Definite=Cons	47	dislocated@top	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=42|RX=[NOUN]|wordform=raːna
-42	dà	dà	SCONJ	_	_	41	mod@relcl	_	GE=that|Gloss=that|nWord=43|RX=[SCONJ]
-43	ankà	(n)kà	AUX	_	Aspect=PerfBkg	42	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=44|RX=[AUX]
-44-45	ɗèːbai	_	_	_	_	_	_	_	_
-44	ɗiːbàː	ɗiːbàː	VERB	_	_	43	comp:aux	_	GE=take|Gloss=take|nWord=45|RX=[VERB]
-45	shi	shi	PRON	_	_	44	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=45|RX=[PRON]
-46	,	,	PUNCT	_	_	41	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
-47	rân	raːnaː	NOUN	_	Definite=Def	30	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=47|RX=[NOUN]
-48	nan	nan	DET	_	_	47	det	_	GE=[Dist]|Gloss=Dist|nWord=48|RX=[DET]
-49	akà	kà	AUX	_	Aspect=ProgBkg	47	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=49|RX=[AUX]
-50	ɗumkèː	ɗumkèː	VERB	_	_	49	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=50|RX=[VERB]
-51	shi	shi	PRON	_	_	50	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=51|RX=[PRON]
-52	.	.	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
+15	takè	kè	PredPART	_	_	14	mod@relcl	_	GE=[3Fem]|Gloss=3Fem.Pred/Loc.Bkg|nWord=16|RX=[PRON]|wordform=ta
+16	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=19|RX=[ADV]
+18	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=20|RX=[AUX]
+19	tahoːwaːtai	tàhitai	VERB	_	ExtPos=NOUN	18	comp:aux	_	GE=go|Gloss=go.Dir.Nmlz.Fem.3Masc.Poss|nWord=21|RX=[VERB]|wordform=tahoːwaː
+20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
+21	shì	ø	AUX	_	Aspect=Aor	18	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
+22	zoː	zoː	VERB	_	_	21	comp:aux	_	GE=come|Gloss=come|nWord=24|RX=[VERB]
+23	shì	ø	AUX	_	Aspect=Aor	21	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=25|RX=[AUX]
+24	bìɗi	biɗaː	VERB	_	_	23	comp:aux	_	GE=look_for|Gloss=look_for|nWord=26|RX=[VERB]
+25	àbùkkan	àboːkiː	NOUN	_	Definite=Cons	24	comp:obj	_	GE=[friend].[Plur]|Gloss=friend.Plur|nWord=27|RX=[NOUN]|wordform=àbùkkai
+26	gamìm	gamàː	VERB	_	Definite=Cons|ExtPos=NOUN	25	mod	_	GE=[join].[Nmlz].[Masc]|Gloss=join.Nmlz.Masc|nWord=28|RX=[VERB]|wordform=gamì
+27	maːgànîn	maːgàniː	NOUN	_	Definite=Def	26	udep	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=29|RX=[NOUN]
+28	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
+29	sabòːdà	sabòːdà	SCONJ	_	_	24	mod	_	GE=because|Gloss=because|nWord=31|RX=[SCONJ]
+30	shiː	shiː	PRON	_	_	46	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
+31	wânnam	wânnan	DET	_	_	32	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=33|RX=[PRON]
+32	maːgàniː	maːgàniː	NOUN	_	_	30	conj:appos	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=34|RX=[NOUN]
+33	,	,	PUNCT	_	_	35	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
+34	wandà	wandà	PRON	_	PronType=Rel	36	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=36|RX=[PRON]
+35	akà	kà	AUX	_	Aspect=ProgBkg	32	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=37|RX=[AUX]
+36	ɗiːbàː	ɗiːbàː	VERB	_	ExtPos=NOUN	35	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=38|RX=[VERB]
+37	gà	gà	ADP	_	_	36	comp:obl	_	GE=at|Gloss=at|nWord=39|RX=[ADP]
+38	lòːdaː	lòːdaː	NOUN	_	_	37	comp:obj	_	GE=[plant_sp].[Fem]|Gloss=plant_sp.Fem|nWord=40|RX=[NOUN]
+39	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
+40	raːnad	raːnaː	NOUN	_	Definite=Cons	46	dislocated@top	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=42|RX=[NOUN]|wordform=raːna
+41	dà	dà	SCONJ	_	_	40	mod@relcl	_	GE=that|Gloss=that|nWord=43|RX=[SCONJ]
+42	ankà	(n)kà	AUX	_	Aspect=PerfBkg	41	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=44|RX=[AUX]
+43-44	ɗèːbai	_	_	_	_	_	_	_	_
+43	ɗiːbàː	ɗiːbàː	VERB	_	_	42	comp:aux	_	GE=take|Gloss=take|nWord=45|RX=[VERB]
+44	shi	shi	PRON	_	_	43	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=45|RX=[PRON]
+45	,	,	PUNCT	_	_	40	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=46|RX=[PUNCT]
+46	rân	raːnaː	NOUN	_	Definite=Def	29	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=47|RX=[NOUN]
+47	nan	nan	DET	_	_	46	det	_	GE=[Dist]|Gloss=Dist|nWord=48|RX=[DET]
+48	akà	kà	AUX	_	Aspect=ProgBkg	46	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=49|RX=[AUX]
+49	ɗumkèː	ɗumkèː	VERB	_	_	48	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=50|RX=[VERB]
+50	shi	shi	PRON	_	_	49	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=51|RX=[PRON]
+51	.	.	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_074-074_split2
 # text = bâːshi kwaːnaː bà’à ɗumkèː ba .
@@ -2768,15 +2765,15 @@
 # text = àmmaː im bàkà kwan dà ƙarhèː ba , dà raːnan dà zâː ka ɗiːbàm maːgànîn , kaɗ ɗeːboː maːgànîn , in shi nàː gà jìkinkà , du’ irìn juːyì wandà ankà yi dà ƙarhèː , bâːshi huːdè jìkinkà .
 # text_en = But if you don't sleep with metal, the day that you take the medicine, when you take the medicine, if it is in your body, whatever the trick they do with metal, it won't pierce your body.
 # text_ortho = ’àmmaa ’im bà kà kwan dà ƙaᵲhèe ba, dà ᵲan dà zaà ka ɗiibàm maagàniǹ, kaɗ ɗeeboo maagàniǹ, ’in ši nàa gà jìkinkà, du’ ’iᵲìn juuyì wandà ’ankà yi dà ƙaᵲhèe, baà ši huudè jìkinkà.
-1	àmmaː	àmmaː	CCONJ	_	_	35	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	im	in	SCONJ	_	_	35	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
+1	àmmaː	àmmaː	CCONJ	_	_	34	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
+2	im	in	SCONJ	_	_	34	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	bàkà	bài	AUX	_	Aspect=PerfNeg	2	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=3|RX=[AUX]
 4	kwan	kwaːnaː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
 5	dà	dà	ADP	_	_	4	comp:obl	_	GE=with|Gloss=with|nWord=5|RX=[ADP]
 6	ƙarhèː	ƙarhèː	NOUN	_	_	5	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=6|RX=[NOUN]
 7	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=7|RX=[PART]
 8	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	dà	dà	ADP	_	_	35	mod	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
+9	dà	dà	ADP	_	_	34	mod	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
 10	raːnan	raːnaː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[day].[Fem]|Gloss=day.Fem|nWord=10|RX=[NOUN]|wordform=raːna
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	GE=that|Gloss=that|nWord=11|RX=[SCONJ]
 12	zâːka	zâː	AUX	_	Tense=Fut	11	comp:obj	_	GE=[Fut]|Gloss=Fut.2Masc|nWord=12|RX=[AUX]|wordform=zâː
@@ -2787,25 +2784,24 @@
 17	ɗeːboː	ɗiːbàː	VERB	_	_	16	comp:aux	_	GE=take|Gloss=take.Dir|nWord=18|RX=[VERB]|wordform=ɗeːb
 18	maːgànîn	maːgàniː	NOUN	_	Definite=Def	17	comp:obj	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=19|RX=[NOUN]
 19	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-20	in	in	SCONJ	_	_	35	mod	_	GE=if|Gloss=if|nWord=21|RX=[SCONJ]
-21	shi	shi	PRON	_	_	22	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=22|RX=[PRON]
-22	nàː	nàː	PredPART	_	_	20	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=22|RX=[PredPART]
-23	gà	gà	ADP	_	_	22	comp:pred	_	GE=at|Gloss=at|nWord=23|RX=[ADP]
-24	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	23	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=24|RX=[NOUN]|wordform=jìki
-25	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	du’	duk	DET	_	_	27	det	_	GE=all|Gloss=all|nWord=26|RX=[DET]
-27	irìn	irìː	NOUN	_	Definite=Cons	35	mod	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=27|RX=[NOUN]|wordform=irì
-28	juːyì	juːyì	NOUN	_	_	27	mod	_	GE=[change].[Masc]|Gloss=change.Masc|nWord=28|RX=[NOUN]
-29	wandà	wandà	PRON	_	PronType=Rel	31	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=29|RX=[PRON]
-30	ankà	(n)kà	AUX	_	Aspect=PerfBkg	27	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=30|RX=[AUX]
-31	yi	yi	VERB	_	_	30	comp:aux	_	GE=do|Gloss=do|nWord=31|RX=[VERB]
-32	dà	dà	ADP	_	_	31	comp:obl	_	GE=with|Gloss=with|nWord=32|RX=[ADP]
-33	ƙarhèː	ƙarhèː	NOUN	_	_	32	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=33|RX=[NOUN]
-34	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-35	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=35|RX=[AUX]
-36	huːdè	huːdàː	VERB	_	_	35	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=36
-37	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	36	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=37|RX=[NOUN]|wordform=jìki
-38	.	.	PUNCT	_	_	35	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
+20	in	in	SCONJ	_	_	34	mod	_	GE=if|Gloss=if|nWord=21|RX=[SCONJ]
+21	shinàː	nàː	PredPART	_	_	20	comp:obj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=22|RX=[PRON]|wordform=shi
+22	gà	gà	ADP	_	_	21	comp:pred	_	GE=at|Gloss=at|nWord=23|RX=[ADP]
+23	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	22	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=24|RX=[NOUN]|wordform=jìki
+24	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
+25	du’	duk	DET	_	_	26	det	_	GE=all|Gloss=all|nWord=26|RX=[DET]
+26	irìn	irìː	NOUN	_	Definite=Cons	34	mod	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=27|RX=[NOUN]|wordform=irì
+27	juːyì	juːyì	NOUN	_	_	26	mod	_	GE=[change].[Masc]|Gloss=change.Masc|nWord=28|RX=[NOUN]
+28	wandà	wandà	PRON	_	PronType=Rel	30	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=29|RX=[PRON]
+29	ankà	(n)kà	AUX	_	Aspect=PerfBkg	26	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=30|RX=[AUX]
+30	yi	yi	VERB	_	_	29	comp:aux	_	GE=do|Gloss=do|nWord=31|RX=[VERB]
+31	dà	dà	ADP	_	_	30	comp:obl	_	GE=with|Gloss=with|nWord=32|RX=[ADP]
+32	ƙarhèː	ƙarhèː	NOUN	_	_	31	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=33|RX=[NOUN]
+33	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
+34	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=35|RX=[AUX]
+35	huːdè	huːdàː	VERB	_	_	34	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=36
+36	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	35	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=37|RX=[NOUN]|wordform=jìki
+37	.	.	PUNCT	_	_	34	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_091-091
 # speaker_id = *
@@ -3467,20 +3463,19 @@
 # text = in shi nàː gà jìkinkà, du’ irìn ƙarhèː, bâːshi huːdè jìkinkà.
 # text_en = If it is on you body, whatever metal won't pierce your body.
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
-1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	shi	shi	PRON	_	_	3	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=2|RX=[PRON]
-3	nàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
-4	gà	gà	ADP	_	_	3	comp:pred	_	GE=at|Gloss=at|nWord=4|RX=[ADP]
-5	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	4	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=5|RX=[NOUN]|wordform=jìki
-6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	du'	duk	DET	_	_	8	mod	_	GE=all|Gloss=all|nWord=7|RX=[DET]
-8	irìn	irìː	NOUN	_	Definite=Cons	11	subj	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=8|RX=[NOUN]|wordform=irì
-9	ƙarhèː	ƙarhèː	NOUN	_	_	8	mod	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=9|RX=[NOUN]
-10	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=11|RX=[AUX]
-12	huːdè	huːdèː	VERB	_	_	11	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=12|RX=[VERB]
-13	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	12	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=13|RX=[NOUN]|wordform=jìki
-14	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
+1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
+2	shinàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=2|RX=[PRON]|wordform=shi
+3	gà	gà	ADP	_	_	2	comp:pred	_	GE=at|Gloss=at|nWord=4|RX=[ADP]
+4	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=5|RX=[NOUN]|wordform=jìki
+5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
+6	du'	duk	DET	_	_	7	mod	_	GE=all|Gloss=all|nWord=7|RX=[DET]
+7	irìn	irìː	NOUN	_	Definite=Cons	10	subj	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=8|RX=[NOUN]|wordform=irì
+8	ƙarhèː	ƙarhèː	NOUN	_	_	7	mod	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=9|RX=[NOUN]
+9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+10	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=11|RX=[AUX]
+11	huːdè	huːdèː	VERB	_	_	10	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=12|RX=[VERB]
+12	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=13|RX=[NOUN]|wordform=jìki
+13	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_112-112
 # speaker_id = *
