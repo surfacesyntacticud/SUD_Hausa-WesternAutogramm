@@ -3196,7 +3196,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 100000, 101000
-# text = maːgàniː ɗan kàɗannà akà sâːwaː, don kâttà gaːnèː.
+# text = maːgàniː ɗan kàɗannà akà sâːwaː , don kât tà gaːnèː .
 # text_en = You put just a little medicine so that she does not see it.
 # text_ortho = maagànii ɗan kàɗannà ’a kà saàwaa, don kat̀ tà gaanèe.
 1	maːgàniː	maːgàniː	NOUN	_	_	0	root	_	GE=[medicine/charm].[Masc]|Gloss=medicine/charm.Masc|nWord=1|RX=[NOUN]
@@ -3206,9 +3206,10 @@
 5	sâːwaː	sâː	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=put|Gloss=put.Nmlz.Fem|nWord=5|RX=[VERB]|wordform=sâː
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	don	don	SCONJ	_	_	1	mod	_	GE=because|Gloss=because|nWord=7|RX=[SCONJ]
-8	kâttà	kâttà	AUX	_	_	7	comp:obj	_	GE=[Neg].[2Fem].[Aor]|Gloss=Neg.2Fem.Aor|nWord=8|RX=[AUX]
-9	gaːnèː	gaːnèː	AUX	_	_	8	comp:aux	_	GE=understand|Gloss=understand|nWord=9|RX=[AUX]
-10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
+8	kât	kaɗà	ADV	_	_	9	mod	_	Gloss=Neg
+9	tà	tà	AUX	_	_	7	comp:obj	_	Gloss=2Fem.Aor
+10	gaːnèː	gaːnèː	AUX	_	_	9	comp:aux	_	GE=understand|Gloss=understand|nWord=9|RX=[AUX]
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_119-119
 # speaker_id = *
@@ -6087,7 +6088,7 @@
 11	shinàː	shinàː	AUX	_	_	10	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp|nWord=11|RX=[AUX]
 12	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	11	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=sô
 13	màccè	màccè	NOUN	_	_	12	udep	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=13|RX=[NOUN]
-14	.	. 	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
+14	.	.	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_220-220_split2_split1
 # text = waddà shikà sôː , sôː dà yawàː , bàː sôː kàɗannà ba . don shiː maːgànîn nan , sai màccen dà mùtun kà sôː dà yawàː .
