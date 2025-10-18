@@ -213,7 +213,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 6000, 7000
-# text = cikin sunàː wargîn nan, sai sàmàːriː nàː zuwàː, koːwaː nàː kiram bùdurwad dà shìkà sôː, sù yi màganàː, don shì tàmbàyeː tà in taː yàr̃da, tà tàhi wuriːnai, tà yoː mai s'àːrìnceː.
+# text = cikin sunàː wargîn nan , sai sàmàːriː nàː zuwàː , koːwaː nàː kiran bùdurwad dà shìkà sôː , sù yi màganàː , don sù tàmbàyeː tà in taː yàr̃da , tà tàhi wuriːnai , tà yoː mai s'àːrìnceː .
 # text_en = While they are playing, boys would come, each would call the girl he likes, they would talk, he would ask her if she agrees to come to his place and do tsarince with him.
 # text_ortho = cikin su nàa waᵲgiǹ nan, sai sàmàaᵲii nàa zuwàa, koo waa nàn kiᵲam bùduᵲwad dà šì kà soò, sù yi màganàa, don šì tàmbàyee tà ’in taa yàrda, tà tàhi wuᵲiinai, tà yoo mai s’àaᵲìncee.
 1	cikin	cikin	SCONJ	_	_	8	mod	_	GE=while|Gloss=while|nWord=1|RX=[SCONJ]
@@ -231,7 +231,7 @@
 13	kiran	kiraː	VERB	_	Definite=Cons	12	comp:aux	_	GE=call|Gloss=call|nWord=13|RX=[VERB]|wordform=kira
 14	bùdurwad	bùdurwaː	NOUN	_	Definite=Cons	13	udep	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=14|RX=[NOUN]|wordform=bùdurwa
 15	dà	dà	ADP	_	_	14	mod@relcl	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
-16	shìkà	(n)kà	AUX	_	Aspect=PerfBkg	15	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=16|RX=[AUX]
+16	shìkà	kà	AUX	_	Aspect=ProgBkg	15	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.ProgBkg|nWord=16|RX=[AUX]
 17	sôː	sôː	VERB	_	ExtPos=NOUN	16	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=17|RX=[VERB]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	sù	ø	AUX	_	Aspect=Aor	13	parataxis@mod	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=19|RX=[AUX]
