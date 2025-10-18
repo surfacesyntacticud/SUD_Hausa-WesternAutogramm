@@ -309,7 +309,7 @@
 # text_en = When you do zugal, you get lizzard faeces, white faeces, the one on fig-trees.
 # text_ortho = ’in zaà ’à yiǹ zuugàl, sai ’à sàamu kaašin ƙàdàngàᵲᵲuu, hwaᵲin kaašii, na bisà šìiᵲiyàa.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
 4	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	GE=love_charm|Gloss=love_charm|nWord=5|RX=[PROPN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -865,7 +865,7 @@
 1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons	10	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=1|RX=[NOUN]|wordform=loːkàci
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	GE=that|Gloss=that|nWord=2|RX=[SCONJ]
 3	mùtun	mùtun	NOUN	_	_	4	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
-4	zâːshi	zâː	AUX	_	_	2	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
+4	zâːshi	zâː	AUX	_	Tense=Fut	2	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
 5	har̃akàː	har̃akàː	VERB	_	_	4	comp:aux	_	GE=deal|Gloss=deal|nWord=6|RX=[VERB]
 6	dà	dà	ADP	_	_	5	comp:obl	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
 7	màcce	màcce	NOUN	_	_	6	comp:obj	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=8|RX=[NOUN]
@@ -1019,7 +1019,7 @@
 # text_en = [2] When you do a "zugal" for women, you must get a tobacco quid which a white woman has chewed and thrown away.
 # text_ortho = [2] ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à sàamu ciitòn taabàa, wandà hwaᵲam màccè taš šaa tay yaddàa.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=yî
 4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	comp:obj	_	GE=love_charm|Gloss=love_charm|nWord=7|RX=[PROPN]
@@ -1213,7 +1213,7 @@
 1	koːdàwane	koːdàwane	DET	_	_	2	det	_	GE=[each].[Masc]|Gloss=each.Masc|nWord=1|RX=[DET]
 2	loːkàciː	loːkàciː	NOUN	_	_	9	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=2|RX=[NOUN]
 3	mùtun	mùtun	NOUN	_	_	4	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
-4	zâːshi	zâː	AUX	_	_	2	mod@relcl	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
+4	zâːshi	zâː	AUX	_	Tense=Fut	2	mod@relcl	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
 5	cîm	cîː	VERB	_	Definite=Cons|ExtPos=NOUN	4	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=cî
 6	màccè	màccè	NOUN	_	_	5	udep	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=7|RX=[NOUN]
 7	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -1406,7 +1406,7 @@
 # text_en = If you are going to do "zugal" for women, you look for a hedgehog, you kill it, you gather its blood in a bottle or a bowl.
 # text_ortho = ’in zaà ’a yiǹ wani zuugàl na maataa, sai ’à bìɗi biššiyaa, ’à yankèe ta, ’à tàᵲàaᵲi jinintà cikin wata kwalbaa koo wani kwaanòo.
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
 4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	GE=love_charm|Gloss=love_charm|nWord=6|RX=[PROPN]
@@ -1892,7 +1892,7 @@
 # text_en = When you do "zugal", you get nine date fruits, with the stems.
 # text_ortho = [4] ’in zaà ’a yiǹ wani zuugàl, sai ’à sàamu dàbiinòo, ɗiyan dàbiinòo, màasu hancìi, ɗaa tarà.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=yî
 4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	GE=love_charm|Gloss=love_charm|nWord=7|RX=[PROPN]
@@ -1994,7 +1994,7 @@
 # text_ortho = šii wandà zaà ši maagàniǹ, sai šì bìɗi gujjiyaƙ ƙùᵲugà, ’yaƙ ƙanaanàa, ɗaa tarà, sai šì haɗèe.
 1	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
-3	zâːshi	zâːshi	AUX	_	_	2	mod@relcl	_	GE=[3Masc].[Fut]|Gloss=3Masc.Fut|nWord=3|RX=[AUX]
+3	zâːshi	zâː	AUX	_	Tense=Fut	2	mod@relcl	_	GE=[3Masc].[Fut]|Gloss=3Masc.Fut|nWord=3|RX=[AUX]
 4	maːgànîn	maːgàniː	NOUN	_	Definite=Def	3	comp:aux	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -2040,7 +2040,7 @@
 1	sai	sai	ADP	_	_	14	mod	_	GE=until|Gloss=until|nWord=1|RX=[ADV]
 2	lokàcin	lokàciː	NOUN	_	Definite=Cons	1	comp:obj	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=2|RX=[NOUN]|wordform=lokàci
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=3|RX=[SCONJ]
-4	zâːshi	zâːshi	AUX	_	_	3	comp:obj	_	GE=[3Masc].[Fut]|Gloss=3Masc.Fut|nWord=4|RX=[AUX]
+4	zâːshi	zâː	AUX	_	Tense=Fut	3	comp:obj	_	GE=[3Masc].[Fut]|Gloss=3Masc.Fut|nWord=4|RX=[AUX]
 5	kaːshiː	kaːshiː	NOUN	_	_	4	comp:aux	_	GE=[faeces].[Masc]|Gloss=faeces.Masc|nWord=6|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 7	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
@@ -2552,7 +2552,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
 6	niyyàː	niyyàː	NOUN	_	_	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	zâː	zâː	PredPART	_	_	5	parataxis@mod	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
+8	zâː	zâː	PredPART	_	Tense=Fut	5	parataxis@mod	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
 9	shi	shi	PRON	_	_	8	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	wani	wani	DET	_	PronType=Spec	11	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
 11	sha’àniː	sha’àniː	NOUN	_	_	8	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=11|RX=[NOUN]
@@ -2853,7 +2853,7 @@
 # text_en = When you pick it, you take tender shoots and leaves of the "runhu", new ones, that are soft, you pick them and take them home.
 # text_ortho = ’in zaà ’a ɗiibàatai, sai ’à sàamu lìngàaɓun ᵲunhuu, saabii, wa’àndà ’ad dà tabšii ## sai ’à ɗeeboo sù, ’à zoo dà suu gidaa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	ɗiːbàːtai	ɗiːbàːtai	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Masc.Poss|nWord=4|RX=[VERB]|wordform=ɗiːbàː
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
@@ -3163,7 +3163,7 @@
 # text_en = You scrape the dirt, that of the pestle, the dirt that her hands are doing, and mix it with the medicine. When you give her some meat, you put the medicine in the meat, and give her to eat.
 # text_ortho = in zaà ’a baa tà naamàa, sai ’à saà mutà maagàniǹ nan cikin naamàa, 'à baa tà tà ci.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=21|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=22|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=22|RX=[AUX]|wordform=zâː
 3	baː	baː	VERB	_	_	2	comp:aux	_	GE=give|Gloss=give|nWord=24|RX=[VERB]
 4	tà	ta	PRON	_	_	3	comp:obj@R	_	GE=[3Fem]|Gloss=3Fem|nWord=25|RX=[PRON]
 5	naːmàː	naːmàː	NOUN	_	_	3	comp:obj@T	_	GE=[meat].[Masc]|Gloss=meat.Masc|nWord=26|RX=[NOUN]
@@ -3332,7 +3332,7 @@
 # text_en = When you do the medicine, you get four white hens.
 # text_ortho = ’in zaà ’a yim̀ maagàniǹ, sai ’à sàamu ’yam maatan kàaji, hwaᵲhwaᵲuu, suu huɗu.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
 4	maːgànîn	maːgàniː	NOUN	_	Definite=Def	3	udep	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -3909,7 +3909,7 @@
 25	ba	ba	PART	_	_	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=25|RX=[PART]
 26	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27	in	in	SCONJ	_	_	37	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
-28	zâːshi	zâː	AUX	_	_	27	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=28|RX=[AUX]|wordform=zâː
+28	zâːshi	zâː	AUX	_	Tense=Fut	27	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=28|RX=[AUX]|wordform=zâː
 29	wankè	wankèː	VERB	_	_	28	comp:aux	_	GE=wash|Gloss=wash|nWord=30|RX=[VERB]
 30	idòː	idòː	NOUN	_	_	29	comp:obj	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=31|RX=[NOUN]
 31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
@@ -4144,7 +4144,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
 6	sallàː	sallàː	NOUN	_	_	5	comp:obj	_	GE=[prayer].[Fem]|Gloss=prayer.Fem|nWord=6|RX=[NOUN]
-7	zâː	zâː	AUX	_	_	6	comp:cleft	_	GE=[Fut]|Gloss=Fut|nWord=7|RX=[AUX]
+7	zâː	zâː	AUX	_	Tense=Fut	6	comp:cleft	_	GE=[Fut]|Gloss=Fut|nWord=7|RX=[AUX]
 8	shi	shi	PRON	_	_	7	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
 9	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]
@@ -4324,7 +4324,7 @@
 # text_en = When going to bed, let him put that powder in his mouth.
 # text_ortho = ’in zaà ši kwaanaa, sai šì saà hac’iǹ nan cìkim bàakii.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâːshi	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=2|RX=[AUX]|wordform=zâː
+2	zâːshi	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=2|RX=[AUX]|wordform=zâː
 3	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
@@ -5318,7 +5318,7 @@
 # text_en = If you're going to do it, you must look for a tick, that of a female dog.
 # text_ortho = ’in zaà ’à yiìnai, sai ’à nèemi kaskàa, ta gà kàᵲyaa màccè.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
+2	zâː	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=2|RX=[AUX]
 3	à	à	PRON	_	_	2	subj	_	Gloss=4|nWord=3
 4	yîːnai	yinai	VERB	_	ExtPos=NOUN	2	comp:pred	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc.3Masc.Poss|nWord=4|RX=[VERB]|wordform=yîː
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -6175,7 +6175,7 @@
 28	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	25	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=28|RX=[AUX]
 29	tuːɓèː	tuːɓèː	VERB	_	_	28	comp:aux	_	GE=remove|Gloss=remove|nWord=29|RX=[VERB]
 30	,	,	PUNCT	_	_	31	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-31	zâːsu	zâː	AUX	_	_	28	parataxis@conj	_	GE=[Fut]|Gloss=Fut.3.Pl|nWord=31|RX=[AUX]|wordform=zâː
+31	zâːsu	zâː	AUX	_	Tense=Fut	28	parataxis@conj	_	GE=[Fut]|Gloss=Fut.3.Pl|nWord=31|RX=[AUX]|wordform=zâː
 32	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	31	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=33|RX=[VERB]|wordform=yî
 33	kwântaː	kwântaː	VERB	_	_	32	udep	_	GE=[lie_down].[Part]|Gloss=lie_down.Part|nWord=34|RX=[VERB]
 34	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
@@ -6597,7 +6597,7 @@
 # text_en = When you're ging to do it, you look for misletoe, the misletoe of (the tree) "kalgo".
 # text_ortho = ’in zaà ’a yiìnai, sai ’à bìɗi kaucìi, kaucìn kalgoo.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	zâː'a	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
+2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	yîːnai	yinai	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc.3Masc.Poss|nWord=4|RX=[VERB]|wordform=yîː
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
@@ -6926,7 +6926,7 @@
 10	yas	(n)kà	AUX	_	Aspect=PerfBkg	8	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
 11	sanìː	sanìː	VERB	_	_	10	comp:aux	_	GE=know|Gloss=know|nWord=11|RX=[VERB]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	zâːshi	zâː	AUX	_	_	11	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=13|RX=[AUX]|wordform=zâː
+13	zâːshi	zâː	AUX	_	Tense=Fut	11	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=13|RX=[AUX]|wordform=zâː
 14	zuwàː	zuwàː	VERB	_	ExtPos=NOUN	13	comp:aux	_	GE=[go].[Nmlz].[Masc]|Gloss=go.Nmlz.Masc|nWord=15|RX=[VERB]
 15	wurim	wurin	ADP	_	Definite=Cons	14	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=16|RX=[NOUN]|wordform=wuri
 16	màccè	màccè	NOUN	_	_	15	comp:obj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=17|RX=[NOUN]
@@ -7042,7 +7042,7 @@
 18	àbun	àbu	NOUN	_	Definite=Cons	17	mod	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=19|RX=[NOUN]|wordform=àbu
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	GE=that|Gloss=that|nWord=20|RX=[SCONJ]
 20-21	zâː	_	_	_	_	_	_	_	_
-20	zâːshi	zâː	AUX	_	_	19	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=21|RX=[AUX]|wordform=zâː
+20	zâːshi	zâː	AUX	_	Tense=Fut	19	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=21|RX=[AUX]|wordform=zâː
 21	yi	yi	VERB	_	_	20	comp:aux	_	GE=[do]|Gloss=do|nWord=22|RX=[VERB]
 22	mutà	mutà	PRON	_	_	21	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=23|RX=[PRON]
 23	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]

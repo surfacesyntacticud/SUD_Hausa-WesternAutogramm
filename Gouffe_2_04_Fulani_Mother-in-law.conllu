@@ -5,7 +5,7 @@
 # text = zâː mu baː kù làːbaːr̃ìː na wani bàhillaːcèː dà yay yi làːlaːtàː, yac ci sàràkkuwaːtai, uwam màːtaːtai.
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_ortho = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
-1	zâːmu	zâː	AUX	_	_	0	root	_	GE=[Fut]|Gloss=Fut.1Plur|nWord=1|RX=[AUX]|wordform=zâː
+1	zâːmu	zâː	AUX	_	Tense=Fut	0	root	_	GE=[Fut]|Gloss=Fut.1Plur|nWord=1|RX=[AUX]|wordform=zâː
 2	baː	baː	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=3|RX=[VERB]
 3	kù	kù	PRON	_	_	2	comp:obj@R	_	GE=[2Plur]|Gloss=2Plur|nWord=4|RX=[PRON]
 4	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	2	comp:obj@T	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=5|RX=[NOUN]
@@ -91,7 +91,7 @@
 11	rasàː	rasàː	VERB	_	_	10	comp:aux	_	GE=lack|Gloss=lack|nWord=11|RX=[VERB]
 12	wàdà	wàdà	ADV	_	_	11	mod	_	GE=how|Gloss=how|nWord=12|RX=[ADV]
 13-14	zâː	_	_	_	_	_	_	_	_
-13	zâːka	zâː	AUX	_	_	12	mod@relcl	_	GE=[Fut]|Gloss=Fut.2Masc|nWord=13|RX=[AUX]|wordform=zâː
+13	zâːka	zâː	AUX	_	Tense=Fut	12	mod@relcl	_	GE=[Fut]|Gloss=Fut.2Masc|nWord=13|RX=[AUX]|wordform=zâː
 14	yîː	yi	VERB	_	ExtPos=NOUN	13	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=14|RX=[VERB]
 15	kà	ø	AUX	_	Aspect=Aor	14	mod	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=15|RX=[AUX]
 16	ci	ci	VERB	_	_	15	comp:aux	_	GE=have_sex_with|Gloss=have_sex_with|nWord=16|RX=[VERB]
@@ -121,7 +121,7 @@
 14	sai	sai	ADV	_	_	15	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
 15	tac	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=15|RX=[AUX]
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	GE=say|Gloss=say|nWord=16|RX=[VERB]
-17	zâː	zâː	PredPART	_	_	16	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
+17	zâː	zâː	PredPART	_	Tense=Fut	16	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
 18	ta	ta	PRON	_	_	17	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
 19	ùnguwaː	ùnguwaː	NOUN	_	_	17	comp:pred	_	GE=[village].[Fem]|Gloss=village.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
@@ -180,7 +180,7 @@
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	zâːsu	zâː	AUX	_	_	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3.Pl|nWord=2|RX=[AUX]|wordform=zâː
+2	zâːsu	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3.Pl|nWord=2|RX=[AUX]|wordform=zâː
 3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	shiː	shiː	PRON	_	_	10	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
@@ -397,7 +397,7 @@
 5	:	:	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	tôː	tôː	INTJ	_	_	7	discourse	_	GE=well|Gloss=well|nWord=6|RX=[INTJ]
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	GE=how|Gloss=how|nWord=7|RX=[ADV]
-8	zâːmu	zâː	AUX	_	_	7	comp:cleft	_	GE=[Fut]|Gloss=Fut.1Plur|nWord=8|RX=[AUX]|wordform=zâː
+8	zâːmu	zâː	AUX	_	Tense=Fut	7	comp:cleft	_	GE=[Fut]|Gloss=Fut.1Plur|nWord=8|RX=[AUX]|wordform=zâː
 9	yîː	yi	VERB	_	ExtPos=NOUN	8	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=10|RX=[VERB]
 10	tun	tun	SCONJ	_	_	9	mod	_	GE=since/before|Gloss=since/before|nWord=11|RX=[SCONJ]
 11	dà	dà	SCONJ	_	_	10	comp:obj	_	GE=when|Gloss=when|nWord=12|RX=[SCONJ]
@@ -679,7 +679,7 @@
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	:	:	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	GE=how|Gloss=how|nWord=4|RX=[ADV]
-5	zâːni	zâː	AUX	_	_	4	comp:cleft	_	GE=[Fut]|Gloss=Fut.1Sing|nWord=5|RX=[AUX]|wordform=zâː
+5	zâːni	zâː	AUX	_	Tense=Fut	4	comp:cleft	_	GE=[Fut]|Gloss=Fut.1Sing|nWord=5|RX=[AUX]|wordform=zâː
 6	cêːwaː	cêː	VERB	_	ExtPos=NOUN	5	comp:aux	_	GE=say|Gloss=say.Nmlz.Fem|nWord=7|RX=[VERB]|wordform=cêː
 7	?	?	PUNCT	_	_	1	punct	_	GE=[?]|Gloss=?|nWord=8|RX=[PUNCT]
 
