@@ -952,7 +952,7 @@
 # text_en = If he keep doing it, so that the medicine catches the woman's body, and ties her body. When it has tied her body, she will keep clinging to the man, she cannot leave him.
 # text_ortho = ’in šì nàa yiì kullun, ham maagàniǹ nan yak kaamà jìkim màccè yag gamàa mutà jìkii. ’in yag gamà jìkintà, sai tà yi ta sàᵲkahwàm mùtun, baà ta ’iyà ᵲàbuwaa dà šii.
 1	in	in	SCONJ	_	_	24	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	shìnàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=2|RX=[AUX]
+2	shinàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=2|RX=[AUX]|wordform=shìnàː
 3	yîː	yi	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=3|RX=[VERB]
 4	kullun	kullun	ADV	_	_	3	mod	_	GE=always|Gloss=always|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2721,7 +2721,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 87000, 87313
-# text = kuma bandà hakà nan , du' abuːbuwàn dà ankà sânyaː cikim maːgànîn , irìn wa’àndà akà cîː , mùtun bâːshi cînsù , loːkàcin dà shikà wânnam maːgànîn .
+# text = kuma bandà hakànan , du' abuːbuwàn dà ankà sânyaː cikim maːgànîn , irìn wa’àndà akà cîː , mùtun bâːshi cînsù , loːkàcin dà shikà wânnam maːgànîn .
 # text_en = But apart from that, all the things that have been put inside the medicine, those that are used, the man does not eat them when he uses the medicine.
 # text_ortho = kuma ban dà hakà nan, du’ ’abuubuwàn dà ’ankà saǹyaa cikim maagàniǹ, ’iᵲìn wa’àndà ’a kà ciì, mùtun baà ši ciǹsù, lookàcin dà ši kà waǹnam maagàniǹ -
 1	kuma	kuma	PART	_	_	19	discourse	_	GE=also|Gloss=also|nWord=1|RX=[TOPPART]
@@ -2738,7 +2738,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 13	irìn	irìː	NOUN	_	Definite=Def	11	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=14|RX=[NOUN]
 14	wa’àndà	wa’àndà	PRON	_	PronType=Rel	13	mod	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=15|RX=[PRON]
-15	akà	nàː	AUX	_	Aspect=Prog	14	mod@relcl	_	GE=[4].[Imp]|Gloss=4.Prog|nWord=16|RX=[PRON]
+15	akà	kà	AUX	_	Aspect=ProgBkg	14	mod@relcl	_	GE=[4].[Imp]|Gloss=4.ProgBkg|nWord=16|RX=[PRON]
 16	cîː	cîː	VERB	_	ExtPos=NOUN	15	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=18|RX=[VERB]
 17	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 18	mùtun	mùtun	NOUN	_	_	19	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
