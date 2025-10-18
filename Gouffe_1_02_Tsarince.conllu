@@ -158,7 +158,7 @@
 # text_ortho = ’in kaù bà sù yi kwaanaa ba, ’in su nàa hwagee su nàa waᵲgii, ’iᵲìn na ’’yam maataa.
 1	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
-3	bàsù	bàsù	AUX	_	_	1	comp:obj	_	GE=[Neg].[3Plur].[Perf]|Gloss=Neg.3Plur.Perf|nWord=3|RX=[AUX]
+3	bàsù	bàsù	AUX	_	_	1	comp:obj	_	GE=[Neg].[3Plur].[Perf]|Gloss=Neg.3Plur.PerfNeg|nWord=3|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=5|RX=[VERB]
 6	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=6|RX=[PART]
@@ -447,7 +447,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 12000, 13000
-# text = in kâu armeː zâː a yîː , anka shaːhwàː mà bùdurwaː lallèː .
+# text = in kâu armeː zâː a yîː , ankà shaːhwàː mà bùdurwaː lallèː .
 # text_en = If they are going to marry, they put henna on the girl.
 # text_ortho = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
@@ -457,7 +457,7 @@
 5	a	a	PRON	_	_	4	subj	_	GE=[4]|Gloss=4|nWord=5|RX=[PRON]
 6	yîː	yi	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=6|RX=[VERB]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	anka	anka	AUX	_	_	0	root	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=8|RX=[AUX]
+8	ankà	anka	AUX	_	_	0	root	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=8|RX=[AUX]
 9	shaːhwàː	shaːhwàː	VERB	_	_	8	comp:aux	_	GE=rub|Gloss=rub|nWord=9|RX=[VERB]
 10	mà	mà	ADP	_	_	9	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=10|RX=[ADP]
 11	bùdurwaː	bùdurwaː	NOUN	_	_	10	comp:obj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=11|RX=[NOUN]
