@@ -85,7 +85,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaː	yaː	AUX	_	Aspect=Perf	3	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 9	azàː	azàː	VERB	_	_	8	comp:aux	_	GE=put|Gloss=put|nWord=9|RX=[VERB]
-10	mà	mà	ADP	_	_	9	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=10|RX=[ADP]
+10	mà	mà	ADP	_	_	9	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=10|RX=[ADP]
 11	doːkìːnai	doːkìːnai	NOUN	_	_	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=11|RX=[NOUN]|wordform=doːkìː
 12	sir̃dìː	sir̃dìː	NOUN	_	_	9	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -165,7 +165,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	bâːshi	bâi	AUX	_	Aspect=ProgNeg	13	parataxis@conj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=17|RX=[AUX]
 18	cêː	cêː	VERB	_	_	17	comp:aux	_	GE=say|Gloss=say|nWord=18|RX=[VERB]
-19	mutà	mutà	PRON	_	_	18	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
+19	mutà	mutà	PRON	_	_	18	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
 20	koːmiː	koːmiː	PRON	_	_	18	comp:obj@T	_	GE=anything|Gloss=anything|nWord=20|RX=[PRON]
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -182,8 +182,8 @@
 4	duːniyàː	duːniyàː	NOUN	_	_	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	kullun	kullun	ADV	_	_	7	mod	_	GE=always|Gloss=always|nWord=7|RX=[ADV]
-7	tanàː	tanàː	AUX	_	_	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Imp.[do]|nWord=8|RX=[AUX]
-8	mai	mai	PRON	_	_	7	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=9|RX=[PRON]
+7	tanàː	tanàː	AUX	_	Aspect=Imp	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=8|RX=[AUX]
+8	mai	mai	PRON	_	_	7	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=9|RX=[PRON]
 9	hakànan	hakànan	ADV	_	_	7	mod	_	GE=thus|Gloss=thus|nWord=10|RX=[ADV]|wordform=hakà
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 11	ita	ita	PRON	_	_	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=13|RX=[PRON]
@@ -233,7 +233,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	tag	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=11|RX=[AUX]
 12	gayàː	gayàː	VERB	_	_	11	comp:aux	_	GE=tell|Gloss=tell|nWord=12|RX=[VERB]
-13	mà	mà	ADP	_	_	12	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
+13	mà	mà	ADP	_	_	12	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
 14	mijìntà	mijìːtà	NOUN	_	Definite=Cons	13	comp:obj	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=14|RX=[NOUN]|wordform=mijì
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	zâːta	zâː	AUX	_	Tense=Fut	12	comp:obj@T	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=16|RX=[AUX]|wordform=zâː
@@ -385,7 +385,7 @@
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 11	yaƙ	(n)kà	AUX	_	Aspect=PerfBkg	5	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=12|RX=[AUX]
 12	ƙiyàː	ƙiyàː	VERB	_	_	11	comp:aux	_	GE=refuse|Gloss=refuse|nWord=13|RX=[VERB]
-13	mutà	mutà	PRON	_	_	12	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
+13	mutà	mutà	PRON	_	_	12	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
 14	màganàː	màganàː	NOUN	_	_	12	comp:obj@T	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=15|RX=[NOUN]
 15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 16	sai	sai	ADV	_	_	17	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
@@ -558,7 +558,7 @@
 1	dà	dà	SCONJ	_	_	13	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yag	(n)kà	AUX	_	Aspect=PerfBkg	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	GE=tell|Gloss=tell|nWord=3|RX=[VERB]
-4	mutà	mutà	PRON	_	_	3	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=4|RX=[PRON]
+4	mutà	mutà	PRON	_	_	3	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=4|RX=[PRON]
 5	hakànan	hakànan	ADV	_	_	3	mod	_	GE=thus|Gloss=thus|nWord=5|RX=[ADV]|wordform=hakà
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 7	koːdà	koːdà	SCONJ	_	_	13	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=8|RX=[SCONJ]
@@ -937,7 +937,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	shì	ø	AUX	_	Aspect=Aor	9	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=13|RX=[AUX]
 14	yi	yi	VERB	_	_	13	comp:aux	_	GE=do|Gloss=do|nWord=14|RX=[VERB]
-15	mutà	mutà	PRON	_	_	14	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=15|RX=[PRON]
+15	mutà	mutà	PRON	_	_	14	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=15|RX=[PRON]
 16	tuːsàː	tuːsàː	NOUN	_	_	14	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=16|RX=[NOUN]
 17	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
@@ -949,8 +949,8 @@
 # text_en = When he farted, she smelled the stench, she wanted to lift the wrapper and move her head outside because of the stench of the fart.
 # text_ortho = ’in yam mutà tuusàa, ’in taj ji ɗwai, ta nàa soǹ tà kwaaᵲè zanèe, tà hiddoo kaǹtà gà hiilii, sabàd dà ɗwan tuusàa.
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	yam	yak	AUX	_	_	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.BkBkg|nWord=2|RX=[AUX]
-3	mutà	mutà	PRON	_	_	2	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
+2	yam	(n)kà	AUX	_	Aspect=PerfBkg	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
+3	mutà	mutà	PRON	_	_	2	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
 4	tuːsàː	tuːsàː	NOUN	_	_	2	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -1002,8 +1002,8 @@
 4	kàɗan	kàɗan	ADV	_	_	3	mod	_	GE=a_little|Gloss=a_little|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
-7	shì	ø	AUX	_	_	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor.[do]|nWord=7|RX=[AUX]
-8	mutà	mutà	PRON	_	_	7	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=8|RX=[PRON]
+7	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor.[do]|nWord=7|RX=[AUX]
+8	mutà	mutà	PRON	_	_	7	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=8|RX=[PRON]
 9	wata	wata	DET	_	_	10	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=9|RX=[DET]
 10	tuːsàː	tuːsàː	NOUN	_	_	7	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -1015,16 +1015,16 @@
 # text = yanàː ta mutà tuːsàː , ɗwai yam mutà yawàː , tanàː ta twàːriː cikin zanèː .
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
-1	yanàː	yanàː	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Imp.[do]|nWord=12|RX=[AUX]
+1	yanàː	yanàː	AUX	_	Aspect=Imp	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=12|RX=[AUX]
 2	ta	ta	ADP	_	_	1	compound@prt	_	Gloss=via
-3	mutà	mutà	PRON	_	_	1	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
+3	mutà	mutà	PRON	_	_	1	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
 4	tuːsàː	tuːsàː	NOUN	_	_	1	comp:aux	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=15|RX=[NOUN]
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 6	ɗwai	ɗwai	NOUN	_	_	7	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=17|RX=[NOUN]
 7-8	yam	_	_	_	_	_	_	_	_
-7	yay	yaː	AUX	_	Aspect=PerfBkg	1	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.PerfBkg|nWord=18|RX=[AUX]|wordform=yaː
+7	yay	(n)kà	AUX	_	Aspect=PerfBkg	1	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.PerfBkg|nWord=18|RX=[AUX]|wordform=yaː
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
-9	mutà	mutà	PRON	_	_	8	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
+9	mutà	mutà	PRON	_	_	8	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
 10	yawàː	yawàː	NOUN	_	_	8	comp:pred	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=20|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 12	tanàː	nàː	AUX	_	Aspect=Prog	7	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=22|RX=[AUX]
@@ -1127,8 +1127,8 @@
 7	yat	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	taːshì	taːshì	VERB	_	_	7	comp:aux	_	GE=rise|Gloss=rise|nWord=8|RX=[VERB]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	yam	yak	AUX	_	_	7	parataxis@conj	_	Gloss=3Masc.Perf.BkBkg
-11	mâː	mâː	ADP	_	_	10	comp:obl@R	_	GE=[Dat]|Gloss=Dat|nWord=11|RX=[ADP]
+10	yam	(n)kà	AUX	_	Aspect=PerfBkg	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
+11	mâː	mâː	ADP	_	_	10	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=11|RX=[ADP]
 12	doːkìːnai	doːkìːnai	NOUN	_	_	11	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=12|RX=[NOUN]|wordform=doːkìː
 13	sir̃dìː	sir̃dìː	NOUN	_	_	10	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
@@ -1162,8 +1162,8 @@
 9	shì	shi	PRON	_	_	8	comp:obj@R	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	doːkìːnai	doːkìːnai	NOUN	_	_	8	comp:obj@T	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=10|RX=[NOUN]|wordform=doːkìː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	yam	yak	AUX	_	_	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.Perf.BkBkg|nWord=12|RX=[AUX]
-13	mai	mai	PRON	_	_	12	comp:obl@R	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=13|RX=[PRON]
+12	yam	(n)kà	AUX	_	Aspect=PerfBkg	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=12|RX=[AUX]
+13	mai	mai	PRON	_	_	12	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=13|RX=[PRON]
 14	gòːdiyaː	gòːdiyaː	NOUN	_	_	17	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	7	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=16|RX=[AUX]
@@ -1239,7 +1239,7 @@
 24	yay	(n)kà	AUX	_	Aspect=PerfBkg	20	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=48|RX=[AUX]
 25	yi	yi	VERB	_	_	24	comp:aux	_	GE=do|Gloss=do|nWord=49|RX=[VERB]
 26	ta	ta	ADP	_	_	25	compound@prt	_	GE=via|Gloss=via|nWord=50|RX=[ADP]
-27	mutà	mutà	PRON	_	_	25	comp:obl@R	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
+27	mutà	mutà	PRON	_	_	25	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
 28	tuːsàː	tuːsàː	NOUN	_	_	25	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=53|RX=[PUNCT]
 
