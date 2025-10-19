@@ -4758,7 +4758,7 @@
 10	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_171-171
-# text = kàmak kàːzaː cèː, dà bâːta dà zuccìyaː.
+# text = kàmak kàːzaː cèː , dà bâːta dà zuccìyaː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 151000, 152000
@@ -4766,10 +4766,10 @@
 # text_ortho = kàmak kàazaa cèe, dà baà ta dà zuccìyaa.
 1	kàmak	kàmat	ADP	_	_	3	comp:pred	_	GE=like|Gloss=like|nWord=1|RX=[ADP]
 2	kàːzaː	kàːzaː	NOUN	_	_	1	comp:obj	_	GE=[hen].[Fem]|Gloss=hen.Fem|nWord=2|RX=[NOUN]
-3	cèː	cèː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=3|RX=[IDPART]
+3	cèː	neː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc.Fem|nWord=3|RX=[IDPART]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=5|RX=[SCONJ]
-6	bâːta	bâi	AUX	_	Aspect=ProgNeg	5	comp:obj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=6|RX=[AUX]
+6	bâːta	bâi	AUX	_	_	5	comp:obj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.Pred/Loc|nWord=6|RX=[AUX]
 7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
 8	zuccìyaː	zuccìyaː	NOUN	_	_	7	comp:obj	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=8|RX=[NOUN]
 9	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=9|RX=[PUNCT]

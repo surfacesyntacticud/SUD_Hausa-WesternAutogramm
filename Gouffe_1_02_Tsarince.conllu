@@ -166,7 +166,7 @@
 9	sunàː	nàː*	AUX	_	_	8	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=9|RX=[PRON]|wordform=su
 10	hwageː	hwageː	NOUN	_	_	9	comp:pred	_	GE=[open_space].[Masc]|Gloss=open_space.Masc|nWord=11|RX=[NOUN]
 11	sunàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Prog|nWord=12|RX=[AUX]
-12	wargiː	wargiː	NOUN	_	_	11	comp:pred	_	GE=[playing].[Masc]|Gloss=playing.Masc|nWord=13|RX=[NOUN]
+12	wargiː	wargiː	NOUN	_	_	11	comp:aux	_	GE=[playing].[Masc]|Gloss=playing.Masc|nWord=13|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 14	irìn	irìː	NOUN	_	Definite=Def	12	mod	_	GE=[type].[Masc].[Def]|Gloss=type.Masc.Def|nWord=15|RX=[NOUN]
 15	na	na	PART	_	_	14	mod	_	GE=[PAn].[Masc/Plur]|Gloss=PAn.Masc/Plur|nWord=16|RX=[PART]
@@ -553,7 +553,7 @@
 3	lallèn	lallèː	NOUN	_	Definite=Def	2	udep	_	GE=[henna].[Masc].[Def]|Gloss=henna.Masc.Def|nWord=3|RX=[NOUN]
 4	bakwài	bakwài	NUM	_	_	6	comp:pred	_	GE=seven|Gloss=seven|nWord=4|RX=[NUM]
 5	gùdaː	gùdaː	NUM	_	_	4	flat@num	_	GE=one|Gloss=one|nWord=5|RX=[NUM]
-6	nèː	nèː	PredPART	_	_	1	comp:obj	_	GE=[Id/Loc]|Gloss=Id/Loc|nWord=6|RX=[IDPART]
+6	nèː	neː	PredPART	_	_	1	comp:obj	_	GE=[Id/Loc]|Gloss=Id/Loc|nWord=6|RX=[IDPART]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	dà	dà	SCONJ	_	_	15	mod	_	GE=when|Gloss=when|nWord=8|RX=[SCONJ]
 9	an	yaː	AUX	_	Aspect=Perf	8	comp:obj	_	GE=[4].[Perf]|Gloss=4.Perf|nWord=9|RX=[AUX]
@@ -684,11 +684,11 @@
 # text = sunàː mà sàmàːriː kiràːrìː sunàː mà ’yam maːtaː .
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
-1	sunàː	sunàː	AUX	_	Aspect=Imp	0	root	_	Gloss=3Pl.Prog
+1	sunàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=3Pl.Prog.do
 2	mà	mà	ADP	_	_	1	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=31|RX=[ADP]
 3	sàmàːriː	sàmàːriː	NOUN	_	_	2	comp:obj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=32|RX=[NOUN]
 4	kiràːrìː	kiràːrìː	NOUN	_	_	1	comp:pred	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=33|RX=[NOUN]
-5	sunàː	sunàː	AUX	_	Aspect=Imp	1	parataxis@conj	_	Gloss=3.Pl.Prog|nWord=34
+5	sunàː	nàː	AUX	_	Aspect=Prog	1	parataxis@conj	_	Gloss=3.Pl.Prog.do|nWord=34
 6	mà	mà	ADP	_	_	5	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=36|RX=[ADP]
 7	’yam	’yan	ADJ	_	_	6	comp:obj	_	GE=[young].[Plur]|Gloss=young.Plur|nWord=37|RX=[ADJ]
 8	maːtaː	maːtaː	NOUN	_	_	7	compound	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=38|RX=[NOUN]
@@ -953,7 +953,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	in	in	SCONJ	_	_	17	mod	_	GE=if|Gloss=if|nWord=7|RX=[SCONJ]
 8	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	9	comp:pred	_	GE=[cuddling].[Masc]|Gloss=cuddling.Masc|nWord=8|RX=[NOUN]
-9	nèː	nèː	PredPART	_	_	7	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=9|RX=[IDPART]
+9	nèː	neː	PredPART	_	_	7	comp:obj	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=9|RX=[IDPART]
 10	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	in	in	SCONJ	_	_	17	mod	_	GE=if|Gloss=if|nWord=11|RX=[SCONJ]
 12	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	11	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=12|RX=[AUX]
@@ -1754,7 +1754,7 @@
 36	bàː	bàː	PART	_	_	37	mod	_	GE=[Neg]|Gloss=Neg|nWord=37|RX=[PART]
 37	s'àːrìnci	s'àːrìnci	NOUN	_	_	39	comp:pred	_	GE=[fornication].[Masc]|Gloss=fornication.Masc|nWord=38|RX=[NOUN]
 38	ba	ba	PART	_	_	37	mod	_	GE=[Neg]|Gloss=Neg|nWord=39|RX=[PART]
-39	nèː	nèː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
+39	nèː	neː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=40|RX=[IDPART]
 40	,	,	PUNCT	_	_	41	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
 41	yaː	yaː	AUX	_	Aspect=Perf	39	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=42|RX=[AUX]
 42	zan	zama	VERB	_	_	41	comp:aux	_	GE=become|Gloss=become|nWord=43|RX=[VERB]
@@ -2550,7 +2550,7 @@
 54	shì	ø	AUX	_	Aspect=Aor	53	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=54|RX=[AUX]
 55	,	,	PUNCT	_	_	56	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=55|RX=[PUNCT]
 56	koː	koː	SCONJ	_	_	53	mod	_	GE=even_if|Gloss=even_if|nWord=56|RX=[SCONJ]
-57	shinàː	nàː	AUX	_	Aspect=Prog	56	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog.[do]|nWord=57|RX=[AUX]|wordform=shìnàː
+57	shinàː	nàː	AUX	_	Aspect=Prog	56	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog.do|nWord=57|RX=[AUX]|wordform=shìnàː
 58	mutà	mutà	PRON	_	_	57	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=58|RX=[PRON]
 59	ɗùmiː	ɗùmiː	NOUN	_	_	57	comp:pred	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=59|RX=[NOUN]
 60	.	.	PUNCT	_	_	52	punct	_	Gloss=.|nWord=60|RX=[PUNCT]
@@ -2668,7 +2668,7 @@
 12	dut	dukà	DET	_	_	13	det	_	GE=all|Gloss=all|nWord=12|RX=[DET]
 13	tàbiː’àssù	tàbiː’àːsù	NOUN	_	Definite=Cons	15	subj	_	GE=[custom].[Fem]|Gloss=custom.Fem.3Plur.Poss|nWord=13|RX=[NOUN]|wordform=tàbiː’à
 14	ɗai	ɗai	ADJ	_	_	15	comp:pred	_	GE=same|Gloss=same|nWord=14|RX=[ADJ]
-15	cèː	cèː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=15|RX=[IDPART]
+15	cèː	neː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc.Fem|nWord=15|RX=[IDPART]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	kàmat	kàmar̃	ADP	_	_	15	mod	_	GE=like|Gloss=like|nWord=17|RX=[ADP]
 18	ta	ta	PART	_	_	17	comp:obj	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=18|RX=[PART]

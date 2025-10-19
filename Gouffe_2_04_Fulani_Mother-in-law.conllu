@@ -32,7 +32,7 @@
 # text = shinàː dà màːtashshì.
 # text_en = He has a wife.
 # text_ortho = ši nàa dà màataššì.
-1	shinàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=1|RX=[AUX]
+1	shinàː	nàː*	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Ma.Pred/Loc|nWord=1|RX=[AUX]
 2	dà	dà	ADP	_	_	1	comp:pred	_	GE=with|Gloss=with|nWord=2|RX=[ADP]
 3	màːtashshì	màːtaːshì	NOUN	_	Definite=Cons	2	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=3|RX=[NOUN]|wordform=màːta
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=4|RX=[PUNCT]
@@ -372,7 +372,7 @@
 # text = sunàː nan s'àis'àye , dà shiː dà sàràkkuwaː .
 # text_en = They were standing there, him and the mother-in-law.
 # text_ortho = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
-1	sunàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Prog|nWord=1|RX=[AUX]
+1	sunàː	nàː*	AUX	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Pl.Pred/Loc|nWord=1|RX=[AUX]
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[ADV]
 3	s'àis'àye	s'ayàː	VERB	_	_	2	mod	_	GE=[stop].[Plur].[Stat]|Gloss=stop.Plur.Stat|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
