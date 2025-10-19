@@ -3488,9 +3488,9 @@
 25	shi	shi	PRON	_	_	24	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
 26	dà	dà	ADP	_	_	24	comp:pred	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 27	lâihiː	lâihiː	NOUN	_	_	26	comp:obj	_	GE=[fault].[Masc]|Gloss=fault.Masc|nWord=27|RX=[NOUN]
-28	,	,	PUNCT	_	_	29	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-29	kissàmmù	kissàmù	NOUN	_	Definite=Cons	24	mod	_	GE=[deception].[Fem]|Gloss=deception.Fem.1Plur.Poss|nWord=29|RX=[NOUN]|wordform=kissà
-30	ceː	ceː	FocPART	_	_	29	discourse@foc	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=30|RX=[PART]
+28	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
+29	kissàmmù	kissàmù	NOUN	_	Definite=Cons	30	comp:pred	_	GE=[deception].[Fem]|Gloss=deception.Fem.1Plur.Poss|nWord=29|RX=[NOUN]|wordform=kissà
+30	ceː	ceː	FocPART	_	_	24	parataxis@conj	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=30|RX=[PART]
 31	ta	ta	PART	_	_	29	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=31|RX=[PART]
 32	maːtaː	maːtaː	NOUN	_	_	31	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=32|RX=[NOUN]
 33	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=33|RX=[PUNCT]
@@ -4347,8 +4347,8 @@
 # text_ortho = yac ceè kissàkkù cee ta maataa.
 1	yac	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
-3	kissàkkù	kissàkù	NOUN	_	Definite=Cons	2	comp:obj@T	_	GE=[deception].[Fem]|Gloss=deception.Fem.2Plur.Poss|nWord=3|RX=[NOUN]|wordform=kissà
-4	ceː	ceː	FocPART	_	_	3	discourse@foc	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=4|RX=[PART]
+3	kissàkkù	kissàkù	NOUN	_	Definite=Cons	4	comp:pred	_	GE=[deception].[Fem]|Gloss=deception.Fem.2Plur.Poss|nWord=3|RX=[NOUN]|wordform=kissà
+4	ceː	ceː	PredPART	_	_	2	comp:obj	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=4|RX=[PART]
 5	ta	ta	PART	_	_	3	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=5|RX=[PART]
 6	maːtaː	maːtaː	NOUN	_	_	5	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=6|RX=[NOUN]
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=7|RX=[PUNCT]
@@ -4408,9 +4408,9 @@
 23	cikin	cikin	ADP	_	_	18	mod	_	GE=in(side)|Gloss=in(side)|nWord=23|RX=[ADP]
 24	màganàn	màganàː	NOUN	_	Definite=Def	23	comp:obj	_	GE=[talk].[Fem].[Def]|Gloss=talk.Fem.Def|nWord=24|RX=[NOUN]
 25	nan	nan	DET	_	_	24	det	_	GE=[Dist]|Gloss=Dist|nWord=25|RX=[DET]
-26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-27	kissàmmù	kissàmù	NOUN	_	Definite=Cons	18	parataxis@conj	_	GE=[deception].[Fem]|Gloss=deception.Fem.1Plur.Poss|nWord=27|RX=[NOUN]|wordform=kissà
-28	ceː	ceː	FocPART	_	_	27	discourse@foc	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=28|RX=[PART]
+26	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+27	kissàmmù	kissàmù	NOUN	_	Definite=Cons	28	comp:pred	_	GE=[deception].[Fem]|Gloss=deception.Fem.1Plur.Poss|nWord=27|RX=[NOUN]|wordform=kissà
+28	ceː	ceː	PredPART	_	_	18	parataxis@conj	_	GE=[Ident/Loc].[Fem]|Gloss=Ident/Loc.Fem|nWord=28|RX=[PART]
 29	ta	ta	PART	_	_	27	mod	_	GE=[PAn].[Fem]|Gloss=PAn.Fem|nWord=29|RX=[PART]
 30	maːtaː	maːtaː	NOUN	_	_	29	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=30|RX=[NOUN]
 31	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
