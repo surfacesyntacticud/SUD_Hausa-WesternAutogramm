@@ -19,7 +19,7 @@
 2	làːbaːr̃ìn	làːbaːr̃ìː	NOUN	_	Definite=Cons	1	conj:appos	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=3|RX=[NOUN]|wordform=làːbaːr̃ì
 3	zuːgàl	zuːgàl	NOUN	_	_	2	mod	_	GE=love_charm|Gloss=love_charm|nWord=4|RX=[PROPN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-5	shinàː	nàː	PredPART	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=6|RX=[PRON]|wordform=shi
+5	shinàː	nàː*	AUX	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=6|RX=[PRON]|wordform=shi
 6	dà	dà	ADP	_	_	5	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
 7	yawàː	yawàː	NOUN	_	_	6	comp:obj	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=8|RX=[NOUN]
 8	don	don	SCONJ	_	_	5	mod	_	GE=because|Gloss=because|nWord=9|RX=[SCONJ]
@@ -606,7 +606,7 @@
 # text_ortho = ’im màccè ta nàa dà mijìi, ’in yam mutù, baà ta yiǹ wani hat tà mutù.
 1	im	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	màccè	màccè	NOUN	_	_	3	subj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=2|RX=[NOUN]
-3	tanàː	nàː	PredPART	_	_	1	comp:obj	_	Gloss=3Fem.Pred/Loc|nWord=3
+3	tanàː	nàː*	AUX	_	_	1	comp:obj	_	Gloss=3Fem.Pred/Loc|nWord=3
 4	dà	dà	ADP	_	_	3	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
 5	mijìː	mijìː	NOUN	_	_	4	comp:obj	_	GE=husband/male|Gloss=husband/male|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -846,7 +846,7 @@
 9	gàːrîn	gàːriː	NOUN	_	Definite=Def	8	comp:obj	_	GE=[powder].[Masc].[Def]|Gloss=powder.Masc.Def|nWord=9|RX=[NOUN]
 10	nan	nan	DET	_	_	9	det	_	GE=[Dist]|Gloss=Dist|nWord=10|RX=[DET]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	shinàː	nàː	PredPART	_	_	7	parataxis	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=12|RX=[PRON]|wordform=shi
+12	shinàː	nàː*	AUX	_	_	7	parataxis	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=12|RX=[PRON]|wordform=shi
 13	wuriːnai	wuriːnai	NOUN	_	_	12	comp:pred	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=13|RX=[NOUN]|wordform=wuriː
 14	koːdàwanè	koːdàwanè	DET	_	_	15	det	_	GE=each|Gloss=each|nWord=14|RX=[DET]
 15	loːkàciː	loːkàciː	NOUN	_	_	12	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=15|RX=[NOUN]
@@ -1588,7 +1588,7 @@
 10	dà	dà	CCONJ	_	_	11	cc	_	GE=and|Gloss=and|nWord=10|RX=[CCONJ]
 11	bishshiyaː	bishshiyaː	NOUN	_	_	8	conj:coord	_	GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	sunàː	nàː	PredPART	_	_	0	root	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=13|RX=[PRON]|wordform=su
+13	sunàː	nàː*	AUX	_	_	0	root	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=13|RX=[PRON]|wordform=su
 14	dà	dà	ADP	_	_	13	comp:pred	_	GE=with|Gloss=with|nWord=15|RX=[ADP]
 15	tàbiː’àː	tàbiː’àː	NOUN	_	_	14	comp:obj	_	GE=[custom].[Fem]|Gloss=custom.Fem|nWord=16|RX=[NOUN]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
@@ -2168,7 +2168,7 @@
 13	shì	ø	AUX	_	Aspect=Aor	8	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=13|RX=[AUX]
 14	niƙèː	niƙèː	VERB	_	_	13	comp:aux	_	GE=grind|Gloss=grind|nWord=14|RX=[VERB]
 15	tun	tun	SCONJ	_	_	14	mod	_	GE=since|Gloss=since|nWord=15|RX=[SCONJ]
-16	tanàː	nàː	PredPART	_	_	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem.Pred/Loc|nWord=16|RX=[PRON]|wordform=ta
+16	tanàː	nàː*	AUX	_	_	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem.Pred/Loc|nWord=16|RX=[PRON]|wordform=ta
 17	dà	dà	ADP	_	_	16	comp:pred	_	GE=with|Gloss=with|nWord=18|RX=[ADP]
 18	damshiː	damshiː	NOUN	_	_	17	comp:obj	_	GE=[moistness].[Masc]|Gloss=moistness.Masc|nWord=19|RX=[NOUN]
 19	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=20|RX=[PUNCT]
@@ -3439,7 +3439,7 @@
 15	waddà	waddà	PRON	_	PronType=Rel	17	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=15|RX=[PRON]
 16	ankà	(n)kà	AUX	_	Aspect=PerfBkg	12	mod@relcl	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=16|RX=[AUX]
 17	hàihwaː	hàihwaː	VERB	_	_	16	comp:aux	_	GE=give_birth|Gloss=give_birth|nWord=17|RX=[VERB]
-18	tanàː	nàː	PredPART	_	_	16	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=18|RX=[AUX]|wordform=ta
+18	tanàː	nàː*	AUX	_	_	16	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Pred/Loc|nWord=18|RX=[AUX]|wordform=ta
 19	yaƙ	ɗan	ADV	_	_	20	mod	_	GE=[little].[Fem]|Gloss=little.Fem|nWord=19|RX=[ADJ]
 20	ƙàramaː	ƙàramaː	ADJ	_	_	18	comp:pred	_	GE=[small].[Fem]|Gloss=small.Fem|nWord=20|RX=[ADJ]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
@@ -6887,7 +6887,7 @@
 8	ajèː	ajèː	VERB	_	_	7	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=8|RX=[VERB]
 9	shi	shi	PRON	_	_	8	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	yanàː	nàː	PredPART	_	_	7	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=11|RX=[PRON]|wordform=ya
+11	yanàː	nàː*	AUX	_	_	7	parataxis@conj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=11|RX=[PRON]|wordform=ya
 12	kusa	kusa	ADV	_	_	11	comp:pred	_	GE=near|Gloss=near|nWord=12|RX=[ADV]
 13	gàreː	gàreː	ADP	_	_	12	mod	_	GE=at|Gloss=at|nWord=13|RX=[ADP]
 14	shì	shi	PRON	_	_	13	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=14|RX=[PRON]

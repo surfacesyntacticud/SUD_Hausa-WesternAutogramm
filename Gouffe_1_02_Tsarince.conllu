@@ -29,7 +29,7 @@
 13	yawàː	yawàː	NOUN	_	_	12	comp:obj	_	GE=quantity|Gloss=quantity|nWord=14|RX=[NOUN]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 15	wa’àndà	wa’àndà	PRON	_	PronType=Rel	16	subj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=16|RX=[PRON]
-16	sukè	kè	PredPART	_	_	11	mod@relcl	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc.Bkg|nWord=17|RX=[PRON]|wordform=su
+16	sukè	kè	AUX	_	_	11	mod@relcl	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc.Bkg|nWord=17|RX=[PRON]|wordform=su
 17	dàban	dàban	ADV	_	_	16	comp:pred	_	GE=different|Gloss=different|nWord=19|RX=[ADV]
 18	dàban	dàban	ADV	_	_	17	conj:redup	_	GE=different|Gloss=different|nWord=20|RX=[ADV]
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
@@ -163,7 +163,7 @@
 6	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=6|RX=[PART]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=8|RX=[SCONJ]
-9	sunàː	nàː	PredPART	_	_	8	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=9|RX=[PRON]|wordform=su
+9	sunàː	nàː*	AUX	_	_	8	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=9|RX=[PRON]|wordform=su
 10	hwageː	hwageː	NOUN	_	_	9	comp:pred	_	GE=[open_space].[Masc]|Gloss=open_space.Masc|nWord=11|RX=[NOUN]
 11	sunàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Prog|nWord=12|RX=[AUX]
 12	wargiː	wargiː	NOUN	_	_	11	comp:pred	_	GE=[playing].[Masc]|Gloss=playing.Masc|nWord=13|RX=[NOUN]
@@ -1183,7 +1183,7 @@
 8	nan	nan	DET	_	_	7	det	_	GE=[Dist]|Gloss=Dist|nWord=8|RX=[DET]
 9	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	in	in	SCONJ	_	_	16	mod	_	GE=if|Gloss=if|nWord=10|RX=[SCONJ]
-11	shinàː	nàː	PredPART	_	_	10	comp:obj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=11|RX=[PRON]|wordform=shi
+11	shinàː	nàː*	AUX	_	_	10	comp:obj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=11|RX=[PRON]|wordform=shi
 12	dà	dà	ADP	_	_	11	comp:pred	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 13	kuɗiː	kuɗiː	NOUN	_	_	12	comp:obj	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=14|RX=[NOUN]
 14	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
@@ -2241,7 +2241,7 @@
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	GE=see|Gloss=see|nWord=13|RX=[VERB]
 14	indà	indà	PRON	_	_	13	comp:obj	_	GE=where|Gloss=where|nWord=14|RX=[ADV]
 15	bùdurwaː	bùdurwaː	NOUN	_	_	16	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=15|RX=[NOUN]
-16	takè	kè	PredPART	_	_	14	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg
+16	takè	kè	AUX	_	_	14	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_63-63
@@ -2256,7 +2256,7 @@
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see|nWord=3|RX=[VERB]
 4	indà	indà	PRON	_	_	3	comp:obj	_	GE=where|Gloss=where|nWord=4|RX=[ADV]
 5	bùdurwaː	bùdurwaː	NOUN	_	_	6	subj	_	GE=[girl].[Fem]|Gloss=girl.Fem|nWord=5|RX=[NOUN]
-6	takè	kè	PredPART	_	_	4	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg|nWord=6
+6	takè	kè	AUX	_	_	4	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg|nWord=6
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
 9	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=10|RX=[AUX]

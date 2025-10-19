@@ -37,7 +37,7 @@
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	wannàn	DET	_	_	2	det	_	GE=[Prox].[Masc]|Gloss=Prox.Masc|nWord=1|RX=[PRON]
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	GE=one|Gloss=one|nWord=2|RX=[NUM]
-3	shinàː	nàː	PredPART	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Pred/Loc|nWord=3|RX=[AUX]
+3	shinàː	nàː*	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Pred/Loc|nWord=3|RX=[AUX]
 4	dà	dà	ADP	_	_	3	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
 5	doːkìː	doːkìː	NOUN	_	_	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -113,7 +113,7 @@
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	15	mod	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons	3	subj	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=2|RX=[NOUN]|wordform=mijì
-3	nàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
+3	nàː	nàː*	AUX	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
 4	nan	nan	ADV	_	_	3	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -176,7 +176,7 @@
 # text = anà nan zaman duːniyàː , kullun tanàː mai hakànan , ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
-1	anà	nàː	PredPART	_	_	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
+1	anà	nàː*	AUX	_	_	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=3|RX=[ADV]
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	_	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
@@ -373,7 +373,7 @@
 # text = shinàː bisà doːkìː , yac cim mà màːtaːtai , sai yaƙ ƙiyàː mutà màganàː , sai yaw wucèː ta .
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
-1	shinàː	nàː	PredPART	_	_	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
+1	shinàː	nàː*	AUX	_	_	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
 2	bisà	bisà	ADP	_	_	1	comp:pred	_	GE=on_top_of|Gloss=on_top_of|nWord=3|RX=[ADP]
 3	doːkìː	doːkìː	NOUN	_	_	2	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -1251,7 +1251,7 @@
 # text_en = As they were home, the rider arrived and made his horse slide.
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	sunàː	nàː	PredPART	_	_	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
+2	sunàː	nàː*	AUX	_	_	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
 3	nan	nan	ADV	_	_	2	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[ADV]
 4	gidaː	gidaː	NOUN	_	_	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
