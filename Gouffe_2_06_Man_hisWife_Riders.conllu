@@ -193,7 +193,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 7000, 8000
-# text = rân nan sai tay yi niyyàː , zâː ta tàhiyàː wurim bìkiː , can gidan dangìntà .
+# text = rân nan sai tay yi niyyàː , zâːta tàhiyàː wurim bìkiː , can gidan dangìntà .
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
 1	rân	raːnaː	NOUN	_	Definite=Def	4	mod	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
@@ -203,16 +203,15 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
 6	niyyàː	niyyàː	NOUN	_	_	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	zâː	zâː	PredPART	_	Tense=Fut	4	parataxis@conj	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
-9	ta	ta	PRON	_	_	8	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
-10	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
-11	wurim	wurin	ADP	_	Definite=Cons	10	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
-12	bìkiː	bìkiː	NOUN	_	_	11	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
-13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	can	can	ADV	_	_	11	mod	_	GE=[Dist]|Gloss=Dist|nWord=14|RX=[ADV]
-15	gidan	gidaː	NOUN	_	Definite=Cons	14	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=15|RX=[NOUN]|wordform=gida
-16	dangìntà	dangìːtà	NOUN	_	Definite=Cons	15	mod	_	GE=[relatives].[Masc]|Gloss=relatives.Masc.3Fem.Poss|nWord=16|RX=[NOUN]|wordform=dangì
-17	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
+8	zâːta	zâː	AUX	_	Tense=Fut	4	parataxis@conj	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=8|RX=[AUX]
+9	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
+10	wurim	wurin	ADP	_	Definite=Cons	9	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
+11	bìkiː	bìkiː	NOUN	_	_	10	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
+12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+13	can	can	ADV	_	_	10	mod	_	GE=[Dist]|Gloss=Dist|nWord=14|RX=[ADV]
+14	gidan	gidaː	NOUN	_	Definite=Cons	13	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=15|RX=[NOUN]|wordform=gida
+15	dangìntà	dangìːtà	NOUN	_	Definite=Cons	14	mod	_	GE=[relatives].[Masc]|Gloss=relatives.Masc.3Fem.Poss|nWord=16|RX=[NOUN]|wordform=dangì
+16	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_09 BC_HAU_Gouffé_2_06_Riders_10
 # speaker_id = *
