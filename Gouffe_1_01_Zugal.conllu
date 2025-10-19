@@ -557,7 +557,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 22000, 23000
-# text = à bìɗi kaːshin kùmàːr̃âi , wandà as sàhiːhìː , à ɗeːboː shi , à ajèː , sabòːdà shiː kùmàːr̃âi , in ya nàː dà màːtaː , in tam mutù , bâːshi yîn wata har̃ shì mutù .
+# text = à bìɗi kaːshin kùmàːr̃âi , wandà as sàhiːhìː , à ɗeːboː shi , à ajèː , sabòːdà shiː kùmàːr̃âi , in yanàː dà màːtaː , in tam mutù , bâːshi yîn wata har̃ shì mutù .
 # text_en = You look for crown-bird faeces, good one, take it, put it aside, because the crownbird, if it has a female, it she dies, he does not get another one until he dies.
 # text_ortho = ’à bìɗi kaašin kùmàaraì, wandà ’as sàhiihìi, ’à ɗeeboo šì, ’à ’ajèe - sabòo dà šii kùmàaraì, ’in ya nàa dà màataa, ’in tam mutù, baà ši yiǹ wata haš šì mutù.
 1	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=1|RX=[AUX]
@@ -581,7 +581,7 @@
 19	kùmàːr̃âi	kùmàːr̃âi	NOUN	_	_	18	conj:appos	_	GE=[crown-bird].[Masc]|Gloss=crown-bird.Masc|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	in	in	SCONJ	_	_	30	mod	_	GE=if|Gloss=if|nWord=21|RX=[SCONJ]
-22	yanàː	nàː	PredPART	_	_	21	comp:obj	_	GE=[3Masc]|Gloss=3Masc.3Masc.Imp|nWord=22|RX=[PRON]|wordform=ya
+22	yanàː	nàː*	PredPART	_	_	21	comp:obj	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc|nWord=22|RX=[PRON]|wordform=ya
 23	dà	dà	ADP	_	_	22	comp:pred	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	màːtaː	màːtaː	NOUN	_	_	23	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=24|RX=[NOUN]
 25	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]

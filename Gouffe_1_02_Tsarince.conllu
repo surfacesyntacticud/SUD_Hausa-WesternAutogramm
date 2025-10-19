@@ -1121,10 +1121,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 29000, 30000
-# text = sunàː nan sunàː yîn hakà nan , har̃ sù yi kwaːnaː .
+# text = sunàː nan sunàː yîn hakànan , har̃ sù yi kwaːnaː .
 # text_en = Here they are doing like that, until they fall asleep.
 # text_ortho = su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
-1	sunàː	nàː	PredPART	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Loc/Pred|nWord=19|RX=[AUX]
+1	sunàː	nàː*	PredPART	_	_	0	root	_	GE=[3Plur].[Imp]|Gloss=3Plur.Pred/Loc|nWord=19|RX=[AUX]
 2	nan	nan	ADV	_	_	1	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=20|RX=[ADV]
 3	sunàː	nàː	AUX	_	Aspect=Prog	1	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Prog|nWord=21|RX=[AUX]
 4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=22|RX=[VERB]|wordform=yî
