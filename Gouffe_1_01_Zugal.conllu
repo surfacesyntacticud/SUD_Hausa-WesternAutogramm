@@ -35,10 +35,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 3000, 4000
-# text = àkwài wandà mazaː kà yîː, don sù màllàki maːtaː.
+# text = àkwai wandà mazaː kà yîː , don sù màllàki maːtaː .
 # text_en = There is the one that men are doing to control women.
 # text_ortho = ’àkwài wandà mazaa kà yiì, don sù màllàki maazaa.
-1	àkwài	àkwài	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
+1	àkwai	àkwai	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
 2	wandà	wandà	PRON	_	PronType=Rel	1	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
 3	mazaː	mazaː	NOUN	_	_	4	subj	_	GE=[husband].[Plur]|Gloss=husband.Plur|nWord=3|RX=[NOUN]
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=4|RX=[AUX]
@@ -88,10 +88,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 5000, 6000
-# text = àkwài wandà maːtaː kà yîː, don sù màllàki mazaː.
+# text = àkwai wandà maːtaː kà yîː , don sù màllàki mazaː .
 # text_en = There is the one that women are doing to control men.
 # text_ortho = ’àkwài wandà maataa kà yiì, don sù màllàki maazaa.
-1	àkwài	àkwài	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
+1	àkwai	àkwai	PredPART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
 2	wandà	wandà	PRON	_	PronType=Rel	1	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
 3	maːtaː	maːtaː	NOUN	_	_	4	subj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=3|RX=[NOUN]
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=4|RX=[AUX]
@@ -441,7 +441,7 @@
 11	jìbdàː	jìbdàː	NOUN	_	_	10	mod	_	GE=[musk].[Fem]|Gloss=musk.Fem|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	wandà	wandà	PRON	_	PronType=Rel	10	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
-14	bâː	bâː	PredPART	_	_	13	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=14|RX=[PREDPART]
+14	bâː	bâː	PredPART	_	_	13	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=14|RX=[PREDPART]
 15	gamìː	gamìː	NOUN	_	_	14	subj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=15|RX=[NOUN]
 16	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 
@@ -994,7 +994,7 @@
 3	ganai	ganiːai	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see.-3Masc|nWord=3|RX=[VERB]|wordform=gan
 4	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=4|RX=[PART]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	bâː	bâː	PredPART	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=Neg.Pred/Loc|nWord=6|RX=[AUX]
+6	bâː	bâː	PredPART	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=there_is.Neg|nWord=6|RX=[AUX]
 7	ta	ta	PRON	_	_	6	subj	_	Gloss=3Fem
 8	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
 9	hankàliː	hankàliː	NOUN	_	_	8	comp:obj	_	GE=[sense].[Masc]|Gloss=sense.Masc|nWord=8|RX=[NOUN]
@@ -1464,7 +1464,7 @@
 8	jibdàː	jibdàː	NOUN	_	_	7	comp:obj	_	GE=[musk].[Fem]|Gloss=musk.Fem|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	waddà	waddà	PRON	_	PronType=Rel	8	conj:appos	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
-11	bâː	bâː	PredPART	_	_	10	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=11|RX=[PREDPART]
+11	bâː	bâː	PredPART	_	_	10	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=11|RX=[PREDPART]
 12	ta	ta	PRON	_	_	11	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=12|RX=[PRON]
 13	dà	dà	ADP	_	_	11	comp:pred	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14	gamìː	gamìː	NOUN	_	_	13	comp:obj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=14|RX=[NOUN]
@@ -1750,7 +1750,7 @@
 26	dà	dà	ADP	_	_	25	comp:obl	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 27	mùtun	mùtun	NOUN	_	_	26	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=27|RX=[NOUN]
 28	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-29	bâː	bâː	PredPART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=29|RX=[PREDPART]
+29	bâː	bâː	PredPART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=29|RX=[PREDPART]
 30	wandà	wandà	PRON	_	PronType=Rel	29	comp:pred	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=30|RX=[PRON]
 31	ya’	(n)kà	AUX	_	Aspect=PerfBkg	30	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=31|RX=[AUX]
 32	iyà	iyàː	VERB	_	_	31	comp:aux	_	GE=be_able|Gloss=be_able|nWord=32|RX=[VERB]
@@ -1868,7 +1868,7 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	shiː	shiː	PRON	_	_	23	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=24|RX=[PRON]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	bâː	bâː	PredPART	_	_	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=26|RX=[PREDPART]
+26	bâː	bâː	PredPART	_	_	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=26|RX=[PREDPART]
 27	ruwantà	ruwaːtà	NOUN	_	Definite=Cons	26	subj	_	GE=[water].[Plur]|Gloss=water.Plur.3Fem.Poss|nWord=27|RX=[NOUN]|wordform=ruwa
 28	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=28|RX=[ADP]
 29	koːwaː	koːwaː	PRON	_	_	28	comp:obj	_	GE=everyone|Gloss=everyone|nWord=29|RX=[PRON]
@@ -3253,7 +3253,7 @@
 19	kubcèː	kubcèː	VERB	_	_	18	comp:aux	_	GE=drop|Gloss=drop|nWord=19|RX=[VERB]
 20	mutà	mutà	PRON	_	_	19	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=20|RX=[PRON]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	bâː	bâː	PredPART	_	_	18	parataxis@conj	_	GE=[3Fem].[Imp].[Neg]|Gloss=Neg.Pred/Loc|nWord=22|RX=[AUX]
+22	bâː	bâː	PredPART	_	_	18	parataxis@conj	_	GE=[3Fem].[Imp].[Neg]|Gloss=there_is.Neg|nWord=22|RX=[AUX]
 23	ta	ta	PRON	_	_	22	subj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem|nWord=22|RX=[AUX]
 24	dà	dà	ADP	_	_	22	comp:pred	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 25	wata	wata	DET	_	_	26	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=24|RX=[DET]
@@ -4633,7 +4633,7 @@
 9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=9|RX=[VERB]
 10	hwaɗàː	hwaɗàː	NOUN	_	_	9	comp:pred	_	GE=[fight].[Fem]|Gloss=fight.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	taː	taː	AUX	_	Aspect=Perf	8	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf.[do]|nWord=12|RX=[AUX]
+12	taː	yaː	AUX	_	Aspect=Perf	8	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf.[do]|nWord=12|RX=[AUX]
 13	makà	makà	PRON	_	_	12	comp:obl	_	GE=[2Masc].[Dat]|Gloss=2Masc.Dat|nWord=13|RX=[PRON]
 14	hushiː	hushiː	NOUN	_	_	12	comp:pred	_	GE=[anger].[Masc]|Gloss=anger.Masc|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
@@ -5601,7 +5601,7 @@
 16	aikìː	aikìː	NOUN	_	_	15	comp:pred	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=16|RX=[NOUN]
 17	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
 18	ɗàriː	ɗàriː	NUM	_	_	17	comp:obj	_	GE=hundred|Gloss=hundred|nWord=18|RX=[NUM]
-19	bâː	bâː	PredPART	_	_	18	flat@num	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=19|RX=[PREDPART]
+19	bâː	bâː	PredPART	_	_	18	flat@num	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=19|RX=[PREDPART]
 20	ɗaya	ɗaya	NUM	_	_	19	flat@num	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -5614,7 +5614,7 @@
 # text_ortho = ɗàᵲiǹ nan baà ɗàya, ’in ’ankà ɗèebee tà, sai ’à gamàa ta dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa, ’à gamèe su wuᵲii gùdaa ’à dakèe.
 1	ɗàrîn	ɗàriː	NUM	_	Definite=Def	12	dislocated@comp	_	GE=[hundred].[Masc].[Def]|Gloss=hundred.Masc.Def|nWord=1|RX=[NUM]
 2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
-3	bâː	bâː	PredPART	_	_	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=Pred/Loc.Neg|nWord=3|RX=[PREDPART]
+3	bâː	bâː	PredPART	_	_	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|RX=[PREDPART]
 4	ɗaya	ɗaya	NUM	_	_	3	comp:pred	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
