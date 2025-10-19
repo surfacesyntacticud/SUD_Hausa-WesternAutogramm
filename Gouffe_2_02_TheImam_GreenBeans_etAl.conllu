@@ -2816,17 +2816,17 @@
 # text = baːyan kaː tàhi kèːnan , can wurin iːdì: , sarkiː ya’ aikoː dà doːkì: , à kaːwoː makà .
 # text_en = Right after you went there to the ceremony, the chief has sent a horse to give you.
 # text_ortho = baayan kaa tàhi kèe nan, can wuᵲin ’iidìi, saᵲkii ya’ ’aikoo dà dookìi, ’à kaawoo maa.
-1	baːyan	baːyan	SCONJ	_	Definite=Cons	11	mod	_	GE=after|Gloss=after|nWord=1|RX=[SCONJ]
+1	baːyan	baːyan	SCONJ	_	Definite=Cons	4	comp:pred	_	GE=after|Gloss=after|nWord=1|RX=[SCONJ]
 2	kaː	yaː	AUX	_	Aspect=Perf	1	comp:obj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=2|RX=[AUX]
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	GE=go|Gloss=go|nWord=3|RX=[VERB]
-4	kèːnan	kèːnan	FocPART	_	_	1	discourse@foc	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=4|RX=[IDPART]
-5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	can	can	ADV	_	_	11	mod	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
+4	kèːnan	kèːnan	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=Id/Foc|nWord=4|RX=[IDPART]
+5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
+6	can	can	ADV	_	_	3	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
 7	wurin	wurin	ADP	_	_	6	mod	_	Gloss=at
 8	iːdì:	iːdì:	NOUN	_	_	7	comp:obj	_	GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=8|RX=[NOUN]
-9	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+9	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	sarkiː	sarkiː	NOUN	_	_	11	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=10|RX=[NOUN]
-11	ya’	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=11|RX=[AUX]
+11	ya’	(n)kà	AUX	_	Aspect=PerfBkg	4	comp:cleft	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=11|RX=[AUX]
 12	aikoː	àikaː	VERB	_	_	11	comp:aux	_	GE=send|Gloss=send.Dir|nWord=12|RX=[VERB]|wordform=aik
 13	dà	dà	ADP	_	_	12	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14	doːkì:	doːkì:	NOUN	_	_	13	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=14|RX=[NOUN]
@@ -2834,7 +2834,7 @@
 16	à	ø	AUX	_	Aspect=Aor	11	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=16|RX=[AUX]
 17	kaːwoː	kai	VERB	_	_	16	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to.Dir|nWord=17|RX=[VERB]|wordform=kaːw
 18	makà	makà	PRON	_	_	17	comp:obl	_	GE=[2Masc].[Dat]|Gloss=2Masc.Dat|nWord=18|RX=[PRON]
-19	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
+19	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_096-096
 # speaker_id = *
