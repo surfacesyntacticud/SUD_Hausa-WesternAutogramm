@@ -335,7 +335,7 @@
 5	naɗìː	naɗìː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[wind].[Nmlz].[Masc]|Gloss=wind.Nmlz.Masc|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	don	don	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=7|RX=[SCONJ]
-8	kâm	kaɗà	PART	_	_	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=8|RX=[PART]
+8	kâm	kaɗà	PART	_	_	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=8|PartType=Neg|RX=[PART]
 9	màːtaːtai	màːtaːtai	NOUN	_	_	10	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=màːtaː
 10	tà	ø	AUX	_	Aspect=Aor	7	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=10|RX=[AUX]
 11	gaːnèː	gaːnèː	VERB	_	_	10	comp:aux	_	GE=understand/find_out|Gloss=understand/find_out|nWord=11|RX=[VERB]
@@ -415,7 +415,7 @@
 13	bàtà	bài	AUX	_	Aspect=PerfNeg	7	conj:coord	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=13|RX=[AUX]
 14	san	sanìː	VERB	_	_	13	comp:aux	_	GE=know|Gloss=know|nWord=14|RX=[VERB]
 15	mijìntà	mijìːtà	NOUN	_	Definite=Cons	17	comp:pred	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=15|RX=[NOUN]|wordform=mijì
-16	ba	ba	PART	_	_	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|RX=[PART]
+16	ba	ba	PART	_	_	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|PartType=Neg|RX=[PART]
 17	nèː	neː	PredPART	_	_	14	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=17|RX=[IDPART]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	ab	ak	PredPART	_	Background=Yes	17	comp:cleft	_	GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=19|RX=[IDPART]
@@ -452,7 +452,7 @@
 20	indà	indà	ADV	_	_	19	comp:obj	_	GE=where|Gloss=where|nWord=20|RX=[ADV]
 21	akà	kà	AUX	_	Aspect=ProgBkg	20	mod@relcl	_	Gloss=4.ProgBkg
 22	bìkiː	bìkiː	NOUN	_	_	21	comp:aux	_	GE=festivity|Gloss=festivity|nWord=22|RX=[NOUN]
-23	ba	ba	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=23|RX=[PART]
+23	ba	ba	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=23|PartType=Neg|RX=[PART]
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=24|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_18
@@ -519,7 +519,7 @@
 15	bàtà	bài	AUX	_	Aspect=PerfNeg	12	parataxis@mod	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=15|RX=[AUX]
 16	san	sanìː	VERB	_	_	15	comp:aux	_	GE=know|Gloss=know|nWord=16|RX=[VERB]
 17	shiː	shiː	PRON	_	_	19	comp:pred	_	GE=[3Masc]|Gloss=3Masc|nWord=17|RX=[PRON]
-18	ba	ba	PART	_	_	16	mod	_	GE=[Neg]|Gloss=Neg|nWord=18|RX=[PART]
+18	ba	ba	PART	_	_	16	mod	_	GE=[Neg]|Gloss=Neg|nWord=18|PartType=Neg|RX=[PART]
 19	neː	neː	PredPART	_	_	16	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=19|RX=[IDPART]
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	yay	(n)kà	AUX	_	Aspect=PerfBkg	12	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=21|RX=[AUX]
@@ -581,7 +581,7 @@
 25	bàtà	bài	AUX	_	Aspect=PerfNeg	20	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=26|RX=[AUX]
 26	san	saniː	VERB	_	_	25	comp:aux	_	Gloss=know
 27	mijìntà	mijìːtà	NOUN	_	Definite=Cons	29	comp:pred	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=28|RX=[NOUN]|wordform=mijì
-28	ba	ba	PART	_	_	26	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|RX=[PART]
+28	ba	ba	PART	_	_	26	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|PartType=Neg|RX=[PART]
 29	neː	neː	PredPART	_	_	26	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=30|RX=[IDPART]
 30	.	.	PUNCT	_	_	13	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
 
@@ -633,7 +633,7 @@
 11	wandà	wandà	PRON	_	PronType=Rel	13	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=12|RX=[PRON]
 12	bàtà	bài	AUX	_	Aspect=PerfNeg	9	mod@relcl	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=13|RX=[AUX]
 13	sanìː	sanìː	VERB	_	_	12	comp:aux	_	GE=know|Gloss=know|nWord=14|RX=[VERB]
-14	ba	ba	PART	_	_	13	mod	_	GE=[Neg]|Gloss=Neg|nWord=15|RX=[PART]
+14	ba	ba	PART	_	_	13	mod	_	GE=[Neg]|Gloss=Neg|nWord=15|PartType=Neg|RX=[PART]
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_24
@@ -1051,7 +1051,7 @@
 9	mutuwàː	mutuwàː	NOUN	_	_	8	udep	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	don	don	SCONJ	_	_	19	mod	_	GE=because|Gloss=because|nWord=11|RX=[SCONJ]
-12	kâɗ	kaɗà	PART	_	_	14	mod	_	GE=[Neg]|Gloss=Neg|nWord=12|RX=[PART]
+12	kâɗ	kaɗà	PART	_	_	14	mod	_	GE=[Neg]|Gloss=Neg|nWord=12|PartType=Neg|RX=[PART]
 13	ɗwai	ɗwai	NOUN	_	_	14	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=13|RX=[NOUN]
 14	shì	ø	AUX	_	Aspect=Aor	11	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
 15	kashèː	kashèː	VERB	_	_	14	comp:aux	_	GE=kill|Gloss=kill|nWord=15|RX=[VERB]
@@ -1194,7 +1194,7 @@
 10	bài	bài	AUX	_	Aspect=PerfNeg	9	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=10|RX=[AUX]
 11	zoː	zoː	VERB	_	_	10	comp:aux	_	GE=come|Gloss=come|nWord=11|RX=[VERB]
 12	koː’ìnaː	koː’ìnaː	PRON	_	_	11	comp:obj@G	_	GE=everywhere|Gloss=everywhere|nWord=12|RX=[PRON]
-13	ba	ba	PART	_	_	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=13|RX=[PART]
+13	ba	ba	PART	_	_	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=13|PartType=Neg|RX=[PART]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	ham	hat	SCONJ	_	_	4	mod	_	GE=until|Gloss=until|nWord=15|RX=[SCONJ]
 16	màcceːnai	màccenai	NOUN	_	_	17	subj	_	GE=[woman].[Fem]|Gloss=woman.Fem.3Masc.Poss|nWord=16|RX=[NOUN]|wordform=màcceː
@@ -1220,7 +1220,7 @@
 6	bàtà	bài	AUX	_	Aspect=PerfNeg	1	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=28|RX=[AUX]
 7	san	sanìː	VERB	_	_	6	comp:aux	_	GE=know|Gloss=know|nWord=29|RX=[VERB]
 8	shiː	shiː	PRON	_	_	10	comp:pred	_	GE=[3Masc]|Gloss=3Masc|nWord=30|RX=[PRON]
-9	ba	ba	PART	_	_	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|RX=[PART]
+9	ba	ba	PART	_	_	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|PartType=Neg|RX=[PART]
 10	neː	neː	PredPART	_	_	7	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=32|RX=[IDPART]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 12	yaz	(n)kà	AUX	_	Aspect=PerfBkg	10	comp:cleft	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=34|RX=[AUX]
@@ -1358,7 +1358,7 @@
 8	bùtum	bùtu	NOUN	_	Definite=Cons	7	udep	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
 9	mài	mài	PART	_	_	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
-11	ba	ba	PART	_	_	6	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|RX=[PART]
+11	ba	ba	PART	_	_	6	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|PartType=Neg|RX=[PART]
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_45_1
