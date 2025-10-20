@@ -1303,8 +1303,8 @@
 4	sônkà	sôːkà	VERB	_	Definite=Cons|ExtPos=NOUN	7	subj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc.2Masc.Poss|nWord=4|RX=[VERB]|wordform=sô
 5	ɗan	ɗan	ADV	_	_	6	mod	_	GE=small|Gloss=small|nWord=5|RX=[ADV]
 6	kàɗannà	kàɗannà	ADV	_	_	7	comp:pred	_	GE=small|Gloss=small|nWord=6|RX=[ADV]
-7	neː	neː	PredPART	_	_	3	comp:obj	_	GE=[Ident/Loc]|Gloss=be.Masc/Plur|nWord=7|RX=[IDPART]
-8	s'akaːninkà	s'akaːninkà	ADP	_	_	7	mod	_	GE=between|Gloss=between.2Masc.Poss|nWord=8|RX=[ADP]|wordform=s'akaːnin
+7	neː	neː	AUX	_	_	3	comp:obj	_	GE=[Ident/Loc]|Gloss=be.Masc/Plur|nWord=7|RX=[IDPART]
+8	s'akaːninkà	s'akaːninkà	ADP	_	_	4	comp:obl	_	GE=between|Gloss=between.2Masc.Poss|nWord=8|RX=[ADP]|wordform=s'akaːnin
 9	dà	dà	CCONJ	_	_	10	cc	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
 10	màccè	màccè	NOUN	_	_	8	conj:coord	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -2804,7 +2804,7 @@
 29	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 30	suː	suː	PRON	_	_	37	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=30|RX=[PRON]
 31	mùtun	mùtun	NOUN	_	_	32	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=31|RX=[NOUN]
-32	ab	ak	PredPART	_	Background=Yes	30	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=32|RX=[IDPART]
+32	ab	ak	AUX	_	Background=Yes	30	mod@relcl	_	GE=[Ident/Foc]|Gloss=Ident/Foc.Bkg|nWord=32|RX=[IDPART]
 33	bâːshi	bâi	AUX	_	Aspect=ProgNeg	32	comp:pred	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=33|RX=[AUX]
 34	cîː	cîː	VERB	_	ExtPos=NOUN	33	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=34|RX=[VERB]
 35	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
@@ -2860,7 +2860,7 @@
 11	saːbiː	saːbiː	ADJ	_	_	8	mod	_	GE=[new].[Plur]|Gloss=new.Plur|nWord=12|RX=[ADJ]
 12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 13	wa’àndà	wa’àndà	PRON	_	PronType=Rel	14	subj	_	GE=[who].[Plur]|Gloss=who.Plur|nWord=14|RX=[PRON]
-14	ad	ak	PredPART	_	Background=Yes	8	mod@relcl	_	GE=[4]|Gloss=Pred/Loc.Bkg|nWord=15|RX=[IDPART]
+14	ad	ak	AUX	_	Background=Yes	8	mod@relcl	_	GE=[4]|Gloss=Pred/Loc.Bkg|nWord=15|RX=[IDPART]
 15	dà	dà	ADP	_	_	14	comp:pred	_	GE=with|Gloss=with|nWord=16|RX=[ADP]
 16	tabshiː	tabshiː	NOUN	_	_	15	comp:obj	_	GE=[softness].[Masc]|Gloss=softness.Masc|nWord=17|RX=[NOUN]
 17	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
@@ -4455,7 +4455,7 @@
 # text = shiː maː hakìː neː , zàrau mài zarè yaːrinyàː .
 # text_en = It's a grass, "zarau" that clings to young girls.
 # text_ortho = šii maa hakìi nee, zàᵲau mài zaᵲè yaaᵲinyàa.
-1	shiː	shiː	PRON	_	_	4	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
+1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
 2	maː	maː	TopPART	_	_	1	discourse@top	_	GE=self|Gloss=self|nWord=7|RX=[TOPPART]
 3	hakìː	hakìː	NOUN	_	_	4	comp:pred	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=8|RX=[NOUN]
 4	neː	neː	PredPART	_	_	0	root	_	GE=[Ident/Loc]|Gloss=be.Masc/Plur|nWord=9|RX=[IDPART]
@@ -5382,7 +5382,7 @@
 10	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	_	9	mod	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	hakìː	hakìː	NOUN	_	_	13	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=12|RX=[NOUN]
-13	neː	neː	PredPART	_	_	10	parataxis:insert	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=13|RX=[IDPART]
+13	neː	neː	AUX	_	_	10	parataxis:insert	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=13|RX=[IDPART]
 14	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_194-194
