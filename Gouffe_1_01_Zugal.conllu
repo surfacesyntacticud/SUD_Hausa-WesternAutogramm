@@ -1204,14 +1204,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 41714, 42000
-# text = koːdàwane loːkàciː mùtun zâː shi cîm màccè, sai shì aukoː maːganîn nan, shì ɗèːbi ɗan kàɗannà, shì shaːhwàː gà bùːraː.
+# text = koːdàwane loːkàciː mùtun zâːshi cîm màccè , sai shì aukoː maːganîn nan , shì ɗèːbi ɗan kàɗannà , shì shaːhwàː gà bùːraː .
 # text_en = Whenever a man is going to have sex with a woman, he will get that medicine, take a little and rub it on his penis.
 # text_ortho = koo dà wane lookàcii mùtun zaà ši cim̀ màccè, sai šì aukoo maaganiǹ nan, šì ɗèebi ɗan kàɗannà, šì šaahwaà gà bùuᵲaa.
 1	koːdàwane	koːdàwane	DET	_	_	2	det	_	GE=[each].[Masc]|Gloss=each.Masc|nWord=1|RX=[DET]
 2	loːkàciː	loːkàciː	NOUN	_	_	9	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=2|RX=[NOUN]
 3	mùtun	mùtun	NOUN	_	_	4	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=3|RX=[NOUN]
 4	zâːshi	zâː	AUX	_	Tense=Fut	2	mod@relcl	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
-5	cîm	cîː	VERB	_	Definite=Cons|ExtPos=NOUN	4	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=cî
+5	cîm	ci	VERB	_	Definite=Cons|ExtPos=NOUN	4	comp:aux	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=6|RX=[VERB]|wordform=cî
 6	màccè	màccè	NOUN	_	_	5	udep	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=7|RX=[NOUN]
 7	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
@@ -2534,7 +2534,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_097-097
-# text = dul loːkàcin dà yay yi niyyàː, zâː shi wani sha’àniː dà màccè, sai shì ɗaukoː, shì shaːhwàː gà màzàːkuːtàː, shì taːràː dà màccên nan.
+# text = dul loːkàcin dà yay yi niyyàː , zâː shi wani sha’àniː dà màccè , sai shì ɗaukoː , shì shaːhwàː gà màzàːkuːtàː , shì taːràː dà màccên nan .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 82000, 83000
@@ -2547,7 +2547,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
 6	niyyàː	niyyàː	NOUN	_	_	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	zâː	zâː	PredPART	_	Tense=Fut	5	parataxis@mod	_	GE=[Fut]|Gloss=Fut|nWord=8|RX=[AUX]
+8	zâː	zâː	PredPART	_	_	5	parataxis@mod	_	GE=[Fut]|Gloss=Dir|nWord=8|RX=[AUX]
 9	shi	shi	PRON	_	_	8	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	wani	wani	DET	_	PronType=Spec	11	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
 11	sha’àniː	sha’àniː	NOUN	_	_	8	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=11|RX=[NOUN]
@@ -2841,7 +2841,7 @@
 11	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_107-107
-# text = in zâː a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
+# text = in zâː'a ɗiːbàːtai , sai à sàːmu lìngàːɓun runhuː , saːbiː , wa’àndà ad dà tabshiː , sai à ɗeːboː sù , à zoː dà suː gidaː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 89267, 90000
@@ -2849,7 +2849,7 @@
 # text_ortho = ’in zaà ’a ɗiibàatai, sai ’à sàamu lìngàaɓun ᵲunhuu, saabii, wa’àndà ’ad dà tabšii ## sai ’à ɗeeboo sù, ’à zoo dà suu gidaa.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
-3	ɗiːbàːtai	ɗiːbàːtai	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Masc.Poss|nWord=4|RX=[VERB]|wordform=ɗiːbàː
+3	ɗiːbàːtai	ɗiːbàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Masc.Poss|nWord=4|RX=[VERB]|wordform=ɗiːbàː
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 6	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
@@ -4314,12 +4314,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 139000, 140000
-# text = in zâː shi kwaːnaː, sai shì sâː hac'în nan cìkim bàːkiː.
+# text = in zâːshi kwaːnaː , sai shì sâː hac'în nan cikim bàːkiː .
 # text_en = When going to bed, let him put that powder in his mouth.
 # text_ortho = ’in zaà ši kwaanaa, sai šì saà hac’iǹ nan cìkim bàakii.
 1	in	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâːshi	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=2|RX=[AUX]|wordform=zâː
-3	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
+3	kwaːnaː	kwaːna	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 6	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=7|RX=[AUX]

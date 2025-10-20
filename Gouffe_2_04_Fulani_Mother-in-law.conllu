@@ -121,7 +121,7 @@
 14	sai	sai	ADV	_	_	15	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
 15	tac	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=15|RX=[AUX]
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	GE=say|Gloss=say|nWord=16|RX=[VERB]
-17	zâː	zâː	PredPART	_	Tense=Fut	16	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=17|RX=[AUX]
+17	zâː	zâː	PredPART	_	_	16	comp:obj	_	GE=[Fut]|Gloss=Dir|nWord=17|RX=[AUX]
 18	ta	ta	PRON	_	_	17	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=18|RX=[PRON]
 19	ùnguwaː	ùnguwaː	NOUN	_	_	17	comp:pred	_	GE=[village].[Fem]|Gloss=village.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
@@ -176,12 +176,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 6000, 7000
-# text = dà zâː su tàhiyàː , shiː bàhillaacèn ga , sai yag gamà kâi dà àboːkiːnai , yac cèː in sun tàhi , dà shiː dà sàràkkuwaːtai , àboːkiːnai , shì bi dabràssù , indà sàràkkuwaːtai bâːta ganiːnai .
+# text = dà zâːsu tàhiyàː , shiː bàhillaacèn ga , sai yag gamà kâi dà àboːkiːnai , yac cèː in sun tàhi , dà shiː dà sàràkkuwaːtai , àboːkiːnai , shì bi dabràssù , indà sàràkkuwaːtai bâːta ganiːnai .
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâːsu	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3.Pl|nWord=2|RX=[AUX]|wordform=zâː
-3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
+3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	shiː	shiː	PRON	_	_	10	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
 6	bàhillaacèn	bàhillaacèn	VERB	_	_	5	conj:appos	_	Gloss=Fulani.Masc.Cons

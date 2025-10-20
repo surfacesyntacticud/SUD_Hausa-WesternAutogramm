@@ -1508,7 +1508,7 @@
 5	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_048-048_split2_split2
-# text = in zâː ki tàhiyàː , can gidansù kì zoː , ìm baː kì àbun dà zâː ki kai mutà , kì kai mutà .
+# text = in zâːki tàhiyàː , can gidansù kì zoː , ìm baː kì àbun dà zâːki kai mutà , kì kai mutà .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 49000, 50000
@@ -1516,7 +1516,7 @@
 # text_ortho = ’in zaà ki tàhiyàa, can gidansù kì zoo, ’ìm baa kì ’àbun dà zaà kì kai mutà, ki kai mutà.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=22|RX=[SCONJ]
 2	zâːki	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.2Fem|nWord=23|RX=[AUX]|wordform=zâː
-3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=25|RX=[VERB]
+3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=25|RX=[VERB]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 5	can	can	ADV	_	_	3	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=27|RX=[ADV]
 6	gidansù	gidaːsù	NOUN	_	Definite=Cons	5	mod	_	GE=[house].[Masc]|Gloss=house.Masc.3Plur.Poss|nWord=28|RX=[NOUN]|wordform=gida
@@ -1541,13 +1541,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 50000, 51000
-# text = s'oːhuwaː dà zâː ta tàhiyàː , taz zoː wuriːnai , yab baː tà goːr̃ò , dà turàːreː dà kuɗɗiː , dà zôbban zinaːr̃ìyaː .
+# text = s'oːhuwaː dà zâːta tàhiyàː , taz zoː wuriːnai , yab baː tà goːr̃ò , dà turàːreː dà kuɗɗiː , dà zôbban zinaːr̃ìyaː .
 # text_en = The old woman, when she was about to go, she went to his place, he gave her kola nuts, perfume, money and gold rings.
 # text_ortho = s’oohuwaa dà zaà ta tàhiyàa, taz zoo wuᵲiinai, yab baa tà goorò, dà tùᵲàaᵲee dà kuɗɗii, dà zôbban zinaarìyaa.
 1	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	6	dislocated@subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=1|RX=[NOUN]
 2	dà	dà	SCONJ	_	_	6	mod	_	GE=when|Gloss=when|nWord=2|RX=[SCONJ]
 3	zâːta	zâː	AUX	_	Tense=Fut	2	comp:obj	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=3|RX=[AUX]|wordform=zâː
-4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 5	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	taz	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	GE=come|Gloss=come|nWord=8|RX=[VERB]
@@ -2057,7 +2057,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 73000, 74000
-# text = dà yab baː tà laːdattà , sai yac cêː mà s'oːhuwaː : in zâː ki tàhiyàː , can gidam maːlàmiː , koːwacè raːnaː , kì zoː ìn baː kì wani àbù , kì kai mà màːtam maːlàmiː , koː kuɗɗiː , koː turàːreː , koː goːr̃ò , koː àzùr̃hwaː , koː zinaːr̃ìyaː , don kì kai matà .
+# text = dà yab baː tà laːdattà , sai yac cêː mà s'oːhuwaː : in zâːki tàhiyàː , can gidam maːlàm , koːwacè raːnaː , kì zoː ìn baː kì wani àbù , kì kai mà màːtam maːlàm , koː kuɗɗiː , koː turàːreː , koː goːr̃ò , koː àzùr̃hwaː , koː zinaːr̃ìyaː , don kì kai matà .
 # text_en = After giving her her commission, he told the old woman: When you go there to the malam's house, each day you go, I will give you something to take to the malam's wife, whether money, perfume, kola nuts, silver or gold, and give her.
 # text_ortho = dà yab baa tà laadattà, sai yac ceè mà s’oohuwaa : ’in zaà ki tàhiyàa, can gidam maalàm, koo wacè ᵲaanaa, kì zoo ’ìm baa kì wani ’àbù, kì kai mà màatam maalàm, koo kuɗɗii, koo tùᵲàaᵲee, koo goorò, koo ’àzùrhwaa, koo zinaarìyaa, don kì kai matà.
 1	dà	dà	SCONJ	_	_	8	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -2071,53 +2071,52 @@
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	GE=say|Gloss=say|nWord=9|RX=[VERB]
 10	mà	mà	ADP	_	_	9	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=10|RX=[ADP]
 11	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	10	comp:obj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=11|RX=[NOUN]
-12	:	:	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	in	in	SCONJ	_	_	25	mod	_	GE=if|Gloss=if|nWord=13|RX=[SCONJ]
-14	zâː	zâː	AUX	_	Tense=Fut	13	comp:obj	_	GE=[Fut]|Gloss=Fut|nWord=14|RX=[AUX]
-15	ki	ki	PRON	_	_	14	comp:aux	_	GE=[2Fem]|Gloss=2Fem|nWord=15|RX=[PRON]
-16	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	14	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=16|RX=[VERB]
-17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	can	can	ADV	_	_	16	comp:obl	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
-19	gidam	gidaː	NOUN	_	Definite=Cons	18	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=19|RX=[NOUN]|wordform=gida
-20	maːlàm	maːlàmiː	NOUN	_	_	19	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=20|RX=[NOUN]|wordform=maːlàmiː
-21	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	koːwacè	koːwacè	DET	_	_	23	det	_	GE=[each].[Fem]|Gloss=each.Fem|nWord=22|RX=[PRON]
-23	raːnaː	raːnaː	NOUN	_	_	25	comp:obj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=23|RX=[NOUN]
-24	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-25	kì	ø	AUX	_	Aspect=Aor	9	comp:obj@T	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=25|RX=[AUX]
-26	zoː	zoː	VERB	_	_	25	comp:aux	_	GE=come|Gloss=come|nWord=26|RX=[VERB]
-27	ìn	ø	AUX	_	Aspect=Aor|Definite=Cons	26	parataxis@mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=27|RX=[AUX]
-28	baː	baː	VERB	_	_	27	comp:obj	_	GE=give|Gloss=give|nWord=28|RX=[VERB]
-29	kì	ø	AUX	_	Aspect=Aor	28	comp:obj@R	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=29|RX=[AUX]
-30	wani	wani	DET	_	PronType=Spec	31	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=30|RX=[DET]
-31	àbù	àbù	NOUN	_	_	28	comp:obj@T	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=31|RX=[NOUN]
-32	,	,	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
-33	kì	ø	AUX	_	Aspect=Aor	31	parataxis@mod	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=33|RX=[AUX]
-34	kai	kai	VERB	_	_	33	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=34|RX=[VERB]
-35	mà	mà	ADP	_	_	34	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=35|RX=[ADP]
-36	màːtam	màːtaː	NOUN	_	Definite=Cons	35	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=36|RX=[NOUN]|wordform=màːta
-37	maːlàm	maːlàmiː	NOUN	_	_	36	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=37|RX=[NOUN]|wordform=maːlàmiː
-38	,	,	PUNCT	_	_	40	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
-39	koː	koː	CCONJ	_	_	40	cc@preconj	_	GE=or|Gloss=or|nWord=39|RX=[CCONJ]
-40	kuɗɗiː	kuɗɗiː	NOUN	_	_	31	conj:appos	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=40|RX=[NOUN]
-41	,	,	PUNCT	_	_	43	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
-42	koː	koː	CCONJ	_	_	43	cc	_	GE=or|Gloss=or|nWord=42|RX=[CCONJ]
-43	turàːreː	turàːreː	NOUN	_	_	40	conj:coord	_	GE=[perfume].[Masc]|Gloss=perfume.Masc|nWord=43|RX=[NOUN]
-44	,	,	PUNCT	_	_	46	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
-45	koː	koː	CCONJ	_	_	46	cc	_	GE=or|Gloss=or|nWord=45|RX=[CCONJ]
-46	goːr̃ò	goːr̃ò	NOUN	_	_	43	conj:coord	_	GE=[kola].[Masc]|Gloss=kola.Masc|nWord=46|RX=[NOUN]
-47	,	,	PUNCT	_	_	49	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
-48	koː	koː	CCONJ	_	_	49	cc	_	GE=or|Gloss=or|nWord=48|RX=[CCONJ]
-49	àzùr̃hwaː	àzùr̃hwaː	NOUN	_	_	46	conj:coord	_	GE=[silver].[Fem]|Gloss=silver.Fem|nWord=49|RX=[NOUN]
-50	,	,	PUNCT	_	_	52	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=50|RX=[PUNCT]
-51	koː	koː	CCONJ	_	_	52	cc	_	GE=or|Gloss=or|nWord=51|RX=[CCONJ]
-52	zinaːr̃ìyaː	zinaːr̃ìyaː	NOUN	_	_	49	conj:coord	_	GE=[gold].[Fem]|Gloss=gold.Fem|nWord=52|RX=[NOUN]
-53	,	,	PUNCT	_	_	54	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=53|RX=[PUNCT]
-54	don	don	SCONJ	_	_	28	mod	_	GE=because|Gloss=because|nWord=54|RX=[SCONJ]
-55	kì	ø	AUX	_	Aspect=Aor	54	comp:obj	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=55|RX=[AUX]
-56	kai	kai	VERB	_	_	55	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=56|RX=[VERB]
-57	matà	mutà	PRON	_	_	56	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=57|RX=[PRON]
-58	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=58|RX=[PUNCT]
+12	:	:	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
+13	in	in	SCONJ	_	_	24	mod	_	GE=if|Gloss=if|nWord=13|RX=[SCONJ]
+14	zâːki	zâː	AUX	_	Tense=Fut	13	comp:obj	_	GE=[Fut]|Gloss=Fut.2Fem|nWord=14|RX=[AUX]
+15	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	14	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=16|RX=[VERB]
+16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
+17	can	can	ADV	_	_	15	comp:obj@G	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[ADV]
+18	gidam	gidaː	NOUN	_	Definite=Cons	17	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=19|RX=[NOUN]|wordform=gida
+19	maːlàm	maːlàmiː	NOUN	_	_	18	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=20|RX=[NOUN]|wordform=maːlàmiː
+20	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
+21	koːwacè	koːwacè	DET	_	_	22	det	_	GE=[each].[Fem]|Gloss=each.Fem|nWord=22|RX=[PRON]
+22	raːnaː	raːnaː	NOUN	_	_	24	comp:obj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=23|RX=[NOUN]
+23	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
+24	kì	ø	AUX	_	Aspect=Aor	9	comp:obj@T	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=25|RX=[AUX]
+25	zoː	zoː	VERB	_	_	24	comp:aux	_	GE=come|Gloss=come|nWord=26|RX=[VERB]
+26	ìn	ø	AUX	_	Aspect=Aor|Definite=Cons	25	parataxis@mod	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=27|RX=[AUX]
+27	baː	baː	VERB	_	_	26	comp:obj	_	GE=give|Gloss=give|nWord=28|RX=[VERB]
+28	kì	ø	AUX	_	Aspect=Aor	27	comp:obj@R	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=29|RX=[AUX]
+29	wani	wani	DET	_	PronType=Spec	30	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=30|RX=[DET]
+30	àbù	àbù	NOUN	_	_	27	comp:obj@T	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=31|RX=[NOUN]
+31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
+32	kì	ø	AUX	_	Aspect=Aor	30	parataxis@mod	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=33|RX=[AUX]
+33	kai	kai	VERB	_	_	32	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=34|RX=[VERB]
+34	mà	mà	ADP	_	_	33	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=35|RX=[ADP]
+35	màːtam	màːtaː	NOUN	_	Definite=Cons	34	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=36|RX=[NOUN]|wordform=màːta
+36	maːlàm	maːlàmiː	NOUN	_	_	35	comp:obj	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=37|RX=[NOUN]|wordform=maːlàmiː
+37	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
+38	koː	koː	CCONJ	_	_	39	cc@preconj	_	GE=or|Gloss=or|nWord=39|RX=[CCONJ]
+39	kuɗɗiː	kuɗɗiː	NOUN	_	_	30	conj:appos	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=40|RX=[NOUN]
+40	,	,	PUNCT	_	_	42	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
+41	koː	koː	CCONJ	_	_	42	cc	_	GE=or|Gloss=or|nWord=42|RX=[CCONJ]
+42	turàːreː	turàːreː	NOUN	_	_	39	conj:coord	_	GE=[perfume].[Masc]|Gloss=perfume.Masc|nWord=43|RX=[NOUN]
+43	,	,	PUNCT	_	_	45	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
+44	koː	koː	CCONJ	_	_	45	cc	_	GE=or|Gloss=or|nWord=45|RX=[CCONJ]
+45	goːr̃ò	goːr̃ò	NOUN	_	_	42	conj:coord	_	GE=[kola].[Masc]|Gloss=kola.Masc|nWord=46|RX=[NOUN]
+46	,	,	PUNCT	_	_	48	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
+47	koː	koː	CCONJ	_	_	48	cc	_	GE=or|Gloss=or|nWord=48|RX=[CCONJ]
+48	àzùr̃hwaː	àzùr̃hwaː	NOUN	_	_	45	conj:coord	_	GE=[silver].[Fem]|Gloss=silver.Fem|nWord=49|RX=[NOUN]
+49	,	,	PUNCT	_	_	51	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=50|RX=[PUNCT]
+50	koː	koː	CCONJ	_	_	51	cc	_	GE=or|Gloss=or|nWord=51|RX=[CCONJ]
+51	zinaːr̃ìyaː	zinaːr̃ìyaː	NOUN	_	_	48	conj:coord	_	GE=[gold].[Fem]|Gloss=gold.Fem|nWord=52|RX=[NOUN]
+52	,	,	PUNCT	_	_	53	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=53|RX=[PUNCT]
+53	don	don	SCONJ	_	_	27	mod	_	GE=because|Gloss=because|nWord=54|RX=[SCONJ]
+54	kì	ø	AUX	_	Aspect=Aor	53	comp:obj	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=55|RX=[AUX]
+55	kai	kai	VERB	_	_	54	comp:aux	_	GE=reach/take_to|Gloss=reach/take_to|nWord=56|RX=[VERB]
+56	matà	mutà	PRON	_	_	55	comp:obj	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=57|RX=[PRON]
+57	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=58|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_071-071
 # speaker_id = *
@@ -2136,13 +2135,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 75000, 76000
-# text = kullun in zâː ta tàhiyàː kân dàudawaː , can gidam maːlàmiː , sai tà zoː wurin ɗan sarkiː , shì baː tà àbuːbuwàn dà yac cêː , tà tàhi dà suː , can wurim maːlàmiː , tà kai mai dàudawaː .
+# text = kullun in zâːta tàhiyàː kân dàudawaː , can gidam maːlàm , sai tà zoː wurin ɗan sarkiː , shì baː tà àbuːbuwàn dà yac cêː , tà tàhi dà suː , can wurim maːlàm , tà kai mai dàudawaː .
 # text_en = Each time she went and carried "daudawa" there, to the malam's house, she went the chief's son, he gave her the things that he said, she carried them to the malam's place, and brought him "daudawa".
 # text_ortho = kullun ’in zaà ta tàhiyàa, kan dàudawaa, can gidam maalàm, sai tà zoo wuᵲin ɗan saᵲkii, šì baa tà ’àbuubuwàn dà yac ceè, tà tàhi dà suu, can wuᵲim maalàmii, tà kai mai dàudawaa.
 1	kullun	kullun	ADV	_	_	13	mod	_	GE=always|Gloss=always|nWord=1|RX=[ADV]
 2	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	zâːta	zâː	AUX	_	Tense=Fut	2	comp:obj	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=3|RX=[AUX]|wordform=zâː
-4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 5	kân	kân	ADP	_	_	4	mod	_	Gloss=about|nWord=6
 6	dàudawaː	dàudawaː	NOUN	_	_	5	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=7|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -2328,13 +2327,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 81000, 83000
-# text = dà s'oːhuwaː zâː ta tàhiyàː , sai màːtam maːlàm tac cêː mà s'oːhuwaː : in kin zoː , kì gayàː mà ɗan sarkiː , in shinàː sôn shì gan nì , shì barì: sai ras sallàː , in an hau iːdì: . maːlàm yaː tàhi wuri , can hiːlin iːdì: , tàːre dà sarkiː , dà mutàːnen gàriː .
+# text = dà s'oːhuwaː zâːta tàhiyàː , sai màːtam maːlàm tac cêː mà s'oːhuwaː : in kin zoː , kì gayàː mà ɗan sarkiː , in shinàː sôn shì gan nì , shì barì: sai ras sallàː , in an hau iːdì: . maːlàm yaː tàhi wuri , can hiːlin iːdì: , tàːre dà sarkiː , dà mutàːnen gàriː .
 # text_en = As the old woman was going to leave, the malam's wife told the old woman: When you have gone, tell the chief's son that if he wants to see me, let him wait until the day of salla when they have started the ceremony, and the malam has gone to the place of the ceremony, there, to the ceremony ground together with the chief and the town people.
 # text_ortho = dà s’oohuwaa zaà ta tàhiyàa, sai màatam maalàm, tac ceè mà s’oohuwaa : ’in kin zoo, kì gayàa mà ɗan saᵲkii, ’in ši nàa soǹ šì gan nì, šì baᵲìi sai ᵲas sallàa, ’in ’an hau ’iidìi. maalàm yaa tàhi wuᵲin ’iidìi, can hiilin ’iidìi - tàaᵲe dà saᵲkii, dà mutàanen gàᵲii.
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	3	dislocated@subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=2|RX=[NOUN]
 3	zâːta	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=3|RX=[AUX]|wordform=zâː
-4	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
+4	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=5|RX=[VERB]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 7	màːtam	màːtaː	NOUN	_	Definite=Cons	9	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=8|RX=[NOUN]|wordform=màːta
@@ -4178,7 +4177,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 143000, 144000
-# text = sai sarkiː yat tàhi zâː shi bugùntà .
+# text = sai sarkiː yat tàhi zâːshi bugùntà .
 # text_en = Then the chief got up to beat her.
 # text_ortho = sai saᵲkii yat tàhi zaà ši bugùntà,
 1	sai	sai	ADV	_	_	3	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
@@ -4186,7 +4185,7 @@
 3	yat	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=3|RX=[AUX]
 4	tàhi	tàhi	VERB	_	_	3	comp:aux	_	GE=go|Gloss=go|nWord=4|RX=[VERB]
 5	zâːshi	zâː	AUX	_	Tense=Fut	3	parataxis@conj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=5|RX=[AUX]|wordform=zâː
-6	bugùntà	bugùːtà	VERB	_	Definite=Cons|ExtPos=NOUN	5	comp:aux	_	GE=[beat].[Nmlz].[Masc]|Gloss=beat.Nmlz.Masc.3Fem.Poss|nWord=7|RX=[VERB]|wordform=bugù
+6	bugùntà	bugàː	VERB	_	Definite=Cons|ExtPos=NOUN	5	comp:aux	_	GE=[beat].[Nmlz].[Masc]|Gloss=beat.Nmlz.Masc.3Fem.Poss|nWord=7|RX=[VERB]|wordform=bugù
 7	.	.	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_138-138_split2

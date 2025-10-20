@@ -217,7 +217,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 8000, 10000
-# text = dà tat toːyà maːsàː , zâː ta wurim bìkiː , tag gayàː mà mijìntà , zâː ta tàhiyàː wurim bìkiː .
+# text = dà tat toːyà maːsàː , zâː ta wurim bìkiː , tag gayàː mà mijìntà , zâːta tàhiyàː wurim bìkiː .
 # text_en = After frying some pancakes, as she was going to the party, she told her husband that she was going to the party.
 # text_ortho = dà tat tooyà maasàa, zaà ta wuᵲim bìkii, tag gayàa mà mijìntà, zaà ta tàhiyàa wuᵲim bìkii.
 1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
@@ -236,7 +236,7 @@
 14	mijìntà	mijìːtà	NOUN	_	Definite=Cons	13	comp:obj	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=14|RX=[NOUN]|wordform=mijì
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	zâːta	zâː	AUX	_	Tense=Fut	12	comp:obj@T	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=16|RX=[AUX]|wordform=zâː
-17	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	16	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
+17	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	16	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
 18	wurim	wurin	ADP	_	Definite=Cons	17	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
 19	bìkiː	bìkiː	NOUN	_	_	18	comp:obj	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
 20	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
@@ -617,14 +617,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 22000, 23000
-# text = shiː kàu dà zâː shi tàhiyàː, yaː sàːmu zanèː, wandà bàtà sanìː ba.
+# text = shiː kâu dà zâːshi tàhiyàː , yaː sàːmu zanèː , wandà bàtà sanìː ba .
 # text_en = He, before travelling, he took a wrapper that she did not know about.
 # text_ortho = šii kàu dà zaà ši tàhiyàa, yaa sàamu zanèe, wandà bà tà sanìː ba.
 1	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	zâːshi	zâː	AUX	_	Tense=Fut	3	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
-5	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
+5	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 7	yaː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 8	sàːmu	saːmùː	VERB	_	_	7	comp:aux	_	GE=get|Gloss=get|nWord=9|RX=[VERB]
@@ -879,12 +879,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 31000, 32000
-# text = dà zâː shi tàhiyàː , dàn nân gidaː , sai yac ci waːkeː .
+# text = dà zâːshi tàhiyàː , dàn nân gidaː , sai yac ci waːkeː .
 # text_en = Before leaving, from there at his house, he had eaten some beans.
 # text_ortho = dà zaà ši tàhiyàa, dàn naǹ gidaa, sai yac ci waakee,
 1	dà	dà	SCONJ	_	_	10	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	zâːshi	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=2|RX=[AUX]|wordform=zâː
-3	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
+3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	dàn	dàgà	ADP	_	_	10	mod	_	GE=from|Gloss=from|nWord=6|RX=[ADP]
 6	nân	nân	ADV	_	_	5	comp:obj	_	GE=[Prox]|Gloss=Prox|nWord=7|RX=[ADV]
