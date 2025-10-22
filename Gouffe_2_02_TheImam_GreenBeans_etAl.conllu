@@ -92,7 +92,7 @@
 14	uwattà	uwaːtà	NOUN	_	Definite=Cons	13	udep	_	GE=[mother].[Fem]|Gloss=mother.Fem.3Fem.Poss|nWord=14|RX=[NOUN]|wordform=uwa
 15	ba	ba	PART	_	_	12	mod	_	GE=[Neg]|Gloss=Neg|nWord=15|PartType=Neg|RX=[PART]
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-17	kuma	kuma	PART	_	_	18	discourse	_	GE=also|Gloss=also|nWord=17|RX=[TOPPART]
+17	kuma	kuma	PART	_	_	18	discourse	_	GE=also|Gloss=also|nWord=17|PartType=Disc|RX=[TOPPART]
 18	bàtà	bài	AUX	_	Aspect=PerfNeg	11	conj:coord	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=18|RX=[AUX]
 19	girmaː	girmaː	VERB	_	_	18	comp:aux	_	GE=grow|Gloss=grow|nWord=19|RX=[VERB]
 20	wurin	wurin	ADP	_	Definite=Cons	19	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=20|RX=[NOUN]|wordform=wuri
@@ -127,7 +127,7 @@
 12	taːshì	taːshì	VERB	_	_	11	comp:aux	_	GE=rise|Gloss=rise|nWord=12|RX=[VERB]
 13	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	cikin	cikin	ADP	_	_	23	mod	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
-15	màːsu	mài	PART	_	_	14	comp:obj	_	GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=15|RX=[PART]
+15	màːsu	mài	ADP	_	_	14	comp:obj	_	GE=[owner_of].[Plur]|Gloss=owner_of.Plur|nWord=15|RX=[PART]
 16	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	15	comp:obj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=16|RX=[VERB]|wordform=sô
 17	maːlàmin	maːlàmiː	NOUN	_	Definite=Cons	16	udep	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=17|RX=[NOUN]|wordform=maːlàmi
 18	nan	nan	DET	_	_	17	det	_	GE=[Dist]|Gloss=Dist|nWord=18|RX=[DET]
@@ -232,7 +232,7 @@
 11	yaː	yaː	AUX	_	Aspect=Perf	10	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=12|RX=[AUX]
 12	jiyàː	jiyàː	VERB	_	_	11	comp:aux	_	GE=hear|Gloss=hear|nWord=13|RX=[VERB]
 13	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-14	kuma	kuma	PART	_	_	15	discourse	_	GE=also|Gloss=also|nWord=15|RX=[ADV]
+14	kuma	kuma	PART	_	_	15	discourse	_	GE=also|Gloss=also|nWord=15|PartType=Disc|RX=[ADV]
 15	yaː	yaː	AUX	_	Aspect=Perf	11	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=16|RX=[AUX]
 16	goːdèː	goːdèː	VERB	_	_	15	comp:aux	_	GE=thank|Gloss=thank|nWord=17|RX=[VERB]
 17	yaː	yaː	AUX	_	Aspect=Perf	15	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=18|RX=[AUX]
@@ -264,7 +264,7 @@
 15	noːnòn	noːnòː	NOUN	_	Definite=Cons	14	comp:obj	_	GE=[milk].[Masc]|Gloss=milk.Masc|nWord=15|RX=[NOUN]|wordform=noːnò
 16	uwattà	uwaːtà	NOUN	_	Definite=Cons	15	mod	_	GE=[mother].[Fem]|Gloss=mother.Fem.3Fem.Poss|nWord=16|RX=[NOUN]|wordform=uwa
 17	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
-18	kuma	kuma	PART	_	_	20	discourse	_	GE=also|Gloss=also|nWord=18|RX=[ADV]
+18	kuma	kuma	PART	_	_	20	discourse	_	GE=also|Gloss=also|nWord=18|PartType=Disc|RX=[ADV]
 19	kât	kaɗà	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=19|PartType=Neg|RX=[PART]
 20	tà	ø	AUX	_	Aspect=Aor	13	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=20|RX=[AUX]
 21	girma	girma	VERB	_	_	20	comp:aux	_	GE=grow|Gloss=grow|nWord=21|RX=[VERB]
@@ -407,7 +407,7 @@
 11	noːnòn	noːnòː	NOUN	_	Definite=Cons	9	comp:obj@T	_	GE=[milk].[Masc]|Gloss=milk.Masc|nWord=11|RX=[NOUN]|wordform=noːnò
 12	bisàːsheː	bisàːsheː	NOUN	_	_	11	mod	_	GE=[cattle].[Plur]|Gloss=cattle.Plur|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-14	kuma	kuma	PART	_	_	15	discourse	_	GE=also|Gloss=also|nWord=14|RX=[ADV]
+14	kuma	kuma	PART	_	_	15	discourse	_	GE=also|Gloss=also|nWord=14|PartType=Disc|RX=[ADV]
 15	tà	ø	AUX	_	Aspect=Aor	7	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
 17	rèːnontà	rèːnoːtà	VERB	_	Definite=Cons|ExtPos=NOUN	16	comp:pred	_	GE=[take_care].[Nmlz].[Masc]|Gloss=take_care.Nmlz.Masc.3Fem.Poss|nWord=17|RX=[VERB]|wordform=rèːno
@@ -440,7 +440,7 @@
 14	ta	ta	PRON	_	_	13	comp:obj@R	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
 15	madar̃aː	madar̃aː	NOUN	_	_	13	comp:obj@T	_	GE=[cow_milk].[Fem]|Gloss=cow_milk.Fem|nWord=17|RX=[NOUN]
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-17	kuma	kuma	PART	_	_	18	discourse	_	GE=also|Gloss=also|nWord=19|RX=[ADV]
+17	kuma	kuma	PART	_	_	18	discourse	_	GE=also|Gloss=also|nWord=19|PartType=Disc|RX=[ADV]
 18	tanàː	nàː	AUX	_	Aspect=Prog	12	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=20|RX=[AUX]
 19	rèːnontà	rèːnoːtà	VERB	_	Definite=Cons|ExtPos=NOUN	18	comp:aux	_	GE=[take_care].[Nmlz].[Masc]|Gloss=take_care.Nmlz.Masc.3Fem.Poss|nWord=21|RX=[VERB]|wordform=rèːno
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
@@ -647,7 +647,7 @@
 2	wata	wata	DET	_	_	3	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=2|RX=[DET]
 3	s'oːhuwaː	s'oːhuwaː	NOUN	_	_	1	subj	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	mài	mài	PART	_	_	3	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=5|RX=[PART]
+5	mài	mài	ADP	_	_	3	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=5|RX=[PART]
 6	saidà	saidàː	VERB	_	_	5	comp:obj	_	GE=sell|Gloss=sell|nWord=6|RX=[VERB]
 7	dàudawaː	dàudawaː	NOUN	_	_	6	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -1092,7 +1092,7 @@
 12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
 13	yag	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=14|RX=[AUX]
 14	ga	ganiː	VERB	_	_	13	comp:aux	_	GE=see|Gloss=see|nWord=15|RX=[VERB]
-15	mài	mài	PART	_	_	14	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=17|RX=[PART]
+15	mài	mài	ADP	_	_	14	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=17|RX=[PART]
 16	tàllad	tàlla	NOUN	_	Definite=Cons	15	comp:obj	_	GE=[hawking_wares].[Fem]|Gloss=hawking_wares.Fem|nWord=18|RX=[NOUN]|wordform=tàlla
 17	dàudawaː	dàudawaː	NOUN	_	Definite=Cons	16	udep	_	Gloss=daudawa|nWord=18|RX=[NOUN]
 18	yay	(n)kà	AUX	_	Aspect=PerfBkg	13	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=20|RX=[AUX]
@@ -1857,7 +1857,7 @@
 4	kaːwoː	kai	VERB	_	_	3	comp:obj	_	GE=reach/take_to|Gloss=reach/take_to.Dir|nWord=4|RX=[VERB]|wordform=kaːw
 5	mikì	mikì	PRON	_	_	4	mod	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=5|RX=[PRON]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
+7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=7|PartType=Disc|RX=[ADV]
 8	yaː	yaː	AUX	_	Aspect=Perf	3	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 9	yoː	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do.Dir|nWord=9|RX=[VERB]|wordform=y
 10	mun	minì	PRON	_	_	9	comp:obl	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=10|RX=[PRON]
@@ -1878,7 +1878,7 @@
 4	gaisheː	gaisàː	VERB	_	_	3	comp:aux	_	GE=greet|Gloss=greet|nWord=17|RX=[VERB]
 5	kì	kì	PRON	_	_	4	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=18|RX=[PRON]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
-7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=20|RX=[ADV]
+7	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=20|PartType=Disc|RX=[ADV]
 8	ìn	ø	AUX	_	Aspect=Aor|Definite=Cons	3	parataxis@conj	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=21|RX=[AUX]
 9	gayàː	gayàː	VERB	_	_	8	comp:aux	_	GE=tell|Gloss=tell|nWord=22|RX=[VERB]
 10	makì	makì	PRON	_	_	9	comp:obl	_	GE=[2Fem].[Dat]|Gloss=2Fem.Dat|nWord=23|RX=[PRON]
@@ -2046,7 +2046,7 @@
 3	mutà	mutà	PRON	_	_	2	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
 4	gòːdiyaː	gòːdiyaː	NOUN	_	_	2	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
+6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|PartType=Disc|RX=[ADV]
 7	yab	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	baː	baː	VERB	_	_	7	comp:aux	_	GE=give|Gloss=give|nWord=8|RX=[VERB]
 9	tà	ta	PRON	_	_	8	comp:obj@R	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
@@ -2230,7 +2230,7 @@
 3	màːtam	màːtaː	NOUN	_	Definite=Cons	2	comp:obj@R	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=10|RX=[NOUN]|wordform=màːta
 4	maːlàm	maːlàmiː	NOUN	_	_	3	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=11|RX=[NOUN]
 5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-6	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=13|RX=[ADV]
+6	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=13|PartType=Disc|RX=[ADV]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
 8	tà	ø	AUX	_	Aspect=Aor	1	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
 9	baː	baː	VERB	_	_	8	comp:aux	_	GE=give|Gloss=give|nWord=16|RX=[VERB]
@@ -2510,7 +2510,7 @@
 21	gàriː	gàriː	NOUN	_	_	20	mod	_	GE=[town].[Masc]|Gloss=town.Masc|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	dum	duk	DET	_	_	24	det	_	GE=all|Gloss=all|nWord=23|RX=[DET]
-24	mài	mài	PART	_	_	20	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=24|RX=[PART]
+24	mài	mài	ADP	_	_	20	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=24|RX=[PART]
 25	zuwàː	zuwàː	VERB	_	ExtPos=NOUN	24	comp:obj	_	GE=[go].[Nmlz].[Masc]|Gloss=go.Nmlz.Masc|nWord=25|RX=[VERB]
 26	wurin	wurin	ADP	_	_	25	comp:obl	_	Gloss=at
 27	iːdì:	iːdì:	NOUN	_	_	26	mod	_	GE=[ceremony].[Masc]|Gloss=ceremony.Masc|nWord=27|RX=[NOUN]
@@ -2629,7 +2629,7 @@
 3	sunàː	nàː	AUX	_	Aspect=Prog	1	parataxis@conj	_	GE=[3Plur].[Imp]|Gloss=3Plur.Prog|nWord=3|RX=[AUX]
 4	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:aux	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
+6	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=6|PartType=Disc|RX=[ADV]
 7	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	3	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	àbun	àbù	NOUN	_	Definite=Cons	8	comp:pred	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=9|RX=[NOUN]|wordform=àbù
@@ -2645,7 +2645,7 @@
 # text = kuma sunkà koːmàː hiːr̃a.
 # text_en = Then they chatted again.
 # text_ortho = kuma sunkà koomàa hiira.
-1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
+1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=1|PartType=Disc|RX=[ADV]
 2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=2|RX=[AUX]
 3	koːmàː	koːmàː	VERB	_	_	2	comp:aux	_	GE=return|Gloss=return|nWord=3|RX=[VERB]
 4	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:obj	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=4|RX=[NOUN]
@@ -3136,7 +3136,7 @@
 8	kaː	yaː	AUX	_	Aspect=Perf	3	comp:obj@T	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=8|RX=[AUX]
 9	haukàceː	haukàceː	VERB	_	_	8	comp:aux	_	GE=go_crazy|Gloss=go_crazy|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|RX=[ADV]
+11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=11|PartType=Disc|RX=[ADV]
 12	kaː	yaː	AUX	_	Aspect=Perf	8	parataxis@conj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=12|RX=[AUX]
 13	yi	yi	VERB	_	_	12	comp:aux	_	GE=do|Gloss=do|nWord=13|RX=[VERB]
 14	mun	minì	PRON	_	_	13	comp:obl	_	GE=[1Sing].[Dat]|Gloss=1Sing.Dat|nWord=14|RX=[PRON]
@@ -3236,7 +3236,7 @@
 12	baːbù	bâː	PredPART	_	_	0	root	_	GE=there_is_no|Gloss=there_is.Neg|nWord=12|RX=[PREDPART]
 13	doːkì:	doːkì:	NOUN	_	_	12	subj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	kuma	kuma	PART	_	_	16	discourse	_	GE=also|Gloss=also|nWord=15|RX=[ADV]
+15	kuma	kuma	PART	_	_	16	discourse	_	GE=also|Gloss=also|nWord=15|PartType=Disc|RX=[ADV]
 16	baːbù	bâː	PredPART	_	_	12	parataxis@conj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=16|RX=[PREDPART]
 17	san	sau	NOUN	_	Definite=Cons	16	subj	_	GE=[footprint].[Masc]|Gloss=footprint.Masc|nWord=17|RX=[NOUN]|wordform=sau
 18	doːkì:	doːkì:	NOUN	_	_	17	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=18|RX=[NOUN]
@@ -3584,7 +3584,7 @@
 3	tat	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=3|RX=[AUX]
 4	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN	3	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Fem.Poss|nWord=4|RX=[VERB]|wordform=tàhiyà
 5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=6|RX=[ADV]
+6	kuma	kuma	PART	_	_	8	discourse	_	GE=also|Gloss=also|nWord=6|PartType=Disc|RX=[ADV]
 7	sarkiː	sarkiː	NOUN	_	_	8	subj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=7|RX=[NOUN]
 8	yat	(n)kà	AUX	_	Aspect=PerfBkg	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=8|RX=[AUX]
 9	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Masc.Poss|nWord=9|RX=[VERB]|wordform=tàhiyàː
@@ -3676,7 +3676,7 @@
 # text_ortho = ɗanyen waakee mài kwàlhwaa, šii ’aj jìmɓiᵲii.
 1	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	2	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=14|RX=[ADJ]|wordform=ɗanye
 2	waːkeː	waːkeː	NOUN	_	_	6	dislocated@subj	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=15|RX=[NOUN]
-3	mài	mài	PART	_	_	2	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=16|RX=[PART]
+3	mài	mài	ADP	_	_	2	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=16|RX=[PART]
 4	kwàlhwaː	kwàlhwaː	NOUN	_	_	3	comp:obj	_	GE=[nutshell].[Fem]|Gloss=nutshell.Fem|nWord=17|RX=[NOUN]
 5	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 6	shiː	shiː	PRON	_	_	0	root	_	GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]

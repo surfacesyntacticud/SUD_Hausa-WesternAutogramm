@@ -65,7 +65,7 @@
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	tanàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=8|RX=[AUX]
 9	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]|wordform=sô
-10	mài	mài	PART	_	_	9	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=10|RX=[PART]
+10	mài	mài	ADP	_	_	9	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=10|RX=[PART]
 11	doːkìː	doːkìː	NOUN	_	_	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=11|RX=[NOUN]
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
@@ -80,7 +80,7 @@
 2	in	in	SCONJ	_	_	21	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 3	tag	(n)kà	AUX	_	Aspect=PerfBkg	2	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=3|RX=[AUX]
 4	ga	ganiː	VERB	_	_	3	comp:aux	_	GE=see|Gloss=see|nWord=4|RX=[VERB]
-5	mài	mài	PART	_	_	4	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=5|RX=[PART]
+5	mài	mài	ADP	_	_	4	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=5|RX=[PART]
 6	doːkìː	doːkìː	NOUN	_	_	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaː	yaː	AUX	_	Aspect=Perf	3	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
@@ -119,7 +119,7 @@
 6	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	tag	(n)kà	AUX	_	Aspect=PerfBkg	6	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
-9	mài	mài	PART	_	_	11	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
+9	mài	mài	ADP	_	_	11	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	yaː	yaː	AUX	_	Aspect=Perf	8	parataxis@comp	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=11|RX=[AUX]
 12	wucèː	wucèː	VERB	_	_	11	comp:aux	_	GE=pass_by|Gloss=pass_by|nWord=12|RX=[VERB]
@@ -133,7 +133,7 @@
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	GE=say|Gloss=say|nWord=20|RX=[VERB]
 21	:	:	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 22	màːtam	màːtaː	NOUN	_	Definite=Cons	25	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=22|RX=[NOUN]|wordform=màːta
-23	mài	mài	PART	_	_	22	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
+23	mài	mài	ADP	_	_	22	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
 24	doːkìː	doːkìː	NOUN	_	_	23	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
 25	taː	yaː	AUX	_	Aspect=Perf	20	comp:obj@T	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=25|RX=[AUX]
 26	ji	jiyàː	VERB	_	_	25	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=26|RX=[VERB]
@@ -408,7 +408,7 @@
 6	dai	dai	TopPART	_	_	5	discourse@top	_	GE=indeed|Gloss=indeed|nWord=6|RX=[TOPPART]
 7	taː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
-9	mài	mài	PART	_	_	8	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
+9	mài	mài	ADP	_	_	8	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	GE=but|Gloss=but|nWord=12|RX=[CCONJ]
@@ -575,7 +575,7 @@
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 20	taː	yaː	AUX	_	Aspect=Perf	16	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=21|RX=[AUX]
 21	sàːmu	saːmùː	VERB	_	_	20	comp:aux	_	GE=get|Gloss=get|nWord=22|RX=[VERB]
-22	mài	mài	PART	_	_	21	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
+22	mài	mài	ADP	_	_	21	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
 23	doːkìː	doːkìː	NOUN	_	_	22	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
 24	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 25	bàtà	bài	AUX	_	Aspect=PerfNeg	20	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=26|RX=[AUX]
@@ -688,7 +688,7 @@
 26	kà	kà	AUX	_	Aspect=ProgBkg	24	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=26|RX=[AUX]
 27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN	26	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=27|RX=[VERB]
 28	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-29	kuma	kuma	PART	_	_	30	discourse	_	GE=also|Gloss=also|nWord=29|RX=[ADV]
+29	kuma	kuma	PART	_	_	30	discourse	_	GE=also|Gloss=also|nWord=29|PartType=Disc|RX=[ADV]
 30	bâː	bâː	PredPART	_	_	23	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=30|RX=[PREDPART]
 31	indà	indà	PRON	_	_	30	subj	_	GE=where|Gloss=where|nWord=31|RX=[ADV]
 32	iskàː	iskàː	NOUN	_	_	33	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=32|RX=[NOUN]
@@ -769,7 +769,7 @@
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take.Dir|nWord=8|RX=[VERB]|wordform=ɗauk
 9	zanèn	zanèː	NOUN	_	Definite=Def	8	comp:obj	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=9|RX=[NOUN]
 10	ga	ga	DET	_	_	9	det	_	GE=[Prox]|Gloss=Prox|nWord=10|RX=[DET]
-11	mài	mài	PART	_	_	9	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=11|RX=[PART]
+11	mài	mài	ADP	_	_	9	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=11|RX=[PART]
 12	kabriː	kabriː	NOUN	_	_	11	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	yac	(n)kà	AUX	_	Aspect=PerfBkg	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=14|RX=[AUX]
@@ -867,7 +867,7 @@
 12	kà	kà	AUX	_	Aspect=ProgBkg	10	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=31|RX=[AUX]
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN	12	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=32|RX=[VERB]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
-15	kuma	kuma	PART	_	_	16	discourse	_	GE=also|Gloss=also|nWord=34|RX=[ADV]
+15	kuma	kuma	PART	_	_	16	discourse	_	GE=also|Gloss=also|nWord=34|PartType=Disc|RX=[ADV]
 16	bâː	bâː	PredPART	_	_	9	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=35|RX=[PREDPART]
 17	indà	indà	PRON	_	_	16	subj	_	GE=where|Gloss=where|nWord=36|RX=[ADV]
 18	iskàː	iskàː	NOUN	_	_	19	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=37|RX=[NOUN]
@@ -1153,7 +1153,7 @@
 1	yaz	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=1|RX=[AUX]
 2	zoː	zoː	VERB	_	_	1	comp:aux	_	GE=come|Gloss=come|nWord=2|RX=[VERB]
 3	gidam	gidaː	NOUN	_	Definite=Cons	2	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=3|RX=[NOUN]|wordform=gida
-4	mài	mài	PART	_	_	3	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=4|RX=[PART]
+4	mài	mài	ADP	_	_	3	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=4|RX=[PART]
 5	doːkìː	doːkìː	NOUN	_	_	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	yab	(n)kà	AUX	_	Aspect=PerfBkg	1	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
@@ -1255,7 +1255,7 @@
 4	gidaː	gidaː	NOUN	_	_	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
-7	mài	mài	PART	_	_	9	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=8|RX=[PART]
+7	mài	mài	ADP	_	_	9	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=8|RX=[PART]
 8	doːkìː	doːkìː	NOUN	_	_	7	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=9|RX=[NOUN]
 9	yab	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
 10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	GE=follow|Gloss=follow.Dir|nWord=11|RX=[VERB]|wordform=biy
@@ -1298,7 +1298,7 @@
 6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 8	shiː	shiː	PRON	_	_	3	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=33|RX=[PRON]
-9	mài	mài	PART	_	_	8	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
+9	mài	mài	ADP	_	_	8	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=35|RX=[NOUN]
 11	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 
@@ -1309,10 +1309,10 @@
 # text = kuma bâːta sôm mài doːkìː .
 # text_en = She did not the rider.
 # text_ortho = kuma baà ta som̀ mài dookìː,
-1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=37|RX=[ADV]
+1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=37|PartType=Disc|RX=[ADV]
 2	bâːta	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=38|RX=[AUX]
 3	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=39|RX=[VERB]|wordform=sô
-4	mài	mài	PART	_	_	3	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=40|RX=[PART]
+4	mài	mài	ADP	_	_	3	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=40|RX=[PART]
 5	doːkìː	doːkìː	NOUN	_	_	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=41|RX=[NOUN]
 6	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
 
@@ -1327,13 +1327,13 @@
 2	koːmiː	koːmiː	PRON	_	_	1	subj	_	GE=anything|Gloss=anything|nWord=44|RX=[PRON]
 3	gà	gà	ADP	_	_	1	comp:pred	_	GE=at|Gloss=at|nWord=45|RX=[ADP]
 4	ɗwaim	ɗwai	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=46|RX=[NOUN]|wordform=ɗwai
-5	mài	mài	PART	_	_	4	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=47|RX=[PART]
+5	mài	mài	ADP	_	_	4	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=47|RX=[PART]
 6	doːkìː	doːkìː	NOUN	_	_	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=48|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=49|RX=[PUNCT]
 8	sai	sai	ADP	_	_	1	mod	_	Gloss=except
 9	kaːshiː	kaːshiː	NOUN	_	_	8	comp:obj	_	GE=[excrement].[Masc]|Gloss=excrement.Masc|nWord=51|RX=[NOUN]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
-11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=53|RX=[ADV]
+11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=53|PartType=Disc|RX=[ADV]
 12	sai	sai	ADP	_	_	8	conj:coord	_	Gloss=except
 13	tuːsàː	tuːsàː	NOUN	_	_	12	comp:obj	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=55|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=56|RX=[PUNCT]
@@ -1356,7 +1356,7 @@
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	GE=return|Gloss=return|nWord=6|RX=[VERB]
 7	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN	6	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
 8	bùtum	bùtu	NOUN	_	Definite=Cons	7	udep	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
-9	mài	mài	PART	_	_	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
+9	mài	mài	ADP	_	_	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	doːkìː	doːkìː	NOUN	_	_	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	ba	ba	PART	_	_	6	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|PartType=Neg|RX=[PART]
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
