@@ -569,7 +569,7 @@
 14	tahoː	tàhi	VERB	_	_	13	comp:aux	_	GE=go|Gloss=go.Dir|nWord=15|RX=[VERB]|wordform=tah
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 16	tanàː	nàː	AUX	_	Aspect=Prog	13	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=17|RX=[AUX]
-17	ta	ta	PART	_	Aspect=Iter	16	compound@prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
+17	ta	ta	PART	_	Aspect=Iter	16	compound:prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
 18	mur̃nàː	mur̃nàː	NOUN	_	_	16	comp:aux	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=19|RX=[NOUN]
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 20	taː	yaː	AUX	_	Aspect=Perf	16	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=21|RX=[AUX]
@@ -678,7 +678,7 @@
 17	mùtun	mùtun	NOUN	_	_	18	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=17|RX=[NOUN]
 18	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
-20	ta	ta	PART	_	Aspect=Iter	19	compound@prt	_	GE=via|Gloss=Iter|nWord=20|PartType=Adv|RX=[ADP]
+20	ta	ta	PART	_	Aspect=Iter	19	compound:prt	_	GE=via|Gloss=Iter|nWord=20|PartType=Adv|RX=[ADP]
 21	zuhwàː	zuhwàː	NOUN	_	_	19	comp:pred	_	GE=[perspiration].[Fem]|Gloss=perspiration.Fem|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	bâː	bâː	PART	_	Polarity=Neg	18	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=23|PartType=Pred|RX=[PREDPART]
@@ -1014,7 +1014,7 @@
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
 1	yanàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog.do|nWord=12|RX=[AUX]
-2	ta	ta	PART	_	Aspect=Iter	1	compound@prt	_	Gloss=Iter|PartType=Adv
+2	ta	ta	PART	_	Aspect=Iter	1	compound:prt	_	Gloss=Iter|PartType=Adv
 3	mutà	mutà	PRON	_	_	1	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
 4	tuːsàː	tuːsàː	NOUN	_	_	1	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=15|RX=[NOUN]
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
@@ -1026,7 +1026,7 @@
 10	yawàː	yawàː	NOUN	_	_	8	comp:pred	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=20|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 12	tanàː	nàː	AUX	_	Aspect=Prog	7	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=22|RX=[AUX]
-13	ta	ta	PART	_	Aspect=Iter	12	compound@prt	_	GE=via|Gloss=Iter|nWord=23|PartType=Adv|RX=[ADP]
+13	ta	ta	PART	_	Aspect=Iter	12	compound:prt	_	GE=via|Gloss=Iter|nWord=23|PartType=Adv|RX=[ADP]
 14	twàːriː	twàːriː	NOUN	_	_	12	comp:aux	_	GE=[coughing].[Masc]|Gloss=coughing.Masc|nWord=24|RX=[NOUN]
 15	cikin	cikin	ADP	_	_	14	mod	_	GE=in(side)|Gloss=in(side)|nWord=25|RX=[ADP]
 16	zanèː	zanèː	NOUN	_	_	15	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=26|RX=[NOUN]
@@ -1236,7 +1236,7 @@
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
 24	yay	(n)kà	AUX	_	Aspect=PerfBkg	20	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=48|RX=[AUX]
 25	yi	yi	VERB	_	_	24	comp:aux	_	GE=do|Gloss=do|nWord=49|RX=[VERB]
-26	ta	ta	PART	_	Aspect=Iter	25	compound@prt	_	GE=via|Gloss=Iter|nWord=50|PartType=Adv|RX=[ADP]
+26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	GE=via|Gloss=Iter|nWord=50|PartType=Adv|RX=[ADP]
 27	mutà	mutà	PRON	_	_	25	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
 28	tuːsàː	tuːsàː	NOUN	_	_	25	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=53|RX=[PUNCT]
@@ -1293,7 +1293,7 @@
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=27|RX=[VERB]
 3	shì	ø	AUX	_	Aspect=Aor	2	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
-5	ta	ta	PART	_	Aspect=Iter	4	compound@prt	_	GE=via|Gloss=Iter|nWord=30|PartType=Adv|RX=[ADP]
+5	ta	ta	PART	_	Aspect=Iter	4	compound:prt	_	GE=via|Gloss=Iter|nWord=30|PartType=Adv|RX=[ADP]
 6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN	4	comp:pred	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=31|RX=[VERB]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 8	shiː	shiː	PRON	_	_	3	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=33|RX=[PRON]
