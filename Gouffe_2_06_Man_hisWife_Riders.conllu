@@ -300,7 +300,7 @@
 6	yat	(n)kà	AUX	_	Aspect=PerfBkg	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=25|RX=[AUX]
 7	tàhi	tàhi	VERB	_	_	6	comp:aux	_	GE=go|Gloss=go|nWord=26|RX=[VERB]
 8	wurin	wurin	ADP	_	Definite=Cons	7	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=27|RX=[NOUN]|wordform=wuri
-9	wani	wani	DET	_	PronType=Spec	10	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
+9	wani	wani	DET	_	Definite=Spec	10	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
 10	àboːkiːnai	àboːkiːnai	NOUN	_	_	8	comp:obj	_	GE=[friend].[Masc]|Gloss=friend.Masc.3Masc.Poss|nWord=29|RX=[NOUN]|wordform=àboːkiː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 12	ya’	(n)kà	AUX	_	Aspect=PerfBkg	6	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=31|RX=[AUX]
@@ -443,7 +443,7 @@
 12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
 13	yas	(n)kà	AUX	_	Aspect=PerfBkg	5	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=13|RX=[AUX]
 14	sàbka	sàbka	VERB	_	_	13	comp:aux	_	GE=dismount|Gloss=dismount|nWord=14|RX=[VERB]
-15	wani	wani	DET	_	PronType=Spec	16	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
+15	wani	wani	DET	_	Definite=Spec	16	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
 16	gidaː	gidaː	NOUN	_	_	14	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=16|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	13	parataxis@conj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=18|RX=[AUX]
@@ -1213,7 +1213,7 @@
 # text_ortho = ta’ ’iskèe ši gidaa, bà tà san šii ba nèe, yaz zoo wuᵲim bìkii, ši nàa dà dookìː, yak kìᵲee tà, yay yi ta mutà tuusàa.
 1	ta’	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=23|RX=[AUX]
 2	iskèː	iskèː	VERB	_	_	1	comp:aux	_	GE=find|Gloss=find|nWord=24|RX=[VERB]
-3	shi	shi	PRON	_	_	2	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
+3	shi	shi	PRON	_	_	2	comp:obj@T	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
 4	gidaː	gidaː	NOUN	_	_	2	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=26|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 6	bàtà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	1	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=28|RX=[AUX]
@@ -1337,7 +1337,7 @@
 13	tuːsàː	tuːsàː	NOUN	_	_	12	comp:obj	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=55|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=56|RX=[PUNCT]
 15	kàmaj	kàmat	ADP	_	_	1	mod	_	GE=like|Gloss=like|nWord=57|RX=[ADP]
-16	jàːkiː	jàːkiː	PUNCT	_	_	15	comp:obj	_	Gloss=donkey
+16	jàːkiː	jàːkiː	NOUN	_	_	15	comp:obj	_	Gloss=donkey
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=59|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_44

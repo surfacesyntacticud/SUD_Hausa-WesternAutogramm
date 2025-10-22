@@ -158,7 +158,7 @@
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=7|RX=[VERB]
 8	shì	shi	PRON	_	_	7	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
 9	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-10	wani	wani	PRON	_	PronType=Spec	12	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
+10	wani	wani	PRON	_	Definite=Spec	12	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
 11	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 12	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
 13	bâː	bâː	VERB	_	_	12	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
@@ -171,7 +171,7 @@
 20	sanìː	sanìː	VERB	_	_	19	comp:aux	_	GE=know|Gloss=know|nWord=20|RX=[VERB]
 21	ba	ba	PART	_	Polarity=Neg	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=21|PartType=Neg|RX=[PART]
 22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-23	wani	wani	DET	_	PronType=Spec	25	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
+23	wani	wani	DET	_	Definite=Spec	25	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
 24	kâu	kàu	PART	_	_	23	discourse@top	_	GE=anyway|Gloss=whereas|nWord=24|PartType=Top|RX=[TOPPART]
 25	kà	kà	AUX	_	Aspect=ProgBkg	12	parataxis	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=25|RX=[AUX]
 26	ci	ci	VERB	_	_	25	comp:aux	_	GE=eat|Gloss=eat|nWord=26|RX=[VERB]
@@ -208,7 +208,7 @@
 # text = wani kà yi wankaː , shì kaːmà wandà kay yi wankaː sabòːdà shiː .
 # text_en = Some, you will wash yourself (with it), it will catch the one who has washed because of it.
 # text_ortho = wani kà yi wankaa, šì kaamà wandà kay yi wankaa sabòo dà šii.
-1	wani	wani	PRON	_	PronType=Spec	2	dislocated@top	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
+1	wani	wani	PRON	_	Definite=Spec	2	dislocated@top	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
 2	kà	kà	AUX	_	Aspect=ProgBkg	0	root	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=2|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=3|RX=[VERB]
 4	wankaː	wankaː	VERB	_	ExtPos=NOUN	3	comp:pred	_	GE=[bathing].[Nmlz].[Masc]|Gloss=bathing.Nmlz.Masc|nWord=4|RX=[VERB]
@@ -230,7 +230,7 @@
 # text = wani à shaːhwàː gà jìkiː, kà rùngùmi mùtun, shì kaːmà wandà kar rùngumàː.
 # text_en = Some, you rub on your body, you hug someone, and it will catch the one you hug.
 # text_ortho = wani ’à šaahwàa gà jìkii, kà ᵲungùmi mùtun, šì kaamà wandà kaᵲ ᵲùngumàa.
-1	wani	wani	PRON	_	PronType=Spec	2	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
+1	wani	wani	PRON	_	Definite=Spec	2	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
 2	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=2|RX=[AUX]
 3	shaːhwàː	shaːhwàː	VERB	_	_	2	comp:aux	_	GE=rub|Gloss=rub|nWord=3|RX=[VERB]
 4	gà	gà	ADP	_	_	3	comp:obl	_	GE=at|Gloss=at|nWord=4|RX=[ADP]
@@ -254,7 +254,7 @@
 # text = wani kâu à shaːhwàː gà bùːraː.
 # text_en = Some, you rub on the penis.
 # text_ortho = wani kaù ’à šaahwàa gà bùuᵲaa.
-1	wani	wani	DET	_	PronType=Spec	3	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
+1	wani	wani	DET	_	Definite=Spec	3	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
 4	shaːhwàː	shaːhwàː	VERB	_	_	3	comp:aux	_	GE=rub|Gloss=rub|nWord=4|RX=[VERB]
@@ -463,7 +463,7 @@
 9	maruhiː	maruhiː	NOUN	_	_	8	comp:obj	_	GE=[cover].[Masc]|Gloss=cover.Masc|nWord=25|RX=[NOUN]
 10	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 11	koː	koː	CCONJ	_	_	13	cc	_	GE=or|Gloss=or|nWord=27|RX=[CCONJ]
-12	wani	wani	DET	_	PronType=Spec	13	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
+12	wani	wani	DET	_	Definite=Spec	13	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
 13	gwangwanin	gwangwaniː	NOUN	_	Definite=Cons	7	conj:coord	_	GE=[tin].[Masc]|Gloss=tin.Masc|nWord=29|RX=[NOUN]|wordform=gwangwani
 14	mùntàleːtàː	mùntàleːtàː	X	_	_	13	mod	_	GE=[X]|Gloss=X|nWord=30|RX=[X]
 15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
@@ -616,7 +616,7 @@
 10	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=11|RX=[AUX]
 12	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	11	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=yî
-13	wani	wani	DET	_	PronType=Spec	12	comp:pred	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=13|RX=[DET]
+13	wani	wani	DET	_	Definite=Spec	12	comp:pred	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=13|RX=[DET]
 14	har̃	har̃	SCONJ	_	_	12	mod	_	GE=until|Gloss=until|nWord=14|RX=[SCONJ]
 15	tà	ø	AUX	_	Aspect=Aor	14	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
 16	mutù	mutù	VERB	_	_	15	comp:aux	_	GE=die|Gloss=die|nWord=16|RX=[VERB]
@@ -1017,7 +1017,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=yî
-4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
+4	wani	wani	DET	_	Definite=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	comp:obj	_	GE=love_charm|Gloss=love_charm|nWord=7|RX=[PROPN]
 6	na	na/ta	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=8|RX=[PART]
 7	maːtaː	maːtaː	NOUN	_	_	6	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=9|RX=[NOUN]
@@ -1404,7 +1404,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=2|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=yî
-4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
+4	wani	wani	DET	_	Definite=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=5|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	GE=love_charm|Gloss=love_charm|nWord=6|RX=[PROPN]
 6	na	na/ta	ADP	_	_	5	mod	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=7|RX=[PART]
 7	maːtaː	maːtaː	NOUN	_	_	6	comp:obj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=8|RX=[NOUN]
@@ -1425,7 +1425,7 @@
 22	wata	wata	DET	_	_	23	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=23|RX=[DET]
 23	kwalbaː	kwalbaː	NOUN	_	_	21	comp:obj	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=24|RX=[NOUN]
 24	koː	koː	CCONJ	_	_	26	cc	_	GE=or|Gloss=or|nWord=25|RX=[CCONJ]
-25	wani	wani	DET	_	PronType=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=26|RX=[DET]
+25	wani	wani	DET	_	Definite=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=26|RX=[DET]
 26	kwaːnòː	kwaːnòː	NOUN	_	_	23	conj:coord	_	GE=[metal_bowl].[Masc]|Gloss=metal_bowl.Masc|nWord=27|RX=[NOUN]
 27	.	.	PUNCT	_	_	10	punct	_	GE=[//]|Gloss=//|nWord=28|RX=[PUNCT]
 
@@ -1641,7 +1641,7 @@
 22	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN	21	comp:obj	_	GE=[drink].[Nmlz].[Masc]|Gloss=drink.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=shâ
 23	ruwaː	ruwaː	NOUN	_	_	22	udep	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=22|RX=[NOUN]
 24	dà	dà	ADP	_	_	22	mod	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
-25	wani	wani	DET	_	PronType=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=24|RX=[DET]
+25	wani	wani	DET	_	Definite=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=24|RX=[DET]
 26	wuriː	wuriː	NOUN	_	_	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 28	sai	sai	SCONJ	_	_	21	mod	_	Gloss=until|nWord=27
@@ -1817,7 +1817,7 @@
 8	mùtun	mùtun	NOUN	_	_	9	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=8|RX=[NOUN]
 9	zâː	zâː	PART	_	_	7	comp:obj	_	GE=[Dir]|Gloss=Dir|nWord=9|PartType=Pred|RX=[PART]
 10	shi	shi	PRON	_	_	9	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
-11	wani	wani	DET	_	PronType=Spec	12	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=11|RX=[DET]
+11	wani	wani	DET	_	Definite=Spec	12	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=11|RX=[DET]
 12	sha’àniː	sha’àniː	NOUN	_	_	9	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=12|RX=[NOUN]
 13	dà	dà	ADP	_	_	9	comp:obl	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
 14	màːtashshì	màːtaːshì	NOUN	_	Definite=Cons	13	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=14|RX=[NOUN]|wordform=màːta
@@ -1888,7 +1888,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
 2	zâː'a	zâː	AUX	_	Tense=Fut	1	comp:obj	_	GE=[Fut]|Gloss=Fut.4|nWord=3|RX=[AUX]|wordform=zâː
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=5|RX=[VERB]|wordform=yî
-4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
+4	wani	wani	DET	_	Definite=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=6|RX=[DET]
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	GE=love_charm|Gloss=love_charm|nWord=7|RX=[PROPN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=9|RX=[ADV]
@@ -2547,7 +2547,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	zâː	zâː	PART	_	_	5	parataxis@mod	_	GE=[Fut]|Gloss=Dir|nWord=8|PartType=Pred|RX=[AUX]
 9	shi	shi	PRON	_	_	8	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-10	wani	wani	DET	_	PronType=Spec	11	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
+10	wani	wani	DET	_	Definite=Spec	11	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
 11	sha’àniː	sha’àniː	NOUN	_	_	8	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=11|RX=[NOUN]
 12	dà	dà	ADP	_	_	11	comp:obl	_	GE=with|Gloss=with|nWord=12|RX=[ADP]
 13	màccè	màccè	NOUN	_	_	12	comp:obj	_	GE=[female].[Fem]|Gloss=female.Fem|nWord=13|RX=[NOUN]
@@ -2921,7 +2921,7 @@
 12	shì	ø	AUX	_	Aspect=Aor	8	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
 13	ɓoːyèː	ɓoːyèː	VERB	_	_	12	comp:aux	_	GE=hide|Gloss=hide|nWord=13|RX=[VERB]
 14	su	su	PRON	_	_	13	comp:obj@T	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=14|RX=[PRON]
-15	wani	wani	DET	_	PronType=Spec	16	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
+15	wani	wani	DET	_	Definite=Spec	16	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
 16	wuriː	wuriː	NOUN	_	_	13	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=16|RX=[NOUN]
 17	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	indà	indà	ADV	_	_	19	mod	_	GE=where|Gloss=where|nWord=18|RX=[ADV]
@@ -2969,7 +2969,7 @@
 31	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	25	conj:coord	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=31|RX=[AUX]
 32	shaːhèːwaː	shaːhèː	VERB	_	ExtPos=NOUN	31	comp:aux	_	GE=rub|Gloss=rub.Nmlz.Fem|nWord=32|RX=[VERB]|wordform=shaːhèː
 33	dà	dà	ADP	_	_	32	comp:obl	_	GE=with|Gloss=with|nWord=33|RX=[ADP]
-34	wani	wani	DET	_	PronType=Spec	35	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=34|RX=[DET]
+34	wani	wani	DET	_	Definite=Spec	35	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=34|RX=[DET]
 35	ƙyalleː	ƙyalleː	NOUN	_	_	33	comp:obj	_	GE=cloth|Gloss=cloth|nWord=35|RX=[NOUN]
 36	,	,	PUNCT	_	_	38	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 37	sai	sai	ADV	_	_	38	mod	_	GE=then|Gloss=then|nWord=37|RX=[ADV]
@@ -4398,7 +4398,7 @@
 33	,	,	PUNCT	_	_	34	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 34	shì	ø	AUX	_	Aspect=Aor	25	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=34|RX=[AUX]
 35	aːdànaː	aːdànaː	VERB	_	_	34	comp:aux	_	GE=keep_safe|Gloss=keep_safe|nWord=35|RX=[VERB]
-36	wani	wani	DET	_	PronType=Spec	37	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=36|RX=[DET]
+36	wani	wani	DET	_	Definite=Spec	37	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=36|RX=[DET]
 37	wuriː	wuriː	NOUN	_	_	35	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=37|RX=[NOUN]
 38	.	.	PUNCT	_	_	25	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
 
@@ -4412,7 +4412,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	ya’	(n)kà	AUX	_	Aspect=PerfBkg	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	aːdànaː	aːdànaː	VERB	_	_	2	comp:aux	_	GE=keep_safe|Gloss=keep_safe|nWord=3|RX=[VERB]
-4	wani	wani	DET	_	PronType=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=4|RX=[DET]
+4	wani	wani	DET	_	Definite=Spec	5	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=4|RX=[DET]
 5	wuriː	wuriː	NOUN	_	_	3	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -4548,7 +4548,7 @@
 34	gà	gà	ADP	_	_	30	conj:coord	_	GE=at|Gloss=at|nWord=34|RX=[ADP]
 35	roːmon	roːmoː	NOUN	_	Definite=Cons	34	comp:obj	_	GE=[broth].[Masc]|Gloss=broth.Masc|nWord=35|RX=[NOUN]|wordform=roːmo
 36	naːmàː	naːmàː	NOUN	_	_	35	mod	_	GE=[meat].[Masc]|Gloss=meat.Masc|nWord=36|RX=[NOUN]
-37	,	,	PUNCT	_	_	12	mod	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
+37	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
 38	in	in	SCONJ	_	_	73	mod	_	GE=if|Gloss=if|nWord=38|RX=[SCONJ]
 39	tak	(n)kà	AUX	_	Aspect=PerfBkg	38	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=39|RX=[AUX]
 40	kùskurà	kùskurà	VERB	_	_	39	comp:aux	_	GE=make_mistake|Gloss=make_mistake|nWord=40|RX=[VERB]
@@ -4872,8 +4872,8 @@
 4	koː	koː	CCONJ	_	_	5	cc	_	GE=or|Gloss=or|nWord=4|RX=[CCONJ]
 5	kàryaː	kàryaː	NOUN	_	_	2	conj:coord	_	GE=[bitch].[Fem]|Gloss=bitch.Fem|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	gàme	gàme	VERB	_	ExtPos=ADP	12	dislocated@comp	_	GE=[gather].[Part].[Stat]|Gloss=gather.Part.Stat|Idiom=Yes|nWord=7|RX=[VERB]
-8	dà	dà	ADP	_	_	7	comp:obl	_	GE=with|Gloss=with|InIdiom=Yes|nWord=8|RX=[ADP]
+7	gàme	gàme	VERB	_	_	12	dislocated@comp	_	GE=[gather].[Part].[Stat]|Gloss=gather.Part.Stat|nWord=7|RX=[VERB]
+8	dà	dà	ADP	_	_	7	comp:obl	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
 9	mài	mài	ADP	_	_	8	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
 10	suː	suː	PRON	_	_	9	comp:obl	_	GE=[3Plur]|Gloss=3Plur|nWord=10|RX=[PRON]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -4947,7 +4947,7 @@
 8	hushiː	hushiː	NOUN	_	_	7	comp:obj	_	GE=[anger].[Masc]|Gloss=anger.Masc|nWord=8|RX=[NOUN]
 9	dà	dà	ADP	_	_	8	comp:obl	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
 10	mùtun	mùtun	NOUN	_	_	9	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=10|RX=[NOUN]
-11	//	//	NOUN	_	_	6	comp:obj	_	GE=[person].[Masc]|Gloss=PUNCT|nWord=10
+11	//	//	NOUN	_	_	6	punct	_	GE=[person].[Masc]|Gloss=PUNCT|nWord=10
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_180-180
 # speaker_id = *
@@ -5533,7 +5533,7 @@
 5	sai	sai	ADV	_	_	6	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=7|RX=[VERB]
-8	su	su	PRON	_	_	7	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=8|RX=[PRON]
+8	su	su	PRON	_	_	7	comp:obj@T	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=8|RX=[PRON]
 9	wuriː	wuriː	NOUN	_	_	7	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=9|RX=[NOUN]
 10	gùdaː	gùdaː	NUM	_	_	9	det	_	GE=one|Gloss=one|nWord=10|RX=[NUM]
 11	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -5634,7 +5634,7 @@
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 24	à	ø	AUX	_	Aspect=Aor	12	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=24|RX=[AUX]
 25	gamèː	gamèː	VERB	_	_	24	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=25|RX=[VERB]
-26	su	su	PRON	_	_	25	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=26|RX=[PRON]
+26	su	su	PRON	_	_	25	comp:obj@T	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=26|RX=[PRON]
 27	wuriː	wuriː	NOUN	_	_	25	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=27|RX=[NOUN]
 28	gùdaː	gùdaː	NUM	_	_	27	det	_	GE=one|Gloss=one|nWord=28|RX=[NUM]
 29	à	ø	AUX	_	Aspect=Aor	24	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=29|RX=[AUX]
@@ -6464,7 +6464,7 @@
 8-9	gàrai	_	_	_	_	_	_	_	_
 8	gàr̃eː	gàr̃eː	ADP	_	_	0	root	_	GE=at/to|Gloss=at/to|nWord=9|RX=[ADP]
 9	shi	shi	PRON	_	_	8	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-10	,	,	PUNCT	_	_	11	subj	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
+10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	kàmaɗ	kàmat	ADP	_	_	8	mod	_	GE=like|Gloss=like|nWord=11|RX=[ADP]
 12	ɗam	ɗaː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=12|RX=[NOUN]|wordform=ɗa
 13	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	_	12	mod	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=13|RX=[NOUN]
