@@ -43,11 +43,10 @@
 6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	GE=one|Gloss=one|nWord=7|RX=[NUM]
 8	kâu	kâu	TopPART	_	_	7	discourse@top	_	GE=anyway|Gloss=anyway|nWord=8|RX=[TOPPART]
-9	bâː	bâː	PredPART	_	_	3	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=9|RX=[PREDPART]
-10	shi	shi	PRON	_	_	9	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
-11	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
-12	doːkìː	doːkìː	NOUN	_	_	11	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
-13	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
+9	bâːshi	bâi	AUX	_	_	3	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=9|RX=[PREDPART]|wordform=bâː
+10	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
+11	doːkìː	doːkìː	NOUN	_	_	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
+12	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_03
 # speaker_id = *
@@ -1323,7 +1322,7 @@
 # text = bâː koːmiː gà ɗwaim mài doːkìː , sai kaːshiː , kuma sai tuːsàː , kàmaj jàːkiː .
 # text_en = In the smell of rider, there was nothing except dung and farts like donkeys.
 # text_ortho = baà koomii gà ɗiiwàm mài dookìː, sai kaašii, kuma sai tuusàa, kàmaj jàakii.
-1	bâː	bâː	PredPART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=43|RX=[PREDPART]
+1	bâː	bâː	PART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=43|PartType=Pred|RX=[PREDPART]
 2	koːmiː	koːmiː	PRON	_	_	1	subj	_	GE=anything|Gloss=anything|nWord=44|RX=[PRON]
 3	gà	gà	ADP	_	_	1	comp:pred	_	GE=at|Gloss=at|nWord=45|RX=[ADP]
 4	ɗwaim	ɗwai	NOUN	_	Definite=Cons	3	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=46|RX=[NOUN]|wordform=ɗwai

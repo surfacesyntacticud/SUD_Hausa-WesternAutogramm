@@ -994,19 +994,18 @@
 3	ganai	ganiːai	VERB	_	_	2	comp:aux	_	GE=see|Gloss=see.-3Masc|nWord=3|RX=[VERB]|wordform=gan
 4	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=4|PartType=Neg|RX=[PART]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	bâː	bâː	PredPART	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=there_is.Neg|nWord=6|RX=[AUX]
-7	ta	ta	PRON	_	_	6	subj	_	Gloss=3Fem
-8	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
-9	hankàliː	hankàliː	NOUN	_	_	8	comp:obj	_	GE=[sense].[Masc]|Gloss=sense.Masc|nWord=8|RX=[NOUN]
-10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-11	bâːta	bâi	AUX	_	Aspect=ProgNeg	6	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=10|RX=[AUX]
-12	iyà	iyàː	VERB	_	_	11	comp:aux	_	GE=be_able|Gloss=be_able|nWord=11|RX=[VERB]
-13	zamaː	zama	VERB	_	ExtPos=NOUN	12	comp:obj	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=12|RX=[VERB]
-14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	sai	sai	SCONJ	_	_	12	mod	_	Gloss=until|nWord=14
-16	taː	yaː	AUX	_	Aspect=Perf	15	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=15|RX=[AUX]
-17	ganai	ganiːai	VERB	_	_	16	comp:aux	_	GE=see|Gloss=see.-3Masc|nWord=16|RX=[VERB]|wordform=gan
-18	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
+6	bâːta	bâi	AUX	_	_	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=6|RX=[AUX]|wordform=bâː
+7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
+8	hankàliː	hankàliː	NOUN	_	_	7	comp:obj	_	GE=[sense].[Masc]|Gloss=sense.Masc|nWord=8|RX=[NOUN]
+9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
+10	bâːta	bâi	AUX	_	Aspect=ProgNeg	6	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=10|RX=[AUX]
+11	iyà	iyàː	VERB	_	_	10	comp:aux	_	GE=be_able|Gloss=be_able|nWord=11|RX=[VERB]
+12	zamaː	zama	VERB	_	ExtPos=NOUN	11	comp:obj	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=12|RX=[VERB]
+13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	sai	sai	SCONJ	_	_	11	mod	_	Gloss=until|nWord=14
+15	taː	yaː	AUX	_	Aspect=Perf	14	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=15|RX=[AUX]
+16	ganai	ganiːai	VERB	_	_	15	comp:aux	_	GE=see|Gloss=see.-3Masc|nWord=16|RX=[VERB]|wordform=gan
+17	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_039-040
 # text = in zâː a yîn wani zuːgàl na maːtaː , sai à sàːmu ciːtòn taːbàː , wandà hwaram màccè tash shaː tay yaddàː .
@@ -1464,14 +1463,13 @@
 8	jibdàː	jibdàː	NOUN	_	_	7	comp:obj	_	GE=[musk].[Fem]|Gloss=musk.Fem|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	waddà	waddà	PRON	_	PronType=Rel	8	conj:appos	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=10|RX=[PRON]
-11	bâː	bâː	PredPART	_	_	10	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=11|RX=[PREDPART]
-12	ta	ta	PRON	_	_	11	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=12|RX=[PRON]
-13	dà	dà	ADP	_	_	11	comp:pred	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
-14	gamìː	gamìː	NOUN	_	_	13	comp:obj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=14|RX=[NOUN]
-15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	à	ø	AUX	_	Aspect=Aor	6	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=16|RX=[AUX]
-17	ɗiːbàː	ɗiːbàː	VERB	_	_	16	comp:aux	_	GE=take|Gloss=take|nWord=17|RX=[VERB]
-18	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
+11	bâːta	bâi	AUX	_	_	10	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=11|RX=[PREDPART]|wordform=bâː
+12	dà	dà	ADP	_	_	11	comp:pred	_	GE=with|Gloss=with|nWord=13|RX=[ADP]
+13	gamìː	gamìː	NOUN	_	_	12	comp:obj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=14|RX=[NOUN]
+14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
+15	à	ø	AUX	_	Aspect=Aor	6	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=16|RX=[AUX]
+16	ɗiːbàː	ɗiːbàː	VERB	_	_	15	comp:aux	_	GE=take|Gloss=take|nWord=17|RX=[VERB]
+17	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_056-056
 # speaker_id = *
@@ -1868,7 +1866,7 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	shiː	shiː	PRON	_	_	23	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=24|RX=[PRON]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	bâː	bâː	PredPART	_	_	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=26|RX=[PREDPART]
+26	bâː	bâː	PART	_	_	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=26|PartType=Pred|RX=[PREDPART]
 27	ruwantà	ruwaːtà	NOUN	_	Definite=Cons	26	subj	_	GE=[water].[Plur]|Gloss=water.Plur.3Fem.Poss|nWord=27|RX=[NOUN]|wordform=ruwa
 28	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=28|RX=[ADP]
 29	koːwaː	koːwaː	PRON	_	_	28	comp:obj	_	GE=everyone|Gloss=everyone|nWord=29|RX=[PRON]
@@ -3253,22 +3251,21 @@
 19	kubcèː	kubcèː	VERB	_	_	18	comp:aux	_	GE=drop|Gloss=drop|nWord=19|RX=[VERB]
 20	mutà	mutà	PRON	_	_	19	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=20|RX=[PRON]
 21	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
-22	bâː	bâː	PredPART	_	_	18	parataxis@conj	_	GE=[3Fem].[Imp].[Neg]|Gloss=there_is.Neg|nWord=22|RX=[AUX]
-23	ta	ta	PRON	_	_	22	subj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem|nWord=22|RX=[AUX]
-24	dà	dà	ADP	_	_	22	comp:pred	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
-25	wata	wata	DET	_	_	26	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=24|RX=[DET]
-26	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	24	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=25|RX=[NOUN]
-27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-28	sai	sai	SCONJ	_	_	22	mod	_	GE=then|Gloss=then|nWord=27|RX=[ADV]
-29	waddà	waddà	PRON	_	PronType=Rel	28	comp:obj	_	GE=[who].[Fem]|Gloss=what|nWord=28|RX=[PRON]
-30	kam	(n)kà	AUX	_	Aspect=PerfBkg	29	mod@relcl	_	Gloss=2MascSing.PerfBkg|nWord=29
-31	mutà	mutà	PRON	_	_	30	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
-32	,	,	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
-33	sai	sai	ADP	_	_	22	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
-34	kâu	kâu	TopPART	_	_	33	discourse@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
-35	ta	na/ta	ADP	_	_	33	comp:obj	_	GE=[PAn].[Fem]|Gloss=of|nWord=34|RX=[PART]
-36	allàː	allàː	PROPN	_	_	35	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
-37	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
+22	bâːta	bâi	AUX	_	_	18	parataxis@conj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=22|RX=[AUX]|wordform=bâː
+23	dà	dà	ADP	_	_	22	comp:pred	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
+24	wata	wata	DET	_	_	25	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=24|RX=[DET]
+25	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	_	23	comp:obj	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=25|RX=[NOUN]
+26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+27	sai	sai	SCONJ	_	_	22	mod	_	GE=then|Gloss=then|nWord=27|RX=[ADV]
+28	waddà	waddà	PRON	_	PronType=Rel	27	comp:obj	_	GE=[who].[Fem]|Gloss=what|nWord=28|RX=[PRON]
+29	kam	(n)kà	AUX	_	Aspect=PerfBkg	28	mod@relcl	_	Gloss=2MascSing.PerfBkg|nWord=29
+30	mutà	mutà	PRON	_	_	29	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
+31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
+32	sai	sai	ADP	_	_	22	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
+33	kâu	kâu	TopPART	_	_	32	discourse@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
+34	ta	na/ta	ADP	_	_	32	comp:obj	_	GE=[PAn].[Fem]|Gloss=of|nWord=34|RX=[PART]
+35	allàː	allàː	PROPN	_	_	34	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
+36	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_121-122
 # speaker_id = *
@@ -4769,11 +4766,10 @@
 3	cèː	neː	PredPART	_	_	0	root	_	GE=[Id/Foc]|Gloss=be.Masc/Plur|nWord=3|RX=[IDPART]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	dà	dà	SCONJ	_	_	2	mod@relcl	_	GE=that|Gloss=that|nWord=5|RX=[SCONJ]
-6	bâː	bâː	PredPART	_	_	5	comp:obj	_	GE=[3Fem].[Imp].[Neg]|Gloss=there_is.Neg|nWord=6|RX=[AUX]
-7	ta	ta	PRON	_	_	6	subj	_	Gloss=3Fem|nWord=6
-8	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
-9	zuccìyaː	zuccìyaː	NOUN	_	_	8	comp:obj	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=8|RX=[NOUN]
-10	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
+6	bâːta	bâi	AUX	_	_	5	comp:obj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=6|RX=[AUX]|wordform=bâː
+7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
+8	zuccìyaː	zuccìyaː	NOUN	_	_	7	comp:obj	_	GE=[heart].[Fem]|Gloss=heart.Fem|nWord=8|RX=[NOUN]
+9	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=9|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_172-172
 # speaker_id = *
