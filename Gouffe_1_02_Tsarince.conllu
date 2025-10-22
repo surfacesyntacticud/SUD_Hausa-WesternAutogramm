@@ -650,7 +650,7 @@
 # text_ortho = sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee.
 1	sàmàːriː	sàmàːriː	NOUN	_	_	2	subj	_	GE=[youth].[Plur]|Gloss=youth.Plur|nWord=9|RX=[NOUN]
 2	sunàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[Imp]|Gloss=3Plur.Prog|nWord=11|RX=[AUX]
-3	ta	ta	ADP	_	_	2	compound@prt	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
+3	ta	ta	PART	_	Aspect=Iter	2	compound@prt	_	GE=via|Gloss=Iter|nWord=12|PartType=Adv|RX=[ADP]
 4	baːdà	baːdàː	VERB	_	_	2	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
 5	kuɗiː	kuɗiː	NOUN	_	_	4	comp:obj	_	GE=[money].[Masc]|Gloss=money.Masc|nWord=14|RX=[NOUN]
 6	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
@@ -671,7 +671,7 @@
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	_	2	subj	_	GE=[drummer].[Plur]|Gloss=drummer.Plur|nWord=23|RX=[NOUN]
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	GE=[Pred/Loc]|Gloss=Prog|nWord=24|RX=[AUX]
-3	ta	ta	ADP	_	_	2	compound@prt	_	GE=via|Gloss=via|nWord=25|RX=[ADP]
+3	ta	ta	PART	_	Aspect=Iter	2	compound@prt	_	GE=via|Gloss=Iter|nWord=25|PartType=Adv|RX=[ADP]
 4	musù	musù	PRON	_	_	2	comp:obl	_	GE=[3Plur].[Dat]|Gloss=3Plur.Dat|nWord=26|RX=[PRON]
 5	kiràːrìː	kiràːrìː	NOUN	_	_	2	comp:aux	_	GE=[epithet].[Masc]|Gloss=epithet.Masc|nWord=27|RX=[NOUN]
 6	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
@@ -903,7 +903,7 @@
 14	koːwaː	koːwaː	PRON	_	_	15	subj	_	GE=everyone|Gloss=everyone|nWord=15|RX=[PRON]
 15	shì	ø	AUX	_	Aspect=Aor	10	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-17	ta	ta	ADP	_	_	16	compound@prt	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
+17	ta	ta	PART	_	Aspect=Iter	16	compound@prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
 18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN	16	comp:pred	_	GE=[call].[Nmlz].[Masc]|Gloss=call.Nmlz.Masc|nWord=19|RX=[VERB]|wordform=kirà
 19	bùdurwaːtai	bùdurwaːtai	NOUN	_	_	18	udep	_	GE=[girl].[Fem]|Gloss=girl.Fem.3Masc.Poss|nWord=20|RX=[NOUN]|wordform=bùdurwaː
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
@@ -2403,7 +2403,7 @@
 1	sai	sai	ADV	_	_	2	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
 2	sù	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=18|RX=[AUX]
 3	yi	yi	VERB	_	_	2	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
-4	ta	ta	ADP	_	_	3	compound@prt	_	GE=via|Gloss=via|nWord=20|RX=[ADP]
+4	ta	ta	PART	_	Aspect=Iter	3	compound@prt	_	GE=via|Gloss=Iter|nWord=20|PartType=Adv|RX=[ADP]
 5	hiːr̃a	hiːr̃a	NOUN	_	_	3	comp:pred	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=21|RX=[NOUN]
 6	dà	dà	ADP	_	_	5	udep	_	GE=with|Gloss=with|nWord=22|RX=[ADP]
 7	shiː	shiː	PRON	_	_	6	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=23|RX=[PRON]
@@ -2588,7 +2588,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	sù	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
-9	ta	ta	ADP	_	_	8	compound@prt	_	GE=via|Gloss=via|nWord=9|RX=[ADP]
+9	ta	ta	PART	_	Aspect=Iter	8	compound@prt	_	GE=via|Gloss=Iter|nWord=9|PartType=Adv|RX=[ADP]
 10	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	8	comp:pred	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 

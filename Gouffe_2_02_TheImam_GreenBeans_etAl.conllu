@@ -2611,7 +2611,7 @@
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sunkà	(n)kà	AUX	_	Aspect=PerfBkg	2	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=6|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=7|RX=[VERB]
-8	ta	ta	ADP	_	_	7	compound@prt	_	GE=via|Gloss=via|nWord=8|RX=[ADP]
+8	ta	ta	PART	_	Aspect=Iter	7	compound@prt	_	GE=via|Gloss=Iter|nWord=8|PartType=Adv|RX=[ADP]
 9	hiːr̃a	hiːr̃a	NOUN	_	_	7	comp:pred	_	GE=[chatting].[Fem]|Gloss=chatting.Fem|nWord=9|RX=[NOUN]
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
@@ -3295,7 +3295,7 @@
 14	kuːkaː	kuːkaː	NOUN	_	_	13	comp:obj	_	GE=[crying].[Masc]|Gloss=crying.Masc|nWord=15|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 16	tanàː	nàː	AUX	_	Aspect=Prog	12	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=17|RX=[AUX]
-17	ta	ta	ADP	_	_	16	compound@prt	_	GE=via|Gloss=via|nWord=18|RX=[ADP]
+17	ta	ta	PART	_	Aspect=Iter	16	compound@prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
 18	ƙaːraː	ƙaːraː	VERB	_	ExtPos=NOUN	16	comp:aux	_	GE=[cry_out].[Nmlz].[Fem]|Gloss=cry_out.Nmlz.Fem|nWord=19|RX=[VERB]
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 20	tanàː	nàː	AUX	_	Aspect=Prog	16	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=21|RX=[AUX]
