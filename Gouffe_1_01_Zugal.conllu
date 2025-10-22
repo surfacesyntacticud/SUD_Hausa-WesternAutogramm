@@ -172,7 +172,7 @@
 21	ba	ba	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=21|PartType=Neg|RX=[PART]
 22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	wani	wani	DET	_	PronType=Spec	25	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
-24	kâu	kâu	TopPART	_	_	23	discourse@top	_	GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
+24	kâu	kàu	TopPART	_	_	23	discourse@top	_	GE=anyway|Gloss=anyway|nWord=24|RX=[TOPPART]
 25	kà	kà	AUX	_	Aspect=ProgBkg	12	parataxis	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=25|RX=[AUX]
 26	ci	ci	VERB	_	_	25	comp:aux	_	GE=eat|Gloss=eat|nWord=26|RX=[VERB]
 27	dà	dà	ADP	_	_	26	comp:obl	_	GE=with|Gloss=with|nWord=27|RX=[ADP]
@@ -255,7 +255,7 @@
 # text_en = Some, you rub on the penis.
 # text_ortho = wani kaù ’à šaahwàa gà bùuᵲaa.
 1	wani	wani	DET	_	PronType=Spec	3	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
-2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	à	ø	AUX	_	Aspect=Aor	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
 4	shaːhwàː	shaːhwàː	VERB	_	_	3	comp:aux	_	GE=rub|Gloss=rub|nWord=4|RX=[VERB]
 5	gà	gà	ADP	_	_	4	comp:obl	_	GE=at|Gloss=at|nWord=5|RX=[ADP]
@@ -1660,7 +1660,7 @@
 # text_en = As for the bat, if it catches a branch, it holds it, it cannot let it go whatever pain it endures, unless you kill it.
 # text_ortho = ši kaù jeemaagèe, ’in yak kaamà ’iccèe, yaᵲ ᵲiƙèe, baà ši ’iyà sakìinai, koo mii wùyad dà yaš šaa, sai ’an kašèe ši.
 1	shi	shi	PRON	_	_	13	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	jeːmaːgèː	jeːmaːgèː	NOUN	_	_	1	conj:appos	_	GE=[bat].[Masc]|Gloss=bat.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1695,7 +1695,7 @@
 # text_en = As for the hedgehog, if it curls up into a ball, you cannot open it unless you kill it.
 # text_ortho = ’ita kaù biššiyaa, ’in tad dunƙùlee, baà ’a ’iyà buɗèe ta, sai ’an yankèe ta.
 1	ita	ita	PRON	_	_	9	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bishshiyaː	bishshiyaː	NOUN	_	_	1	conj:appos	_	GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1759,7 +1759,7 @@
 37	allàː	allàː	PROPN	_	_	36	comp:obj	_	GE=[God]|Gloss=God|nWord=37|RX=[PROPN]
 38	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 39	sai	sai	ADP	_	_	32	mod	_	Gloss=except
-40	kâu	kâu	TopPART	_	_	39	discourse@top	_	GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
+40	kâu	kàu	TopPART	_	_	39	discourse@top	_	GE=anyway|Gloss=anyway|nWord=40|RX=[TOPPART]
 41	mutuwàː	mutuwàː	NOUN	_	_	39	comp:obj	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=41|RX=[NOUN]
 42	.	.	PUNCT	_	_	29	punct	_	Gloss=.|nWord=42|RX=[PUNCT]
 
@@ -3262,7 +3262,7 @@
 30	mutà	mutà	PRON	_	_	29	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
 31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 32	sai	sai	ADP	_	_	22	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
-33	kâu	kâu	TopPART	_	_	32	discourse@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
+33	kâu	kàu	TopPART	_	_	32	discourse@top	_	GE=anyway|Gloss=anyway|nWord=33|RX=[TOPPART]
 34	ta	na/ta	ADP	_	_	32	comp:obj	_	GE=[PAn].[Fem]|Gloss=of|nWord=34|RX=[PART]
 35	allàː	allàː	PROPN	_	_	34	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
 36	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
@@ -6504,7 +6504,7 @@
 # text_en = As for the insect "bìː-ta-zâizâi", wherever the man goes, the woman has to follow him.
 # text_ortho = šii kaù bìi ta zaìzaì ƙwaaᵲòo, du’ ’indà namijì yay yi, sai màcceǹ tà yi ta bìyaatai.
 1	shiː	shiː	PRON	_	_	14	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kâu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
+2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=anyway|nWord=2|RX=[TOPPART]
 3	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	_	1	conj:appos	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=3|RX=[NOUN]
 4	ƙwaːròː	ƙwaːròː	NOUN	_	_	3	mod	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
