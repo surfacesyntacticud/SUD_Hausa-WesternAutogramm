@@ -30,7 +30,7 @@
 23	shì	shi	PRON	_	_	22	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=23|RX=[PRON]
 24	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	ƙarhèː	ƙarhèː	NOUN	_	_	26	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=25|RX=[NOUN]
-26	bâːshì	bâi	AUX	_	Aspect=ProgNeg	5	mod@relcl	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=26|RX=[AUX]
+26	bâːshì	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	5	mod@relcl	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=26|RX=[AUX]
 27	huːdàː	huːdàː	VERB	_	_	26	comp:aux	_	GE=pierce|Gloss=pierce|nWord=27|RX=[VERB]
 28	shi	shi	PRON	_	_	27	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=28|RX=[PRON]
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=29|RX=[PUNCT]
@@ -61,7 +61,7 @@
 17	laːyàƙ	laːyàː	NOUN	_	Definite=Def	20	dislocated@comp	_	GE=[charm].[Fem].[Def]|Gloss=charm.Fem.Def|nWord=17|RX=[NOUN]
 18	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	ƙarhèː	ƙarhèː	NOUN	_	_	20	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=19|RX=[NOUN]
-20	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=20|RX=[AUX]
+20	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=20|RX=[AUX]
 21	huːdà	huːdàː	VERB	_	_	20	comp:aux	_	GE=pierce|Gloss=pierce|nWord=21|RX=[VERB]
 22	mùtun	mùtun	NOUN	_	_	21	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=22|RX=[NOUN]
 23	.	.	PUNCT	_	_	20	punct	_	Gloss=.|nWord=23|RX=[PUNCT]
@@ -89,7 +89,7 @@
 14	jìkiː	jìkiː	NOUN	_	_	13	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	ƙarhèː	ƙarhèː	NOUN	_	_	17	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=16|RX=[NOUN]
-17	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=17|RX=[AUX]
+17	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=17|RX=[AUX]
 18	kaːmà	kaːmàː	VERB	_	_	17	comp:aux	_	GE=catch|Gloss=catch|nWord=18|RX=[VERB]
 19	jìkim	jìkiː	NOUN	_	Definite=Cons	18	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=19|RX=[NOUN]|wordform=jìki
 20	mùtun	mùtun	NOUN	_	Definite=Cons	19	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
@@ -117,7 +117,7 @@
 13	jìkiː	jìkiː	NOUN	_	_	12	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	ƙarhèː	ƙarhèː	NOUN	_	_	16	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=15|RX=[NOUN]
-16	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=16|RX=[AUX]
+16	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=16|RX=[AUX]
 17	huːdà	huːdàː	VERB	_	_	16	comp:aux	_	GE=pierce|Gloss=pierce|nWord=17|RX=[VERB]
 18	mùtun	mùtun	NOUN	_	_	17	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=18|RX=[NOUN]
 19	.	.	PUNCT	_	_	16	punct	_	Gloss=.|nWord=19|RX=[PUNCT]
@@ -150,7 +150,7 @@
 19	jìkiː	jìkiː	NOUN	_	_	18	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	ƙarhèː	ƙarhèː	NOUN	_	_	22	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=21|RX=[NOUN]
-22	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=22|RX=[AUX]
+22	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=22|RX=[AUX]
 23	huːdà	huːdàː	VERB	_	_	22	comp:aux	_	GE=pierce|Gloss=pierce|nWord=23|RX=[VERB]
 24	mùtun	mùtun	NOUN	_	_	23	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=24|RX=[NOUN]
 25	.	.	PUNCT	_	_	22	punct	_	Gloss=.|nWord=25|RX=[PUNCT]
@@ -191,7 +191,7 @@
 27	taːbàː	taːbàː	NOUN	_	_	26	udep	_	GE=[tobacco].[Fem]|Gloss=tobacco.Fem|nWord=28|RX=[NOUN]
 28	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 29	ƙarhèː	ƙarhèː	NOUN	_	_	30	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=30|RX=[NOUN]
-30	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=31|RX=[AUX]
+30	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=31|RX=[AUX]
 31	kaːmà	kaːmàː	VERB	_	_	30	comp:aux	_	GE=catch|Gloss=catch|nWord=32|RX=[VERB]
 32	mùtun	mùtun	NOUN	_	_	31	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=33|RX=[NOUN]
 33	.	.	PUNCT	_	_	30	punct	_	Gloss=.|nWord=34|RX=[PUNCT]
@@ -204,7 +204,7 @@
 # text_en = When there is no pipe, if you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	26	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	baːbù	bâː	PART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=2|PartType=Pred|RX=[PREDPART]
+2	baːbù	bâː	PART	_	Polarity=Neg	1	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=2|PartType=Pred|RX=[PREDPART]
 3	loːhèː	loːhèː	NOUN	_	_	2	subj	_	GE=[pipe].[Masc]|Gloss=pipe.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	SCONJ	_	_	26	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
@@ -228,7 +228,7 @@
 23	hayaːƙiː	hayaːƙiː	NOUN	_	_	22	udep	_	GE=[smoke].[Masc]|Gloss=smoke.Masc|nWord=23|RX=[NOUN]
 24	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
 25	ƙarhèː	ƙarhèː	NOUN	_	_	26	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=25|RX=[NOUN]
-26	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=26|RX=[AUX]
+26	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=26|RX=[AUX]
 27	kaːmà	kaːmàː	VERB	_	_	26	comp:aux	_	GE=catch|Gloss=catch|nWord=27|RX=[VERB]
 28	mùtun	mùtun	NOUN	_	_	27	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=28|RX=[NOUN]
 29	.	.	PUNCT	_	_	26	punct	_	Gloss=.|nWord=29|RX=[PUNCT]
@@ -321,7 +321,7 @@
 9	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	8	mod@relcl	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=36|RX=[NOUN]|wordform=ƙarhi
 10	mùtun	mùtun	NOUN	_	Definite=Cons	9	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=37|RX=[NOUN]
 11	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
-12	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=39|RX=[AUX]
+12	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=39|RX=[AUX]
 13	iyà	iyàː	VERB	_	_	12	comp:aux	_	GE=be_able|Gloss=be_able|nWord=40|RX=[VERB]
 14	gùrguràssù	gùrguràːsù	VERB	_	Definite=Cons|ExtPos=NOUN	13	comp:obj	_	GE=[gnaw].[Nmlz].[Fem]|Gloss=gnaw.Nmlz.Fem.3Plur.Poss|nWord=41|RX=[VERB]|wordform=gùrgurà
 15	dà	dà	ADP	_	_	14	comp:obl	_	GE=with|Gloss=with|nWord=42|RX=[ADP]
@@ -348,7 +348,7 @@
 6	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	5	mod@relcl	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=6|RX=[NOUN]|wordform=ƙarhi
 7	mùtun	mùtun	NOUN	_	Definite=Cons	6	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
-9	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=9|RX=[AUX]
+9	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=9|RX=[AUX]
 10	iyà	iyàː	VERB	_	_	9	comp:aux	_	GE=be_able|Gloss=be_able|nWord=10|RX=[VERB]
 11	dakè	dakèː	VERB	_	_	10	comp:obj	_	GE=pound|Gloss=pound|nWord=11|RX=[VERB]
 12	ɗiyan	ɗiyaː	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[daughter/seed].[Plur]|Gloss=daughter/seed.Plur|nWord=12|RX=[NOUN]|wordform=ɗiya
@@ -490,9 +490,9 @@
 # text_en = Me, I don't know.
 # text_ortho = nii bàn sanìi ba.
 1	niː	niː	PRON	_	_	2	subj	_	GE=[1Sing]|Gloss=1Sing|nWord=26|RX=[PRON]
-2	bàn	bài	AUX	_	Aspect=PerfNeg	0	root	_	GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.PerfNeg|nWord=27|RX=[AUX]
+2	bàn	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	0	root	_	GE=[1Sing].[Perf].[Neg]|Gloss=1Sing.PerfNeg|nWord=27|RX=[AUX]
 3	sanìː	sanìː	VERB	_	_	2	comp:aux	_	GE=know|Gloss=know|nWord=28|RX=[VERB]
-4	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|PartType=Neg|RX=[PART]
+4	ba	ba	PART	_	Polarity=Neg	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=29|PartType=Neg|RX=[PART]
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=30|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_015-015
@@ -514,7 +514,7 @@
 10	aikìn	aikìː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=10|RX=[NOUN]|wordform=aikì
 11	tauri	tauri	NOUN	_	_	10	mod	_	GE=[toughness_charm].[Masc]|Gloss=toughness_charm.Masc|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	bâːsu	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=13|RX=[AUX]
+13	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=13|RX=[AUX]
 14	aikìː	aikìː	NOUN	_	_	13	comp:aux	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=15|RX=[NOUN]
 15	sai	sai	ADP	_	_	14	udep	_	GE=except_for|Gloss=except_for|nWord=16|RX=[ADP]
 16	dà	dà	ADP	_	_	15	comp:obj	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
@@ -630,7 +630,7 @@
 11	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	10	comp:obj	_	GE=[story].[Masc]|Gloss=story.Masc|nWord=11|RX=[NOUN]
 12	.	.	PUNCT	_	_	13	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 13	dom	don	SCONJ	_	_	8	mod	_	GE=because|Gloss=because|nWord=1|RX=[SCONJ]
-14	bâːshi	bâi	AUX	_	Aspect=ProgNeg	13	comp:obj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=2|RX=[AUX]
+14	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	13	comp:obj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=2|RX=[AUX]
 15	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN	14	comp:aux	_	GE=be_possible|Gloss=be_possible.Nmlz.Fem|nWord=3|RX=[VERB]|wordform=yìwu
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 17	mùtun	mùtun	NOUN	_	_	18	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=5|RX=[NOUN]
@@ -641,9 +641,9 @@
 22	na	na/ta	ADP	_	_	20	mod	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=10|RX=[PART]
 23	àbùn	àbù	NOUN	_	Definite=Cons	22	comp:obj	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=11|RX=[NOUN]|wordform=àbù
 24	dà	dà	SCONJ	_	_	23	mod@relcl	_	GE=that|Gloss=that|nWord=12|RX=[SCONJ]
-25	bài	bài	AUX	_	Aspect=PerfNeg	24	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=13|RX=[AUX]
+25	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	24	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=13|RX=[AUX]
 26	sanìː	sanìː	VERB	_	_	25	comp:aux	_	GE=know|Gloss=know|nWord=14|RX=[VERB]
-27	ba	ba	PART	_	_	26	mod	_	GE=[Neg]|Gloss=Neg|nWord=15|PartType=Neg|RX=[PART]
+27	ba	ba	PART	_	Polarity=Neg	26	mod	_	GE=[Neg]|Gloss=Neg|nWord=15|PartType=Neg|RX=[PART]
 28	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=16|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_022-022_split1
@@ -668,7 +668,7 @@
 13	cîː	cîː	VERB	_	ExtPos=NOUN	12	comp:obj	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=14|RX=[VERB]
 14	neː	neː/ceː	AUX	_	_	9	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=15|RX=[IDPART]
 15	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-16	bâː'a	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=17|RX=[AUX]
+16	bâː'a	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=17|RX=[AUX]
 17	sanyàː	sâː	VERB	_	_	16	comp:aux	_	GE=put|Gloss=put|nWord=19|RX=[VERB]
 18	shi	shi	PRON	_	_	17	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=20|RX=[PRON]
 19	cikiː	ciki	ADV	_	_	17	mod	_	GE=inside|Gloss=inside|nWord=21|RX=[ADV]
@@ -680,7 +680,7 @@
 25	ciː	ci	VERB	_	_	24	comp:aux	_	GE=eat|Gloss=eat|nWord=27|RX=[VERB]
 26	shì	shi	PRON	_	_	25	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=28|RX=[PRON]
 27	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
-28	bâːshi	bâi	AUX	_	Aspect=ProgNeg	21	comp:obj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=30|RX=[AUX]
+28	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	21	comp:obj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=30|RX=[AUX]
 29	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN	28	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=31|RX=[VERB]|wordform=yî
 30	ar̃zìkiː	ar̃zìkiː	NOUN	_	_	29	udep	_	GE=[good_luck].[Masc]|Gloss=good_luck.Masc|nWord=32|RX=[NOUN]
 31	.	.	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
@@ -814,9 +814,9 @@
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	à	ø	AUX	_	Aspect=Aor	3	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	GE=come|Gloss=come|nWord=7|RX=[VERB]
-8	bài	bài	AUX	_	Aspect=PerfNeg	7	parataxis@mod	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=8|RX=[AUX]
+8	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	7	parataxis@mod	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=8|RX=[AUX]
 9	sanìː	sanìː	VERB	_	_	8	comp:aux	_	GE=know|Gloss=know|nWord=9|RX=[VERB]
-10	ba	ba	PART	_	_	9	mod	_	GE=[Neg]|Gloss=Neg|nWord=10|PartType=Neg|RX=[PART]
+10	ba	ba	PART	_	Polarity=Neg	9	mod	_	GE=[Neg]|Gloss=Neg|nWord=10|PartType=Neg|RX=[PART]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	à	ø	AUX	_	Aspect=Aor	6	parataxis@conj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=12|RX=[AUX]
 13	bùgai	bùgaːai	VERB	_	_	12	comp:aux	_	GE=beat|Gloss=beat.3Masc|nWord=13|RX=[VERB]|wordform=bùg
@@ -824,7 +824,7 @@
 15	ƙarhèː	ƙarhèː	NOUN	_	_	14	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	ƙarhèm	ƙarhèː	NOUN	_	Definite=Def	18	mod	_	GE=[iron].[Masc].[Def]|Gloss=iron.Masc.Def|nWord=17|RX=[NOUN]
-18	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=18|RX=[AUX]
+18	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=18|RX=[AUX]
 19	kaːmàː	kaːmàː	VERB	_	_	18	comp:aux	_	GE=catch|Gloss=catch|nWord=19|RX=[VERB]
 20	shi	shi	PRON	_	_	19	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=20|RX=[PRON]
 21	.	.	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
@@ -1016,7 +1016,7 @@
 24	dà	dà	ADP	_	_	20	conj:coord	_	GE=with|Gloss=with|nWord=25|RX=[ADP]
 25	wuƙaː	wuƙaː	NOUN	_	_	24	comp:obj	_	GE=[knife].[Fem]|Gloss=knife.Fem|nWord=26|RX=[NOUN]
 26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
-27	bâːshi	bâi	AUX	_	Aspect=ProgNeg	16	parataxis	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=28|RX=[AUX]
+27	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	16	parataxis	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=28|RX=[AUX]
 28	huːdèːwaː	huːdèː	VERB	_	ExtPos=NOUN	27	comp:aux	_	GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=29|RX=[VERB]|wordform=huːdèː
 29	.	.	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 
@@ -1029,7 +1029,7 @@
 # text_ortho = koo huᵲii baà ši yiì, sabàd dà tauᵲi.
 1	koː	koː	ADV	_	_	2	mod	_	GE=even|Gloss=even|nWord=31|RX=[ADV]
 2	huriː	huriː	NOUN	_	_	3	subj	_	GE=[scratch].[Masc]|Gloss=scratch.Masc|nWord=32|RX=[NOUN]
-3	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=33|RX=[AUX]
+3	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=33|RX=[AUX]
 4	yîː	yi	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=34|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
 6	sabòːdà	sabòːdà	SCONJ	_	_	4	mod	_	GE=because|Gloss=because|nWord=36|RX=[SCONJ]
@@ -1061,7 +1061,7 @@
 16	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=16|RX=[ADP]
 17	màr̃tôː	màr̃tôː	NOUN	_	_	16	comp:obj	_	GE=[hammer].[Masc]|Gloss=hammer.Masc|nWord=17|RX=[NOUN]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-19	bâːsu	bâi	AUX	_	Aspect=ProgNeg	12	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=19|RX=[AUX]
+19	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	12	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=19|RX=[AUX]
 20	huːdèːwaː	huːdèː	VERB	_	ExtPos=NOUN	19	comp:aux	_	GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=20|RX=[VERB]|wordform=huːdèː
 21	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -1086,7 +1086,7 @@
 12	ta	ta	ADP	_	_	11	compound@prt	_	GE=via|Gloss=via|nWord=12|RX=[ADP]
 13	bugàːwaː	bugàː	VERB	_	ExtPos=NOUN	11	comp:pred	_	GE=beat|Gloss=beat.Nmlz.Fem|nWord=13|RX=[VERB]|wordform=bugàː
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-15	bâːsu	bâi	AUX	_	Aspect=ProgNeg	10	parataxis	_	GE=[Neg]|Gloss=3Plur.ProgNeg|nWord=15|RX=[AUX]
+15	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	10	parataxis	_	GE=[Neg]|Gloss=3Plur.ProgNeg|nWord=15|RX=[AUX]
 16	huːdèːwaː	huːdèː	VERB	_	ExtPos=NOUN	15	comp:aux	_	GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=17|RX=[VERB]|wordform=huːdèː
 17	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
@@ -1112,7 +1112,7 @@
 13	ta	ta	ADP	_	_	12	compound@prt	_	GE=via|Gloss=via|nWord=13|RX=[ADP]
 14	bugàːwaː	bugàː	VERB	_	ExtPos=NOUN	12	comp:pred	_	GE=beat|Gloss=beat.Nmlz.Fem|nWord=14|RX=[VERB]|wordform=bugàː
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	bâːsu	bâi	AUX	_	Aspect=ProgNeg	11	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=16|RX=[AUX]
+16	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	11	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=16|RX=[AUX]
 17	huːdèːwaː	huːdèː	VERB	_	ExtPos=NOUN	16	comp:aux	_	Gloss=pierce.Nmlz.Fem|nWord=18|RX=[VERB]
 18	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
@@ -1134,7 +1134,7 @@
 9	ta	ta	ADP	_	_	8	compound@prt	_	GE=via|Gloss=via|nWord=9|RX=[ADP]
 10	bugàːwaː	bugàː	VERB	_	ExtPos=NOUN	8	comp:pred	_	GE=beat|Gloss=beat.Nmlz.Fem|nWord=10|RX=[VERB]|wordform=bugàː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
-12	bâːsu	bâi	AUX	_	Aspect=ProgNeg	7	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=12|RX=[AUX]
+12	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	7	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=12|RX=[AUX]
 13	huːdèːwaː	huːdèː	VERB	_	ExtPos=NOUN	12	comp:aux	_	GE=pierce|Gloss=pierce.Nmlz.Fem|nWord=13|RX=[VERB]|wordform=huːdèː
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=14|RX=[PUNCT]
 
@@ -1180,7 +1180,7 @@
 33	koː	koː	CCONJ	_	_	34	cc	_	GE=or|Gloss=or|nWord=33|RX=[CCONJ]
 34	takòːbiː	takòːbiː	NOUN	_	_	32	conj:coord	_	GE=[sword].[Masc]|Gloss=sword.Masc|nWord=34|RX=[NOUN]
 35	,	,	PUNCT	_	_	36	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=35|RX=[PUNCT]
-36	bâːsu	bâi	AUX	_	Aspect=ProgNeg	24	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=36|RX=[AUX]
+36	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	24	parataxis	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=36|RX=[AUX]
 37	huːdàː	huːdàː	VERB	_	_	36	comp:aux	_	GE=pierce|Gloss=pierce|nWord=38|RX=[VERB]
 38	shi	shi	PRON	_	_	37	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=39|RX=[PRON]
 39	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=40|RX=[PUNCT]
@@ -1240,7 +1240,7 @@
 6	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	kuma	kuma	PART	_	_	9	discourse	_	GE=also|Gloss=also|nWord=7|PartType=Disc|RX=[ADV]
 8	r̃eːzàː	r̃eːzàː	NOUN	_	_	9	subj	_	GE=[razor_blade].[Fem]|Gloss=razor_blade.Fem|nWord=8|RX=[NOUN]
-9	bâːta	bâi	AUX	_	Aspect=ProgNeg	4	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=9|RX=[AUX]
+9	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	4	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=9|RX=[AUX]
 10	yankèː	yankèː	VERB	_	_	9	comp:aux	_	GE=kill|Gloss=kill|nWord=10|RX=[VERB]
 11	su	su	PRON	_	_	10	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=11|RX=[PRON]
 12	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
@@ -1270,7 +1270,7 @@
 16	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	kuma	kuma	PART	_	_	19	discourse	_	GE=also|Gloss=also|nWord=17|PartType=Disc|RX=[ADV]
 18	kwalbaː	kwalbaː	NOUN	_	_	19	subj	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=18|RX=[NOUN]
-19	bâːta	bâi	AUX	_	Aspect=ProgNeg	14	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=19|RX=[AUX]
+19	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	14	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=19|RX=[AUX]
 20	yankèː	yankèː	VERB	_	_	19	comp:aux	_	GE=kill|Gloss=kill|nWord=20|RX=[VERB]
 21	su	su	PRON	_	_	20	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl|nWord=21|RX=[PRON]
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
@@ -1429,7 +1429,7 @@
 10	saːyèː	saːyèː	NOUN	_	_	9	mod	_	GE=[root].[Masc]|Gloss=root.Masc|nWord=10|RX=[NOUN]
 11	sar̃ai	sar̃ai	ADV	_	_	8	mod	_	GE=completely|Gloss=completely|nWord=11|RX=[ADV]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	bâːshi	bâi	AUX	_	Aspect=ProgNeg	7	conj:coord	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=13|RX=[AUX]
+13	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	7	conj:coord	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=13|RX=[AUX]
 14	daːc'è	daːc'èː	VERB	_	_	13	comp:aux	_	GE=snap|Gloss=snap|nWord=14|RX=[VERB]
 15	saːyèn	saːyèː	NOUN	_	Definite=Def	14	comp:obj	_	GE=[root].[Masc].[Def]|Gloss=root.Masc.Def|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
@@ -1539,7 +1539,7 @@
 2	yat	(n)kà	AUX	_	Aspect=PerfBkg	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Masc.Poss|nWord=3|RX=[VERB]|wordform=tàhiyàː
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=5|RX=[AUX]
+5	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=5|RX=[AUX]
 6	koːmàːwaː	koːmàː	VERB	_	ExtPos=NOUN	5	comp:aux	_	GE=return|Gloss=return.Nmlz.Fem|nWord=6|RX=[VERB]|wordform=koːmàː
 7	wurîn	wuriː	NOUN	_	Definite=Def	6	comp:obj@G	_	GE=[place].[Masc].[Def]|Gloss=place.Masc.Def|nWord=7|RX=[NOUN]
 8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
@@ -1626,7 +1626,7 @@
 21	yaː	yaː	AUX	_	Aspect=Perf	20	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=21|RX=[AUX]
 22	toːnèː	toːnèː	VERB	_	_	21	comp:aux	_	GE=dig_up|Gloss=dig_up|nWord=22|RX=[VERB]
 23	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
-24	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=24|RX=[AUX]
+24	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=24|RX=[AUX]
 25	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN	24	comp:aux	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc.3Masc.Poss|nWord=25|RX=[VERB]|wordform=ganiː
 26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27	sai	sai	SCONJ	_	_	25	mod	_	GE=unless|Gloss=unless|nWord=27|RX=[ADV]
@@ -1646,9 +1646,9 @@
 # text_ortho = ’in kaù bài ci ba, sai šì ’iskè saayèn tàaᵲe dà ƙaᵲhèn, kàmaw wàddà ya’ ’ajèe ši.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
-3	bài	bài	AUX	_	Aspect=PerfNeg	1	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=3|RX=[AUX]
+3	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	1	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=3|RX=[AUX]
 4	ci	ci	VERB	_	_	3	comp:aux	_	GE=take_effect|Gloss=take_effect|nWord=4|RX=[VERB]
-5	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|PartType=Neg|RX=[PART]
+5	ba	ba	PART	_	Polarity=Neg	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|PartType=Neg|RX=[PART]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=8|RX=[AUX]
@@ -1680,7 +1680,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
-9	baːbù	bâː	PART	_	_	8	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=9|PartType=Pred|RX=[PREDPART]
+9	baːbù	bâː	PART	_	Polarity=Neg	8	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=9|PartType=Pred|RX=[PREDPART]
 10	ƙarhèn	ƙarhèː	NOUN	_	Definite=Def	9	subj	_	GE=[iron].[Masc].[Def]|Gloss=iron.Masc.Def|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
@@ -2120,7 +2120,7 @@
 6	wânnan	wânnan	PRON	_	_	5	comp:obj	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=6|RX=[PRON]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 8	ƙarhèː	ƙarhèː	NOUN	_	_	9	subj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=9|RX=[NOUN]
-9	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=10|RX=[AUX]
+9	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=10|RX=[AUX]
 10	koːmà	koːmà	VERB	_	_	9	comp:aux	_	GE=come_back|Gloss=come_back|nWord=11|RX=[VERB]
 11	huːdàː	huːdàː	VERB	_	_	10	comp:obj	_	GE=pierce|Gloss=pierce|nWord=12|RX=[VERB]
 12	shi	shi	PRON	_	_	11	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
@@ -2248,11 +2248,11 @@
 # sent_timecode = 73000, 74000
 # text_en = You don't stay one day without sewing it.
 # text_ortho = baà ši kwaanaa bà ’à ɗumkèe ba.
-1	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=53|RX=[AUX]
+1	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=53|RX=[AUX]
 2	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	1	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=54|RX=[VERB]
-3	bà’à	bài	AUX	_	Aspect=PerfNeg	2	mod	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=55|RX=[AUX]
+3	bà’à	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	2	mod	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=55|RX=[AUX]
 4	ɗumkèː	ɗumkèː	VERB	_	_	3	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=56|RX=[VERB]
-5	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=57|PartType=Neg|RX=[PART]
+5	ba	ba	PART	_	Polarity=Neg	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=57|PartType=Neg|RX=[PART]
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=58|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_075-075
@@ -2272,10 +2272,10 @@
 8	yak	(n)kà	AUX	_	Aspect=PerfBkg	6	conj:coord	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=8|RX=[AUX]
 9	kwan	kwaːnaː	VERB	_	ExtPos=NOUN	8	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	bà’à	bài	AUX	_	Aspect=PerfNeg	9	mod	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=11|RX=[AUX]
+11	bà’à	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	9	mod	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=11|RX=[AUX]
 12	ɗumkèː	ɗumkèː	VERB	_	_	11	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=12|RX=[VERB]
 13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
-14	ba	ba	PART	_	_	12	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|PartType=Neg|RX=[PART]
+14	ba	ba	PART	_	Polarity=Neg	12	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|PartType=Neg|RX=[PART]
 15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	aikìːnai	aikìːnai	NOUN	_	_	17	subj	_	GE=[work].[Masc]|Gloss=work.Masc.3Masc.Poss|nWord=16|RX=[NOUN]|wordform=aikìː
 17	yaː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=17|RX=[AUX]
@@ -2591,7 +2591,7 @@
 10	ɗiːbàm	ɗìːbaː	VERB	_	Definite=Cons|ExtPos=NOUN	9	mod	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem|nWord=12|RX=[VERB]|wordform=ɗiːbà
 11	maːgànîn	maːgàniː	NOUN	_	Definite=Def	10	udep	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=13|RX=[NOUN]
 12	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-13	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=15|RX=[AUX]
+13	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=15|RX=[AUX]
 14	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	13	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=16|RX=[VERB]
 15	dà	dà	ADP	_	_	14	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
 16	ƙarhèː	ƙarhèː	NOUN	_	_	15	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=18|RX=[NOUN]
@@ -2727,7 +2727,7 @@
 36	wânnam	wânnan	DET	_	_	37	det	_	GE=[Prox].[Masc/Fem]|Gloss=Prox.Masc/Fem|nWord=84|RX=[PRON]
 37	maːgàniː	maːgàniː	NOUN	_	_	35	comp:obj	_	GE=[charm].[Masc]|Gloss=charm.Masc|nWord=85|RX=[NOUN]
 38	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=86|RX=[PUNCT]
-39	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=87|RX=[AUX]
+39	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=87|RX=[AUX]
 40	kwancìː	kwancìː	VERB	_	ExtPos=NOUN	39	comp:aux	_	GE=[lie_down].[Nmlz].[Masc]|Gloss=lie_down.Nmlz.Masc|nWord=88|RX=[VERB]
 41	dà	dà	ADP	_	_	40	comp:obl	_	GE=with|Gloss=with|nWord=89|RX=[ADP]
 42	shiː	shiː	PRON	_	_	41	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=90|RX=[PRON]
@@ -2753,9 +2753,9 @@
 11	neː	neː/ceː	AUX	_	_	14	mod	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=11|RX=[IDPART]
 12	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	maːgànîm	maːgàniː	NOUN	_	Definite=Def	14	subj	_	GE=[charm].[Masc].[Def]|Gloss=charm.Masc.Def|nWord=13|RX=[NOUN]
-14	bài	bài	AUX	_	Aspect=PerfNeg	0	root	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=14|RX=[AUX]
+14	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=14|RX=[AUX]
 15	yi	yi	VERB	_	_	14	comp:aux	_	GE=do|Gloss=do|nWord=15|RX=[VERB]
-16	ba	ba	PART	_	_	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|PartType=Neg|RX=[PART]
+16	ba	ba	PART	_	Polarity=Neg	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|PartType=Neg|RX=[PART]
 17	.	.	PUNCT	_	_	14	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_090-090
@@ -2767,11 +2767,11 @@
 # text_ortho = ’àmmaa ’im bà kà kwan dà ƙaᵲhèe ba, dà ᵲan dà zaà ka ɗiibàm maagàniǹ, kaɗ ɗeeboo maagàniǹ, ’in ši nàa gà jìkinkà, du’ ’iᵲìn juuyì wandà ’ankà yi dà ƙaᵲhèe, baà ši huudè jìkinkà.
 1	àmmaː	àmmaː	CCONJ	_	_	34	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	im	in	SCONJ	_	_	34	mod	_	GE=if|Gloss=if|nWord=2|RX=[SCONJ]
-3	bàkà	bài	AUX	_	Aspect=PerfNeg	2	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=3|RX=[AUX]
+3	bàkà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	2	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=3|RX=[AUX]
 4	kwan	kwaːnaː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
 5	dà	dà	ADP	_	_	4	comp:obl	_	GE=with|Gloss=with|nWord=5|RX=[ADP]
 6	ƙarhèː	ƙarhèː	NOUN	_	_	5	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=6|RX=[NOUN]
-7	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=7|PartType=Neg|RX=[PART]
+7	ba	ba	PART	_	Polarity=Neg	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=7|PartType=Neg|RX=[PART]
 8	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	dà	dà	ADP	_	_	34	mod	_	GE=with|Gloss=with|nWord=9|RX=[ADP]
 10	raːnan	raːnaː	NOUN	_	Definite=Cons	9	comp:obj	_	GE=[day].[Fem]|Gloss=day.Fem|nWord=10|RX=[NOUN]|wordform=raːna
@@ -2798,7 +2798,7 @@
 31	dà	dà	ADP	_	_	30	comp:obl	_	GE=with|Gloss=with|nWord=32|RX=[ADP]
 32	ƙarhèː	ƙarhèː	NOUN	_	_	31	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=33|RX=[NOUN]
 33	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
-34	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=35|RX=[AUX]
+34	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=35|RX=[AUX]
 35	huːdè	huːdàː	VERB	_	_	34	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=36
 36	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	35	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=37|RX=[NOUN]|wordform=jìki
 37	.	.	PUNCT	_	_	34	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
@@ -2829,20 +2829,20 @@
 17	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	tum	tun	SCONJ	_	_	36	mod	_	GE=since/before|Gloss=since/before|nWord=18|RX=[SCONJ]
 19	mutàːneː	mutàːneː	NOUN	_	_	20	subj	_	GE=[people].[Plur]|Gloss=people.Plur|nWord=19|RX=[NOUN]
-20	bàsù	bài	AUX	_	Aspect=PerfNeg	18	comp:obj	_	GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.PerfNeg|nWord=20|RX=[AUX]
+20	bàsù	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	18	comp:obj	_	GE=[3Plur].[Perf].[Neg]|Gloss=3Plur.PerfNeg|nWord=20|RX=[AUX]
 21	taːshì	taːshì	VERB	_	_	20	comp:aux	_	GE=rise|Gloss=rise|nWord=21|RX=[VERB]
 22	dàk	dàgà	ADP	_	_	21	comp:obl	_	GE=from|Gloss=from|nWord=22|RX=[ADP]
 23	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	22	comp:obj	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=23|RX=[VERB]
-24	ba	ba	PART	_	_	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=24|PartType=Neg|RX=[PART]
+24	ba	ba	PART	_	Polarity=Neg	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=24|PartType=Neg|RX=[PART]
 25	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 26	kai	kai	PRON	_	_	28	dislocated@subj	_	GE=[2Masc]|Gloss=2Masc|nWord=26|RX=[PRON]
 27	kuma	kuma	PART	_	_	26	discourse@top	_	GE=also|Gloss=also|nWord=27|PartType=Top|RX=[TOPPART]
-28	bàkà	bài	AUX	_	Aspect=PerfNeg	20	conj:coord	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=28|RX=[AUX]
+28	bàkà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	20	conj:coord	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=28|RX=[AUX]
 29	yi	yi	VERB	_	_	28	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
 30	màganàː	màganàː	NOUN	_	_	29	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=30|RX=[NOUN]
 31	dà	dà	ADP	_	_	29	comp:obl	_	GE=with|Gloss=with|nWord=31|RX=[ADP]
 32	koːwaː	koːwaː	PRON	_	_	31	comp:obj	_	GE=everyone|Gloss=everyone|nWord=32|RX=[PRON]
-33	ba	ba	PART	_	_	29	mod	_	GE=[Neg]|Gloss=Neg|nWord=33|PartType=Neg|RX=[PART]
+33	ba	ba	PART	_	Polarity=Neg	29	mod	_	GE=[Neg]|Gloss=Neg|nWord=33|PartType=Neg|RX=[PART]
 34	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
 35	sai	sai	ADV	_	_	36	mod	_	GE=then|Gloss=then|nWord=35|RX=[ADV]
 36	kà	ø	AUX	_	Aspect=Aor	0	root	_	GE=[2Masc].[Aor]|Gloss=2Masc.Aor|nWord=36|RX=[AUX]
@@ -2874,12 +2874,12 @@
 6	zâːka	zâː	AUX	_	Tense=Fut	2	conj:coord	_	GE=[Fut]|Gloss=Fut.2Masc|nWord=6|RX=[AUX]|wordform=zâː
 7	ɗiːbàttà	ɗìːbaː	VERB	_	Definite=Cons|ExtPos=NOUN	6	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Fem.Poss|nWord=8|RX=[VERB]|wordform=ɗiːbà
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
-9	bâː’a	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=10|RX=[AUX]
+9	bâː’a	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=10|RX=[AUX]
 10	ɗiːbàttà	ɗiːbàːtà	VERB	_	Definite=Cons|ExtPos=NOUN	9	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Fem.Poss|nWord=11|RX=[VERB]|wordform=ɗiːbà
 11	dà	dà	ADP	_	_	10	comp:obl	_	GE=with|Gloss=with|nWord=12|RX=[ADP]
 12	hannuː	hannuː	NOUN	_	_	11	comp:obj	_	GE=hand/arm|Gloss=hand/arm|nWord=13|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
-14	bâː’a	bâi	AUX	_	Aspect=ProgNeg	9	parataxis	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=15|RX=[AUX]
+14	bâː’a	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	9	parataxis	_	GE=[4].[Imp].[Neg]|Gloss=4.ProgNeg|nWord=15|RX=[AUX]
 15	ɗiːbàttà	ɗiːbàːtà	VERB	_	Definite=Cons|ExtPos=NOUN	14	comp:aux	_	GE=[take].[Nmlz].[Fem]|Gloss=take.Nmlz.Fem.3Fem.Poss|nWord=16|RX=[VERB]|wordform=ɗiːbà
 16	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
 17	ƙarhèː	ƙarhèː	NOUN	_	_	16	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=18|RX=[NOUN]
@@ -3177,12 +3177,12 @@
 # text_en = Before you put the belt on it, that belt, before rubbing it with henna and candy, you must rub it with donkey marrow.
 # text_ortho = tum bà kà ’azà kàrhoo gàᵲee tà ba, šii kàrhoo, tun kaǹ kà šaahwàa mai šuunii dà ’àleewà, sai kaa šaahèe ši dà ɓaᵲgon jàakii.
 1	tum	tun	SCONJ	_	_	22	mod	_	GE=since/before|Gloss=since/before|nWord=11|RX=[SCONJ]
-2	bàkà	bài	AUX	_	Aspect=PerfNeg	1	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=12|RX=[AUX]
+2	bàkà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	1	comp:obj	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=12|RX=[AUX]
 3	azà	azàː	VERB	_	_	2	comp:aux	_	GE=put|Gloss=put|nWord=13|RX=[VERB]
 4	kàr̃hoː	kàr̃hoː	NOUN	_	_	3	comp:obj	_	GE=[charm_belt].[Masc]|Gloss=charm_belt.Masc|nWord=14|RX=[NOUN]
 5	gà	gà	ADP	_	_	3	comp:obl	_	GE=at|Gloss=at|nWord=15|RX=[ADP]
 6	ta	ta	PRON	_	_	5	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-7	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|PartType=Neg|RX=[PART]
+7	ba	ba	PART	_	Polarity=Neg	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|PartType=Neg|RX=[PART]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 9	shiː	shiː	PRON	_	_	22	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=19|RX=[PRON]
 10	kàr̃hoː	kàr̃hoː	NOUN	_	_	9	conj:appos	_	GE=[charm_belt].[Masc]|Gloss=charm_belt.Masc|nWord=20|RX=[NOUN]
@@ -3294,10 +3294,10 @@
 # text_en = If you haven't pierced holes in it, [which] in the beginning you have already made, if that lining has caught the leather, not a thousand needles or a thousand skewers can pierce that leather, much less sew the belt [on it].
 # text_ortho = ’im bà ’à mutà hùude-hùudee ba, tun hwaaᵲìn ’ankà ᵲìgyaa ’ankà ’azàa ši, šaahìn nan yak kaamà hwaatàa, koo ’an taaᵲà ’àlluuràa dubuu, c’inkèe dubuu, baà su ’iya huudè hwaatàk, bàlee ’à ɗumkè kàrhoǹ.
 1	im	in	SCONJ	_	_	29	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
-2	bà’à	bài	AUX	_	Aspect=PerfNeg	1	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=28|RX=[AUX]
+2	bà’à	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	1	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=28|RX=[AUX]
 3	mutà	mutà	PRON	_	_	2	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=29|RX=[PRON]
 4	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	_	2	comp:pred	_	GE=[holes].[Plur]|Gloss=holes.Plur|nWord=30|RX=[NOUN]
-5	ba	ba	PART	_	_	2	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|PartType=Neg|RX=[PART]
+5	ba	ba	PART	_	Polarity=Neg	2	mod	_	GE=[Neg]|Gloss=Neg|nWord=31|PartType=Neg|RX=[PART]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 7	tun	tun	ADP	_	_	9	mod	_	GE=since/before|Gloss=since/before|nWord=33|RX=[SCONJ]
 8	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def	7	comp:obj	_	GE=[beginning].[Masc].[Def]|Gloss=beginning.Masc.Def|nWord=34|RX=[NOUN]
@@ -3321,7 +3321,7 @@
 26	c’inkèː	c’inkèː	NOUN	_	_	24	conj:coord	_	GE=[wooden_skewer].[Masc]|Gloss=wooden_skewer.Masc|nWord=53|RX=[NOUN]
 27	dubuː	dubuː	NUM	_	_	26	det	_	GE=[thousand].[Fem]|Gloss=thousand.Fem|nWord=54|RX=[NUM]
 28	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=55|RX=[PUNCT]
-29	bâːsu	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=56|RX=[AUX]
+29	bâːsu	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Pl].[Imp].[Neg]|Gloss=3Pl.ProgNeg|nWord=56|RX=[AUX]
 30	iyà	iyàː	VERB	_	_	29	comp:aux	_	GE=be_able|Gloss=be_able|nWord=57|RX=[VERB]
 31	huːdè	huːdèː	VERB	_	_	30	comp:obj	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=58|RX=[VERB]
 32	hwaːtàk	hwaːtàː	NOUN	_	Definite=Def	31	comp:obj	_	GE=[skin].[Fem].[Def]|Gloss=skin.Fem.Def|nWord=59|RX=[NOUN]
@@ -3371,10 +3371,10 @@
 3	has	hat	SCONJ	_	_	1	mod	_	GE=until|Gloss=until|nWord=4|RX=[SCONJ]
 4	sù	ø	AUX	_	Aspect=Aor	3	comp:obj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=5|RX=[AUX]
 5	laːlàːceː	laːlàːceː	VERB	_	_	4	comp:aux	_	GE=spoil|Gloss=spoil|nWord=6|RX=[VERB]
-6	bà’à	bài	AUX	_	Aspect=PerfNeg	4	parataxis	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=8|RX=[AUX]
+6	bà’à	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	4	parataxis	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=8|RX=[AUX]
 7	ɗumkè	ɗumkèː	VERB	_	_	6	comp:aux	_	GE=sew_up|Gloss=sew_up|nWord=9|RX=[VERB]
 8	kàr̃hôm	kàr̃hoː	NOUN	_	Definite=Def	7	comp:obj	_	GE=[charm_belt].[Masc].[Def]|Gloss=charm_belt.Masc.Def|nWord=10|RX=[NOUN]
-9	ba	ba	PART	_	_	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|PartType=Neg|RX=[PART]
+9	ba	ba	PART	_	Polarity=Neg	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|PartType=Neg|RX=[PART]
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_107-107
@@ -3392,11 +3392,11 @@
 6	huːdàː	huːdàː	NOUN	_	_	3	comp:pred	_	GE=hole|Gloss=hole.Fem|nWord=7|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 8	tum	tun	SCONJ	_	_	3	mod	_	GE=since/before|Gloss=since/before|nWord=9|RX=[SCONJ]
-9	bà’à	bài	AUX	_	Aspect=PerfNeg	8	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=10|RX=[AUX]
+9	bà’à	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	8	comp:obj	_	GE=[4].[Perf].[Neg]|Gloss=4.PerfNeg|nWord=10|RX=[AUX]
 10	azàː	àzàː	VERB	_	_	9	comp:aux	_	GE=put|Gloss=put|nWord=11|RX=[VERB]
 11	mutà	mutà	PRON	_	_	10	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=12|RX=[PRON]
 12	kàr̃hoː	kàr̃hoː	NOUN	_	_	10	comp:obj	_	GE=[charm_belt].[Masc]|Gloss=charm_belt.Masc|nWord=13|RX=[NOUN]
-13	ba	ba	PART	_	_	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|PartType=Neg|RX=[PART]
+13	ba	ba	PART	_	Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=14|PartType=Neg|RX=[PART]
 14	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_108 BC_HAU_Gouffé_1_04_Tauri_109-109
@@ -3472,7 +3472,7 @@
 7	irìn	irìː	NOUN	_	Definite=Cons	10	subj	_	GE=[type].[Masc]|Gloss=type.Masc|nWord=8|RX=[NOUN]|wordform=irì
 8	ƙarhèː	ƙarhèː	NOUN	_	_	7	mod	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=9|RX=[NOUN]
 9	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-10	bâːshi	bâi	AUX	_	Aspect=ProgNeg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=11|RX=[AUX]
+10	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=11|RX=[AUX]
 11	huːdè	huːdèː	VERB	_	_	10	comp:aux	_	GE=[pierce].[Ach]|Gloss=pierce.Ach|nWord=12|RX=[VERB]
 12	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons	11	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=13|RX=[NOUN]|wordform=jìki
 13	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=14|RX=[PUNCT]

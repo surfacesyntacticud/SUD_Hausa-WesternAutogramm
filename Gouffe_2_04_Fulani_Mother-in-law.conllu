@@ -213,7 +213,7 @@
 32	,	,	PUNCT	_	_	33	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 33	indà	indà	PRON	_	_	30	mod	_	GE=where|Gloss=where|nWord=34|RX=[ADV]
 34	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	_	35	subj	_	GE=[in-law].[Fem]|Gloss=in-law.Fem.3Masc.Poss|nWord=35|RX=[NOUN]|wordform=sàràkkuwaː
-35	bâːta	bâi	AUX	_	Aspect=ProgNeg	33	mod@relcl	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=36|RX=[AUX]
+35	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	33	mod@relcl	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=36|RX=[AUX]
 36	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN	35	comp:aux	_	GE=[see].[Nmlz].[Masc]|Gloss=see.Nmlz.Masc.3Masc.Poss|nWord=37|RX=[VERB]|wordform=ganiː
 37	.	.	PUNCT	_	_	10	punct	_	Gloss=.|nWord=38|RX=[PUNCT]
 
@@ -320,7 +320,7 @@
 8	s'akad	s'akat	ADP	_	Definite=Cons	11	mod	_	GE=in_the_middle_of|Gloss=in_the_middle_of|nWord=8|RX=[ADP]
 9	daːjìː	daːjìː	NOUN	_	_	8	mod	_	GE=[bush].[Masc]|Gloss=bush.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	baːbù	bâː	PART	_	_	0	root	_	GE=there_is_no|Gloss=there_is.Neg|nWord=11|PartType=Pred|RX=[PREDPART]
+11	baːbù	bâː	PART	_	Polarity=Neg	0	root	_	GE=there_is_no|Gloss=there_is.Neg|nWord=11|PartType=Pred|RX=[PREDPART]
 12	hanyàː	hanyàː	NOUN	_	_	11	subj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 
@@ -348,11 +348,11 @@
 15	yaː	yaː	AUX	_	Aspect=Perf	10	comp:obj@T	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=28|RX=[AUX]
 16	ɓacèː	ɓacèː	VERB	_	_	15	comp:aux	_	GE=[spoil].[Ach]|Gloss=spoil.Ach|nWord=29|RX=[VERB]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-18	bài	bài	AUX	_	Aspect=PerfNeg	15	parataxis@conj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=31|RX=[AUX]
+18	bài	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	15	parataxis@conj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=31|RX=[AUX]
 19	san	sanìː	VERB	_	_	18	comp:aux	_	GE=know|Gloss=know|nWord=32|RX=[VERB]
 20	indà	indà	PRON	_	_	19	comp:obj	_	GE=where|Gloss=where|nWord=33|RX=[ADV]
 21	shikè	kè	AUX	_	_	20	mod@relcl	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc.Bkg|nWord=34|RX=[PRON]|wordform=shi
-22	ba	ba	PART	_	_	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=36|PartType=Neg|RX=[PART]
+22	ba	ba	PART	_	Polarity=Neg	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=36|PartType=Neg|RX=[PART]
 23	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=37|RX=[PUNCT]
 24	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	_	25	subj	_	GE=[confusion].[Fem]|Gloss=confusion.Fem|nWord=38|RX=[NOUN]
 25	taː	yaː	AUX	_	Aspect=Perf	18	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=39|RX=[AUX]
@@ -523,12 +523,12 @@
 # text_en = The mother-in-law does not know that his friend is there.
 # text_ortho = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
 1	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	_	2	subj	_	GE=[in-law].[Fem]|Gloss=in-law.Fem.3Masc.Poss|nWord=1|RX=[NOUN]|wordform=sàràkkuwaː
-2	bàtà	bài	AUX	_	Aspect=PerfNeg	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=2|RX=[AUX]
+2	bàtà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=2|RX=[AUX]
 3	san	sanìː	VERB	_	_	2	comp:aux	_	GE=know|Gloss=know|nWord=3|RX=[VERB]
 4	àboːkiːnai	àboːkiːnai	NOUN	_	_	5	subj	_	GE=[friend].[Masc]|Gloss=friend.Masc.3Masc.Poss|nWord=4|RX=[NOUN]|wordform=àboːkiː
 5	nàː	nàː*	AUX	_	_	3	comp:obj	_	GE=[Imp]|Gloss=Pred/Loc|nWord=5|RX=[AUX]
 6	nam	nan	ADV	_	_	5	comp:pred	_	GE=[Dist]|Gloss=Dist|nWord=6|RX=[ADV]
-7	ba	ba	PART	_	_	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=7|PartType=Neg|RX=[PART]
+7	ba	ba	PART	_	Polarity=Neg	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=7|PartType=Neg|RX=[PART]
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_20
