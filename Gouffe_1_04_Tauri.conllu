@@ -204,8 +204,8 @@
 # text_en = When there is no pipe, if you roll it like you roll tobacco in a sheet of paper, you light it and you inhale the smoke, metal won't catch you.
 # text_ortho = ’im baabù loohèe, sai ’à yi nàɗeenai, kàma’ ’an naɗè taabàa cikin takàrdaa, ’a nàa kunnà wutaa, ’a nàa šaǹ hayaaƙii, ƙaᵲhèe baà ši kaamà mùtun.
 1	im	in	SCONJ	_	_	26	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	baːbù	bâː	PredPART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=2|RX=[PREDPART]
-3	loːhèː	loːhèː	NOUN	_	_	2	mod	_	GE=[pipe].[Masc]|Gloss=pipe.Masc|nWord=3|RX=[NOUN]
+2	baːbù	bâː	PART	_	_	1	comp:obj	_	GE=there_is_no|Gloss=there_is.Neg|nWord=2|PartType=Pred|RX=[PREDPART]
+3	loːhèː	loːhèː	NOUN	_	_	2	subj	_	GE=[pipe].[Masc]|Gloss=pipe.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	sai	sai	SCONJ	_	_	26	mod	_	GE=then|Gloss=then|nWord=5|RX=[ADV]
 6	à	ø	AUX	_	Aspect=Aor	5	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=6|RX=[AUX]

@@ -1748,8 +1748,8 @@
 26	dà	dà	ADP	_	_	25	comp:obl	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 27	mùtun	mùtun	NOUN	_	_	26	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=27|RX=[NOUN]
 28	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-29	bâː	bâː	PredPART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=29|RX=[PREDPART]
-30	wandà	wandà	PRON	_	PronType=Rel	29	comp:pred	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=30|RX=[PRON]
+29	bâː	bâː	PART	_	_	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=29|PartType=Pred|RX=[PREDPART]
+30	wandà	wandà	PRON	_	PronType=Rel	29	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=30|RX=[PRON]
 31	ya’	(n)kà	AUX	_	Aspect=PerfBkg	30	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=31|RX=[AUX]
 32	iyà	iyàː	VERB	_	_	31	comp:aux	_	GE=be_able|Gloss=be_able|nWord=32|RX=[VERB]
 33	rabàː	rabàː	VERB	_	_	32	comp:obj	_	GE=separate|Gloss=separate|nWord=33|RX=[VERB]
@@ -5598,8 +5598,8 @@
 16	aikìː	aikìː	NOUN	_	_	15	comp:pred	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=16|RX=[NOUN]
 17	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
 18	ɗàriː	ɗàriː	NUM	_	_	17	comp:obj	_	GE=hundred|Gloss=hundred|nWord=18|RX=[NUM]
-19	bâː	bâː	PredPART	_	_	18	flat@num	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=19|RX=[PREDPART]
-20	ɗaya	ɗaya	NUM	_	_	19	flat@num	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
+19	bâː	bâː	PART	_	_	18	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=19|PartType=Pred|RX=[PREDPART]
+20	ɗaya	ɗaya	NUM	_	_	19	subj	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_204-204
@@ -5611,8 +5611,8 @@
 # text_ortho = ɗàᵲiǹ nan baà ɗàya, ’in ’ankà ɗèebee tà, sai ’à gamàa ta dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa, ’à gamèe su wuᵲii gùdaa ’à dakèe.
 1	ɗàrîn	ɗàriː	NUM	_	Definite=Def	12	dislocated@comp	_	GE=[hundred].[Masc].[Def]|Gloss=hundred.Masc.Def|nWord=1|RX=[NUM]
 2	nan	nan	DET	_	_	1	det	_	GE=[Dist]|Gloss=Dist|nWord=2|RX=[DET]
-3	bâː	bâː	PredPART	_	_	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|RX=[PREDPART]
-4	ɗaya	ɗaya	NUM	_	_	3	comp:pred	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
+3	bâː	bâː	PART	_	_	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|PartType=Pred|RX=[PREDPART]
+4	ɗaya	ɗaya	NUM	_	_	3	subj	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	ankà	(n)kà	AUX	_	Aspect=PerfBkg	6	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=7|RX=[AUX]

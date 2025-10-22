@@ -1907,8 +1907,8 @@
 # text_ortho = tac ceè baà koomii.
 1	tac	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
-3	bâː	bâː	PredPART	_	_	2	comp:obj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|RX=[PREDPART]
-4	koːmiː	koːmiː	PRON	_	_	3	comp:pred	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
+3	bâː	bâː	PART	_	_	2	comp:obj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|PartType=Pred|RX=[PREDPART]
+4	koːmiː	koːmiː	PRON	_	_	3	subj	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_064-064
@@ -3744,8 +3744,8 @@
 8	yaː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=22|RX=[AUX]
 9	buːshèː	buːshèː	VERB	_	_	8	comp:aux	_	GE=dry|Gloss=dry|nWord=23|RX=[BERB]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-11	bâː	bâː	PredPART	_	_	8	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=25|RX=[PREDPART]
-12	indà	indà	ADV	_	_	11	comp:pred	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
+11	bâː	bâː	PART	_	_	8	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=25|PartType=Pred|RX=[PREDPART]
+12	indà	indà	ADV	_	_	11	subj	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
 13	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons	14	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
 14	hakì:	hakì:	NOUN	_	_	15	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
 15	shikè	kè	AUX	_	_	12	mod@relcl	_	GE=[3Masc]|Gloss=3Masc.Pred/Loc.Bkg|nWord=29|RX=[PRON]
