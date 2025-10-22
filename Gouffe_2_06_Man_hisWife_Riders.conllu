@@ -42,7 +42,7 @@
 5	doːkìː	doːkìː	NOUN	_	_	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	GE=one|Gloss=one|nWord=7|RX=[NUM]
-8	kâu	kàu	TopPART	_	_	7	discourse@top	_	GE=anyway|Gloss=whereas|nWord=8|RX=[TOPPART]
+8	kâu	kàu	PART	_	_	7	discourse@top	_	GE=anyway|Gloss=whereas|nWord=8|PartType=Top|RX=[TOPPART]
 9	bâːshi	bâi	AUX	_	_	3	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=9|RX=[PREDPART]|wordform=bâː
 10	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
 11	doːkìː	doːkìː	NOUN	_	_	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
@@ -147,7 +147,7 @@
 # text_en = The husband, when he heard her, he got angry, but he left her alone whithout saying anything.
 # text_ortho = šii kàu mijìntà ši nàa jiì, sai ᵲaìnai šì ɓaacì, sai šì ƙyaalèe ta, baà ya ceè mutà koomii.
 1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	mijìntà	mijìːtà	NOUN	_	Definite=Cons	1	conj:appos	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=3|RX=[NOUN]|wordform=mijì
 4	shinàː	nàː	AUX	_	Aspect=Prog	9	parataxis@mod	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=4|RX=[AUX]
 5	jîː	jîː	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=5|RX=[VERB]
@@ -400,11 +400,11 @@
 # text_en = She, his wife, as for her, she saw a rider, but she did not know it was her husband who was on the horse.
 # text_ortho = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	_	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	màːtaːtai	màːtaːtai	NOUN	_	_	1	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=3|RX=[NOUN]|wordform=màːtaː
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	ita	ita	PRON	_	_	1	conj:appos	_	GE=[3Fem]|Gloss=3Fem|nWord=5|RX=[PRON]
-6	dai	dai	TopPART	_	_	5	discourse@top	_	GE=indeed|Gloss=however|nWord=6|RX=[TOPPART]
+6	dai	dai	PART	_	_	5	discourse@top	_	GE=indeed|Gloss=however|nWord=6|PartType=Top|RX=[TOPPART]
 7	taː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
 9	mài	mài	ADP	_	_	8	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
@@ -462,7 +462,7 @@
 # text_en = She, when she arrived, she stopped where the party was taking place.
 # text_ortho = ’ita kàu dà taz zoo, tas sàbka ’indà ’a kà bìkii.
 1	ita	ita	PRON	_	_	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	taz	(n)kà	AUX	_	Aspect=PerfBkg	3	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=4|RX=[AUX]
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	GE=come|Gloss=come|nWord=5|RX=[VERB]
@@ -620,7 +620,7 @@
 # text_en = He, before travelling, he took a wrapper that she did not know about.
 # text_ortho = šii kàu dà zaà ši tàhiyàa, yaa sàamu zanèe, wandà bà tà sanìː ba.
 1	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=3|RX=[SCONJ]
 4	zâːshi	zâː	AUX	_	Tense=Fut	3	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=4|RX=[AUX]|wordform=zâː
 5	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	4	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=6|RX=[VERB]
@@ -643,7 +643,7 @@
 # text_en = But that wrapper, it was heavy.
 # text_ortho = šii kàu zanèn nan, ši nàa dà kabᵲii.
 1	shiː	shiː	PRON	_	_	6	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	zanèn	zanèː	NOUN	_	Definite=Def	1	conj:appos	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
 4	nan	nan	DET	_	_	3	det	_	GE=[Dist]|Gloss=Dist|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -981,7 +981,7 @@
 # text_en = But he, he refused.
 # text_ortho = šii kuma sai šì hanàa.
 1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
 3	sai	sai	ADV	_	_	4	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	shì	ø	AUX	_	Aspect=Aor	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=4|RX=[AUX]
 5	hanàː	hanàː	VERB	_	_	4	comp:aux	_	Gloss=refuse
@@ -1121,7 +1121,7 @@
 3	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Fem.Poss|nWord=3|RX=[VERB]|wordform=tàhiyà
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	shiː	shiː	PRON	_	_	7	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=5|RX=[PRON]
-6	kuma	kuma	TopPART	_	_	5	discourse@top	_	GE=also|Gloss=also|nWord=6|RX=[TOPPART]
+6	kuma	kuma	PART	_	_	5	discourse@top	_	GE=also|Gloss=also|nWord=6|PartType=Top|RX=[TOPPART]
 7	yat	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	taːshì	taːshì	VERB	_	_	7	comp:aux	_	GE=rise|Gloss=rise|nWord=8|RX=[VERB]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]

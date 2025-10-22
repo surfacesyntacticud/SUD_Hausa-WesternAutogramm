@@ -43,7 +43,7 @@
 # text_en = If it is the amulet type, if you make an amulet, if it is on somebody, that amulet, metal won't pierce him.
 # text_ortho = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	20	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
 3	na	na/ta	ADP	_	_	5	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=3|RX=[PART]
 4	laːyuː	laːyuː	NOUN	_	_	3	comp:obj	_	GE=[charm].[Plur]|Gloss=charm.Plur|nWord=4|RX=[NOUN]
 5	neː	neː/ceː	AUX	_	_	1	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=5|RX=[IDPART]
@@ -328,7 +328,7 @@
 16	haƙoːriː	haƙoːriː	NOUN	_	_	15	comp:obj	_	GE=[tooth].[Masc]|Gloss=tooth.Masc|nWord=43|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=44|RX=[PUNCT]
 18	sai	sai	SCONJ	_	_	13	mod	_	GE=then|Gloss=then|nWord=45|RX=[ADV]
-19	dai	dai	TopPART	_	_	18	discourse@top	_	GE=indeed|Gloss=however|nWord=46|RX=[TOPPART]
+19	dai	dai	PART	_	_	18	discourse@top	_	GE=indeed|Gloss=however|nWord=46|PartType=Top|RX=[TOPPART]
 20	à	ø	AUX	_	Aspect=Aor	18	comp:obj	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=47|RX=[AUX]
 21	dakàː	dakàː	VERB	_	_	20	comp:aux	_	GE=pound|Gloss=pound|nWord=48|RX=[VERB]
 22	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=49|RX=[PUNCT]
@@ -342,7 +342,7 @@
 # text_ortho = koo dakàm maa, koo mii ƙaᵲhim mùtun, baà ši ’iyà dakè ɗiyan ƙòodagòo gà ’inìi gùdaa, sabòo dà tauᵲinsù.
 1	koː	koː	ADV	_	_	2	mod	_	GE=even|Gloss=even|nWord=1|RX=[ADV]
 2	dakàm	dakàː	VERB	_	Definite=Def|ExtPos=NOUN	9	mod	_	GE=[pound].[Nmlz].[Masc].[Def]|Gloss=pound.Nmlz.Masc.Def|nWord=2|RX=[VERB]
-3	maː	maː	TopPART	_	_	2	discourse@top	_	GE=self/too|Gloss=even|nWord=3|RX=[TOPPART]
+3	maː	maː	PART	_	_	2	discourse@top	_	GE=self/too|Gloss=even|nWord=3|PartType=Top|RX=[TOPPART]
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	koːmiː	koːmiː	PRON	_	_	9	mod	_	GE=anything|Gloss=anything|nWord=5|RX=[PRON]
 6	ƙarhim	ƙarhiː	NOUN	_	Definite=Cons	5	mod@relcl	_	GE=[strength].[Masc]|Gloss=strength.Masc|nWord=6|RX=[NOUN]|wordform=ƙarhi
@@ -591,7 +591,7 @@
 # text_en = But apart from them, there are many trees that you pick to use.
 # text_ortho = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
 1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	koː	kàu	TopPART	_	_	1	discourse@top	_	GE=even_if|Gloss=whereas|nWord=2|RX=[SCONJ]
+2	koː	kàu	PART	_	_	1	discourse@top	_	GE=even_if|Gloss=whereas|nWord=2|PartType=Top|RX=[SCONJ]
 3	bandà	bandà	ADP	_	_	6	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	suː	suː	PRON	_	_	3	comp:obj	_	GE=[3Plur]|Gloss=3Plur|nWord=4|RX=[PRON]
 5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -808,7 +808,7 @@
 # text_en = Or else, if he is sleeping, and someone comes without him knowing, and beats him with metal, the metal won't affect him.
 # text_ortho = koo kòo ši nàa kwaanaa, ’à zoo bài sanìi ba, ’à bùgai dà ƙaᵲhèe, ƙaᵲhèm baà ši kaamàa ši.
 1	koː	koː	CCONJ	_	_	18	mod	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
-2	kòː	kàu	TopPART	_	_	1	discourse@top	_	GE=indeed|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kòː	kàu	PART	_	_	1	discourse@top	_	GE=indeed|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	shinàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=3|RX=[AUX]
 4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN	3	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -857,7 +857,7 @@
 # text_en = Apart from this, they, the toughness showmen, if they do their toughness show, there are many medicines that they prepare to do tricks with them, for people to see and wonder.
 # text_ortho = koo kuma ban dà hakà nan suu, ’yan tauᵲi, in su nàa wàasat tauᵲi, ’àkwai maagànii dà yawàa, na tauᵲi, wandà su kài, sù yi dabòo dà šii, tàaᵲe dà ƙaᵲhèe, dom mutàanee sù ganii, sù yi màamaakìi.
 1	koː	koː	CCONJ	_	_	15	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
-2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	15	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
 5	suː	suː	PRON	_	_	15	dislocated@top	_	GE=[3Plur]|Gloss=3Plur|nWord=6|RX=[PRON]
@@ -991,7 +991,7 @@
 # text_en = Or, apart from that, if they sweat, they will bare their belly, they will stab it with a sword or a knife, without piercing it.
 # text_ortho = koo kuma ban dà hakà nan, ’in sun yi zuhwàa, sai sù kwaaᵲè cikìi, sù yi ta yankaanai dà takòobii, koo dà wuƙaa, baà ši huudèewaa.
 1	koː	koː	CCONJ	_	_	12	discourse	_	GE=or|Gloss=or|nWord=1|RX=[CCONJ]
-2	kuma	kuma	TopPART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
+2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	12	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
 5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -1327,7 +1327,7 @@
 # text_en = It is a tree too.
 # text_ortho = šii maa ’iccèe nee.
 1	shiː	shiː	PRON	_	_	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-2	maː	maː	TopPART	_	_	1	discourse@top	_	GE=self/too|Gloss=even|nWord=7|RX=[TOPPART]
+2	maː	maː	PART	_	_	1	discourse@top	_	GE=self/too|Gloss=even|nWord=7|PartType=Top|RX=[TOPPART]
 3	iccèː	iccèː	NOUN	_	_	4	comp:pred	_	GE=[tree/stick].[Masc]|Gloss=tree/stick.Masc|nWord=8|RX=[NOUN]
 4	neː	neː/ceː	AUX	_	_	0	root	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=9|RX=[IDPART]
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
@@ -1645,7 +1645,7 @@
 # text_en = Bit if it hasn't worked, then you will find that root with the metal the way you left it.
 # text_ortho = ’in kaù bài ci ba, sai šì ’iskè saayèn tàaᵲe dà ƙaᵲhèn, kàmaw wàddà ya’ ’ajèe ši.
 1	in	in	SCONJ	_	_	8	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	bài	bài	AUX	_	Aspect=PerfNeg	1	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=3|RX=[AUX]
 4	ci	ci	VERB	_	_	3	comp:aux	_	GE=take_effect|Gloss=take_effect|nWord=4|RX=[VERB]
 5	ba	ba	PART	_	_	4	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|PartType=Neg|RX=[PART]
@@ -1673,7 +1673,7 @@
 # text_en = If on the other hand it has worked, you will see that there is no metal,
 # text_ortho = ’in kaù yaa ci, sai šì ga baabù ƙaᵲhèn.
 1	in	in	SCONJ	_	_	7	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	kâu	kàu	TopPART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
+2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	yaː	yaː	AUX	_	Aspect=Perf	1	comp:obj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=3|RX=[AUX]
 4	ci	ci	VERB	_	_	3	comp:aux	_	GE=take_effect|Gloss=take_effect|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2715,7 +2715,7 @@
 24	neː	neː/ceː	AUX	_	_	22	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=71|RX=[IDPART]
 25	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=72|RX=[PUNCT]
 26	in	in	SCONJ	_	_	39	mod	_	GE=if|Gloss=if|nWord=73|RX=[SCONJ]
-27	dai	dai	TopPART	_	_	26	discourse@top	_	GE=indeed|Gloss=however|nWord=74|RX=[TOPPART]
+27	dai	dai	PART	_	_	26	discourse@top	_	GE=indeed|Gloss=however|nWord=74|PartType=Top|RX=[TOPPART]
 28	na	na/ta	ADP	_	_	30	comp:pred	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=75|RX=[PART]
 29	ƙarhèː	ƙarhèː	NOUN	_	_	28	comp:obj	_	GE=[iron].[Masc]|Gloss=iron.Masc|nWord=76|RX=[NOUN]
 30	neː	neː/ceː	AUX	_	_	26	comp:obj	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=77|RX=[IDPART]
@@ -2836,7 +2836,7 @@
 24	ba	ba	PART	_	_	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=24|PartType=Neg|RX=[PART]
 25	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 26	kai	kai	PRON	_	_	28	dislocated@subj	_	GE=[2Masc]|Gloss=2Masc|nWord=26|RX=[PRON]
-27	kuma	kuma	TopPART	_	_	26	discourse@top	_	GE=also|Gloss=also|nWord=27|RX=[TOPPART]
+27	kuma	kuma	PART	_	_	26	discourse@top	_	GE=also|Gloss=also|nWord=27|PartType=Top|RX=[TOPPART]
 28	bàkà	bài	AUX	_	Aspect=PerfNeg	20	conj:coord	_	GE=[2Masc].[Perf].[Neg]|Gloss=2Masc.PerfNeg|nWord=28|RX=[AUX]
 29	yi	yi	VERB	_	_	28	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
 30	màganàː	màganàː	NOUN	_	_	29	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=30|RX=[NOUN]
