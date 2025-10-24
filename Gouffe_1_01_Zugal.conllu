@@ -1610,47 +1610,43 @@
 34	.	.	PUNCT	_	_	13	punct	_	Gloss=.|nWord=35|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_062-062
+# text = ita tàntabàraː , kaskôn nan naːtà , wandà takà shân ruwaː gàr̃ai , du' indà tat tàhi , bâːta iyà shân ruwaː dà wani wuriː , sai taː koːmoː gàr̃ai .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 54000, 55000
-# text = ita tàntabàraː , kaskôn nan naːtà , wandà takà shân ruwaː gàrai , du' indà tat tàhi , bâːta iyà shân ruwaː dà wani wuriː , sai taː koːmoː gàrai .
-# text_en = The pidgeon, her pot where it drinks, wherever it goes, it cannot drink anywhere else, but it has to go back to it.
+# text_en = The pidgeon, her pot, the one where it drinks, wherever it goes, it cannot drink anywhere else, but it has to go back to it.
 # text_ortho = ’ita tàntabàᵲaa, kaskoǹ nan naatà, wandà ta kà šaǹ ᵲuwaa gàᵲai, du’ ’indà tat tàhi, baà ta ’iyà šaǹ ᵲuwaa dà wani wuᵲii, sai taa koomoo gàᵲai.
-1	ita	ita	PRON	_	_	20	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
+1	ita	ita	PRON	_	_	19	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	tàntabàraː	tàntabàraː	NOUN	_	_	1	conj:appos	_	GE=[pigeon].[Fem]|Gloss=pigeon.Fem|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	kaskôn	kaskoː	NOUN	_	Definite=Def	20	dislocated@top	_	GE=[potsherd].[Masc].[Def]|Gloss=potsherd.Masc.Def|nWord=4|RX=[NOUN]
+4	kaskôn	kaskoː	NOUN	_	Definite=Def	19	dislocated@top	_	GE=[potsherd].[Masc].[Def]|Gloss=potsherd.Masc.Def|nWord=4|RX=[NOUN]
 5	nan	nan	DET	_	_	4	det	_	GE=[Dist]|Gloss=Dist|nWord=5|RX=[DET]
 6	naːtà	naːtà	PRON	_	_	4	mod	_	GE=[3Fem].[Poss]|Gloss=3Fem.Poss|nWord=6|RX=[PRON]
-7	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	wandà	wandà	PRON	_	PronType=Rel	12	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=8|RX=[PRON]
-9	takà	kà	AUX	_	Aspect=ProgBkg	4	mod@relcl	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.ProgBkg|nWord=9|RX=[AUX]
+7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
+8	wandà	wandà	PRON	_	PronType=Rel	4	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=8|RX=[PRON]
+9	takà	kà	AUX	_	Aspect=ProgBkg	8	mod@relcl	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.ProgBkg|nWord=9|RX=[AUX]
 10	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN	9	comp:aux	_	GE=[drink].[Nmlz].[Masc]|Gloss=drink.Nmlz.Masc|nWord=10|RX=[VERB]|wordform=shâ
 11	ruwaː	ruwaː	NOUN	_	_	10	udep	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=11|RX=[NOUN]
-12-13	gàrai	_	_	_	_	_	_	_	_
-12	gàr̃eː	gàr̃eː	ADP	_	_	10	comp:obl	_	GE=at/to|Gloss=at/to|nWord=12|RX=[ADP]
-13	shi	shi	PRON	_	_	12	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=12|RX=[PRON]
-14	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-15	du'	dukà	DET	_	_	16	det	_	GE=all|Gloss=all|nWord=14|RX=[DET]
-16	indà	indà	PRON	_	PronType=Rel	20	mod	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
-17	tat	(n)kà	AUX	_	Aspect=PerfBkg	16	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=16|RX=[AUX]
-18	tàhi	tàhi	VERB	_	_	17	comp:aux	_	GE=go|Gloss=go|nWord=17|RX=[VERB]
-19	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
-20	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=19|RX=[AUX]
-21	iyà	iyàː	VERB	_	_	20	comp:aux	_	GE=be_able|Gloss=be_able|nWord=20|RX=[VERB]
-22	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN	21	comp:obj	_	GE=[drink].[Nmlz].[Masc]|Gloss=drink.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=shâ
-23	ruwaː	ruwaː	NOUN	_	_	22	udep	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=22|RX=[NOUN]
-24	dà	dà	ADP	_	_	22	mod	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
-25	wani	wani	DET	_	Definite=Spec	26	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=24|RX=[DET]
-26	wuriː	wuriː	NOUN	_	_	24	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
-27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
-28	sai	sai	SCONJ	_	_	21	mod	_	Gloss=until|nWord=27
-29	taː	yaː	AUX	_	Aspect=Perf	28	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=28|RX=[AUX]
-30	koːmoː	koːmàː	VERB	_	_	29	comp:aux	_	GE=return|Gloss=return.Dir|nWord=29|RX=[VERB]|wordform=koːm
-31-32	gàrai	_	_	_	_	_	_	_	_
-31	gàr̃eː	gàr̃eː	ADP	_	_	30	comp:obl	_	GE=at/to|Gloss=at/to|nWord=30|RX=[ADP]
-32	shi	shi	PRON	_	_	31	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=30|RX=[PRON]
-33	.	.	PUNCT	_	_	20	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
+12	gàr̃ai	gàr̃eː	ADP	_	_	10	comp:obl	_	GE=at/to|Gloss=at/to.3Masc|nWord=12|RX=[ADP]
+13	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
+14	du'	dukà	DET	_	_	15	det	_	GE=all|Gloss=all|nWord=14|RX=[DET]
+15	indà	indà	PRON	_	PronType=Rel	19	mod	_	GE=where|Gloss=where|nWord=15|RX=[ADV]
+16	tat	(n)kà	AUX	_	Aspect=PerfBkg	15	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=16|RX=[AUX]
+17	tàhi	tàhi	VERB	_	_	16	comp:aux	_	GE=go|Gloss=go|nWord=17|RX=[VERB]
+18	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
+19	bâːta	bâi	AUX	_	Aspect=ProgNeg|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=19|RX=[AUX]
+20	iyà	iyàː	VERB	_	_	19	comp:aux	_	GE=be_able|Gloss=be_able|nWord=20|RX=[VERB]
+21	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN	20	comp:obj	_	GE=[drink].[Nmlz].[Masc]|Gloss=drink.Nmlz.Masc|nWord=21|RX=[VERB]|wordform=shâ
+22	ruwaː	ruwaː	NOUN	_	_	21	udep	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=22|RX=[NOUN]
+23	dà	dà	ADP	_	_	21	mod	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
+24	wani	wani	DET	_	Definite=Spec	25	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=24|RX=[DET]
+25	wuriː	wuriː	NOUN	_	_	23	comp:obj	_	GE=[place].[Masc]|Gloss=place.Masc|nWord=25|RX=[NOUN]
+26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
+27	sai	sai	SCONJ	_	_	20	mod	_	Gloss=until|nWord=27
+28	taː	yaː	AUX	_	Aspect=Perf	27	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=28|RX=[AUX]
+29	koːmoː	koːmàː	VERB	_	_	28	comp:aux	_	GE=return|Gloss=return.Dir|nWord=29|RX=[VERB]|wordform=koːm
+30	gàr̃ai	gàr̃eː	ADP	_	_	29	comp:obl	_	GE=at/to|Gloss=at/to.3Masc|nWord=30|RX=[ADP]
+31	.	.	PUNCT	_	_	19	punct	_	Gloss=.|nWord=31|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_063-063
 # speaker_id = *
