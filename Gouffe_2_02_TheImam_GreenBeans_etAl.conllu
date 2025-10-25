@@ -690,7 +690,7 @@
 10	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 12	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=12|RX=[AUX]
-13	bâː	bâː	VERB	_	_	12	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
+13	bâː	baːbù	VERB	_	_	12	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
 14	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	13	comp:obj@R	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	12	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=16|RX=[AUX]
@@ -1707,7 +1707,7 @@
 10	dàudawaː	dàudawaː	NOUN	_	Gender=Fem	9	comp:obj	_	GE=[condiment_sp].[Fem]|Gloss=condiment_sp.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	8	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=12|RX=[AUX]
-13	bâː	bâː	VERB	_	_	12	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
+13	bâː	baːbù	VERB	_	_	12	comp:aux	_	GE=give|Gloss=give|nWord=13|RX=[VERB]
 14	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	13	comp:obj@R	_	GE=[old_woman].[Fem]|Gloss=old_woman.Fem|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	12	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=16|RX=[AUX]
@@ -1771,7 +1771,7 @@
 16	tà	ta	PRON	_	Gender=Fem|Person=3	15	comp:obj@R	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	tab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	7	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=18|RX=[AUX]
-19	bâː	bâː	VERB	_	_	18	comp:aux	_	GE=give|Gloss=give|nWord=19|RX=[VERB]
+19	bâː	baːbù	VERB	_	_	18	comp:aux	_	GE=give|Gloss=give|nWord=19|RX=[VERB]
 20	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	19	comp:obj@R	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=20|RX=[NOUN]|wordform=màːta
 21	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	20	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=21|RX=[NOUN]|wordform=maːlàmiː
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
@@ -1907,7 +1907,7 @@
 # text_ortho = tac ceè baà koomii.
 1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
-3	bâː	bâː	PART	_	Polarity=Neg	2	comp:obj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|PartType=Pred|RX=[PREDPART]
+3	bâː	baːbù	PART	_	Polarity=Neg	2	comp:obj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|PartType=Pred|RX=[PREDPART]
 4	koːmiː	koːmiː	PRON	_	_	3	subj	_	GE=anything|Gloss=anything|nWord=4|RX=[PRON]
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
@@ -2224,7 +2224,7 @@
 # text_en = She gave it to the malam's wife, and she gave her the things that the chief's son had given her and told her to give her.
 # text_ortho = tab baà màatam maalàm, kuma sai tà baa tà kaayan dà ɗan saᵲkii yab baa tà, yac ceè tà kai matà.
 1	tab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=8|RX=[AUX]
-2	bâː	bâː	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=9|RX=[VERB]
+2	bâː	baːbù	VERB	_	_	1	comp:aux	_	GE=give|Gloss=give|nWord=9|RX=[VERB]
 3	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj@R	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=10|RX=[NOUN]|wordform=màːta
 4	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	3	mod	_	GE=[malam].[Masc]|Gloss=malam.Masc|nWord=11|RX=[NOUN]
 5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
@@ -3744,7 +3744,7 @@
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=22|RX=[AUX]
 9	buːshèː	buːshèː	VERB	_	_	8	comp:aux	_	GE=dry|Gloss=dry|nWord=23|RX=[BERB]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=24|RX=[PUNCT]
-11	bâː	bâː	PART	_	Polarity=Neg	8	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=25|PartType=Pred|RX=[PREDPART]
+11	bâː	baːbù	PART	_	Polarity=Neg	8	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=25|PartType=Pred|RX=[PREDPART]
 12	indà	indà	ADV	_	_	11	subj	_	GE=where|Gloss=where|nWord=26|RX=[ADV]
 13	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	14	mod	_	GE=[green/unripe].[Masc]|Gloss=green/unripe.Masc|nWord=27|RX=[ADJ]|wordform=ɗanye
 14	hakì:	hakì:	NOUN	_	Gender=Masc	15	subj	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=28|RX=[NOUN]
@@ -3809,7 +3809,7 @@
 6	wajentà	wajeːtà	ADP	_	Definite=Cons|Gender=Fem|Person=3	5	comp:obj	_	GE=side|Gloss=side.3Fem.Poss|nWord=6|RX=[NOUN]|wordform=waje
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	ɗaːkì:ntà	ɗaːkì:tà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	9	dislocated@mod	_	GE=[hut/room].[Masc]|Gloss=hut/room.Masc.3Fem.Poss|nWord=8|RX=[NOUN]|wordform=ɗaːkì:
-9	bâː	bâː	PART	_	Polarity=Neg	14	dislocated@mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=9|PartType=Pred|RX=[PREDPART]
+9	bâː	baːbù	PART	_	Polarity=Neg	14	dislocated@mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=9|PartType=Pred|RX=[PREDPART]
 10	koːwaː	koːwaː	PRON	_	_	9	subj	_	GE=everyone|Gloss=everyone|nWord=10|RX=[PRON]
 11	kusa	kusa	ADV	_	_	9	comp:pred	_	GE=near|Gloss=near|nWord=11|RX=[ADV]
 12	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
@@ -3820,7 +3820,7 @@
 17	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=18|RX=[ADV]
 19	tab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	14	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=19|RX=[AUX]
-20	bâː	bâː	VERB	_	_	19	comp:aux	_	GE=give|Gloss=give|nWord=20|RX=[VERB]
+20	bâː	baːbù	VERB	_	_	19	comp:aux	_	GE=give|Gloss=give|nWord=20|RX=[VERB]
 21	sarkiː	sarkiː	NOUN	_	Gender=Masc	20	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=21|RX=[NOUN]
 22	.	.	PUNCT	_	_	14	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
