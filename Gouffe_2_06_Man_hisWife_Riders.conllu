@@ -5,7 +5,7 @@
 # text = wa’ànnàn wasu mutàːneː neː .
 # text_en = This is (the story of) some men.
 # text_ortho = wa’ànnàn wa’ansu mutàanee nèe.
-1	wa’ànnàn	wa’ànnàn	PRON	_	PronType=Dem	4	subj	_	Deixis=Prox|GE=[Prox].[Plur]|Gloss=Prox.Plur|nWord=1|RX=[PRON]
+1	wa’ànnàn	wa’ànnàn	PRON	_	Deixis=Prox|PronType=Dem	4	subj	_	GE=[Prox].[Plur]|Gloss=Prox.Plur|nWord=1|RX=[PRON]
 2	wasu	wani	DET	_	_	3	det	_	GE=[some].[Plur]|Gloss=some.Plur|nWord=2|RX=[DET]
 3	mutàːneː	mutàːneː	NOUN	_	_	4	comp:pred	_	GE=[people].[Plur]|Gloss=people.Plur|nWord=3|RX=[NOUN]
 4	neː	neː/ceː	AUX	_	_	0	root	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=4|RX=[IDPART]
@@ -35,7 +35,7 @@
 # text = wannàn gùdaː shinàː dà doːkìː , gùdaː kâu bâː shi dà doːkìː .
 # text_en = This one has a horse, but that one does not.
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
-1	wannàn	wannàn	DET	_	PronType=Dem	2	det	_	Deixis=Prox|GE=[Prox].[Masc]|Gloss=Prox.Masc|nWord=1|RX=[PRON]
+1	wannàn	wannàn	DET	_	Deixis=Prox|PronType=Dem	2	det	_	GE=[Prox].[Masc]|Gloss=Prox.Masc|nWord=1|RX=[PRON]
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	GE=one|Gloss=one|nWord=2|RX=[NUM]
 3	shinàː	nàː*	AUX	_	_	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Pred/Loc|nWord=3|RX=[AUX]
 4	dà	dà	ADP	_	_	3	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
@@ -113,7 +113,7 @@
 1	koː	koː	SCONJ	_	_	15	mod	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons	3	subj	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=2|RX=[NOUN]|wordform=mijì
 3	nàː	nàː*	AUX	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
-4	nan	nan	ADV	_	PronType=Dem	3	comp:pred	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=4|RX=[ADV]
+4	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	3	comp:pred	_	GE=[Dist]|Gloss=Rmt|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	tag	(n)kà	AUX	_	Aspect=PerfBkg	6	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
@@ -176,7 +176,7 @@
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
 1	anà	nàː*	AUX	_	_	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
-2	nan	nan	ADV	_	PronType=Dem	1	comp:pred	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=3|RX=[ADV]
+2	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Rmt|nWord=3|RX=[ADV]
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	_	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -196,7 +196,7 @@
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
 1	rân	raːnaː	NOUN	_	Definite=Def	4	mod	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
-2	nan	nan	DET	_	PronType=Dem	1	det	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=2|RX=[DET]
+2	nan	nan	DET	_	Deixis=Remt|PronType=Dem	1	det	_	GE=[Dist]|Gloss=Rmt|nWord=2|RX=[DET]
 3	sai	sai	ADV	_	_	4	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	tay	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=4|RX=[AUX]
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
@@ -207,7 +207,7 @@
 10	wurim	wurin	ADP	_	Definite=Cons	9	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
 11	bìkiː	bìkiː	NOUN	_	_	10	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
-13	can	can	ADV	_	PronType=Dem	10	mod	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=14|RX=[ADV]
+13	can	can	ADV	_	Deixis=Remt|PronType=Dem	10	mod	_	GE=[Dist]|Gloss=Rmt|nWord=14|RX=[ADV]
 14	gidan	gidaː	NOUN	_	Definite=Cons	13	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=15|RX=[NOUN]|wordform=gida
 15	dangìntà	dangìːtà	NOUN	_	Definite=Cons	14	mod	_	GE=[relatives].[Masc]|Gloss=relatives.Masc.3Fem.Poss|nWord=16|RX=[NOUN]|wordform=dangì
 16	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
@@ -482,7 +482,7 @@
 # text_en = They stayed there, each one with their host, until the sun went down.
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
 1	sunàː	nàː	AUX	_	_	0	root	_	Gloss=3.Pl.Pred.Loc
-2	nan	nan	ADV	_	PronType=Dem	1	comp:pred	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=3|RX=[ADV]
+2	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Rmt|nWord=3|RX=[ADV]
 3	zàmne	zamnàː	VERB	_	_	2	mod	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	GE=everyone|Gloss=everyone|nWord=6|RX=[PRON]
@@ -537,7 +537,7 @@
 34	dà	dà	ADP	_	_	33	comp:obl	_	GE=with|Gloss=with|nWord=34|RX=[ADP]
 35	ita	ita	PRON	_	_	34	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=35|RX=[PRON]
 36	,	,	PUNCT	_	_	37	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
-37	can	can	ADV	_	PronType=Dem	33	mod	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=37|RX=[ADV]
+37	can	can	ADV	_	Deixis=Remt|PronType=Dem	33	mod	_	GE=[Dist]|Gloss=Rmt|nWord=37|RX=[ADV]
 38	indà	indà	ADV	_	_	37	mod@relcl	_	GE=where|Gloss=where|nWord=38|RX=[ADV]
 39	yas	(n)kà	AUX	_	Aspect=PerfBkg	38	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=39|RX=[AUX]
 40	sàbka	sàbka	VERB	_	_	39	comp:aux	_	GE=dismount|Gloss=dismount|nWord=40|RX=[VERB]
@@ -645,7 +645,7 @@
 1	shiː	shiː	PRON	_	_	6	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	zanèn	zanèː	NOUN	_	Definite=Def	1	conj:appos	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
-4	nan	nan	DET	_	PronType=Dem	3	det	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=4|RX=[DET]
+4	nan	nan	DET	_	Deixis=Remt|PronType=Dem	3	det	_	GE=[Dist]|Gloss=Rmt|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shinàː	nàː*	AUX	_	_	0	root	_	Gloss=3Masc.Pred/Loc
 7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
@@ -767,7 +767,7 @@
 7	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	GE=take|Gloss=take.Dir|nWord=8|RX=[VERB]|wordform=ɗauk
 9	zanèn	zanèː	NOUN	_	Definite=Def	8	comp:obj	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=9|RX=[NOUN]
-10	ga	ga	DET	_	PronType=Dem	9	det	_	Deixis=Prox|GE=[Prox]|Gloss=Prox|nWord=10|RX=[DET]
+10	ga	ga	DET	_	Deixis=Prox|PronType=Dem	9	det	_	GE=[Prox]|Gloss=Prox|nWord=10|RX=[DET]
 11	mài	mài	ADP	_	_	9	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=11|RX=[PART]
 12	kabriː	kabriː	NOUN	_	_	11	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -886,7 +886,7 @@
 3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN	2	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	dàn	dàgà	ADP	_	_	10	mod	_	GE=from|Gloss=from|nWord=6|RX=[ADP]
-6	nân	nân	ADV	_	PronType=Dem	5	comp:obj	_	Deixis=Prox|GE=[Prox]|Gloss=Prox|nWord=7|RX=[ADV]
+6	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	5	comp:obj	_	GE=[Prox]|Gloss=Prox|nWord=7|RX=[ADV]
 7	gidaː	gidaː	NOUN	_	_	6	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
 8	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 9	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
@@ -906,7 +906,7 @@
 2	kàn	kàːhin	SCONJ	_	Definite=Cons	8	mod	_	GE=before|Gloss=before|nWord=16|RX=[SCONJ]
 3	shì	ø	AUX	_	Aspect=Aor	2	mod@relcl	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=17|RX=[AUX]
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=18|RX=[VERB]
-5	can	can	ADV	_	PronType=Dem	4	mod	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=19|RX=[ADV]
+5	can	can	ADV	_	Deixis=Remt|PronType=Dem	4	mod	_	GE=[Dist]|Gloss=Rmt|nWord=19|RX=[ADV]
 6	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 7	cikìːnai	cikìːnai	NOUN	_	_	8	subj	_	GE=[belly].[Masc]|Gloss=belly.Masc.3Masc.Poss|nWord=21|RX=[NOUN]|wordform=cikìː
 8	yaː	yaː	AUX	_	Aspect=Perf	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=22|RX=[AUX]
@@ -1250,7 +1250,7 @@
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunàː	nàː*	AUX	_	_	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
-3	nan	nan	ADV	_	PronType=Dem	2	comp:pred	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=4|RX=[ADV]
+3	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	2	comp:pred	_	GE=[Dist]|Gloss=Rmt|nWord=4|RX=[ADV]
 4	gidaː	gidaː	NOUN	_	_	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -1349,7 +1349,7 @@
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	rân	raːnaː	NOUN	_	Definite=Def	1	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=2|RX=[NOUN]
-3	nan	nan	DET	_	PronType=Dem	2	det	_	Deixis=Rmt|GE=[Dist]|Gloss=Rmt|nWord=3|RX=[DET]
+3	nan	nan	DET	_	Deixis=Remt|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Rmt|nWord=3|RX=[DET]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bài	AUX	_	Aspect=PerfNeg|Polarity=Neg	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=5|RX=[AUX]
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	GE=return|Gloss=return|nWord=6|RX=[VERB]
