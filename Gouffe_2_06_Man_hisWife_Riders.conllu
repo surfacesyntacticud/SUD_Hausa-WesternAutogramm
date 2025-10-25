@@ -195,7 +195,7 @@
 # text = rân nan sai tay yi niyyàː , zâːta tàhiyàː wurim bìkiː , can gidan dangìntà .
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
-1	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	4	mod	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=1|RX=[NOUN]
+1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Cons|nWord=1|RX=[NOUN]
 2	nan	nan	DET	_	Deixis=Remt|PronType=Dem	1	det	_	GE=[Dist]|Gloss=Remt|nWord=2|RX=[DET]
 3	sai	sai	ADV	_	_	4	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	tay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=4|RX=[AUX]
@@ -644,7 +644,7 @@
 # text_ortho = šii kàu zanèn nan, ši nàa dà kabᵲii.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
-3	zanèn	zanèː	NOUN	_	Definite=Def|Gender=Masc	1	conj:appos	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Def|nWord=3|RX=[NOUN]
+3	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Cons|nWord=3|RX=[NOUN]
 4	nan	nan	DET	_	Deixis=Remt|PronType=Dem	3	det	_	GE=[Dist]|Gloss=Remt|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
@@ -1348,7 +1348,7 @@
 # text_en = From that day, she never talked about riders again.
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	GE=from|Gloss=from|nWord=1|RX=[ADP]
-2	rân	raːnaː	NOUN	_	Definite=Def|Gender=Fem	1	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Def|nWord=2|RX=[NOUN]
+2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Cons|nWord=2|RX=[NOUN]
 3	nan	nan	DET	_	Deixis=Remt|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Remt|nWord=3|RX=[DET]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=5|RX=[AUX]
