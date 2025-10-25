@@ -208,7 +208,7 @@
 46	kà	kà	PRON	_	Gender=Masc|Person=2	45	comp:obj@R	_	GE=[2Masc]|Gloss=2Masc|nWord=46|RX=[PRON]
 47	ita	ita	PRON	_	Gender=Fem|Person=3	45	comp:obj@T	_	GE=[3Fem]|Gloss=3Fem|nWord=47|RX=[PRON]
 48	,	,	PUNCT	_	_	50	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=48|RX=[PUNCT]
-49	màːtakkà	màːtaːkà	NOUN	_	Definite=Cons|Gender=Fem|Person=2	50	comp:pred	_	GE=[wife].[Fem]|Gloss=wife.Fem.2Masc.Gen|nWord=49|RX=[NOUN]|wordform=màːta
+49	màːtakkà	màːtaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	50	comp:pred	_	GE=[wife].[Fem]|Gloss=wife.Fem.2Masc.Gen|nWord=49|RX=[NOUN]|wordform=màːta
 50	ceː	neː/ceː	AUX	_	Gender=Fem	44	conj:coord	_	GE=[Ident/Loc].[Fem]|Gloss=be.Fem|nWord=50|RX=[IDPART]
 51	.	.	PUNCT	_	_	25	punct	_	Gloss=PUNCT|nWord=50|RX=[IDPART]
 
@@ -3052,7 +3052,7 @@
 # text = wurinkà niz zoː don ìn yi gòːdiyaː .
 # text_en = I have come to you to thank you.
 # text_ortho = wuᵲinkà niz zoo, don ’ìn yi gòodiyaa.
-1	wurinkà	wurinkà	ADP	_	Gender=Masc|Person=2	0	root	_	Gloss=at.2Masc.Gen|nWord=16|wordform=wurin
+1	wurinkà	wurinkà	ADP	_	Case=Gen|Gender=Masc|Person=2	0	root	_	Gloss=at.2Masc.Gen|nWord=16|wordform=wurin
 2	niz	(n)kà	AUX	_	Aspect=PerfBkg|Person=1	1	comp:cleft	_	GE=[1Sing].[Perf].[Bkg]|Gloss=1Sing.PerfBkg|nWord=17|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=18|RX=[VERB]
 4	don	don	SCONJ	_	_	3	mod	_	GE=because|Gloss=because|nWord=19|RX=[SCONJ]
@@ -3154,7 +3154,7 @@
 4	doːkì:	doːkì:	NOUN	_	Gender=Masc	3	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
 5	ba	ba	PART	_	Polarity=Neg	2	mod	_	GE=[Neg]|Gloss=Neg|nWord=5|PartType=Neg|RX=[PART]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	ìn	ø	AUX	_	Aspect=Aor|Person=1	1	discourse	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
+7	ìn	ø	AUX	_	Aspect=Aor|Person=1	1	parataxis@discourse	_	GE=[1Sing].[Aor]|Gloss=1Sing.Aor|nWord=7|RX=[AUX]
 8	ji	jiyàː	VERB	_	Definite=Cons	7	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=8|RX=[VERB]
 9	sarkiː	sarkiː	NOUN	_	Gender=Masc	8	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=9|RX=[NOUN]
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
@@ -3472,7 +3472,7 @@
 13	mà	mà	ADP	_	_	12	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=13|RX=[ADP]
 14	sarkiː	sarkiː	NOUN	_	Gender=Masc	13	comp:obj	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=14|RX=[NOUN]
 15	:	:	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
-16	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	discourse	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=16|RX=[AUX]
+16	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	20	parataxis@discourse	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf|nWord=16|RX=[AUX]
 17	ganiː	ganiː	VERB	_	_	16	comp:aux	_	GE=see|Gloss=see|nWord=17|RX=[VERB]
 18	sarkiː	sarkiː	NOUN	_	Gender=Masc	20	vocative	_	GE=[chief].[Masc]|Gloss=chief.Masc|nWord=18|RX=[NOUN]
 19	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
@@ -3894,7 +3894,7 @@
 10	kuhwan	kuhwai	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	GE=[stain/scar/ruins].[Masc]|Gloss=stain/scar/ruins.Masc|nWord=10|RX=[NOUN]|wordform=kuhwai
 11	waːkeː	waːkeː	NOUN	_	Gender=Masc	10	mod	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
-13	kuma	kuma	PART	_	_	14	discourse@top	_	GE=also|Gloss=also|nWord=13|RX=[ADV]
+13	kuma	kuma	PART	_	_	14	discourse@top	_	GE=also|Gloss=also|nWord=13|PartType=Top|RX=[ADV]
 14	taw	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	8	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=14|RX=[AUX]
 15	wankè	wankèː	VERB	_	_	14	comp:aux	_	GE=wash|Gloss=wash|nWord=15|RX=[VERB]
 16	tukunyaː	tukunyaː	NOUN	_	Gender=Fem	15	comp:obj	_	GE=[cooking_pot].[Fem]|Gloss=cooking_pot.Fem|nWord=16|RX=[NOUN]

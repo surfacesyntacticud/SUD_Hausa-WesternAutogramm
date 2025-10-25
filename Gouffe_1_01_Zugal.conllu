@@ -4616,7 +4616,7 @@
 # text_en = Even your wedded wife, if you fight, if she is angry at you, or you are angry at her, if you remove her belongings from your house, you throw them outside, you chase her away, you tell her to take her belongings, to go away, you don't love her and you are no longer married, she won't be able to leave, but she will just keep crying.
 # text_ortho = koo màatakkà cee ta ’àᵲmee, ’in kun yi hwaɗàa, taa makà hušii, kai kuma kaa mutà hušii, ’in kaɗ ɗàuki kaayantà, dàgà cikin gidankà, kah hiddàa wàje, kaa kòoᵲee tà, kac ceè tà ɗàuki kaayantà, tà tàhiyàttà, baà ka soǹtà, kuma baà ka ’aᵲmentà, baà ta ’iyà tàhiyàa, sai dai tà yi kuukaa.
 1	koː	koː	SCONJ	_	_	55	mod	_	GE=even|Gloss=even_if|nWord=1|RX=[ADV]
-2	màːtakkà	màːtaːkà	NOUN	_	Definite=Cons|Gender=Fem|Person=2	3	comp:pred	_	GE=[wife].[Fem]|Gloss=wife.Fem.2Masc.Gen|nWord=2|RX=[NOUN]|wordform=màːta
+2	màːtakkà	màːtaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	3	comp:pred	_	GE=[wife].[Fem]|Gloss=wife.Fem.2Masc.Gen|nWord=2|RX=[NOUN]|wordform=màːta
 3	ceː	neː/ceː	AUX	_	Gender=Fem	1	comp:obj	_	GE=[Ident/Loc].[Fem]|Gloss=be.Fem|nWord=3|RX=[PART]
 4	ta	na/ta	ADP	_	_	2	mod	_	GE=[PAn].[Fem]|Gloss=of|nWord=4|RX=[PART]
 5	àrmeː	àrmeː	NOUN	_	Gender=Masc	4	comp:obj	_	GE=[wedding].[Masc]|Gloss=wedding.Masc|nWord=5|RX=[NOUN]
@@ -4643,7 +4643,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27	dàgà	dàgà	ADP	_	_	24	comp:obl	_	GE=from|Gloss=from|nWord=27|RX=[ADP]
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
-29	gidankà	gidaːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	28	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.2Masc.Gen|nWord=29|RX=[NOUN]|wordform=gida
+29	gidankà	gidaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	28	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.2Masc.Gen|nWord=29|RX=[NOUN]|wordform=gida
 30	,	,	PUNCT	_	_	31	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 31	kah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=2	23	parataxis@conj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.PerfBkg|nWord=31|RX=[AUX]
 32	hiddàː	hiddàː	VERB	_	_	31	comp:aux	_	GE=remove|Gloss=remove|nWord=32|RX=[VERB]
@@ -4698,7 +4698,7 @@
 9	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	5	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=9|RX=[AUX]
 10	maidàː	maidàː	VERB	_	_	9	comp:aux	_	GE=put_back|Gloss=put_back|nWord=10|RX=[VERB]
 11	cikin	cikin	ADP	_	_	10	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=11|RX=[ADP]
-12	gidankà	gidaːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	11	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.2Masc.Gen|nWord=12|RX=[NOUN]|wordform=gida
+12	gidankà	gidaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	11	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.2Masc.Gen|nWord=12|RX=[NOUN]|wordform=gida
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	sabòːdà	sabòːdà	SCONJ	_	_	10	mod	_	GE=because|Gloss=because|nWord=14|RX=[SCONJ]
 15	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	14	comp:obj	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=15|RX=[AUX]
@@ -4774,7 +4774,7 @@
 # text = kun san ita kàːzaː, bâːta dà zuccìyaː.
 # text_en = You know that a hen bears no grudge.
 # text_ortho = kun san ’ita kàazaa, baà ta dà zuccìyaa,
-1	kun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=2	6	discourse	_	GE=[2Plur].[Perf]|Gloss=2Plur.Perf|nWord=1|RX=[AUX]
+1	kun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=2	6	parataxis@discourse	_	GE=[2Plur].[Perf]|Gloss=2Plur.Perf|nWord=1|RX=[AUX]
 2	san	sanìː	VERB	_	_	1	comp:aux	_	GE=know|Gloss=know|nWord=2|RX=[VERB]
 3	ita	ita	PRON	_	Gender=Fem|Person=3	6	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=3|RX=[PRON]
 4	kàːzaː	kàːzaː	NOUN	_	Gender=Fem	3	conj:appos	_	GE=[hen].[Fem]|Gloss=hen.Fem|nWord=4|RX=[NOUN]
@@ -4965,7 +4965,7 @@
 11	sâː	sâː	VERB	_	_	10	comp:aux	_	GE=put|Gloss=put|nWord=11|RX=[VERB]
 12	hac'iː	hac'iː	NOUN	_	Gender=Masc	11	comp:obj	_	GE=[bullrush_millet].[Masc]|Gloss=bullrush_millet.Masc|nWord=12|RX=[NOUN]
 13	cikim	cikin	ADP	_	_	11	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=13|RX=[ADP]
-14	bàːkinkà	bàːkiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	13	comp:obj	_	GE=[mouth].[Masc]|Gloss=mouth.Masc.2Masc.Gen|nWord=14|RX=[NOUN]|wordform=bàːki
+14	bàːkinkà	bàːkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	13	comp:obj	_	GE=[mouth].[Masc]|Gloss=mouth.Masc.2Masc.Gen|nWord=14|RX=[NOUN]|wordform=bàːki
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	10	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=16|RX=[AUX]
 17	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=17|RX=[VERB]
@@ -5005,7 +5005,7 @@
 12	hwaɗìː	hwaɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	GE=[tell].[Nmlz].[Masc]|Gloss=tell.Nmlz.Masc|nWord=12|RX=[VERB]
 13	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	cikin	cikin	ADP	_	_	17	dislocated@mod	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
-15	bàːkinkà	bàːkiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	14	comp:obj	_	GE=[mouth].[Masc]|Gloss=mouth.Masc.2Masc.Gen|nWord=15|RX=[NOUN]|wordform=bàːki
+15	bàːkinkà	bàːkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	14	comp:obj	_	GE=[mouth].[Masc]|Gloss=mouth.Masc.2Masc.Gen|nWord=15|RX=[NOUN]|wordform=bàːki
 16	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=17|RX=[AUX]
 18	iyà	iyàː	VERB	_	_	17	comp:aux	_	GE=be_able|Gloss=be_able|nWord=18|RX=[VERB]|wordform=iyàː
@@ -5074,26 +5074,26 @@
 # text_ortho = suu kàu ’àkàihunkà, dà gaašìn gàban gòošinkà, dà na hamùttaa dà na zaazakkà, dà ᵲuwan dà kaw wawwànkè jìkinkà, dà hannuwàa dà huskàa dà màzàakuutàa, don ’à sàamu dauɗàn nan ta jìkinkà, ’à saà cikim maagànii, ’à baà màccè tà ci.
 1	suː	suː	PRON	_	Number=Plur|Person=3	39	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	kàu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
-3	àkàihunkà	àkàihuːkà	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=2	1	conj:appos	_	GE=[nail].[Plur]|Gloss=nail.Plur.2Masc.Gen|nWord=3|RX=[NOUN]|wordform=àkàihu
+3	àkàihunkà	àkàihuːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Number=Plur|Person=2	1	conj:appos	_	GE=[nail].[Plur]|Gloss=nail.Plur.2Masc.Gen|nWord=3|RX=[NOUN]|wordform=àkàihu
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	dà	dà	CCONJ	_	_	6	cc	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
 6	gaːshìn	gaːshìː	NOUN	_	Definite=Cons|Gender=Masc	3	conj:coord	_	GE=[hair].[Masc]|Gloss=hair.Masc|nWord=6|RX=[NOUN]|wordform=gaːshì
 7	gàban	gàbaː	NOUN	_	Definite=Cons	6	mod	_	GE=front|Gloss=front|nWord=7|RX=[NOUN]|wordform=gàba
-8	gòːshinkà	gòːshiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	7	mod	_	GE=[forehead].[Masc]|Gloss=forehead.Masc.2Masc.Gen|nWord=8|RX=[NOUN]|wordform=gòːshi
+8	gòːshinkà	gòːshiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	7	mod	_	GE=[forehead].[Masc]|Gloss=forehead.Masc.2Masc.Gen|nWord=8|RX=[NOUN]|wordform=gòːshi
 9	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	dà	dà	CCONJ	_	_	11	cc	_	GE=and|Gloss=and|nWord=10|RX=[CCONJ]
 11	na	na/ta	ADP	_	_	6	conj:coord	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=11|RX=[PART]
 12	hamùttaː	hamùttaː	NOUN	_	Number=Plur	11	comp:obj	_	GE=[armpit].[Plur]|Gloss=armpit.Plur|nWord=12|RX=[NOUN]
 13	dà	dà	CCONJ	_	_	14	cc	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
 14	na	na/ta	ADP	_	_	11	conj:coord	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=14|RX=[PART]
-15	zaːzakkà	zaːzaːkà	NOUN	_	Definite=Cons|Gender=Fem|Person=2	14	comp:obj	_	GE=[pubic_hair].[Fem]|Gloss=pubic_hair.Fem.2Masc.Gen|nWord=15|RX=[NOUN]|wordform=zaːza
+15	zaːzakkà	zaːzaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	14	comp:obj	_	GE=[pubic_hair].[Fem]|Gloss=pubic_hair.Fem.2Masc.Gen|nWord=15|RX=[NOUN]|wordform=zaːza
 16	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	dà	dà	CCONJ	_	_	18	cc	_	GE=and|Gloss=and|nWord=17|RX=[CCONJ]
 18	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	14	conj:coord	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=18|RX=[NOUN]|wordform=ruwa
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	GE=that|Gloss=that|nWord=19|RX=[SCONJ]
 20	kaw	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=2	19	comp:obj	_	GE=[2Masc].[Perf].[Bkg]|Gloss=2Masc.PerfBkg|nWord=20|RX=[AUX]
 21	wawwànkè	wawwànkeː	VERB	_	_	20	comp:aux	_	GE=[wash].[Int]|Gloss=wash.Int|nWord=21|RX=[VERB]
-22	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	21	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=22|RX=[NOUN]|wordform=jìki
+22	jìkinkà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	21	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=22|RX=[NOUN]|wordform=jìki
 23	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 24	dà	dà	CCONJ	_	_	25	cc	_	GE=and|Gloss=and|nWord=24|RX=[CCONJ]
 25	hannuwàː	hannuː	NOUN	_	Number=Plur	22	conj:coord	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=25|RX=[NOUN]
@@ -5108,7 +5108,7 @@
 34	dauɗàn	dauɗàː	NOUN	_	Definite=Def|Gender=Fem	33	comp:obj	_	GE=[dirt].[Fem].[Def]|Gloss=dirt.Fem.Def|nWord=34|RX=[NOUN]
 35	nan	nan	DET	_	Deixis=Remt|PronType=Dem	34	det	_	GE=[Dist]|Gloss=Remt|nWord=35|RX=[DET]
 36	ta	na/ta	ADP	_	_	34	mod	_	GE=[PAn].[Fem]|Gloss=of|nWord=36|RX=[PART]
-37	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	36	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=37|RX=[NOUN]|wordform=jìki
+37	jìkinkà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	36	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=37|RX=[NOUN]|wordform=jìki
 38	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 39	à	ø	AUX	_	Aspect=Aor|Person=4	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=39|RX=[AUX]
 40	sâː	sâː	VERB	_	_	39	comp:aux	_	GE=put|Gloss=put|nWord=40|RX=[VERB]
@@ -5136,7 +5136,7 @@
 5	ci	ci	VERB	_	_	4	comp:aux	_	GE=eat|Gloss=eat|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	tôː	tôː	INTJ	_	_	9	discourse	_	GE=well|Gloss=well|nWord=7|RX=[INTJ]
-8	jìkinkà	jìkiːkà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	9	subj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=8|RX=[NOUN]|wordform=jìki
+8	jìkinkà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	9	subj	_	GE=[body].[Masc]|Gloss=body.Masc.2Masc.Gen|nWord=8|RX=[NOUN]|wordform=jìki
 9	yag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	4	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=9|RX=[AUX]
 10	gàmu	gàmu	VERB	_	_	9	comp:aux	_	GE=meet|Gloss=meet|nWord=10|RX=[VERB]
 11	dà	dà	ADP	_	_	10	comp:obl	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
