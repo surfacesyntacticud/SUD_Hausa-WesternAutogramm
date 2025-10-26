@@ -113,7 +113,7 @@
 1	koː	koː	SCONJ	_	_	15	mod	_	GE=even_if|Gloss=even_if|nWord=1|RX=[SCONJ]
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	3	subj	_	GE=husband/male|Gloss=husband/male.3Fem.Poss|nWord=2|RX=[NOUN]|wordform=mijì
 3	nàː	nàː*	AUX	_	_	1	comp:obj	_	GE=[Pred/Loc]|Gloss=Pred/Loc|nWord=3|RX=[AUX]
-4	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	3	comp:pred	_	GE=[Dist]|Gloss=Remt|nWord=4|RX=[ADV]
+4	nan	nan	ADV	_	Definite=Def|PronType=Dem	3	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=4|RX=[ADV]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	15	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
@@ -176,7 +176,7 @@
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
 1	anà	nàː*	AUX	_	Person=4	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
-2	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Remt|nWord=3|RX=[ADV]
+2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=3|RX=[ADV]
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -196,7 +196,7 @@
 # text_en = Then, one day, she got ready to go to a party at her relatives'.
 # text_ortho = ᵲaǹ nan sai tay yi niyyàa, zaà ta tàhiyàa wuᵲim bìkii, can gidan dangìntà.
 1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Cons|nWord=1|RX=[NOUN]
-2	nan	nan	DET	_	Deixis=Remt|PronType=Dem	1	det	_	GE=[Dist]|Gloss=Remt|nWord=2|RX=[DET]
+2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	GE=[Dist]|Gloss=Def|nWord=2|RX=[DET]
 3	sai	sai	ADV	_	_	4	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	tay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=4|RX=[AUX]
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
@@ -482,7 +482,7 @@
 # text_en = They stayed there, each one with their host, until the sun went down.
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
 1	sunàː	nàː	AUX	_	Person=3	0	root	_	Gloss=3.Pl.Pred.Loc
-2	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Remt|nWord=3|RX=[ADV]
+2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=3|RX=[ADV]
 3	zàmne	zamnàː	VERB	_	_	2	mod	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	GE=everyone|Gloss=everyone|nWord=6|RX=[PRON]
@@ -645,7 +645,7 @@
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
 3	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Cons|nWord=3|RX=[NOUN]
-4	nan	nan	DET	_	Deixis=Remt|PronType=Dem	3	det	_	GE=[Dist]|Gloss=Remt|nWord=4|RX=[DET]
+4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	GE=[Dist]|Gloss=Def|nWord=4|RX=[DET]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
 7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
@@ -1250,7 +1250,7 @@
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunàː	nàː*	AUX	_	Person=3	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
-3	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	2	comp:pred	_	GE=[Dist]|Gloss=Remt|nWord=4|RX=[ADV]
+3	nan	nan	ADV	_	Definite=Def|PronType=Dem	2	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=4|RX=[ADV]
 4	gidaː	gidaː	NOUN	_	Gender=Masc	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
@@ -1349,7 +1349,7 @@
 # text_ortho = dàgà ᵲaǹ nan, bà tà koomàa yim̀ bùtum mài dookìː ba.
 1	dàgà	dàgà	ADP	_	_	5	mod	_	GE=from|Gloss=from|nWord=1|RX=[ADP]
 2	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	1	comp:obj	_	GE=[sun/day].[Fem].[Def]|Gloss=sun/day.Fem.Cons|nWord=2|RX=[NOUN]
-3	nan	nan	DET	_	Deixis=Remt|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Remt|nWord=3|RX=[DET]
+3	nan	nan	DET	_	Definite=Def|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Def|nWord=3|RX=[DET]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=5|RX=[AUX]
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	GE=return|Gloss=return|nWord=6|RX=[VERB]

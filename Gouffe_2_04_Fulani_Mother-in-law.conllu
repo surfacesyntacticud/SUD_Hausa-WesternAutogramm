@@ -60,7 +60,7 @@
 # text_ortho = ’uwam màatân nan ta bàhillaacèe, ’ita kàu ta nàa dà kyaù.
 1	uwam	uwaː	NOUN	_	Definite=Cons|Gender=Fem	9	dislocated@subj	_	GE=[mother].[Fem]|Gloss=mother.Fem|nWord=8|RX=[NOUN]|wordform=uwa
 2	màːtaː	màːtaː	NOUN	_	Gender=Fem	1	mod	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=9|RX=[NOUN]
-3	nan	nan	DET	_	Deixis=Remt|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Remt|nWord=10|RX=[DET]
+3	nan	nan	DET	_	Definite=Def|PronType=Dem	2	det	_	GE=[Dist]|Gloss=Def|nWord=10|RX=[DET]
 4	ta	na/ta	ADP	_	_	2	mod	_	GE=[PAn].[Fem]|Gloss=of|nWord=11|RX=[PART]
 5	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	4	comp:obj	_	GE=[Fulani].[Masc]|Gloss=Fulani.Masc|nWord=12|RX=[PROPN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
@@ -115,7 +115,7 @@
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	ita	ita	PRON	_	Gender=Fem|Person=3	15	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=9|RX=[PRON]
 10	sàràkkuwân	sàràkkuwaː	NOUN	_	Definite=Cons|Gender=Fem	9	conj:appos	_	GE=[female_in_law].[Fem].[Def]|Gloss=female_in_law.Fem.Cons|nWord=10|RX=[NOUN]
-11	nan	nan	DET	_	Deixis=Remt|PronType=Dem	10	det	_	GE=[Dist]|Gloss=Remt|nWord=11|RX=[DET]
+11	nan	nan	DET	_	Definite=Def|PronType=Dem	10	det	_	GE=[Dist]|Gloss=Def|nWord=11|RX=[DET]
 12	taːshì	taːshì	PRON	_	Gender=Masc|Person=3	10	mod@poss	_	GE=[3Masc].[Poss].[Fem]|Gloss=3Masc.Poss.Fem|nWord=12|RX=[PRON]
 13	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	sai	sai	ADV	_	_	15	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
@@ -373,7 +373,7 @@
 # text_en = They were standing there, him and the mother-in-law.
 # text_ortho = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
 1	sunàː	nàː*	AUX	_	Person=3	0	root	_	GE=[3Plur].[Imp]|Gloss=3Pl.Pred/Loc|nWord=1|RX=[AUX]
-2	nan	nan	ADV	_	Deixis=Remt|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Remt|nWord=2|RX=[ADV]
+2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=2|RX=[ADV]
 3	s'àis'àye	s'ayàː	VERB	_	Number=Plur	2	mod	_	GE=[stop].[Plur].[Stat]|Gloss=stop.Plur.Stat|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	dà	dà	CCONJ	_	_	6	cc@preconj	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
