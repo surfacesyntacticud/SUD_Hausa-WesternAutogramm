@@ -7,7 +7,7 @@
 # text_ortho = wa’ànnàn wa’ansu mutàanee nèe.
 1	wa’ànnàn	wa’ànnàn	PRON	_	Deixis=Prox|Number=Plur|PronType=Dem	4	subj	_	GE=[Prox].[Plur]|Gloss=Prox.Plur|nWord=1|RX=[PRON]
 2	wasu	wani	DET	_	Number=Plur	3	det	_	GE=[some].[Plur]|Gloss=some.Plur|nWord=2|RX=[DET]
-3	mutàːneː	mutàːneː	NOUN	_	Number=Plur	4	comp:pred	_	GE=[people].[Plur]|Gloss=people.Plur|nWord=3|RX=[NOUN]
+3	mutàːneː	mutàːneː	NOUN	_	Definite=Ind|Number=Plur	4	comp:pred	_	GE=[people].[Plur]|Gloss=people.Plur|nWord=3|RX=[NOUN]
 4	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	0	root	_	GE=[Ident/Loc].[Masc/Plur]|Gloss=be.Masc/Plur|nWord=4|RX=[IDPART]
 5	.	.	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 
@@ -19,9 +19,9 @@
 # text_en = Both neighbours had a wife.
 # text_ortho = dà maƙwàbcii dà maƙwàbcii, koowaa dà màataššì.
 1	dà	dà	ADP	_	_	2	cc@preconj	_	GE=with|Gloss=with|nWord=6|RX=[ADP]
-2	maƙwàbciː	maƙwàbciː	NOUN	_	Gender=Masc	7	dislocated@subj	_	GE=[neighbour].[Masc]|Gloss=neighbour.Masc|nWord=7|RX=[NOUN]
+2	maƙwàbciː	maƙwàbciː	NOUN	_	Definite=Ind|Gender=Masc	7	dislocated@subj	_	GE=[neighbour].[Masc]|Gloss=neighbour.Masc|nWord=7|RX=[NOUN]
 3	dà	dà	ADP	_	_	4	cc	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
-4	maƙwàbciː	maƙwàbciː	NOUN	_	Gender=Masc	2	conj:coord	_	GE=[neighbour].[Masc]|Gloss=neighbour.Masc|nWord=9|RX=[NOUN]
+4	maƙwàbciː	maƙwàbciː	NOUN	_	Definite=Ind|Gender=Masc	2	conj:coord	_	GE=[neighbour].[Masc]|Gloss=neighbour.Masc|nWord=9|RX=[NOUN]
 5	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 6	koːwaː	koːwaː	PRON	_	_	7	subj	_	GE=everyone|Gloss=everyone|nWord=11|RX=[PRON]
 7	dà	dà	ADP	_	_	0	root	_	GE=with|Gloss=with|nWord=12|RX=[ADP]
@@ -39,13 +39,13 @@
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	GE=one|Gloss=one|nWord=2|RX=[NUM]
 3	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Pred/Loc|nWord=3|RX=[AUX]
 4	dà	dà	ADP	_	_	3	comp:pred	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
+5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	GE=one|Gloss=one|nWord=7|RX=[NUM]
 8	kâu	kàu	PART	_	_	7	discourse@top	_	GE=anyway|Gloss=whereas|nWord=8|PartType=Top|RX=[TOPPART]
 9	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	3	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=9|RX=[PREDPART]|wordform=bâː
 10	dà	dà	ADP	_	_	9	comp:pred	_	GE=with|Gloss=with|nWord=11|RX=[ADP]
-11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
+11	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=12|RX=[NOUN]
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_03
@@ -59,13 +59,13 @@
 2	màːtaw	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=2|RX=[NOUN]|wordform=màːta
 3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	mod	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=3|RX=[PRON]
 4	bâː	baːbù	PART	_	Polarity=Neg	3	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=4|PartType=Pred|RX=[PREDPART]
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	subj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
+5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	subj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=8|RX=[AUX]
 9	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=9|RX=[VERB]|wordform=sô
 10	mài	mài	ADP	_	Gender=Masc	9	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=10|RX=[PART]
-11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=11|RX=[NOUN]
+11	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=11|RX=[NOUN]
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_04
@@ -80,17 +80,17 @@
 3	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	2	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=3|RX=[AUX]
 4	ga	ganiː	VERB	_	_	3	comp:aux	_	GE=see|Gloss=see|nWord=4|RX=[VERB]
 5	mài	mài	ADP	_	Gender=Masc	4	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=5|RX=[PART]
-6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=6|RX=[NOUN]
+6	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 9	azàː	azàː	VERB	_	_	8	comp:aux	_	GE=put|Gloss=put|nWord=9|RX=[VERB]
 10	mà	mà	ADP	_	_	9	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=10|RX=[ADP]
-11	doːkìːnai	doːkìːnai	NOUN	_	Gender=Masc|Person=3	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=11|RX=[NOUN]|wordform=doːkìː
-12	sir̃dìː	sir̃dìː	NOUN	_	Gender=Masc	9	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=12|RX=[NOUN]
+11	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	10	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=11|RX=[NOUN]|wordform=doːkìː
+12	sir̃dìː	sir̃dìː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=14|RX=[AUX]
 15	sâː	sâː	VERB	_	_	14	comp:aux	_	GE=put|Gloss=put|nWord=15|RX=[VERB]
-16	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	15	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=16|RX=[NOUN]
+16	kaːyaː	kaːyaː	NOUN	_	Definite=Ind|Gender=Masc	15	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=16|RX=[NOUN]
 17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	14	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=17|RX=[AUX]
 18	hau	hau	VERB	_	_	17	comp:aux	_	GE=climb/start|Gloss=climb/start|nWord=18|RX=[VERB]
 19	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
@@ -100,7 +100,7 @@
 23	gàban	gàban	ADP	_	Definite=Cons	22	comp:obl	_	GE=in_front_of|Gloss=in_front_of|nWord=23|RX=[ADP]
 24	gidansù	gidaːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	23	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.3Plur.Poss|nWord=24|RX=[NOUN]|wordform=gida
 25	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	22	parataxis@mod	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=25|RX=[AUX]
-26	zaːmiyaː	zaːmiyaː	NOUN	_	Gender=Fem	25	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=26|RX=[NOUN]
+26	zaːmiyaː	zaːmiyaː	NOUN	_	Definite=Ind|Gender=Fem	25	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=26|RX=[NOUN]
 27	.	.	PUNCT	_	_	21	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_05
@@ -119,21 +119,21 @@
 7	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
 9	mài	mài	ADP	_	Gender=Masc	11	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
+10	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@comp	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=11|RX=[AUX]
 12	wucèː	wucèː	VERB	_	_	11	comp:aux	_	GE=pass_by|Gloss=pass_by|nWord=12|RX=[VERB]
 13	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	sai	sai	ADV	_	_	15	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
 15	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
-17	dàːriyaː	dàːriyaː	NOUN	_	Gender=Fem	16	comp:pred	_	GE=[laughing].[Fem]|Gloss=laughing.Fem|nWord=17|RX=[NOUN]
+17	dàːriyaː	dàːriyaː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:pred	_	GE=[laughing].[Fem]|Gloss=laughing.Fem|nWord=17|RX=[NOUN]
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	15	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=19|RX=[AUX]
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	GE=say|Gloss=say|nWord=20|RX=[VERB]
 21	:	:	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 22	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	25	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=22|RX=[NOUN]|wordform=màːta
 23	mài	mài	ADP	_	Gender=Masc	22	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
-24	doːkìː	doːkìː	NOUN	_	Gender=Masc	23	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
+24	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	23	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
 25	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp:obj@T	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=25|RX=[AUX]
 26	ji	jiyàː	VERB	_	_	25	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=26|RX=[VERB]
 27	daːɗintà	daːɗiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	26	comp:obj	_	GE=[happiness].[Masc]|Gloss=happiness.Masc.3Fem.Poss|nWord=27|RX=[NOUN]|wordform=daːɗi
@@ -153,7 +153,7 @@
 5	jîː	jîː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	GE=[hear].[Nmlz].[Masc]|Gloss=hear.Nmlz.Masc|nWord=5|RX=[VERB]
 6	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
-8	râinai	râinai	NOUN	_	Gender=Masc|Person=3	9	subj	_	GE=[life].[Masc]|Gloss=life.Masc.3Masc.Poss|nWord=8|RX=[NOUN]|wordform=râi
+8	râinai	râinai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	9	subj	_	GE=[life].[Masc]|Gloss=life.Masc.3Masc.Poss|nWord=8|RX=[NOUN]|wordform=râi
 9	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
 10	ɓaːcì	ɓaːcì	VERB	_	_	9	comp:aux	_	GE=spoil|Gloss=spoil|nWord=10|RX=[VERB]
 11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
@@ -178,7 +178,7 @@
 1	anà	nàː*	AUX	_	Person=4	7	mod	_	GE=[4]|Gloss=4.Pred/Loc|nWord=1|RX=[PRON]
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=3|RX=[ADV]
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	mod	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=zama
-4	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
+4	duːniyàː	duːniyàː	NOUN	_	Definite=Ind|Gender=Fem	3	udep	_	GE=[world].[Fem]|Gloss=world.Fem|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	kullun	kullun	ADV	_	_	7	mod	_	GE=always|Gloss=always|nWord=7|RX=[ADV]
 7	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=8|RX=[AUX]
@@ -200,12 +200,12 @@
 3	sai	sai	ADV	_	_	4	mod	_	GE=then|Gloss=then|nWord=3|RX=[ADV]
 4	tay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=4|RX=[AUX]
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
-6	niyyàː	niyyàː	NOUN	_	Gender=Fem	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
+6	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	zâːta	zâː	AUX	_	Gender=Fem|Person=3|Tense=Fut	4	parataxis@conj	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=8|RX=[AUX]
 9	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=10|RX=[VERB]
 10	wurim	wurin	ADP	_	Definite=Cons	9	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=11|RX=[NOUN]|wordform=wuri
-11	bìkiː	bìkiː	NOUN	_	_	10	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
+11	bìkiː	bìkiː	NOUN	_	Definite=Ind	10	comp:obj	_	GE=festivity|Gloss=festivity|nWord=12|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 13	can	can	ADV	_	Deixis=Remt|PronType=Dem	10	mod	_	GE=[Dist]|Gloss=Remt|nWord=14|RX=[ADV]
 14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=15|RX=[NOUN]|wordform=gida
@@ -222,12 +222,12 @@
 1	dà	dà	SCONJ	_	_	11	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=2|RX=[AUX]
 3	toːyà	toːyàː	VERB	_	_	2	comp:aux	_	GE=fry|Gloss=fry|nWord=3|RX=[VERB]
-4	maːsàː	maːsàː	NOUN	_	Gender=Fem	3	comp:obj	_	GE=[pancake].[Fem]|Gloss=pancake.Fem|nWord=4|RX=[NOUN]
+4	maːsàː	maːsàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	GE=[pancake].[Fem]|Gloss=pancake.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	zâː	zâː	PART	_	_	2	parataxis@conj	_	Gloss=Dir|PartType=Pred
 7	ta	ta	PRON	_	Gender=Fem|Person=3	6	subj	_	GE=[3Fem]|Gloss=3Fem|nWord=7|RX=[PRON]
 8	wurim	wurin	ADP	_	Definite=Cons	6	comp:pred	_	GE=[place].[Masc]|Gloss=at|nWord=8|RX=[NOUN]|wordform=wuri
-9	bìkiː	bìkiː	NOUN	_	_	8	comp:obj	_	GE=festivity|Gloss=festivity|nWord=9|RX=[NOUN]
+9	bìkiː	bìkiː	NOUN	_	Definite=Ind	8	comp:obj	_	GE=festivity|Gloss=festivity|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=11|RX=[AUX]
 12	gayàː	gayàː	VERB	_	_	11	comp:aux	_	GE=tell|Gloss=tell|nWord=12|RX=[VERB]
@@ -237,7 +237,7 @@
 16	zâːta	zâː	AUX	_	Gender=Fem|Person=3|Tense=Fut	12	comp:obj@T	_	GE=[Fut]|Gloss=Fut.3Fem|nWord=16|RX=[AUX]|wordform=zâː
 17	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=18|RX=[VERB]
 18	wurim	wurin	ADP	_	Definite=Cons	17	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=19|RX=[NOUN]|wordform=wuri
-19	bìkiː	bìkiː	NOUN	_	_	18	comp:obj	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
+19	bìkiː	bìkiː	NOUN	_	Definite=Ind	18	comp:obj	_	GE=festivity|Gloss=festivity|nWord=20|RX=[NOUN]
 20	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_11
@@ -273,16 +273,16 @@
 6	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=6|RX=[AUX]
 7	azàː	azàː	VERB	_	_	6	comp:aux	_	GE=put|Gloss=put|nWord=7|RX=[VERB]
 8	bisà	bisà	ADP	_	_	7	comp:obl	_	GE=on_top_of|Gloss=on_top_of|nWord=8|RX=[ADP]
-9	kâi	kâi	NOUN	_	Gender=Masc	8	comp:obj	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=9|RX=[NOUN]
+9	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	tak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=11|RX=[AUX]
 12	kaːmà	kaːmàː	VERB	_	_	11	comp:aux	_	GE=catch|Gloss=catch|nWord=12|RX=[VERB]
-13	hanyàː	hanyàː	NOUN	_	Gender=Fem	12	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=13|RX=[NOUN]
+13	hanyàː	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	11	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=15|RX=[AUX]
 16	tàhi	tàhi	VERB	_	_	15	comp:aux	_	GE=go|Gloss=go|nWord=16|RX=[VERB]
 17	wurim	wurin	ADP	_	Definite=Cons	16	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=17|RX=[NOUN]|wordform=wuri
-18	bìkiː	bìkiː	NOUN	_	_	17	comp:obj	_	GE=festivity|Gloss=festivity|nWord=18|RX=[NOUN]
+18	bìkiː	bìkiː	NOUN	_	Definite=Ind	17	comp:obj	_	GE=festivity|Gloss=festivity|nWord=18|RX=[NOUN]
 19	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_12_2
@@ -301,19 +301,19 @@
 7	tàhi	tàhi	VERB	_	_	6	comp:aux	_	GE=go|Gloss=go|nWord=26|RX=[VERB]
 8	wurin	wurin	ADP	_	Definite=Cons	7	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=27|RX=[NOUN]|wordform=wuri
 9	wani	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=28|RX=[DET]
-10	àboːkiːnai	àboːkiːnai	NOUN	_	Gender=Masc|Person=3	8	comp:obj	_	GE=[friend].[Masc]|Gloss=friend.Masc.3Masc.Poss|nWord=29|RX=[NOUN]|wordform=àboːkiː
+10	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obj	_	GE=[friend].[Masc]|Gloss=friend.Masc.3Masc.Poss|nWord=29|RX=[NOUN]|wordform=àboːkiː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
 12	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	6	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=31|RX=[AUX]
 13	àri	àraː	VERB	_	_	12	comp:aux	_	GE=borow|Gloss=borow|nWord=32|RX=[VERB]
-14	doːkìː	doːkìː	NOUN	_	Gender=Masc	13	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=33|RX=[NOUN]
+14	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	13	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=33|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=34|RX=[PUNCT]
 16	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	12	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=35|RX=[AUX]
 17	ɗarmà	ɗarmàː	VERB	_	_	16	comp:aux	_	GE=tie|Gloss=tie|nWord=36|RX=[VERB]
-18	sir̃dìː	sir̃dìː	NOUN	_	Gender=Masc	17	comp:obj	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=37|RX=[NOUN]
+18	sir̃dìː	sir̃dìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=37|RX=[NOUN]
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 20	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=39|RX=[AUX]
 21	sâː	sâː	VERB	_	_	20	comp:aux	_	GE=put|Gloss=put|nWord=40|RX=[VERB]
-22	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	21	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=41|RX=[NOUN]
+22	kaːyaː	kaːyaː	NOUN	_	Definite=Ind|Gender=Masc	21	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc|nWord=41|RX=[NOUN]
 23	,	,	PUNCT	_	_	24	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
 24	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	20	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=43|RX=[AUX]
 25	yi	yi	VERB	_	_	24	comp:aux	_	GE=do|Gloss=do|nWord=44|RX=[VERB]
@@ -335,7 +335,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	don	don	SCONJ	_	_	0	root	_	GE=because|Gloss=because|nWord=7|RX=[SCONJ]
 8	kâm	kâk	PART	_	Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=8|PartType=Neg|RX=[PART]
-9	màːtaːtai	màːtaːtai	NOUN	_	Gender=Fem|Person=3	10	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=màːtaː
+9	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	10	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=màːtaː
 10	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	7	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=10|RX=[AUX]
 11	gaːnèː	gaːnèː	VERB	_	_	10	comp:aux	_	GE=understand/find_out|Gloss=understand/find_out|nWord=11|RX=[VERB]
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=12|RX=[PRON]
@@ -351,15 +351,15 @@
 1	dà	dà	SCONJ	_	_	7	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	yah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	hau	hau	VERB	_	_	2	comp:aux	_	GE=climb/start|Gloss=climb/start|nWord=3|RX=[VERB]
-4	doːkìː	doːkìː	NOUN	_	Gender=Masc	3	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
+4	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	bi	bi	VERB	_	_	7	comp:aux	_	GE=follow|Gloss=follow|nWord=8|RX=[VERB]
-9	hanyàː	hanyàː	NOUN	_	Gender=Fem	8	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=9|RX=[NOUN]
+9	hanyàː	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:obj	_	GE=[path].[Fem]|Gloss=path.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	14	comp:obj	_	GE=[who].[Fem]|Gloss=who.Fem|nWord=11|RX=[PRON]
-12	màːtaːtai	màːtaːtai	NOUN	_	Gender=Fem|Person=3	13	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=12|RX=[NOUN]|wordform=màːtaː
+12	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	13	subj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=12|RX=[NOUN]|wordform=màːtaː
 13	tab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	9	mod@relcl	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=13|RX=[AUX]
 14	bi	bi	VERB	_	_	13	comp:aux	_	GE=follow|Gloss=follow|nWord=14|RX=[VERB]
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=15|RX=[PUNCT]
@@ -373,18 +373,18 @@
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
 1	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
 2	bisà	bisà	ADP	_	_	1	comp:pred	_	GE=on_top_of|Gloss=on_top_of|nWord=3|RX=[ADP]
-3	doːkìː	doːkìː	NOUN	_	Gender=Masc	2	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
+3	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=4|RX=[NOUN]
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=6|RX=[AUX]
 6	cim	cim	VERB	_	_	5	comp:aux	_	GE=overtake|Gloss=overtake|nWord=7|RX=[VERB]
 7	mà	mà	ADP	_	_	6	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=8|RX=[ADP]
-8	màːtaːtai	màːtaːtai	NOUN	_	Gender=Fem|Person=3	7	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=màːtaː
+8	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	7	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=màːtaː
 9	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 10	sai	sai	ADV	_	_	11	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 11	yaƙ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	5	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=12|RX=[AUX]
 12	ƙiyàː	ƙiyàː	VERB	_	_	11	comp:aux	_	GE=refuse|Gloss=refuse|nWord=13|RX=[VERB]
 13	mutà	mutà	PRON	_	Gender=Fem|Person=3	12	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
-14	màganàː	màganàː	NOUN	_	Gender=Fem	12	comp:obj@T	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=15|RX=[NOUN]
+14	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj@T	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=15|RX=[NOUN]
 15	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 16	sai	sai	ADV	_	_	17	mod	_	GE=then|Gloss=then|nWord=17|RX=[ADV]
 17	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	11	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=18|RX=[AUX]
@@ -401,14 +401,14 @@
 # text_ortho = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	7	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
 2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
-3	màːtaːtai	màːtaːtai	NOUN	_	Gender=Fem|Person=3	1	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=3|RX=[NOUN]|wordform=màːtaː
+3	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	1	conj:appos	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=3|RX=[NOUN]|wordform=màːtaː
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	ita	ita	PRON	_	Gender=Fem|Person=3	1	conj:appos	_	GE=[3Fem]|Gloss=3Fem|nWord=5|RX=[PRON]
 6	dai	dai	PART	_	_	5	discourse@top	_	GE=indeed|Gloss=however|nWord=6|PartType=Top|RX=[TOPPART]
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=7|RX=[AUX]
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	GE=see|Gloss=see|nWord=8|RX=[VERB]
 9	mài	mài	ADP	_	Gender=Masc	8	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
+10	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	GE=but|Gloss=but|nWord=12|RX=[CCONJ]
 13	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	7	conj:coord	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=13|RX=[AUX]
@@ -419,7 +419,7 @@
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	ab	ak	AUX	_	_	17	comp:cleft	_	Background=Yes|GE=[Pred/Loc]|Gloss=Pred/Loc.Bkg|nWord=19|RX=[IDPART]
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	GE=on_top_of|Gloss=on_top_of|nWord=20|RX=[ADP]
-21	doːkìː	doːkìː	NOUN	_	Gender=Masc	20	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=21|RX=[NOUN]
+21	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=21|RX=[NOUN]
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_17
@@ -444,13 +444,13 @@
 13	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	5	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=13|RX=[AUX]
 14	sàbka	sàbka	VERB	_	_	13	comp:aux	_	GE=dismount|Gloss=dismount|nWord=14|RX=[VERB]
 15	wani	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=15|RX=[DET]
-16	gidaː	gidaː	NOUN	_	Gender=Masc	14	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=16|RX=[NOUN]
+16	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=16|RX=[NOUN]
 17	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 18	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	13	parataxis@conj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=18|RX=[AUX]
 19	sàbka	sàbka	VERB	_	_	18	comp:aux	_	GE=dismount|Gloss=dismount|nWord=19|RX=[VERB]
 20	indà	indà	ADV	_	_	19	comp:obj	_	GE=where|Gloss=where|nWord=20|RX=[ADV]
 21	akà	kà	AUX	_	Aspect=ProgBkg|Person=4	20	mod@relcl	_	Gloss=4.ProgBkg
-22	bìkiː	bìkiː	NOUN	_	_	21	comp:aux	_	GE=festivity|Gloss=festivity|nWord=22|RX=[NOUN]
+22	bìkiː	bìkiː	NOUN	_	Definite=Ind	21	comp:aux	_	GE=festivity|Gloss=festivity|nWord=22|RX=[NOUN]
 23	ba	ba	PART	_	Polarity=Neg	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=23|PartType=Neg|RX=[PART]
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=24|RX=[PUNCT]
 
@@ -471,7 +471,7 @@
 8	sàbka	sàbka	VERB	_	_	7	comp:aux	_	GE=dismount|Gloss=dismount|nWord=8|RX=[VERB]
 9	indà	indà	ADV	_	_	8	comp:obj	_	GE=where|Gloss=where|nWord=9|RX=[ADV]
 10	akà	kà	AUX	_	Aspect=ProgBkg|Person=4	9	mod@relcl	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=10|RX=[AUX]
-11	bìkiː	bìkiː	NOUN	_	_	10	comp:aux	_	GE=festivity|Gloss=festivity|nWord=11|RX=[NOUN]
+11	bìkiː	bìkiː	NOUN	_	Definite=Ind	10	comp:aux	_	GE=festivity|Gloss=festivity|nWord=11|RX=[NOUN]
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_19
@@ -486,10 +486,10 @@
 3	zàmne	zamnàː	VERB	_	_	2	mod	_	GE=[stay].[Stat]|Gloss=stay.Stat|nWord=4|RX=[VERB]
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	GE=everyone|Gloss=everyone|nWord=6|RX=[PRON]
-6	masabkiːnai	masabkiːnai	NOUN	_	Gender=Masc|Person=3	3	mod	_	GE=[stopping_place].[Masc]|Gloss=stopping_place.Masc.3Masc.Poss|nWord=7|RX=[NOUN]|wordform=masabkiː
+6	masabkiːnai	masabkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	3	mod	_	GE=[stopping_place].[Masc]|Gloss=stopping_place.Masc.3Masc.Poss|nWord=7|RX=[NOUN]|wordform=masabkiː
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 8	har	hat	SCONJ	_	_	6	mod	_	GE=until|Gloss=until|nWord=9|RX=[SCONJ]
-9	raːnaː	raːnaː	NOUN	_	Gender=Fem	10	subj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=10|RX=[NOUN]
+9	raːnaː	raːnaː	NOUN	_	Definite=Ind|Gender=Fem	10	subj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=10|RX=[NOUN]
 10	tah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	8	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=11|RX=[AUX]
 11	hwaːɗì	hwaːɗì	VERB	_	_	10	comp:aux	_	GE=fall|Gloss=fall|nWord=12|RX=[VERB]
 12	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=13|RX=[PUNCT]
@@ -502,11 +502,11 @@
 # text_en = When the sun went down and the night fell, her husband arrived, without her knowing it was him, he asked for her and said that when she had taken her food, he would talk with her there, where he was staying, where his horse was.
 # text_ortho = dà ᵲaanaa tah hwaaɗì, daᵲee yay yi, sai mijìntà yaz zoo, bà tà san šii ba nèe, yay yi kiᵲàntà, yac ceè ’in taa ci ’àbunci, ši nàa màganàa dà ’ita, can ’indà yas sàbka, wuᵲin dookìːnai.
 1	dà	dà	SCONJ	_	_	12	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
-2	raːnaː	raːnaː	NOUN	_	Gender=Fem	3	subj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=2|RX=[NOUN]
+2	raːnaː	raːnaː	NOUN	_	Definite=Ind|Gender=Fem	3	subj	_	GE=[sun/day].[Fem]|Gloss=sun/day.Fem|nWord=2|RX=[NOUN]
 3	tah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=3|RX=[AUX]
 4	hwaːɗì	hwaːɗì	VERB	_	_	3	comp:aux	_	GE=fall|Gloss=fall|nWord=4|RX=[VERB]
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
-6	dareː	dareː	NOUN	_	Gender=Masc	7	subj	_	GE=[night].[Masc]|Gloss=night.Masc|nWord=6|RX=[NOUN]
+6	dareː	dareː	NOUN	_	Definite=Ind|Gender=Masc	7	subj	_	GE=[night].[Masc]|Gloss=night.Masc|nWord=6|RX=[NOUN]
 7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	yi	yi	VERB	_	_	7	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
 9	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
@@ -530,10 +530,10 @@
 27	in	in	SCONJ	_	_	32	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
 28	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=28|RX=[AUX]
 29	ci	ci	VERB	_	_	28	comp:aux	_	GE=eat|Gloss=eat|nWord=29|RX=[VERB]
-30	àbunci	àbunci	NOUN	_	Gender=Masc	29	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=30|RX=[NOUN]
+30	àbunci	àbunci	NOUN	_	Definite=Ind|Gender=Masc	29	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=30|RX=[NOUN]
 31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 32	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	26	comp:obj@T	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=32|RX=[AUX]
-33	màganàː	màganàː	NOUN	_	Gender=Fem	32	comp:aux	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=33|RX=[NOUN]
+33	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	32	comp:aux	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=33|RX=[NOUN]
 34	dà	dà	ADP	_	_	33	comp:obl	_	GE=with|Gloss=with|nWord=34|RX=[ADP]
 35	ita	ita	PRON	_	Gender=Fem|Person=3	34	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=35|RX=[PRON]
 36	,	,	PUNCT	_	_	37	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
@@ -543,7 +543,7 @@
 40	sàbka	sàbka	VERB	_	_	39	comp:aux	_	GE=dismount|Gloss=dismount|nWord=40|RX=[VERB]
 41	,	,	PUNCT	_	_	42	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=41|RX=[PUNCT]
 42	wurin	wurin	ADP	_	Definite=Cons	38	conj:appos	_	GE=[place].[Masc]|Gloss=at|nWord=42|RX=[NOUN]|wordform=wuri
-43	doːkìːnai	doːkìːnai	NOUN	_	Gender=Masc|Person=3	42	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=43|RX=[NOUN]|wordform=doːkìː
+43	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	42	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=43|RX=[NOUN]|wordform=doːkìː
 44	.	.	PUNCT	_	_	12	punct	_	Gloss=.|nWord=44|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_21
@@ -562,7 +562,7 @@
 7	koːdà	koːdà	SCONJ	_	_	13	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=8|RX=[SCONJ]
 8	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	7	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=9|RX=[AUX]
 9	ci	ci	VERB	_	_	8	comp:aux	_	GE=eat|Gloss=eat|nWord=10|RX=[VERB]
-10	àbunci	àbunci	NOUN	_	Gender=Masc	9	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=11|RX=[NOUN]
+10	àbunci	àbunci	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	GE=[food].[Masc]|Gloss=food.Masc|nWord=11|RX=[NOUN]
 11	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 12	sai	sai	ADV	_	_	13	mod	_	GE=then|Gloss=then|nWord=13|RX=[ADV]
 13	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=14|RX=[AUX]
@@ -570,12 +570,12 @@
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 16	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=17|RX=[AUX]
 17	ta	ta	PART	_	Aspect=Iter	16	compound:prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
-18	mur̃nàː	mur̃nàː	NOUN	_	Gender=Fem	16	comp:aux	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=19|RX=[NOUN]
+18	mur̃nàː	mur̃nàː	NOUN	_	Definite=Ind|Gender=Fem	16	comp:aux	_	GE=[joy].[Fem]|Gloss=joy.Fem|nWord=19|RX=[NOUN]
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 20	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=21|RX=[AUX]
 21	sàːmu	saːmùː	VERB	_	_	20	comp:aux	_	GE=get|Gloss=get|nWord=22|RX=[VERB]
 22	mài	mài	ADP	_	Gender=Masc	21	comp:obj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=23|RX=[PART]
-23	doːkìː	doːkìː	NOUN	_	Gender=Masc	22	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
+23	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	22	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=24|RX=[NOUN]
 24	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
 25	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	20	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=26|RX=[AUX]
 26	san	saniː	VERB	_	_	25	comp:aux	_	Gloss=know
@@ -594,17 +594,17 @@
 1	dà	dà	SCONJ	_	_	6	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=2|RX=[AUX]
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	GE=come|Gloss=come|nWord=3|RX=[VERB]
-4	wuriːnai	wuriːnai	NOUN	_	Gender=Masc|Person=3	3	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=4|RX=[NOUN]|wordform=wuriː
+4	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	3	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=4|RX=[NOUN]|wordform=wuriː
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=6|RX=[AUX]
 7	yi	yi	VERB	_	_	6	comp:aux	_	GE=do|Gloss=do|nWord=7|RX=[VERB]
-8	màganàː	màganàː	NOUN	_	Gender=Fem	7	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=8|RX=[NOUN]
+8	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=8|RX=[NOUN]
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	6	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	GE=say|Gloss=say|nWord=11|RX=[VERB]
 12	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	11	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=12|RX=[AUX]
 13	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	12	comp:aux	_	GE=[spend_night].[Nmlz].[Masc]|Gloss=spend_night.Nmlz.Masc|nWord=13|RX=[VERB]
-14	wuriːnai	wuriːnai	NOUN	_	Gender=Masc|Person=3	13	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=14|RX=[NOUN]|wordform=wuriː
+14	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	13	comp:obj@L	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=14|RX=[NOUN]|wordform=wuriː
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	10	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=16|RX=[AUX]
 17	cêː	cêː	VERB	_	_	16	comp:aux	_	GE=say|Gloss=say|nWord=17|RX=[VERB]
@@ -627,7 +627,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 7	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=8|RX=[AUX]
 8	sàːmu	saːmùː	VERB	_	_	7	comp:aux	_	GE=get|Gloss=get|nWord=9|RX=[VERB]
-9	zanèː	zanèː	NOUN	_	Gender=Masc	8	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=10|RX=[NOUN]
+9	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=10|RX=[NOUN]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	comp:obj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=12|RX=[PRON]
 12	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	9	mod@relcl	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=13|RX=[AUX]
@@ -649,7 +649,7 @@
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
 7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=8|RX=[ADP]
-8	kabriː	kabriː	NOUN	_	Gender=Masc	7	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=9|RX=[NOUN]
+8	kabriː	kabriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=9|RX=[NOUN]
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_25
@@ -660,7 +660,7 @@
 # text_en = If someone covered himself with it and secured it, the air would not get in, you would start sweating## There was no way the air would get in, nor was there any way the air would get out.
 # text_ortho = ’im mùtun yaᵲ ᵲùhwa dà šii, yat tattàakee, ’iskàa baà ya šìgaa ciki, sai mùtun šì yi ta zuhwàa, baà ’indà ’iskàa kà šìgaa, kuma baà ’indà ’iskàa kà hìtaa.
 1	im	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	mùtun	mùtun	NOUN	_	Gender=Masc	3	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=2|RX=[NOUN]
+2	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	3	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=2|RX=[NOUN]
 3	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=3|RX=[AUX]
 4	rùhwa	rùhwa	VERB	_	_	3	comp:aux	_	GE=be_covered|Gloss=be_covered|nWord=4|RX=[VERB]
 5	dà	dà	ADP	_	_	4	comp:obl	_	GE=with|Gloss=with|nWord=5|RX=[ADP]
@@ -669,28 +669,28 @@
 8	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	3	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=8|RX=[AUX]
 9	tattàːkeː	tattàːkeː	VERB	_	_	8	comp:aux	_	GE=stay_put|Gloss=stay_put|nWord=9|RX=[VERB]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
-11	iskàː	iskàː	NOUN	_	Gender=Fem	12	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=11|RX=[NOUN]
+11	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=11|RX=[NOUN]
 12	bâːshi	bâi	AUX	_	Aspect=ProgNeg|Gender=Masc|Person=3|Polarity=Neg	9	parataxis@conj	_	GE=[3Masc].[Imp].[Neg]|Gloss=3Masc.ProgNeg|nWord=12|RX=[AUX]
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=13|RX=[VERB]
 14	ciki	ciki	ADV	_	_	13	comp:obl	_	GE=inside|Gloss=inside|nWord=14|RX=[ADV]
 15	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=16|RX=[ADV]
-17	mùtun	mùtun	NOUN	_	Gender=Masc	18	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=17|RX=[NOUN]
+17	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	18	subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=17|RX=[NOUN]
 18	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=18|RX=[AUX]
 19	yi	yi	VERB	_	_	18	comp:aux	_	GE=do|Gloss=do|nWord=19|RX=[VERB]
 20	ta	ta	PART	_	Aspect=Iter	19	compound:prt	_	GE=via|Gloss=Iter|nWord=20|PartType=Adv|RX=[ADP]
-21	zuhwàː	zuhwàː	NOUN	_	Gender=Fem	19	comp:pred	_	GE=[perspiration].[Fem]|Gloss=perspiration.Fem|nWord=21|RX=[NOUN]
+21	zuhwàː	zuhwàː	NOUN	_	Definite=Ind|Gender=Fem	19	comp:pred	_	GE=[perspiration].[Fem]|Gloss=perspiration.Fem|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	bâː	baːbù	PART	_	Polarity=Neg	18	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=23|PartType=Pred|RX=[PREDPART]
 24	indà	indà	PRON	_	_	23	subj	_	GE=where|Gloss=where|nWord=24|RX=[ADV]
-25	iskàː	iskàː	NOUN	_	Gender=Fem	26	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=25|RX=[NOUN]
+25	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	26	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=25|RX=[NOUN]
 26	kà	kà	AUX	_	Aspect=ProgBkg	24	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=26|RX=[AUX]
 27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=27|RX=[VERB]
 28	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
 29	kuma	kuma	PART	_	_	30	discourse	_	GE=also|Gloss=also|nWord=29|PartType=Disc|RX=[ADV]
 30	bâː	baːbù	PART	_	Polarity=Neg	23	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=30|PartType=Pred|RX=[PREDPART]
 31	indà	indà	PRON	_	_	30	subj	_	GE=where|Gloss=where|nWord=31|RX=[ADV]
-32	iskàː	iskàː	NOUN	_	Gender=Fem	33	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=32|RX=[NOUN]
+32	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	33	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=32|RX=[NOUN]
 33	kà	kà	AUX	_	Aspect=ProgBkg	31	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=33|RX=[AUX]
 34	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	33	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=34|RX=[VERB]
 35	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=35|RX=[PUNCT]
@@ -743,7 +743,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	4	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
 8	zoː	zoː	VERB	_	_	7	comp:aux	_	GE=come|Gloss=come|nWord=8|RX=[VERB]
-9	wuriːnai	wuriːnai	NOUN	_	Gender=Masc|Person=3	8	comp:obl	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=wuriː
+9	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obl	_	GE=[place].[Masc]|Gloss=place.Masc.3Masc.Poss|nWord=9|RX=[NOUN]|wordform=wuriː
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	sai	sai	ADV	_	_	12	mod	_	GE=then|Gloss=then|nWord=11|RX=[ADV]
 12	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	7	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=12|RX=[AUX]
@@ -769,7 +769,7 @@
 9	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	GE=[wrapper].[Masc].[Def]|Gloss=wrapper.Masc.Cons|nWord=9|RX=[NOUN]
 10	ga	ga	DET	_	Deixis=Prox|PronType=Dem	9	det	_	GE=[Prox]|Gloss=Prox|nWord=10|RX=[DET]
 11	mài	mài	ADP	_	Gender=Masc	9	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=11|RX=[PART]
-12	kabriː	kabriː	NOUN	_	Gender=Masc	11	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=12|RX=[NOUN]
+12	kabriː	kabriː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	GE=[thickness].[Masc]|Gloss=thickness.Masc|nWord=12|RX=[NOUN]
 13	,	,	PUNCT	_	_	14	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=13|RX=[PUNCT]
 14	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=14|RX=[AUX]
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	GE=say|Gloss=say|nWord=15|RX=[VERB]
@@ -789,7 +789,7 @@
 1	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	0	root	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=1|RX=[AUX]
 2	rùhwa	rùhwa	VERB	_	_	1	comp:aux	_	GE=be_covered|Gloss=be_covered|nWord=2|RX=[VERB]
 3	dà	dà	ADP	_	_	2	comp:obl	_	GE=with|Gloss=with|nWord=3|RX=[ADP]
-4	zanèː	zanèː	NOUN	_	Gender=Masc	3	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=4|RX=[NOUN]
+4	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=4|RX=[NOUN]
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=5|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_30
@@ -803,7 +803,7 @@
 2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	1	comp:obj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=2|RX=[AUX]
 3	rùhwa	rùhwa	VERB	_	_	2	comp:aux	_	GE=be_covered|Gloss=be_covered|nWord=3|RX=[VERB]
 4	dà	dà	ADP	_	_	3	comp:obl	_	GE=with|Gloss=with|nWord=4|RX=[ADP]
-5	zanèː	zanèː	NOUN	_	Gender=Masc	4	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=5|RX=[NOUN]
+5	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	sai	sai	ADV	_	_	8	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 8	yaj	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=8|RX=[AUX]
@@ -812,7 +812,7 @@
 11	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	kusa	kusa	ADV	_	_	13	mod	_	GE=near|Gloss=near|nWord=12|RX=[ADV]
 13	gà	gà	ADP	_	_	9	comp:obl	_	GE=at|Gloss=at|nWord=13|RX=[ADP]
-14	jìkiːnai	jìkiːnai	NOUN	_	Gender=Masc|Person=3	13	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.3Masc.Poss|nWord=14|RX=[NOUN]|wordform=jìkiː
+14	jìkiːnai	jìkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	13	comp:obj	_	GE=[body].[Masc]|Gloss=body.Masc.3Masc.Poss|nWord=14|RX=[NOUN]|wordform=jìkiː
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	8	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=16|RX=[AUX]
 17	rungùmeː	rungùmeː	VERB	_	_	16	comp:aux	_	GE=hug|Gloss=hug|nWord=17|RX=[VERB]
@@ -834,15 +834,15 @@
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	GE=put|Gloss=put|nWord=8|RX=[VERB]
-9	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	Number=Plur	8	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=9|RX=[NOUN]
+9	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	Definite=Ind|Number=Plur	8	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=9|RX=[NOUN]
 10	dà	dà	CCONJ	_	_	11	cc	_	GE=and|Gloss=and|nWord=11|RX=[CCONJ]
-11	kâi	kâi	NOUN	_	Gender=Masc	9	conj:coord	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=12|RX=[NOUN]
+11	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	9	conj:coord	_	GE=[head].[Masc]|Gloss=head.Masc|nWord=12|RX=[NOUN]
 12	dà	dà	CCONJ	_	_	11	cc	_	GE=and|Gloss=and|nWord=13|RX=[CCONJ]
-13	hannuwàː	hannuː	NOUN	_	Number=Plur	11	conj:coord	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=14|RX=[NOUN]
+13	hannuwàː	hannuː	NOUN	_	Definite=Ind|Number=Plur	11	conj:coord	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=14|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 15	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=16|RX=[AUX]
 16	tattàːkè	tattàːkeː	VERB	_	_	15	comp:aux	_	GE=stay_put|Gloss=stay_put|nWord=17|RX=[VERB]
-17	zanèː	zanèː	NOUN	_	Gender=Masc	16	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=18|RX=[NOUN]
+17	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=18|RX=[NOUN]
 18	.	.	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_31_2
@@ -858,18 +858,18 @@
 4	dà	dà	CCONJ	_	_	5	cc	_	GE=and|Gloss=and|nWord=23|RX=[CCONJ]
 5	wajentà	wajeːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	2	conj:appos	_	GE=side|Gloss=side.3Fem.Poss|nWord=24|RX=[NOUN]|wordform=waje
 6	dà	dà	CCONJ	_	_	7	cc	_	GE=and|Gloss=and|nWord=25|RX=[CCONJ]
-7	wajeːnai	wajeːnai	NOUN	_	Gender=Masc|Person=3	5	conj:coord	_	GE=side|Gloss=side.3Masc.Poss|nWord=26|RX=[NOUN]|wordform=wajeː
+7	wajeːnai	wajeːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	5	conj:coord	_	GE=side|Gloss=side.3Masc.Poss|nWord=26|RX=[NOUN]|wordform=wajeː
 8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 9	bâː	baːbù	PART	_	Polarity=Neg	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=28|PartType=Pred|RX=[PREDPART]
 10	indà	indà	PRON	_	_	9	subj	_	GE=where|Gloss=where|nWord=29|RX=[ADV]
-11	iskàː	iskàː	NOUN	_	Gender=Fem	12	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=30|RX=[NOUN]
+11	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=30|RX=[NOUN]
 12	kà	kà	AUX	_	Aspect=ProgBkg	10	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=31|RX=[AUX]
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=32|RX=[VERB]
 14	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=33|RX=[PUNCT]
 15	kuma	kuma	PART	_	_	16	discourse	_	GE=also|Gloss=also|nWord=34|PartType=Disc|RX=[ADV]
 16	bâː	baːbù	PART	_	Polarity=Neg	9	parataxis@conj	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=35|PartType=Pred|RX=[PREDPART]
 17	indà	indà	PRON	_	_	16	subj	_	GE=where|Gloss=where|nWord=36|RX=[ADV]
-18	iskàː	iskàː	NOUN	_	Gender=Fem	19	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=37|RX=[NOUN]
+18	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	19	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=37|RX=[NOUN]
 19	kà	kà	AUX	_	Aspect=ProgBkg	17	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=38|RX=[AUX]
 20	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:aux	_	GE=[get_out].[Nmlz].[Fem]|Gloss=get_out.Nmlz.Fem|nWord=39|RX=[VERB]
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=40|RX=[PUNCT]
@@ -887,12 +887,12 @@
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	dàn	dàgà	ADP	_	_	10	mod	_	GE=from|Gloss=from|nWord=6|RX=[ADP]
 6	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	5	comp:obj	_	GE=[Prox]|Gloss=Prox|nWord=7|RX=[ADV]
-7	gidaː	gidaː	NOUN	_	Gender=Masc	6	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
+7	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	6	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]
 8	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 9	sai	sai	ADV	_	_	10	mod	_	GE=then|Gloss=then|nWord=10|RX=[ADV]
 10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=11|RX=[AUX]
 11	ci	ci	VERB	_	_	10	comp:aux	_	GE=eat|Gloss=eat|nWord=12|RX=[VERB]
-12	waːkeː	waːkeː	NOUN	_	Gender=Masc	11	comp:obj	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=13|RX=[NOUN]
+12	waːkeː	waːkeː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	GE=[beans].[Masc]|Gloss=beans.Masc|nWord=13|RX=[NOUN]
 13	.	.	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_32_2
@@ -908,10 +908,10 @@
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	GE=come|Gloss=come|nWord=18|RX=[VERB]
 5	can	can	ADV	_	Deixis=Remt|PronType=Dem	4	mod	_	GE=[Dist]|Gloss=Remt|nWord=19|RX=[ADV]
 6	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
-7	cikìːnai	cikìːnai	NOUN	_	Gender=Masc|Person=3	8	subj	_	GE=[belly].[Masc]|Gloss=belly.Masc.3Masc.Poss|nWord=21|RX=[NOUN]|wordform=cikìː
+7	cikìːnai	cikìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	subj	_	GE=[belly].[Masc]|Gloss=belly.Masc.3Masc.Poss|nWord=21|RX=[NOUN]|wordform=cikìː
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=22|RX=[AUX]
 9	yi	yi	VERB	_	_	8	comp:aux	_	GE=do|Gloss=do|nWord=23|RX=[VERB]
-10	kùmbùriː	kùmbùriː	NOUN	_	Gender=Masc	9	comp:pred	_	GE=[swelling].[Masc]|Gloss=swelling.Masc|nWord=24|RX=[NOUN]
+10	kùmbùriː	kùmbùriː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	GE=[swelling].[Masc]|Gloss=swelling.Masc|nWord=24|RX=[NOUN]
 11	.	.	PUNCT	_	_	8	punct	_	Gloss=.|nWord=25|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_33
@@ -926,17 +926,17 @@
 3	ruhèː	ruhèː	VERB	_	_	2	comp:aux	_	GE=close|Gloss=close|nWord=3|RX=[VERB]
 4	ta	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=4|RX=[PRON]
 5	cikin	cikin	ADP	_	_	3	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=5|RX=[ADP]
-6	zanèː	zanèː	NOUN	_	Gender=Masc	5	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=6|RX=[NOUN]
+6	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
 10	hankàɗà	hankàɗaː	VERB	_	_	9	comp:aux	_	GE=lift|Gloss=lift|nWord=10|RX=[VERB]
-11	ƙahwàː	ƙahwàː	NOUN	_	Gender=Fem	10	comp:obj	_	GE=[thigh].[Fem]|Gloss=thigh.Fem|nWord=11|RX=[NOUN]
+11	ƙahwàː	ƙahwàː	NOUN	_	Definite=Ind|Gender=Fem	10	comp:obj	_	GE=[thigh].[Fem]|Gloss=thigh.Fem|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	9	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=13|RX=[AUX]
 14	yi	yi	VERB	_	_	13	comp:aux	_	GE=do|Gloss=do|nWord=14|RX=[VERB]
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=15|RX=[PRON]
-16	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	14	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=16|RX=[NOUN]
+16	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	14	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=16|RX=[NOUN]
 17	.	.	PUNCT	_	_	9	punct	_	Gloss=.|nWord=17|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_34
@@ -949,28 +949,28 @@
 1	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=3|RX=[PRON]
-4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	2	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=4|RX=[NOUN]
+4	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	2	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	11	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
 7	taj	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=7|RX=[AUX]
 8	ji	jiyàː	VERB	_	_	7	comp:aux	_	GE=feel/hear|Gloss=feel/hear|nWord=8|RX=[VERB]
-9	ɗwai	ɗwai	NOUN	_	Gender=Masc	8	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=9|RX=[NOUN]
+9	ɗwai	ɗwai	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=11|RX=[AUX]
 12	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	11	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=12|RX=[VERB]|wordform=sô
 13	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	12	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=13|RX=[AUX]
 14	kwaːrè	kwaːrèː	VERB	_	_	13	comp:aux	_	GE=peel_off|Gloss=peel_off|nWord=14|RX=[VERB]
-15	zanèː	zanèː	NOUN	_	Gender=Masc	14	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=15|RX=[NOUN]
+15	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=15|RX=[NOUN]
 16	,	,	PUNCT	_	_	17	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 17	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	13	parataxis@conj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=17|RX=[AUX]
 18	hiddoː	hiddàː	VERB	_	_	17	comp:aux	_	GE=remove|Gloss=remove.Dir|nWord=18|RX=[VERB]|wordform=hidd
 19	kântà	kâità	NOUN	_	Definite=Cons|Gender=Fem|Person=3	18	comp:obj	_	GE=[head].[Masc]|Gloss=head.Masc.3Fem.Poss|nWord=19|RX=[NOUN]|wordform=kâi
 20	gà	gà	ADP	_	_	18	comp:obl	_	GE=at|Gloss=at|nWord=20|RX=[ADP]
-21	hiːliː	hiːliː	NOUN	_	Gender=Masc	20	comp:obj	_	GE=[open_space].[Masc]|Gloss=open_space.Masc|nWord=21|RX=[NOUN]
+21	hiːliː	hiːliː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	GE=[open_space].[Masc]|Gloss=open_space.Masc|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	sabàddà	sabàddà	ADP	_	_	12	mod	_	GE=because|Gloss=because|nWord=23|RX=[SCONJ]
 24	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=24|RX=[NOUN]|wordform=ɗwai
-25	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	24	mod	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=25|RX=[NOUN]
+25	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	24	mod	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=25|RX=[NOUN]
 26	.	.	PUNCT	_	_	11	punct	_	Gloss=.|nWord=26|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_35
@@ -1003,7 +1003,7 @@
 7	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor.[do]|nWord=7|RX=[AUX]
 8	mutà	mutà	PRON	_	Gender=Fem|Person=3	7	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=8|RX=[PRON]
 9	wata	wata	DET	_	Gender=Fem	10	det	_	GE=[some].[Fem]|Gloss=some.Fem|nWord=9|RX=[DET]
-10	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	7	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=10|RX=[NOUN]
+10	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:obj@T	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=10|RX=[NOUN]
 11	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_36_2
@@ -1016,20 +1016,20 @@
 1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog.do|nWord=12|RX=[AUX]
 2	ta	ta	PART	_	Aspect=Iter	1	compound:prt	_	Gloss=Iter|PartType=Adv
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	1	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=14|RX=[PRON]
-4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	1	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=15|RX=[NOUN]
+4	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	1	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=15|RX=[NOUN]
 5	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
-6	ɗwai	ɗwai	NOUN	_	Gender=Masc	7	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=17|RX=[NOUN]
+6	ɗwai	ɗwai	NOUN	_	Definite=Ind|Gender=Masc	7	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=17|RX=[NOUN]
 7-8	yam	_	_	_	_	_	_	_	_
 7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	parataxis@conj	_	GE=[3Masc].[Perf]|Gloss=3Masc.PerfBkg|nWord=18|RX=[AUX]|wordform=yaː
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	mutà	mutà	PRON	_	Gender=Fem|Person=3	8	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
-10	yawàː	yawàː	NOUN	_	Gender=Masc	8	comp:pred	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=20|RX=[NOUN]
+10	yawàː	yawàː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:pred	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=20|RX=[NOUN]
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=21|RX=[PUNCT]
 12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	7	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=22|RX=[AUX]
 13	ta	ta	PART	_	Aspect=Iter	12	compound:prt	_	GE=via|Gloss=Iter|nWord=23|PartType=Adv|RX=[ADP]
-14	twàːriː	twàːriː	NOUN	_	Gender=Masc	12	comp:aux	_	GE=[coughing].[Masc]|Gloss=coughing.Masc|nWord=24|RX=[NOUN]
+14	twàːriː	twàːriː	NOUN	_	Definite=Ind|Gender=Masc	12	comp:aux	_	GE=[coughing].[Masc]|Gloss=coughing.Masc|nWord=24|RX=[NOUN]
 15	cikin	cikin	ADP	_	_	14	mod	_	GE=in(side)|Gloss=in(side)|nWord=25|RX=[ADP]
-16	zanèː	zanèː	NOUN	_	Gender=Masc	15	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=26|RX=[NOUN]
+16	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	15	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=26|RX=[NOUN]
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_37
@@ -1047,11 +1047,11 @@
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	4	parataxis@conj	_	GE=[3Fem].[Imp]|Gloss=3Fem.Prog|nWord=7|RX=[AUX]
 8	bìɗam	bìɗaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:aux	_	GE=[look_for].[Nmlz].[Masc]|Gloss=look_for.Nmlz.Masc|nWord=8|RX=[VERB]|wordform=bìɗa
-9	mutuwàː	mutuwàː	NOUN	_	Gender=Fem	8	udep	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
+9	mutuwàː	mutuwàː	NOUN	_	Definite=Ind|Gender=Fem	8	udep	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=9|RX=[NOUN]
 10	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	don	don	SCONJ	_	_	19	mod	_	GE=because|Gloss=because|nWord=11|RX=[SCONJ]
 12	kâɗ	kâk	PART	_	Polarity=Neg	14	mod	_	GE=[Neg]|Gloss=Neg|nWord=12|PartType=Neg|RX=[PART]
-13	ɗwai	ɗwai	NOUN	_	Gender=Masc	14	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=13|RX=[NOUN]
+13	ɗwai	ɗwai	NOUN	_	Definite=Ind|Gender=Masc	14	subj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=13|RX=[NOUN]
 14	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	11	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=14|RX=[AUX]
 15	kashèː	kashèː	VERB	_	_	14	comp:aux	_	GE=kill|Gloss=kill|nWord=15|RX=[VERB]
 16	ta	ta	PRON	_	Gender=Fem|Person=3	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
@@ -1059,7 +1059,7 @@
 18	sai	sai	ADV	_	_	19	mod	_	GE=then|Gloss=then|nWord=18|RX=[ADV]
 19	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=19|RX=[AUX]
 20	kwaːrè	kwaːrèː	VERB	_	_	19	comp:aux	_	GE=peel_off|Gloss=peel_off|nWord=20|RX=[VERB]
-21	zanèː	zanèː	NOUN	_	Gender=Masc	20	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=21|RX=[NOUN]
+21	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=21|RX=[NOUN]
 22	.	.	PUNCT	_	_	19	punct	_	Gloss=.|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_38_1
@@ -1072,7 +1072,7 @@
 1	koːdà	koːdà	SCONJ	_	_	11	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=1|RX=[SCONJ]
 2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=2|RX=[AUX]
 3	kwaːrè	kwaːrèː	VERB	_	_	2	comp:aux	_	GE=peel_off|Gloss=peel_off|nWord=3|RX=[VERB]
-4	zanèː	zanèː	NOUN	_	Gender=Masc	3	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=4|RX=[NOUN]
+4	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	GE=[wrapper].[Masc]|Gloss=wrapper.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=6|RX=[PRON]
 7	koːdà	koːdà	SCONJ	_	_	11	mod	_	GE=as_soon_as/even_if|Gloss=as_soon_as/even_if|nWord=7|RX=[SCONJ]
@@ -1087,7 +1087,7 @@
 16	tad	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	11	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=16|RX=[AUX]
 17	dakàː	dakàː	VERB	_	_	16	comp:aux	_	GE=pound|Gloss=pound|nWord=17|RX=[VERB]
 18	dà	dà	ADP	_	_	17	mod	_	GE=with|Gloss=with|nWord=18|RX=[ADP]
-19	gudùː	gudùː	NOUN	_	Gender=Masc	18	comp:obj	_	GE=[running].[Masc]|Gloss=running.Masc|nWord=19|RX=[NOUN]
+19	gudùː	gudùː	NOUN	_	Definite=Ind|Gender=Masc	18	comp:obj	_	GE=[running].[Masc]|Gloss=running.Masc|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	16	parataxis@conj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=21|RX=[AUX]
 22	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3	21	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Fem.Poss|nWord=22|RX=[VERB]|wordform=tàhiyà
@@ -1106,7 +1106,7 @@
 4	,	,	PUNCT	_	_	5	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 5	sabòːdà	sabòːdà	SCONJ	_	_	2	mod	_	GE=because|Gloss=because|nWord=28|RX=[SCONJ]
 6	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=29|RX=[NOUN]|wordform=ɗwai
-7	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	6	mod	_	GE=[fart].[Fem]|Gloss=fart.Fem|nWord=29|RX=[NOUN]
+7	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	6	mod	_	GE=[fart].[Fem]|Gloss=fart.Fem|nWord=29|RX=[NOUN]
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT|nWord=29|RX=[PUNCT]|wordform=ɗwai
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_39
@@ -1127,16 +1127,16 @@
 9	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=9|RX=[PUNCT]
 10	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
 11	mâː	mâː	ADP	_	_	10	comp:obl	_	GE=[Dat]|Gloss=Dat|nWord=11|RX=[ADP]
-12	doːkìːnai	doːkìːnai	NOUN	_	Gender=Masc|Person=3	11	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=12|RX=[NOUN]|wordform=doːkìː
-13	sir̃dìː	sir̃dìː	NOUN	_	Gender=Masc	10	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=13|RX=[NOUN]
+12	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	11	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=12|RX=[NOUN]|wordform=doːkìː
+13	sir̃dìː	sir̃dìː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj@T	_	GE=[saddle].[Masc]|Gloss=saddle.Masc|nWord=13|RX=[NOUN]
 14	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	10	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=15|RX=[AUX]
 16	ɗàuki	ɗaukaː	VERB	_	_	15	comp:aux	_	GE=take|Gloss=take|nWord=16|RX=[VERB]
-17	kaːyaːnai	kaːyaːnai	NOUN	_	Gender=Masc|Person=3	16	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc.3Masc.Poss|nWord=17|RX=[NOUN]|wordform=kaːyaː
+17	kaːyaːnai	kaːyaːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	16	comp:obj	_	GE=[things].[Masc]|Gloss=things.Masc.3Masc.Poss|nWord=17|RX=[NOUN]|wordform=kaːyaː
 18	,	,	PUNCT	_	_	19	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=18|RX=[PUNCT]
 19	yah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	15	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=19|RX=[AUX]
 20	hau	hau	VERB	_	_	19	comp:aux	_	GE=climb/start|Gloss=climb/start|nWord=20|RX=[VERB]
-21	doːkìːnai	doːkìːnai	NOUN	_	Gender=Masc|Person=3	20	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=21|RX=[NOUN]|wordform=doːkìː
+21	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	20	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=21|RX=[NOUN]|wordform=doːkìː
 22	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	19	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=23|RX=[AUX]
 24	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	23	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem.3Masc.Poss|nWord=24|RX=[VERB]|wordform=tàhiyàː
@@ -1153,16 +1153,16 @@
 2	zoː	zoː	VERB	_	_	1	comp:aux	_	GE=come|Gloss=come|nWord=2|RX=[VERB]
 3	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=3|RX=[NOUN]|wordform=gida
 4	mài	mài	ADP	_	Gender=Masc	3	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=4|RX=[PART]
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
+5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=7|RX=[AUX]
 8	baː	baː	VERB	_	_	7	comp:aux	_	GE=give|Gloss=give|nWord=8|RX=[VERB]
 9	shì	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj@R	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
-10	doːkìːnai	doːkìːnai	NOUN	_	Gender=Masc|Person=3	8	comp:obj@T	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=10|RX=[NOUN]|wordform=doːkìː
+10	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obj@T	_	GE=[horse].[Masc]|Gloss=horse.Masc.3Masc.Poss|nWord=10|RX=[NOUN]|wordform=doːkìː
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=12|RX=[AUX]
 13	mai	mai	PRON	_	Gender=Masc|Person=3	12	comp:obl	_	GE=[3Masc].[Dat]|Gloss=3Masc.Dat|nWord=13|RX=[PRON]
-14	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	17	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=14|RX=[NOUN]
+14	gòːdiyaː	gòːdiyaː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:pred	_	GE=[thanks].[Fem]|Gloss=thanks.Fem|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	16	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	7	parataxis@conj	_	GE=[3Plur].[Perf].[Bkg]|Gloss=3Plur.PerfBkg|nWord=16|RX=[AUX]
 17	yi	yi	VERB	_	_	16	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
@@ -1171,7 +1171,7 @@
 20	,	,	PUNCT	_	_	21	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=21|RX=[AUX]
 22	tàhi	tàhi	VERB	_	_	21	comp:aux	_	GE=go|Gloss=go|nWord=22|RX=[VERB]
-23	gidaːnai	gidaːnai	NOUN	_	Gender=Masc|Person=3	22	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc.3Masc.Poss|nWord=23|RX=[NOUN]|wordform=gidaː
+23	gidaːnai	gidaːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	22	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc.3Masc.Poss|nWord=23|RX=[NOUN]|wordform=gidaː
 24	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=24|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_41_1
@@ -1187,7 +1187,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	GE=do|Gloss=do|nWord=4|RX=[VERB]
 5	zamaːnai	zamaːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	4	comp:pred	_	GE=[stay].[Nmlz].[Masc]|Gloss=stay.Nmlz.Masc.3Masc.Poss|nWord=5|RX=[VERB]|wordform=zamaː
 6	cikin	cikin	ADP	_	_	4	mod	_	GE=in(side)|Gloss=in(side)|nWord=6|RX=[ADP]
-7	gidaːnai	gidaːnai	NOUN	_	Gender=Masc|Person=3	6	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.3Masc.Poss|nWord=7|RX=[NOUN]|wordform=gidaː
+7	gidaːnai	gidaːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	6	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc.3Masc.Poss|nWord=7|RX=[NOUN]|wordform=gidaː
 8	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 9	kàmab	kàmat	SCONJ	_	_	4	mod	_	GE=as_if|Gloss=as_if|nWord=9|RX=[SCONJ]
 10	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	9	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=10|RX=[AUX]
@@ -1196,12 +1196,12 @@
 13	ba	ba	PART	_	Polarity=Neg	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=13|PartType=Neg|RX=[PART]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	ham	hat	SCONJ	_	_	4	mod	_	GE=until|Gloss=until|nWord=15|RX=[SCONJ]
-16	màcceːnai	màccenai	NOUN	_	Gender=Fem|Person=3	17	subj	_	GE=[woman].[Fem]|Gloss=woman.Fem.3Masc.Poss|nWord=16|RX=[NOUN]|wordform=màcceː
+16	màcceːnai	màccenai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	17	subj	_	GE=[woman].[Fem]|Gloss=woman.Fem.3Masc.Poss|nWord=16|RX=[NOUN]|wordform=màcceː
 17	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	15	comp:obj	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=17|RX=[AUX]
 18	zoː	zoː	VERB	_	_	17	comp:aux	_	GE=come|Gloss=come|nWord=18|RX=[VERB]
 19	dàw	dàgà	ADP	_	_	18	comp:obl	_	GE=from|Gloss=from|nWord=19|RX=[ADP]
 20	wurim	wurin	ADP	_	_	19	comp:obj	_	Gloss=at|nWord=20
-21	bìkiː	bìkiː	NOUN	_	_	20	comp:obj	_	GE=festivity|Gloss=festivity|nWord=21|RX=[NOUN]
+21	bìkiː	bìkiː	NOUN	_	Definite=Ind	20	comp:obj	_	GE=festivity|Gloss=festivity|nWord=21|RX=[NOUN]
 22	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_41_2
@@ -1214,7 +1214,7 @@
 1	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=23|RX=[AUX]
 2	iskèː	iskèː	VERB	_	_	1	comp:aux	_	GE=find|Gloss=find|nWord=24|RX=[VERB]
 3	shi	shi	PRON	_	Gender=Masc|Person=3	2	comp:obj@T	_	GE=[3Masc]|Gloss=3Masc|nWord=25|RX=[PRON]
-4	gidaː	gidaː	NOUN	_	Gender=Masc	2	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=26|RX=[NOUN]
+4	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj@L	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=26|RX=[NOUN]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=27|RX=[PUNCT]
 6	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	1	parataxis@conj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=28|RX=[AUX]
 7	san	sanìː	VERB	_	_	6	comp:aux	_	GE=know|Gloss=know|nWord=29|RX=[VERB]
@@ -1225,10 +1225,10 @@
 12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	10	comp:cleft	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=34|RX=[AUX]
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	GE=come|Gloss=come|nWord=35|RX=[VERB]
 14	wurim	wurin	ADP	_	Definite=Cons	13	comp:obl	_	GE=[place].[Masc]|Gloss=at|nWord=36|RX=[NOUN]|wordform=wuri
-15	bìkiː	bìkiː	NOUN	_	_	14	comp:obj	_	GE=festivity|Gloss=festivity|nWord=37|RX=[NOUN]
+15	bìkiː	bìkiː	NOUN	_	Definite=Ind	14	comp:obj	_	GE=festivity|Gloss=festivity|nWord=37|RX=[NOUN]
 16	shinàː	nàː*	AUX	_	Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.Pred/Loc
 17	dà	dà	ADP	_	_	16	comp:pred	_	GE=with|Gloss=with|nWord=41|RX=[ADP]
-18	doːkìː	doːkìː	NOUN	_	Gender=Masc	17	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=42|RX=[NOUN]
+18	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=42|RX=[NOUN]
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=43|RX=[PUNCT]
 20	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=44|RX=[AUX]
 21	kìreː	kìraː	VERB	_	_	20	comp:aux	_	GE=call|Gloss=call|nWord=45|RX=[VERB]
@@ -1238,7 +1238,7 @@
 25	yi	yi	VERB	_	_	24	comp:aux	_	GE=do|Gloss=do|nWord=49|RX=[VERB]
 26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	GE=via|Gloss=Iter|nWord=50|PartType=Adv|RX=[ADP]
 27	mutà	mutà	PRON	_	Gender=Fem|Person=3	25	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=51|RX=[PRON]
-28	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	25	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
+28	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	25	comp:pred	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=52|RX=[NOUN]
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=53|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_42_1
@@ -1251,16 +1251,16 @@
 1	dà	dà	SCONJ	_	_	9	mod	_	GE=when|Gloss=when|nWord=1|RX=[SCONJ]
 2	sunàː	nàː*	AUX	_	Person=3	1	comp:obj	_	GE=[3].[Pl]|Gloss=3.Pl.Pred/Loc|nWord=2|RX=[PRON]|wordform=su
 3	nan	nan	ADV	_	Definite=Def|PronType=Dem	2	comp:pred	_	GE=[Dist]|Gloss=Def|nWord=4|RX=[ADV]
-4	gidaː	gidaː	NOUN	_	Gender=Masc	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
+4	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	2	mod	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=5|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
 6	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=7|RX=[ADV]
 7	mài	mài	ADP	_	Gender=Masc	9	subj	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=8|RX=[PART]
-8	doːkìː	doːkìː	NOUN	_	Gender=Masc	7	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=9|RX=[NOUN]
+8	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=9|RX=[NOUN]
 9	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=10|RX=[AUX]
 10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	GE=follow|Gloss=follow.Dir|nWord=11|RX=[VERB]|wordform=biy
 11	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 12	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	9	parataxis@conj	_	GE=[3Masc].[Imp]|Gloss=3Masc.Prog|nWord=13|RX=[AUX]
-13	zaːmiyaː	zaːmiyaː	NOUN	_	Gender=Fem	12	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=14|RX=[NOUN]
+13	zaːmiyaː	zaːmiyaː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:aux	_	GE=[horse_sliding].[Fem]|Gloss=horse_sliding.Fem|nWord=14|RX=[NOUN]
 14	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_42_2
@@ -1298,7 +1298,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=32|RX=[PUNCT]
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	3	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=33|RX=[PRON]
 9	mài	mài	ADP	_	Gender=Masc	8	conj:appos	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=35|RX=[NOUN]
+10	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=35|RX=[NOUN]
 11	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_43_2
@@ -1312,7 +1312,7 @@
 2	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=38|RX=[AUX]
 3	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=39|RX=[VERB]|wordform=sô
 4	mài	mài	ADP	_	Gender=Masc	3	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=40|RX=[PART]
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=41|RX=[NOUN]
+5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=41|RX=[NOUN]
 6	.	.	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=42|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_43_3
@@ -1327,17 +1327,17 @@
 3	gà	gà	ADP	_	_	1	comp:pred	_	GE=at|Gloss=at|nWord=45|RX=[ADP]
 4	ɗwaim	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	GE=[stench].[Masc]|Gloss=stench.Masc|nWord=46|RX=[NOUN]|wordform=ɗwai
 5	mài	mài	ADP	_	Gender=Masc	4	mod	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=47|RX=[PART]
-6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=48|RX=[NOUN]
+6	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=48|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=49|RX=[PUNCT]
 8	sai	sai	ADP	_	_	1	mod	_	Gloss=except
-9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	8	comp:obj	_	GE=[excrement].[Masc]|Gloss=excrement.Masc|nWord=51|RX=[NOUN]
+9	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	GE=[excrement].[Masc]|Gloss=excrement.Masc|nWord=51|RX=[NOUN]
 10	,	,	PUNCT	_	_	12	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=52|RX=[PUNCT]
 11	kuma	kuma	PART	_	_	12	discourse	_	GE=also|Gloss=also|nWord=53|PartType=Disc|RX=[ADV]
 12	sai	sai	ADP	_	_	8	conj:coord	_	Gloss=except
-13	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	12	comp:obj	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=55|RX=[NOUN]
+13	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	GE=[farting].[Fem]|Gloss=farting.Fem|nWord=55|RX=[NOUN]
 14	,	,	PUNCT	_	_	15	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=56|RX=[PUNCT]
 15	kàmaj	kàmat	ADP	_	_	1	mod	_	GE=like|Gloss=like|nWord=57|RX=[ADP]
-16	jàːkiː	jàːkiː	NOUN	_	_	15	comp:obj	_	Gloss=donkey
+16	jàːkiː	jàːkiː	NOUN	_	Definite=Ind	15	comp:obj	_	Gloss=donkey
 17	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=59|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_44
@@ -1356,7 +1356,7 @@
 7	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=7|RX=[VERB]|wordform=yî
 8	bùtum	bùtu	NOUN	_	Definite=Cons|Gender=Masc	7	udep	_	GE=[chatting].[Masc]|Gloss=chatting.Masc|nWord=8|RX=[NOUN]|wordform=bùtu
 9	mài	mài	ADP	_	Gender=Masc	8	udep	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=9|RX=[PART]
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
+10	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	9	compound	_	GE=[horse].[Masc]|Gloss=horse.Masc|nWord=10|RX=[NOUN]
 11	ba	ba	PART	_	Polarity=Neg	6	mod	_	GE=[Neg]|Gloss=Neg|nWord=11|PartType=Neg|RX=[PART]
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.|nWord=12|RX=[PUNCT]
 
@@ -1368,12 +1368,12 @@
 # text_en = Then the husband got a faithful wife.
 # text_ortho = sai mijìː yas sàamu màataatai laahiyàa laahiyàa,
 1	sai	sai	ADV	_	_	3	mod	_	GE=then|Gloss=then|nWord=1|RX=[ADV]
-2	mijìː	mijìː	NOUN	_	_	3	subj	_	GE=husband/male|Gloss=husband/male|nWord=2|RX=[NOUN]
+2	mijìː	mijìː	NOUN	_	Definite=Ind	3	subj	_	GE=husband/male|Gloss=husband/male|nWord=2|RX=[NOUN]
 3	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=3|RX=[AUX]
 4	sàːmu	saːmùː	VERB	_	_	3	comp:aux	_	GE=get|Gloss=get|nWord=4|RX=[VERB]
-5	màːtaːtai	màːtaːtai	NOUN	_	Gender=Fem|Person=3	4	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=5|RX=[NOUN]|wordform=màːtaː
-6	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	4	mod	_	GE=[health].[Fem]|Gloss=health.Fem|nWord=6|RX=[NOUN]
-7	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	6	conj:redup	_	GE=[health].[Fem]|Gloss=health.Fem|nWord=7|RX=[NOUN]
+5	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	4	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem.3Masc.Poss|nWord=5|RX=[NOUN]|wordform=màːtaː
+6	laːhiyàː	laːhiyàː	NOUN	_	Definite=Ind|Gender=Fem	4	mod	_	GE=[health].[Fem]|Gloss=health.Fem|nWord=6|RX=[NOUN]
+7	laːhiyàː	laːhiyàː	NOUN	_	Definite=Ind|Gender=Fem	6	conj:redup	_	GE=[health].[Fem]|Gloss=health.Fem|nWord=7|RX=[NOUN]
 8	.	.	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=8|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_45_2
