@@ -38,7 +38,7 @@
 # text = àkwai wandà mazaː kà yîː , don sù màllàki maːtaː .
 # text_en = There is the one that men are doing to control women.
 # text_ortho = ’àkwài wandà mazaa kà yiì, don sù màllàki maazaa.
-1	àkwai	àkwai	PART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|PartType=Pred|RX=[PREDPART]
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
 3	mazaː	mazaː	NOUN	_	Definite=Ind|Number=Plur	4	subj	_	GE=[husband].[Plur]|Gloss=husband.Plur|nWord=3|RX=[NOUN]
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=4|RX=[AUX]
@@ -91,7 +91,7 @@
 # text = àkwai wandà maːtaː kà yîː , don sù màllàki mazaː .
 # text_en = There is the one that women are doing to control men.
 # text_ortho = ’àkwài wandà maataa kà yiì, don sù màllàki maazaa.
-1	àkwai	àkwai	PART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=1|PartType=Pred|RX=[PREDPART]
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	GE=there_is|Gloss=there_is|nWord=1|RX=[PREDPART]
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=2|RX=[PRON]
 3	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	4	subj	_	GE=[woman].[Plur]|Gloss=woman.Plur|nWord=3|RX=[NOUN]
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=4|RX=[AUX]
@@ -169,10 +169,10 @@
 18	cikim	cikin	SCONJ	_	_	16	mod	_	GE=while|Gloss=while|nWord=18|RX=[SCONJ]
 19	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	18	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=19|RX=[AUX]
 20	sanìː	sanìː	VERB	_	_	19	comp:aux	_	GE=know|Gloss=know|nWord=20|RX=[VERB]
-21	ba	ba	PART	_	Polarity=Neg	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=21|PartType=Neg|RX=[PART]
+21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	GE=[Neg]|Gloss=Neg|nWord=21|RX=[PART]
 22	,	,	PUNCT	_	_	25	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
 23	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=23|RX=[DET]
-24	kâu	kàu	PART	_	_	23	discourse@top	_	GE=anyway|Gloss=whereas|nWord=24|PartType=Top|RX=[TOPPART]
+24	kâu	kàu	PART	_	PartType=Top	23	discourse@top	_	GE=anyway|Gloss=whereas|nWord=24|RX=[TOPPART]
 25	kà	kà	AUX	_	Aspect=ProgBkg	12	parataxis	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=25|RX=[AUX]
 26	ci	ci	VERB	_	_	25	comp:aux	_	GE=eat|Gloss=eat|nWord=26|RX=[VERB]
 27	dà	dà	ADP	_	_	26	comp:obl	_	GE=with|Gloss=with|nWord=27|RX=[ADP]
@@ -255,7 +255,7 @@
 # text_en = Some, you rub on the penis.
 # text_ortho = wani kaù ’à šaahwàa gà bùuᵲaa.
 1	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	dislocated@comp	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=1|RX=[DET]
-2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
 3	à	ø	AUX	_	Aspect=Aor|Person=4	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=3|RX=[AUX]
 4	shaːhwàː	shaːhwàː	VERB	_	_	3	comp:aux	_	GE=rub|Gloss=rub|nWord=4|RX=[VERB]
 5	gà	gà	ADP	_	_	4	comp:obl	_	GE=at|Gloss=at|nWord=5|RX=[ADP]
@@ -354,7 +354,7 @@
 19	shìːriyàː	shìːriyàː	NOUN	_	Definite=Ind|Gender=Fem	18	comp:obj	_	GE=[fig_tree].[Fem]|Gloss=fig_tree.Fem|nWord=19|RX=[NOUN]
 20	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	koː	koː	CCONJ	_	_	23	cc	_	GE=or|Gloss=or|nWord=21|RX=[CCONJ]
-22	kuma	kuma	PART	_	_	21	discourse@top	_	GE=also|Gloss=also|nWord=22|PartType=Top|RX=[TOPPART]
+22	kuma	kuma	PART	_	PartType=Top	21	discourse@top	_	GE=also|Gloss=also|nWord=22|RX=[TOPPART]
 23	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	16	conj:coord	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=23|RX=[AUX]
 24	hwaːɗoː	hwaːɗi	VERB	_	_	23	comp:aux	_	GE=fall|Gloss=fall.Dir|nWord=24|RX=[VERB]|wordform=hwaːɗ
 25	ƙasà	ƙasà	ADV	_	_	24	comp:obl	_	GE=on_ground|Gloss=on_ground|nWord=25|RX=[ADV]
@@ -441,7 +441,7 @@
 11	jìbdàː	jìbdàː	NOUN	_	Definite=Ind|Gender=Fem	10	mod	_	GE=[musk].[Fem]|Gloss=musk.Fem|nWord=11|RX=[NOUN]
 12	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	conj:appos	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=13|RX=[PRON]
-14	bâː	baːbù	PART	_	Polarity=Neg	13	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=14|PartType=Pred|RX=[PREDPART]
+14	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	13	mod@relcl	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=14|RX=[PREDPART]
 15	gamìː	gamìː	NOUN	_	Definite=Ind|Gender=Masc	14	subj	_	GE=[tampering].[Masc]|Gloss=tampering.Masc|nWord=15|RX=[NOUN]
 16	.	.	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=16|RX=[PUNCT]
 
@@ -468,7 +468,7 @@
 14	mùntàleːtàː	mùntàleːtàː	X	_	_	13	mod	_	GE=[X]|Gloss=X|nWord=30|RX=[X]
 15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 16	shiː	shiː	PRON	_	Gender=Masc|Person=3	18	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=32|RX=[PRON]
-17	maː	maː	PART	_	_	16	discourse@top	_	GE=self|Gloss=even|nWord=33|PartType=Top|RX=[TOPPART]
+17	maː	maː	PART	_	PartType=Top	16	discourse@top	_	GE=self|Gloss=even|nWord=33|RX=[TOPPART]
 18	mài	mài	ADP	_	Gender=Masc	14	parataxis	_	GE=[owner_of].[Masc/Fem]|Gloss=owner_of.Masc/Fem|nWord=34|RX=[PART]
 19	maruhiː	maruhiː	NOUN	_	Definite=Ind|Gender=Masc	18	comp:obj	_	GE=[cover].[Masc]|Gloss=cover.Masc|nWord=35|RX=[NOUN]
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
@@ -494,7 +494,7 @@
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=13|RX=[PRON]
 13	cikin	cikin	ADP	_	_	11	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=14|RX=[ADP]
 14	kwalbaː	kwalbaː	NOUN	_	Definite=Ind|Gender=Fem	13	comp:obj	_	GE=[bottle].[Fem]|Gloss=bottle.Fem|nWord=15|RX=[NOUN]
-15	ba	ba	PART	_	Polarity=Neg	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|PartType=Neg|RX=[PART]
+15	ba	ba	PART	_	PartType=Neg|Polarity=Neg	11	mod	_	GE=[Neg]|Gloss=Neg|nWord=16|RX=[PART]
 16	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=17|RX=[PUNCT]
 17	sai	sai	ADV	_	_	18	mod	_	GE=then|Gloss=then|nWord=18|RX=[ADV]
 18	à	ø	AUX	_	Aspect=Aor|Person=4	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=19|RX=[AUX]
@@ -508,7 +508,7 @@
 26	ruhèː	ruhèː	VERB	_	_	25	comp:aux	_	GE=close|Gloss=close|nWord=27|RX=[VERB]
 27	,	,	PUNCT	_	_	28	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
 28	don	don	SCONJ	_	_	26	mod	_	GE=because|Gloss=because|nWord=29|RX=[SCONJ]
-29	kâ'	kâk	PART	_	Polarity=Neg	31	mod	_	GE=[Neg]|Gloss=Neg|nWord=30|PartType=Neg|RX=[PART]
+29	kâ'	kâk	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	GE=[Neg]|Gloss=Neg|nWord=30|RX=[PART]
 30	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	31	subj	_	GE=[air].[Fem]|Gloss=air.Fem|nWord=31|RX=[NOUN]
 31	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	28	comp:obj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=32|RX=[AUX]
 32	shìgai	shìgaai	VERB	_	Gender=Masc|Person=3	31	comp:aux	_	GE=enter|Gloss=enter.3Masc|nWord=33|RX=[ENTER]|wordform=shìg
@@ -685,7 +685,7 @@
 14	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	13	comp:obj	_	GE=[3Masc].[Perf].[Neg]|Gloss=3Masc.PerfNeg|nWord=14|RX=[AUX]
 15	sàːmeː	saːmùː	VERB	_	_	14	comp:aux	_	GE=get|Gloss=get|nWord=15|RX=[VERB]
 16	tà	ta	PRON	_	Gender=Fem|Person=3	15	comp:obj	_	GE=[3Fem]|Gloss=3Fem|nWord=16|RX=[PRON]
-17	ba	ba	PART	_	Polarity=Neg	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|PartType=Neg|RX=[PART]
+17	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	GE=[Neg]|Gloss=Neg|nWord=17|RX=[PART]
 18	yash	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	15	mod	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=18|RX=[AUX]
 19	shaː	shaː	VERB	_	_	18	comp:aux	_	GE=drink|Gloss=drink|nWord=19|RX=[VERB]
 20	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
@@ -971,7 +971,7 @@
 23	sai	sai	ADV	_	_	24	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 24	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=7|RX=[AUX]
 25	yi	yi	VERB	_	_	24	comp:aux	_	GE=do|Gloss=do|nWord=8|RX=[VERB]
-26	ta	ta	PART	_	Aspect=Iter	25	compound:prt	_	GE=via|Gloss=Iter|nWord=9|PartType=Adv|RX=[ADP]
+26	ta	ta	PART	_	Aspect=Iter|PartType=Adv	25	compound:prt	_	GE=via|Gloss=Iter|nWord=9|RX=[ADP]
 27	sàrkahwàm	sàrkahwàː	NOUN	_	Definite=Cons|Gender=Fem	25	comp:pred	_	GE=[infatuation].[Fem]|Gloss=infatuation.Fem|nWord=10|RX=[NOUN]|wordform=sàrkahwà
 28	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	27	mod	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=11|RX=[NOUN]
 29	,	,	PUNCT	_	_	30	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=12|RX=[PUNCT]
@@ -992,7 +992,7 @@
 1	im	in	SCONJ	_	_	6	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
 2	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	1	comp:obj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=2|RX=[AUX]
 3	ganai	ganiːai	VERB	_	Gender=Masc|Person=3	2	comp:aux	_	GE=see|Gloss=see.-3Masc|nWord=3|RX=[VERB]|wordform=gan
-4	ba	ba	PART	_	Polarity=Neg	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=4|PartType=Neg|RX=[PART]
+4	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	GE=[Neg]|Gloss=Neg|nWord=4|RX=[PART]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	bâːta	bâi	AUX	_	Person=3|Polarity=Neg	0	root	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Sing.Pred/loc.Neg|nWord=6|RX=[AUX]|wordform=bâː
 7	dà	dà	ADP	_	_	6	comp:pred	_	GE=with|Gloss=with|nWord=7|RX=[ADP]
@@ -1656,7 +1656,7 @@
 # text_en = As for the bat, if it catches a branch, it holds it, it cannot let it go whatever pain it endures, unless you kill it.
 # text_ortho = ši kaù jeemaagèe, ’in yak kaamà ’iccèe, yaᵲ ᵲiƙèe, baà ši ’iyà sakìinai, koo mii wùyad dà yaš šaa, sai ’an kašèe ši.
 1	shi	shi	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
 3	jeːmaːgèː	jeːmaːgèː	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	GE=[bat].[Masc]|Gloss=bat.Masc|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	13	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1691,7 +1691,7 @@
 # text_en = As for the hedgehog, if it curls up into a ball, you cannot open it unless you kill it.
 # text_ortho = ’ita kaù biššiyaa, ’in tad dunƙùlee, baà ’a ’iyà buɗèe ta, sai ’an yankèe ta.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	9	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
 3	bishshiyaː	bishshiyaː	NOUN	_	Definite=Ind|Gender=Fem	1	conj:appos	_	GE=[hedgehog].[Fem]|Gloss=hedgehog.Fem|nWord=3|RX=[NOUN]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	in	in	SCONJ	_	_	9	mod	_	GE=if|Gloss=if|nWord=5|RX=[SCONJ]
@@ -1744,7 +1744,7 @@
 26	dà	dà	ADP	_	_	25	comp:obl	_	GE=with|Gloss=with|nWord=26|RX=[ADP]
 27	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	26	comp:obj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=27|RX=[NOUN]
 28	,	,	PUNCT	_	_	23	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=28|RX=[PUNCT]
-29	bâː	baːbù	PART	_	Polarity=Neg	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=29|PartType=Pred|RX=[PREDPART]
+29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=29|RX=[PREDPART]
 30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	subj	_	GE=[who].[Masc]|Gloss=who.Masc|nWord=30|RX=[PRON]
 31	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	30	mod@relcl	_	GE=[3Masc].[Perf].[Bkg]|Gloss=3Masc.PerfBkg|nWord=31|RX=[AUX]
 32	iyà	iyàː	VERB	_	_	31	comp:aux	_	GE=be_able|Gloss=be_able|nWord=32|RX=[VERB]
@@ -1755,7 +1755,7 @@
 37	allàː	allàː	PROPN	_	_	36	comp:obj	_	GE=[God]|Gloss=God|nWord=37|RX=[PROPN]
 38	,	,	PUNCT	_	_	39	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=38|RX=[PUNCT]
 39	sai	sai	ADP	_	_	32	mod	_	Gloss=except
-40	kâu	kàu	PART	_	_	39	discourse@top	_	GE=anyway|Gloss=whereas|nWord=40|PartType=Top|RX=[TOPPART]
+40	kâu	kàu	PART	_	PartType=Top	39	discourse@top	_	GE=anyway|Gloss=whereas|nWord=40|RX=[TOPPART]
 41	mutuwàː	mutuwàː	NOUN	_	Definite=Ind|Gender=Fem	39	comp:obj	_	GE=[death].[Fem]|Gloss=death.Fem|nWord=41|RX=[NOUN]
 42	.	.	PUNCT	_	_	29	punct	_	Gloss=.|nWord=42|RX=[PUNCT]
 
@@ -1811,7 +1811,7 @@
 6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	GE=[time].[Masc]|Gloss=time.Masc|nWord=6|RX=[NOUN]|wordform=loːkàci
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	GE=that|Gloss=that|nWord=7|RX=[SCONJ]
 8	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	9	dislocated@subj	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=8|RX=[NOUN]
-9	zâː	zâː	PART	_	_	7	comp:obj	_	GE=[Dir]|Gloss=Dir|nWord=9|PartType=Pred|RX=[PART]
+9	zâː	zâː	PART	_	PartType=Pred	7	comp:obj	_	GE=[Dir]|Gloss=Dir|nWord=9|RX=[PART]
 10	shi	shi	PRON	_	Gender=Masc|Person=3	9	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=10|RX=[PRON]
 11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=11|RX=[DET]
 12	sha’àniː	sha’àniː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=12|RX=[NOUN]
@@ -1853,7 +1853,7 @@
 14	sai	sai	ADV	_	_	15	mod	_	GE=then|Gloss=then|nWord=14|RX=[ADV]
 15	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=15|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=16|RX=[VERB]
-17	ta	ta	PART	_	Aspect=Iter	16	compound:prt	_	GE=via|Gloss=Iter|nWord=17|PartType=Adv|RX=[ADP]
+17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	GE=via|Gloss=Iter|nWord=17|RX=[ADP]
 18	sôːnai	sôːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	16	comp:pred	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc.3Masc.Poss|nWord=18|RX=[VERB]|wordform=sôː
 19	,	,	PUNCT	_	_	20	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=19|RX=[PUNCT]
 20	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	15	parataxis	_	GE=[3Fem].[Imp].[Neg]|Gloss=3Fem.ProgNeg|nWord=20|RX=[AUX]
@@ -1862,7 +1862,7 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=24|RX=[PRON]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	bâː	baːbù	PART	_	Polarity=Neg	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=26|PartType=Pred|RX=[PREDPART]
+26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	parataxis	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=26|RX=[PREDPART]
 27	ruwantà	ruwaːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	26	subj	_	GE=[water].[Plur]|Gloss=water.Plur.3Fem.Poss|nWord=27|RX=[NOUN]|wordform=ruwa
 28	dà	dà	ADP	_	_	26	comp:pred	_	GE=with|Gloss=with|nWord=28|RX=[ADP]
 29	koːwaː	koːwaː	PRON	_	_	28	comp:obj	_	GE=everyone|Gloss=everyone|nWord=29|RX=[PRON]
@@ -2089,7 +2089,7 @@
 10	,	,	PUNCT	_	_	11	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 11	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	7	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=11|RX=[PRON]
 12	yi	yi	VERB	_	_	11	comp:aux	_	GE=do|Gloss=do|nWord=12|RX=[VERB]
-13	ta	ta	PART	_	Aspect=Iter	12	compound:prt	_	GE=via|Gloss=Iter|nWord=13|PartType=Adv|RX=[ADP]
+13	ta	ta	PART	_	Aspect=Iter|PartType=Adv	12	compound:prt	_	GE=via|Gloss=Iter|nWord=13|RX=[ADP]
 14	toːnà	toːnà	VERB	_	_	12	comp:pred	_	GE=scour|Gloss=scour|nWord=14|RX=[VERB]
 15	kaːshîn	kaːshiː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	GE=[faeces].[Masc].[Def]|Gloss=faeces.Masc.Def|nWord=15|RX=[NOUN]
 16	dà	dà	SCONJ	_	_	14	comp:obl	_	GE=that|Gloss=that|nWord=16|RX=[SCONJ]
@@ -2253,7 +2253,7 @@
 # text_en = The groundnuts, nine too, you break the shells and keep the seeds.
 # text_ortho = ’ita maa ɗaa tarà, ’à ƙanƙàrè kwàlhwaa, ’à ’ajè ɗiyaǹ -
 1	ita	ita	PRON	_	Gender=Fem|Person=3	6	dislocated@top	_	GE=[3Fem]|Gloss=3Fem|nWord=1|RX=[PRON]
-2	maː	maː	PART	_	_	1	discourse@top	_	GE=self|Gloss=even|nWord=2|PartType=Top|RX=[TOPPART]
+2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	GE=self|Gloss=even|nWord=2|RX=[TOPPART]
 3	ɗaː	ɗaː	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	GE=[son].[Masc]|Gloss=son.Masc|nWord=3|RX=[NOUN]
 4	tar̃à	tar̃à	NUM	_	_	3	det	_	GE=nine|Gloss=nine|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2279,7 +2279,7 @@
 4	ayaː	ayaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	GE=[tiger_nut].[Fem]|Gloss=tiger_nut.Fem|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	ita	ita	PRON	_	Gender=Fem|Person=3	8	dislocated@comp	_	GE=[3Fem]|Gloss=3Fem|nWord=6|RX=[PRON]
-7	maː	maː	PART	_	_	6	discourse@top	_	GE=self|Gloss=even|nWord=7|PartType=Top|RX=[TOPPART]
+7	maː	maː	PART	_	PartType=Top	6	discourse@top	_	GE=self|Gloss=even|nWord=7|RX=[TOPPART]
 8	à	ø	AUX	_	Aspect=Aor|Person=4	2	parataxis	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=8|RX=[AUX]
 9	ajèː	ajèː	VERB	_	_	8	comp:aux	_	GE=put_aside|Gloss=put_aside|nWord=9|RX=[VERB]
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.|nWord=10|RX=[PUNCT]
@@ -2541,7 +2541,7 @@
 5	yi	yi	VERB	_	_	4	comp:aux	_	GE=do|Gloss=do|nWord=5|RX=[VERB]
 6	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	GE=[effort].[Fem]|Gloss=effort.Fem|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	zâː	zâː	PART	_	_	5	parataxis@mod	_	GE=[Fut]|Gloss=Dir|nWord=8|PartType=Pred|RX=[AUX]
+8	zâː	zâː	PART	_	PartType=Pred	5	parataxis@mod	_	GE=[Fut]|Gloss=Dir|nWord=8|RX=[AUX]
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	subj	_	GE=[3Masc]|Gloss=3Masc|nWord=9|RX=[PRON]
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	GE=[some].[Masc]|Gloss=some.Masc|nWord=10|RX=[DET]
 11	sha’àniː	sha’àniː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:pred	_	GE=[business].[Masc]|Gloss=business.Masc|nWord=11|RX=[NOUN]
@@ -2592,7 +2592,7 @@
 19	sai	sai	ADV	_	_	20	mod	_	GE=then|Gloss=then|nWord=20|RX=[ADV]
 20	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	14	conj:coord	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=21|RX=[AUX]
 21	yi	yi	VERB	_	_	20	comp:aux	_	GE=do|Gloss=do|nWord=22|RX=[VERB]
-22	ta	ta	PART	_	Aspect=Iter	21	compound:prt	_	GE=via|Gloss=Iter|nWord=23|PartType=Adv|RX=[ADP]
+22	ta	ta	PART	_	Aspect=Iter|PartType=Adv	21	compound:prt	_	GE=via|Gloss=Iter|nWord=23|RX=[ADP]
 23	sàrkahwàm	sàrkahwàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	21	comp:pred	_	GE=[entwine].[Nmlz].[Fem]|Gloss=entwine.Nmlz.Fem|nWord=24|RX=[VERB]|wordform=sàrkahwà
 24	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	23	udep	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=25|RX=[NOUN]
 25	,	,	PUNCT	_	_	26	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=26|RX=[PUNCT]
@@ -2611,7 +2611,7 @@
 # text_en = But, apart from this, that medicine, when the man uses it on the woman, him, him the man, he does not go to bed during the day until he has finished that medicine.
 # text_ortho = ’àmmaa hwa ban dà hakà nan, šii waǹnam maagànii, lookàcin dà namijì kà maà màccè šii, šii namijìn, baà ši kwaanan ᵲaana sai yaa gamà waǹnam maagànii.
 1	àmmaː	àmmaː	CCONJ	_	_	21	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
-2	hwa	hwa	PART	_	_	1	discourse@top	_	GE=however|Gloss=indeed|nWord=2|PartType=Top|RX=[TOPPART]
+2	hwa	hwa	PART	_	PartType=Top	1	discourse@top	_	GE=however|Gloss=indeed|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	21	mod	_	GE=without|Gloss=without|nWord=3|RX=[ADP]
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
 5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -2664,7 +2664,7 @@
 15	don	don	SCONJ	_	_	11	mod	_	GE=because|Gloss=because|nWord=15|RX=[SCONJ]
 16	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	15	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=16|RX=[AUX]
 17	yi	yi	VERB	_	_	16	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-18	ta	ta	PART	_	Aspect=Iter	17	compound:prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
+18	ta	ta	PART	_	Aspect=Iter|PartType=Adv	17	compound:prt	_	GE=via|Gloss=Iter|nWord=18|RX=[ADP]
 19	sôːnai	sôːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	17	comp:pred	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc.3Masc.Poss|nWord=19|RX=[VERB]|wordform=sôː
 20	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=20|RX=[PUNCT]
 21	sai	sai	ADV	_	_	23	mod	_	GE=then|Gloss=then|nWord=21|RX=[ADV]
@@ -2676,7 +2676,7 @@
 27	shiː	shiː	PRON	_	Gender=Masc|Person=3	28	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=27|RX=[PRON]
 28	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	23	parataxis	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=28|RX=[AUX]
 29	yi	yi	VERB	_	_	28	comp:aux	_	GE=do|Gloss=do|nWord=29|RX=[VERB]
-30	ta	ta	PART	_	Aspect=Iter	29	compound:prt	_	GE=via|Gloss=Iter|nWord=30|PartType=Adv|RX=[ADP]
+30	ta	ta	PART	_	Aspect=Iter|PartType=Adv	29	compound:prt	_	GE=via|Gloss=Iter|nWord=30|RX=[ADP]
 31	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	29	comp:pred	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=31|RX=[VERB]|wordform=sô
 32	màcce	màcce	NOUN	_	Definite=Ind|Gender=Fem	31	udep	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=32|RX=[NOUN]
 33	.	.	PUNCT	_	_	23	punct	_	Gloss=.|nWord=33|RX=[PUNCT]
@@ -2707,7 +2707,7 @@
 # text = kuma bandà hakànan , du' abuːbuwàn dà ankà sânyaː cikim maːgànîn , irìn wa’àndà akà cîː , mùtun bâːshi cînsù , loːkàcin dà shikà wânnam maːgànîn .
 # text_en = But apart from that, all the things that have been put inside the medicine, those that are used, the man does not eat them when he uses the medicine.
 # text_ortho = kuma ban dà hakà nan, du’ ’abuubuwàn dà ’ankà saǹyaa cikim maagàniǹ, ’iᵲìn wa’àndà ’a kà ciì, mùtun baà ši ciǹsù, lookàcin dà ši kà waǹnam maagàniǹ -
-1	kuma	kuma	PART	_	_	19	discourse	_	GE=also|Gloss=also|nWord=1|PartType=Disc|RX=[TOPPART]
+1	kuma	kuma	PART	_	PartType=Disc	19	discourse	_	GE=also|Gloss=also|nWord=1|RX=[TOPPART]
 2	bandà	bandà	ADP	_	_	19	mod	_	GE=without|Gloss=without|nWord=2|RX=[ADP]
 3	hakànan	hakànan	ADV	_	_	2	comp:obj	_	GE=thus|Gloss=thus|nWord=3|RX=[ADV]|wordform=hakà
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -2751,7 +2751,7 @@
 7	gamà	gamàː	VERB	_	_	6	comp:aux	_	GE=finish|Gloss=finish|nWord=7|RX=[VERB]
 8	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:obj	_	GE=[do].[Nmlz].[Masc]|Gloss=do.Nmlz.Masc|nWord=8|RX=[VERB]|wordform=yî
 9	maːgànîm	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	8	udep	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=9|RX=[NOUN]
-10	ba	ba	PART	_	Polarity=Neg	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=10|PartType=Neg|RX=[PART]
+10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	GE=[Neg]|Gloss=Neg|nWord=10|RX=[PART]
 11	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=11|RX=[PUNCT]
 12	sai	sai	ADV	_	_	14	mod	_	GE=then|Gloss=then|nWord=12|RX=[ADV]
 13	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	14	subj	_	GE=[medicine/charm].[Masc].[Def]|Gloss=medicine/charm.Masc.Def|nWord=13|RX=[NOUN]
@@ -2822,7 +2822,7 @@
 # text = àkwai zuːgàl na cîː , wandà akà ɗiːbàː gà runhuː .
 # text_en = [5] There is the "zugal" that you eat, which you pick the "runhu" tree.
 # text_ortho = [5] ’àkwai zuugàl na ciì, wandà ’a kà ɗiibàa gà ᵲunhuu,
-1	àkwai	àkwai	PART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=2|PartType=Pred|RX=[PREDPART]
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	GE=there_is|Gloss=there_is|nWord=2|RX=[PREDPART]
 2	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	1	subj	_	GE=love_charm|Gloss=love_charm|nWord=3|RX=[PROPN]
 3	na	na/ta	ADP	_	_	2	mod	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=4|RX=[PART]
 4	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:obj	_	GE=[eat/have_sex].[Nmlz].[Masc]|Gloss=eat/have_sex.Nmlz.Masc|nWord=5|RX=[VERB]
@@ -3227,7 +3227,7 @@
 # text_en = As soon as she has taken the medicine and it has gone into her body, her reason escapes her, she has no sense left except for what you do to her, or indeed except for God.
 # text_ortho = ’in dai taa rìgyaa taa ci maagàniǹ, hay yaa zoo cìkin cikìntà, ’ita kuma dùbaaràa taa kubcèe mutà, baà ta dà wata dùbaaràa, sai waddà kam mutà, sai kaù ta ’allàa.
 1	in	in	SCONJ	_	_	18	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	PART	_	_	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|PartType=Top|RX=[TOPPART]
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|RX=[TOPPART]
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	3	comp:aux	_	GE=precece/have_already|Gloss=precece/have_already|nWord=4|RX=[VERB]
 5	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	3	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -3241,7 +3241,7 @@
 13	cikìntà	cikìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	12	comp:obj	_	GE=[pregnancy].[Masc]|Gloss=pregnancy.Masc.3Fem.Poss|nWord=13|RX=[NOUN]|wordform=cikì
 14	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=14|RX=[PUNCT]
 15	ita	ita	PRON	_	Gender=Fem|Person=3	18	dislocated@subj	_	GE=[3Fem]|Gloss=3Fem|nWord=15|RX=[PRON]
-16	kuma	kuma	PART	_	_	15	discourse@top	_	GE=also|Gloss=also|nWord=16|PartType=Top|RX=[TOPPART]
+16	kuma	kuma	PART	_	PartType=Top	15	discourse@top	_	GE=also|Gloss=also|nWord=16|RX=[TOPPART]
 17	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	15	conj:appos	_	GE=[cleverness/trick].[Fem]|Gloss=cleverness/trick.Fem|nWord=17|RX=[NOUN]
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=18|RX=[AUX]
 19	kubcèː	kubcèː	VERB	_	_	18	comp:aux	_	GE=drop|Gloss=drop|nWord=19|RX=[VERB]
@@ -3258,7 +3258,7 @@
 30	mutà	mutà	PRON	_	Gender=Fem|Person=3	29	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=30|RX=[PRON]
 31	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=31|RX=[PUNCT]
 32	sai	sai	ADP	_	_	22	mod	_	GE=then|Gloss=then|nWord=32|RX=[ADV]
-33	kâu	kàu	PART	_	_	32	discourse@top	_	GE=anyway|Gloss=whereas|nWord=33|PartType=Top|RX=[TOPPART]
+33	kâu	kàu	PART	_	PartType=Top	32	discourse@top	_	GE=anyway|Gloss=whereas|nWord=33|RX=[TOPPART]
 34	ta	na/ta	ADP	_	_	32	comp:obj	_	GE=[PAn].[Fem]|Gloss=of|nWord=34|RX=[PART]
 35	allàː	allàː	PROPN	_	_	34	comp:obj	_	GE=[God]|Gloss=God|nWord=35|RX=[PROPN]
 36	.	.	PUNCT	_	_	18	punct	_	Gloss=.|nWord=36|RX=[PUNCT]
@@ -3440,7 +3440,7 @@
 23	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	22	comp:obj	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=23|RX=[AUX]
 24	buːɗè	buːɗèː	VERB	_	_	23	comp:aux	_	GE=open|Gloss=open|nWord=24|RX=[VERB]
 25	idòː	idòː	NOUN	_	Definite=Ind|Gender=Masc	24	comp:obj	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=25|RX=[NOUN]
-26	ba	ba	PART	_	Polarity=Neg	24	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|PartType=Neg|RX=[PART]
+26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	24	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|RX=[PART]
 27	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_129-129
@@ -3541,7 +3541,7 @@
 4	àkàihwun	àkàihwuː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	GE=[nail].[Plur]|Gloss=nail.Plur|nWord=4|RX=[NOUN]|wordform=àkàihwu
 5	hannuwàː	hannuː	NOUN	_	Definite=Ind|Number=Plur	4	mod	_	GE=[hand/arm].[Plur]|Gloss=hand/arm.Plur|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
-7	kuma	kuma	PART	_	_	9	discourse	_	GE=also|Gloss=also|nWord=7|PartType=Disc|RX=[ADV]
+7	kuma	kuma	PART	_	PartType=Disc	9	discourse	_	GE=also|Gloss=also|nWord=7|RX=[ADV]
 8	sai	sai	ADV	_	_	9	mod	_	GE=then|Gloss=then|nWord=8|RX=[ADV]
 9	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=9|RX=[AUX]
 10	ɗeːboː	ɗiːbàː	VERB	_	_	9	comp:aux	_	GE=take|Gloss=take.Dir|nWord=10|RX=[VERB]|wordform=ɗeːb
@@ -3579,7 +3579,7 @@
 # text_ortho = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa.
 1	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	GE=but|Gloss=but|nWord=1|RX=[CCONJ]
 2	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=2|RX=[PRON]
-3	maː	maː	PART	_	_	2	discourse@top	_	GE=self|Gloss=even|nWord=3|PartType=Top|RX=[TOPPART]
+3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	GE=self|Gloss=even|nWord=3|RX=[TOPPART]
 4	na	na/ta	ADP	_	_	7	dislocated@top	_	GE=[PAn].[Masc/Plur]|Gloss=of|nWord=4|RX=[PART]
 5	ƙahwaːhuwàː	ƙahwàː	NOUN	_	Definite=Ind|Number=Plur	4	comp:obj	_	GE=[foot/leg].[Plur]|Gloss=foot/leg.Plur|nWord=5|RX=[NOUN]
 6	,	,	PUNCT	_	_	7	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -3688,7 +3688,7 @@
 2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Person=4	1	comp:obj	_	GE=[4].[Perf].[Bkg]|Gloss=4.PerfBkg|nWord=2|RX=[AUX]
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	GE=[join].[Ach]|Gloss=join.Ach|nWord=3|RX=[VERB]
 4	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
-5	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=5|PartType=Disc|RX=[ADV]
+5	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	GE=also|Gloss=also|nWord=5|RX=[ADV]
 6	sai	sai	ADV	_	_	7	mod	_	GE=then|Gloss=then|nWord=6|RX=[ADV]
 7	à	ø	AUX	_	Aspect=Aor|Person=4	0	root	_	GE=[4].[Aor]|Gloss=4.Aor|nWord=7|RX=[AUX]
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	GE=put|Gloss=put|nWord=8|RX=[VERB]
@@ -3893,7 +3893,7 @@
 22	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	21	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=22|RX=[NOUN]
 23	dà	dà	ADP	_	_	21	comp:obl	_	GE=with|Gloss=with|nWord=23|RX=[ADP]
 24	koːwaː	koːwaː	PRON	_	_	23	comp:obj	_	GE=everyone|Gloss=everyone|nWord=24|RX=[PRON]
-25	ba	ba	PART	_	Polarity=Neg	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=25|PartType=Neg|RX=[PART]
+25	ba	ba	PART	_	PartType=Neg|Polarity=Neg	21	mod	_	GE=[Neg]|Gloss=Neg|nWord=25|RX=[PART]
 26	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT|nWord=26|RX=[PUNCT]
 27	in	in	SCONJ	_	_	37	mod	_	GE=if|Gloss=if|nWord=27|RX=[SCONJ]
 28	zâːshi	zâː	AUX	_	Gender=Masc|Person=3|Tense=Fut	27	comp:obj	_	GE=[Fut]|Gloss=Fut.3Masc|nWord=28|RX=[AUX]|wordform=zâː
@@ -3978,7 +3978,7 @@
 28	cikin	cikin	ADP	_	_	25	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=28|RX=[ADP]
 29	kaskoː	kaskoː	NOUN	_	Definite=Ind|Gender=Masc	28	comp:obj	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=29|RX=[NOUN]
 30	,	,	PUNCT	_	_	32	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=30|RX=[PUNCT]
-31	kuma	kuma	PART	_	_	32	discourse	_	GE=also|Gloss=also|nWord=31|PartType=Disc|RX=[ADV]
+31	kuma	kuma	PART	_	PartType=Disc	32	discourse	_	GE=also|Gloss=also|nWord=31|RX=[ADV]
 32	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	24	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=32|RX=[AUX]
 33	koːmàː	koːmàː	VERB	_	_	32	comp:aux	_	GE=return|Gloss=return|nWord=33|RX=[VERB]
 34	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	32	parataxis@conj	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=34|RX=[AUX]
@@ -4024,7 +4024,7 @@
 23	cikin	cikin	ADP	_	_	21	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=23|RX=[ADP]
 24	kaskoː	kaskoː	NOUN	_	Definite=Ind|Gender=Masc	23	comp:obj	_	GE=[potsherd].[Masc]|Gloss=potsherd.Masc|nWord=24|RX=[NOUN]
 25	,	,	PUNCT	_	_	27	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=25|RX=[PUNCT]
-26	kâs	kâk	PART	_	Polarity=Neg	27	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|PartType=Neg|RX=[PART]
+26	kâs	kâk	PART	_	PartType=Neg|Polarity=Neg	27	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|RX=[PART]
 27	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	20	parataxis@conj	_	GE=[3Plur].[Aor]|Gloss=3Plur.Aor|nWord=27|RX=[AUX]
 28	zùba	zùba	VERB	_	_	27	comp:aux	_	GE=pour|Gloss=pour|nWord=28|RX=[VERB]
 29	gà	gà	ADP	_	_	28	comp:obl	_	GE=at|Gloss=at|nWord=29|RX=[ADP]
@@ -4057,7 +4057,7 @@
 # text_en = The water for washing his face, let him collect it inside the pot.
 # text_ortho = suu kuma ᵲuwan wankìn ’idòo šì wankàa su nan cikin kaskoo.
 1	suː	suː	PRON	_	Number=Plur|Person=3	6	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	GE=[water].[Plur]|Gloss=water.Plur|nWord=3|RX=[NOUN]|wordform=ruwa
 4	wankìn	wankìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	mod	_	GE=[wash].[Nmlz].[Masc]|Gloss=wash.Nmlz.Masc|nWord=4|RX=[VERB]|wordform=wankì
 5	idòː	idòː	NOUN	_	Definite=Ind|Gender=Masc	4	udep	_	GE=[eye].[Masc]|Gloss=eye.Masc|nWord=5|RX=[NOUN]
@@ -4380,7 +4380,7 @@
 19	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	18	comp:pred	_	GE=[talk].[Fem]|Gloss=talk.Fem|nWord=19|RX=[NOUN]
 20	dà	dà	ADP	_	_	18	comp:obl	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
 21	koːwaː	koːwaː	PRON	_	_	20	comp:obj	_	GE=everyone|Gloss=everyone|nWord=21|RX=[PRON]
-22	ba	ba	PART	_	Polarity=Neg	18	mod	_	GE=[Neg]|Gloss=Neg|nWord=22|PartType=Neg|RX=[PART]
+22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	GE=[Neg]|Gloss=Neg|nWord=22|RX=[PART]
 23	,	,	PUNCT	_	_	9	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=23|RX=[PUNCT]
 24	sai	sai	ADV	_	_	25	mod	_	GE=then|Gloss=then|nWord=24|RX=[ADV]
 25	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=25|RX=[AUX]
@@ -4449,7 +4449,7 @@
 # text_en = It's a grass, "zarau" that clings to young girls.
 # text_ortho = šii maa hakìi nee, zàᵲau mài zaᵲè yaaᵲinyàa.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-2	maː	maː	PART	_	_	1	discourse@top	_	GE=self|Gloss=even|nWord=7|PartType=Top|RX=[TOPPART]
+2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	GE=self|Gloss=even|nWord=7|RX=[TOPPART]
 3	hakìː	hakìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:pred	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=8|RX=[NOUN]
 4	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	0	root	_	GE=[Ident/Loc]|Gloss=be.Masc/Plur|nWord=9|RX=[IDPART]
 5	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
@@ -4553,7 +4553,7 @@
 43	,	,	PUNCT	_	_	44	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=43|RX=[PUNCT]
 44	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	42	parataxis@mod	_	GE=[3Fem].[Perf].[Neg]|Gloss=3Fem.PerfNeg|nWord=44|RX=[AUX]
 45	sanìː	sanìː	VERB	_	_	44	comp:aux	_	GE=know|Gloss=know|nWord=45|RX=[VERB]
-46	ba	ba	PART	_	Polarity=Neg	45	mod	_	GE=[Neg]|Gloss=Neg|nWord=46|PartType=Neg|RX=[PART]
+46	ba	ba	PART	_	PartType=Neg|Polarity=Neg	45	mod	_	GE=[Neg]|Gloss=Neg|nWord=46|RX=[PART]
 47	,	,	PUNCT	_	_	38	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=47|RX=[PUNCT]
 48	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	58	dislocated@comp	_	GE=[thing].[Masc]|Gloss=thing.Masc|nWord=48|RX=[NOUN]|wordform=àbu
 49	dà	dà	SCONJ	_	_	48	mod@relcl	_	GE=that|Gloss=that|nWord=49|RX=[SCONJ]
@@ -4594,7 +4594,7 @@
 # text = kuma koː kòːrattà kakài, bâːta iyà ràbuwaː dà kai.
 # text_en = And even if you chase her away, she cannot leave you.
 # text_ortho = kuma koo kòoᵲattà ka kài, baà ta ’iyà ᵲàbuwaa dà kai.
-1	kuma	kuma	PART	_	_	7	discourse	_	GE=also|Gloss=also|nWord=1|PartType=Disc|RX=[ADV]
+1	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	koː	koː	SCONJ	_	_	7	mod	_	GE=even_if|Gloss=even_if|nWord=2|RX=[SCONJ]
 3	kòːrattà	kòːraːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3	2	comp:obj	_	GE=[drive_away].[Nmlz].[Fem]|Gloss=drive_away.Nmlz.Fem.3Fem.Poss|nWord=3|RX=[VERB]|wordform=kòːra
 4-5	kakài	_	_	_	_	_	_	_	_
@@ -4631,7 +4631,7 @@
 14	hushiː	hushiː	NOUN	_	Definite=Ind|Gender=Masc	12	comp:pred	_	GE=[anger].[Masc]|Gloss=anger.Masc|nWord=14|RX=[NOUN]
 15	,	,	PUNCT	_	_	18	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=15|RX=[PUNCT]
 16	kai	kai	PRON	_	Gender=Masc|Person=2	18	dislocated@subj	_	GE=[2Masc]|Gloss=2Masc|nWord=16|RX=[PRON]
-17	kuma	kuma	PART	_	_	16	discourse@top	_	GE=also|Gloss=also|nWord=17|PartType=Top|RX=[TOPPART]
+17	kuma	kuma	PART	_	PartType=Top	16	discourse@top	_	GE=also|Gloss=also|nWord=17|RX=[TOPPART]
 18	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	12	parataxis@conj	_	GE=[2Masc].[Perf]|Gloss=2Masc.Perf.[do]|nWord=18|RX=[AUX]
 19	mutà	mutà	PRON	_	Gender=Fem|Person=3	18	comp:obl	_	GE=[3Fem].[Dat]|Gloss=3Fem.Dat|nWord=19|RX=[PRON]
 20	hushiː	hushiː	NOUN	_	Definite=Ind|Gender=Masc	18	comp:pred	_	GE=[anger].[Masc]|Gloss=anger.Masc|nWord=20|RX=[NOUN]
@@ -4665,7 +4665,7 @@
 48	bâːka	bâi	AUX	_	Aspect=ProgNeg|Gender=Masc|Person=2|Polarity=Neg	45	parataxis@conj	_	GE=[2Masc].[Imp].[Neg]|Gloss=2Masc.ProgNeg|nWord=48|RX=[AUX]
 49	sôntà	sôːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	48	comp:aux	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc.3Fem.Poss|nWord=49|RX=[VERB]|wordform=sô
 50	,	,	PUNCT	_	_	52	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=50|RX=[PUNCT]
-51	kuma	kuma	PART	_	_	52	discourse	_	GE=also|Gloss=also|nWord=51|PartType=Disc|RX=[ADV]
+51	kuma	kuma	PART	_	PartType=Disc	52	discourse	_	GE=also|Gloss=also|nWord=51|RX=[ADV]
 52	bâːka	bâi	AUX	_	Aspect=ProgNeg|Gender=Masc|Person=2|Polarity=Neg	48	parataxis@conj	_	GE=[2Masc].[Imp].[Neg]|Gloss=2Masc.ProgNeg|nWord=52|RX=[AUX]
 53	armentà	armeːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	52	comp:aux	_	GE=[wedding].[Masc]|Gloss=wedding.Masc.3Fem.Poss|nWord=53|RX=[NOUN]|wordform=arme
 54	,	,	PUNCT	_	_	22	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=54|RX=[PUNCT]
@@ -4674,7 +4674,7 @@
 57	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	56	comp:obj	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=57|RX=[VERB]
 58	,	,	PUNCT	_	_	59	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=58|RX=[PUNCT]
 59	sai	sai	SCONJ	_	_	56	mod	_	GE=then|Gloss=then|nWord=59|RX=[ADV]
-60	dai	dai	PART	_	_	59	discourse@top	_	GE=indeed|Gloss=however|nWord=60|PartType=Top|RX=[TOPPART]
+60	dai	dai	PART	_	PartType=Top	59	discourse@top	_	GE=indeed|Gloss=however|nWord=60|RX=[TOPPART]
 61	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	59	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=61|RX=[AUX]
 62	yi	yi	VERB	_	_	61	comp:aux	_	GE=do|Gloss=do|nWord=62|RX=[VERB]
 63	kuːkaː	kuːkaː	NOUN	_	Definite=Ind|Gender=Masc	62	comp:pred	_	GE=[crying].[Masc]|Gloss=crying.Masc|nWord=63|RX=[NOUN]
@@ -4992,7 +4992,7 @@
 # text_en = If she takes it, whatever you say and is in your mouth, she cannot go against it, she cannot start a dispute.
 # text_ortho = ’in dai taa ᵲìgyaa taa ci, du’ ’àbun dà kah hwaɗìi, cikin bàakinkà, baà ta ’iyà ƙeetàᵲee ši, baà ta ’iyà maa gardamàa.
 1	in	in	SCONJ	_	_	17	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	PART	_	_	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|PartType=Top|RX=[TOPPART]
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|RX=[TOPPART]
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=3|RX=[AUX]
 4	rìgyaː	rìgyaː	VERB	_	_	3	comp:aux	_	GE=have_already|Gloss=have_already|nWord=4|RX=[VERB]
 5	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	3	parataxis@conj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=5|RX=[AUX]
@@ -5073,7 +5073,7 @@
 # text_en = As for your nails, your eyebrows, your armpits and pubic hair, the water that you used to wash your body, your hands, face and penis in order to collect the dirt of your body, you put them in the medicine and give it to the woman to eat.
 # text_ortho = suu kàu ’àkàihunkà, dà gaašìn gàban gòošinkà, dà na hamùttaa dà na zaazakkà, dà ᵲuwan dà kaw wawwànkè jìkinkà, dà hannuwàa dà huskàa dà màzàakuutàa, don ’à sàamu dauɗàn nan ta jìkinkà, ’à saà cikim maagànii, ’à baà màccè tà ci.
 1	suː	suː	PRON	_	Number=Plur|Person=3	39	dislocated@comp	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
-2	kàu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
+2	kàu	kàu	PART	_	PartType=Top	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
 3	àkàihunkà	àkàihuːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Number=Plur|Person=2	1	conj:appos	_	GE=[nail].[Plur]|Gloss=nail.Plur.2Masc.Gen|nWord=3|RX=[NOUN]|wordform=àkàihu
 4	,	,	PUNCT	_	_	6	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=4|RX=[PUNCT]
 5	dà	dà	CCONJ	_	_	6	cc	_	GE=and|Gloss=and|nWord=5|RX=[CCONJ]
@@ -5130,7 +5130,7 @@
 # text_en = If she eats it, well your body meets hers, she won't be able to leave you.
 # text_ortho = ’in dai hat taa ci, toò jìkinkà yag gàmu dà naatà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	in	in	SCONJ	_	_	14	mod	_	GE=if|Gloss=if|nWord=1|RX=[SCONJ]
-2	dai	dai	PART	_	_	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|PartType=Top|RX=[TOPPART]
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	GE=indeed|Gloss=however|nWord=2|RX=[TOPPART]
 3	hat	hat	ADV	_	_	4	mod	_	GE=finally|Gloss=finally|nWord=3|RX=[ADV]
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	GE=[3Fem].[Perf]|Gloss=3Fem.Perf|nWord=4|RX=[AUX]
 5	ci	ci	VERB	_	_	4	comp:aux	_	GE=eat|Gloss=eat|nWord=5|RX=[VERB]
@@ -5187,7 +5187,7 @@
 1	suː	suː	PRON	_	Number=Plur|Person=3	33	dislocated@top	_	GE=[3Plur]|Gloss=3Plur|nWord=1|RX=[PRON]
 2	wa’ànnan	wa’ànnan	DET	_	Deixis=Remt|Number=Plur|PronType=Dem	3	det	_	GE=[Dist].[Plur]|Gloss=Remt.Plur|nWord=2|RX=[DET]
 3	hakuːkuwàː	hakuːkuwàː	NOUN	_	Definite=Ind|Number=Plur	1	conj:appos	_	GE=[grass].[Plur]|Gloss=grass.Plur|nWord=3|RX=[NOUN]
-4	koː	kàu	PART	_	_	3	discourse@top	_	GE=or_else|Gloss=whereas|nWord=4|PartType=Top|RX=[TOPPART]
+4	koː	kàu	PART	_	PartType=Top	3	discourse@top	_	GE=or_else|Gloss=whereas|nWord=4|RX=[TOPPART]
 5	can	can	DET	_	Deixis=Remt|PronType=Dem	3	det	_	GE=[Dist]|Gloss=Remt|nWord=5|RX=[ADV]
 6	dà	dà	SCONJ	_	_	3	mod@relcl	_	GE=that|Gloss=that|nWord=6|RX=[SCONJ]
 7	ùbangijìː	ùbangijìː	PROPN	_	Gender=Masc	8	subj	_	GE=[God].[Masc]|Gloss=God.Masc|nWord=7|RX=[PROPN]
@@ -5465,11 +5465,11 @@
 1	shi	shiː	PRON	_	Gender=Masc|Person=3	4	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
 2	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=2|RX=[NOUN]
 3	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=3|RX=[PUNCT]
-4	àkwai	àkwai	PART	_	_	0	root	_	GE=there_is|Gloss=there_is|nWord=4|PartType=Pred|RX=[PREDPART]
+4	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	GE=there_is|Gloss=there_is|nWord=4|RX=[PREDPART]
 5	ƙwaːrò	ƙwaːròː	NOUN	_	Definite=Ind|Gender=Masc	6	mod	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=5|RX=[NOUN]
 6	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	4	subj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
-8	àkwai	àkwai	PART	_	_	4	parataxis@conj	_	GE=there_is|Gloss=there_is|nWord=8|PartType=Pred|RX=[PREDPART]
+8	àkwai	àkwai	PART	_	PartType=Pred	4	parataxis@conj	_	GE=there_is|Gloss=there_is|nWord=8|RX=[PREDPART]
 9	hakì	hakìː	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=9|RX=[NOUN]
 10	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=10|RX=[NOUN]
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.|nWord=11|RX=[PUNCT]
@@ -5594,7 +5594,7 @@
 16	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	15	comp:pred	_	GE=[work].[Masc]|Gloss=work.Masc|nWord=16|RX=[NOUN]
 17	dà	dà	ADP	_	_	15	comp:obl	_	GE=with|Gloss=with|nWord=17|RX=[ADP]
 18	ɗàriː	ɗàriː	NUM	_	_	17	comp:obj	_	GE=hundred|Gloss=hundred|nWord=18|RX=[NUM]
-19	bâː	baːbù	PART	_	Polarity=Neg	18	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=19|PartType=Pred|RX=[PREDPART]
+19	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=19|RX=[PREDPART]
 20	ɗaya	ɗaya	NUM	_	_	19	subj	_	GE=one|Gloss=one|nWord=20|RX=[NUM]
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
 
@@ -5607,7 +5607,7 @@
 # text_ortho = ɗàᵲiǹ nan baà ɗàya, ’in ’ankà ɗèebee tà, sai ’à gamàa ta dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa, ’à gamèe su wuᵲii gùdaa ’à dakèe.
 1	ɗàrîn	ɗàriː	NUM	_	Definite=Cons|Gender=Masc	12	dislocated@comp	_	GE=[hundred].[Masc].[Def]|Gloss=hundred.Masc.Cons|nWord=1|RX=[NUM]
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	GE=[Dist]|Gloss=Def|nWord=2|RX=[DET]
-3	bâː	baːbù	PART	_	Polarity=Neg	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|PartType=Pred|RX=[PREDPART]
+3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	1	mod	_	GE=[Pred/Loc].[Neg]|Gloss=there_is.Neg|nWord=3|RX=[PREDPART]
 4	ɗaya	ɗaya	NUM	_	_	3	subj	_	GE=one|Gloss=one|nWord=4|RX=[NUM]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 6	in	in	SCONJ	_	_	12	mod	_	GE=if|Gloss=if|nWord=6|RX=[SCONJ]
@@ -6079,10 +6079,10 @@
 6	dà	dà	ADP	_	_	5	mod	_	GE=with|Gloss=with|nWord=20|RX=[ADP]
 7	yawàː	yawàː	NOUN	_	Definite=Ind|Gender=Masc	6	comp:obj	_	GE=[quantity].[Masc]|Gloss=quantity.Masc|nWord=21|RX=[NOUN]
 8	,	,	PUNCT	_	_	10	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=22|RX=[PUNCT]
-9	bàː	bàː	PART	_	Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=23|PartType=Neg|RX=[PART]
+9	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=23|RX=[PART]
 10	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	5	parataxis@conj	_	GE=[like/love/want].[Nmlz].[Masc]|Gloss=like/love/want.Nmlz.Masc|nWord=24|RX=[VERB]
 11	kàɗannà	kàɗannà	ADV	_	_	10	mod	_	GE=small|Gloss=small|nWord=25|RX=[ADV]
-12	ba	ba	PART	_	Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|PartType=Neg|RX=[PART]
+12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	GE=[Neg]|Gloss=Neg|nWord=26|RX=[PART]
 13	.	.	PUNCT	_	_	14	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 14	don	don	SCONJ	_	_	10	mod	_	GE=because|Gloss=because|nWord=28|RX=[SCONJ]
 15	shiː	shiː	PRON	_	Gender=Masc|Person=3	19	dislocated@subj	_	GE=[3Masc]|Gloss=3Masc|nWord=29|RX=[PRON]
@@ -6375,7 +6375,7 @@
 # text_en = Well, apart from this, the seeds of "maɗaɗɗafi", and the rats' "ƙarangiya", are like gum.
 # text_ortho = toò kuma ban dà hakà nan, suu ɗiyam màɗaɗɗahii, dà ƙàᵲangiyak kuusaa, danƙòo gàᵲee sù.
 1	tôː	tôː	INTJ	_	_	15	discourse	_	GE=well|Gloss=well|nWord=1|RX=[INTJ]
-2	kuma	kuma	PART	_	_	1	discourse@top	_	GE=also|Gloss=also|nWord=2|PartType=Top|RX=[TOPPART]
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	GE=also|Gloss=also|nWord=2|RX=[TOPPART]
 3	bandà	bandà	ADP	_	_	15	mod	_	GE=[give].[Nmlz].[Masc]|Gloss=apart_from|nWord=3|RX=[ADP]
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	GE=thus|Gloss=thus|nWord=4|RX=[ADV]|wordform=hakà
 5	,	,	PUNCT	_	_	3	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=6|RX=[PUNCT]
@@ -6455,7 +6455,7 @@
 3	hakìː	hakìː	NOUN	_	Definite=Ind|Gender=Masc	2	mod	_	GE=[grass].[Masc]|Gloss=grass.Masc|nWord=4|RX=[NOUN]
 4	,	,	PUNCT	_	_	2	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	8	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=6|RX=[PRON]
-6	maː	maː	PART	_	_	5	discourse@top	_	GE=self/too|Gloss=even|nWord=7|PartType=Top|RX=[TOPPART]
+6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	GE=self/too|Gloss=even|nWord=7|RX=[TOPPART]
 7	danƙòː	danƙòː	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	GE=[gum].[Masc]|Gloss=gum.Masc|nWord=8|RX=[NOUN]
 8-9	gàrai	_	_	_	_	_	_	_	_
 8	gàr̃eː	gàr̃eː	ADP	_	_	0	root	_	GE=at/to|Gloss=at/to|nWord=9|RX=[ADP]
@@ -6483,7 +6483,7 @@
 7	màɗaɗɗahiː	màɗaɗɗahiː	NOUN	_	Definite=Ind|Gender=Masc	6	mod	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=6|RX=[NOUN]
 8	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=7|RX=[PUNCT]
 9	shiː	shiː	PRON	_	Gender=Masc|Person=3	11	dislocated@comp	_	GE=[3Masc]|Gloss=3Masc|nWord=8|RX=[PRON]
-10	maː	maː	PART	_	_	9	discourse@top	_	GE=self/too|Gloss=even|nWord=9|PartType=Top|RX=[TOPPART]
+10	maː	maː	PART	_	PartType=Top	9	discourse@top	_	GE=self/too|Gloss=even|nWord=9|RX=[TOPPART]
 11	hakànan	hakànan	ADV	_	_	0	root	_	GE=thus|Gloss=thus|nWord=10|RX=[ADV]|wordform=hakà
 12-13	akài	_	_	_	_	_	_	_	_
 12	akà	kà	AUX	_	Aspect=ProgBkg|Person=4	11	comp:cleft	_	GE=[4].[Imp].[Bkg]|Gloss=4.ProgBkg|nWord=12|RX=[AUX]
@@ -6500,7 +6500,7 @@
 # text_en = As for the insect "bìː-ta-zâizâi", wherever the man goes, the woman has to follow him.
 # text_ortho = šii kaù bìi ta zaìzaì ƙwaaᵲòo, du’ ’indà namijì yay yi, sai màcceǹ tà yi ta bìyaatai.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	14	dislocated@top	_	GE=[3Masc]|Gloss=3Masc|nWord=1|RX=[PRON]
-2	kâu	kàu	PART	_	_	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|PartType=Top|RX=[TOPPART]
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	GE=anyway|Gloss=whereas|nWord=2|RX=[TOPPART]
 3	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	GE=[grass_sp].[Masc]|Gloss=grass_sp.Masc|nWord=3|RX=[NOUN]
 4	ƙwaːròː	ƙwaːròː	NOUN	_	Definite=Ind|Gender=Masc	3	mod	_	GE=[insect].[Masc]|Gloss=insect.Masc|nWord=4|RX=[NOUN]
 5	,	,	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=5|RX=[PUNCT]
@@ -6514,7 +6514,7 @@
 13	màcce	màcce	NOUN	_	Definite=Ind|Gender=Fem	14	subj	_	GE=[woman].[Fem]|Gloss=woman.Fem|nWord=13|RX=[NOUN]
 14	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=14|RX=[AUX]
 15	yi	yi	VERB	_	_	14	comp:aux	_	GE=do|Gloss=do|nWord=15|RX=[VERB]
-16	ta	ta	PART	_	Aspect=Iter	15	compound:prt	_	GE=via|Gloss=Iter|nWord=16|PartType=Adv|RX=[ADP]
+16	ta	ta	PART	_	Aspect=Iter|PartType=Adv	15	compound:prt	_	GE=via|Gloss=Iter|nWord=16|RX=[ADP]
 17	bìyaːtai	bìyaːtai	VERB	_	ExtPos=NOUN|Gender=Fem|Person=3	15	comp:pred	_	GE=[follow].[Nmlz].[Fem]|Gloss=follow.Nmlz.Fem.3Fem.Poss|nWord=17|RX=[VERB]|wordform=bìyaː
 18	.	.	PUNCT	_	_	14	punct	_	Gloss=.|nWord=18|RX=[PUNCT]
 
@@ -6541,7 +6541,7 @@
 14	don	don	SCONJ	_	_	11	mod	_	GE=because|Gloss=because|nWord=15|RX=[SCONJ]
 15	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	14	comp:obj	_	GE=[3Fem].[Aor]|Gloss=3Fem.Aor|nWord=16|RX=[AUX]
 16	yi	yi	VERB	_	_	15	comp:aux	_	GE=do|Gloss=do|nWord=17|RX=[VERB]
-17	ta	ta	PART	_	Aspect=Iter	16	compound:prt	_	GE=via|Gloss=Iter|nWord=18|PartType=Adv|RX=[ADP]
+17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	GE=via|Gloss=Iter|nWord=18|RX=[ADP]
 18	bìyam	bìyaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	16	comp:pred	_	GE=[follow].[Nmlz].[Fem]|Gloss=follow.Nmlz.Fem|nWord=19|RX=[VERB]|wordform=bìya
 19	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	18	udep	_	GE=[person].[Masc]|Gloss=person.Masc|nWord=20|RX=[NOUN]
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=.|nWord=21|RX=[PUNCT]
@@ -6933,7 +6933,7 @@
 # text = kuma shì ɗèːbi kàɗannà, shì sâː ga ruwaː, shì barìː shì jìƙa cikin ruwaː.
 # text_en = Or he will take a little and put it in water, and leave it to soak in water.
 # text_ortho = kuma šì ɗèebi kàɗannà, šì saà ga ᵲuwaa, šì baᵲìi šì jìƙa cikin ᵲuwaa.
-1	kuma	kuma	PART	_	_	2	discourse	_	GE=also|Gloss=also|nWord=1|PartType=Disc|RX=[ADV]
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	GE=also|Gloss=also|nWord=1|RX=[ADV]
 2	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Aor]|Gloss=3Masc.Aor|nWord=2|RX=[AUX]
 3	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	GE=take|Gloss=take|nWord=3|RX=[VERB]
 4	kàɗannà	kàɗannà	ADV	_	_	3	mod	_	GE=small|Gloss=small|nWord=4|RX=[ADV]
