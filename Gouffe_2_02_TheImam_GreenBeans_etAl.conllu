@@ -1138,7 +1138,7 @@
 23	kin	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	22	comp:obj	_	GE=[2Fem].[Perf].[Bkg]|Gloss=2Fem.Perf|nWord=23|RX=[AUX]
 24	san	sanìː	VERB	_	_	23	comp:aux	_	GE=know|Gloss=know|nWord=24|RX=[VERB]
 25	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=25|RX=[NOUN]|wordform=gida
-26	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	25	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=26|RX=[NOUN]
+26	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc	25	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=26|RX=[NOUN]
 27	.	.	PUNCT	_	_	7	punct	_	Gloss=.|nWord=27|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_036-036
@@ -1197,7 +1197,7 @@
 # text = lìːmân yaː san kì ?
 # text_en = Does the imam know you?
 # text_ortho = lìimaǹ yaa san kì ?
-1	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	2	subj	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
+1	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc	2	subj	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=1|RX=[NOUN]
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	GE=[3Masc].[Perf]|Gloss=3Masc.Perf|nWord=2|RX=[AUX]
 3	san	sanìː	VERB	_	_	2	comp:aux	_	GE=know|Gloss=know|nWord=3|RX=[VERB]
 4	kì	kì	PRON	_	Gender=Fem|Person=2	3	comp:obj	_	GE=[2Fem]|Gloss=2Fem|nWord=4|RX=[PRON]
@@ -1277,7 +1277,7 @@
 1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	GE=[3Fem].[Perf].[Bkg]|Gloss=3Fem.PerfBkg|nWord=1|RX=[AUX]
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	GE=say|Gloss=say|nWord=2|RX=[VERB]
 3	shiː	shiː	PRON	_	Gender=Masc|Person=3	2	comp:obj	_	GE=[3Masc]|Gloss=3Masc|nWord=3|RX=[PRON]
-4	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	3	conj:appos	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
+4	lìːmân	lìːmân	NOUN	_	Definite=Def|Gender=Masc	3	conj:appos	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=4|RX=[NOUN]
 5	kà	kà	AUX	_	Aspect=ProgBkg	3	comp:cleft	_	GE=[Imp].[Bkg]|Gloss=ProgBkg|nWord=5|RX=[AUX]
 6	aikìntà	aikìːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	5	comp:aux	_	GE=[send].[Nmlz].[Masc]|Gloss=send.Nmlz.Masc.3Fem.Poss|nWord=6|RX=[VERB]|wordform=aikì
 7	cikin	cikin	ADP	_	_	6	comp:obl	_	GE=in(side)|Gloss=in(side)|nWord=7|RX=[ADP]
@@ -1312,7 +1312,7 @@
 5	takà	kà	AUX	_	Aspect=ProgBkg|Gender=Fem|Person=3	3	comp:cleft	_	GE=[3Fem].[Imp].[Bkg]|Gloss=3Fem.ProgBkg|nWord=6|RX=[AUX]
 6	shìgaː	shìga	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	GE=[enter].[Nmlz].[Fem]|Gloss=enter.Nmlz.Fem|nWord=7|RX=[VERB]
 7	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj@G	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=8|RX=[NOUN]|wordform=gida
-8	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	7	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=9|RX=[NOUN]
+8	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc	7	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=9|RX=[NOUN]
 9	.	.	PUNCT	_	_	1	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=10|RX=[PUNCT]
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_045-045_split2_split1_split1
@@ -1338,7 +1338,7 @@
 14	zâːki	zâː	AUX	_	Gender=Fem|Person=2|Tense=Fut	13	comp:obj	_	GE=[Fut]|Gloss=Fut.2Fem|nWord=24|RX=[AUX]|wordform=zâː
 15	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	14	comp:aux	_	GE=[go].[Nmlz].[Fem]|Gloss=go.Nmlz.Fem|nWord=26|RX=[VERB]
 16	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	15	udep	_	GE=[house].[Masc]|Gloss=house.Masc|nWord=27|RX=[NOUN]|wordform=gida
-17	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	16	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=28|RX=[NOUN]
+17	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc	16	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=28|RX=[NOUN]
 18	,	,	PUNCT	_	_	13	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=29|RX=[PUNCT]
 19	kì	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=2	2	comp:obj	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=30|RX=[AUX]
 20	riƙà	riƙàː	VERB	_	_	19	comp:obj	_	GE=seize/keep_on|Gloss=seize/keep_on|nWord=31|RX=[VERB]
@@ -1357,7 +1357,7 @@
 3	,	,	PUNCT	_	_	4	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=36|RX=[PUNCT]
 4	wurim	wurin	ADP	_	_	2	comp:obl	_	Gloss=to|nWord=37
 5	màːtal	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	GE=[wife].[Fem]|Gloss=wife.Fem|nWord=38|RX=[NOUN]|wordform=màːta
-6	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc|PronType=Dem	5	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=39|RX=[NOUN]
+6	lì:mân	lì:maːmìː	NOUN	_	Definite=Def|Gender=Masc	5	mod	_	GE=[imam].[Masc].[Def]|Gloss=imam.Masc.Def|nWord=39|RX=[NOUN]
 7	,	,	PUNCT	_	_	8	punct	_	GE=[PUNCT]|Gloss=PUNCT|nWord=40|RX=[PUNCT]
 8	kì	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=2	2	parataxis@mod	_	GE=[2Fem].[Aor]|Gloss=2Fem.Aor|nWord=41|RX=[AUX]
 9	riƙà	riƙàː	VERB	_	_	8	comp:obj	_	GE=seize/keep_on|Gloss=seize/keep_on|nWord=42|RX=[VERB]
