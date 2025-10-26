@@ -38,7 +38,7 @@
 # text = àkwai wandà mazaː kà yîː , don sù màllàki maːtaː .
 # text_en = There is the one that men are doing to control women.
 # text_ortho = ’àkwài wandà mazaa kà yiì, don sù màllàki maazaa.
-1	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	Gloss=who.Masc
 3	mazaː	mazaː	NOUN	_	Definite=Ind|Number=Plur	4	subj	_	Gloss=husband.Plur
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	Gloss=ProgBkg
@@ -91,7 +91,7 @@
 # text = àkwai wandà maːtaː kà yîː , don sù màllàki mazaː .
 # text_en = There is the one that women are doing to control men.
 # text_ortho = ’àkwài wandà maataa kà yiì, don sù màllàki maazaa.
-1	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	subj	_	Gloss=who.Masc
 3	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	4	subj	_	Gloss=woman.Plur
 4	kà	kà	AUX	_	Aspect=ProgBkg	2	mod@relcl	_	Gloss=ProgBkg
@@ -2822,7 +2822,7 @@
 # text = àkwai zuːgàl na cîː , wandà akà ɗiːbàː gà runhuː .
 # text_en = [5] There is the "zugal" that you eat, which you pick the "runhu" tree.
 # text_ortho = [5] ’àkwai zuugàl na ciì, wandà ’a kà ɗiibàa gà ᵲunhuu,
-1	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	1	subj	_	Gloss=love_charm
 3	na	na/ta	ADP	_	_	2	mod	_	Gloss=of
 4	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc
@@ -5465,11 +5465,11 @@
 1	shi	shiː	PRON	_	Gender=Masc|Person=3	4	dislocated@subj	_	Gloss=3Masc
 2	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	Gloss=grass_sp.Masc
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-4	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+4	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 5	ƙwaːrò	ƙwaːròː	NOUN	_	Definite=Ind|Gender=Masc	6	mod	_	Gloss=insect.Masc
 6	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	4	subj	_	Gloss=grass_sp.Masc
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	àkwai	àkwai	PART	_	_	4	parataxis@conj	_	Gloss=there_is
+8	àkwai	àkwai	PART	_	PartType=Pred	4	parataxis@conj	_	Gloss=there_is
 9	hakì	hakìː	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	Gloss=grass.Masc
 10	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	Gloss=grass_sp.Masc
 11	.	.	PUNCT	_	_	4	punct	_	Gloss=.

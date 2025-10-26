@@ -595,7 +595,7 @@
 3	bandà	bandà	ADP	_	_	6	mod	_	Gloss=without
 4	suː	suː	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-6	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+6	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 7	itàːceː	itàːceː	NOUN	_	Definite=Ind|Number=Plur	6	subj	_	Gloss=tree.Plur
 8	dà	dà	ADP	_	_	7	mod	_	Gloss=with
 9	yawàː	yawàː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	Gloss=quantity.Masc
@@ -740,7 +740,7 @@
 25	kuːwàːtai	kuːwàːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	24	comp:obj	_	Gloss=yell.Fem.3Masc.Poss|wordform=kuːwàː
 26	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 27	in	in	SCONJ	_	_	32	mod	_	Gloss=if
-28	àkwai	àkwai	PART	_	_	27	comp:obj	_	Gloss=there_is
+28	àkwai	àkwai	PART	_	PartType=Pred	27	comp:obj	_	Gloss=there_is
 29	ƙarhèː	ƙarhèː	NOUN	_	Definite=Ind|Gender=Masc	28	subj	_	Gloss=iron.Masc
 30	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 31	sai	sai	ADV	_	_	32	mod	_	Gloss=then
@@ -870,7 +870,7 @@
 12	wàːsat	wàːsaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:aux	_	Gloss=game.Fem|wordform=wàːsa
 13	tauri	tauri	NOUN	_	Definite=Ind|Gender=Masc	12	udep	_	Gloss=toughness_charm.Masc
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-15	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is
+15	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 16	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	15	subj	_	Gloss=charm.Masc
 17	dà	dà	ADP	_	_	16	mod	_	Gloss=with
 18	yawàː	yawàː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=quantity.Masc
@@ -2357,7 +2357,7 @@
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeːb
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	gàː	gàː	PART	_	_	9	dislocated@comp	_	Gloss=here_is
+5	gàː	gàː	PART	_	PartType=Pred	9	dislocated@comp	_	Gloss=here_is
 6	hwaːtàː	hwaːtàː	NOUN	_	Definite=Ind|Gender=Fem	5	subj	_	Gloss=skin.Fem
 7	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
