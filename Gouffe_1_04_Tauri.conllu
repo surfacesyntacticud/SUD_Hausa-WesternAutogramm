@@ -502,7 +502,7 @@
 # sent_timecode = 14000, 15000
 # text_en = But 'ajibirma', most of the time, those who prepare toughness medicine, they don't work except with it.
 # text_ortho = ’àmmaa šii ’àajibìᵲma, duy yawancin lookàcii, màasu ’aikìn tauᵲi, baà su ’aikìi sai dà šii.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	13	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	13	discourse	_	Gloss=but
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@comp	_	Gloss=3Masc
 3	àːjibìrma	àːjibìrma	NOUN	_	Definite=Ind|Gender=Masc	2	conj:appos	_	Gloss=tree_sp.Masc
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -590,7 +590,7 @@
 # text = àmmaː koː bandà suː , àkwai itàːceː dà yawàː , wa’àndà akà ɗiːbàː , à yi maːgànin tauri .
 # text_en = But apart from them, there are many trees that you pick to use.
 # text_ortho = ’àmmaa koo ban dà suu, ’àkwai ’itàacee dà yawàa, wa’àndà ’a kà ɗiibàa, ’à yi maagànin tauᵲi.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	6	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	Gloss=but
 2	koː	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bandà	bandà	ADP	_	_	6	mod	_	Gloss=without
 4	suː	suː	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
@@ -617,7 +617,7 @@
 # text = àmmaː niː, wa’àndà nis sanìː, suː zâm baːdà làːbaːr̃ìː, dom bâːshi yìwuwaː, mùtun shì baːdà làːbaːr̃ìː, na àbun dà bài sanìː ba.
 # text_en = But me, it is those I know that I will talk about because it is not possible for anybody to talk about things that he does not know.
 # text_ortho = ’àmmaa nii, wa’àndà nis sanìi, suu zam̀ baadà làabaarìi, dom baà ši yìwuwaa, mùtun šì baadà làabaarìi, na ’àbun dà bài sanìi ba.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	8	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
 2	niː	niː	PRON	_	Person=1	8	dislocated@subj	_	Gloss=1Sing
 3	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 4	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	8	dislocated@top	_	Gloss=who.Plur
@@ -653,7 +653,7 @@
 # text = àmmaː bandà hakànan , shiː ɓargon jaːkiː , im maːgànin tauri na cîː neː , bâː'a sanyàː shi cikiː , don im mùtun yaː ciː shì , bâːshi yîn ar̃zìkiː .
 # text_en = But apart from this, the donkey bone marrow, if it is for a medicine that you swallow, you don't put it inside because if you swallow it, it won't work.
 # text_ortho = ’àmmaa ban dà hakà nan, šii ɓaᵲgon jaakii, ’im maagànin tauᵲi na ciì nee, baà ’a sanyàa ši cikii, don ’im mùtun yaa cii šì, baà ši yiǹ ’arzìkii.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	16	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	16	discourse	_	Gloss=but
 2	bandà	bandà	ADP	_	_	16	mod	_	Gloss=without
 3	hakànan	hakànan	ADV	_	_	2	comp:obj	_	Gloss=thus|wordform=hakà
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -692,19 +692,19 @@
 # text = sai im mùtun yaː cêː shinàː sôː , sânnan à sâː mai .
 # text_en = It's only if somebody says he wants it, that you put it for him.
 # text_ortho = sai ’im mùtun yaa ceè ši nàa soò, saǹ nan ’à saà mai.
-1	sai	sai	ADV	_	_	2	mod	_	Gloss=except
-2	im	in	SCONJ	_	_	0	root	_	Gloss=if
+1	sai	sai	ADV	_	_	10	mod	_	Gloss=except
+2	im	in	SCONJ	_	_	1	comp:obj	_	Gloss=if
 3	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	4	subj	_	Gloss=person.Masc
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	Gloss=say
 6	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.Prog
 7	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-8	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	sânnan	sânnan	ADV	_	_	10	mod	_	Gloss=then
-10	à	ø	AUX	_	Aspect=Aor|Person=4	2	comp:cleft	_	Gloss=4.Aor
+10	à	ø	AUX	_	Aspect=Aor|Person=4	0	root	_	Gloss=4.Aor
 11	sâː	sâː	VERB	_	_	10	comp:aux	_	Gloss=put
 12	mai	mai	PRON	_	Gender=Masc|Person=3	11	comp:obl	_	Gloss=3Masc.Dat
-13	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+13	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_023-023
 # speaker_id = *
@@ -856,7 +856,7 @@
 # sent_timecode = 25000, 26000
 # text_en = Apart from this, they, the toughness showmen, if they do their toughness show, there are many medicines that they prepare to do tricks with them, for people to see and wonder.
 # text_ortho = koo kuma ban dà hakà nan suu, ’yan tauᵲi, in su nàa wàasat tauᵲi, ’àkwai maagànii dà yawàa, na tauᵲi, wandà su kài, sù yi dabòo dà šii, tàaᵲe dà ƙaᵲhèe, dom mutàanee sù ganii, sù yi màamaakìi.
-1	koː	koː	CCONJ	_	PartType=Foc	15	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	15	discourse	_	Gloss=or
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	bandà	bandà	ADP	_	_	15	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|wordform=hakà
@@ -965,7 +965,7 @@
 # text = koː ƙarhèː shì yi s'uːwàː, kàmam mabuːsaː, shì riƙà ƙaːraː, kàma’ oːdàm moːtàː.
 # text_en = Or the metal will squeal, like a flute, it will start making a noise like a car engine.
 # text_ortho = koo ƙaᵲhèe šì yi s’uuwàa, kàmam mabuusaa, šì ᵲiƙà ƙaaᵲaa, kàma’ ’oodàm mootàa.
-1	koː	koː	CCONJ	_	PartType=Foc	3	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	3	discourse	_	Gloss=or
 2	ƙarhèː	ƙarhèː	NOUN	_	Definite=Ind|Gender=Masc	3	subj	_	Gloss=iron.Masc
 3	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Aor
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
@@ -990,7 +990,7 @@
 # text = koː kuma bandà hakà nan , in sun yi zuhwàː , sai sù kwaːrè cikìː , sù yi ta yankaːnai dà takòːbiː , koː dà wuƙaː , bâːshi huːdèːwaː .
 # text_en = Or, apart from that, if they sweat, they will bare their belly, they will stab it with a sword or a knife, without piercing it.
 # text_ortho = koo kuma ban dà hakà nan, ’in sun yi zuhwàa, sai sù kwaaᵲè cikìi, sù yi ta yankaanai dà takòobii, koo dà wuƙaa, baà ši huudèewaa.
-1	koː	koː	CCONJ	_	PartType=Foc	12	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	12	discourse	_	Gloss=or
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	bandà	bandà	ADP	_	_	12	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|wordform=hakà
@@ -1043,7 +1043,7 @@
 # text = koː sù azà wuƙaː, c'ìːnin wuƙaː, bisà ijjiyàː, sù yi ta bugàːwaː dà màr̃tôː, bâːsu huːdèːwaː.
 # text_en = Or they will put a knife, a sharp knife on their eye, and beat it with a hammer, it won't pierce it.
 # text_ortho = koo sù ’azà wuƙaa, c’ìinin wuƙaa, bisà ’ijjiyàa, sù yi ta bugàawaa dà màrtoò, baà su huudèewaa.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	azà	azàː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	wuƙaː	wuƙaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=knife.Fem
@@ -1072,7 +1072,7 @@
 # sent_timecode = 31000, 32000
 # text_en = Or they will put it on their neck, on their throat, and keep beating without piercing it.
 # text_ortho = koo sù ’azàa gà wuyàa, wuᵲim maƙoošii, sù yi ta bugàawaa, baà su huudèewaa.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
@@ -1097,7 +1097,7 @@
 # text = koː sù azàː gà zucciyàː , wurin kân zucciyàː , sù yi ta bugàːwaː , bâːsu huːdèːwaː .
 # text_en = Or they will put it on their heart, on the top of their heart, and keep beating without piercing it.
 # text_ortho = koo sù ’azàa ga zucciyàa, wuᵲin kaǹ zucciyàa, sù yi ta bugàawaa, baà su huudèewa.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
@@ -1123,7 +1123,7 @@
 # sent_timecode = 33000, 34000
 # text_en = Or they would put it on their belly and keep beating without piercing it.
 # text_ortho = koo sù ’azàa gà cikìi, sù yi ta bugàawaa, baà su huudèewaa.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
@@ -1145,7 +1145,7 @@
 # text = koː sù kìri wani yaròː , sù shaːhwàː mai maːgàniː , sù baː shì wata laːyàː , shì riƙèː , koː kàr̃hoː , sù yi ta yankaːnai dà ƙarhèː , koː wuːƙaː koː takòːbiː , bâːsu huːdàː shi .
 # text_en = Or they would call a boy, rub some ointment on him, or give him an amulet to take, or a belt, stab him with a piece of metal, or a knife or a sword, without piercing him.
 # text_ortho = koo sù kìᵲi wani yaᵲòo, sù šaahwàa mai maagànii , sù baa šì wata laayàa, šì ᵲiƙèe, koo kàrhoo, sù yi ta yankaanai dà ƙaᵲhèe, koo wuuƙaa koo takòobii, baà su huudàa ši.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	kìri	kiraː	VERB	_	_	2	comp:aux	_	Gloss=call
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
@@ -1192,7 +1192,7 @@
 # sent_timecode = 35000, 36000
 # text_en = Or they would put some razor blades, many blades, like twelve, put them on a sheet of paper, pour them in their mouth and chew them with their teeth.
 # text_ortho = koo sù sawoo reezàa, reezàa mài daamaa, kàmar reezàa goomà šaà biyu, sai sù ɗeebèe mutà takàrdaa, sù zubàa ta cikim bàakii, su nàa tamnaa dà haƙooᵲii.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	sawoː	sàyaː	VERB	_	_	2	comp:aux	_	Gloss=buy.Dir|wordform=saw
 4	r̃eːzàː	r̃eːzàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=razor_blade.Fem
@@ -1252,7 +1252,7 @@
 # text = koː sù ɗàuki màtattak kwalbaː , sù sâː cikim bàːkiː , sunàː tamnaː sunàː zubdàːwaː , kuma kwalbaː bâːta yankèː su .
 # text_en = Or they would take a broken bottle, put it in their mouth, chew and spit it out, and the bottle would not cut them.
 # text_ortho = koo sù ɗàuki màtattak kwalbaa, sù saà cikim bàakii, su nàa tamnaa su nàa zubdàawaa, kuma kwalbaa baà ta yankèe su.
-1	koː	koː	CCONJ	_	PartType=Foc	2	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	2	discourse	_	Gloss=or
 2	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Aor
 3	ɗàuki	ɗaukaː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	màtattak	màtacceː	ADJ	_	Definite=Cons|Gender=Fem	5	mod	_	Gloss=dead.Fem
@@ -2162,7 +2162,7 @@
 # text = àmmaː ita lòːdaː, waddà bàː-shèːkaràː-s'àye-ba, gàreː tà akà ɗiːbàw wânnam maːgàniː, na maːgànin tauri.
 # text_en = But "loda", the "bàː-shèːkaràː-s'àye-ba" type, it's from it that you get that ingredient for the toughness medicine.
 # text_ortho = ’àmmaa ’ita lòodaa, waddà bàa šèekaᵲàa s’àye ba, gàᵲee tà ’a kà ɗiibàw waǹnam maagànii, na maagànin tauᵲi.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	8	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
 2	ita	ita	PRON	_	Gender=Fem|Person=3	8	dislocated@top	_	Gloss=3Fem
 3	lòːdaː	lòːdaː	NOUN	_	Definite=Ind|Gender=Fem	2	conj:appos	_	Gloss=mucilaginous_plant_sp.Fem
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -2765,7 +2765,7 @@
 # text = àmmaː im bàkà kwan dà ƙarhèː ba , dà raːnan dà zâːka ɗiːbàm maːgànîn , kaɗ ɗeːboː maːgànîn , in shinàː gà jìkinkà , du’ irìn juːyì wandà ankà yi dà ƙarhèː , bâːshi huːdè jìkinkà .
 # text_en = But if you don't sleep with metal, the day that you take the medicine, when you take the medicine, if it is in your body, whatever the trick they do with metal, it won't pierce your body.
 # text_ortho = ’àmmaa ’im bà kà kwan dà ƙaᵲhèe ba, dà ᵲan dà zaà ka ɗiibàm maagàniǹ, kaɗ ɗeeboo maagàniǹ, ’in ši nàa gà jìkinkà, du’ ’iᵲìn juuyì wandà ’ankà yi dà ƙaᵲhèe, baà ši huudè jìkinkà.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	34	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	34	discourse	_	Gloss=but
 2	im	in	SCONJ	_	_	34	mod	_	Gloss=if
 3	bàkà	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=2|Polarity=Neg	2	comp:obj	_	Gloss=2Masc.PerfNeg
 4	kwan	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=spend_night.Nmlz.Masc

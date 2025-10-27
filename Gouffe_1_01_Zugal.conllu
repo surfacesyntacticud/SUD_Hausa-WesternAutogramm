@@ -149,7 +149,7 @@
 # text = àmmaː shiː zuːgàl, in ankà yi shì, wani sai à bâː mùtun shì ci, cikim bài sanìː ba, wani kâu kà ci dà kânkà.
 # text_en = But the zugal, when you do it, sometimes you give it to someone to take without him knowing it, sometimes you take it yourself.
 # text_ortho = ’àmmaa šii zuugàl, ’in ’ankà yi šì, wani sai ’à baà mùtun šì ci, cikim bài sanìi ba, wani kaù kà ci dà kaǹkà.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	12	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	12	discourse	_	Gloss=but
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	12	dislocated@comp	_	Gloss=3Masc
 3	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	2	conj:appos	_	Gloss=love_charm
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -1979,7 +1979,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 64000, 65000
-# text = shiː wandà zâːshi maːgànîn , sai shì bìɗi gujjiyaƙ ƙùrugà , yaƙ ƙanaːnàː , ɗaː tar̃à , sai shì haɗèː .
+# text = shiː wandà zâːshi maːgànîn , sai shì bìɗi gujjiyaƙ ƙùrugà , 'yaƙ ƙanaːnàː , ɗaː tar̃à , sai shì haɗèː .
 # text_en = The one who does the medicine, let him look for (one seed) groundnuts, small ones, nine, and swallow them.
 # text_ortho = šii wandà zaà ši maagàniǹ, sai šì bìɗi gujjiyaƙ ƙùᵲugà, ’yaƙ ƙanaanàa, ɗaa tarà, sai šì haɗèe.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=3Masc
@@ -1993,7 +1993,7 @@
 9	gujjiyaƙ	gujjiyaː	NOUN	_	Definite=Cons|Gender=Fem	8	comp:obj	_	Gloss=groundnut.Fem|wordform=gujjiya
 10	ƙùrugà	ƙùrugà	NOUN	_	Definite=Ind|Gender=Fem	9	mod	_	Gloss=one_seed_groundnut.Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-12	yaƙ	ɗan	ADV	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=daughter.Fem|wordform=ya
+12	'yaƙ	ɗan	ADJ	_	Definite=Cons|Gender=Fem	13	mod	_	Gloss=little.Fem
 13	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	9	mod	_	Gloss=small.Plur
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ɗaː	ɗaː	NOUN	_	Definite=Ind|Gender=Masc	9	mod	_	Gloss=son.Masc
@@ -2610,7 +2610,7 @@
 # sent_timecode = 84000, 85000
 # text_en = But, apart from this, that medicine, when the man uses it on the woman, him, him the man, he does not go to bed during the day until he has finished that medicine.
 # text_ortho = ’àmmaa hwa ban dà hakà nan, šii waǹnam maagànii, lookàcin dà namijì kà maà màccè šii, šii namijìn, baà ši kwaanan ᵲaana sai yaa gamà waǹnam maagànii.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	21	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	21	discourse	_	Gloss=but
 2	hwa	hwa	PART	_	PartType=Top	1	discourse@top	_	Gloss=indeed
 3	bandà	bandà	ADP	_	_	21	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|wordform=hakà
@@ -3174,23 +3174,23 @@
 21	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_118-118
+# text = maːgàniː ɗan kàɗannà akà sâːwaː , don kât tà gaːnèː .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 100000, 101000
-# text = maːgàniː ɗan kàɗannà akà sâːwaː , don kât tà gaːnèː .
-# text_en = You put just a little medicine so that she does not see it.
+# text_en = The medicine, you put just a little so that she does not see it.
 # text_ortho = maagànii ɗan kàɗannà ’a kà saàwaa, don kat̀ tà gaanèe.
-1	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	0	root	_	Gloss=medicine/charm.Masc
+1	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	dislocated@comp	_	Gloss=medicine/charm.Masc
 2	ɗan	ɗan	ADV	_	_	3	mod	_	Gloss=little
-3	kàɗannà	kàɗannà	ADV	_	_	1	mod	_	Gloss=small
-4	akà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Person=4	1	comp:cleft	_	Gloss=4.ProgBkg
+3	kàɗannà	kàɗannà	ADV	_	_	0	root	_	Gloss=small
+4	akà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Person=4	3	comp:cleft	_	Gloss=4.ProgBkg
 5	sâːwaː	sâː	VERB	_	ExtPos=NOUN|Gender=Fem	4	comp:aux	_	Gloss=put.Nmlz.Fem|wordform=sâː
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	don	don	SCONJ	_	_	1	mod	_	Gloss=because
-8	kât	kâk	ADV	_	Polarity=Neg	9	mod	_	Gloss=Neg
+7	don	don	SCONJ	_	_	3	mod	_	Gloss=because
+8	kât	kâk	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg
 9	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=2	7	comp:obj	_	Gloss=2Fem.Aor
 10	gaːnèː	gaːnèː	VERB	_	_	9	comp:aux	_	Gloss=understand
-11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+11	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_119-119
 # speaker_id = *
@@ -3412,7 +3412,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 109000, 110000
-# text = in ankà ajè zucciyoːyîn , sai à sàːmu zuccìyak kàryaː , kàryaː kwikwiyàː , waddà ankà hàihwaː ta nàː yaƙ ƙàramaː , tum bàtà buːɗè idòː ba .
+# text = in ankà ajè zucciyoːyîn , sai à sàːmu zuccìyak kàryaː , kàryaː kwikwiyàː , waddà ankà hàihwaː tanàː 'yaƙ ƙàramaː , tum bàtà buːɗè idòː ba .
 # text_en = After putting the hearts aside, you get the heart of a female dog, a new-born little puppy that has not opened its eyes yet.
 # text_ortho = ’in ’ankà ’ajèe zucciyooyiǹ, sai ’à sàamu zuccìyak kàᵲyaa, kàᵲyaa kwikwiyàa, waddà ’ankà hàihwaa ta nàa ’yaƙ ƙàᵲamaa, tum bà tà buuɗè ’idòo ba.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
@@ -3433,7 +3433,7 @@
 16	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	12	mod@relcl	_	Gloss=4.PerfBkg
 17	hàihwaː	hàihwaː	VERB	_	_	16	comp:aux	_	Gloss=give_birth
 18	tanàː	nàː/kè	AUX	_	Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.Pred/Loc|wordform=ta
-19	yaƙ	ɗan	ADV	_	Gender=Fem	20	mod	_	Gloss=little.Fem
+19	'yaƙ	ɗan	ADJ	_	Gender=Fem	20	mod	_	Gloss=little.Fem
 20	ƙàramaː	ƙàramaː	ADJ	_	Gender=Fem	18	comp:pred	_	Gloss=small.Fem
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	tum	tun	SCONJ	_	_	18	mod	_	Gloss=since
@@ -3577,7 +3577,7 @@
 # text = àmmaː suː maː na ƙahwaːhuwàː , bâː’a ɗiːbàn na hwar̃uttàː mayyaː .
 # text_en = But the toenails too, you don't take the big ones.
 # text_ortho = ’àmmaa suu maa na ƙahwaahuwàa, baà ’a ɗiibàn na hwaruttàa mayyaa.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	7	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
 2	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@comp	_	Gloss=3Plur
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
 4	na	na/ta	ADP	_	_	7	dislocated@top	_	Gloss=of

@@ -701,26 +701,26 @@
 # text_en = Son of so-and-so (male) and great-son of so-and-so (male), or son of so-and-so (female) and great-son of so-and-so (female) ), or daughter of so-and-so (female) and great-daughter of so-and-so (female), or daugther of so-and-so (male) and great-daughter of so-and-so (male).
 # text_ortho = ɗan waanè jiikàn waanè, koo ɗan wancè jiikàn wancè, koo ’yaw wancè jiikàw wancè koo ’yaw wane jiikàw waanè.
 1	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=son.Masc|wordform=ɗa
-2	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Masc	1	mod	_	Gloss=So_and_So.Masc
+2	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	1	mod	_	Gloss=So_and_So.Masc
 3	jiːkàn	jiːkàː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=grand-child.Masc|wordform=jiːkà
-4	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Masc	3	mod	_	Gloss=So_and_So.Masc
+4	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	3	mod	_	Gloss=So_and_So.Masc
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	koː	koː	CCONJ	_	_	7	cc	_	Gloss=or
 7	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:coord	_	Gloss=son.Masc|wordform=ɗa
-8	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Fem	7	mod	_	Gloss=So_and_So.Fem
+8	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	7	mod	_	Gloss=So_and_So.Fem
 9	jiːkàn	jiːkàː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:appos	_	Gloss=grand-child.Masc|wordform=jiːkà
-10	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Fem	9	mod	_	Gloss=So_and_So.Fem
+10	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	9	mod	_	Gloss=So_and_So.Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	koː	koː	CCONJ	_	_	13	cc	_	Gloss=or
 13	’yaw	’yaː	NOUN	_	Definite=Cons|Gender=Fem	7	conj:coord	_	Gloss=daughter.Fem|wordform=’ya
-14	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Masc	13	mod	_	Gloss=So_and_So.Masc
+14	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	13	mod	_	Gloss=So_and_So.Masc
 15	jiːkàw	jiːkàː	NOUN	_	Definite=Cons|Gender=Fem	13	conj:appos	_	Gloss=grand-daughter.Fem|wordform=jiːkà
-16	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Fem	15	mod	_	Gloss=So_and_So.Fem
+16	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	15	mod	_	Gloss=So_and_So.Fem
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
 18	’yaːw	’yaː	NOUN	_	Definite=Cons|Gender=Fem	13	conj:coord	_	Gloss=daughter.Fem|wordform=’yaː
-19	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Masc	18	mod	_	Gloss=So_and_So.Masc
+19	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	18	mod	_	Gloss=So_and_So.Masc
 20	jiːkàw	jiːkàː	NOUN	_	Definite=Cons|Gender=Fem	18	conj:appos	_	Gloss=grand-daughter.Fem|wordform=jiːkà
-21	waːnè	waːnè	PRON	_	Definite=Indef|Gender=Masc	20	mod	_	Gloss=So_and_So.Masc
+21	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	20	mod	_	Gloss=So_and_So.Masc
 22	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_17-17_split1
@@ -2491,7 +2491,7 @@
 # sent_timecode = 68000, 70000
 # text_en = Or he, the boy who has come to the girl to do "yawo", she, the girl, if she looks at the boy and sees that it is not the one she likes, if she does not like him, even if he wakes her up to chat, she will ignore him, even if he is bothering her.
 # text_ortho = koo kòo šii saᵲmàyiǹ nan dà yaz zoo wuᵲim bùduᵲwaa don sù yi yaawòo. ’ita bùduᵲwaǹ nan, ’in tad diibàa, tad dìibi saᵲmàyiǹ nan, tag ga bàa wanda ta kà soò ba nèe, ’in baà ta soònai, koo yaa taadàa ta, don sù yi hiira, sai tà ƙyaalèe šì, koo šì nàa mutà ɗùmii.
-1	koːkòː	koːkòː	CCONJ	_	PartType=Foc	52	discourse	_	Gloss=or
+1	koːkòː	koːkòː	CCONJ	_	_	52	discourse	_	Gloss=or
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	52	dislocated@comp	_	Gloss=3Masc
 3	sarmàyîn	sarmàyîn	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=youth.Masc.Cons
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
@@ -2803,7 +2803,7 @@
 # text = koː kuma in shinàː sôn bùdurwân nan , shiː sarmàyiː , sai shì tàmbàyeː tà .
 # text_en = If he likes the girl, he the boy; he will ask her.
 # text_ortho = koo kuma ’in šì nàa sòm bùduᵲwaǹ nan, šii saᵲmàyii, sai šì tàmbàyee tà.
-1	koː	koː	CCONJ	_	PartType=Foc	13	discourse	_	Gloss=or
+1	koː	koː	CCONJ	_	_	13	discourse	_	Gloss=or
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 4	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.Prog

@@ -247,7 +247,7 @@
 # text = àmmaː tundà an baː shi , sai à ɗaukoː ta , kât tà shaː noːnòn uwattà , kuma kât tà girma wurin uwattà , sabòːdà kât tà yi kissà .
 # text_en = But, since they have given her to him, let them take her, don't let her drink her mother's milk, don't let her grow at her mother's place lest she should become deceitful.
 # text_ortho = ’àmmaa tun dà ’am baa šì, sai ’à ɗaukoo tà, kat’ tà šaa noonòn ’uwattà, kuma kat’ tà giᵲma wuᵲin ’uwattà, sabòo dà kat’ tà yi kissà.
-1	àmmaː	àmmaː	CCONJ	_	PartType=Foc	8	discourse	_	Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	8	discourse	_	Gloss=but
 2	tundà	tundà	SCONJ	_	_	8	mod	_	Gloss=since
 3	an	yaː	AUX	_	Aspect=Perf|Person=4	2	comp:obj	_	Gloss=4.Perf
 4	baː	baː	VERB	_	_	3	comp:aux	_	Gloss=give
@@ -455,7 +455,7 @@
 1	tun	tun	SCONJ	_	_	17	mod	_	Gloss=since/before
 2	yaːrinyàː	yaːrinyàː	NOUN	_	Definite=Ind|Gender=Fem	3	subj	_	Gloss=girl.Fem
 3	nàː	nàː/kè	AUX	_	_	1	comp:obj	_	Gloss=Pred/Loc
-4	'yaƙ	'yak	ADV	_	Gender=Fem	5	mod	_	Gloss=little.Fem
+4	'yaƙ	'yak	ADJ	_	Gender=Fem	5	mod	_	Gloss=little.Fem
 5	ƙaramaː	ƙaramaː	ADJ	_	Gender=Fem	3	mod	_	Gloss=little.Fem
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	hat	hat	SCONJ	_	_	3	mod	_	Gloss=until
@@ -2813,7 +2813,7 @@
 # text = baːyan kaː tàhi kèːnan , can wurin iːdì: , sarkiː ya’ aikoː dà doːkì: , à kaːwoː makà .
 # text_en = Right after you went there to the ceremony, the chief has sent a horse to give you.
 # text_ortho = baayan kaa tàhi kèe nan, can wuᵲin ’iidìi, saᵲkii ya’ ’aikoo dà dookìi, ’à kaawoo maa.
-1	baːyan	baːyan	SCONJ	_	Definite=Cons	4	comp:pred	_	Gloss=after
+1	baːyan	baːyan	SCONJ	_	_	4	comp:pred	_	Gloss=after
 2	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	1	comp:obj	_	Gloss=2Masc.Perf
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	Gloss=go
 4	kèːnan	kèːnan	AUX	_	_	0	root	_	Gloss=Id/Foc
@@ -4274,7 +4274,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sunàː	nàː/kè	AUX	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur.Pred/Loc
 8	nan	nan	ADV	_	Definite=Def|PronType=Dem	7	comp:pred	_	Gloss=Def
-9	zamaː-zamaː	zamaː	ADV	_	Gender=Masc	8	mod	_	Gloss=stay.Nmlz.Masc.Redup
+9	zamaː-zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc	8	mod	_	Gloss=stay.Nmlz.Redup
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	sunàː	nàː/kè	AUX	_	Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.Pred/Loc
 12	nan	nan	ADV	_	Definite=Def|PronType=Dem	11	comp:pred	_	Gloss=Def
