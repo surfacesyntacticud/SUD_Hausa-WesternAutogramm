@@ -310,9 +310,9 @@
 # text_ortho = duz zallaa sàmàaᵲii, ’in dai saᵲmàyii yaa ’ìsa kiᵲàm bùduᵲwaa, tà yoo mai s’àaᵲìncee, ’iᵲin yaddà su kài kèe nan sabòo dà kiᵲam bùduᵲwaa.
 1	duz	dukà	DET	_	_	3	det	_	Gloss=all
 2	zallaː	zallaː	ADV	_	_	1	mod	_	Gloss=completely
-3	sàmàːriː	sàmàːriː	NOUN	_	Definite=Ind|Number=Plur	22	dislocated@top	_	Gloss=youth.Plur
+3	sàmàːriː	sàmàːriː	NOUN	_	Definite=Ind|Number=Plur	18	dislocated@top	_	Gloss=youth.Plur
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-5	in	in	SCONJ	_	_	22	mod	_	Gloss=if
+5	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 6	dai	dai	PART	_	PartType=Top	5	discourse@top	_	Gloss=however
 7	sarmàyiː	sarmàyiː	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	Gloss=youth.Masc
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.Perf
@@ -325,16 +325,16 @@
 15	mai	mai	PRON	_	Gender=Masc|Person=3	14	comp:obl	_	Gloss=3Masc.Dat
 16	s'àːrìnceː	s'àːrìnceː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:pred	_	Gloss=cuddling.Masc
 17	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-18	irin	irin	ADP	_	_	22	comp:pred	_	Gloss=like
+18	irin	irin	ADP	_	_	0	root	_	Gloss=like
 19	yaddà	yaddà	ADV	_	_	18	mod	_	Gloss=how
 20-21	sukài	_	_	_	_	_	_	_	_
 20	sukà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Number=Plur|Person=3	19	mod@relcl	_	Gloss=3Plur.ProgBkg
 21	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:aux	_	Gloss=do.Nmlz.Masc
-22	kèːnan	kèːnan	AUX	_	PartType=Pred	0	root	_	Gloss=Ident.Emph
-23	sabòːdà	sabòːdà	SCONJ	_	_	22	mod	_	Gloss=because
+22	kèːnan	kèːnan	PART	_	PartType=Foc	21	discourse@foc	_	Gloss=Ident.Emph
+23	sabòːdà	sabòːdà	SCONJ	_	_	21	mod	_	Gloss=because
 24	kiran	kiraː	VERB	_	Definite=Cons	23	comp:obj	_	Gloss=call|wordform=kira
 25	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	24	comp:obj	_	Gloss=girl.Fem
-26	.	.	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+26	.	.	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_10-10_split2
 # speaker_id = *
