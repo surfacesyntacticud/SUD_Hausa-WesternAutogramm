@@ -2702,7 +2702,7 @@
 25	ad	nàː/kè	AUX	_	Background=Yes	24	comp:cleft	_	Gloss=Pred/Loc.Bkg
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
 27	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	26	comp:obj	_	Gloss=horse.Masc
-28	cikin	cikin	ADP	_	_	25	comp:pred	_	Gloss=in(side)
+28	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=in(side)
 29	gidaːna	gidaːna	NOUN	_	Definite=Ind|Gender=Masc|Person=1	28	comp:obj	_	Gloss=house.Masc.1Sing.Poss|wordform=gidaː
 30	?	?	PUNCT	_	_	11	punct	_	Gloss=?
 
@@ -4450,9 +4450,9 @@
 # text = sabòːdà hakà nan nig gwadàː maː , kà san munàː dà kissà , muː maːtaː .
 # text_en = That's why I showed you so that you know that we women are deceitful.
 # text_ortho = sabòo dà hakà nan nig gwadàa maa, kà san mu nàa dà kissà, muu maataa.
-1	sabòːdà	sabòːdà	SCONJ	_	_	0	root	_	Gloss=because
+1	sabòːdà	sabòːdà	SCONJ	_	_	3	mod	_	Gloss=because
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|wordform=hakà
-3	nig	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=1	1	comp:cleft	_	Gloss=1Sing.PerfBkg
+3	nig	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=1	0	root	_	Gloss=1Sing.PerfBkg
 4	gwadàː	gwadàː	VERB	_	_	3	comp:aux	_	Gloss=show
 5	maː	makà	PRON	_	Gender=Masc|Person=2	4	comp:obl	_	Gloss=2Masc.Dat
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -4464,5 +4464,5 @@
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	muː	muː	PRON	_	Number=Plur|Person=1	9	dislocated@subj	_	Gloss=1Plur
 14	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	13	conj:appos	_	Gloss=woman.Plur
-15	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 

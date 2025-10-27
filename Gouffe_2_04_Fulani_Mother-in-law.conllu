@@ -78,16 +78,16 @@
 # text = kai bàhillaːcèː, kanàː sôː kà ci sàràkkuwakkà, kaː rasà wàdà zâː kâi kà ci sàràkkuwakkà.
 # text_en = You, Filani, you want to have sex with your mother-in-law, (but) you don't know how to have sex with your mother-in-law.
 # text_ortho = kai bàhillaacèe, ka nàa soò kà ci sàᵲàkkuwakkà, kaa ᵲasà wàdà zaà kaì kà ci sàᵲàkkuwakkà.
-1	kai	kai	PRON	_	Gender=Masc|Person=2	4	dislocated@subj	_	Gloss=2Masc
+1	kai	kai	PRON	_	Gender=Masc|Person=2	4	vocative	_	Gloss=2Masc
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	1	conj:appos	_	Gloss=Fulani.Masc
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	0	root	_	Gloss=2Masc.Prog
-5	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	6	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-6	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	4	parataxis@conj	_	Gloss=ProgBkg
+5	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
+6	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	5	comp:obj	_	Gloss=ProgBkg
 7	ci	ci	VERB	_	_	6	comp:aux	_	Gloss=have_sex_with
 8	sàràkkuwakkà	sàràkkuwaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	7	comp:obj	_	Gloss=female_in_law.Fem.2Masc.Gen|wordform=sàràkkuwa
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	parataxis@conj	_	Gloss=2Masc.Perf
+10	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	4	parataxis@mod	_	Gloss=2Masc.Perf
 11	rasàː	rasàː	VERB	_	_	10	comp:aux	_	Gloss=lack
 12	wàdà	wàdà	ADV	_	_	11	mod	_	Gloss=how
 13-14	zâː	_	_	_	_	_	_	_	_
