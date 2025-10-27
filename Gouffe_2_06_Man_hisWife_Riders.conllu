@@ -37,7 +37,7 @@
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	2	det	_	Gloss=Prox.Masc
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	Gloss=one
-3	shinàː	nàː/kè	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
+3	shinàː	nàː	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=horse.Masc
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -112,7 +112,7 @@
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	15	mod	_	Gloss=even_if
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	3	subj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-3	nàː	nàː/kè	AUX	_	_	1	comp:obj	_	Gloss=Pred/Loc
+3	nàː	nàː	AUX	_	_	1	comp:obj	_	Gloss=Pred/Loc
 4	nan	nan	ADV	_	Definite=Def|PronType=Dem	3	comp:pred	_	Gloss=Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
@@ -175,7 +175,7 @@
 # text = anà nan zaman duːniyàː , kullun tanàː mai hakànan , ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
-1	anà	nàː/kè	AUX	_	Person=4	7	mod	_	Gloss=4.Pred/Loc
+1	anà	nàː	AUX	_	Person=4	7	mod	_	Gloss=4.Pred/Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	mod	_	Gloss=stay.Nmlz.Masc|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	Definite=Ind|Gender=Fem	3	udep	_	Gloss=world.Fem
@@ -211,34 +211,6 @@
 14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	13	mod	_	Gloss=house.Masc|wordform=gida
 15	dangìntà	dangìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	14	mod	_	Gloss=relatives.Masc.3Fem.Poss|wordform=dangì
 16	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-# sent_id = BC_HAU_Gouffé_2_06_Riders_09-10
-# speaker_id = *
-# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
-# sent_timecode = 8000, 10000
-# text = dà tat toːyà maːsàː , zâː ta wurim bìkiː , tag gayàː mà mijìntà , zâːta tàhiyàː wurim bìkiː .
-# text_en = After frying some pancakes, as she was going to the party, she told her husband that she was going to the party.
-# text_ortho = dà tat tooyà maasàa, zaà ta wuᵲim bìkii, tag gayàa mà mijìntà, zaà ta tàhiyàa wuᵲim bìkii.
-1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
-3	toːyà	toːyàː	VERB	_	_	2	comp:aux	_	Gloss=fry
-4	maːsàː	maːsàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=pancake.Fem
-5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	zâː	zâː	PART	_	PartType=Pred	2	parataxis@conj	_	Gloss=Dir
-7	ta	ta	PRON	_	Gender=Fem|Person=3	6	subj	_	Gloss=3Fem
-8	wurim	wurin	ADP	_	Definite=Cons	6	comp:pred	_	Gloss=at|wordform=wuri
-9	bìkiː	bìkiː	NOUN	_	Definite=Ind	8	comp:obj	_	Gloss=festivity
-10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
-12	gayàː	gayàː	VERB	_	_	11	comp:aux	_	Gloss=tell
-13	mà	mà	ADP	_	_	12	comp:obl	_	Gloss=Dat
-14	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	13	comp:obj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	zâːta	zâː	AUX	_	Gender=Fem|Person=3|Tense=Fut	12	comp:obj@T	_	Gloss=Fut.3Fem|wordform=zâː
-17	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=go.Nmlz.Fem
-18	wurim	wurin	ADP	_	Definite=Cons	17	comp:obl	_	Gloss=at|wordform=wuri
-19	bìkiː	bìkiː	NOUN	_	Definite=Ind	18	comp:obj	_	Gloss=festivity
-20	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_11
 # speaker_id = *
@@ -371,7 +343,7 @@
 # text = shinàː bisà doːkìː , yac cim mà màːtaːtai , sai yaƙ ƙiyàː mutà màganàː , sai yaw wucèː ta .
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
-1	shinàː	nàː/kè	AUX	_	Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
+1	shinàː	nàː	AUX	_	Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
 2	bisà	bisà	ADP	_	_	1	comp:pred	_	Gloss=on_top_of
 3	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj	_	Gloss=horse.Masc
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -417,7 +389,7 @@
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
 17	nèː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Gloss=be.Masc/Plur
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	ab	nàː/kè	AUX	_	Background=Yes	17	comp:cleft	_	Gloss=Pred/Loc.Bkg
+19	ab	kè	AUX	_	Background=Yes	17	comp:cleft	_	Gloss=Pred/Loc.Bkg
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	Gloss=on_top_of
 21	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	Gloss=horse.Masc
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -647,7 +619,7 @@
 3	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=wrapper.Masc.Cons
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	shinàː	nàː/kè	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
+6	shinàː	nàː	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
 8	kabriː	kabriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=thickness.Masc
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -687,7 +659,7 @@
 26	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	24	mod@relcl	_	Gloss=ProgBkg
 27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	Gloss=enter.Nmlz.Fem
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
-29	kuma	kuma	PART	_	PartType=Foc	30	discourse	_	Gloss=also
+29	kuma	kuma	PART	_	PartType=Disc	30	discourse	_	Gloss=also
 30	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	23	parataxis@conj	_	Gloss=there_is.Neg
 31	indà	indà	PRON	_	_	30	subj	_	Gloss=where
 32	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	33	subj	_	Gloss=air.Fem
@@ -866,7 +838,7 @@
 12	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	10	mod@relcl	_	Gloss=ProgBkg
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=enter.Nmlz.Fem
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	kuma	kuma	PART	_	PartType=Foc	16	discourse	_	Gloss=also
+15	kuma	kuma	PART	_	PartType=Disc	16	discourse	_	Gloss=also
 16	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	9	parataxis@conj	_	Gloss=there_is.Neg
 17	indà	indà	PRON	_	_	16	subj	_	Gloss=where
 18	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	19	subj	_	Gloss=air.Fem
@@ -1226,7 +1198,7 @@
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	Gloss=come
 14	wurim	wurin	ADP	_	Definite=Cons	13	comp:obl	_	Gloss=at|wordform=wuri
 15	bìkiː	bìkiː	NOUN	_	Definite=Ind	14	comp:obj	_	Gloss=festivity
-16	shinàː	nàː/kè	AUX	_	Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.Pred/Loc
+16	shinàː	nàː	AUX	_	Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.Pred/Loc
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=horse.Masc
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -1249,7 +1221,7 @@
 # text_en = As they were home, the rider arrived and made his horse slide.
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
-2	sunàː	nàː/kè	AUX	_	Person=3	1	comp:obj	_	Gloss=3.Pl.Pred/Loc|wordform=su
+2	sunàː	nàː	AUX	_	Person=3	1	comp:obj	_	Gloss=3.Pl.Pred/Loc|wordform=su
 3	nan	nan	ADV	_	Definite=Def|PronType=Dem	2	comp:pred	_	Gloss=Def
 4	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	2	mod	_	Gloss=house.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1308,7 +1280,7 @@
 # text = kuma bâːta sôm mài doːkìː .
 # text_en = She did not the rider.
 # text_ortho = kuma baà ta som̀ mài dookìː,
-1	kuma	kuma	PART	_	PartType=Foc	2	discourse	_	Gloss=also
+1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=also
 2	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
 3	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|wordform=sô
 4	mài	mài	ADP	_	Gender=Masc	3	udep	_	Gloss=owner_of.Masc/Fem
@@ -1332,7 +1304,7 @@
 8	sai	sai	ADP	_	_	1	mod	_	Gloss=except
 9	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	Gloss=excrement.Masc
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-11	kuma	kuma	PART	_	PartType=Foc	12	discourse	_	Gloss=also
+11	kuma	kuma	PART	_	PartType=Disc	12	discourse	_	Gloss=also
 12	sai	sai	ADP	_	_	8	conj:coord	_	Gloss=except
 13	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	Gloss=farting.Fem
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -1389,4 +1361,32 @@
 4	sai	sai	ADP	_	_	2	mod	_	Gloss=except
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+# sent_id = BC_HAU_Gouffé_2_06_Riders_09-10
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
+# sent_timecode = 8000, 10000
+# text = dà tat toːyà maːsàː , zâː ta wurim bìkiː , tag gayàː mà mijìntà , zâːta tàhiyàː wurim bìkiː .
+# text_en = After frying some pancakes, as she was going to the party, she told her husband that she was going to the party.
+# text_ortho = dà tat tooyà maasàa, zaà ta wuᵲim bìkii, tag gayàa mà mijìntà, zaà ta tàhiyàa wuᵲim bìkii.
+1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
+2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+3	toːyà	toːyàː	VERB	_	_	2	comp:aux	_	Gloss=fry
+4	maːsàː	maːsàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=pancake.Fem
+5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+6	zâː	zâː	PART	_	PartType=Pred	2	parataxis@conj	_	Gloss=Dir
+7	ta	ta	PRON	_	Gender=Fem|Person=3	6	subj	_	Gloss=3Fem
+8	wurim	wurin	ADP	_	Definite=Cons	6	comp:pred	_	Gloss=at|wordform=wuri
+9	bìkiː	bìkiː	NOUN	_	Definite=Ind	8	comp:obj	_	Gloss=festivity
+10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+11	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+12	gayàː	gayàː	VERB	_	_	11	comp:aux	_	Gloss=tell
+13	mà	mà	ADP	_	_	12	comp:obl	_	Gloss=Dat
+14	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	13	comp:obj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	zâːta	zâː	AUX	_	Gender=Fem|Person=3|Tense=Fut	12	comp:obj@T	_	Gloss=Fut.3Fem|wordform=zâː
+17	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	16	comp:aux	_	Gloss=go.Nmlz.Fem
+18	wurim	wurin	ADP	_	Definite=Cons	17	comp:obl	_	Gloss=at|wordform=wuri
+19	bìkiː	bìkiː	NOUN	_	Definite=Ind	18	comp:obj	_	Gloss=festivity
+20	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
