@@ -32,7 +32,7 @@
 # text = shinàː dà màːtashshì.
 # text_en = He has a wife.
 # text_ortho = ši nàa dà màataššì.
-1	shinàː	nàː*	AUX	_	Person=3	0	root	_	Gloss=3Ma.Pred/Loc
+1	shinàː	nàː/kè	AUX	_	Person=3	0	root	_	Gloss=3Ma.Pred/Loc
 2	dà	dà	ADP	_	_	1	comp:pred	_	Gloss=with
 3	màːtashshì	màːtaːshì	NOUN	_	Definite=Cons|Gender=Fem|Person=3	2	comp:obj	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːta
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -46,7 +46,7 @@
 # text_ortho = ’ita màataatai ta nàa dà ’uwaa,
 1	ita	ita	PRON	_	Gender=Fem|Person=3	3	dislocated@subj	_	Gloss=3Fem
 2	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	1	conj:appos	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
-3	tanàː	nàː*	AUX	_	Gender=Fem|Person=3	0	root	_	Gloss=3FemPred/Loc
+3	tanàː	nàː/kè	AUX	_	Gender=Fem|Person=3	0	root	_	Gloss=3FemPred/Loc
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	uwaː	uwaː	NOUN	_	Definite=Ind|Gender=Fem	4	comp:obj	_	Gloss=mother.Fem
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -66,7 +66,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	ita	ita	PRON	_	Gender=Fem|Person=3	9	dislocated@subj	_	Gloss=3Fem
 8	kàu	kàu	PART	_	PartType=Top	7	discourse@top	_	Gloss=whereas
-9	tanàː	nàː*	AUX	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Pred/Loc
+9	tanàː	nàː/kè	AUX	_	Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Pred/Loc
 10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
 11	kyâu	kyâu	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	Gloss=goodness/beauty.Masc
 12	.	.	PUNCT	_	_	9	punct	_	Gloss=.
@@ -164,7 +164,7 @@
 10	zamantà	zamaːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	9	comp:pred	_	Gloss=stay.Nmlz.Masc.3Fem.Poss|wordform=zama
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	Gloss=3Masc
-13	shîː	yâː	AUX	_	Gender=Masc|Person=3|Tense=Predict	8	parataxis@conj	_	Gloss=3Masc.Predict
+13	shîː	yâː	AUX	_	Gender=Masc|Person=3|Tense=Pred	8	parataxis@conj	_	Gloss=3Masc.Predict
 14	ràkkyi	ràkkyaː	VERB	_	_	13	comp:aux	_	Gloss=accompany
 15	uwattà	uwaːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	14	comp:obj@T	_	Gloss=mother.Fem.3Fem.Poss|wordform=uwa
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -351,7 +351,7 @@
 18	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	15	parataxis@conj	_	Gloss=3Masc.PerfNeg
 19	san	sanìː	VERB	_	_	18	comp:aux	_	Gloss=know
 20	indà	indà	PRON	_	_	19	comp:obj	_	Gloss=where
-21	shikè	kè	AUX	_	Background=Yes|Gender=Masc|Person=3	20	mod@relcl	_	Gloss=3Masc.Pred/Loc.Bkg|wordform=shi
+21	shikè	nàː/kè	AUX	_	Background=Yes|Gender=Masc|Person=3	20	mod@relcl	_	Gloss=3Masc.Pred/Loc.Bkg|wordform=shi
 22	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 23	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 24	ɗiːmuwaː	ɗiːmuwaː	NOUN	_	Definite=Ind|Gender=Fem	25	subj	_	Gloss=confusion.Fem
@@ -372,7 +372,7 @@
 # text = sunàː nan s'àis'àye , dà shiː dà sàràkkuwaː .
 # text_en = They were standing there, him and the mother-in-law.
 # text_ortho = su nàa nan s’àis’àye, dà šii dà sàᵲàkkuwaa.
-1	sunàː	nàː*	AUX	_	Person=3	0	root	_	Gloss=3Pl.Pred/Loc
+1	sunàː	nàː/kè	AUX	_	Person=3	0	root	_	Gloss=3Pl.Pred/Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	s'àis'àye	s'ayàː	VERB	_	Number=Plur	2	mod	_	Gloss=stop.Plur.Stat
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -508,7 +508,7 @@
 1	dàc	dàgà	ADP	_	_	4	mod	_	Gloss=from
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
 3	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	4	subj	_	Gloss=friend.Masc.3Masc.Poss|wordform=àboːkiː
-4	nàː	nàː*	AUX	_	_	0	root	_	Gloss=Pred/Loc
+4	nàː	nàː/kè	AUX	_	_	0	root	_	Gloss=Pred/Loc
 5	làɓe	làɓe	VERB	_	_	4	comp:pred	_	Gloss=hide.Stat
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	4	mod	_	Gloss=in(side)
@@ -526,7 +526,7 @@
 2	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.PerfNeg
 3	san	sanìː	VERB	_	_	2	comp:aux	_	Gloss=know
 4	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	5	subj	_	Gloss=friend.Masc.3Masc.Poss|wordform=àboːkiː
-5	nàː	nàː*	AUX	_	_	3	comp:obj	_	Gloss=Pred/Loc
+5	nàː	nàː/kè	AUX	_	_	3	comp:obj	_	Gloss=Pred/Loc
 6	nam	nan	ADV	_	Deixis=Remt|PronType=Dem	5	comp:pred	_	Gloss=Remt
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	Gloss=Neg
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
