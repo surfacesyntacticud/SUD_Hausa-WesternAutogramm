@@ -181,7 +181,7 @@
 # text = sabòːdà in raːnaː tah hwaːɗi , ’yam maːtaː dà yawàː , sai sù tàːru wuriː gùdaː , sù tàhi hwageː , sù yi wargiː .
 # text_en = Because, if the night has come, many girls, they would gather in one place, they would go outside to play.
 # text_ortho = sabòo dà ’in ᵲaanaa tah hwaaɗi, ’’yam maataa dà yawàa, sai sù tàaᵲu wuᵲii gùdaa, sù tàhi hwagee, sù yi waᵲgii.
-1	sabòːdà	sabòːdà	SCONJ	_	PartType=Foc	13	discourse	_	Gloss=because
+1	sabòːdà	sabòːdà	SCONJ	_	_	13	discourse	_	Gloss=because
 2	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 3	raːnaː	raːnaː	NOUN	_	Definite=Ind	4	subj	_	Gloss=sun
 4	tah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	2	comp:obj	_	Gloss=3Fem.PerfBkg
@@ -1366,7 +1366,7 @@
 # text = tôː kuma bandà hakà nan, shiː sarmàyiː, in yak kìri bùdurwaː, shìnàː sôntà, tanàː sôːnai, sunkà tàhi wurin s'àːrìnceː, sunkà tuːɓèː.
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
 # text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
-1	tôː	tôː	INTJ	_	PartType=Foc	20	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	20	discourse	_	Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	bandà	bandà	ADP	_	_	20	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|wordform=hakà
@@ -1582,7 +1582,7 @@
 # text = tôː kuma dud dà hakà nan, cikin s'àːrìnceː, yanàː yìwuwaː wata raːnaː shì zan s'àːrìnci.
 # text_en = Well, however, with tsarince, it is possible that sometimes, it becomes "tsarinci" (copulation).
 # text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
-1	tôː	tôː	INTJ	_	PartType=Foc	10	discourse	_	Gloss=well
+1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	dud	dukà	PRON	_	_	10	mod	_	Gloss=all
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=with
@@ -2707,7 +2707,7 @@
 # text = ha’ im bùdurwaː taː yàr̃da, yanàː yiwuwaː sù ciː tà.
 # text_en = If the girl accepts, they can even have intercourse.
 # text_ortho = ha’ ’im bùduᵲwaa taa yàrda, ya nàa yiwuwaa sù cii tà.
-1	har̃	har̃	SCONJ	_	PartType=Foc	7	discourse	_	Gloss=until
+1	har̃	har̃	SCONJ	_	_	7	discourse	_	Gloss=until
 2	in	in	SCONJ	_	_	7	mod	_	Gloss=if
 3	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	4	subj	_	Gloss=girl.Fem
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	comp:obj	_	Gloss=3Fem.Perf
@@ -2878,7 +2878,7 @@
 # sent_timecode = 78000, 79000
 # text_en = Because she, the girl, if the boy goes away with her, one day, if they don't come back, the girl will become pregnant.
 # text_ortho = don ’ita bùduᵲwaǹ nan, ’in saᵲmàyii yat tàhi dà ’ita, wani lookàcii baà su daawowwaa, sai bùduᵲwaǹ nan taa yi cikìi.
-1	don	don	SCONJ	_	PartType=Foc	21	discourse	_	Gloss=because
+1	don	don	SCONJ	_	_	21	discourse	_	Gloss=because
 2	ita	ita	PRON	_	Gender=Fem|Person=3	21	dislocated@subj	_	Gloss=3Fem
 3	bùdurwân	bùdurwân	NOUN	_	Definite=Cons|Gender=Fem	2	conj:appos	_	Gloss=girl.Fem.Cons
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
