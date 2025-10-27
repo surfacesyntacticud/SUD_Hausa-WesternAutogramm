@@ -77,7 +77,7 @@
 # text_ortho = kullun ’in tag ga mài dookìː, yaa ’azàa mà dookìːnai sirdìː, yaa saà kaayaa yaa hau, sai šì biyoo gàban gidansù ši nàa zaamiyaa.
 1	kullun	kullun	ADV	_	_	21	mod	_	Gloss=always
 2	in	in	SCONJ	_	_	21	mod	_	Gloss=if
-3	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	2	comp:obj	_	Gloss=3Fem.PerfBkg
+3	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	2	comp:obj	_	Gloss=3Fem.PerfBkg
 4	ga	ganiː	VERB	_	_	3	comp:aux	_	Gloss=see
 5	mài	mài	ADP	_	Gender=Masc	4	comp:obj	_	Gloss=owner_of.Masc/Fem
 6	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	Gloss=horse.Masc
@@ -116,7 +116,7 @@
 4	nan	nan	ADV	_	Definite=Def|PronType=Dem	3	comp:pred	_	Gloss=Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
-7	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.PerfBkg
+7	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.PerfBkg
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	Gloss=see
 9	mài	mài	ADP	_	Gender=Masc	11	subj	_	Gloss=owner_of.Masc/Fem
 10	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	Gloss=horse.Masc
@@ -198,7 +198,7 @@
 1	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=sun/day.Fem.Cons
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def
 3	sai	sai	ADV	_	_	4	mod	_	Gloss=then
-4	tay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+4	tay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	Gloss=effort.Fem
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -220,7 +220,7 @@
 # text_en = After frying some pancakes, as she was going to the party, she told her husband that she was going to the party.
 # text_ortho = dà tat tooyà maasàa, zaà ta wuᵲim bìkii, tag gayàa mà mijìntà, zaà ta tàhiyàa wuᵲim bìkii.
 1	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	toːyà	toːyàː	VERB	_	_	2	comp:aux	_	Gloss=fry
 4	maːsàː	maːsàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=pancake.Fem
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -229,7 +229,7 @@
 8	wurim	wurin	ADP	_	Definite=Cons	6	comp:pred	_	Gloss=at|wordform=wuri
 9	bìkiː	bìkiː	NOUN	_	Definite=Ind	8	comp:obj	_	Gloss=festivity
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+11	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 12	gayàː	gayàː	VERB	_	_	11	comp:aux	_	Gloss=tell
 13	mà	mà	ADP	_	_	12	comp:obl	_	Gloss=Dat
 14	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	13	comp:obj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
@@ -248,7 +248,7 @@
 # text_en = Her husband said : OK, see you later.
 # text_ortho = mijìntà yac ceè : toò, sai kin daawoo.
 1	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	2	subj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-2	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+2	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	:	:	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 5	tôː	tôː	INTJ	_	PartType=Foc	8	discourse	_	Gloss=well
@@ -266,20 +266,20 @@
 # text_en = After she had taken her things, put them on her head, aṅd started going to the party.
 # text_ortho = dà tat ɗàuki kaayantà, ta’ ’azàa bisà kaì, tak kaamà hanyàa, tat tàhi wuᵲim bìkii,
 1	dà	dà	SCONJ	_	_	6	mod	_	Gloss=when
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	ɗàuki	ɗaukaː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	kaːyantà	kaːyaːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	3	comp:obj	_	Gloss=things.Masc.3Fem.Poss|wordform=kaːya
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+6	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 7	azàː	azàː	VERB	_	_	6	comp:aux	_	Gloss=put
 8	bisà	bisà	ADP	_	_	7	comp:obl	_	Gloss=on_top_of
 9	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	Gloss=head.Masc
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	tak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	parataxis@conj	_	Gloss=3Fem.PerfBkg
+11	tak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	6	parataxis@conj	_	Gloss=3Fem.PerfBkg
 12	kaːmà	kaːmàː	VERB	_	_	11	comp:aux	_	Gloss=catch
 13	hanyàː	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	Gloss=path.Fem
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfBkg
+15	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfBkg
 16	tàhi	tàhi	VERB	_	_	15	comp:aux	_	Gloss=go
 17	wurim	wurin	ADP	_	Definite=Cons	16	comp:obl	_	Gloss=at|wordform=wuri
 18	bìkiː	bìkiː	NOUN	_	Definite=Ind	17	comp:obj	_	Gloss=festivity
@@ -294,28 +294,28 @@
 # text_ortho = sai mijìntà yat taašì, yat tàhi wuᵲin wani ’àbookiinai, ya’ ’àᵲi dookìː, yaɗ ɗaᵲmà sirdìː, yas saà kaayaa, yay yi naɗìː.
 1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	3	subj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-3	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+3	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 4	taːshì	taːshì	VERB	_	_	3	comp:aux	_	Gloss=rise
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
 7	tàhi	tàhi	VERB	_	_	6	comp:aux	_	Gloss=go
 8	wurin	wurin	ADP	_	Definite=Cons	7	comp:obl	_	Gloss=at|wordform=wuri
 9	wani	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Masc
 10	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obj	_	Gloss=friend.Masc.3Masc.Poss|wordform=àboːkiː
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
+12	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
 13	àri	àraː	VERB	_	_	12	comp:aux	_	Gloss=borow
 14	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	13	comp:obj	_	Gloss=horse.Masc
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.PerfBkg
+16	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.PerfBkg
 17	ɗarmà	ɗarmàː	VERB	_	_	16	comp:aux	_	Gloss=tie
 18	sir̃dìː	sir̃dìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=saddle.Masc
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
+20	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
 21	sâː	sâː	VERB	_	_	20	comp:aux	_	Gloss=put
 22	kaːyaː	kaːyaː	NOUN	_	Definite=Ind|Gender=Masc	21	comp:obj	_	Gloss=things.Masc
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	20	parataxis@conj	_	Gloss=3Masc.PerfBkg
+24	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	20	parataxis@conj	_	Gloss=3Masc.PerfBkg
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	naɗìː	naɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	25	comp:pred	_	Gloss=wind.Nmlz.Masc
 27	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -329,7 +329,7 @@
 # text_ortho = ’àbun dà yay yi naɗìː, don kam̀ màataatai tà gaanèe ši.
 1	àbùn	àbù	NOUN	_	Definite=Cons|Gender=Masc	7	dislocated@subj	_	Gloss=thing.Masc|wordform=àbù
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.PerfBkg
+3	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.PerfBkg
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	naɗìː	naɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=wind.Nmlz.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -349,18 +349,18 @@
 # text_en = After mounting the horse, he went in the same direction as his wife.
 # text_ortho = dà yah hau dookìː, sai yab bi hanyàa, waddà màataatai tab bi.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	yah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	hau	hau	VERB	_	_	2	comp:aux	_	Gloss=climb/start
 4	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=horse.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 8	bi	bi	VERB	_	_	7	comp:aux	_	Gloss=follow
 9	hanyàː	hanyàː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:obj	_	Gloss=path.Fem
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	14	comp:obj	_	Gloss=who.Fem
 12	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	13	subj	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
-13	tab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	9	mod@relcl	_	Gloss=3Fem.PerfBkg
+13	tab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	9	mod@relcl	_	Gloss=3Fem.PerfBkg
 14	bi	bi	VERB	_	_	13	comp:aux	_	Gloss=follow
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -375,19 +375,19 @@
 2	bisà	bisà	ADP	_	_	1	comp:pred	_	Gloss=on_top_of
 3	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj	_	Gloss=horse.Masc
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+5	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 6	cim	cim	VERB	_	_	5	comp:aux	_	Gloss=overtake
 7	mà	mà	ADP	_	_	6	comp:obl	_	Gloss=Dat
 8	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	7	comp:obj	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	11	mod	_	Gloss=then
-11	yaƙ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfBkg
+11	yaƙ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfBkg
 12	ƙiyàː	ƙiyàː	VERB	_	_	11	comp:aux	_	Gloss=refuse
 13	mutà	mutà	PRON	_	Gender=Fem|Person=3	12	comp:obl	_	Gloss=3Fem.Dat
 14	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj@T	_	Gloss=talk.Fem
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 16	sai	sai	ADV	_	_	17	mod	_	Gloss=then
-17	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	11	parataxis@conj	_	Gloss=3Masc.PerfBkg
+17	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	11	parataxis@conj	_	Gloss=3Masc.PerfBkg
 18	wucèː	wucèː	VERB	_	_	17	comp:aux	_	Gloss=pass_by
 19	ta	ta	PRON	_	Gender=Fem|Person=3	18	comp:obj	_	Gloss=3Fem
 20	.	.	PUNCT	_	_	5	punct	_	Gloss=.
@@ -417,7 +417,7 @@
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
 17	nèː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Gloss=be.Masc/Plur
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	ab	ak	AUX	_	_	17	comp:cleft	_	Background=Yes|Gloss=Pred/Loc.Bkg
+19	ab	ak	AUX	_	Background=Yes	17	comp:cleft	_	Gloss=Pred/Loc.Bkg
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	Gloss=on_top_of
 21	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	Gloss=horse.Masc
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -430,10 +430,10 @@
 # text_en = As he went on, he arrived to the town where she was going, he stopped at another house, he did not stop where the party was taking place.
 # text_ortho = dà yat tàhiyàatai, yaz zoo gàᵲin dà zaà ta, sai yas sàbka wani gidaa, bài sàbka ’indà ’a kà bìkii ba.
 1	dà	dà	SCONJ	_	_	5	mod	_	Gloss=when
-2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	2	comp:aux	_	Gloss=go.Nmlz.Fem.3Masc.Poss|wordform=tàhiyàː
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+5	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 6	zoː	zoː	VERB	_	_	5	comp:aux	_	Gloss=come
 7	gàrin	gàriː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj@G	_	Gloss=town.Masc|wordform=gàri
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=that
@@ -441,7 +441,7 @@
 10	ta	ta	PRON	_	Gender=Fem|Person=3	9	subj	_	Gloss=3Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	13	mod	_	Gloss=then
-13	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfBkg
+13	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfBkg
 14	sàbka	sàbka	VERB	_	_	13	comp:aux	_	Gloss=dismount
 15	wani	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Masc
 16	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:obj@L	_	Gloss=house.Masc
@@ -449,7 +449,7 @@
 18	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	13	parataxis@conj	_	Gloss=3Masc.PerfNeg
 19	sàbka	sàbka	VERB	_	_	18	comp:aux	_	Gloss=dismount
 20	indà	indà	ADV	_	_	19	comp:obj	_	Gloss=where
-21	akà	kà	AUX	_	Aspect=ProgBkg|Person=4	20	mod@relcl	_	Gloss=4.ProgBkg
+21	akà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Person=4	20	mod@relcl	_	Gloss=4.ProgBkg
 22	bìkiː	bìkiː	NOUN	_	Definite=Ind	21	comp:aux	_	Gloss=festivity
 23	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 24	.	.	PUNCT	_	_	5	punct	_	Gloss=.
@@ -464,13 +464,13 @@
 1	ita	ita	PRON	_	Gender=Fem|Person=3	7	dislocated@subj	_	Gloss=3Fem
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-4	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem.PerfBkg
+4	taz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem.PerfBkg
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	Gloss=come
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-7	tas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+7	tas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 8	sàbka	sàbka	VERB	_	_	7	comp:aux	_	Gloss=dismount
 9	indà	indà	ADV	_	_	8	comp:obj	_	Gloss=where
-10	akà	kà	AUX	_	Aspect=ProgBkg|Person=4	9	mod@relcl	_	Gloss=4.ProgBkg
+10	akà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Person=4	9	mod@relcl	_	Gloss=4.ProgBkg
 11	bìkiː	bìkiː	NOUN	_	Definite=Ind	10	comp:aux	_	Gloss=festivity
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -490,7 +490,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	har	hat	SCONJ	_	_	6	mod	_	Gloss=until
 9	raːnaː	raːnaː	NOUN	_	Definite=Ind|Gender=Fem	10	subj	_	Gloss=sun/day.Fem
-10	tah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem.PerfBkg
+10	tah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem.PerfBkg
 11	hwaːɗì	hwaːɗì	VERB	_	_	10	comp:aux	_	Gloss=fall
 12	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -503,16 +503,16 @@
 # text_ortho = dà ᵲaanaa tah hwaaɗì, daᵲee yay yi, sai mijìntà yaz zoo, bà tà san šii ba nèe, yay yi kiᵲàntà, yac ceè ’in taa ci ’àbunci, ši nàa màganàa dà ’ita, can ’indà yas sàbka, wuᵲin dookìːnai.
 1	dà	dà	SCONJ	_	_	12	mod	_	Gloss=when
 2	raːnaː	raːnaː	NOUN	_	Definite=Ind|Gender=Fem	3	subj	_	Gloss=sun/day.Fem
-3	tah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+3	tah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 4	hwaːɗì	hwaːɗì	VERB	_	_	3	comp:aux	_	Gloss=fall
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	dareː	dareː	NOUN	_	Definite=Ind|Gender=Masc	7	subj	_	Gloss=night.Masc
-7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
+7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 11	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	12	subj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	Gloss=come
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	12	parataxis@mod	_	Gloss=3Fem.PerfNeg
@@ -521,11 +521,11 @@
 18	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	Gloss=Neg
 19	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	16	comp:obj	_	Gloss=be.Masc/Plur
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.PerfBkg
+21	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.PerfBkg
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	kiràntà	kiràːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	22	comp:pred	_	Gloss=call.Nmlz.Masc.3Fem.Poss|wordform=kirà
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-25	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	21	parataxis@conj	_	Gloss=3Masc.PerfBkg
+25	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	21	parataxis@conj	_	Gloss=3Masc.PerfBkg
 26	cêː	cêː	VERB	_	_	25	comp:aux	_	Gloss=say
 27	in	in	SCONJ	_	_	32	mod	_	Gloss=if
 28	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	27	comp:obj	_	Gloss=3Fem.Perf
@@ -539,7 +539,7 @@
 36	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 37	can	can	ADV	_	Deixis=Remt|PronType=Dem	33	mod	_	Gloss=Remt
 38	indà	indà	ADV	_	_	37	mod@relcl	_	Gloss=where
-39	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	38	comp:obj	_	Gloss=3Masc.PerfBkg
+39	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	38	comp:obj	_	Gloss=3Masc.PerfBkg
 40	sàbka	sàbka	VERB	_	_	39	comp:aux	_	Gloss=dismount
 41	,	,	PUNCT	_	_	42	punct	_	Gloss=PUNCT
 42	wurin	wurin	ADP	_	Definite=Cons	38	conj:appos	_	Gloss=at|wordform=wuri
@@ -554,18 +554,18 @@
 # text_en = When he told her like this, as soon as she had taken her food, she left she was happy, she had got a rider, she did not know it was her husband.
 # text_ortho = dà yag gayàa mutà hakà nan, koo dà tac ci ’àbunci, sai tat tahoo, ta nàa ta murnàa, taa sàamu mài dookìː, bà tà san mijìntà ba nèe.
 1	dà	dà	SCONJ	_	_	13	mod	_	Gloss=when
-2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	gayàː	gayàː	VERB	_	_	2	comp:aux	_	Gloss=tell
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	hakànan	hakànan	ADV	_	_	3	mod	_	Gloss=thus|wordform=hakà
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	koːdà	koːdà	SCONJ	_	_	13	mod	_	Gloss=as_soon_as/even_if
-8	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.PerfBkg
+8	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.PerfBkg
 9	ci	ci	VERB	_	_	8	comp:aux	_	Gloss=eat
 10	àbunci	àbunci	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	Gloss=food.Masc
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	13	mod	_	Gloss=then
-13	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+13	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 14	tahoː	tàhi	VERB	_	_	13	comp:aux	_	Gloss=go.Dir|wordform=tah
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	parataxis@conj	_	Gloss=3Fem.Prog
@@ -592,21 +592,21 @@
 # text_en = When she arrived at his place, they talked, he said she should sleep at his place, she agreed.
 # text_ortho = dà taz zoo wuᵲiinai, sunkà yi màganàa, yac ceè tà kwaana wuᵲiinai, tac ceè taa yàrda.
 1	dà	dà	SCONJ	_	_	6	mod	_	Gloss=when
-2	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	taz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	Gloss=come
 4	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	3	comp:obj@L	_	Gloss=place.Masc.3Masc.Poss|wordform=wuriː
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
+6	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:pred	_	Gloss=talk.Fem
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
+10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
 12	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	11	comp:obj	_	Gloss=3Fem.Aor
 13	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=spend_night.Nmlz.Masc
 14	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	13	comp:obj@L	_	Gloss=place.Masc.3Masc.Poss|wordform=wuriː
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	10	parataxis@conj	_	Gloss=3Fem.PerfBkg
+16	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	10	parataxis@conj	_	Gloss=3Fem.PerfBkg
 17	cêː	cêː	VERB	_	_	16	comp:aux	_	Gloss=say
 18	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	17	comp:obj	_	Gloss=3Fem.Perf
 19	yàr̃da	yàr̃da	VERB	_	_	18	comp:aux	_	Gloss=agree
@@ -661,12 +661,12 @@
 # text_ortho = ’im mùtun yaᵲ ᵲùhwa dà šii, yat tattàakee, ’iskàa baà ya šìgaa ciki, sai mùtun šì yi ta zuhwàa, baà ’indà ’iskàa kà šìgaa, kuma baà ’indà ’iskàa kà hìtaa.
 1	im	in	SCONJ	_	_	18	mod	_	Gloss=if
 2	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	3	subj	_	Gloss=person.Masc
-3	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+3	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 4	rùhwa	rùhwa	VERB	_	_	3	comp:aux	_	Gloss=be_covered
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
+8	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
 9	tattàːkeː	tattàːkeː	VERB	_	_	8	comp:aux	_	Gloss=stay_put
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	Gloss=air.Fem
@@ -684,14 +684,14 @@
 23	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	18	parataxis	_	Gloss=there_is.Neg
 24	indà	indà	PRON	_	_	23	subj	_	Gloss=where
 25	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	26	subj	_	Gloss=air.Fem
-26	kà	kà	AUX	_	Aspect=ProgBkg	24	mod@relcl	_	Gloss=ProgBkg
+26	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	24	mod@relcl	_	Gloss=ProgBkg
 27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	Gloss=enter.Nmlz.Fem
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	kuma	kuma	PART	_	PartType=Foc	30	discourse	_	Gloss=also
 30	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	23	parataxis@conj	_	Gloss=there_is.Neg
 31	indà	indà	PRON	_	_	30	subj	_	Gloss=where
 32	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	33	subj	_	Gloss=air.Fem
-33	kà	kà	AUX	_	Aspect=ProgBkg	31	mod@relcl	_	Gloss=ProgBkg
+33	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	31	mod@relcl	_	Gloss=ProgBkg
 34	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	33	comp:aux	_	Gloss=get_out.Nmlz.Fem
 35	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
@@ -703,19 +703,19 @@
 # text_en = When they talked about going to bed with her, she said she agreed, he said she should go and prepare herself, prepare herself to go to bed.
 # text_ortho = dà sunkà yi màganàk kwaanaa dà ’ita, tac ceè taa yàrdaa, yac ceè tà tàhi tà šiᵲyoo, tà šiᵲyoo šiᵲìn kwaanaa.
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	màganàk	màganàː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:pred	_	Gloss=talk.Fem|wordform=màganà
 5	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	mod	_	Gloss=spend_night.Nmlz.Masc
 6	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 7	ita	ita	PRON	_	Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-9	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+9	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	10	comp:obj	_	Gloss=3Fem.Perf
 12	yàr̃da	yàr̃da	VERB	_	_	11	comp:aux	_	Gloss=agree
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfBkg
+14	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfBkg
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	Gloss=say
 16	tà	ø	AUX	_	Aspect=Aor|Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem.Aor
 17	tàhi	tàhi	VERB	_	_	16	comp:aux	_	Gloss=go
@@ -736,17 +736,17 @@
 # text_en = After she had gonehad prepared herself, she went to his place, then they went to bed.
 # text_ortho = dà tat tàhi taš šiᵲyoo, taz zoo wuᵲiinai, sai sunkà yi kwànce.
 1	dà	dà	SCONJ	_	_	4	mod	_	Gloss=when
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	Gloss=go
-4	tash	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+4	tash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 5	shiryoː	shiryàː	VERB	_	_	4	comp:aux	_	Gloss=prepare.Dir|wordform=shiry
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	4	parataxis@conj	_	Gloss=3Fem.PerfBkg
+7	taz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	4	parataxis@conj	_	Gloss=3Fem.PerfBkg
 8	zoː	zoː	VERB	_	_	7	comp:aux	_	Gloss=come
 9	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obl	_	Gloss=place.Masc.3Masc.Poss|wordform=wuriː
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	12	mod	_	Gloss=then
-12	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.PerfBkg
+12	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.PerfBkg
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	kwântaː	kwântaː	VERB	_	_	13	comp:pred	_	Gloss=lie_down.Part
 15	.	.	PUNCT	_	_	4	punct	_	Gloss=.
@@ -759,19 +759,19 @@
 # text_en = When they went to bed, he took that heavy wrapper, he said they should cover themselves with it.
 # text_ortho = dà sunkà yi kwànce, sai yaɗ ɗaukoo zanèn ga mài kabᵲii, yac ceè sù ᵲùhwa dà šii.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kwântaː	kwântaː	VERB	_	_	3	comp:pred	_	Gloss=lie_down.Part
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-7	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+7	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	Gloss=take.Dir|wordform=ɗauk
 9	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=wrapper.Masc.Cons
 10	ga	ga	DET	_	Deixis=Prox|PronType=Dem	9	det	_	Gloss=Prox
 11	mài	mài	ADP	_	Gender=Masc	9	mod	_	Gloss=owner_of.Masc/Fem
 12	kabriː	kabriː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	Gloss=thickness.Masc
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
+14	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	Gloss=say
 16	sù	ø	AUX	_	Aspect=Aor|Number=Plur|Person=3	15	comp:obj@T	_	Gloss=3Plur.Aor
 17	rùhwa	rùhwa	VERB	_	_	16	comp:aux	_	Gloss=be_covered
@@ -786,7 +786,7 @@
 # text = sunkà rùhwa dà zanèː.
 # text_en = They covered themselves with the wrapper.
 # text_ortho = sunkà ᵲùhwa dà zanèe.
-1	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
+1	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
 2	rùhwa	rùhwa	VERB	_	_	1	comp:aux	_	Gloss=be_covered
 3	dà	dà	ADP	_	_	2	comp:obl	_	Gloss=with
 4	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=wrapper.Masc
@@ -800,13 +800,13 @@
 # text_en = After they had covered themselves with the wrapper, he pulled her close to his body and hugged her.
 # text_ortho = dà sunkà ᵲùhwa dà zanèe, sai yaj jaawoo tà, kusa gà jìkiinai, yaᵲ ᵲungùmee ta.
 1	dà	dà	SCONJ	_	_	8	mod	_	Gloss=when
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
 3	rùhwa	rùhwa	VERB	_	_	2	comp:aux	_	Gloss=be_covered
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=wrapper.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
-8	yaj	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+8	yaj	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 9	jawoː	jaː	VERB	_	_	8	comp:aux	_	Gloss=pull.Dir|wordform=jaw
 10	ta	ta	PRON	_	Gender=Fem|Person=3	9	comp:obj	_	Gloss=3Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -814,7 +814,7 @@
 13	gà	gà	ADP	_	_	9	comp:obl	_	Gloss=at
 14	jìkiːnai	jìkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	13	comp:obj	_	Gloss=body.Masc.3Masc.Poss|wordform=jìkiː
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=3Masc.PerfBkg
+16	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	8	parataxis@conj	_	Gloss=3Masc.PerfBkg
 17	rungùmeː	rungùmeː	VERB	_	_	16	comp:aux	_	Gloss=hug
 18	ta	ta	PRON	_	Gender=Fem|Person=3	17	comp:obj	_	Gloss=3Fem
 19	.	.	PUNCT	_	_	8	punct	_	Gloss=.
@@ -827,12 +827,12 @@
 # text_en = After hugging her, he gathered the legs, head and arms, and secured the wrapper over.
 # text_ortho = dà yaᵲ ᵲungùmee ta, sai yas saà ƙahwàahuu, dà kaì dà hannuwàa, yat tattàakè zanèe.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	rungùmeː	rungùmeː	VERB	_	_	2	comp:aux	_	Gloss=hug
 4	ta	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-7	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+7	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	Gloss=put
 9	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	Definite=Ind|Number=Plur	8	comp:obj	_	Gloss=foot/leg.Plur
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
@@ -840,7 +840,7 @@
 12	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 13	hannuwàː	hannuː	NOUN	_	Definite=Ind|Number=Plur	11	conj:coord	_	Gloss=hand/arm.Plur
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
+15	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
 16	tattàːkè	tattàːkeː	VERB	_	_	15	comp:aux	_	Gloss=stay_put
 17	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	Gloss=wrapper.Masc
 18	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -863,14 +863,14 @@
 9	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 10	indà	indà	PRON	_	_	9	subj	_	Gloss=where
 11	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	Gloss=air.Fem
-12	kà	kà	AUX	_	Aspect=ProgBkg	10	mod@relcl	_	Gloss=ProgBkg
+12	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	10	mod@relcl	_	Gloss=ProgBkg
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=enter.Nmlz.Fem
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	kuma	kuma	PART	_	PartType=Foc	16	discourse	_	Gloss=also
 16	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	9	parataxis@conj	_	Gloss=there_is.Neg
 17	indà	indà	PRON	_	_	16	subj	_	Gloss=where
 18	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	19	subj	_	Gloss=air.Fem
-19	kà	kà	AUX	_	Aspect=ProgBkg	17	mod@relcl	_	Gloss=ProgBkg
+19	kà	kà	AUX	_	Aspect=ProgBkg|Background=Yes	17	mod@relcl	_	Gloss=ProgBkg
 20	hìtaː	hìtaː	VERB	_	ExtPos=NOUN|Gender=Fem	19	comp:aux	_	Gloss=get_out.Nmlz.Fem
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -890,7 +890,7 @@
 7	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	6	mod	_	Gloss=house.Masc
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 11	ci	ci	VERB	_	_	10	comp:aux	_	Gloss=eat
 12	waːkeː	waːkeː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	Gloss=beans.Masc
 13	.	.	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -922,7 +922,7 @@
 # text_en = As he was covering her in the wrapper, he lifted his leg and farted.
 # text_ortho = dà yaᵲ ᵲuhèe ta cikin zanèe, sai šì hankàɗà ƙahwàa, šì yi mutà tuusàa.
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
-2	yar	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	ruhèː	ruhèː	VERB	_	_	2	comp:aux	_	Gloss=close
 4	ta	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
 5	cikin	cikin	ADP	_	_	3	comp:obl	_	Gloss=in(side)
@@ -947,12 +947,12 @@
 # text_en = When he farted, she smelled the stench, she wanted to lift the wrapper and move her head outside because of the stench of the fart.
 # text_ortho = ’in yam mutà tuusàa, ’in taj ji ɗwai, ta nàa soǹ tà kwaaᵲè zanèe, tà hiddoo kaǹtà gà hiilii, sabàd dà ɗwan tuusàa.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
 4	tuːsàː	tuːsàː	NOUN	_	Definite=Ind|Gender=Fem	2	comp:pred	_	Gloss=farting.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-7	taj	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.PerfBkg
+7	taj	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.PerfBkg
 8	ji	jiyàː	VERB	_	_	7	comp:aux	_	Gloss=feel/hear
 9	ɗwai	ɗwai	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	Gloss=stench.Masc
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1020,7 +1020,7 @@
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	ɗwai	ɗwai	NOUN	_	Definite=Ind|Gender=Masc	7	subj	_	Gloss=stench.Masc
 7-8	yam	_	_	_	_	_	_	_	_
-7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg|wordform=yaː
+7	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg|wordform=yaː
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	mutà	mutà	PRON	_	Gender=Fem|Person=3	8	comp:obl	_	Gloss=3Fem.Dat
 10	yawàː	yawàː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:pred	_	Gloss=quantity.Masc
@@ -1040,7 +1040,7 @@
 # text_en = When saw she was suffering, she was going to die, lest the stench should kill her, he lifted the wrapper.
 # text_ortho = dà yag ga taa wàhalàa, ta nàa bìɗam muttuwàa, don kaɗ̀ ɗwai šì kašèe ta, sai yak kwaaᵲè zanèe.
 1	dà	dà	SCONJ	_	_	19	mod	_	Gloss=when
-2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem.Perf
 5	wàhalàː	wàhalàː	VERB	_	_	4	comp:aux	_	Gloss=suffer
@@ -1057,7 +1057,7 @@
 16	ta	ta	PRON	_	Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem
 17	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	19	mod	_	Gloss=then
-19	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+19	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 20	kwaːrè	kwaːrèː	VERB	_	_	19	comp:aux	_	Gloss=peel_off
 21	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	Gloss=wrapper.Masc
 22	.	.	PUNCT	_	_	19	punct	_	Gloss=.
@@ -1070,13 +1070,13 @@
 # text_en = As soon as he lifted the wrapper, she, as soon as she got up, she did not say good bye, she started running, she went away.
 # text_ortho = koo dà yak kwaaᵲè zanèe, ’ita koo dà tat taašì, baabù ban kwaanaa, sai tad dakàa dà gudùː, tat tàhiyàttà,
 1	koːdà	koːdà	SCONJ	_	_	11	mod	_	Gloss=as_soon_as/even_if
-2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
 3	kwaːrè	kwaːrèː	VERB	_	_	2	comp:aux	_	Gloss=peel_off
 4	zanèː	zanèː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=wrapper.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated@subj	_	Gloss=3Fem
 7	koːdà	koːdà	SCONJ	_	_	11	mod	_	Gloss=as_soon_as/even_if
-8	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.PerfBkg
+8	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.PerfBkg
 9	taːshì	taːshì	VERB	_	_	8	comp:aux	_	Gloss=rise
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	baːbù	bâː	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
@@ -1084,12 +1084,12 @@
 13	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	12	compound	_	Gloss=spend_night.Nmlz.Masc
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=then
-16	tad	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfBkg
+16	tad	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfBkg
 17	dakàː	dakàː	VERB	_	_	16	comp:aux	_	Gloss=pound
 18	dà	dà	ADP	_	_	17	mod	_	Gloss=with
 19	gudùː	gudùː	NOUN	_	Definite=Ind|Gender=Masc	18	comp:obj	_	Gloss=running.Masc
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.PerfBkg
+21	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.PerfBkg
 22	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3	21	comp:aux	_	Gloss=go.Nmlz.Fem.3Fem.Poss|wordform=tàhiyà
 23	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -1117,28 +1117,28 @@
 # text_en = When she left, he too got up, saddled his horse, took his caparison, got on his horse and left.
 # text_ortho = dà tat tàhiyàttà, šii kuma yat taašì, yam maà dookìːnai sirdìː, yaɗ ɗàuki kaayaanai, yah hau dookìːnai, yat tàhiyàatai.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3	2	comp:aux	_	Gloss=go.Nmlz.Fem.3Fem.Poss|wordform=tàhiyà
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=3Masc
 6	kuma	kuma	PART	_	PartType=Top	5	discourse@top	_	Gloss=also
-7	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+7	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 8	taːshì	taːshì	VERB	_	_	7	comp:aux	_	Gloss=rise
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
+10	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
 11	mâː	mâː	ADP	_	_	10	comp:obl	_	Gloss=Dat
 12	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	11	comp:obj	_	Gloss=horse.Masc.3Masc.Poss|wordform=doːkìː
 13	sir̃dìː	sir̃dìː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj@T	_	Gloss=saddle.Masc
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-15	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfBkg
+15	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfBkg
 16	ɗàuki	ɗaukaː	VERB	_	_	15	comp:aux	_	Gloss=take
 17	kaːyaːnai	kaːyaːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	16	comp:obj	_	Gloss=things.Masc.3Masc.Poss|wordform=kaːyaː
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	yah	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	15	parataxis@conj	_	Gloss=3Masc.PerfBkg
+19	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	15	parataxis@conj	_	Gloss=3Masc.PerfBkg
 20	hau	hau	VERB	_	_	19	comp:aux	_	Gloss=climb/start
 21	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	20	comp:obj	_	Gloss=horse.Masc.3Masc.Poss|wordform=doːkìː
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	19	parataxis@conj	_	Gloss=3Masc.PerfBkg
+23	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	19	parataxis@conj	_	Gloss=3Masc.PerfBkg
 24	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	23	comp:aux	_	Gloss=go.Nmlz.Fem.3Masc.Poss|wordform=tàhiyàː
 25	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -1149,27 +1149,27 @@
 # text = yaz zoː gidam mài doːkìː , yab baː shì doːkìːnai , yam mai gòːdiyaː , sunkà yi ban kwaːnaː , yat tàhi gidaːnai .
 # text_en = He went to the house of the owner of the horse, he gave him his horse, he thanked him, they parted, he went back home.
 # text_ortho = yaz zoo gidam mài dookìː, yab baa šì dookìːnai, yam mai gòodiyaa, sunkà yi ban kwaanaa, yat tàhi gidaanai.
-1	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 2	zoː	zoː	VERB	_	_	1	comp:aux	_	Gloss=come
 3	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj@G	_	Gloss=house.Masc|wordform=gida
 4	mài	mài	ADP	_	Gender=Masc	3	mod	_	Gloss=owner_of.Masc/Fem
 5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=horse.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg
+7	yab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg
 8	baː	baː	VERB	_	_	7	comp:aux	_	Gloss=give
 9	shì	shi	PRON	_	Gender=Masc|Person=3	8	comp:obj@R	_	Gloss=3Masc
 10	doːkìːnai	doːkìːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	8	comp:obj@T	_	Gloss=horse.Masc.3Masc.Poss|wordform=doːkìː
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	yam	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
+12	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.PerfBkg
 13	mai	mai	PRON	_	Gender=Masc|Person=3	12	comp:obl	_	Gloss=3Masc.Dat
 14	gòːdiyaː	gòːdiyaː	NOUN	_	Definite=Ind|Gender=Fem	17	comp:pred	_	Gloss=thanks.Fem
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.PerfBkg
+16	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.PerfBkg
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	17	comp:pred	_	Gloss=give.Nmlz.Masc
 19	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	18	compound	_	Gloss=spend_night.Nmlz.Masc
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-21	yat	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
+21	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
 22	tàhi	tàhi	VERB	_	_	21	comp:aux	_	Gloss=go
 23	gidaːnai	gidaːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	22	comp:obj@G	_	Gloss=house.Masc.3Masc.Poss|wordform=gidaː
 24	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -1181,9 +1181,9 @@
 # text = yaz zoː yay yi zamaːnai cikin gidaːnai , kàmab bài zoː koː’ìnaː ba , ham màcceːnai taz zoː dàw wurim bìkiː ,
 # text_en = He went to settle in his house as if he had not gone anywhere, until his wive came back from the party.
 # text_ortho = yaz zoo yay yi zamaanai cikin gidaanai, kàmab bài zoo koo ’ìnaa ba, ham màcceenai taz zoo, dàw wuᵲim bìkii.
-1	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 2	zoː	zoː	VERB	_	_	1	comp:aux	_	Gloss=come
-3	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg
+3	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.PerfBkg
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	zamaːnai	zamaːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	4	comp:pred	_	Gloss=stay.Nmlz.Masc.3Masc.Poss|wordform=zamaː
 6	cikin	cikin	ADP	_	_	4	mod	_	Gloss=in(side)
@@ -1197,7 +1197,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	ham	hat	SCONJ	_	_	4	mod	_	Gloss=until
 16	màcceːnai	màccenai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	17	subj	_	Gloss=woman.Fem.3Masc.Poss|wordform=màcceː
-17	taz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem.PerfBkg
+17	taz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem.PerfBkg
 18	zoː	zoː	VERB	_	_	17	comp:aux	_	Gloss=come
 19	dàw	dàgà	ADP	_	_	18	comp:obl	_	Gloss=from
 20	wurim	wurin	ADP	_	_	19	comp:obj	_	Gloss=at
@@ -1211,7 +1211,7 @@
 # text = ta’ iskèː shi gidaː , bàtà san shiː ba neː , yaz zoː wurim bìkiː shinàː dà doːkìː , yak kìreː ta , yay yi ta mutà tuːsàː .
 # text_en = She found him at home without knowing it was him who had gone to the party with a horse, had called her, and had farted for her.
 # text_ortho = ta’ ’iskèe ši gidaa, bà tà san šii ba nèe, yaz zoo wuᵲim bìkii, ši nàa dà dookìː, yak kìᵲee tà, yay yi ta mutà tuusàa.
-1	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+1	ta’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 2	iskèː	iskèː	VERB	_	_	1	comp:aux	_	Gloss=find
 3	shi	shi	PRON	_	Gender=Masc|Person=3	2	comp:obj@T	_	Gloss=3Masc
 4	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj@L	_	Gloss=house.Masc
@@ -1222,7 +1222,7 @@
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	Gloss=Neg
 10	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=be.Masc/Plur
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	10	comp:cleft	_	Gloss=3Masc.PerfBkg
+12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	comp:cleft	_	Gloss=3Masc.PerfBkg
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	Gloss=come
 14	wurim	wurin	ADP	_	Definite=Cons	13	comp:obl	_	Gloss=at|wordform=wuri
 15	bìkiː	bìkiː	NOUN	_	Definite=Ind	14	comp:obj	_	Gloss=festivity
@@ -1230,11 +1230,11 @@
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=horse.Masc
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	yak	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
+20	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.PerfBkg
 21	kìreː	kìraː	VERB	_	_	20	comp:aux	_	Gloss=call
 22	ta	ta	PRON	_	Gender=Fem|Person=3	21	comp:obj	_	Gloss=3Fem
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	yay	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	20	parataxis@conj	_	Gloss=3Masc.PerfBkg
+24	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	20	parataxis@conj	_	Gloss=3Masc.PerfBkg
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
 26	ta	ta	PART	_	Aspect=Iter|PartType=Adv	25	compound:prt	_	Gloss=Iter
 27	mutà	mutà	PRON	_	Gender=Fem|Person=3	25	comp:obl	_	Gloss=3Fem.Dat
@@ -1256,7 +1256,7 @@
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 7	mài	mài	ADP	_	Gender=Masc	9	subj	_	Gloss=owner_of.Masc/Fem
 8	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=horse.Masc
-9	yab	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+9	yab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	Gloss=follow.Dir|wordform=biy
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=3Masc.Prog
@@ -1271,13 +1271,13 @@
 # text_en = As she saw him pass by, she said yuck!
 # text_ortho = dà tag ga yaa wucèe, sai tac ceè hány,
 1	dà	dà	SCONJ	_	_	8	mod	_	Gloss=when
-2	tag	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.Perf
 5	wucèː	wucèː	VERB	_	_	4	comp:aux	_	Gloss=pass_by
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
-8	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+8	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 9	cêː	cêː	VERB	_	_	8	comp:aux	_	Gloss=say
 10	hány	hány	INTJ	_	_	9	comp:obj	_	Gloss=yuck!
 11	!	!	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -1289,7 +1289,7 @@
 # text = tac cêː shì yi ta tàhiyàː , shiː mài doːkìː .
 # text_en = She told him to move on, him, the rider.
 # text_ortho = tac ceè šì yi ta tàhiyàa, šii mài dookìː,
-1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Aor
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
@@ -1369,7 +1369,7 @@
 # text_ortho = sai mijìː yas sàamu màataatai laahiyàa laahiyàa,
 1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
 2	mijìː	mijìː	NOUN	_	Definite=Ind	3	subj	_	Gloss=husband/male
-3	yas	(n)kà	AUX	_	Aspect=PerfBkg|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+3	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 4	sàːmu	saːmùː	VERB	_	_	3	comp:aux	_	Gloss=get
 5	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	4	comp:obj	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
 6	laːhiyàː	laːhiyàː	NOUN	_	Definite=Ind|Gender=Fem	4	mod	_	Gloss=health.Fem
