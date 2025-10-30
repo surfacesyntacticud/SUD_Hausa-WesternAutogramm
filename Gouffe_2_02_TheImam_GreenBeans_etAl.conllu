@@ -9,7 +9,7 @@
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=however
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc
 4	maːlàmiː	maːlàmiː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:pred	_	Gloss=malam.Masc
-5	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
+5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_001-001_split2
@@ -209,7 +209,7 @@
 47	ita	ita	PRON	_	Gender=Fem|Person=3	45	comp:obj@T	_	Gloss=3Fem
 48	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
 49	màːtakkà	màːtaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	50	comp:pred	_	Gloss=wife.Fem.2Masc.Gen|wordform=màːta
-50	ceː	neː/ceː	AUX	_	Gender=Fem	44	conj:coord	_	Gloss=be.Fem
+50	ceː	neː	AUX	_	Gender=Fem	44	conj:coord	_	Gloss=be.Fem
 51	.	.	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_006-006
@@ -589,7 +589,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	bàbbam	bàbbaː	ADJ	_	Definite=Cons|Gender=Masc	7	comp:pred	_	Gloss=big.Masc|wordform=bàbba
 6	maːlàmiː	maːlàmiː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	Gloss=malam.Masc
-7	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
+7	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
 8	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_018-018
@@ -633,7 +633,7 @@
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	sabòːdà	sabòːdà	SCONJ	_	_	13	mod	_	Gloss=because
 18	lì:maːmìnshì	lì:maːmìːshì	NOUN	_	Definite=Cons|Gender=Masc|Person=3	19	comp:pred	_	Gloss=imam.Masc.3Masc.Poss|wordform=lì:maːmì
-19	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	17	comp:obj	_	Gloss=be.Masc/Plur
+19	neː	neː	AUX	_	Gender=Masc|Number=Plur	17	comp:obj	_	Gloss=be.Masc/Plur
 20	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_020-020
@@ -973,7 +973,7 @@
 13	cêː	cêː	VERB	_	_	12	comp:aux	_	Gloss=say
 14	gidan	gidaː	NOUN	_	Definite=Cons|Gender=Masc	16	comp:pred	_	Gloss=house.Masc|wordform=gida
 15	wàː	wàː	PRON	_	_	14	mod	_	Gloss=who
-16	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	13	comp:obj	_	Gloss=be.Masc/Plur
+16	neː	neː	AUX	_	Gender=Masc|Number=Plur	13	comp:obj	_	Gloss=be.Masc/Plur
 17	?	?	PUNCT	_	_	7	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_030-030
@@ -988,7 +988,7 @@
 3	mai	mai	PRON	_	Gender=Masc|Person=3	2	comp:obl	_	Gloss=3Masc.Dat
 4	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:pred	_	Gloss=house.Masc|wordform=gida
 5	maːlàmiː	maːlàmiː	NOUN	_	Definite=Ind|Gender=Masc	4	mod	_	Gloss=malam.Masc
-6	neː	neː/ceː	AUX	_	Gender=Masc|Number=Plur	2	comp:obj@T	_	Gloss=be.Masc/Plur
+6	neː	neː	AUX	_	Gender=Masc|Number=Plur	2	comp:obj@T	_	Gloss=be.Masc/Plur
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	lì:maːmìn	lì:maːmìː	NOUN	_	Definite=Cons|Gender=Masc	5	conj:appos	_	Gloss=imam.Masc|wordform=lì:maːmì
 9	gàriː	gàriː	NOUN	_	Definite=Ind|Gender=Masc	8	mod	_	Gloss=town.Masc
@@ -2940,7 +2940,7 @@
 6	koː	koː	SCONJ	_	_	15	mod	_	Gloss=even_if
 7	can	can	ADV	_	Deixis=Remt|PronType=Dem	9	mod	_	Gloss=Remt
 8	ƙaryaː	ƙaryaː	NOUN	_	Definite=Ind|Gender=Fem	9	subj	_	Gloss=lie.Fem
-9	cèː	neː/ceː	AUX	_	Gender=Fem	6	comp:obj	_	Gloss=be.Fem
+9	cèː	neː	AUX	_	Gender=Fem	6	comp:obj	_	Gloss=be.Fem
 10	tay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	9	comp:pred	_	Gloss=3Fem.PerfBkg
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	mà	mà	ADP	_	_	11	comp:obl	_	Gloss=Dat
@@ -3036,7 +3036,7 @@
 5	sarkiː	sarkiː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=chief.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.PerfBkg
-8	cèː	neː/ceː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+8	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
 9	:	:	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	allàː	allàː	PROPN	_	_	11	subj	_	Gloss=God
 11	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.Aor
@@ -3190,7 +3190,7 @@
 4	:	:	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 6	ƙaryaː	ƙaryaː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:pred	_	Gloss=lie.Fem
-7	tàː	neː/ceː	AUX	_	Gender=Fem	5	comp:obj	_	Gloss=be.Fem
+7	tàː	neː	AUX	_	Gender=Fem	5	comp:obj	_	Gloss=be.Fem
 8-9	shikài	_	_	_	_	_	_	_	_
 8	shikà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Gender=Masc|Person=3	7	comp:cleft	_	Gloss=3Masc.ProgBkg
 9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=do.Nmlz.Masc
@@ -3485,7 +3485,7 @@
 26	lâihiː	lâihiː	NOUN	_	Definite=Ind|Gender=Masc	25	comp:obj	_	Gloss=fault.Masc
 27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 28	kissàmmù	kissàmù	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=1	29	comp:pred	_	Gloss=deception.Fem.1Plur.Poss|wordform=kissà
-29	ceː	neː/ceː	AUX	_	Gender=Fem	24	parataxis@conj	_	Gloss=be.Fem
+29	ceː	neː	AUX	_	Gender=Fem	24	parataxis@conj	_	Gloss=be.Fem
 30	ta	na/ta	ADP	_	_	28	mod	_	Gloss=of
 31	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	30	comp:obj	_	Gloss=woman.Plur
 32	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -4343,7 +4343,7 @@
 1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	kissàkkù	kissàkù	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=2	4	comp:pred	_	Gloss=deception.Fem.2Plur.Poss|wordform=kissà
-4	ceː	neː/ceː	AUX	_	Gender=Fem	2	comp:obj	_	Gloss=be.Fem
+4	ceː	neː	AUX	_	Gender=Fem	2	comp:obj	_	Gloss=be.Fem
 5	ta	na/ta	ADP	_	_	3	mod	_	Gloss=of
 6	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	5	comp:obj	_	Gloss=woman.Plur
 7	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -4404,7 +4404,7 @@
 24	nan	nan	DET	_	Definite=Def|PronType=Dem	23	det	_	Gloss=Def
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	kissàmmù	kissàmù	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=1	27	comp:pred	_	Gloss=deception.Fem.1Plur.Poss|wordform=kissà
-27	ceː	neː/ceː	AUX	_	Gender=Fem	18	parataxis@conj	_	Gloss=be.Fem
+27	ceː	neː	AUX	_	Gender=Fem	18	parataxis@conj	_	Gloss=be.Fem
 28	ta	na/ta	ADP	_	_	26	mod	_	Gloss=of
 29	maːtaː	maːtaː	NOUN	_	Definite=Ind|Number=Plur	28	comp:obj	_	Gloss=woman.Plur
 30	.	.	PUNCT	_	_	11	punct	_	Gloss=.
