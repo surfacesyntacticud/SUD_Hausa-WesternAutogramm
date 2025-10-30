@@ -697,7 +697,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 15000, 16000
-# text = ɗan waːnè jiːkàn waːnè , koː ɗan waːnè jiːkàn waːnè , koː ’yaw waːnè jiːkàw waːnè koː ’yaːw waːnè jiːkàw waːnè .
+# text = ɗan waːnè jiːkàn waːnè , koː ɗan wancè jiːkàn wancè , koː ’yaw wancè jiːkàw wancè koː ’yaːw waːnè jiːkàw waːnè .
 # text_en = Son of so-and-so (male) and great-son of so-and-so (male), or son of so-and-so (female) and great-son of so-and-so (female) ), or daughter of so-and-so (female) and great-daughter of so-and-so (female), or daugther of so-and-so (male) and great-daughter of so-and-so (male).
 # text_ortho = ɗan waanè jiikàn waanè, koo ɗan wancè jiikàn wancè, koo ’yaw wancè jiikàw wancè koo ’yaw wane jiikàw waanè.
 1	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=son.Masc|wordform=ɗa
@@ -707,18 +707,18 @@
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	koː	koː	CCONJ	_	_	7	cc	_	Gloss=or
 7	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:coord	_	Gloss=son.Masc|wordform=ɗa
-8	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	7	mod	_	Gloss=So_and_So.Fem
+8	wancè	waːnè	PRON	_	Definite=Ind|Gender=Fem	7	mod	_	Gloss=So_and_So.Fem
 9	jiːkàn	jiːkàː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:appos	_	Gloss=grand-child.Masc|wordform=jiːkà
-10	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	9	mod	_	Gloss=So_and_So.Fem
+10	wancè	waːnè	PRON	_	Definite=Ind|Gender=Fem	9	mod	_	Gloss=So_and_So.Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	koː	koː	CCONJ	_	_	13	cc	_	Gloss=or
 13	’yaw	’yaː	NOUN	_	Definite=Cons|Gender=Fem	7	conj:coord	_	Gloss=daughter.Fem|wordform=’ya
-14	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	13	mod	_	Gloss=So_and_So.Masc
+14	wancè	waːnè	PRON	_	Definite=Ind|Gender=Masc	13	mod	_	Gloss=So_and_So.Masc
 15	jiːkàw	jiːkàː	NOUN	_	Definite=Cons|Gender=Fem	13	conj:appos	_	Gloss=grand-daughter.Fem|wordform=jiːkà
-16	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	15	mod	_	Gloss=So_and_So.Fem
+16	wancè	waːnè	PRON	_	Definite=Ind|Gender=Fem	15	mod	_	Gloss=So_and_So.Fem
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
 18	’yaːw	’yaː	NOUN	_	Definite=Cons|Gender=Fem	13	conj:coord	_	Gloss=daughter.Fem|wordform=’yaː
-19	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	18	mod	_	Gloss=So_and_So.Masc
+19	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Fem	18	mod	_	Gloss=So_and_So.Masc
 20	jiːkàw	jiːkàː	NOUN	_	Definite=Cons|Gender=Fem	18	conj:appos	_	Gloss=grand-daughter.Fem|wordform=jiːkà
 21	waːnè	waːnè	PRON	_	Definite=Ind|Gender=Masc	20	mod	_	Gloss=So_and_So.Masc
 22	.	.	PUNCT	_	_	1	punct	_	Gloss=.
