@@ -29,7 +29,7 @@
 13	yawàː	yawàː	NOUN	_	Definite=Ind	12	comp:obj	_	Gloss=quantity
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=who.Plur
-16	sukè	kè	AUX	_	Background=Yes|Person=3	11	mod@relcl	_	Gloss=3.Pl.Pred/Loc.Bkg|wordform=su
+16	sukè	kè	AUX	_	Background=Yes|Person=3	11	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Pred/Loc.Bkg|wordform=su
 17	dàban	dàban	ADV	_	_	16	comp:pred	_	Gloss=different
 18	dàban	dàban	ADV	_	_	17	conj:redup	_	Gloss=different
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -163,7 +163,7 @@
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-9	sunàː	kè	AUX	_	Person=3	8	comp:obj	_	Gloss=3.Pl.Pred/Loc|wordform=su
+9	sunàː	kè	AUX	_	Person=3	8	comp:obj	_	Copula=Yes|Gloss=3.Pl.Pred/Loc|wordform=su
 10	hwageː	hwageː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	Gloss=open_space.Masc
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 12	wargiː	wargiː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:aux	_	Gloss=playing.Masc
@@ -552,7 +552,7 @@
 3	lallèn	lallèː	NOUN	_	Definite=Def|Gender=Masc	2	udep	_	Gloss=henna.Masc.Def
 4	bakwài	bakwài	NUM	_	_	6	comp:pred	_	Gloss=seven
 5	gùdaː	gùdaː	NUM	_	_	4	flat@num	_	Gloss=one
-6	nèː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur
+6	nèː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	dà	dà	SCONJ	_	_	15	mod	_	Gloss=when
 9	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=4.Perf
@@ -952,7 +952,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:pred	_	Gloss=cuddling.Masc
-9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=be.Masc/Plur
+9	nèː	neː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	17	mod	_	Gloss=if
 12	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	11	comp:obj	_	Gloss=3Plur.PerfBkg
@@ -1123,7 +1123,7 @@
 # text = sunàː nan sunàː yîn hakànan , har̃ sù yi kwaːnaː .
 # text_en = Here they are doing like that, until they fall asleep.
 # text_ortho = su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
-1	sunàː	kè	AUX	_	Number=Plur|Person=3	0	root	_	Gloss=3Plur.Pred/Loc
+1	sunàː	kè	AUX	_	Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Pred/Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=do.Nmlz.Masc|wordform=yî
@@ -1182,7 +1182,7 @@
 8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 10	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-11	shinàː	kè	AUX	_	Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.Pred/Loc|wordform=shi
+11	shinàː	kè	AUX	_	Gender=Masc|Person=3	10	comp:obj	_	Copula=Yes|Gloss=3Masc.Pred/Loc|wordform=shi
 12	dà	dà	ADP	_	_	11	comp:pred	_	Gloss=with
 13	kuɗiː	kuɗiː	NOUN	_	Definite=Ind|Gender=Masc	12	comp:obj	_	Gloss=money.Masc
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -1609,7 +1609,7 @@
 # text_ortho = ’àbun dà ’as’ s’àaᵲìnci.
 1	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=thing.Masc|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	as'	ak	AUX	_	Background=Yes	2	comp:obj	_	Gloss=Id/Foc.Bkg
+3	as'	ak	AUX	_	Background=Yes	2	comp:obj	_	Copula=Yes|Gloss=Id/Foc.Bkg
 4	s'àːrìnci	s'àːrìnci	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=fornication.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -1652,12 +1652,12 @@
 30	taːshì	taːshì	VERB	_	_	29	comp:aux	_	Gloss=rise
 31	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 32	in	in	SCONJ	_	_	43	mod	_	Gloss=if
-33	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	32	comp:obj	_	Gloss=3Sing.Pred/loc.Neg|wordform=bâː
+33	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	32	comp:obj	_	Copula=Yes|Gloss=3Sing.Pred/loc.Neg|wordform=bâː
 34	dà	dà	ADP	_	_	33	comp:pred	_	Gloss=with
 35	dànganàː	dànganàː	NOUN	_	Definite=Ind|Gender=Fem	34	comp:obj	_	Gloss=patience.Fem
 36	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 37	kuma	kuma	PART	_	PartType=Disc	38	discourse	_	Gloss=also
-38	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	33	parataxis@conj	_	Gloss=3Sing.Pred/loc.Neg|wordform=bâː
+38	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	33	parataxis@conj	_	Copula=Yes|Gloss=3Sing.Pred/loc.Neg|wordform=bâː
 39	dà	dà	ADP	_	_	38	comp:pred	_	Gloss=with
 40	kir̃kiː	kir̃kiː	NOUN	_	Definite=Ind|Gender=Masc	39	comp:obj	_	Gloss=honesty.Masc
 41	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
@@ -1702,7 +1702,7 @@
 4	tà	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-7	as'	ak	AUX	_	Background=Yes	6	comp:cleft	_	Gloss=Id/Foc.Bkg
+7	as'	ak	AUX	_	Background=Yes	6	comp:cleft	_	Copula=Yes|Gloss=Id/Foc.Bkg
 8	s'àːrìnci	s'àːrìnci	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=fornication.Masc
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
@@ -1751,7 +1751,7 @@
 36	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg
 37	s'àːrìnci	s'àːrìnci	NOUN	_	Definite=Ind|Gender=Masc	39	comp:pred	_	Gloss=fornication.Masc
 38	ba	ba	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg
-39	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
+39	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur
 40	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
 41	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	parataxis@conj	_	Gloss=3Masc.Perf
 42	zan	zama	VERB	_	_	41	comp:aux	_	Gloss=become
@@ -1771,7 +1771,7 @@
 4	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=girl.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-7	as'	ak	AUX	_	Background=Yes	6	comp:cleft	_	Gloss=Id/Foc.Bkg
+7	as'	ak	AUX	_	Background=Yes	6	comp:cleft	_	Copula=Yes|Gloss=Id/Foc.Bkg
 8	s'àːrìnci	s'àːrìnci	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=fornication.Masc
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
@@ -1838,12 +1838,12 @@
 6	sabòːdà	sabòːdà	SCONJ	_	_	3	mod	_	Gloss=because
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	9	subj	_	Gloss=3Masc
 8	sùrkinsù	sùrkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	9	comp:pred	_	Gloss=in-law.Masc.3Plur.Poss|wordform=sùrki
-9	neː	neː	AUX	_	Gender=Masc|Number=Plur	6	comp:obj	_	Gloss=be.Masc/Plur
+9	neː	neː	AUX	_	Gender=Masc|Number=Plur	6	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 10	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 11	suː	suː	PRON	_	Number=Plur|Person=3	14	subj	_	Gloss=3Plur
 12	kuma	kuma	PART	_	PartType=Top	11	discourse@top	_	Gloss=also
 13	sàràkkunnànshì	sàràkkunnàishì	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	14	comp:pred	_	Gloss=inlaw.Plur.3Masc|wordform=sàràkkunnài
-14	neː	neː	AUX	_	Gender=Masc|Number=Plur	9	parataxis@conj	_	Gloss=be.Masc/Plur
+14	neː	neː	AUX	_	Gender=Masc|Number=Plur	9	parataxis@conj	_	Copula=Yes|Gloss=be.Masc/Plur
 15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_53-53
@@ -2112,7 +2112,7 @@
 # text_ortho = ’àbun dà ’ay yaawòo.
 1	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=thing.Masc|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	ay	neː	AUX	_	Background=Yes	2	comp:obj	_	Gloss=Ident/Foc.Bkg
+3	ay	neː	AUX	_	Background=Yes	2	comp:obj	_	Copula=Yes|Gloss=Ident/Foc.Bkg
 4	yaːwòː	yaːwòː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=strolling.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -2170,7 +2170,7 @@
 # text_ortho = ’in zangunàa nee, sai daᵲee yaa yi, ’an šìga kwaanaa, sai saᵲmàyii šì tàhi.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 2	zangunàː	zangòː	NOUN	_	Definite=Ind|Number=Plur	3	comp:pred	_	Gloss=camp.Plur
-3	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Gloss=be.Masc/Plur
+3	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	SCONJ	_	_	16	mod	_	Gloss=when
 6	dareː	dareː	NOUN	_	Definite=Ind|Gender=Masc	7	subj	_	Gloss=night.Masc
@@ -2238,7 +2238,7 @@
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	Gloss=see
 14	indà	indà	PRON	_	_	13	comp:obj	_	Gloss=where
 15	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	16	subj	_	Gloss=girl.Fem
-16	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	14	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg
+16	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	14	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_63-63
@@ -2253,7 +2253,7 @@
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	indà	indà	PRON	_	_	3	comp:obj	_	Gloss=where
 5	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	6	subj	_	Gloss=girl.Fem
-6	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	4	mod@relcl	_	Gloss=3Fem.Pred/Loc.Bkg
+6	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	4	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 9	shì	ø	AUX	_	Aspect=Aor|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Aor
@@ -2390,7 +2390,7 @@
 12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	comp:pred	_	Gloss=who.Masc
 13	takà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=3Fem.ProgBkg
 14	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-15	neː	neː	AUX	_	Gender=Masc|Number=Plur	8	comp:obj	_	Gloss=be.Masc/Plur
+15	neː	neː	AUX	_	Gender=Masc|Number=Plur	8	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 16	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_67-67_split1_split2
@@ -2525,7 +2525,7 @@
 32	takà	kà	AUX	_	Aspect=ProgBkg|Background=Yes|Gender=Fem|Person=3	31	mod@relcl	_	Gloss=3Fem.ProgBkg
 33	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	32	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
-35	neː	neː	AUX	_	Gender=Masc|Number=Plur	29	comp:obj	_	Gloss=be.Masc/Plur
+35	neː	neː	AUX	_	Gender=Masc|Number=Plur	29	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 36	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 37	in	in	SCONJ	_	_	52	mod	_	Gloss=if
 38	bâːta	bâi	AUX	_	Aspect=ProgNeg|Gender=Fem|Person=3|Polarity=Neg	37	comp:obj	_	Gloss=3Fem.ProgNeg
@@ -2665,7 +2665,7 @@
 12	dut	dukà	DET	_	_	13	det	_	Gloss=all
 13	tàbiː’àssù	tàbiː’àːsù	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	15	subj	_	Gloss=custom.Fem.3Plur.Poss|wordform=tàbiː’à
 14	ɗai	ɗai	ADJ	_	_	15	comp:pred	_	Gloss=same
-15	cèː	neː	AUX	_	Gender=Fem	0	root	_	Gloss=be.Fem
+15	cèː	neː	AUX	_	Gender=Fem	0	root	_	Copula=Yes|Gloss=be.Fem
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	kàmat	kàmar̃	ADP	_	_	15	mod	_	Gloss=like
 18	ta	na/ta	ADP	_	_	17	comp:obj	_	Gloss=of

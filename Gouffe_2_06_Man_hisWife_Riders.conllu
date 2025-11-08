@@ -8,7 +8,7 @@
 1	wa’ànnàn	wa’ànnàn	PRON	_	Deixis=Prox|Number=Plur|PronType=Dem	4	subj	_	Gloss=Prox.Plur
 2	wasu	wani	DET	_	Number=Plur	3	det	_	Gloss=some.Plur
 3	mutàːneː	mutàːneː	NOUN	_	Definite=Ind|Number=Plur	4	comp:pred	_	Gloss=people.Plur
-4	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Gloss=be.Masc/Plur
+4	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_01_2
@@ -37,13 +37,13 @@
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	2	det	_	Gloss=Prox.Masc
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	Gloss=one
-3	shinàː	kè	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
+3	shinàː	kè	AUX	_	Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Pred/Loc
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=horse.Masc
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	Gloss=one
 8	kâu	kàu	PART	_	PartType=Top	7	discourse@top	_	Gloss=whereas
-9	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	3	parataxis@conj	_	Gloss=3Sing.Pred/loc.Neg|wordform=bâː
+9	bâːshi	bâi	AUX	_	Person=3|Polarity=Neg	3	parataxis@conj	_	Copula=Yes|Gloss=3Sing.Pred/loc.Neg|wordform=bâː
 10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
 11	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	Gloss=horse.Masc
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -112,7 +112,7 @@
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	15	mod	_	Gloss=even_if
 2	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	3	subj	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
-3	nàː	kè	AUX	_	_	1	comp:obj	_	Gloss=Pred/Loc
+3	nàː	kè	AUX	_	_	1	comp:obj	_	Copula=Yes|Gloss=Pred/Loc
 4	nan	nan	ADV	_	Definite=Def|PronType=Dem	3	comp:pred	_	Gloss=Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
@@ -175,7 +175,7 @@
 # text = anà nan zaman duːniyàː , kullun tanàː mai hakànan , ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
-1	anà	kè	AUX	_	Person=4	7	mod	_	Gloss=4.Pred/Loc
+1	anà	kè	AUX	_	Person=4	7	mod	_	Copula=Yes|Gloss=4.Pred/Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	mod	_	Gloss=stay.Nmlz.Masc|wordform=zama
 4	duːniyàː	duːniyàː	NOUN	_	Definite=Ind|Gender=Fem	3	udep	_	Gloss=world.Fem
@@ -343,7 +343,7 @@
 # text = shinàː bisà doːkìː , yac cim mà màːtaːtai , sai yaƙ ƙiyàː mutà màganàː , sai yaw wucèː ta .
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
-1	shinàː	kè	AUX	_	Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=3Masc.Pred/Loc
+1	shinàː	kè	AUX	_	Gender=Masc|Person=3	5	parataxis@mod	_	Copula=Yes|Gloss=3Masc.Pred/Loc
 2	bisà	bisà	ADP	_	_	1	comp:pred	_	Gloss=on_top_of
 3	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj	_	Gloss=horse.Masc
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -387,9 +387,9 @@
 14	san	sanìː	VERB	_	_	13	comp:aux	_	Gloss=know
 15	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	17	comp:pred	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
-17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Gloss=be.Masc/Plur
+17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	ab	kè	AUX	_	Background=Yes	17	comp:cleft	_	Gloss=Pred/Loc.Bkg
+19	ab	kè	AUX	_	Background=Yes	17	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	Gloss=on_top_of
 21	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	Gloss=horse.Masc
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -453,7 +453,7 @@
 # text = sunàː nan zàmne , koːwaː masabkiːnai , har raːnaː tah hwaːɗì .
 # text_en = They stayed there, each one with their host, until the sun went down.
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
-1	sunàː	kè	AUX	_	Person=3	0	root	_	Gloss=3.Pl.Pred.Loc
+1	sunàː	kè	AUX	_	Person=3	0	root	_	Copula=Yes|Gloss=3.Pl.Pred.Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	zàmne	zamnàː	VERB	_	_	2	mod	_	Gloss=stay.Stat
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -491,7 +491,7 @@
 16	san	sanìː	VERB	_	_	15	comp:aux	_	Gloss=know
 17	shiː	shiː	PRON	_	Gender=Masc|Person=3	19	comp:pred	_	Gloss=3Masc
 18	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	Gloss=Neg
-19	neː	neː	AUX	_	Gender=Masc|Number=Plur	16	comp:obj	_	Gloss=be.Masc/Plur
+19	neː	neː	AUX	_	Gender=Masc|Number=Plur	16	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.PerfBkg
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
@@ -553,7 +553,7 @@
 26	san	saniː	VERB	_	_	25	comp:aux	_	Gloss=know
 27	mijìntà	mijìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	29	comp:pred	_	Gloss=husband/male.3Fem.Poss|wordform=mijì
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	Gloss=Neg
-29	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	comp:obj	_	Gloss=be.Masc/Plur
+29	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 30	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_22
@@ -619,7 +619,7 @@
 3	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=wrapper.Masc.Cons
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	shinàː	kè	AUX	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Pred/Loc
+6	shinàː	kè	AUX	_	Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Pred/Loc
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
 8	kabriː	kabriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=thickness.Masc
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
@@ -1192,13 +1192,13 @@
 7	san	sanìː	VERB	_	_	6	comp:aux	_	Gloss=know
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	comp:pred	_	Gloss=3Masc
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	Gloss=Neg
-10	neː	neː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Gloss=be.Masc/Plur
+10	neː	neː	AUX	_	Gender=Masc|Number=Plur	7	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	comp:cleft	_	Gloss=3Masc.PerfBkg
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	Gloss=come
 14	wurim	wurin	ADP	_	Definite=Cons	13	comp:obl	_	Gloss=at|wordform=wuri
 15	bìkiː	bìkiː	NOUN	_	Definite=Ind	14	comp:obj	_	Gloss=festivity
-16	shinàː	kè	AUX	_	Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.Pred/Loc
+16	shinàː	kè	AUX	_	Gender=Masc|Person=3	12	parataxis@conj	_	Copula=Yes|Gloss=3Masc.Pred/Loc
 17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
 18	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=horse.Masc
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -1221,7 +1221,7 @@
 # text_en = As they were home, the rider arrived and made his horse slide.
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
-2	sunàː	kè	AUX	_	Person=3	1	comp:obj	_	Gloss=3.Pl.Pred/Loc|wordform=su
+2	sunàː	kè	AUX	_	Person=3	1	comp:obj	_	Copula=Yes|Gloss=3.Pl.Pred/Loc|wordform=su
 3	nan	nan	ADV	_	Definite=Def|PronType=Dem	2	comp:pred	_	Gloss=Def
 4	gidaː	gidaː	NOUN	_	Definite=Ind|Gender=Masc	2	mod	_	Gloss=house.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
