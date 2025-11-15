@@ -13,11 +13,11 @@
 6	wani	wani	DET	_	Definite=Spec|Gender=Masc	7	det	_	Gloss=some.Masc
 7	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	5	comp:obj	_	Gloss=Fulani.Masc
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=that
-9	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.PerfBkg
+9	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	8	comp:obj	_	Gloss=3Masc.PerfInd
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	làːlaːtàː	làːlaːtàː	NOUN	_	Definite=Ind|Gender=Fem	10	comp:pred	_	Gloss=immorality.Fem
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfBkg
+13	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfInd
 14	ci	ci	VERB	_	_	13	comp:aux	_	Gloss=have_sex_with
 15	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	14	comp:obj	_	Gloss=female_in_law.Fem.3Masc.Poss|wordform=sàràkkuwaː
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
@@ -108,7 +108,7 @@
 1	raːnad	raːnaː	NOUN	_	Definite=Cons	15	mod	_	Gloss=sun/day|wordform=raːna
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
 3	allàː	allàː	PROPN	_	_	4	subj	_	Gloss=God
-4	yab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.PerfBkg
+4	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	comp:obj	_	Gloss=3Masc.PerfInd
 5	baː	baː	VERB	_	_	4	comp:aux	_	Gloss=give
 6	shì	shi	PRON	_	Gender=Masc|Person=3	5	comp:obj@R	_	Gloss=3Masc
 7	sa’àː	sa’àː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:obj@T	_	Gloss=opportunity.Fem
@@ -119,7 +119,7 @@
 12	taːshì	taːshì	PRON	_	Gender=Masc|Person=3	10	mod@poss	_	Gloss=3Masc.Poss.Fem
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	15	mod	_	Gloss=then
-15	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+15	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	0	root	_	Gloss=3Fem.PerfInd
 16	cêː	cêː	VERB	_	_	15	comp:aux	_	Gloss=say
 17	zâː	zâː	PART	_	PartType=Pred	16	comp:obj	_	Gloss=Dir
 18	ta	ta	PRON	_	Gender=Fem|Person=3	17	subj	_	Gloss=3Fem
@@ -156,7 +156,7 @@
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	dislocated@subj	_	Gloss=3Masc
 3	bàhillaːcèn	bàhillaːcèː	PROPN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=Fulani.Masc.Cons
 4	ga	ga	DET	_	Deixis=Prox|PronType=Dem	3	det	_	Gloss=Prox
-5	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+5	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 6	cèː	cêː	VERB	_	_	5	comp:aux	_	Gloss=say
 7	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	6	comp:obj@R	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
 8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	6	comp:obj@T	_	Gloss=3Fem.Sub
@@ -188,13 +188,13 @@
 7	ga	ga	DET	_	Deixis=Prox|PronType=Dem	6	det	_	Gloss=Prox
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-10	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+10	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 11	gamà	gamàː	VERB	_	_	10	comp:aux	_	Gloss=join
 12	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	Gloss=head.Masc
 13	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 14	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	13	comp:obj	_	Gloss=friend.Masc.3Masc.Poss|wordform=àboːkiː
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfBkg
+16	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfInd
 17	cèː	cêː	VERB	_	_	16	comp:aux	_	Gloss=say
 18	in	in	SCONJ	_	_	29	mod	_	Gloss=if
 19	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	18	comp:obj	_	Gloss=3Plur.Perf
@@ -224,7 +224,7 @@
 # text = sunkà yi shaːwar̃àː ,
 # text_en = They made a plan.
 # text_ortho = sunkà yi šaawaràa,
-1	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
+1	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfInd
 2	yi	yi	VERB	_	_	1	comp:aux	_	Gloss=do
 3	shaːwar̃àː	shaːwar̃àː	NOUN	_	Definite=Ind|Gender=Fem	2	comp:pred	_	Gloss=deliberation.Fem
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -236,7 +236,7 @@
 # text = yac cêː mai : im mun kai gà daːjìː , kag ga na s'ayàː , nay yi kiràn dawàː , kà amsàː .
 # text_en = He told him : if we reach the bush, and you see I stop, and call the bush, answer (me).
 # text_ortho = yac ceè mai : ’in mun kai gà daajìi, kag ga na s’ayàa, nay yi kiᵲàn dawàa, kà ’amsàa.
-1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	mai	mai	PRON	_	Gender=Masc|Person=3	2	comp:obl	_	Gloss=3Masc.Dat
 4	:	:	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -246,12 +246,12 @@
 8	gà	gà	ADP	_	_	7	comp:obl	_	Gloss=at
 9	daːjìː	daːjìː	NOUN	_	Definite=Ind|Gender=Masc	8	comp:obj	_	Gloss=bush.Masc
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	kag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	6	parataxis@conj	_	Gloss=2Masc.PerfBkg
+11	kag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	6	parataxis@conj	_	Gloss=2Masc.PerfInd
 12	ga	ganiː	VERB	_	_	11	comp:aux	_	Gloss=see
 13	na	na/ta	ADP	_	_	12	comp:obj	_	Gloss=of
 14	s'ayàː	s'ayàː	VERB	_	_	13	comp:obj	_	Gloss=stop
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	nay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=1	13	parataxis@conj	_	Gloss=1Sing.PerfBkg
+16	nay	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=1	13	parataxis@conj	_	Gloss=1Sing.PerfInd
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:pred	_	Gloss=call.Nmlz.Masc|wordform=kirà
 19	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	18	udep	_	Gloss=bush.Masc
@@ -268,12 +268,12 @@
 # text_en = After this, they started travelling // Him and the mother-in-law, they are on the way to the bush.
 # text_ortho = dà sunkà yi hakà nan, sai sunkà yi ta tàhiyàa, dà šii dà sàᵲàkkuwaa, su nàa biǹ daajìi.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	hakànan	hakànan	ADV	_	_	3	mod	_	Gloss=thus|wordform=hakà
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
-7	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
+7	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfInd
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	ta	ta	PART	_	Aspect=Iter|PartType=Adv	8	compound:prt	_	Gloss=Iter
 10	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:pred	_	Gloss=go.Nmlz.Fem
@@ -312,7 +312,7 @@
 # text_ortho = sai dà sunkà zoo gà daajìi, s’akad daajìi, baabù hanyàa,
 1	sai	sai	ADV	_	_	11	mod	_	Gloss=then
 2	dà	dà	SCONJ	_	_	11	mod	_	Gloss=when
-3	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	2	comp:obj	_	Gloss=3Plur.PerfBkg
+3	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	2	comp:obj	_	Gloss=3Plur.PerfInd
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	Gloss=come
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
 6	daːjìː	daːjìː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	Gloss=bush.Masc
@@ -335,11 +335,11 @@
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	1	conj:appos	_	Gloss=Fulani.Masc
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
-5	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+5	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 6	yi	yi	VERB	_	_	5	comp:aux	_	Gloss=do
 7	s'àye	s'àye	VERB	_	_	6	comp:pred	_	Gloss=stop.Stat
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfBkg
+9	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	5	parataxis@conj	_	Gloss=3Masc.PerfInd
 10	cèː	cêː	VERB	_	_	9	comp:aux	_	Gloss=say
 11	mà	mà	ADP	_	_	10	comp:obl	_	Gloss=Dat
 12	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	11	comp:obj	_	Gloss=in-law.Fem.3Masc.Poss|wordform=sàràkkuwaː
@@ -348,7 +348,7 @@
 15	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	comp:obj@T	_	Gloss=3Masc.Perf
 16	ɓacèː	ɓacèː	VERB	_	_	15	comp:aux	_	Gloss=spoil.Ach
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	15	parataxis@conj	_	Gloss=3Masc.PerfNeg
+18	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	15	parataxis@conj	_	Gloss=3Masc.PerfNeg
 19	san	sanìː	VERB	_	_	18	comp:aux	_	Gloss=know
 20	indà	indà	PRON	_	_	19	comp:obj	_	Gloss=where
 21	shikè	kè	AUX	_	Background=Yes|Gender=Masc|Person=3	20	mod@relcl	_	Copula=Yes|Gloss=3Masc.Pred/Loc.Bkg|wordform=shi
@@ -389,7 +389,7 @@
 # text = yac cèː mà sàràkkuwaː : tôː ƙàːƙàː zâː mu yîː tun dà naː yi ɗiːmuwaː ?
 # text_en = He told his mother-in-law : well, how shall we do since I have a fever?
 # text_ortho = yac cèe mà sàᵲàkkuwaa : toò ƙàaƙàa zaà mu yiì ? tun dà naa yi ɗiimuwaa.
-1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	mà	mà	ADP	_	_	2	comp:obl	_	Gloss=Dat
 4	sàràkkuwaː	sàràkkuwaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=in-law.Fem
@@ -413,12 +413,12 @@
 # text_en = The mother-in-law told him : you're the one who knows the solution, since you are a man.
 # text_ortho = sàᵲàkkuwaa tac cèe mišì : kai kas san dùbaaràa, tun dà kai namijì nee.
 1	sàràkkuwaː	sàràkkuwaː	NOUN	_	Definite=Ind|Gender=Fem	2	subj	_	Gloss=in-law.Fem
-2	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+2	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	0	root	_	Gloss=3Fem.PerfInd
 3	cèː	cêː	VERB	_	_	2	comp:aux	_	Gloss=say
 4	mishì	mishì	PRON	_	Gender=Masc|Person=3	3	comp:obl	_	Gloss=3Masc.Dat
 5	:	:	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	kai	kai	PRON	_	Gender=Masc|Person=2	3	comp:obj@T	_	Gloss=2Masc
-7	kas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	6	comp:cleft	_	Gloss=2Masc.PerfBkg
+7	kas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	6	comp:cleft	_	Gloss=2Masc.PerfInd
 8	san	sanìː	VERB	_	_	7	comp:aux	_	Gloss=know
 9	dùbaːr̃àː	dùbaːr̃àː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:obj	_	Gloss=cleverness/trick.Fem
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -435,7 +435,7 @@
 # text = yac cêː mutà : iː.
 # text_en = He told her : yes.
 # text_ortho = yac ceè mutà : ’ii.
-1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
 4	:	:	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -466,7 +466,7 @@
 15	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=thing.Masc|wordform=àbu
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	Gloss=that
 17	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	18	subj	_	Gloss=bush.Masc
-18	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc.PerfBkg
+18	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	16	comp:obj	_	Gloss=3Masc.PerfInd
 19	cèː	cêː	VERB	_	_	18	comp:aux	_	Gloss=say
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -478,16 +478,16 @@
 # text_en = Then he called, he called the bush and said : you, bush, my head has spoilt.
 # text_ortho = sai yay yi kiᵲàa, yay yi kiᵲàn dawàa, yac cèe : kai dawàa, kaìna yaa ɓacì.
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kiràː	kiràː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=call.Nmlz.Masc
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfInd
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:pred	_	Gloss=call.Nmlz.Masc|wordform=kirà
 9	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	8	udep	_	Gloss=bush.Masc
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
+11	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfInd
 12	cèː	cêː	VERB	_	_	11	comp:aux	_	Gloss=say
 13	:	:	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 14	kai	kai	PRON	_	Gender=Masc|Person=2	18	vocative	_	Gloss=2Masc
@@ -523,7 +523,7 @@
 # text_en = The mother-in-law does not know that his friend is there.
 # text_ortho = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
 1	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	2	subj	_	Gloss=in-law.Fem.3Masc.Poss|wordform=sàràkkuwaː
-2	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.PerfNeg
+2	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.PerfNeg
 3	san	sanìː	VERB	_	_	2	comp:aux	_	Gloss=know
 4	àboːkiːnai	àboːkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	5	subj	_	Gloss=friend.Masc.3Masc.Poss|wordform=àboːkiː
 5	nàː	kè	AUX	_	_	3	comp:obj	_	Copula=Yes|Gloss=Pred/Loc
@@ -613,7 +613,7 @@
 # text_en = After they did like this, the Fulani, he told his mother-in-law : Well, you hear what the bush has said.
 # text_ortho = dà sunkà yi hakà nan, šii bàhillaacèe, sai yac ceè mà sàᵲàkkuwaatai : toò ki nàa jiǹ ’àbun dà dawàa yac ceè.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	hakànan	hakànan	ADV	_	_	3	mod	_	Gloss=thus|wordform=hakà
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -621,7 +621,7 @@
 7	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	6	conj:appos	_	Gloss=Fulani.Masc
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
-10	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+10	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	Gloss=say
 12	mà	mà	ADP	_	_	11	comp:obl	_	Gloss=Dat
 13	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	12	comp:obj	_	Gloss=in-law.Fem.3Masc.Poss|wordform=sàràkkuwaː
@@ -632,7 +632,7 @@
 18	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	17	udep	_	Gloss=thing.Masc|wordform=àbu
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
 20	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	21	subj	_	Gloss=bush.Masc
-21	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	19	comp:obj	_	Gloss=3Masc.PerfBkg
+21	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	19	comp:obj	_	Gloss=3Masc.PerfInd
 22	cêː	cêː	VERB	_	_	21	comp:aux	_	Gloss=say
 23	?	?	PUNCT	_	_	10	punct	_	Gloss=.
 
@@ -643,7 +643,7 @@
 # text = tac cèː iː taː jiyàː .
 # text_en = She said yes, she has heard.
 # text_ortho = tac cèe ’ii taa jiyàa.
-1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+1	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	0	root	_	Gloss=3Fem.PerfInd
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=Id/Foc
 3	iː	iː	INTJ	_	_	2	comp:obj@T	_	Gloss=yes
 4	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	3	parataxis@conj	_	Gloss=3Fem.Perf
@@ -657,13 +657,13 @@
 # text = yac cêː mutà : tôː ƙàːƙàː kic cèː ?
 # text_en = He told her : Well, what do you say?
 # text_ortho = yac ceè matà : toò ƙàaƙàa kic cèe ?
-1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
 4	:	:	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	tôː	tôː	INTJ	_	_	6	discourse	_	Gloss=well
 6	ƙàːƙàː	ƙàːƙàː	ADV	_	_	1	subj	_	Gloss=how
-7	kic	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=2	6	comp:cleft	_	Gloss=2Fem.PerfBkg
+7	kic	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=2	6	comp:cleft	_	Gloss=2Fem.PerfInd
 8	cèː	cêː	VERB	_	_	7	comp:aux	_	Gloss=say
 9	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
@@ -674,7 +674,7 @@
 # text = tac cèː : ƙàːƙàː zâː ni cêːwaː ?
 # text_en = She said : What shall I say?
 # text_ortho = tac cèe : ƙàaƙàa zaà ni ceèwaa ?
-1	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.PerfBkg
+1	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	0	root	_	Gloss=3Fem.PerfInd
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	:	:	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	Gloss=how
@@ -695,7 +695,7 @@
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=thing.Masc|wordform=àbu
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=that
-7	kay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	6	comp:obj	_	Gloss=2Masc.PerfBkg
+7	kay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	6	comp:obj	_	Gloss=2Masc.PerfInd
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	8	comp:pred	_	Gloss=effort.Fem
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -707,7 +707,7 @@
 # text = yac cèː : tôː shiːkèːnan.
 # text_en = He said, well, that's it.
 # text_ortho = yac cèe : toò šii kèe nan.
-1	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	:	:	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 4	tôː	tôː	INTJ	_	_	5	discourse	_	Gloss=well
@@ -722,16 +722,16 @@
 # text_en = Then he did his best, he had sex with the mother-in-law, his head got better.
 # text_ortho = sai yay yi niyyàa, yac ci sàᵲàkkuwaa, kaìnai yaw waayèe
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:pred	_	Gloss=effort.Fem
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfInd
 7	ci	ci	VERB	_	_	6	comp:aux	_	Gloss=have_sex_with
 8	sàràkkuwaː	sàràkkuwaː	NOUN	_	Definite=Ind|Gender=Fem	7	comp:obj	_	Gloss=in-law.Fem
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	kâinai	kâinai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	11	subj	_	Gloss=head.Masc.3Masc.Poss|wordform=kâi
-11	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
+11	yaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfInd
 12	waːyèː	waːyèː	VERB	_	_	11	comp:aux	_	Gloss=light_up.Ach
 13	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -753,12 +753,12 @@
 # text_en = They went on travelling after he had sex with her.
 # text_ortho = sai sunkà yi ta tàhiyàa dà yac cii tà.
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	0	root	_	Gloss=3Plur.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	ta	ta	PART	_	Aspect=Iter|PartType=Adv	3	compound:prt	_	Gloss=Iter
 5	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:pred	_	Gloss=go.Nmlz.Fem
 6	dà	dà	SCONJ	_	_	3	mod	_	Gloss=when
-7	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.PerfBkg
+7	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Masc.PerfInd
 8	ciː	ci	VERB	_	_	7	comp:aux	_	Gloss=have_sex_with
 9	tà	ta	PRON	_	Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.

@@ -58,9 +58,9 @@
 # text_en = When they have done it to them, that zugal medicine, and it has caught them, they cannot do anything without telling the men.
 # text_ortho = ’in sunkà ᵲìgyaa sunkà musù, maagàniǹ nan na zuugàl, hay yak kaamàa su, baà su ’iyà yiǹ koomii, sai dà ceèwam mazaa.
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	rìgyaː	rìgyaː	VERB	_	_	2	comp:aux	_	Gloss=have_already
-4	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfBkg
+4	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfInd
 5	musù	musù	PRON	_	Number=Plur|Person=3	4	comp:obl	_	Gloss=3Plur.Dat
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=medicine/spell.Masc.Cons
@@ -69,7 +69,7 @@
 10	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	9	comp:obj	_	Gloss=love_charm
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	har̃	har̃	SCONJ	_	_	4	mod	_	Gloss=until
-13	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.PerfBkg
+13	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	12	comp:obj	_	Gloss=3Masc.PerfInd
 14	kaːmàː	kaːmàː	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	su	su	PRON	_	Person=3	14	comp:obj	_	Gloss=3.Pl
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -111,18 +111,18 @@
 # text_en = If they have done it and they give it to the man, if he takes it, he cannot do anything without telling them, because the medicine has caught him.
 # text_ortho = ’in sunkà ᵲìgyaa sunkà yi šì, has sunkà baà namijì, yac ci, baà ši ’iyà yiǹ koomii, sai tàaᵲe dà ceèwassù, dom maagànii yaa kaamàa ši.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	rìgyaː	rìgyaː	VERB	_	_	2	comp:aux	_	Gloss=have_already
-4	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfBkg
+4	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfInd
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	shì	shi	PRON	_	Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	har̃	har̃	SCONJ	_	_	5	mod	_	Gloss=until
-9	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.PerfBkg
+9	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.PerfInd
 10	bâː	baːbù	VERB	_	_	9	comp:aux	_	Gloss=give
 11	namijì	namijì	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	Gloss=man.Masc
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	conj:coord	_	Gloss=3Masc.PerfBkg
+13	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	10	conj:coord	_	Gloss=3Masc.PerfInd
 14	ci	ci	VERB	_	_	13	comp:aux	_	Gloss=eat
 15	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 16	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -154,7 +154,7 @@
 3	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	2	conj:appos	_	Gloss=love_charm
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	12	mod	_	Gloss=if
-6	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	5	comp:obj	_	Gloss=4.PerfBkg
+6	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	5	comp:obj	_	Gloss=4.PerfInd
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	shì	shi	PRON	_	Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -167,7 +167,7 @@
 16	ci	ci	VERB	_	_	15	comp:aux	_	Gloss=eat
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	cikim	cikin	SCONJ	_	_	16	mod	_	Gloss=while
-19	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	18	comp:obj	_	Gloss=3Masc.PerfNeg
+19	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	18	comp:obj	_	Gloss=3Masc.PerfNeg
 20	sanìː	sanìː	VERB	_	_	19	comp:aux	_	Gloss=know
 21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -187,7 +187,7 @@
 # text_en = If you take it, then, you will catch (bewitch) the one you have intercourse with because of it.
 # text_ortho = ’in kac cii šì, sai šì kaamà wandà kac ci sabòo dà šii.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	kac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	1	comp:obj	_	Gloss=2Masc.PerfBkg
+2	kac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	1	comp:obj	_	Gloss=2Masc.PerfInd
 3	ciː	ci	VERB	_	_	2	comp:aux	_	Gloss=eat
 4	shì	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -195,7 +195,7 @@
 7	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 8	kaːmà	kaːmàː	VERB	_	_	7	comp:aux	_	Gloss=catch
 9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	comp:obj	_	Gloss=who.Masc
-10	kac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	9	mod@relcl	_	Gloss=2Masc.PerfBkg
+10	kac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	9	mod@relcl	_	Gloss=2Masc.PerfInd
 11	ci	ci	VERB	_	_	10	comp:aux	_	Gloss=eat
 12	sabòːdà	sabòːdà	SCONJ	_	_	11	mod	_	Gloss=because
 13	shiː	shiː	PRON	_	Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc
@@ -216,7 +216,7 @@
 6	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	2	parataxis	_	Gloss=3Masc.Sub
 7	kaːmà	kaːmàː	VERB	_	_	6	comp:aux	_	Gloss=catch
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	7	comp:obj	_	Gloss=who.Masc
-9	kay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	8	mod@relcl	_	Gloss=2Masc.PerfBkg
+9	kay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	8	mod@relcl	_	Gloss=2Masc.PerfInd
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	wankaː	wankaː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=bathing.Nmlz.Masc
 12	sabòːdà	sabòːdà	ADP	_	_	10	mod	_	Gloss=because
@@ -243,7 +243,7 @@
 11	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	7	parataxis	_	Gloss=3Masc.Sub
 12	kaːmà	kaːmàː	VERB	_	_	11	comp:aux	_	Gloss=catch
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	12	comp:obj	_	Gloss=who.Masc
-14	kar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	13	mod@relcl	_	Gloss=2Masc.PerfBkg
+14	kar	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	13	mod@relcl	_	Gloss=2Masc.PerfInd
 15	rùngumàː	rùngumàː	VERB	_	_	14	comp:aux	_	Gloss=embrace
 16	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -369,18 +369,18 @@
 # text_ortho = dà wandà yah hwaaɗoo ƙasà, dà wandà yal laƙèe bisà, koo wanè ’ankà saamùu, sai ’à c’intoo šì, ’à c’intoo šì dà daamaa, ’à ƙumšèe gà wata takàrdaa koo wasu ᵲaggàa.
 1	dà	dà	CCONJ	_	_	2	cc@preconj	_	Gloss=and
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	dislocated@comp	_	Gloss=who.Masc
-3	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	mod@relcl	_	Gloss=3Masc.PerfBkg
+3	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	mod@relcl	_	Gloss=3Masc.PerfInd
 4	hwaːɗoː	hwaːɗi	VERB	_	_	3	comp:aux	_	Gloss=fall.Dir|wordform=hwaːɗ
 5	ƙasà	ƙasà	ADV	_	_	4	comp:obl	_	Gloss=on_ground
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	dà	dà	CCONJ	_	_	8	cc@preconj	_	Gloss=and
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	conj:coord	_	Gloss=who.Masc
-9	yal	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	8	mod@relcl	_	Gloss=3Masc.PerfBkg
+9	yal	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	8	mod@relcl	_	Gloss=3Masc.PerfInd
 10	laƙèː	laƙèː	VERB	_	_	9	comp:aux	_	Gloss=pile_up
 11	bisà	bisà	ADP	_	_	10	comp:obl	_	Gloss=on_top_of
 12	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 13	koːwanè	koːwanè	PRON	_	_	18	mod	_	Gloss=whichever
-14	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	13	mod@relcl	_	Gloss=4.PerfBkg
+14	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	13	mod@relcl	_	Gloss=4.PerfInd
 15	saːmùː	saːmùː	VERB	_	_	14	comp:aux	_	Gloss=get
 16	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
@@ -412,7 +412,7 @@
 # text_en = Once you have wrapped it, put it aside.
 # text_ortho = ’in ’ankà ƙumšèe šì, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ƙumshèː	ƙumshèː	VERB	_	_	2	comp:aux	_	Gloss=wrap_up
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -489,7 +489,7 @@
 7	jìbdàː	jìbdàː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=musk.Fem
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	im	in	SCONJ	_	_	18	mod	_	Gloss=if
-10	bà’à	bài	AUX	_	Aspect=PerfNeg|Person=4|Polarity=Neg	9	comp:obj	_	Gloss=4.PerfNeg
+10	bà’à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	9	comp:obj	_	Gloss=4.PerfNeg
 11	sâː	sâː	VERB	_	_	10	comp:aux	_	Gloss=put
 12	shi	shi	PRON	_	Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc
 13	cikin	cikin	ADP	_	_	11	comp:obl	_	Gloss=in(side)
@@ -586,7 +586,7 @@
 24	màːtaː	màːtaː	NOUN	_	Definite=Ind|Gender=Fem	23	comp:obj	_	Gloss=wife.Fem
 25	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 26	in	in	SCONJ	_	_	30	mod	_	Gloss=if
-27	tam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	26	comp:obj	_	Gloss=3Fem.PerfBkg
+27	tam	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	26	comp:obj	_	Gloss=3Fem.PerfInd
 28	mutù	mutù	VERB	_	_	27	comp:aux	_	Gloss=die
 29	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
 30	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	17	comp:obj	_	Gloss=3Masc.ProgNeg
@@ -611,7 +611,7 @@
 5	mijìː	mijìː	NOUN	_	Definite=Ind	4	comp:obj	_	Gloss=husband/male
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-8	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.PerfBkg
+8	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	comp:obj	_	Gloss=3Masc.PerfInd
 9	mutù	mutù	VERB	_	_	8	comp:aux	_	Gloss=die
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -630,7 +630,7 @@
 # text_en = If you get their faeces, nice ones, put them aside.
 # text_ortho = ’in ’ankà sàamu kaašinsù, wandà ’as sàhiihìi, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	kaːshinsù	kaːshiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	3	comp:obj	_	Gloss=faeces.Masc.Def.3Plur.Poss|wordform=kaːshîn
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -651,7 +651,7 @@
 # text_en = When you have put them aside, get some tobacco with pepper.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu taabàa mài yaajìi.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -676,17 +676,17 @@
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	21	dislocated@subj	_	Gloss=who.Masc
 7	duy	dukà	DET	_	_	6	det	_	Gloss=all
-8	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	mod@relcl	_	Gloss=3Masc.PerfBkg
+8	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	mod@relcl	_	Gloss=3Masc.PerfInd
 9	sabàː	sabàː	VERB	_	_	8	comp:aux	_	Gloss=be_used_to
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	shântà	shâːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	10	comp:obj	_	Gloss=drink.Nmlz.Masc.3Fem.Poss|wordform=shâ
 12	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 13	im	in	SCONJ	_	_	21	mod	_	Gloss=if
-14	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	13	comp:obj	_	Gloss=3Masc.PerfNeg
+14	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	13	comp:obj	_	Gloss=3Masc.PerfNeg
 15	sàːmeː	saːmùː	VERB	_	_	14	comp:aux	_	Gloss=get
 16	tà	ta	PRON	_	Gender=Fem|Person=3	15	comp:obj	_	Gloss=3Fem
 17	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
-18	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	15	mod	_	Gloss=3Masc.PerfBkg
+18	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	15	mod	_	Gloss=3Masc.PerfInd
 19	shaː	shaː	VERB	_	_	18	comp:aux	_	Gloss=drink
 20	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 21	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -706,7 +706,7 @@
 # text_en = When you get tobacco with pepper, put it aside.
 # text_ortho = ’in ’ankà sàamu taabàn nan mài yaajìi, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	taːbàn	taːbàː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=tobacco.Fem|wordform=taːbà
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
@@ -740,7 +740,7 @@
 13	ƙòːdagòː	ƙòːdagòː	NOUN	_	Definite=Ind|Gender=Masc	12	mod	_	Gloss=palm_fruit.Masc
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=who.Masc
-16	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	8	mod@relcl	_	Gloss=3Masc.PerfBkg
+16	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	8	mod@relcl	_	Gloss=3Masc.PerfInd
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
 18	zùndà-zundàː	zùndà-zundàː	ADV	_	_	17	comp:pred	_	Gloss=elongated|Ideo=Yes
 19	kàmaz	kàmat	ADP	_	_	17	mod	_	Gloss=like
@@ -768,7 +768,7 @@
 # text_en = When you get them, put them together with the other things that you have gathered.
 # text_ortho = ’in ’ankà sàamee šì, sai ’à gamèe su wuᵲii gùdaa, dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	shì	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -785,7 +785,7 @@
 16	àbuːbuwàː	àbu	NOUN	_	Definite=Ind|Number=Plur	15	mod	_	Gloss=thing.Plur
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	dà	dà	SCONJ	_	_	16	mod@relcl	_	Gloss=that
-19	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	18	comp:obj	_	Gloss=4.PerfBkg
+19	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	18	comp:obj	_	Gloss=4.PerfInd
 20	ɗiːbàː	ɗiːbàː	VERB	_	_	19	comp:aux	_	Gloss=take
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -817,7 +817,7 @@
 # text_en = When they have turned into powder, take it and wrap it up.
 # text_ortho = ’in sunkà zan gàaᵲii, sai ’à kwaašèe ’à ƙumšèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	zan	zama	VERB	_	_	2	comp:aux	_	Gloss=become
 4	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=powder.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -892,7 +892,7 @@
 # text_en = When he has stirred it, he will rub it on his penis and have intercourse with the woman.
 # text_ortho = ’in yak kwaaɓàa, sai šì šaahwàa gà bùuᵲaa, šì taaᵲàa dà màccè.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	kwaːɓàː	kwaːɓàː	VERB	_	_	2	comp:aux	_	Gloss=mix
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -915,7 +915,7 @@
 # text_en = If he has intercourse with the woman, it is with this medicine.
 # text_ortho = ’in yat taaᵲàa dà ’ita, dà waǹnam maagànii.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	taːràː	taːràː	VERB	_	_	2	comp:aux	_	Gloss=gather/have_sex
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	ita	ita	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem
@@ -954,17 +954,17 @@
 6	har̃	har̃	SCONJ	_	_	3	mod	_	Gloss=until
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=medicine/charm.Masc.Cons
 8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
-9	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.PerfBkg
+9	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Masc.PerfInd
 10	kaːmà	kaːmàː	VERB	_	_	9	comp:aux	_	Gloss=catch
 11	jìkim	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=body.Masc|wordform=jìki
 12	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	11	mod	_	Gloss=female.Fem
-13	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	9	conj:coord	_	Gloss=3Masc.PerfBkg
+13	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	9	conj:coord	_	Gloss=3Masc.PerfInd
 14	gamàː	gamàː	VERB	_	_	13	comp:aux	_	Gloss=join
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
 16	jìkiː	jìkiː	NOUN	_	Definite=Ind|Gender=Masc	14	comp:obj	_	Gloss=body.Masc
 17	,	,	PUNCT	_	_	1	punct	_	Gloss=.
 18	in	in	SCONJ	_	_	24	mod	_	Gloss=if
-19	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.PerfBkg
+19	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	18	comp:obj	_	Gloss=3Masc.PerfInd
 20	gamà	gamàː	VERB	_	_	19	comp:aux	_	Gloss=join
 21	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	20	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 22	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -990,7 +990,7 @@
 # text_en = If she has not seen him, she does not feel right, she cannot stay, she must see him.
 # text_ortho = ’im bà tà ganai ba, baà ta dà hankàlii, baà ta ’iyà zamaa, sai taa ganai.
 1	im	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	1	comp:obj	_	Gloss=3Fem.PerfNeg
+2	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	1	comp:obj	_	Gloss=3Fem.PerfNeg
 3	ganai	ganiːai	VERB	_	Gender=Masc|Person=3	2	comp:aux	_	Gloss=see.-3Masc|wordform=gan
 4	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	Gloss=Neg
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1031,9 +1031,9 @@
 15	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	19	comp:obj	_	Gloss=who.Masc
 16	hwaram	hwaraː	ADJ	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=white.Fem|wordform=hwara
 17	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	18	subj	_	Gloss=female.Fem
-18	tash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	13	mod@relcl	_	Gloss=3Fem.PerfBkg
+18	tash	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	13	mod@relcl	_	Gloss=3Fem.PerfInd
 19	shaː	shaː	VERB	_	_	18	comp:aux	_	Gloss=drink
-20	tay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	18	conj:coord	_	Gloss=3Fem.PerfBkg
+20	tay	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	18	conj:coord	_	Gloss=3Fem.PerfInd
 21	yaddàː	yaddàː	VERB	_	_	20	comp:aux	_	Gloss=throw_away
 22	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
@@ -1045,7 +1045,7 @@
 # text_en = If you get it, you must get plenty, pick it up and wrap it up.
 # text_ortho = ’in ’ankà sàamee šì, sai ’à sàamee šì dà daamaa, ’à c’intaa ’à ƙumšèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	shì	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1085,7 +1085,7 @@
 # text_en = After you have put it aside, you look for Azben salt, the tough time, as hard as stone, the one they have in Azben country.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à bìɗi gišiᵲii gàlloo, ’iᵲìn gišiᵲiǹ nan mài ƙaᵲhii, mài tauᵲii kàmad duuc’ìi, ’iᵲìn na ƙasa’ ’abzìn.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1160,9 +1160,9 @@
 # text_en = When you have pounded it into powder, you put the powder into a bottle, you pour a little honey into it, and you stir it.
 # text_ortho = ’in ’ankà dakèe yaz zama gàaᵲii, sai ’à saà gàaᵲiǹ cikin wata kwalbaa, ’à tarhwà ᵲuwan zumàa, ’à mooc’èe -
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
-4	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	conj:coord	_	Gloss=3Masc.PerfBkg
+4	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	conj:coord	_	Gloss=3Masc.PerfInd
 5	zama	zama	VERB	_	_	4	comp:aux	_	Gloss=become
 6	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:pred	_	Gloss=powder.Masc
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1191,7 +1191,7 @@
 # text_en = When you have stirred it then you put it aside.
 # text_ortho = ’in ’ankà mooc’èe, sai ’à ’ajèe -
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	moːc'èː	moːc'èː	VERB	_	_	2	comp:aux	_	Gloss=stir
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1238,7 +1238,7 @@
 # text_en = After he has rubbed it on his penis, he will have intercourse with the woman he loves.
 # text_ortho = ’in yaš šaahwàa gà bùuᵲaa, šì ci màccen dà šì kà soò.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	shaːhwàː	shaːhwàː	VERB	_	_	2	comp:aux	_	Gloss=rub
 4	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
 5	bùːraː	bùːraː	NOUN	_	Definite=Ind|Gender=Fem	4	comp:obj	_	Gloss=penis.Fem
@@ -1297,7 +1297,7 @@
 # text_en = If you know that your love is very small, between you and the woman, you don't do the medicine to her.
 # text_ortho = ’in kas san soǹkà ɗan kàɗan nèe s’akaaninkà dà màccè, baà ka yi mutà maagànii.
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
-2	kas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	1	comp:obj	_	Gloss=2Masc.PerfBkg
+2	kas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	1	comp:obj	_	Gloss=2Masc.PerfInd
 3	san	sanìː	VERB	_	_	2	comp:aux	_	Gloss=know
 4	sônkà	sôːkà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=2	7	subj	_	Gloss=like/love/want.Nmlz.Masc.2Masc.Poss|wordform=sô
 5	ɗan	ɗan	ADV	_	_	6	mod	_	Gloss=small
@@ -1322,7 +1322,7 @@
 # text_ortho = don ’in kam mutà maagànii, na tà soo kà, hay yak kaamà jìkintà, lokàcin dà kag gàji dà ’ita, ka naà soǹ kà ᵲàbu dà ’ita, saǹ nan ’ita baà ta ’iyà ᵲàbuwaa dà kai.
 1	don	don	SCONJ	_	_	33	discourse	_	Gloss=because
 2	in	in	SCONJ	_	_	33	mod	_	Gloss=if
-3	kam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	2	comp:obj	_	Gloss=2Masc.PerfBkg
+3	kam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	2	comp:obj	_	Gloss=2Masc.PerfInd
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=medicine/spell.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -1332,13 +1332,13 @@
 10	kà	nàː	AUX	_	Aspect=Prog|Mood=Ind	9	comp:obj	_	Gloss=ProgInd
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	har̃	har̃	SCONJ	_	_	3	mod	_	Gloss=until
-13	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.PerfBkg
+13	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	12	comp:obj	_	Gloss=3Masc.PerfInd
 14	kaːmà	kaːmàː	VERB	_	_	13	comp:aux	_	Gloss=catch
 15	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	14	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 16	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 17	lokàcin	lokàciː	NOUN	_	Definite=Cons|Gender=Masc	33	mod	_	Gloss=time.Masc|wordform=lokàci
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=that
-19	kag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	18	comp:obj	_	Gloss=2Masc.PerfBkg
+19	kag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	18	comp:obj	_	Gloss=2Masc.PerfInd
 20	gàji	gàji	VERB	_	_	19	comp:aux	_	Gloss=get_tired
 21	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
 22	ita	ita	PRON	_	Gender=Fem|Person=3	21	comp:obj	_	Gloss=3Fem
@@ -1437,7 +1437,7 @@
 # text_en = When you have gathered the blood, then you put it aside.
 # text_ortho = ’in ’ankà tàᵲàaᵲi jiniǹ, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	tàtàːri	taràːraː	VERB	_	_	2	comp:aux	_	Gloss=percolate
 4	jinîn	jiniː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj	_	Gloss=blood.Masc.Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1454,7 +1454,7 @@
 # text_en = When you have put it aside, then you get musk, the pure one, and take some.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu jibdàa, waddà baà ta dà gamìi, ’à ɗiibàa -
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1479,7 +1479,7 @@
 # text_en = When you have taken it, you put it aside.
 # text_ortho = ’in ’ankà ɗiibàa, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1518,7 +1518,7 @@
 # text_en = When it is dry you grind it.
 # text_ortho = ’in tab buušèe, sai ’à niƙèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	tab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tab	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 3	buːshèː	buːshèː	VERB	_	_	2	comp:aux	_	Gloss=dry
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1534,7 +1534,7 @@
 # text_en = After grinding, then you put the powder aside.
 # text_ortho = ’in ’ankà niƙèe, sai ’à ’ajè gàaᵲiǹ.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	niƙèː	niƙèː	VERB	_	_	2	comp:aux	_	Gloss=grind
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1551,7 +1551,7 @@
 # text_en = After putting it aside, you take some water from a pigeon pot, and put it aside.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à ɗeeboo ’yan ᵲuwaa na kaskon ’abaᵲaa, ’à ’ajèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -1596,7 +1596,7 @@
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	15	mod	_	Gloss=type.Masc.Cons
 22	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	21	mod	_	Gloss=who.Fem
-23	tak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	22	mod@relcl	_	Gloss=3Fem.PerfBkg
+23	tak	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	22	mod@relcl	_	Gloss=3Fem.PerfInd
 24	kàmaːtà	kàmaːtà	VERB	_	_	23	comp:aux	_	Gloss=be_proper
 25	à	yà	AUX	_	Mood=Sub|Person=4	23	subj	_	Gloss=4.Sub
 26	gamà	gamàː	VERB	_	_	25	comp:aux	_	Gloss=join
@@ -1631,7 +1631,7 @@
 13	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 14	du'	dukà	DET	_	_	15	det	_	Gloss=all
 15	indà	indà	PRON	_	PronType=Rel	19	mod	_	Gloss=where
-16	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	15	mod@relcl	_	Gloss=3Fem.PerfBkg
+16	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	15	mod@relcl	_	Gloss=3Fem.PerfInd
 17	tàhi	tàhi	VERB	_	_	16	comp:aux	_	Gloss=go
 18	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 19	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -1660,11 +1660,11 @@
 3	jeːmaːgèː	jeːmaːgèː	NOUN	_	Definite=Ind|Gender=Masc	1	conj:appos	_	Gloss=bat.Masc
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	13	mod	_	Gloss=if
-6	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.PerfBkg
+6	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	5	comp:obj	_	Gloss=3Masc.PerfInd
 7	kaːmà	kaːmàː	VERB	_	_	6	comp:aux	_	Gloss=catch
 8	iccèː	iccèː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=tree/stick.Masc
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	conj:coord	_	Gloss=3Masc.PerfBkg
+10	yar	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	conj:coord	_	Gloss=3Masc.PerfInd
 11	riƙèː	riƙèː	VERB	_	_	10	comp:aux	_	Gloss=hold
 12	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 13	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -1674,7 +1674,7 @@
 17	koːmiː	koːmiː	DET	_	_	18	det	_	Gloss=anything
 18	wùyad	wùyaː	NOUN	_	Definite=Cons|Gender=Fem	14	mod	_	Gloss=pain.Fem|wordform=wùya
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
-20	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	19	comp:obj	_	Gloss=3Masc.PerfBkg
+20	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	19	comp:obj	_	Gloss=3Masc.PerfInd
 21	shaː	shaː	VERB	_	_	20	comp:aux	_	Gloss=drink/suffer
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	sai	sai	ADV	_	_	24	mod	_	Gloss=must
@@ -1695,7 +1695,7 @@
 3	bishshiyaː	bishshiyaː	NOUN	_	Definite=Ind|Gender=Fem	1	conj:appos	_	Gloss=hedgehog.Fem
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-6	tad	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	5	comp:obj	_	Gloss=3Fem.PerfBkg
+6	tad	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	5	comp:obj	_	Gloss=3Fem.PerfInd
 7	dunƙùleː	dunƙùleː	VERB	_	_	6	comp:aux	_	Gloss=ball_up
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 9	bâː’a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	0	root	_	Gloss=4.ProgNeg
@@ -1734,19 +1734,19 @@
 16	jìkinsù	jìkiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	15	mod	_	Gloss=body.Masc.3Plur.Poss|wordform=jìki
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	har̃	har̃	SCONJ	_	_	10	mod	_	Gloss=until
-19	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.PerfBkg
+19	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	18	comp:obj	_	Gloss=3Masc.PerfInd
 20	kaːmà	kaːmàː	VERB	_	_	19	comp:aux	_	Gloss=catch
 21	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	20	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 22	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 23	in	in	SCONJ	_	_	29	mod	_	Gloss=if
-24	tas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	23	comp:obj	_	Gloss=3Fem.PerfBkg
+24	tas	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	23	comp:obj	_	Gloss=3Fem.PerfInd
 25	sàrkahwà	sàrkahwà	VERB	_	_	24	comp:aux	_	Gloss=intertwine
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
 27	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	26	comp:obj	_	Gloss=person.Masc
 28	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 29	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	subj	_	Gloss=who.Masc
-31	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	30	mod@relcl	_	Gloss=3Masc.PerfBkg
+31	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	30	mod@relcl	_	Gloss=3Masc.PerfInd
 32	iyà	iyàː	VERB	_	_	31	comp:aux	_	Gloss=be_able
 33	rabàː	rabàː	VERB	_	_	32	comp:obj	_	Gloss=separate
 34	su	su	PRON	_	Person=3	33	comp:obj	_	Gloss=3.Pl
@@ -1767,7 +1767,7 @@
 # text_en = If you take the water of the pidgeon, you mix it with the others, the other things that you have taken, and mix it with that water of the pidgeon.
 # text_ortho = ’in ’ankà ɗeebi ᵲuwan ’abaᵲaa, sai ’à gamàa su dà wa’ànnan sauᵲan, sauᵲan ’abuubuwàa, wa’àndà ’ankà ɗiibàa, ’à kwaaɓèe dà ᵲuwaǹ ga na ’abaᵲaa -
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗeːbì	ɗiːbà	VERB	_	_	2	comp:aux	_	Gloss=take
 4	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=water.Plur|wordform=ruwa
 5	abaraː	abaraː	NOUN	_	Definite=Ind|Gender=Fem	4	mod	_	Gloss=pigeon.Fem
@@ -1784,7 +1784,7 @@
 16	abuːbuwàː	àbù	NOUN	_	Definite=Ind|Number=Plur	13	conj:appos	_	Gloss=thing.Plur
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	20	comp:obj	_	Gloss=who.Plur
-19	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	16	mod@relcl	_	Gloss=4.PerfBkg
+19	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	16	mod@relcl	_	Gloss=4.PerfInd
 20	ɗiːbàː	ɗiːbàː	VERB	_	_	19	comp:aux	_	Gloss=take
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	à	yà	AUX	_	Mood=Sub|Person=4	8	parataxis@conj	_	Gloss=4.Sub
@@ -1804,7 +1804,7 @@
 # text_en = When it is mixed, every time a man goes to a date with his woman, he rubs it on his penis, and has intercourse with the woman.
 # text_ortho = ’in ’ankà kwaaɓèe, dul lookàcin dà mùtun zaà ši wani ša’ànii dà màataššì, sai šì šaahwàa gà màzàakuutàa, šì taaᵲàa dà màccè.
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	kwaːɓèː	kwaːɓèː	VERB	_	_	2	comp:aux	_	Gloss=mix
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	dul	dukà	DET	_	_	6	det	_	Gloss=all
@@ -1838,7 +1838,7 @@
 # text_en = When he has intercourse with her, and the medicine catches her body, then she will keep loving him, she can't leave him, she does not care about anybody, it's only him she loves.
 # text_ortho = ’in yat taaᵲàa dà ’ita, ham maagàniǹ nan yak kaamà jìkintà, sai tà yi ta soònai, baà ta ’iyà ᵲàbuwaa dà šii, baà ᵲuwantà dà koowaa, sai šii kaɗai ta kà soò.
 1	in	in	SCONJ	_	_	15	mod	_	Gloss=if
-2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	taːràː	taːràː	VERB	_	_	2	comp:aux	_	Gloss=gather/have_sex
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	ita	ita	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem
@@ -1846,7 +1846,7 @@
 7	har̃	har̃	SCONJ	_	_	3	mod	_	Gloss=until
 8	maːgànîn	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	10	subj	_	Gloss=medicine/charm.Masc.Cons
 9	nan	nan	DET	_	Definite=Def|PronType=Dem	8	det	_	Gloss=Def
-10	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.PerfBkg
+10	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	comp:obj	_	Gloss=3Masc.PerfInd
 11	kaːmà	kaːmàː	VERB	_	_	10	comp:aux	_	Gloss=catch
 12	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	11	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 13	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1910,7 +1910,7 @@
 # text_en = When you have got them, you break the shell, you remove the seeds.
 # text_ortho = ’in ’ankà sàamee sù, sai ’à ƙwanƙwàlè kwàlhwaa, ’à hiddà ɗiyaǹ.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	sù	sù	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1966,7 +1966,7 @@
 # text_en = When you have got them, you put them aside.
 # text_ortho = ’in ’ankà sàamee sù, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	sù	sù	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2012,7 +2012,7 @@
 # text_en = After he has swallowed them, let him wait.
 # text_ortho = ’in yah haɗèe, sai šì ƙyaalèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	haɗèː	haɗèː	VERB	_	_	2	comp:aux	_	Gloss=swallow
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -2034,7 +2034,7 @@
 5	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:aux	_	Gloss=faeces.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	14	mod	_	Gloss=if
-8	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.PerfBkg
+8	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	comp:obj	_	Gloss=3Masc.PerfInd
 9	tàhi	tàhi	VERB	_	_	8	comp:aux	_	Gloss=go
 10	wurin	wurin	ADP	_	Definite=Cons	9	comp:obl	_	Gloss=at|wordform=wuri
 11	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	10	comp:obj	_	Gloss=excrement.Masc
@@ -2057,7 +2057,7 @@
 # text_en = With the bowl, he goes to defecate.
 # text_ortho = ’in yat tàhi dà gwangwanii, sai šì zoo šì yi kaašii.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	tàhi	tàhi	VERB	_	_	2	comp:aux	_	Gloss=go
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	gwangwaniː	gwangwaniː	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=tin.Masc
@@ -2078,7 +2078,7 @@
 # text_en = After he has defecated, let him take a stick, and start to scour the feces with a stick, let him scour carefully.
 # text_ortho = ’in yay yi kaašii, sai šì ɗaukoo ’iccèe, šì yi ta toonà kaašiǹ dà ’iccèe, šì toonàa dà hankàlii.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=faeces.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2109,14 +2109,14 @@
 # text_en = If he sees those groundnuts that he has eaten, if they are covered in feces, let him take those nine groundnuts, and wash them with water.
 # text_ortho = ’in yag ga gujjiyaƙ ƙùᵲugàn nan, waddà yah hàɗaa, ’in yaa kaasayoo tà, sai šì ɗaukèe ta, gujjiyaǹ nan tarà, sai šì wankèe dà ᵲuwaa.
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	gujjiyaƙ	gujjiyaː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=groundnut.Fem|wordform=gujjiya
 5	ƙùrugàn	ƙùrugà	NOUN	_	Definite=Cons|Gender=Fem	4	mod	_	Gloss=one_seed_groundnut.Fem.Cons
 6	nan	nan	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=Def
 7	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 8	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	10	comp:obj	_	Gloss=who.Fem
-9	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	4	mod@relcl	_	Gloss=3Masc.PerfBkg
+9	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	4	mod@relcl	_	Gloss=3Masc.PerfInd
 10	hàɗaː	hàɗaː	VERB	_	_	9	comp:aux	_	Gloss=swallow
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	in	in	SCONJ	_	_	18	mod	_	Gloss=if
@@ -2148,7 +2148,7 @@
 # text_en = After he has washed the feces off, let him take them away and grind them while they are moist.
 # text_ortho = ’in yaw wankèe mutà kaašii, sai šì tàhi dà ’ita, šì niƙèe tun ta nàa dà damšii.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	wankèː	wankèː	VERB	_	_	2	comp:aux	_	Gloss=wash
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj@T	_	Gloss=faeces.Masc
@@ -2175,7 +2175,7 @@
 # text_en = After grinding, let him put them to dry in the sun.
 # text_ortho = ’in yan niƙèe, sai šì šanyàa tà buušèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yan	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yan	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	niƙèː	niƙèː	VERB	_	_	2	comp:aux	_	Gloss=grind
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -2193,7 +2193,7 @@
 # text_en = When they are dry, you pound them into powder and you wrap up the powder.
 # text_ortho = ’in tab buušèe, sai ’à ƙaaᵲà dakèe ta, tà yi gàaᵲii, ’à ƙumšè gàaᵲiǹ -
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	tab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tab	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 3	buːshèː	buːshèː	VERB	_	_	2	comp:aux	_	Gloss=dry
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -2219,7 +2219,7 @@
 # text_en = After you have wrapped up the powder, you put it aside.
 # text_ortho = ’in ’ankà ƙumšè gàaᵲiǹ, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ƙumshè	ƙumshèː	VERB	_	_	2	comp:aux	_	Gloss=wrap_up
 4	gàːrîn	gàːriː	NOUN	_	Definite=Def|Gender=Masc	3	comp:obj	_	Gloss=flour.Masc.Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2236,7 +2236,7 @@
 # text_en = After you have put them aside, you look for (ordinary) groundnuts.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à bìɗi gujjiyaa,
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -2292,7 +2292,7 @@
 # text_en = After you have put them aside, you get tamarind fruit, you take the shells, you remove the seeds and throw them away to work with the sweet part, and get some sugar.
 # text_ortho = ’in ’ankà ’ajèe, ’à sàamu ɗiyan s’aamiyaa, ’à ɗeebè kwàlhwak̀, ’à hiddà ɗiyaǹ ’à yaddàa, ’à yi ’aikìi dà mài zaaƙiǹ - sai ’à sàamu sukàᵲii.
 1	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -2331,7 +2331,7 @@
 # text_en = When you have the sugar, all those other things that you have picked, you put them together.
 # text_ortho = ’in ’ankà sàamu sukàᵲii, duw wa’ànnan sauᵲan ’àbuubuwàa, dà ’ankà ɗiibàa, sai ’à gamèe su wuᵲii gùdaa.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	sukàriː	sukàriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=sugar.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2341,7 +2341,7 @@
 9	àbuːbuwàː	àbuːbuwàː	NOUN	_	Definite=Ind|Number=Plur	16	dislocated@comp	_	Gloss=thing.Plur
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=that
-12	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	11	comp:obj	_	Gloss=4.PerfBkg
+12	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	11	comp:obj	_	Gloss=4.PerfInd
 13	ɗiːbàː	ɗiːbàː	VERB	_	_	12	comp:aux	_	Gloss=take
 14	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=then
@@ -2360,7 +2360,7 @@
 # text_en = When they are together, you put them in a mortar and pound them.
 # text_ortho = ’in ’ankà gameèe su wuᵲii gùda, sai ’à saà gà tuᵲmii, ’à dakèe.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	Gloss=join.Ach
 4	su	su	PRON	_	Person=3	3	comp:obj@T	_	Gloss=3.Pl
 5	wuriː	wuriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj@L	_	Gloss=place.Masc
@@ -2384,10 +2384,10 @@
 # text_en = After they are pounded, they have become powder, you put them aside.
 # text_ortho = ’in ’ankà dakèe, yaz zama gàaᵲii, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	conj:coord	_	Gloss=3Masc.PerfBkg
+5	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	conj:coord	_	Gloss=3Masc.PerfInd
 6	zama	zama	VERB	_	_	5	comp:aux	_	Gloss=become
 7	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	6	comp:pred	_	Gloss=powder.Masc
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2404,7 +2404,7 @@
 # text_en = After you have put it aside, you look for a horn, you cut it, you cut it well, you remove it clean from the inside.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à nèemi ƙàhoo, ’à sassàƙee šì, ’à sassàƙee šì dà kyaù, ’à kwaᵲkwàᵲè dàc cikìi.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -2460,7 +2460,7 @@
 # text_en = After you have removed the mouth, that powdered medicine that you have put aside, you take it, you pour it into the horn.
 # text_ortho = ’in ’ankà yankèe mai bàakii, waǹnan gàaᵲim maagànii, wandà ’ankà ’ajèe, sai ’à ɗàukee šì, ’à zubàa ši cikin ƙàhoo.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	yankèː	yankèː	VERB	_	_	2	comp:aux	_	Gloss=kill
 4	mai	mai	PRON	_	Gender=Masc|Person=3	3	comp:obl	_	Gloss=3Masc.Dat
 5	bàːkiː	bàːkiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=mouth.Masc
@@ -2470,7 +2470,7 @@
 9	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	8	mod	_	Gloss=medicine/charm.Masc
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	comp:obj	_	Gloss=who.Masc
-12	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	8	mod@relcl	_	Gloss=4.PerfBkg
+12	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	8	mod@relcl	_	Gloss=4.PerfInd
 13	ajèː	ajèː	VERB	_	_	12	comp:aux	_	Gloss=put_aside
 14	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=then
@@ -2493,7 +2493,7 @@
 # text_en = After pouring it into the horn, you put some honey and you stir it.
 # text_ortho = ’in ’ankà zubàa ši cikin ƙàhoo, sai ’à saà ᵲuwan zumùwaa, sai ’à mooc’èe.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	zubàː	zubàː	VERB	_	_	2	comp:aux	_	Gloss=pour
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	cikin	cikin	ADP	_	_	3	comp:obl	_	Gloss=in
@@ -2518,7 +2518,7 @@
 # text_en = After stirring it, you put it aside.
 # text_ortho = ’in ’ankà mooc’èe, sai mùtun šì ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	moːc'èː	moːc'èː	VERB	_	_	2	comp:aux	_	Gloss=stir
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	7	mod	_	Gloss=then
@@ -2537,7 +2537,7 @@
 1	dul	dukà	DET	_	_	2	det	_	Gloss=all
 2	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=time.Masc|wordform=loːkàci
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=that
-4	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.PerfBkg
+4	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	3	comp:obj	_	Gloss=3Masc.PerfInd
 5	yi	yi	VERB	_	_	4	comp:aux	_	Gloss=do
 6	niyyàː	niyyàː	NOUN	_	Definite=Ind|Gender=Fem	5	comp:pred	_	Gloss=effort.Fem
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -2572,7 +2572,7 @@
 # text_en = When he has intercourse with the woman, he always does like this, until the medicine joins the woman's body, then she will keep clinging to the man, she won't be able to leave him.
 # text_ortho = ’in yat taaᵲàa dà ’ita, kullun ši nàa yiǹ hakà nan, ham maagànii yag gamà jìkim màccè, sai tà yi ta sàᵲkahwàm mùtun, baà ta ’iyà ᵲàbuwaa dà šii.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	taːràː	taːràː	VERB	_	_	2	comp:aux	_	Gloss=gather/have_sex
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	ita	ita	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem
@@ -2584,7 +2584,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	har̃	har̃	SCONJ	_	_	9	mod	_	Gloss=until
 13	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	14	subj	_	Gloss=medicine/charm.Masc
-14	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc.PerfBkg
+14	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	12	comp:obj	_	Gloss=3Masc.PerfInd
 15	gamà	gamàː	VERB	_	_	14	comp:aux	_	Gloss=join
 16	jìkim	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=body.Masc|wordform=jìki
 17	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	16	mod	_	Gloss=female.Fem
@@ -2657,7 +2657,7 @@
 8	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	9	det	_	Gloss=Prox.Masc/Fem
 9	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	23	dislocated@subj	_	Gloss=medicine/charm.Masc.Def
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=that
-11	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.PerfBkg.[do]
+11	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	10	comp:obj	_	Gloss=3Masc.PerfBkg.[Ind
 12	mâː	mâː	ADP	_	_	11	comp:obl	_	Gloss=Dat
 13	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	12	comp:obj	_	Gloss=female.Fem
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -2690,7 +2690,7 @@
 # text_ortho = maagàniǹ wandà yam mutà, yaa koomàa gàᵲai.
 1	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	6	subj	_	Gloss=medicine/charm.Masc.Def
 2	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	1	conj:appos	_	Gloss=who.Masc
-3	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	mod@relcl	_	Gloss=3Masc.PerfBkg
+3	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	mod@relcl	_	Gloss=3Masc.PerfInd
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
@@ -2714,7 +2714,7 @@
 5	du'	dukà	DET	_	_	6	det	_	Gloss=all
 6	abuːbuwàn	abuːbuwàː	NOUN	_	Definite=Cons|Number=Plur	19	dislocated@comp	_	Gloss=thing.Plur|wordform=abuːbuwà
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=that
-8	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	7	comp:obj	_	Gloss=4.PerfBkg
+8	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	7	comp:obj	_	Gloss=4.PerfInd
 9	sânyaː	sânyaː	VERB	_	_	8	comp:aux	_	Gloss=put
 10	cikim	cikin	ADP	_	_	9	comp:obl	_	Gloss=in(side)
 11	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	10	comp:obj	_	Gloss=medicine/charm.Masc.Def
@@ -2743,11 +2743,11 @@
 # text_en = If he eats them before finishing using the medicine, the medicine will catch him.
 # text_ortho = ’in yac cii sù, bài gamà yim̀ maagànim ba, sai maagàniǹ šì kaamàa ši.
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
-2	yac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ciː	ci	VERB	_	_	2	comp:aux	_	Gloss=eat
 4	sù	sù	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	2	conj:coord	_	Gloss=3Masc.PerfNeg
+6	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	2	conj:coord	_	Gloss=3Masc.PerfNeg
 7	gamà	gamàː	VERB	_	_	6	comp:aux	_	Gloss=finish
 8	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:obj	_	Gloss=do.Nmlz.Masc|wordform=yî
 9	maːgànîm	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	8	udep	_	Gloss=medicine/charm.Masc.Def
@@ -2805,7 +2805,7 @@
 36	sai	sai	ADV	_	_	37	mod	_	Gloss=then
 37	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=time.Masc|wordform=loːkàci
 38	dà	dà	SCONJ	_	_	37	mod@relcl	_	Gloss=that
-39	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	38	comp:obj	_	Gloss=3Masc.PerfBkg
+39	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	38	comp:obj	_	Gloss=3Masc.PerfInd
 40	gamà	gamàː	VERB	_	_	39	comp:aux	_	Gloss=finish
 41	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	40	comp:obj	_	Gloss=medicine/charm.Masc
 42	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
@@ -2878,7 +2878,7 @@
 # text_en = After you have taken them home, it's in the evening you pick them, just before sunset.
 # text_ortho = ’in ’ankà zoo dà suu gidaa, dà màᵲaicee ’a kà ɗeeboo sù, ᵲaanaa nàa šiᵲin hwaaɗùwaa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	zoː	zoː	VERB	_	_	2	comp:aux	_	Gloss=come
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	suː	suː	PRON	_	Number=Plur|Person=3	4	comp:obj	_	Gloss=3Plur
@@ -2933,13 +2933,13 @@
 # text_en = After hiding them, when night comes, the woman that the man loves, if he has intercourse with her, he won't wash his penis with water, he won't rub it with any cloth but he will take those "runhu" leaves that he has kept, and rub his penis with them.
 # text_ortho = ’in yaɓ ɓooyèe su, ’in daᵲee yay yi, ’ita màccen dà mùtun kà soò, ’im mùtun yat taaᵲàa dà ’ita, baà ši wankè màzàakuutàatai dà ᵲuwaa, baà ši šaahèewaa dà wani ƙyallee, sai šì ɗaukoo kunnàn nan na ᵲunhuu, wa’àndà ya’ ’ajèe, sai šì šaahè màzàakuutàatai dà suu.
 1	in	in	SCONJ	_	_	25	mod	_	Gloss=if
-2	yaɓ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaɓ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ɓoːyèː	ɓoːyèː	VERB	_	_	2	comp:aux	_	Gloss=hide
 4	su	su	PRON	_	Person=3	3	comp:obj	_	Gloss=3.Pl
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	25	mod	_	Gloss=if
 7	dareː	dareː	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	Gloss=night.Masc
-8	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.PerfBkg
+8	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Masc.PerfInd
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 11	ita	ita	PRON	_	Gender=Fem|Person=3	25	dislocated@comp	_	Gloss=3Fem
@@ -2951,7 +2951,7 @@
 17	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 18	im	in	SCONJ	_	_	25	mod	_	Gloss=if
 19	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	20	subj	_	Gloss=person.Masc
-20	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	18	comp:obj	_	Gloss=3Masc.PerfBkg
+20	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	18	comp:obj	_	Gloss=3Masc.PerfInd
 21	taːràː	taːràː	VERB	_	_	20	comp:aux	_	Gloss=gather/have_sex
 22	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
 23	ita	ita	PRON	_	Gender=Fem|Person=3	22	comp:obj	_	Gloss=3Fem
@@ -2977,7 +2977,7 @@
 43	runhuː	runhuː	NOUN	_	Definite=Ind|Gender=Masc	42	comp:obj	_	Gloss=tree_sp.Masc
 44	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
 45	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	47	comp:obj	_	Gloss=who.Plur
-46	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	40	mod@relcl	_	Gloss=3Masc.PerfBkg
+46	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	40	mod@relcl	_	Gloss=3Masc.PerfInd
 47	ajèː	ajèː	VERB	_	_	46	comp:aux	_	Gloss=put_aside
 48	,	,	PUNCT	_	_	50	punct	_	Gloss=PUNCT
 49	sai	sai	ADV	_	_	50	mod	_	Gloss=then
@@ -2996,7 +2996,7 @@
 # text_en = After rubbing, he will leave them to dry.
 # text_ortho = ’in yaš šaahèe, sai šì ’ajèe, sù buušèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	shaːhèː	shaːhèː	VERB	_	_	2	comp:aux	_	Gloss=rub
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -3031,7 +3031,7 @@
 # text_en = After pounding, you sift it and separate the powder from the siftings.
 # text_ortho = ’in ’ankà dakèe, sai ’à tankàɗee, ’à hiddà gàaᵲii, ’à hiddà s’àkii.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -3055,7 +3055,7 @@
 # text_en = After removing the siftings, you keep pounding the siftings until it becomes powder.
 # text_ortho = ’in ’ankà hiddà s’àkii, sai ’à ƙaaᵲà dakà s’àkiǹ, šì zama gàaᵲii.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	hiddà	hiddàː	VERB	_	_	2	comp:aux	_	Gloss=remove
 4	s'àkiː	s'àkiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=siftings.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3078,7 +3078,7 @@
 # text_en = When it has become powder, you put it together and keep it.
 # text_ortho = ’in yaz zama gàaᵲii, sai ’à gamèe ši wuᵲii gùdaa, ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	zama	zama	VERB	_	_	2	comp:aux	_	Gloss=become
 4	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=flour.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3135,7 +3135,7 @@
 12	dà	dà	SCONJ	_	_	11	mod@relcl	_	Gloss=that
 13	hannuwàntà	hannuwàːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	14	subj	_	Gloss=hand/arm.Plur.3Fem.Poss|wordform=hannuwà
 14-15	sunkài	_	_	_	_	_	_	_	_
-14	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	12	comp:obj	_	Gloss=3Plur.PerfBkg
+14	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	12	comp:obj	_	Gloss=3Plur.PerfInd
 15	yi	yi	VERB	_	_	14	comp:aux	_	Gloss=do
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	à	yà	AUX	_	Mood=Sub|Person=4	2	parataxis@conj	_	Gloss=4.Sub
@@ -3254,7 +3254,7 @@
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	sai	sai	SCONJ	_	_	22	mod	_	Gloss=then
 28	waddà	waddà	PRON	_	PronType=Rel	27	comp:obj	_	Gloss=what
-29	kam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	28	mod@relcl	_	Gloss=2MascSing.PerfBkg
+29	kam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	28	mod@relcl	_	Gloss=2MascSing.PerfInd
 30	mutà	mutà	PRON	_	Gender=Fem|Person=3	29	comp:obl	_	Gloss=3Fem.Dat
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	sai	sai	ADP	_	_	22	mod	_	Gloss=then
@@ -3290,7 +3290,7 @@
 # text_ortho = ’in ’ankài maagàniǹ, sai ’à baà màccè tà ci, sabòo dà soǹtà šì yi yawàa, s’àkaanintà dà mùtun.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
 2-3	ankài	_	_	_	_	_	_	_	_
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	3	comp:pred	_	Gloss=medicine/charm.Masc.Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3345,7 +3345,7 @@
 # text_en = When you have those four hens, you kill them.
 # text_ortho = ’in ’ankà sàamu kàajiǹ nan suu huɗu, sai ’à yankèe su.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	kàːjîn	kàːjiː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=hen.Plur.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
@@ -3416,7 +3416,7 @@
 # text_en = After putting the hearts aside, you get the heart of a female dog, a new-born little puppy that has not opened its eyes yet.
 # text_ortho = ’in ’ankà ’ajèe zucciyooyiǹ, sai ’à sàamu zuccìyak kàᵲyaa, kàᵲyaa kwikwiyàa, waddà ’ankà hàihwaa ta nàa ’yaƙ ƙàᵲamaa, tum bà tà buuɗè ’idòo ba.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajè	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	zucciyoːyîn	zucciyoːyiː	NOUN	_	Definite=Def|Number=Plur	3	comp:obj	_	Gloss=heart.Plur.Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3430,14 +3430,14 @@
 13	kwikwiyàː	kwikwiyàː	ADJ	_	Gender=Fem	12	mod	_	Gloss=puppy.Fem
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	17	comp:obj	_	Gloss=who.Fem
-16	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	12	mod@relcl	_	Gloss=4.PerfBkg
+16	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	12	mod@relcl	_	Gloss=4.PerfInd
 17	hàihwaː	hàihwaː	VERB	_	_	16	comp:aux	_	Gloss=give_birth
 18	tanàː	kè	AUX	_	Gender=Fem|Person=3	16	parataxis@conj	_	Copula=Yes|Gloss=3Fem.Pred/Loc|wordform=ta
 19	'yaƙ	ɗan	ADJ	_	Gender=Fem	20	mod	_	Gloss=little.Fem
 20	ƙàramaː	ƙàramaː	ADJ	_	Gender=Fem	18	comp:pred	_	Gloss=small.Fem
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	tum	tun	SCONJ	_	_	18	mod	_	Gloss=since
-23	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	22	comp:obj	_	Gloss=3Fem.PerfNeg
+23	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	22	comp:obj	_	Gloss=3Fem.PerfNeg
 24	buːɗè	buːɗèː	VERB	_	_	23	comp:aux	_	Gloss=open
 25	idòː	idòː	NOUN	_	Definite=Ind|Gender=Masc	24	comp:obj	_	Gloss=eye.Masc
 26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	24	mod	_	Gloss=Neg
@@ -3484,7 +3484,7 @@
 # text_en = After putting the heart aside, the man gets a straight razor or a safety razor, he takes his fingernails and cuts them with the razor.
 # text_ortho = ’in ’ankà ’ajè zuccìyay, sai mùtun yà sàamu ’askaa, koo reezàa, šì kaamà ’àkàihuunai na hannuwàa, šì ɗiibàa dà ’askaa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajè	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	zuccìyây	zuccìyaː	NOUN	_	Definite=Def|Gender=Fem	3	comp:obj	_	Gloss=heart.Fem.Def
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3536,7 +3536,7 @@
 # text_en = After taking the fingernails, let him take the toenails.
 # text_ortho = ’in yaɗ ɗèebi ’àkàihwun hannuwàa, kuma sai šì ɗeeboo na ƙaahuwàa.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ɗèːbi	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	àkàihwun	àkàihwuː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=nail.Plur|wordform=àkàihwu
 5	hannuwàː	hannuː	NOUN	_	Definite=Ind|Number=Plur	4	mod	_	Gloss=hand/arm.Plur
@@ -3557,7 +3557,7 @@
 # text_en = After taking the toenails, he puts them with the finger ones.
 # text_ortho = ’in yaɗ ɗeeboo na ƙahwaahuwàa, sai šì gamèe dà na hannuwàa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeːb
 4	na	na/ta	ADP	_	_	3	comp:obj	_	Gloss=of
 5	ƙahwaːhuwàː	ƙahwàː	NOUN	_	Definite=Ind|Number=Plur	4	comp:obj	_	Gloss=foot/leg.Plur
@@ -3622,7 +3622,7 @@
 # text_en = After putting them aside, you take a straight razor or a safety razor for the man to shave his armpit hair.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à saà ’àskaa koo reezàa, mùtun šì ɗèebi gaašìn hamùttaatai,
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -3664,7 +3664,7 @@
 # text_en = After shaving off the armpit hair, you mix it with the fingernails.
 # text_ortho = ’in ’ankà ɗèebi gaašìn hamùttaa, sai ’à gamèe dà ‘àkàihun hannuwàa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗèːbi	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	gaːshìn	gaːshìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=hair.Masc|wordform=gaːshì
 5	hamùttaː	hamùttaː	NOUN	_	Definite=Ind|Number=Plur	4	mod	_	Gloss=armpit.Plur
@@ -3685,7 +3685,7 @@
 # text_en = After mixing them, you take a safety razor, you remove the eyebrows, you remove the pubic hair, and mix it with the nails, put it inside a white rag and wrap it up.
 # text_ortho = ’in ’ankà gamèe, kuma sai ’à saà reezàa, ’à ɗeeboo gaašìn gàban gòošii, ’à ɗeeboo gaašìn zaazaa, ’à gamèe wuᵲii gùdaa dà ’àkàihuu, ’à saà cikin hwaᵲhwaᵲun ᵲaggàa, ’à ƙumšèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	Gloss=join.Ach
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	Gloss=also
@@ -3759,7 +3759,7 @@
 # text_en = After you have put it inside the pot, you put it on the fire and you watch the fire until it is burnt.
 # text_ortho = ’in ’ankà ’azàa ši cikin kaskoo, sai ’à liiƙàa mai wutaa, ’à s’aᵲè wutaa hat tà tooyèe.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	azàː	azàː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	cikin	cikin	ADP	_	_	3	comp:obl	_	Gloss=in(side)
@@ -3787,7 +3787,7 @@
 # text_en = When the fire has burnt the rag with the nails and the hair and they have become ashes, then you take the ashes.
 # text_ortho = ’in tat tooyè ᵲaggàn nan, tàaᵲe dà ’àkàihuu dà gaašì, sunkà zama tòokaa, sai ’à kwaašè tòokak.
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-2	tat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 3	toːyè	toːyèː	VERB	_	_	2	comp:aux	_	Gloss=fry.Ach
 4	raggàn	raggàː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=cloth/rags.Plur.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
@@ -3798,7 +3798,7 @@
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
 11	gaːshìː	gaːshìː	NOUN	_	Definite=Ind|Gender=Masc	9	conj:coord	_	Gloss=hair.Masc
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfBkg
+13	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfInd
 14	zama	zama	VERB	_	_	13	comp:aux	_	Gloss=become
 15	tòːkaː	tòːkaː	NOUN	_	Definite=Ind|Gender=Fem	14	comp:pred	_	Gloss=ashes.Fem
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3816,7 +3816,7 @@
 # text_en = After taking the ashes, you put them inside a sheet of paper, you wrap the ashes and put it aside.
 # text_ortho = ’in ’ankà kwaašè tòokaa, sai ’à saà cikin wata takàrdaa, ’à ƙumšè tòokaa ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	kwaːshè	kwaːshèː	VERB	_	_	2	comp:aux	_	Gloss=collect
 4	tòːkaː	tòːkaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=ashes.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -3842,7 +3842,7 @@
 # text_en = After putting it aside, you get a discarded gourd, a new one, or you get a new potsherd and put it aside.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu koomoo saboo, koo ’à sàamu saabon kaskoo, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -3870,25 +3870,25 @@
 # text_en = After you have put the pot aside, and the man has slept, he gets up in the morning, and before talking with anyone, when going to wash himself, let him pray and take that pot.
 # text_ortho = ’in ’ankà ’ajè kaskoǹ nan, ’im mùtun yay yi kwaanaa, yat taašì tun dà swaahe, tum bài yi màganàa dà koowaa ba. ’in zaà ši wankè ’idòo, šì yi sallàa, sai šì ɗaukoo kaskoǹ nan ’in yaɗ ɗeeboo ᵲuwan wankìn ’idòo, sai šì taᵲà kaskoo, šì yi s’aᵲkii cikii.
 1	in	in	SCONJ	_	_	37	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajè	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	kaskôn	kaskoː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=potsherd.Masc.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	im	in	SCONJ	_	_	37	mod	_	Gloss=if
 8	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	9	subj	_	Gloss=person.Masc
-9	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.PerfBkg
+9	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	comp:obj	_	Gloss=3Masc.PerfInd
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:pred	_	Gloss=spend_night.Nmlz.Masc
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfBkg
+13	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	9	parataxis@conj	_	Gloss=3Masc.PerfInd
 14	taːshì	taːshì	VERB	_	_	13	comp:aux	_	Gloss=rise
 15	tun	tun	SCONJ	_	_	14	mod	_	Gloss=since
 16	dà	dà	ADP	_	_	15	comp:obj	_	Gloss=with
 17	swaːhe	swaːhe	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	Gloss=morning.Masc
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 19	tum	tun	SCONJ	_	_	14	mod	_	Gloss=since
-20	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	19	comp:obj	_	Gloss=3Masc.PerfNeg
+20	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	19	comp:obj	_	Gloss=3Masc.PerfNeg
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	21	comp:pred	_	Gloss=talk.Fem
 23	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
@@ -3919,7 +3919,7 @@
 # text_en = When he takes the water to wash himself, let him get the pot, perform his ablutions inside, and collect the water inside.
 # text_ortho = ’in yaɗ ɗeeboo ᵲuwan wankìn ’idòo, sai šì taᵲà kaskoo, šì yi s’aᵲkii cikii, šì kaamà ᵲuwaa cikii.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	yaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ɗeeboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeeb
 4	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=water.Plur|wordform=ruwa
 5	wankìn	wankìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	mod	_	Gloss=wash.Nmlz.Masc|wordform=wankì
@@ -3949,7 +3949,7 @@
 # text_en = After collecting the water inside, let him put water in his mouth, use his hand or his chewing stick to wash his mouth, collect the water into the pot, wash again his mouth with his hand or a chewing-stick, and collect (the water) into the pot.
 # text_ortho = ’in yak kaamà ᵲuwaa cikii, sai šì saà ᵲuwaa cikim bàakiinai, šì saà hannuu koo ’asawàakii, šì wanke bàakiinai, šì zubà ᵲuwaǹ nan cikin kaskoo, kuma šì koomàa šì wankè bàakiinai, šì zubàa nan cikin kaskoo.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	kaːmà	kaːmàː	VERB	_	_	2	comp:aux	_	Gloss=catch
 4	ruwaː	ruwaː	NOUN	_	Definite=Ind|Number=Plur	3	comp:obj	_	Gloss=water.Plur
 5	cikiː	cikiː	ADV	_	_	3	mod	_	Gloss=inside
@@ -4000,7 +4000,7 @@
 # text_en = When he has finished washing his mouth, let him put his hands in the pot, wash them with the water, the water staying in the pot without dropping to the ground.
 # text_ortho = ’in yag gamà wankìm bàakii, sai šì taᵲà hannuwàanai cikin kaskoo, šì wankèe dà ᵲuwaa, ᵲuwaǹ sù zùba nan cikin kaskoo, kas̀ sù zùba gà ƙasaa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	gamàː	gamàː	VERB	_	_	2	comp:aux	_	Gloss=finish
 4	wankìm	wankìː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:obj	_	Gloss=wash.Nmlz.Masc|wordform=wankì
 5	bàːkiː	bàːkiː	NOUN	_	Definite=Ind|Gender=Masc	4	udep	_	Gloss=mouth.Masc
@@ -4039,7 +4039,7 @@
 # text_en = After washing his hands, let him wash his face.
 # text_ortho = ’in yaw wankè hannuwàa, sai šì wankè ’idòo,
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	wankè	wankèː	VERB	_	_	2	comp:aux	_	Gloss=wash
 4	hannuwàː	hannuː	NOUN	_	Definite=Ind|Number=Plur	3	comp:obj	_	Gloss=hand/arm.Plur
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -4077,7 +4077,7 @@
 # text_en = After washing his face, let him put his feet in the pot, wash them, wash them as if he is doing his ritual ablutions.
 # text_ortho = ’in yaw wankè ’idòo, sai šì taᵲà ƙaahuwàa, nan cikin kaskoo šì wankèe su, šì wankèe kàmaš ši nàa ’àlwàllaa.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	wankè	wankèː	VERB	_	_	2	comp:aux	_	Gloss=wash
 4	idòː	idòː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=eye.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -4108,7 +4108,7 @@
 # text_en = After washing his feet, let him put (the pot) aside.
 # text_ortho = ’in yaw wankè ᵲuwan ƙahwàahuu, sai šì ’ajèe.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	wankè	wankèː	VERB	_	_	2	comp:aux	_	Gloss=wash
 4	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	3	comp:obj	_	Gloss=water.Plur|wordform=ruwa
 5	ƙahwàːhuː	ƙahwàːhuː	NOUN	_	Definite=Ind|Number=Plur	4	mod	_	Gloss=foot/leg.Plur
@@ -4126,7 +4126,7 @@
 # text_en = After putting it aside, if it's time for prayer, let him go and pray.
 # text_ortho = ’in ya’ ’ajèe, ’in sallàa zaà šì, ši tàhi šì yi sallàa.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	10	mod	_	Gloss=if
@@ -4174,13 +4174,13 @@
 # text_ortho = ƙàzàmtad dà ’ankà wankèe, dà dauɗàd dà ’ankà wankèe, sù kwaǹtaa ƙasà gà ᵲuwaa.
 1	ƙàzàmtad	ƙàzàmtaː	NOUN	_	Definite=Cons|Gender=Fem	12	dislocated@subj	_	Gloss=dirt.Fem|wordform=ƙàzàmta
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	2	comp:obj	_	Gloss=4.PerfBkg
+3	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	2	comp:obj	_	Gloss=4.PerfInd
 4	wankèː	wankèː	VERB	_	_	3	comp:aux	_	Gloss=wash
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	dauɗàd	dauɗàː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:coord	_	Gloss=dirt.Fem|wordform=dauɗà
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=when
-9	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	8	comp:obj	_	Gloss=4.PerfBkg
+9	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	8	comp:obj	_	Gloss=4.PerfInd
 10	wankèː	wankèː	VERB	_	_	9	comp:aux	_	Gloss=wash
 11	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 12	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
@@ -4200,11 +4200,11 @@
 1	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 2	ƙàzàmtân	ƙàzàmtaː	NOUN	_	Definite=Cons|Gender=Fem	4	subj	_	Gloss=dirt.Fem.Cons
 3	nan	nan	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
-4	tak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+4	tak	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 5	kwântaː	kwântaː	VERB	_	_	4	comp:aux	_	Gloss=lie_down
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	ruwaː	ruwaː	NOUN	_	Definite=Ind|Number=Plur	8	subj	_	Gloss=water.Plur
-8	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	4	parataxis@conj	_	Gloss=3Plur.PerfBkg
+8	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	4	parataxis@conj	_	Gloss=3Plur.PerfInd
 9	zama	zama	VERB	_	_	8	comp:aux	_	Gloss=become
 10	dàb	dàgà	ADP	_	_	9	comp:obl	_	Gloss=from
 11	bisà	bisà	ADV	_	_	10	comp:obj	_	Gloss=on_top_of
@@ -4241,7 +4241,7 @@
 # text_en = After they have dried, you scrape them out, you scrape the dirty sediments from the pot, and wrap them in some rag.
 # text_ortho = ’in yab buušèe, sai ’à kaᵲkàᵲee, ’à kaᵲkàᵲè dàllàkin dauɗàn nan, dàg gà jìkin kaskoo, ’à ƙumšèe cikin wasu ᵲaggàa.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	buːshèː	buːshèː	VERB	_	_	2	comp:aux	_	Gloss=dry
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -4331,7 +4331,7 @@
 # text_en = With that powder in his mouth, let him sleep with it, let him sleep with it in his mouth.
 # text_ortho = ’in yas saà hac’iǹ nan cikim bàakii, sai šì kwaǹtaa dà šii, šì kwaana dà šii cikim bàakii.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	Gloss=put
 4	hac'în	hac'iː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=bullrush_millet.Masc.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
@@ -4360,7 +4360,7 @@
 # text_en = After sleeping with it in his mouth, when the day breaks, let him get up and, before speaking to anyone, let him remove that tobacco powder from his mouth and put it in a safe place.
 # text_ortho = ’in yak kwaana dà šii cikim bàakii, ’in swaahiyaa tay yi yat taašì, tum bài yi màganàa dà koowaa ba, sai šì ɗeebè s’aabàh hac’iǹ nan dàgà cikim bàakii, šì ’aadànaa wani wuᵲii.
 1	in	in	SCONJ	_	_	25	mod	_	Gloss=if
-2	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=spend_night.Nmlz.Masc
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	4	comp:obj	_	Gloss=3Masc
@@ -4369,13 +4369,13 @@
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	in	in	SCONJ	_	_	25	mod	_	Gloss=if
 10	swaːhiyaː	swaːhiyaː	NOUN	_	Definite=Ind|Gender=Fem	11	subj	_	Gloss=morning.Fem
-11	tay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	9	comp:obj	_	Gloss=3Fem.PerfBkg
+11	tay	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	9	comp:obj	_	Gloss=3Fem.PerfInd
 12	yi	yi	VERB	_	_	11	comp:aux	_	Gloss=do
-13	yat	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	11	parataxis@conj	_	Gloss=3Masc.PerfBkg
+13	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	11	parataxis@conj	_	Gloss=3Masc.PerfInd
 14	taːshì	taːshì	VERB	_	_	13	comp:aux	_	Gloss=rise
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tum	tun	SCONJ	_	_	14	mod	_	Gloss=since/before
-17	bài	bài	AUX	_	Aspect=PerfNeg|Gender=Masc|Person=3|Polarity=Neg	16	comp:obj	_	Gloss=3Masc.PerfNeg
+17	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	16	comp:obj	_	Gloss=3Masc.PerfNeg
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	màganàː	màganàː	NOUN	_	Definite=Ind|Gender=Fem	18	comp:pred	_	Gloss=talk.Fem
 20	dà	dà	ADP	_	_	18	comp:obl	_	Gloss=with
@@ -4406,7 +4406,7 @@
 # text_en = After he has put it in a safe place, let him get "màllakàː", "màntà-’uwa", "bàː-ni-bàː-ni", "ƙwaːtai", and "ƙìː-taːɓèːwa". [name of 5 different grasses].
 # text_ortho = ’in ya’ ’aadànaa wani wuᵲii, sai šì sàamu màllakàa dà màntà ’uwa, dà bàa ni bàa ni, dà ƙwaatai, dà ƙìi-taaɓèewa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ya’	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	aːdànaː	aːdànaː	VERB	_	_	2	comp:aux	_	Gloss=keep_safe
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
 5	wuriː	wuriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj@L	_	Gloss=place.Masc
@@ -4467,13 +4467,13 @@
 # text_en = When you have collected those things which we have described from beginning to end, you mix them, and you either pound or grind them until they turn to powder.
 # text_ortho = ’in ’ankà gamà wa’ànnan ’abuubuwàa, wa’àndà munkà zaanàa tun na hwaarìn han na ƙàršee, sai ’à gamèe su wuᵲii gùdaa, koo ’à dakèe koo ’à niƙèe, šì zama gàaᵲii.
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	gamàː	gamàː	VERB	_	_	2	comp:aux	_	Gloss=finish
 4	wa’ànnan	wa’ànnan	DET	_	Deixis=Remt|Number=Plur|PronType=Dem	5	det	_	Gloss=Remt.Plur
 5	abuːbuwàː	àbù	NOUN	_	Definite=Ind|Number=Plur	3	comp:obj	_	Gloss=thing.Plur
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	9	comp:obj	_	Gloss=who.Plur
-8	munkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=1	5	mod@relcl	_	Gloss=1Plur.PerfBkg
+8	munkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1	5	mod@relcl	_	Gloss=1Plur.PerfInd
 9	zaːnàː	zaːnàː	VERB	_	_	8	comp:aux	_	Gloss=tell
 10	tun	tun	ADP	_	_	9	mod	_	Gloss=since/before
 11	na	na/ta	ADP	_	_	10	comp:obj	_	Gloss=of
@@ -4509,7 +4509,7 @@
 # text_en = When it has turned to powder, whatever woman you love, it you put that powdered medicine in her sauce, or her "tuwo", or her meat, or her meat broth, if she eats by mistake, without knowing what she has been given, that medicine, if she eats it by mistake and it enters her body, the man, even if he kills her, she can't leave him.
 # text_ortho = ’in yaz zama gàaᵲii, dum màccen dà ka kà soò, ’in kas saà mutà gàaᵲiǹ nan, na maagànii, koo gà miyàa, koo gà tuwoo, koo gà naamàa, koo gà ᵲoomon naamàa, ’in tak kùskuᵲà tac ci, bà tà sanìi ba, ’àbun dà ’ankà saà maà waǹnam maagànii ’in tak kùskuᵲà tac cii šì, yaz zoo cikin cikìntà, mùtun koo kašèe ta ya kèe, baà ta ’iyà ᵲàbuwaa dà šii.
 1	in	in	SCONJ	_	_	73	mod	_	Gloss=if
-2	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	zama	zama	VERB	_	_	2	comp:aux	_	Gloss=become
 4	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=flour.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -4520,7 +4520,7 @@
 10	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	9	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	in	in	SCONJ	_	_	73	mod	_	Gloss=if
-13	kas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	12	comp:obj	_	Gloss=2Masc.PerfBkg
+13	kas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	12	comp:obj	_	Gloss=2Masc.PerfInd
 14	sâː	sâː	VERB	_	_	13	comp:aux	_	Gloss=put
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
 16	gàːrîn	gàːriː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=flour.Masc.Cons
@@ -4546,30 +4546,30 @@
 36	naːmàː	naːmàː	NOUN	_	Definite=Ind|Gender=Masc	35	mod	_	Gloss=meat.Masc
 37	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 38	in	in	SCONJ	_	_	73	mod	_	Gloss=if
-39	tak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	38	comp:obj	_	Gloss=3Fem.PerfBkg
+39	tak	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	38	comp:obj	_	Gloss=3Fem.PerfInd
 40	kùskurà	kùskurà	VERB	_	_	39	comp:aux	_	Gloss=make_mistake
-41	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	39	parataxis@conj	_	Gloss=3Fem.PerfBkg
+41	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	39	parataxis@conj	_	Gloss=3Fem.PerfInd
 42	ci	ci	VERB	_	_	41	comp:aux	_	Gloss=eat
 43	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
-44	bàtà	bài	AUX	_	Aspect=PerfNeg|Gender=Fem|Person=3|Polarity=Neg	42	parataxis@mod	_	Gloss=3Fem.PerfNeg
+44	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	42	parataxis@mod	_	Gloss=3Fem.PerfNeg
 45	sanìː	sanìː	VERB	_	_	44	comp:aux	_	Gloss=know
 46	ba	ba	PART	_	PartType=Neg|Polarity=Neg	45	mod	_	Gloss=Neg
 47	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 48	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	58	dislocated@comp	_	Gloss=thing.Masc|wordform=àbu
 49	dà	dà	SCONJ	_	_	48	mod@relcl	_	Gloss=that
-50	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	49	comp:obj	_	Gloss=4.PerfBkg
+50	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	49	comp:obj	_	Gloss=4.PerfInd
 51	sâː	sâː	VERB	_	_	50	comp:aux	_	Gloss=put
 52	mà	mà	ADP	_	_	51	comp:obl	_	Gloss=Dat
 53	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	54	det	_	Gloss=Prox.Masc/Fem
 54	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	52	comp:obj	_	Gloss=medicine/charm.Masc
 55	in	in	SCONJ	_	_	73	mod	_	Gloss=if
-56	tak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	55	comp:obj	_	Gloss=3Fem.PerfBkg
+56	tak	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	55	comp:obj	_	Gloss=3Fem.PerfInd
 57	kùskurà	kùskurà	VERB	_	_	56	comp:aux	_	Gloss=make_mistake
-58	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	56	parataxis@conj	_	Gloss=3Fem.PerfBkg
+58	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	56	parataxis@conj	_	Gloss=3Fem.PerfInd
 59	ciː	ci	VERB	_	_	58	comp:aux	_	Gloss=eat
 60	shì	shi	PRON	_	Gender=Masc|Person=3	59	comp:obj	_	Gloss=3Masc
 61	,	,	PUNCT	_	_	62	punct	_	Gloss=PUNCT
-62	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	58	parataxis@conj	_	Gloss=3Masc.PerfBkg
+62	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	58	parataxis@conj	_	Gloss=3Masc.PerfInd
 63	zoː	zoː	VERB	_	_	62	comp:aux	_	Gloss=come
 64	cikin	cikin	ADP	_	_	63	comp:obl	_	Gloss=in(side)
 65	cikìntà	cikìːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	64	comp:obj	_	Gloss=belly.Masc.3Fem.Poss|wordform=cikì
@@ -4637,7 +4637,7 @@
 20	hushiː	hushiː	NOUN	_	Definite=Ind|Gender=Masc	18	comp:pred	_	Gloss=anger.Masc
 21	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 22	in	in	SCONJ	_	_	55	mod	_	Gloss=if
-23	kaɗ	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	22	comp:obj	_	Gloss=2Masc.PerfBkg
+23	kaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	22	comp:obj	_	Gloss=2Masc.PerfInd
 24	ɗàuki	ɗàukaː	VERB	_	_	23	comp:aux	_	Gloss=take
 25	kaːyantà	kaːyaːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	24	comp:obj	_	Gloss=things.Masc.3Fem.Poss|wordform=kaːya
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
@@ -4645,7 +4645,7 @@
 28	cikin	cikin	ADP	_	_	27	comp:obj	_	Gloss=in(side)
 29	gidankà	gidaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	28	comp:obj	_	Gloss=house.Masc.2Masc.Gen|wordform=gida
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
-31	kah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	23	parataxis@conj	_	Gloss=2Masc.PerfBkg
+31	kah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	23	parataxis@conj	_	Gloss=2Masc.PerfInd
 32	hiddàː	hiddàː	VERB	_	_	31	comp:aux	_	Gloss=remove
 33	wàje	wàje	ADV	_	_	32	mod	_	Gloss=outside
 34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
@@ -4653,7 +4653,7 @@
 36	kòːreː	kòːraː	VERB	_	_	35	comp:aux	_	Gloss=drive_away
 37	tà	ta	PRON	_	Gender=Fem|Person=3	36	comp:obj	_	Gloss=3Fem
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
-39	kac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	35	parataxis@conj	_	Gloss=2Masc.PerfBkg
+39	kac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	35	parataxis@conj	_	Gloss=2Masc.PerfInd
 40	cêː	cêː	VERB	_	_	39	comp:aux	_	Gloss=say
 41	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	40	comp:obj	_	Gloss=3Fem.Sub
 42	ɗàuki	ɗàukaː	VERB	_	_	41	comp:aux	_	Gloss=take
@@ -4688,7 +4688,7 @@
 # text_en = When she has finished, she will take her belongings, put them back in your house, because she cannot leave you, because her head is turned inside out, she does not love anyone but you.
 # text_ortho = ’in tag gamàa, tà ɗàuki kaayantà, tà maidàa cikin gidankà, sabòo dà baà tà ’iyà ᵲàbuwaa dà kai, don kaǹtà yaa jùuyèe, baà ta soǹ koowaa sai kai.
 1	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-2	tag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+2	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 3	gamàː	gamàː	VERB	_	_	2	comp:aux	_	Gloss=finish
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=3Fem.Sub
@@ -4740,7 +4740,7 @@
 # text_en = Whatever you do to her, she cannot leave you.
 # text_ortho = koo mìi kam mutà, baà ta ’iyà ᵲàbuwaa dà kai.
 1	koːmiː	koːmiː	PRON	_	_	5	mod	_	Gloss=anything
-2	kam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	1	mod@relcl	_	Gloss=2Masc.Perf.BkBkg
+2	kam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	1	mod@relcl	_	Gloss=2Masc.Perf.BkInd
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -4797,7 +4797,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	dà'	dàgà	ADP	_	_	19	dislocated@mod	_	Gloss=from
 6	indà	indà	PRON	_	PronType=Rel	5	comp:obj	_	Gloss=where
-7	tas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	6	mod@relcl	_	Gloss=3Fem.PerfBkg
+7	tas	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	6	mod@relcl	_	Gloss=3Fem.PerfInd
 8	saːbàː	saːbàː	VERB	_	_	7	comp:aux	_	Gloss=be_accustomed
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 10	koː	koː	SCONJ	_	_	19	mod	_	Gloss=even_if
@@ -4845,7 +4845,7 @@
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-7	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.PerfBkg
+7	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Fem.PerfInd
 8	ci	ci	VERB	_	_	7	comp:aux	_	Gloss=eat
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -4894,7 +4894,7 @@
 7	kaːshiː	kaːshiː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj@T	_	Gloss=excrement.Masc
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 9	in	in	SCONJ	_	_	17	mod	_	Gloss=if
-10	yab	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	9	comp:obj	_	Gloss=3Masc.PerfBkg
+10	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	9	comp:obj	_	Gloss=3Masc.PerfInd
 11	barìː	barìː	VERB	_	_	10	comp:aux	_	Gloss=leave
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 13	dà	dà	SCONJ	_	_	17	mod	_	Gloss=that
@@ -4935,7 +4935,7 @@
 # text_ortho = ’im màccè tac ci, baà ta ’iyà hušii dà mùtun.
 1	im	in	SCONJ	_	_	6	mod	_	Gloss=if
 2	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	3	subj	_	Gloss=female.Fem
-3	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.PerfBkg
+3	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Fem.PerfInd
 4	ci	ci	VERB	_	_	3	comp:aux	_	Gloss=eat
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -4961,26 +4961,26 @@
 7	kàryaː	kàryaː	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj	_	Gloss=bitch.Fem
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	in	in	SCONJ	_	_	21	mod	_	Gloss=if
-10	kas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	9	comp:obj	_	Gloss=2Masc.PerfBkg
+10	kas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	9	comp:obj	_	Gloss=2Masc.PerfInd
 11	sâː	sâː	VERB	_	_	10	comp:aux	_	Gloss=put
 12	hac'iː	hac'iː	NOUN	_	Definite=Ind|Gender=Masc	11	comp:obj	_	Gloss=bullrush_millet.Masc
 13	cikim	cikin	ADP	_	_	11	comp:obl	_	Gloss=in(side)
 14	bàːkinkà	bàːkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	13	comp:obj	_	Gloss=mouth.Masc.2Masc.Gen|wordform=bàːki
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-16	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfBkg
+16	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	10	parataxis@conj	_	Gloss=3Masc.PerfInd
 17	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=spend_night.Nmlz.Masc
-18	kah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	16	parataxis@conj	_	Gloss=2Masc.PerfBkg
+18	kah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	16	parataxis@conj	_	Gloss=2Masc.PerfInd
 19	hiddoː	hiddàː	VERB	_	_	18	comp:aux	_	Gloss=remove.Dir|wordform=hidd
 20	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-21	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	0	root	_	Gloss=4.PerfBkg
+21	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	0	root	_	Gloss=4.PerfInd
 22	sâː	sâː	VERB	_	_	21	comp:aux	_	Gloss=put
 23	cikim	cikin	ADP	_	_	22	comp:obl	_	Gloss=in(side)
 24	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	23	comp:obj	_	Gloss=medicine/charm.Masc
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	21	parataxis@conj	_	Gloss=4.PerfBkg
+26	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	21	parataxis@conj	_	Gloss=4.PerfInd
 27	bâː	baːbù	VERB	_	_	26	comp:aux	_	Gloss=give
 28	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	27	comp:obj	_	Gloss=female.Fem
-29	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	26	parataxis@conj	_	Gloss=3Fem.PerfBkg
+29	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	26	parataxis@conj	_	Gloss=3Fem.PerfInd
 30	ci	ci	VERB	_	_	29	comp:aux	_	Gloss=eat
 31	.	.	PUNCT	_	_	21	punct	_	Gloss=.
 
@@ -5001,7 +5001,7 @@
 8	du'	dukà	DET	_	_	9	det	_	Gloss=all
 9	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	17	dislocated@comp	_	Gloss=thing.Masc|wordform=àbu
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=that
-11	kah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	10	comp:obj	_	Gloss=2Masc.PerfBkg
+11	kah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	10	comp:obj	_	Gloss=2Masc.PerfInd
 12	hwaɗìː	hwaɗìː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=tell.Nmlz.Masc
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 14	cikin	cikin	ADP	_	_	17	dislocated@mod	_	Gloss=in(side)
@@ -5091,7 +5091,7 @@
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
 18	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	14	conj:coord	_	Gloss=water.Plur|wordform=ruwa
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
-20	kaw	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=2	19	comp:obj	_	Gloss=2Masc.PerfBkg
+20	kaw	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=2	19	comp:obj	_	Gloss=2Masc.PerfInd
 21	wawwànkè	wawwànkeː	VERB	_	_	20	comp:aux	_	Gloss=wash.Int
 22	jìkinkà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	21	comp:obj	_	Gloss=body.Masc.2Masc.Gen|wordform=jìki
 23	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
@@ -5137,7 +5137,7 @@
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	tôː	tôː	INTJ	_	_	9	discourse	_	Gloss=well
 8	jìkinkà	jìkiːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Masc|Person=2	9	subj	_	Gloss=body.Masc.2Masc.Gen|wordform=jìki
-9	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	4	parataxis@conj	_	Gloss=3Masc.PerfBkg
+9	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	4	parataxis@conj	_	Gloss=3Masc.PerfInd
 10	gàmu	gàmu	VERB	_	_	9	comp:aux	_	Gloss=meet
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
 12	naːtà	naːtà	PRON	_	Gender=Fem|Person=3	11	comp:obj	_	Gloss=3Fem.Poss
@@ -5191,7 +5191,7 @@
 5	can	can	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Gloss=Remt
 6	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=that
 7	ùbangijìː	ùbangijìː	PROPN	_	Gender=Masc	8	subj	_	Gloss=God.Masc
-8	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.PerfBkg
+8	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Masc.PerfInd
 9	yoː	yi	VERB	_	_	8	comp:aux	_	Gloss=do.Dir|wordform=y
 10	sù	sù	PRON	_	Number=Plur|Person=3	9	comp:obj	_	Gloss=3Plur
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -5202,7 +5202,7 @@
 16	dum	dukà	DET	_	_	17	det	_	Gloss=all
 17	màccen	màcce	NOUN	_	Definite=Cons|Gender=Fem	33	dislocated@comp	_	Gloss=woman.Fem|wordform=màcce
 18	dà	dà	SCONJ	_	_	17	mod@relcl	_	Gloss=that
-19	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	18	comp:obj	_	Gloss=4.PerfBkg
+19	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	18	comp:obj	_	Gloss=4.PerfInd
 20	sâː	sâː	VERB	_	_	19	comp:aux	_	Gloss=put
 21	mâː	mâː	PRON	_	Gender=Fem|Person=3	20	comp:obl	_	Gloss=3Fem.Dat
 22	su	su	PRON	_	Number=Plur|Person=3	20	comp:obj	_	Gloss=3Plur
@@ -5211,7 +5211,7 @@
 25	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	24	comp:obj	_	Gloss=medicine/charm.Masc
 26	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 27	in	in	SCONJ	_	_	33	mod	_	Gloss=if
-28	tac	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	27	comp:obj	_	Gloss=3Fem.PerfBkg
+28	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	27	comp:obj	_	Gloss=3Fem.PerfInd
 29	ciː	ci	VERB	_	_	28	comp:aux	_	Gloss=eat
 30	sù	sù	PRON	_	Number=Plur|Person=3	29	comp:obj	_	Gloss=3Plur
 31	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
@@ -5233,7 +5233,7 @@
 3	ràbuwaː	ràbu	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:obj	_	Gloss=separate.Nmlz.Fem|wordform=ràbu
 4	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 5	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	comp:obj	_	Gloss=who.Masc
-6	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	5	mod@relcl	_	Gloss=3Masc.PerfBkg
+6	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	5	mod@relcl	_	Gloss=3Masc.PerfInd
 7	mutà	mutà	PRON	_	Gender=Fem|Person=3	6	comp:obl	_	Gloss=3Fem.Dat
 8	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	6	comp:obj	_	Gloss=medicine/charm.Masc.Def
 9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -5251,7 +5251,7 @@
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	im	in	SCONJ	_	_	15	mod	_	Gloss=if
 6	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	7	subj	_	Gloss=female.Fem
-7	tas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	5	comp:obj	_	Gloss=3Fem.PerfBkg
+7	tas	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	5	comp:obj	_	Gloss=3Fem.PerfInd
 8	sâː	sâː	VERB	_	_	7	comp:aux	_	Gloss=put
 9	mai	mai	PRON	_	Gender=Masc|Person=3	8	comp:obl	_	Gloss=3Masc.Dat
 10	suː	suː	PRON	_	Number=Plur|Person=3	8	comp:obj@T	_	Gloss=3Plur
@@ -5326,7 +5326,7 @@
 # text_en = When you find a tick with all that you want, you pick it.
 # text_ortho = ’in ’ankà sàamu kaskàa, ’iyàakaw waddà ’a kà soò, ’ankà ɗiibàa.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	kaskàː	kaskàː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=tick.Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5335,7 +5335,7 @@
 8	akà	nàː	AUX	_	Aspect=Prog|Mood=Ind|Person=4	7	mod@relcl	_	Gloss=4.ProgInd
 9	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-11	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	0	root	_	Gloss=4.PerfBkg
+11	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	0	root	_	Gloss=4.PerfInd
 12	ɗiːbàː	ɗiːbàː	VERB	_	_	11	comp:aux	_	Gloss=take
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 
@@ -5363,7 +5363,7 @@
 # text_en = Once you have put it aside, you look for fruits of "màɗaɗɗahiː", a grass.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à nèemi ɗiyan ɗam màɗaɗɗahii, hakìi nee.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -5385,7 +5385,7 @@
 # text_en = Once you find them, you take them and put them aside.
 # text_ortho = ’in ’ankà sàamee sù, sai ’à ɗèebee sù, ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmeː	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	sù	sù	PRON	_	Number=Plur|Person=3	3	comp:obj	_	Gloss=3Plur
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5406,7 +5406,7 @@
 # text_en = After having put them aside, you must get "rat ƙàràngiya" [a grass].
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu ƙàᵲàngiyak kuusaa.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -5424,7 +5424,7 @@
 # text_en = If you find "rat ƙàràngiya", you take it and put it aside.
 # text_ortho = ’in ’ankà sàamu ƙàᵲàngiyak kuusaa, sai ’à ɗèebee tà ’à ’ajèe.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	ƙàràngiyak	ƙàràngiyaː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=grass_sp.Fem|wordform=ƙàràngiya
 5	kuːsaː	kuːsaː	NOUN	_	Definite=Ind|Gender=Fem	4	compound	_	Gloss=rat.Fem
@@ -5445,7 +5445,7 @@
 # text_en = After having put it aside, you must get "bìː-ta-zâizâi".
 # text_ortho = ’in ’ankà ’ajèe ta, sai ’à sàamu bìi ta zaìzaì.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	ta	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5482,12 +5482,12 @@
 # text_en = When you find "bìː-ta-zâizâi" whichever you get, you use it.
 # text_ortho = ’in ’ankà sàamu bìi ta zaìzaì, koo wanè ’ankà saamùu, sai ’à yi ’aikìi dà šii.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	bìː-ta-zâizâi	bìː-ta-zâizâi	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=grass_sp.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	koːwanè	koːwanè	PRON	_	PronType=Ind	11	mod	_	Gloss=whichever
-7	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	6	mod@relcl	_	Gloss=4.PerfBkg
+7	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	6	mod@relcl	_	Gloss=4.PerfInd
 8	saːmùː	saːmùː	VERB	_	_	7	comp:aux	_	Gloss=get
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	11	mod	_	Gloss=then
@@ -5506,7 +5506,7 @@
 # text_en = After taking it, you put it aside.
 # text_ortho = ’in ’ankà ɗèebai, sai ’à ’ajèe ši.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗèːbai	ɗiːbàːai	VERB	_	Gender=Masc|Person=3	2	comp:aux	_	Gloss=take.-3Masc|wordform=ɗèːb
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -5543,7 +5543,7 @@
 # text_ortho = duw wa’àndà ’ankà ɗiibàa, ’à ’ajèe su.
 1	duw	dukà	DET	_	_	2	det	_	Gloss=all
 2	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	6	dislocated@comp	_	Gloss=who.Plur
-3	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	2	mod@relcl	_	Gloss=4.PerfBkg
+3	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	2	mod@relcl	_	Gloss=4.PerfInd
 4	ɗiːbàː	ɗiːbàː	VERB	_	_	3	comp:aux	_	Gloss=take
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -5577,7 +5577,7 @@
 # text_en = After taking a hundred, you remove one and throw it away, and use ninety-nine.
 # text_ortho = ’in ’ankà ɗèebi ɗàᵲii, sai ’à hiddà gùdaa, ’à yaddàa, ’à yi ’aikìi dà ɗàᵲii baà ɗaya.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗiːbàː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take
 4	ɗàriː	ɗàriː	NUM	_	_	3	comp:obj	_	Gloss=hundred
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5611,7 +5611,7 @@
 4	ɗaya	ɗaya	NUM	_	_	3	subj	_	Gloss=one
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	12	mod	_	Gloss=if
-7	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	6	comp:obj	_	Gloss=4.PerfBkg
+7	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	6	comp:obj	_	Gloss=4.PerfInd
 8	ɗèːbeː	ɗiːbàː	VERB	_	_	7	comp:aux	_	Gloss=take
 9	tà	ta	PRON	_	Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -5625,7 +5625,7 @@
 18	abuːbuwàː	àbù	NOUN	_	Definite=Ind|Number=Plur	15	comp:obj	_	Gloss=thing.Plur
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
-21	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	20	comp:obj	_	Gloss=4.PerfBkg
+21	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	20	comp:obj	_	Gloss=4.PerfInd
 22	ɗiːbàː	ɗiːbàː	VERB	_	_	21	comp:aux	_	Gloss=take
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	à	yà	AUX	_	Mood=Sub|Person=4	12	parataxis@conj	_	Gloss=4.Sub
@@ -5645,7 +5645,7 @@
 # text_en = After pounding, you sieve it.
 # text_ortho = ’in ’ankà dakèe, ’à tankàɗee.
 1	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -5677,11 +5677,11 @@
 # text_en = After pounding the siftings into powder, you put it with its sister powder.
 # text_ortho = ’in ’ankà dakà s’àkii, yaz zama gàaᵲii, sai ’à gamèe ši dà gàaᵲii ɗan ’uwaanai.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakà	dakàː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	s'àkiː	s'àkiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=siftings.Masc
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfInd
 7	zama	zama	VERB	_	_	6	comp:aux	_	Gloss=become
 8	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=flour.Masc
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5703,7 +5703,7 @@
 # text_en = After putting it with its sister powder, you mix them.
 # text_ortho = ’in ’ankà gamèe ši dà gàaᵲii ɗan ’uwaanai, ’ankà mooc’èe su,
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	gamèː	gamèː	VERB	_	_	2	comp:aux	_	Gloss=join.Ach
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
@@ -5711,7 +5711,7 @@
 7	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	6	mod	_	Gloss=son.Masc|wordform=ɗa
 8	uwaːnai	uwaːnai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	7	mod	_	Gloss=mother.Fem.3Masc.Poss|wordform=uwaː
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-10	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	0	root	_	Gloss=4.PerfBkg
+10	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	0	root	_	Gloss=4.PerfInd
 11	moːc'èː	moːc'èː	VERB	_	_	10	comp:aux	_	Gloss=stir
 12	su	su	PRON	_	Person=3	11	comp:obj	_	Gloss=3.Pl
 13	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -5724,11 +5724,11 @@
 # text_en = After mixing them and they are totally combined, you put them aside.
 # text_ortho = ’in ’ankà mooc’èe su, sunkà gamèe ƙwarai, sai ’à ’ajèe.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	moːc'èː	moːc'èː	VERB	_	_	2	comp:aux	_	Gloss=stir
 4	su	su	PRON	_	Person=3	3	comp:obj	_	Gloss=3.Pl
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfBkg
+6	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.PerfInd
 7	gamèː	gamèː	VERB	_	_	6	comp:aux	_	Gloss=join.Ach
 8	ƙwar̃ai	ƙwar̃ai	ADV	_	_	7	mod	_	Gloss=completely
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5745,7 +5745,7 @@
 # text_en = After they have been put aside, you look for the tail of a gourd, you cut it and scrape it clean.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à nèemi guntun wuc’c’iyàl lud’dai, sai ’à yankèe ta, ’à kwaᵲkwàᵲee.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -5820,7 +5820,7 @@
 11	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	Gloss=medicine/charm.Masc
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	conj:dicto	_	Gloss=who.Masc
-14	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	13	mod@relcl	_	Gloss=4.PerfBkg
+14	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	13	mod@relcl	_	Gloss=4.PerfInd
 15	dakàː	dakàː	VERB	_	_	14	comp:aux	_	Gloss=pound
 16	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -5887,7 +5887,7 @@
 # text_en = When it its hot, the heat of the pot will catch the lizard fat and the lizard fat will melt.
 # text_ortho = ’in yay yi zaahii, zaahin kaskoo šì kaamà kic’èn damoo, kic’èn damoo šì naᵲkèe,
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	zaːhiː	zaːhiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=heat.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5912,7 +5912,7 @@
 # text_en = If it is hot, it will become liquid.
 # text_ortho = ’in yay ji zaahii, šì zama ᵲuwaa.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	ji	jiyàː	VERB	_	_	2	comp:aux	_	Gloss=feel/hear
 4	zaːhiː	zaːhiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=heat.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5929,7 +5929,7 @@
 # text_en = When it is liquid, you put it on the ground, you remove it from the fire and leave it to rest.
 # text_ortho = ’in yaz zama ᵲuwaa, sai ’à ’ajèe gà ƙasaa, ’à jiddoo dàb bisà wutaa, ’à baᵲìi šì huucèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	zama	zama	VERB	_	_	2	comp:aux	_	Gloss=become
 4	ruwaː	ruwaː	NOUN	_	Definite=Ind|Number=Plur	3	comp:pred	_	Gloss=water.Plur
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -5959,7 +5959,7 @@
 # text_en = When it has rested, you take the oil, that of the lizard fat that has melted, then you pour it into the medicine powder that you have poured into the tail of the gourd.
 # text_ortho = ’in yah huucèe, sai ’à ɗàuki maǹ, na kic’èen damoo, wandà yan naᵲkèe, sai ’à zubàa šì, cikin gàaᵲim maagànii, wandà ’ankà zubàa cikin wuc’c’iyàl lud’dai.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	huːcèː	huːcèː	VERB	_	_	2	comp:aux	_	Gloss=rest
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -5972,7 +5972,7 @@
 12	damoː	damoː	NOUN	_	Definite=Ind|Gender=Masc	11	mod	_	Gloss=land-monitor.Masc
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 14	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	subj	_	Gloss=who.Masc
-15	yah	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	11	mod@relcl	_	Gloss=3Masc.PerfBkg
+15	yah	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	11	mod@relcl	_	Gloss=3Masc.PerfInd
 16	narkèː	narkèː	VERB	_	_	15	comp:aux	_	Gloss=melt.Ach
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	19	mod	_	Gloss=then
@@ -5985,7 +5985,7 @@
 25	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	24	mod	_	Gloss=medicine/charm.Masc
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 27	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	comp:obj	_	Gloss=who.Masc
-28	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	24	mod@relcl	_	Gloss=4.PerfBkg
+28	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	24	mod@relcl	_	Gloss=4.PerfInd
 29	zubàː	zubàː	VERB	_	_	28	comp:aux	_	Gloss=pour
 30	cikin	cikin	ADP	_	_	29	comp:obl	_	Gloss=in(side)
 31	wuc'c'iyàl	wuc'c'iyàː	NOUN	_	Definite=Cons|Gender=Fem	30	comp:obj	_	Gloss=tail.Fem|wordform=wuc'c'iyà
@@ -6032,7 +6032,7 @@
 # text_en = When it is well stirred, you put it in a safe place.
 # text_ortho = ’in yam mòos’u dà kyaù, sai ’à ’aadànaa.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
-2	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	mòːs'u	mòːs'u	VERB	_	_	2	comp:aux	_	Gloss=be_stirred
 4	dà	dà	ADP	_	_	3	mod	_	Gloss=with
 5	kyâu	kyâu	NOUN	_	Definite=Ind|Gender=Masc	4	comp:obj	_	Gloss=goodness/beauty.Masc
@@ -6057,7 +6057,7 @@
 6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=time.Masc|wordform=loːkàci
 7	dà	dà	ADP	_	_	6	mod@relcl	_	Gloss=with
 8	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	9	subj	_	Gloss=person.Masc
-9	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.PerfBkg
+9	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	comp:obj	_	Gloss=3Masc.PerfInd
 10	san	sanìː	VERB	_	_	9	comp:aux	_	Gloss=know
 11	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.Prog
 12	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|wordform=sô
@@ -6132,7 +6132,7 @@
 # text_ortho = lookàcin dà yag ga màccen dà ši kà soò, ’in yak kiᵲoo tà, taz zoo wuᵲiinai, sunkà šiᵲyà bùtun kwaanaa, ’in taa yàrda, sunkà tuuɓèe, zaà su yiǹ kwànce, sai šì ɗaukoo maagàniǹ, šì ɗèebi kàɗannà, šì saà gà hannuwàanai, sai šì muᵲjèe, maagànii gà hannuwàa.
 1	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	36	mod	_	Gloss=time.Masc|wordform=loːkàci
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.PerfBkg
+3	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	comp:obj	_	Gloss=3Masc.PerfInd
 4	ga	ganiː	VERB	_	_	3	comp:aux	_	Gloss=see
 5	màccen	màcce	NOUN	_	Definite=Cons|Gender=Fem	4	comp:obj	_	Gloss=woman.Fem|wordform=màcce
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	Gloss=that
@@ -6140,15 +6140,15 @@
 8	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	7	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 10	in	in	SCONJ	_	_	36	mod	_	Gloss=if
-11	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.PerfBkg
+11	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	10	comp:obj	_	Gloss=3Masc.PerfInd
 12	kiroː	kiràː	VERB	_	ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=call.Nmlz.Masc.Dir|wordform=kir
 13	ta	ta	PRON	_	Gender=Fem|Person=3	12	udep	_	Gloss=3Fem
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	taz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfBkg
+15	taz	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	11	parataxis@conj	_	Gloss=3Fem.PerfInd
 16	zoː	zoː	VERB	_	_	15	comp:aux	_	Gloss=come
 17	wuriːnai	wuriːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	16	comp:obj	_	Gloss=place.Masc.3Masc.Poss|wordform=wuriː
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	15	parataxis@conj	_	Gloss=3Plur.PerfBkg
+19	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	15	parataxis@conj	_	Gloss=3Plur.PerfInd
 20	shiryà	shiryàː	VERB	_	_	19	comp:aux	_	Gloss=prepare
 21	bùtun	bùtu	NOUN	_	Definite=Cons|Gender=Masc	20	comp:obj	_	Gloss=chatting.Masc|wordform=bùtu
 22	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	21	mod	_	Gloss=spend_night.Nmlz.Masc
@@ -6157,7 +6157,7 @@
 25	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	24	comp:obj	_	Gloss=3Fem.Perf
 26	yàr̃da	yàr̃da	VERB	_	_	25	comp:aux	_	Gloss=agree
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
-28	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	25	parataxis@conj	_	Gloss=3Plur.PerfBkg
+28	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	25	parataxis@conj	_	Gloss=3Plur.PerfInd
 29	tuːɓèː	tuːɓèː	VERB	_	_	28	comp:aux	_	Gloss=remove
 30	,	,	PUNCT	_	_	31	punct	_	Gloss=PUNCT
 31	zâːsu	zâː	AUX	_	Person=3|Tense=Fut	28	parataxis@conj	_	Gloss=Fut.3.Pl|wordform=zâː
@@ -6195,7 +6195,7 @@
 # text_en = After rubbing it, he will rub it on his chest, from his chest to his stomach, from his stomach to his belly, from the bottom of his belly to the limits of his bottom.
 # text_ortho = ’in yam muᵲjèe, sai šì šaahwàa gà gàbaanai, dàgà bàakin gàbaa hab bisà cikìi, dàb bisà cikii hab bisà maaᵲàa, dàb bisà maaᵲàa ha’ ’iyàakaƙ ƙuugùu.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	murjèː	murjèː	VERB	_	_	2	comp:aux	_	Gloss=rub
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -6234,21 +6234,21 @@
 # text_en = After he has rubbed his belly, his stomach and his chest, the medicine has covered them all.
 # text_ortho = ’in yash šaahè maaᵲàa, yash šaahè cikìi, yash šaahè gàbaa, dum maagànii yag gamàa su.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-2	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	shaːhè	shaːhèː	VERB	_	_	2	comp:aux	_	Gloss=rub
 4	maːràː	maːràː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=belly.Fem
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfInd
 7	shaːhè	shaːhèː	VERB	_	_	6	comp:aux	_	Gloss=rub
 8	cikìː	cikìː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=belly.Masc
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	yash	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfBkg
+10	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	parataxis@conj	_	Gloss=3Masc.PerfInd
 11	shaːhè	shaːhèː	VERB	_	_	10	comp:aux	_	Gloss=rub
 12	gàbaː	gàbaː	NOUN	_	Definite=Ind	11	comp:obj	_	Gloss=front
 13	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 14	dum	dukà	PRON	_	PronType=Tot	16	dislocated@comp	_	Gloss=all
 15	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	16	subj	_	Gloss=medicine/charm.Masc
-16	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.PerfBkg
+16	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	0	root	_	Gloss=3Masc.PerfInd
 17	gamàː	gamàː	VERB	_	_	16	comp:aux	_	Gloss=join
 18	su	su	PRON	_	Person=3	17	comp:obj	_	Gloss=3.Pl
 19	.	.	PUNCT	_	_	16	punct	_	Gloss=.
@@ -6262,7 +6262,7 @@
 # text_ortho = ’im maagànii yag gamàa su, sai šì zoo šì ᵲùngùmi màcceǹ nan, sù yi kwànce, šì gamà jìkiinai dà naatà, ham maagànii šì kaamà jìkintà.
 1	im	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	subj	_	Gloss=medicine/charm.Masc
-3	yag	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+3	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 4	gamàː	gamàː	VERB	_	_	3	comp:aux	_	Gloss=join
 5	su	su	PRON	_	Person=3	4	comp:obj	_	Gloss=3.Pl
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6295,12 +6295,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 199000, 200000
-# text = im maːgàniː yak kaːmà jìkintà, maːgàniː yaː kaːmàː ta, bâːta iyà ràbuwaː dà mùtun.
+# text = im maːgàniː yak kaːmà jìkintà , maːgàniː yaː kaːmàː ta , bâːta iyà ràbuwaː dà mùtun .
 # text_en = When, the medicine has caught her body, when the medicine has caught her, she won't be able to leave him.
 # text_ortho = ’im maagànii yak kaamà jìkintà, maagànii yaa kaamàa ta, baà ta ’iyà ᵲàbuwaa dà mùtun.
 1	im	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	subj	_	Gloss=medicine/charm.Masc
-3	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+3	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 4	kaːmà	kaːmàː	VERB	_	_	3	comp:aux	_	Gloss=catch
 5	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	4	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6309,7 +6309,7 @@
 9	kaːmàː	kaːmàː	VERB	_	_	8	comp:aux	_	Gloss=catch
 10	ta	ta	PRON	_	Gender=Fem|Person=3	9	comp:obj	_	Gloss=3Fem
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	parataxis@conj	_	Gloss=3Fem.ProgNeg
+12	bâːta	bâi	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	8	parataxis@conj	_	Gloss=3Fem.ProgNeg
 13	iyà	iyàː	VERB	_	_	12	comp:aux	_	Gloss=be_able|wordform=iyàː
 14	ràbuwaː	ràbu	VERB	_	ExtPos=NOUN|Gender=Fem	13	comp:obj	_	Gloss=separate.Nmlz.Fem|wordform=ràbu
 15	dà	dà	ADP	_	_	14	comp:obl	_	Gloss=with
@@ -6331,7 +6331,7 @@
 6	kàreː	kàreː	NOUN	_	Definite=Ind|Gender=Masc	5	comp:obj	_	Gloss=dog.Masc
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-9	tal	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem.PerfBkg
+9	tal	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	8	comp:obj	_	Gloss=3Fem.PerfInd
 10	liːƙèː	liːƙèː	VERB	_	_	9	comp:aux	_	Gloss=stick
 11	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 12	sai	sai	SCONJ	_	_	16	mod	_	Gloss=except_if
@@ -6357,7 +6357,7 @@
 3	màcce	màcce	NOUN	_	Definite=Ind|Gender=Fem	1	conj:appos	_	Gloss=woman.Fem
 4	koːmiː	koːmiː	PRON	_	PronType=Ind	9	mod	_	Gloss=anything
 5	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	6	subj	_	Gloss=person.Masc
-6	yam	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	4	mod@relcl	_	Gloss=3Masc.PerfBkg
+6	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	4	mod@relcl	_	Gloss=3Masc.PerfInd
 7	mutà	mutà	PRON	_	Gender=Fem|Person=3	6	comp:obl	_	Gloss=3Fem.Dat
 8	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 9	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -6420,19 +6420,19 @@
 # text_en = If you make medicine with them and you give it to a woman, if she sticks to a man, she cannot leave him.
 # text_ortho = ’in ’ankà yi maagànii dà suu, ’ankà saà mà màccè, ’in tal liiƙèe mà mùtun baà ta ’iyà ᵲàbuwaa dà šii.
 1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=medicine/charm.Masc
 5	dà	dà	ADP	_	_	3	comp:obl	_	Gloss=with
 6	suː	suː	PRON	_	Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	2	parataxis@conj	_	Gloss=4.PerfBkg
+8	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	2	parataxis@conj	_	Gloss=4.PerfInd
 9	sâː	sâː	VERB	_	_	8	comp:aux	_	Gloss=put
 10	mà	mà	ADP	_	_	9	comp:obl	_	Gloss=Dat
 11	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	10	comp:obj	_	Gloss=female.Fem
 12	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 13	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-14	tal	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Fem|Person=3	13	comp:obj	_	Gloss=3Fem.PerfBkg
+14	tal	yaː	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Person=3	13	comp:obj	_	Gloss=3Fem.PerfInd
 15	liːƙèː	liːƙèː	VERB	_	_	14	comp:aux	_	Gloss=stick
 16	mà	mà	ADP	_	_	15	comp:obl	_	Gloss=Dat
 17	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	16	comp:obj	_	Gloss=person.Masc
@@ -6476,7 +6476,7 @@
 1	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=type.Masc.Cons
 2	yaddà	yaddà	PRON	_	PronType=Rel	1	mod	_	Gloss=how
 3-4	ankài	_	_	_	_	_	_	_	_
-3	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	2	mod@relcl	_	Gloss=4.PerfBkg
+3	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	2	mod@relcl	_	Gloss=4.PerfInd
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	ɗam	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	5	comp:obj	_	Gloss=son.Masc|wordform=ɗa
@@ -6507,7 +6507,7 @@
 6	du'	dukà	DET	_	_	7	det	_	Gloss=all
 7	indà	indà	ADV	_	_	14	dislocated@mod	_	Gloss=where
 8	namijì	namijì	NOUN	_	Definite=Ind|Gender=Masc	9	subj	_	Gloss=man.Masc
-9	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	mod@relcl	_	Gloss=3Masc.PerfBkg
+9	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	mod@relcl	_	Gloss=3Masc.PerfInd
 10	yi	yi	VERB	_	_	9	comp:aux	_	Gloss=do
 11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 12	sai	sai	ADV	_	_	14	mod	_	Gloss=then
@@ -6600,13 +6600,13 @@
 # text_en = When you find "kalgo" mistletoe, the one that grows high (on trees), you take it.
 # text_ortho = ’in ’ankà sàamu kaucìn kalgoo,. wandà yak keeᵲèe, sai ’à ɗeeboo šì.
 1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	kaucìn	kaucìː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=mistletoe_sp.Masc|wordform=kaucì
 5	kalgoː	kalgoː	NOUN	_	Definite=Ind|Gender=Masc	4	mod	_	Gloss=tree_sp.Masc
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	conj:appos	_	Gloss=who.Masc
-8	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	7	mod@relcl	_	Gloss=3Masc.PerfBkg
+8	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	7	mod@relcl	_	Gloss=3Masc.PerfInd
 9	keːrèː	keːrèː	VERB	_	_	8	comp:aux	_	Gloss=grow_high
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	12	mod	_	Gloss=then
@@ -6623,7 +6623,7 @@
 # text_en = When you've got it, you roll it into a ball, you keep it aside.
 # text_ortho = ’in ’ankà ɗeeboo šì, sai ’à dunƙùlee ši, ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeːb
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6644,7 +6644,7 @@
 # text_en = After you have kept it aside, you find the flower of white "bìː-raːna", a grass, you take it.
 # text_ortho = ’in ’ankà ’ajèe, sai ’à sàamu hùree na hwaᵲab bìi-ᵲaana, hakìi nee, ’à ɗeeboo šì.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -6671,7 +6671,7 @@
 # text_en = When you have got it, you keep it aside.
 # text_ortho = ’in ’ankà ɗeeboo šì, sai ’à ’ajèe ši.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeːb
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6720,7 +6720,7 @@
 # text_en = After you have put it aside, you look for "riːmin sàmàːriː", a grass, you take it.
 # text_ortho = ’in ’ankà ’ajèe ši, sai ’à bìɗi ᵲiimin sàmàaᵲii, hakìi nee, ’à ɗeeboo šì.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6746,7 +6746,7 @@
 # text_en = When you've got it, you roll it into a ball, you keep it aside.
 # text_ortho = ’in ’ankà ɗeeboo šì, sai ’à dunƙùlee ši, ’à ’ajèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir|wordform=ɗeːb
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6790,7 +6790,7 @@
 3	sauran	sauran	NOUN	_	Definite=Cons	1	conj:coord	_	Gloss=remnants
 4	abuːbuwàː	àbù	NOUN	_	Definite=Ind|Number=Plur	3	mod	_	Gloss=thing.Plur
 5	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	7	comp:obj	_	Gloss=who.Plur
-6	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	3	mod@relcl	_	Gloss=4.PerfBkg
+6	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	3	mod@relcl	_	Gloss=4.PerfInd
 7	ɗiːbàː	ɗiːbàː	VERB	_	_	6	comp:aux	_	Gloss=take
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -6810,7 +6810,7 @@
 # text_en = After pounding them, you sieve them.
 # text_ortho = ’in ’ankà dakèe, ’à tankàɗee.
 1	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakèː	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -6825,7 +6825,7 @@
 # text_en = After sieving, you pound again the siftings.
 # text_ortho = ’in ’ankà tankàɗee sai ’à ƙaaᵲà dakà s’àkii.
 1	in	in	SCONJ	_	_	5	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	tankàɗeː	tankàɗeː	VERB	_	_	2	comp:aux	_	Gloss=sieve
 4	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 5	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -6842,11 +6842,11 @@
 # text_en = After pounding the siftings into powder, you join it with its sister powder and you mix it.
 # text_ortho = ’in ’ankà dakè s’àkii, yaz zama gàaᵲii, sai ’à gamèe ši dà gàaᵲii ɗan ’uwaanai, ’à yaamùc’ee.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	dakè	dakèː	VERB	_	_	2	comp:aux	_	Gloss=pound
 4	s'àkiː	s'àkiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=siftings.Masc
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-6	yaz	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfBkg
+6	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	2	parataxis@conj	_	Gloss=3Masc.PerfInd
 7	zama	zama	VERB	_	_	6	comp:aux	_	Gloss=become
 8	gàːriː	gàːriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=flour.Masc
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6897,7 +6897,7 @@
 # text_en = After putting it aside, when the man knows that he he going to meet a woman, let him take a little and put it inside some milk and drink it.
 # text_ortho = ’in ’ankà ’ajèe ši, sai lookàcin dà mùtun yas sanìi, zaà ši zuwàa wuᵲim màccè, sai šì ɗèebi kàɗannà, šì saà gà noonòo šì šaa.
 1	in	in	SCONJ	_	_	19	mod	_	Gloss=if
-2	ankà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Person=4	1	comp:obj	_	Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Person=4	1	comp:obj	_	Gloss=4.PerfInd
 3	ajèː	ajèː	VERB	_	_	2	comp:aux	_	Gloss=put_aside
 4	shi	shi	PRON	_	Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -6905,7 +6905,7 @@
 7	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=time.Masc|wordform=loːkàci
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	Gloss=that
 9	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	10	subj	_	Gloss=person.Masc
-10	yas	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	8	comp:obj	_	Gloss=3Masc.PerfBkg
+10	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	8	comp:obj	_	Gloss=3Masc.PerfInd
 11	sanìː	sanìː	VERB	_	_	10	comp:aux	_	Gloss=know
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	zâːshi	zâː	AUX	_	Gender=Masc|Person=3|Tense=Fut	11	comp:obj	_	Gloss=Fut.3Masc|wordform=zâː
@@ -6959,7 +6959,7 @@
 # text_en = After it has soaked, he will wash himself with it.
 # text_ortho = ’in yaj jìƙa, sai šì yi wankaa dà šii.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	yaj	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yaj	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	jìƙa	jìƙa	VERB	_	_	2	comp:aux	_	Gloss=soak
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	sai	sai	ADV	_	_	6	mod	_	Gloss=then
@@ -6978,7 +6978,7 @@
 # text_en = After washing himself with it, let him go to the woman's place and join his body to hers.
 # text_ortho = ’in yay yi wankaa dà šii, sai šì tàhi wuᵲim màcceǹ, sù gamà jìkii dà ’ita.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	yay	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.PerfBkg
+2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	1	comp:obj	_	Gloss=3Masc.PerfInd
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	wankaː	wankaː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=bathing.Masc
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
@@ -7005,14 +7005,14 @@
 # text_en = When they have joined their body, and the medicine catches her body, until the end of times, whatever he does to her, she won't be able to leave him, except if God separates them.
 # text_ortho = ’in sunkà gamà jìkii, ham maagàniǹ nan yak kaamà jìkintà, toò ha’ ’àbàdaa, du’iᵲìn ’àbun dà zaà ši mutà, baà ta ’iyà ᵲàbuwaa dà šii, sai ’in ’àllàa yaᵲ ᵲabàa su.
 1	in	in	SCONJ	_	_	23	mod	_	Gloss=if
-2	sunkà	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.PerfInd
 3	gamà	gamàː	VERB	_	_	2	comp:aux	_	Gloss=join
 4	jìkiː	jìkiː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj	_	Gloss=body.Masc
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	ham	hat	SCONJ	_	_	23	mod	_	Gloss=until
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	9	subj	_	Gloss=medicine/charm.Masc.Cons
 8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
-9	yak	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc.PerfBkg
+9	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	6	comp:obj	_	Gloss=3Masc.PerfInd
 10	kaːmà	kaːmàː	VERB	_	_	9	comp:aux	_	Gloss=catch
 11	jìkintà	jìkiːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	10	comp:obj	_	Gloss=body.Masc.3Fem.Poss|wordform=jìki
 12	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -7035,7 +7035,7 @@
 29	sai	sai	SCONJ	_	_	24	mod	_	Gloss=except
 30	in	in	SCONJ	_	_	29	comp:obj	_	Gloss=if
 31	àllàː	àllàː	PROPN	_	_	32	subj	_	Gloss=God
-32	yar	(n)kà	AUX	_	Aspect=PerfBkg|Background=Yes|Gender=Masc|Person=3	30	comp:obj	_	Gloss=3Masc.PerfBkg
+32	yar	yaː	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Person=3	30	comp:obj	_	Gloss=3Masc.PerfInd
 33	rabàː	rabàː	VERB	_	_	32	comp:aux	_	Gloss=separate
 34	su	su	PRON	_	Person=3	33	comp:obj	_	Gloss=3.Pl
 35	.	.	PUNCT	_	_	23	punct	_	Gloss=.
