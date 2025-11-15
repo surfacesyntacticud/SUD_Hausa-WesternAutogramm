@@ -5,7 +5,7 @@
 # text = zâː mu baː kù làːbaːr̃ìː na wani bàhillaːcèː dà yay yi làːlaːtàː, yac ci sàràkkuwaːtai, uwam màːtaːtai.
 # text_en = Let's give you the tale of a Fulani who behaved badly, he had sex with his mother-in-law, his wife's mother.
 # text_ortho = zaà mu baa kù laàbaarìi na wani bàhillaacèe dà yay yi làalaatàa, yac ci sàᵲàkkuwaatai, ’uwam màataatai.
-1	zâːmu	zâː	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=Fut.1Plur|wordform=zâː
+1	zâːmu	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	0	root	_	Gloss=Fut.1Plur|wordform=zâː
 2	baː	baː	VERB	_	_	1	comp:aux	_	Gloss=give
 3	kù	kù	PRON	_	Number=Plur|Person=2	2	comp:obj@R	_	Gloss=2Plur
 4	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Definite=Ind|Gender=Masc	2	comp:obj@T	_	Gloss=story.Masc
@@ -91,7 +91,7 @@
 11	rasàː	rasàː	VERB	_	_	10	comp:aux	_	Gloss=lack
 12	wàdà	wàdà	ADV	_	_	11	mod	_	Gloss=how
 13-14	zâː	_	_	_	_	_	_	_	_
-13	zâːka	zâː	AUX	_	Gender=Masc|Person=2|Tense=Fut	12	mod@relcl	_	Gloss=Fut.2Masc|wordform=zâː
+13	zâːka	zâi	AUX	_	Gender=Masc|Person=2|Tense=Fut	12	mod@relcl	_	Gloss=Fut.2Masc|wordform=zâː
 14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=do.Nmlz.Masc
 15	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	14	mod	_	Gloss=2Masc.Sub
 16	ci	ci	VERB	_	_	15	comp:aux	_	Gloss=have_sex_with
@@ -180,7 +180,7 @@
 # text_en = Before leaving, this Fulani, he met his friend and said that when they left, him and his mother-in-law, let him go alonside of them, without his mother-in-law seeing him.
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
-2	zâːsu	zâː	AUX	_	Person=3|Tense=Fut	1	comp:obj	_	Gloss=Fut.3.Pl|wordform=zâː
+2	zâːsu	zâi	AUX	_	Person=3|Tense=Fut	1	comp:obj	_	Gloss=Fut.3.Pl|wordform=zâː
 3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Nmlz.Fem
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	dislocated@subj	_	Gloss=3Masc
@@ -396,7 +396,7 @@
 5	:	:	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	Gloss=how
-8	zâːmu	zâː	AUX	_	Number=Plur|Person=1|Tense=Fut	7	comp:cleft	_	Gloss=Fut.1Plur|wordform=zâː
+8	zâːmu	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	7	comp:cleft	_	Gloss=Fut.1Plur|wordform=zâː
 9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=do.Nmlz.Masc
 10	tun	tun	SCONJ	_	_	9	mod	_	Gloss=since/before
 11	dà	dà	SCONJ	_	_	10	comp:obj	_	Gloss=when
@@ -678,7 +678,7 @@
 2	cèː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	:	:	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	Gloss=how
-5	zâːni	zâː	AUX	_	Person=1|Tense=Fut	4	comp:cleft	_	Gloss=Fut.1Sing|wordform=zâː
+5	zâːni	zâi	AUX	_	Person=1|Tense=Fut	4	comp:cleft	_	Gloss=Fut.1Sing|wordform=zâː
 6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=say.Nmlz.Fem|wordform=cêː
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
