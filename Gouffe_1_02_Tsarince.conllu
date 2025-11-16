@@ -29,7 +29,7 @@
 13	yawàː	yawàː	NOUN	_	Definite=Ind	12	comp:obj	_	Gloss=quantity
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=who.Plur
-16	sukè	kè	AUX	_	Background=Yes|Person=3	11	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Pred/Loc.Bkg|wordform=su
+16	sukè	kè	AUX	_	Mood=Ind|Person=3	11	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Pred/Loc.Ind|wordform=su
 17	dàban	dàban	ADV	_	_	16	comp:pred	_	Gloss=different
 18	dàban	dàban	ADV	_	_	17	conj:redup	_	Gloss=different
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -2112,7 +2112,7 @@
 # text_ortho = ’àbun dà ’ay yaawòo.
 1	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	Gloss=thing.Masc|wordform=àbu
 2	dà	dà	SCONJ	_	_	1	mod@relcl	_	Gloss=that
-3	ay	neː	AUX	_	Background=Yes	2	comp:obj	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+3	ay	neː	AUX	_	Mood=Ind	2	comp:obj	_	Copula=Yes|Gloss=Ident/Foc.Ind
 4	yaːwòː	yaːwòː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:pred	_	Gloss=strolling.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
@@ -2238,7 +2238,7 @@
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	Gloss=see
 14	indà	indà	PRON	_	_	13	comp:obj	_	Gloss=where
 15	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	16	subj	_	Gloss=girl.Fem
-16	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	14	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg
+16	takè	kè	AUX	_	Gender=Fem|Mood=Ind|Person=3	14	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Ind
 17	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_63-63
@@ -2253,7 +2253,7 @@
 3	ga	ganiː	VERB	_	_	2	comp:aux	_	Gloss=see
 4	indà	indà	PRON	_	_	3	comp:obj	_	Gloss=where
 5	bùdurwaː	bùdurwaː	NOUN	_	Definite=Ind|Gender=Fem	6	subj	_	Gloss=girl.Fem
-6	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	4	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg
+6	takè	kè	AUX	_	Gender=Fem|Mood=Ind|Person=3	4	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Ind
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 9	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub

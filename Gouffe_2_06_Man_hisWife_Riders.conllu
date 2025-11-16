@@ -368,7 +368,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 15000, 16000
-# text = ita kâu màːtaːtai , ita dai taː ga mài doːkìː , àmmaː bàtà san mijintà ba nèː , ab bisà doːkìː .
+# text = ita kâu màːtaːtai , ita dai taː ga mài doːkìː , àmmaː bàtà san mijìntà ba nèː , ab bisà doːkìː .
 # text_en = She, his wife, as for her, she saw a rider, but she did not know it was her husband who was on the horse.
 # text_ortho = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	7	dislocated@subj	_	Gloss=3Fem
@@ -389,7 +389,7 @@
 16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
 17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	ab	kè	AUX	_	Background=Yes	17	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+19	ab	neː	AUX	_	Mood=Ind	17	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	Gloss=on_top_of
 21	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	20	comp:obj	_	Gloss=horse.Masc
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.

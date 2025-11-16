@@ -596,11 +596,11 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 18000, 19000
-# text = shiː al lì:maːmìn gàriː dà sarkin gàriː.
+# text = shiː al lì:maːmìn gàriː dà sarkin gàriː .
 # text_en = He was the imam of the town and of the town chief.
 # text_ortho = šii ’al lìimaamìn gàᵲii dà saᵲkin gàᵲii.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-2	al	kè	AUX	_	Background=Yes	1	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+2	al	neː	AUX	_	Mood=Ind	1	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 3	lì:maːmìn	lì:maːmìː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=imam.Masc|wordform=lì:maːmì
 4	gàriː	gàriː	NOUN	_	Definite=Ind|Gender=Masc	3	mod	_	Gloss=town.Masc
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=and
@@ -2699,7 +2699,7 @@
 22	cêː	cêː	VERB	_	_	21	comp:aux	_	Gloss=say
 23	:	:	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	wàː	wàː	PRON	_	_	22	comp:obj@L	_	Gloss=who
-25	ad	kè	AUX	_	Background=Yes	24	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+25	ad	neː	AUX	_	Mood=Ind	24	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
 27	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	26	comp:obj	_	Gloss=horse.Masc
 28	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=in(side)
@@ -3676,7 +3676,7 @@
 4	kwàlhwaː	kwàlhwaː	NOUN	_	Definite=Ind|Gender=Fem	3	comp:obj	_	Gloss=nutshell.Fem
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-7	aj	kè	AUX	_	Background=Yes	6	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+7	aj	kè	AUX	_	Mood=Ind	6	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 8	jìmɓiriː	jìmɓiriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=green_beans.Masc
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
@@ -3748,7 +3748,7 @@
 12	indà	indà	ADV	_	_	11	subj	_	Gloss=where
 13	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=green/unripe.Masc|wordform=ɗanye
 14	hakì:	hakì:	NOUN	_	Definite=Ind|Gender=Masc	15	subj	_	Gloss=grass.Masc
-15	shikè	kè	AUX	_	Background=Yes|Gender=Masc|Person=3	12	mod@relcl	_	Copula=Yes|Gloss=3Masc.Pred/Loc.Bkg
+15	shikè	kè	AUX	_	Gender=Masc|Mood=Ind|Person=3	12	mod@relcl	_	Copula=Yes|Gloss=3Masc.Pred/Loc.Ind
 16	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 17	bàleː	bàleː	CCONJ	_	_	19	cc	_	Gloss=much_less
 18	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	19	mod	_	Gloss=green/unripe.Masc
@@ -3949,7 +3949,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 136000, 137000
-# text = sai hwàːdàːwaː sunkà cêː mai : allàː shì baː kà nasar̃àː, cikin wânga raːniː, na watàm bakwài, ìnaː ad dà jìmɓiriː ?
+# text = sai hwàːdàːwaː sunkà cêː mai : allàː shì baː kà nasar̃àː , cikin wânga raːniː , na watàm bakwài , ìnaː ad dà jìmɓiriː ?
 # text_en = Then the courtiers told him : God bless you, in this dry season, in July, where is there green beans?
 # text_ortho = sai hwàadàawaa sunkà ceè mai : ’allàa šì baa kà nasaràa, cikin wânga ᵲaanii, na watàm bakwài, ’ìnaa ’ad dà jìmɓiᵲii ?
 1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
@@ -3973,7 +3973,7 @@
 19	bakwài	bakwài	NUM	_	_	18	det	_	Gloss=seven
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	ìnaː	ìnaː	ADV	_	_	8	parataxis@conj	_	Gloss=where.Int
-22	ad	kè	AUX	_	Background=Yes	21	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+22	ad	neː	AUX	_	Mood=Ind	21	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 23	dà	dà	ADP	_	_	22	comp:pred	_	Gloss=with
 24	jìmɓiriː	jìmɓiriː	NOUN	_	Definite=Ind|Gender=Masc	23	comp:obj	_	Gloss=green_beans.Masc
 25	?	?	PUNCT	_	_	3	punct	_	Gloss=?
@@ -4079,7 +4079,7 @@
 3	raːniː	raːniː	NOUN	_	Definite=Ind|Gender=Masc	1	comp:obj	_	Gloss=dry_season.Masc
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	ìnaː	ìnaː	ADV	_	_	0	root	_	Gloss=where.Int
-6	ad	kè	AUX	_	Background=Yes	5	comp:cleft	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+6	ad	neː	AUX	_	Mood=Ind	5	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
 8	jìmɓiriː	jìmɓiriː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:obj	_	Gloss=green_beans.Masc
 9	?	?	PUNCT	_	_	5	punct	_	Gloss=?

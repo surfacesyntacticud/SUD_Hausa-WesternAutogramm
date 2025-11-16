@@ -311,7 +311,7 @@
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
 1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	12	mod	_	Gloss=who.Plur
-2	sukè	kè	AUX	_	Background=Yes|Person=3	1	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Pred/Loc.Bkg|wordform=su
+2	sukè	kè	AUX	_	Mood=Ind|Person=3	1	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Pred/Loc.Ind|wordform=su
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 5	sum	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	4	comp:obj	_	Gloss=3Plur.Perf
@@ -2202,7 +2202,7 @@
 12	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	conj:coord	_	Gloss=3Masc.Perf
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	Gloss=see
 14	indà	indà	PRON	_	_	13	comp:obj	_	Gloss=where
-15	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	14	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg|wordform=ta
+15	takè	kè	AUX	_	Gender=Fem|Mood=Ind|Person=3	14	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Ind|wordform=ta
 16	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
 18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
@@ -2302,7 +2302,7 @@
 11	bìɗa’	bìɗaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	10	comp:pred	_	Gloss=look_for.Nmlz.Fem
 12	indà	indà	ADV	_	_	11	udep	_	Gloss=where
 13	lòːdaː	lòːdaː	NOUN	_	Definite=Ind|Gender=Fem	14	subj	_	Gloss=plant_sp.Fem
-14	takè	kè	AUX	_	Background=Yes|Gender=Fem|Person=3	12	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Bkg
+14	takè	kè	AUX	_	Gender=Fem|Mood=Ind|Person=3	12	mod@relcl	_	Copula=Yes|Gloss=3Fem.Pred/Loc.Ind
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	Definite=Ind|Gender=Fem	14	dislocated@subj	_	Gloss=plant_sp.Fem
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT

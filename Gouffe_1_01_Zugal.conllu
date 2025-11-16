@@ -566,7 +566,7 @@
 4	kùmàːr̃âi	kùmàːr̃âi	NOUN	_	Definite=Ind|Gender=Masc	3	mod	_	Gloss=crown-bird.Masc
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	3	conj:appos	_	Gloss=who.Masc
-7	as	neː	AUX	_	Background=Yes	6	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+7	as	neː	AUX	_	Mood=Ind	6	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Ind
 8	sàhiːhìː	sàhiːhìː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=good_health.Masc
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	à	yà	AUX	_	Mood=Sub|Person=4	1	parataxis	_	Gloss=4.Sub
@@ -635,7 +635,7 @@
 4	kaːshinsù	kaːshiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	3	comp:obj	_	Gloss=faeces.Masc.Def.3Plur.Poss|wordform=kaːshîn
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	conj:appos	_	Gloss=who.Masc
-7	as	neː	AUX	_	Background=Yes	6	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+7	as	neː	AUX	_	Mood=Ind	6	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Ind
 8	sàhiːhìː	sàhiːhìː	NOUN	_	Definite=Ind|Gender=Masc	7	comp:pred	_	Gloss=good_health.Masc
 9	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	11	mod	_	Gloss=then
@@ -755,7 +755,7 @@
 # text_en = That's the lion testes.
 # text_ortho = šii ’às s’uyèn zaakìi.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-2	a'	neː	AUX	_	Background=Yes	1	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+2	a'	neː	AUX	_	Mood=Ind	1	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 3	s'uyèn	s'uyèː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:pred	_	Gloss=testicle.Masc|wordform=s'uyè
 4	zaːkìː	zaːkìː	NOUN	_	Definite=Ind|Gender=Masc	3	mod	_	Gloss=lion.Masc
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -1369,7 +1369,7 @@
 1	sabòːdà	sabòːdà	ADP	_	_	0	root	_	Gloss=because
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus|wordform=hakà
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
-4	ab	neː	AUX	_	Background=Yes	1	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+4	ab	neː	AUX	_	Mood=Ind	1	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Ind
 5	bâː’a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	4	comp:pred	_	Gloss=4.ProgNeg
 6	mâː	mâː	VERB	_	_	5	comp:aux	_	Gloss=do.Dat
 7	màccè	màccè	NOUN	_	Definite=Ind|Gender=Fem	6	comp:obj@R	_	Gloss=female.Fem
@@ -2798,7 +2798,7 @@
 29	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 30	suː	suː	PRON	_	Number=Plur|Person=3	37	dislocated@comp	_	Gloss=3Plur
 31	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	32	subj	_	Gloss=person.Masc
-32	ab	neː	AUX	_	Background=Yes	30	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Bkg
+32	ab	neː	AUX	_	Mood=Ind	30	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Ind
 33	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	32	comp:pred	_	Gloss=3Masc.ProgNeg
 34	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	33	comp:aux	_	Gloss=eat/have_sex.Nmlz.Masc
 35	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
@@ -2854,7 +2854,7 @@
 11	saːbiː	saːbiː	ADJ	_	Number=Plur	8	mod	_	Gloss=new.Plur
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 13	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	14	subj	_	Gloss=who.Plur
-14	ad	kè	AUX	_	Background=Yes	8	mod@relcl	_	Copula=Yes|Gloss=Pred/Loc.Bkg
+14	ad	neː	AUX	_	Mood=Ind	8	mod@relcl	_	Copula=Yes|Gloss=Ident/Foc.Ind
 15	dà	dà	ADP	_	_	14	comp:pred	_	Gloss=with
 16	tabshiː	tabshiː	NOUN	_	Definite=Ind|Gender=Masc	15	comp:obj	_	Gloss=softness.Masc
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
