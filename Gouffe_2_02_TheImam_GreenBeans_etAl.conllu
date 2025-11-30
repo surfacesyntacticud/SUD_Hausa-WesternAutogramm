@@ -1907,7 +1907,7 @@
 # text_ortho = tac ceè baà koomii.
 1	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	0	root	_	Gloss=3Fem.Perf.Rel
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
-3	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	2	comp:obj	_	Gloss=there_is.Neg
+3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	2	comp:obj	_	Gloss=there_is.Neg
 4	koːmiː	koːmiː	PRON	_	_	3	subj	_	Gloss=anything
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -3231,11 +3231,11 @@
 9	dà	dà	CCONJ	_	_	10	cc	_	Gloss=and
 10	maːlàmiː	maːlàm	NOUN	_	Definite=Ind|Gender=Masc	8	conj:coord	_	Gloss=malam.Masc
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	baːbù	bâː	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+12	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 13	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	12	subj	_	Gloss=horse.Masc
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	kuma	kuma	PART	_	PartType=Disc	16	discourse	_	Gloss=also
-16	baːbù	bâː	PART	_	PartType=Neg|Polarity=Neg	12	parataxis@conj	_	Gloss=there_is.Neg
+16	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	12	parataxis@conj	_	Gloss=there_is.Neg
 17	san	sau	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=footprint.Masc|wordform=sau
 18	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=horse.Masc
 19	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -3744,7 +3744,7 @@
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
 9	buːshèː	buːshèː	VERB	_	_	8	comp:aux	_	Gloss=dry
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	8	parataxis@conj	_	Gloss=there_is.Neg
+11	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	8	parataxis@conj	_	Gloss=there_is.Neg
 12	indà	indà	ADV	_	_	11	subj	_	Gloss=where
 13	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=green/unripe.Masc|wordform=ɗanye
 14	hakì:	hakì:	NOUN	_	Definite=Ind|Gender=Masc	15	subj	_	Gloss=grass.Masc
@@ -3809,7 +3809,7 @@
 6	wajentà	wajeːtà	ADP	_	Definite=Cons|Gender=Fem|Person=3	5	comp:obj	_	Gloss=side.3Fem.Poss|wordform=waje
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	ɗaːkì:ntà	ɗaːkì:tà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	9	dislocated@mod	_	Gloss=hut/room.Masc.3Fem.Poss|wordform=ɗaːkì:
-9	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	14	dislocated@mod	_	Gloss=there_is.Neg
+9	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	14	dislocated@mod	_	Gloss=there_is.Neg
 10	koːwaː	koːwaː	PRON	_	_	9	subj	_	Gloss=everyone
 11	kusa	kusa	ADV	_	_	9	comp:pred	_	Gloss=near
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT

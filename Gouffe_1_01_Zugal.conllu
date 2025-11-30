@@ -441,7 +441,7 @@
 11	jìbdàː	jìbdàː	NOUN	_	Definite=Ind|Gender=Fem	10	mod	_	Gloss=musk.Fem
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	10	conj:appos	_	Gloss=who.Masc
-14	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	13	mod@relcl	_	Gloss=there_is.Neg
+14	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	13	mod@relcl	_	Gloss=there_is.Neg
 15	gamìː	gamìː	NOUN	_	Definite=Ind|Gender=Masc	14	subj	_	Gloss=tampering.Masc
 16	.	.	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 
@@ -1744,7 +1744,7 @@
 26	dà	dà	ADP	_	_	25	comp:obl	_	Gloss=with
 27	mùtun	mùtun	NOUN	_	Definite=Ind|Gender=Masc	26	comp:obj	_	Gloss=person.Masc
 28	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-29	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+29	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 30	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	29	subj	_	Gloss=who.Masc
 31	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	30	mod@relcl	_	Gloss=3Masc.Perf.Rel
 32	iyà	iyàː	VERB	_	_	31	comp:aux	_	Gloss=be_able
@@ -1862,7 +1862,7 @@
 23	dà	dà	ADP	_	_	22	comp:obl	_	Gloss=with
 24	shiː	shiː	PRON	_	Gender=Masc|Person=3	23	comp:obj	_	Gloss=3Masc
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	20	parataxis	_	Gloss=there_is.Neg
+26	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	20	parataxis	_	Gloss=there_is.Neg
 27	ruwantà	ruwaːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	26	subj	_	Gloss=water.Plur.3Fem.Poss|wordform=ruwa
 28	dà	dà	ADP	_	_	26	comp:pred	_	Gloss=with
 29	koːwaː	koːwaː	PRON	_	_	28	comp:obj	_	Gloss=everyone
@@ -5594,7 +5594,7 @@
 16	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	15	comp:pred	_	Gloss=work.Masc
 17	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
 18	ɗàriː	ɗàriː	NUM	_	_	17	comp:obj	_	Gloss=hundred
-19	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	18	mod	_	Gloss=there_is.Neg
+19	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	mod	_	Gloss=there_is.Neg
 20	ɗaya	ɗaya	NUM	_	_	19	subj	_	Gloss=one
 21	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -5607,7 +5607,7 @@
 # text_ortho = ɗàᵲiǹ nan baà ɗàya, ’in ’ankà ɗèebee tà, sai ’à gamàa ta dà wa’ànnan sauᵲan ’abuubuwàa, dà ’ankà ɗiibàa, ’à gamèe su wuᵲii gùdaa ’à dakèe.
 1	ɗàrîn	ɗàriː	NUM	_	Definite=Cons|Gender=Masc	12	dislocated@comp	_	Gloss=hundred.Masc.Cons
 2	nan	nan	DET	_	Definite=Def|PronType=Dem	1	det	_	Gloss=Def
-3	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	1	mod	_	Gloss=there_is.Neg
+3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	1	mod	_	Gloss=there_is.Neg
 4	ɗaya	ɗaya	NUM	_	_	3	subj	_	Gloss=one
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	12	mod	_	Gloss=if
