@@ -58,7 +58,7 @@
 1	ita	ita	PRON	_	Gender=Fem|Person=3	8	dislocated@subj	_	Gloss=3Fem
 2	màːtaw	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:appos	_	Gloss=wife.Fem|wordform=màːta
 3	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	2	mod	_	Gloss=who.Masc
-4	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	3	mod@relcl	_	Gloss=there_is.Neg
+4	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	3	mod@relcl	_	Gloss=there_is.Neg
 5	doːkìː	doːkìː	NOUN	_	Definite=Ind|Gender=Masc	4	subj	_	Gloss=horse.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
@@ -653,14 +653,14 @@
 20	ta	ta	PART	_	Aspect=Iter|PartType=Adv	19	compound:prt	_	Gloss=Iter
 21	zuhwàː	zuhwàː	NOUN	_	Definite=Ind|Gender=Fem	19	comp:pred	_	Gloss=perspiration.Fem
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	18	parataxis	_	Gloss=there_is.Neg
+23	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	parataxis	_	Gloss=there_is.Neg
 24	indà	indà	PRON	_	_	23	subj	_	Gloss=where
 25	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	26	subj	_	Gloss=air.Fem
 26	kà	nàː	AUX	_	Aspect=Prog|Relative=Yes	24	mod@relcl	_	Gloss=Prog.Rel
 27	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	26	comp:aux	_	Gloss=enter.Nmlz.Fem
 28	,	,	PUNCT	_	_	30	punct	_	Gloss=PUNCT
 29	kuma	kuma	PART	_	PartType=Disc	30	discourse	_	Gloss=also
-30	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	23	parataxis@conj	_	Gloss=there_is.Neg
+30	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	23	parataxis@conj	_	Gloss=there_is.Neg
 31	indà	indà	PRON	_	_	30	subj	_	Gloss=where
 32	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	33	subj	_	Gloss=air.Fem
 33	kà	nàː	AUX	_	Aspect=Prog|Relative=Yes	31	mod@relcl	_	Gloss=Prog.Rel
@@ -832,14 +832,14 @@
 6	dà	dà	CCONJ	_	_	7	cc	_	Gloss=and
 7	wajeːnai	wajeːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	5	conj:coord	_	Gloss=side.3Masc.Poss|wordform=wajeː
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-9	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+9	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 10	indà	indà	PRON	_	_	9	subj	_	Gloss=where
 11	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	12	subj	_	Gloss=air.Fem
 12	kà	nàː	AUX	_	Aspect=Prog|Relative=Yes	10	mod@relcl	_	Gloss=Prog.Rel
 13	shìgaː	shìgaː	VERB	_	ExtPos=NOUN|Gender=Fem	12	comp:aux	_	Gloss=enter.Nmlz.Fem
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	kuma	kuma	PART	_	PartType=Disc	16	discourse	_	Gloss=also
-16	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	9	parataxis@conj	_	Gloss=there_is.Neg
+16	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	9	parataxis@conj	_	Gloss=there_is.Neg
 17	indà	indà	PRON	_	_	16	subj	_	Gloss=where
 18	iskàː	iskàː	NOUN	_	Definite=Ind|Gender=Fem	19	subj	_	Gloss=air.Fem
 19	kà	nàː	AUX	_	Aspect=Prog|Relative=Yes	17	mod@relcl	_	Gloss=Prog.Rel
@@ -1051,7 +1051,7 @@
 8	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	7	comp:obj	_	Gloss=3Fem.Perf.Rel
 9	taːshì	taːshì	VERB	_	_	8	comp:aux	_	Gloss=rise
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	baːbù	bâː	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+11	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 12	ban	ban	VERB	_	ExtPos=NOUN|Gender=Masc	11	subj	_	Gloss=give.Nmlz.Masc
 13	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	12	compound	_	Gloss=spend_night.Nmlz.Masc
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -1294,7 +1294,7 @@
 # text = bâː koːmiː gà ɗwaim mài doːkìː , sai kaːshiː , kuma sai tuːsàː , kàmaj jàːkiː .
 # text_en = In the smell of rider, there was nothing except dung and farts like donkeys.
 # text_ortho = baà koomii gà ɗiiwàm mài dookìː, sai kaašii, kuma sai tuusàa, kàmaj jàakii.
-1	bâː	baːbù	PART	_	PartType=Neg|Polarity=Neg	0	root	_	Gloss=there_is.Neg
+1	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 2	koːmiː	koːmiː	PRON	_	_	1	subj	_	Gloss=anything
 3	gà	gà	ADP	_	_	1	comp:pred	_	Gloss=at
 4	ɗwaim	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=stench.Masc|wordform=ɗwai
