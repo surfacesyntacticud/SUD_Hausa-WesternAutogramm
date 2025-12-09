@@ -82,7 +82,7 @@
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	1	conj:appos	_	Gloss=Fulani.Masc
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	kanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=2	0	root	_	Gloss=2Masc.Prog
-5	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
+5	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Vnoun.Masc
 6	kà	nàː	AUX	_	Aspect=Prog|Relative=Yes	5	comp:obj	_	Gloss=Prog.Rel
 7	ci	ci	VERB	_	_	6	comp:aux	_	Gloss=have_sex_with
 8	sàràkkuwakkà	sàràkkuwaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	7	comp:obj	_	Gloss=female_in_law.Fem.2Masc.Gen|wordform=sàràkkuwa
@@ -92,7 +92,7 @@
 12	wàdà	wàdà	ADV	_	_	11	mod	_	Gloss=how
 13-14	zâː	_	_	_	_	_	_	_	_
 13	zâːka	zâi	AUX	_	Gender=Masc|Person=2|Tense=Fut	12	mod@relcl	_	Gloss=Fut.2Masc|wordform=zâː
-14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=do.Nmlz.Masc
+14	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=do.Vnoun.Masc
 15	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	14	mod	_	Gloss=2Masc.Sub
 16	ci	ci	VERB	_	_	15	comp:aux	_	Gloss=have_sex_with
 17	sàràkkuwakkà	sàràkkuwaːkà	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=2	16	comp:obj	_	Gloss=female_in_law.Fem.2Masc.Gen|wordform=sàràkkuwa
@@ -161,7 +161,7 @@
 7	màːtaːtai	màːtaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	6	comp:obj@R	_	Gloss=wife.Fem.3Masc.Poss|wordform=màːtaː
 8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	6	comp:obj@T	_	Gloss=3Fem.Sub
 9	yi	yi	VERB	_	_	8	comp:aux	_	Gloss=do
-10	zamantà	zamaːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	9	comp:pred	_	Gloss=stay.Nmlz.Masc.3Fem.Poss|wordform=zama
+10	zamantà	zamaːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	9	comp:pred	_	Gloss=stay.Vnoun.Masc.3Fem.Poss|wordform=zama
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	Gloss=3Masc
 13	shîː	yâː	AUX	_	Gender=Masc|Mood=Pot|Person=3	8	parataxis@conj	_	Gloss=3Sing.Pot
@@ -181,7 +181,7 @@
 # text_ortho = dà zaà su tàhiyàa, šii bàhillaacèn ga, sai yag gamà kaì dà ’àbookiinai, yac cèe ’in sun tàhi, dà šii dà sàᵲàkkuwaatai, ’àbookiinai, šì bi dabᵲàssù, ’indà sàᵲàkkuwaatai baà ta ganiinai.
 1	dà	dà	SCONJ	_	_	10	mod	_	Gloss=when
 2	zâːsu	zâi	AUX	_	Person=3|Tense=Fut	1	comp:obj	_	Gloss=Fut.3.Pl|wordform=zâː
-3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Nmlz.Fem
+3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Vnoun.Fem
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	shiː	shiː	PRON	_	Gender=Masc|Person=3	10	dislocated@subj	_	Gloss=3Masc
 6	bàhillaacèn	bàhillaacèn	VERB	_	Gender=Masc	5	conj:appos	_	Gloss=Fulani.Masc.Cons
@@ -214,7 +214,7 @@
 33	indà	indà	PRON	_	_	30	mod	_	Gloss=where
 34	sàràkkuwaːtai	sàràkkuwaːtai	NOUN	_	Definite=Ind|Gender=Fem|Person=3	35	subj	_	Gloss=in-law.Fem.3Masc.Poss|wordform=sàràkkuwaː
 35	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	33	mod@relcl	_	Gloss=3Fem.ProgNeg
-36	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	35	comp:aux	_	Gloss=see.Nmlz.Masc.3Masc.Poss|wordform=ganiː
+36	ganiːnai	ganiːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	35	comp:aux	_	Gloss=see.Vnoun.Masc.3Masc.Poss|wordform=ganiː
 37	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_08_split1
@@ -253,7 +253,7 @@
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	nay	yaː	AUX	_	Aspect=Perf|Person=1|Relative=Yes	13	parataxis@conj	_	Gloss=1Sing.Perf.Rel
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
-18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:pred	_	Gloss=call.Nmlz.Masc|wordform=kirà
+18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:pred	_	Gloss=call.Vnoun.Masc|wordform=kirà
 19	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	18	udep	_	Gloss=bush.Masc
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	2	comp:obj@T	_	Gloss=2Masc.Sub
@@ -276,7 +276,7 @@
 7	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	0	root	_	Gloss=3Plur.Perf.Rel
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	ta	ta	PART	_	Aspect=Iter|PartType=Adv	8	compound:prt	_	Gloss=Iter
-10	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:pred	_	Gloss=go.Nmlz.Fem
+10	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	8	comp:pred	_	Gloss=go.Vnoun.Fem
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	dà	dà	CCONJ	_	_	13	cc@preconj	_	Gloss=and
 13	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=3Masc
@@ -284,7 +284,7 @@
 15	sàràkkuwaː	sàràkkuwaː	NOUN	_	Definite=Ind|Gender=Fem	13	conj:coord	_	Gloss=in-law.Fem
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.Prog
-18	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:aux	_	Gloss=follow.Nmlz.Masc|wordform=bî
+18	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:aux	_	Gloss=follow.Vnoun.Masc|wordform=bî
 19	daːjìː	daːjìː	NOUN	_	Definite=Ind|Gender=Masc	18	udep	_	Gloss=bush.Masc
 20	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
@@ -299,7 +299,7 @@
 2	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	1	mod	_	Gloss=Fulani.Masc
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-5	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=follow.Nmlz.Masc|wordform=bî
+5	bîn	bîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=follow.Vnoun.Masc|wordform=bî
 6	dabràssù	dabràtsù	ADP	_	Number=Plur|Person=3	5	comp:obl	_	Gloss=alongside.3Plur.Poss|wordform=dabràs
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
@@ -361,7 +361,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	25	parataxis@conj	_	Gloss=3Masc.Perf
 30	yi	yi	VERB	_	_	29	comp:aux	_	Gloss=do
-31	ɓatàn	ɓatàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:pred	_	Gloss=lose.Nmlz.Masc|wordform=ɓatà
+31	ɓatàn	ɓatàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	30	comp:pred	_	Gloss=lose.Vnoun.Masc|wordform=ɓatà
 32	kâi	kâi	NOUN	_	Definite=Ind|Gender=Masc	31	udep	_	Gloss=head.Masc
 33	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -397,7 +397,7 @@
 6	tôː	tôː	INTJ	_	_	7	discourse	_	Gloss=well
 7	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	Gloss=how
 8	zâːmu	zâi	AUX	_	Number=Plur|Person=1|Tense=Fut	7	comp:cleft	_	Gloss=Fut.1Plur|wordform=zâː
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=do.Nmlz.Masc
+9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=do.Vnoun.Masc
 10	tun	tun	SCONJ	_	_	9	mod	_	Gloss=since/before
 11	dà	dà	SCONJ	_	_	10	comp:obj	_	Gloss=when
 12	naː	yaː	AUX	_	Aspect=Perf|Person=1	11	comp:obj	_	Gloss=1Sing.Perf
@@ -480,11 +480,11 @@
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
 2	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	0	root	_	Gloss=3Masc.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kiràː	kiràː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=call.Nmlz.Masc
+4	kiràː	kiràː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=call.Vnoun.Masc
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	2	parataxis@conj	_	Gloss=3Masc.Perf.Rel
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
-8	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:pred	_	Gloss=call.Nmlz.Masc|wordform=kirà
+8	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	7	comp:pred	_	Gloss=call.Vnoun.Masc|wordform=kirà
 9	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	8	udep	_	Gloss=bush.Masc
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 11	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	6	parataxis@conj	_	Gloss=3Masc.Perf.Rel
@@ -541,7 +541,7 @@
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
 2	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=call.Nmlz.Masc|wordform=kirà
+4	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=call.Vnoun.Masc|wordform=kirà
 5	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	4	udep	_	Gloss=bush.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	9	mod	_	Gloss=then
@@ -597,7 +597,7 @@
 # text_en = They did that three times.
 # text_ortho = su nàa yiǹ hakà nan, has soò ’ukkù.
 1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp:aux	_	Gloss=do.Nmlz.Masc|wordform=yî
+2	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	1	comp:aux	_	Gloss=do.Vnoun.Masc|wordform=yî
 3	hakànan	hakànan	ADV	_	_	2	mod	_	Gloss=thus|wordform=hakà
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	has	hat	ADP	_	_	2	mod	_	Gloss=until
@@ -628,7 +628,7 @@
 14	:	:	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	tôː	tôː	INTJ	_	_	16	discourse	_	Gloss=well
 16	kinàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2	11	comp:obj@T	_	Gloss=2Fem.Prog
-17	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=hear.Nmlz.Masc|wordform=jî
+17	jîn	jîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	16	comp:aux	_	Gloss=hear.Vnoun.Masc|wordform=jî
 18	àbun	àbu	NOUN	_	Definite=Cons|Gender=Masc	17	udep	_	Gloss=thing.Masc|wordform=àbu
 19	dà	dà	SCONJ	_	_	18	mod@relcl	_	Gloss=that
 20	dawàː	dawàː	NOUN	_	Definite=Ind|Gender=Masc	21	subj	_	Gloss=bush.Masc
@@ -679,7 +679,7 @@
 3	:	:	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	ƙàːƙàː	ƙàːƙàː	ADV	_	_	2	comp:obj@T	_	Gloss=how
 5	zâːni	zâi	AUX	_	Person=1|Tense=Fut	4	comp:cleft	_	Gloss=Fut.1Sing|wordform=zâː
-6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=say.Nmlz.Fem|wordform=cêː
+6	cêːwaː	cêː	VERB	_	ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=say.Vnoun.Fem|wordform=cêː
 7	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_04_InLawFulani_29_split2
@@ -756,7 +756,7 @@
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	0	root	_	Gloss=3Plur.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	ta	ta	PART	_	Aspect=Iter|PartType=Adv	3	compound:prt	_	Gloss=Iter
-5	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:pred	_	Gloss=go.Nmlz.Fem
+5	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	3	comp:pred	_	Gloss=go.Vnoun.Fem
 6	dà	dà	SCONJ	_	_	3	mod	_	Gloss=when
 7	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	6	comp:obj	_	Gloss=3Masc.Perf.Rel
 8	ciː	ci	VERB	_	_	7	comp:aux	_	Gloss=have_sex_with
