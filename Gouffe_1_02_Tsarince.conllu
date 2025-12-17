@@ -340,12 +340,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 9000, 10000
-# text = koː à iskée su hwageː , à kirànyeː sù , koː à zoː gidan uwàːyen =sù , à kirànyeː sù .
+# text = koː à iskéː su hwageː , à kirànyeː sù , koː à zoː gidan uwàːyensù , à kirànyeː sù .
 # text_en = Either they meet them outside and call them or they go to their parents' house, and call them.
 # text_ortho = koo ’à ’iskée su hwagee, ’à kiᵲànyee sù, koo ’à zoo gidan ’uwàayensù, ’à kìᵲànyee sù.
 1	koː	koː	SCONJ	_	_	7	mod	_	Gloss=whether
 2	à	yà	AUX	_	Mood=Sub|Person=4	1	comp:obj	_	Gloss=4.Sub
-3	iskée	iskée	VERB	_	_	2	comp:aux	_	Gloss=find
+3	iskéː	îskeː	VERB	_	_	2	comp:aux	_	Gloss=find
 4	su	su	PRON	_	Person=3	3	comp:obj@T	_	Gloss=3.Pl
 5	hwageː	hwageː	NOUN	_	Definite=Ind|Gender=Masc	3	comp:obj@L	_	Gloss=open_space.Masc
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1468,7 +1468,7 @@
 7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_42-42
-# text = in sunkà yi kwànce, sunkà gamà jìkiː, nônnan bùdurwaː sunkà kaːmà gàban sarmàyiː, yaj ji sanyin jìkintà, yanàː yìwuwaː bùːras sarmàyiː tà taːshì..
+# text = in sunkà yi kwànce , sunkà gamà jìkiː , nônnan bùdurwaː sunkà kaːmà gàban sarmàyiː , yaj ji sanyin jìkintà , yanàː yìwuwaː bùːras sarmàyiː tà taːshì .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 41000, 41283
@@ -1477,7 +1477,7 @@
 1	in	in	SCONJ	_	_	22	mod	_	Gloss=if
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	1	comp:obj	_	Gloss=3Plur.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kwànce	kwànce	VERB	_	_	3	comp:pred	_	Gloss=lie_down.Part
+4	kwànce	kwântaː	VERB	_	_	3	comp:pred	_	Gloss=lie_down.Part
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	2	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 7	gamà	gamàː	VERB	_	_	6	comp:aux	_	Gloss=join
