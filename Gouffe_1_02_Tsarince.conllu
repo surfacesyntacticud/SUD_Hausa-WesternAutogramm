@@ -1477,7 +1477,7 @@
 1	in	in	SCONJ	_	_	22	mod	_	Gloss=if
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	1	comp:obj	_	Gloss=3Plur.Perf.Rel
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	kwànce	kwântaː	VERB	_	_	3	comp:pred	_	Gloss=lie_down.Part
+4	kwànce	kwântaː	VERB	_	ExtPos=ADV|VerbForm=Stat	3	comp:pred	_	Gloss=lie_down.Part
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	2	parataxis@conj	_	Gloss=3Plur.Perf.Rel
 7	gamà	gamàː	VERB	_	_	6	comp:aux	_	Gloss=join
@@ -2263,7 +2263,7 @@
 13	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	parataxis@conj	_	Gloss=3Masc.Sub
 14	taːdàː	taːdàː	VERB	_	_	13	comp:aux	_	Gloss=wake_up
 15	ta	ta	PRON	_	Gender=Fem|Person=3	14	comp:obj	_	Gloss=3Fem
-16	zàmne	zamnàː	VERB	_	_	14	mod	_	Gloss=stay.Stat
+16	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	14	comp:pred	_	Gloss=stay.Stat
 17	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_64-64
@@ -2277,7 +2277,7 @@
 2	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	1	comp:obj	_	Gloss=3Masc.Perf.Rel
 3	taːdàː	taːdàː	VERB	_	_	2	comp:aux	_	Gloss=wake_up
 4	ta	ta	PRON	_	Gender=Fem|Person=3	3	comp:obj	_	Gloss=3Fem
-5	zàmne	zamnàː	VERB	_	_	3	mod	_	Gloss=stay.Stat
+5	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	3	comp:pred	_	Gloss=stay.Stat
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	tab	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	0	root	_	Gloss=3Fem.Perf.Rel
 8	bar̃	barìː	VERB	_	_	7	comp:aux	_	Gloss=leave
@@ -2360,7 +2360,7 @@
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	dàgà	dàgà	ADP	_	_	2	mod	_	Gloss=from
 7	nan	nan	ADV	_	Definite=Def|PronType=Dem	6	comp:obj	_	Gloss=Def
-8	zàmne	zamnàː	VERB	_	_	6	mod	_	Gloss=stay.Stat
+8	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:pred	_	Gloss=stay.Stat
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 10	àmmaː	àmmaː	CCONJ	_	_	12	cc	_	Gloss=but
 11	hwa	hwa	PART	_	PartType=Top	10	discourse@top	_	Gloss=indeed

@@ -455,10 +455,10 @@
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
 1	sunàː	kè	AUX	_	Person=3	0	root	_	Copula=Yes|Gloss=3.Pl.Pred.Loc
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
-3	zàmne	zamnàː	VERB	_	_	2	mod	_	Gloss=stay.Stat
+3	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	1	comp:pred	_	Gloss=stay.Stat
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	Gloss=everyone
-6	masabkiːnai	masabkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	3	mod	_	Gloss=stopping_place.Masc.3Masc.Poss|wordform=masabkiː
+6	masabkiːnai	masabkiːnai	NOUN	_	Definite=Ind|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=stopping_place.Masc.3Masc.Poss|wordform=masabkiː
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	har	hat	SCONJ	_	_	6	mod	_	Gloss=until
 9	raːnaː	raːnaː	NOUN	_	Definite=Ind|Gender=Fem	10	subj	_	Gloss=sun/day.Fem
