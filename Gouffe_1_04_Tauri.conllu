@@ -776,7 +776,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 23000, 24000
-# text = koː yaː dìːbi ƙarhèː , kuma sai shì laːlàːceː , koː yaː tàːki ƙarhèː , kuma sai shì laːlàːceː .
+# text = koː yaː dìːbi ƙarhèː , kuma sai shì laːlàːceː ; koː yaː tàːki ƙarhèː , kuma sai shì laːlàːceː .
 # text_en = If he looks at metal, it will get spoilt ; if he treads on metal, it will spoil.
 # text_ortho = koo yaa dìibi ƙaᵲhèe, kuma sai šì laalàacee, koo yaa tàaki ƙaᵲhèe, kuma sai šì laalàacee.
 1	koː	koː	CCONJ	_	_	8	mod	_	Gloss=or
@@ -788,15 +788,15 @@
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 8	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 9	laːlàːceː	laːlàːceː	VERB	_	_	8	comp:aux	_	Gloss=spoil
-10	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+10	;	;	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 11	koː	koː	SCONJ	_	_	18	mod	_	Gloss=or
 12	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc.Perf
 13	tàːki	tàːkaː	VERB	_	_	12	comp:aux	_	Gloss=tread_on
 14	ƙarhèː	ƙarhèː	NOUN	_	Definite=Ind|Gender=Masc	13	comp:obj	_	Gloss=iron.Masc
 15	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-16	kuma	kuma	PART	_	PartType=Disc	18	discourse	_	Gloss=also
+16	kuma	kuma	CCONJ	_	_	18	cc	_	Gloss=also
 17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
-18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@conj	_	Gloss=3Masc.Sub
+18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	conj:coord	_	Gloss=3Masc.Sub
 19	laːlàːceː	laːlàːceː	VERB	_	_	18	comp:aux	_	Gloss=spoil
 20	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
@@ -1939,8 +1939,8 @@
 13	shi	shi	PRON	_	Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc
 14	dàban	dàban	ADV	_	_	12	mod	_	Gloss=apart
 15	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-16	kuma	kuma	PART	_	PartType=Disc	17	discourse	_	Gloss=also
-17	à	yà	AUX	_	Mood=Sub|Person=4	11	parataxis@conj	_	Gloss=4.Sub
+16	kuma	kuma	CCONJ	_	_	17	cc	_	Gloss=also
+17	à	yà	AUX	_	Mood=Sub|Person=4	11	conj:coord	_	Gloss=4.Sub
 18	ƙumshè	ƙumshèː	VERB	_	_	17	comp:aux	_	Gloss=wrap_up
 19	gàːrîn	gàːriː	NOUN	_	Definite=Cons|Gender=Masc	18	comp:obj	_	Gloss=flour.Masc.Cons
 20	nan	nan	DET	_	Definite=Def|PronType=Dem	19	det	_	Gloss=Def

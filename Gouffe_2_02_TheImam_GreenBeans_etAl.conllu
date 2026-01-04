@@ -232,10 +232,10 @@
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	10	parataxis@conj	_	Gloss=3Masc.Perf
 12	jiyàː	jiyàː	VERB	_	_	11	comp:aux	_	Gloss=hear
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-14	kuma	kuma	PART	_	PartType=Disc	15	discourse	_	Gloss=also
-15	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	parataxis@conj	_	Gloss=3Masc.Perf
+14	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also
+15	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	11	conj:coord	_	Gloss=3Masc.Perf
 16	goːdèː	goːdèː	VERB	_	_	15	comp:aux	_	Gloss=thank
-17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	parataxis@conj	_	Gloss=3Masc.Perf
+17	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	15	conj:coord	_	Gloss=3Masc.Perf
 18	yi	yi	VERB	_	_	17	comp:aux	_	Gloss=do
 19	mur̃nàː	mur̃nàː	NOUN	_	Definite=Ind|Gender=Fem	18	comp:pred	_	Gloss=joy.Fem
 20	.	.	PUNCT	_	_	8	punct	_	Gloss=.
@@ -264,9 +264,9 @@
 15	noːnòn	noːnòː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=milk.Masc|wordform=noːnò
 16	uwattà	uwaːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	15	mod	_	Gloss=mother.Fem.3Fem.Poss|wordform=uwa
 17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-18	kuma	kuma	PART	_	PartType=Disc	20	discourse	_	Gloss=also
+18	kuma	kuma	CCONJ	_	_	20	cc	_	Gloss=also
 19	kât	kaɗà	PART	_	Mood=Jus|PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg.Jus
-20	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	13	parataxis@conj	_	Gloss=3Fem.Sub
+20	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	13	conj:coord	_	Gloss=3Fem.Sub
 21	girma	girma	VERB	_	_	20	comp:aux	_	Gloss=grow
 22	wurin	wurin	ADP	_	Definite=Cons	21	comp:obl	_	Gloss=at|wordform=wuri
 23	uwattà	uwaːtà	NOUN	_	Definite=Cons|Gender=Fem|Person=3	22	comp:obj	_	Gloss=mother.Fem.3Fem.Poss|wordform=uwa
@@ -407,8 +407,8 @@
 11	noːnòn	noːnòː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj@T	_	Gloss=milk.Masc|wordform=noːnò
 12	bisàːsheː	bisàːsheː	NOUN	_	Definite=Ind|Number=Plur	11	mod	_	Gloss=cattle.Plur
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-14	kuma	kuma	PART	_	PartType=Disc	15	discourse	_	Gloss=also
-15	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	7	parataxis@conj	_	Gloss=3Fem.Sub
+14	kuma	kuma	CCONJ	_	_	15	cc	_	Gloss=also
+15	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	7	conj:coord	_	Gloss=3Fem.Sub
 16	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
 17	rèːnontà	rèːnoːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	16	comp:pred	_	Gloss=take_care.Nmlz.Masc.3Fem.Poss|wordform=rèːno
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
@@ -440,8 +440,8 @@
 14	ta	ta	PRON	_	Gender=Fem|Person=3	13	comp:obj@R	_	Gloss=3Fem
 15	madar̃aː	madar̃aː	NOUN	_	Definite=Ind|Gender=Fem	13	comp:obj@T	_	Gloss=cow_milk.Fem
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-17	kuma	kuma	PART	_	PartType=Disc	18	discourse	_	Gloss=also
-18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	parataxis@conj	_	Gloss=3Fem.Prog
+17	kuma	kuma	CCONJ	_	_	18	cc	_	Gloss=also
+18	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	conj:coord	_	Gloss=3Fem.Prog
 19	rèːnontà	rèːnoːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Person=3	18	comp:aux	_	Gloss=take_care.Nmlz.Masc.3Fem.Poss|wordform=rèːno
 20	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -1855,11 +1855,11 @@
 4	kaːwoː	kai	VERB	_	_	3	comp:obj	_	Gloss=reach/take_to.Dir|wordform=kaːw
 5	mikì	mikì	PRON	_	Gender=Fem|Person=2	4	mod	_	Gloss=2Fem.Dat
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
-8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.Perf
+7	kuma	kuma	CCONJ	_	_	8	cc	_	Gloss=also
+8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	conj:coord	_	Gloss=3Masc.Perf
 9	yoː	yi	VERB	_	_	8	comp:aux	_	Gloss=do.Dir|wordform=y
 10	mun	minì	PRON	_	Person=1	9	comp:obl	_	Gloss=1Sing.Dat
-11	sàːƙoː	sàːƙoː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj@T	_	Gloss=message.Masc
+11	sàːƙoː	sàːƙoː	NOUN	_	Definite=Ind|Gender=Masc	9	comp:obj	_	Gloss=message.Masc
 12	wurinkì	wurinkì	ADP	_	Gender=Fem|Person=2	9	comp:obl	_	Gloss=to.2Fem.Poss|wordform=wurin
 13	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -1876,8 +1876,8 @@
 4	gaisheː	gaisàː	VERB	_	_	3	comp:aux	_	Gloss=greet
 5	kì	kì	PRON	_	Gender=Fem|Person=2	4	comp:obj	_	Gloss=2Fem
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-7	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
-8	ìn	yà	AUX	_	Mood=Sub|Person=1	3	parataxis@conj	_	Gloss=1Sing.Sub
+7	kuma	kuma	CCONJ	_	_	8	cc	_	Gloss=also
+8	ìn	yà	AUX	_	Mood=Sub|Person=1	3	conj:coord	_	Gloss=1Sing.Sub
 9	gayàː	gayàː	VERB	_	_	8	comp:aux	_	Gloss=tell
 10	makì	makì	PRON	_	Gender=Fem|Person=2	9	comp:obl	_	Gloss=2Fem.Dat
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -2228,9 +2228,9 @@
 3	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	2	comp:obj@R	_	Gloss=wife.Fem|wordform=màːta
 4	maːlàm	maːlàmiː	NOUN	_	Definite=Ind|Gender=Masc	3	mod	_	Gloss=malam.Masc
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-6	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
+6	kuma	kuma	CCONJ	_	_	8	cc	_	Gloss=also
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
-8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	parataxis@conj	_	Gloss=3Fem.Sub
+8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	1	conj:coord	_	Gloss=3Fem.Sub
 9	baː	baː	VERB	_	_	8	comp:aux	_	Gloss=give
 10	tà	ta	PRON	_	Gender=Fem|Person=3	9	comp:obj@R	_	Gloss=3Fem
 11	kaːyan	kaːyaː	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj@T	_	Gloss=things.Masc|wordform=kaːya
@@ -2627,8 +2627,8 @@
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 4	hiːr̃a	hiːr̃a	NOUN	_	Definite=Ind|Gender=Fem	3	comp:aux	_	Gloss=chatting.Fem
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-6	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	Gloss=also
-7	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	3	parataxis@conj	_	Gloss=3Plur.Perf.Rel
+6	kuma	kuma	CCONJ	_	_	7	cc	_	Gloss=also
+7	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Relative=Yes	3	conj:coord	_	Gloss=3Plur.Perf.Rel
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
 9	àbun	àbù	NOUN	_	Definite=Cons|Gender=Masc	8	comp:pred	_	Gloss=thing.Masc|wordform=àbù
 10	dà	dà	SCONJ	_	_	9	mod@relcl	_	Gloss=that
@@ -3134,8 +3134,8 @@
 8	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	comp:obj@T	_	Gloss=2Masc.Perf
 9	haukàceː	haukàceː	VERB	_	_	8	comp:aux	_	Gloss=go_crazy
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-11	kuma	kuma	PART	_	PartType=Disc	12	discourse	_	Gloss=also
-12	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	8	parataxis@conj	_	Gloss=2Masc.Perf
+11	kuma	kuma	CCONJ	_	_	12	cc	_	Gloss=also
+12	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	8	conj:coord	_	Gloss=2Masc.Perf
 13	yi	yi	VERB	_	_	12	comp:aux	_	Gloss=do
 14	mun	minì	PRON	_	Person=1	13	comp:obl	_	Gloss=1Sing.Dat
 15	ƙaryaː	ƙaryaː	NOUN	_	Definite=Ind|Gender=Fem	13	comp:pred	_	Gloss=lie.Fem
@@ -3234,8 +3234,8 @@
 12	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
 13	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	12	subj	_	Gloss=horse.Masc
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	kuma	kuma	PART	_	PartType=Disc	16	discourse	_	Gloss=also
-16	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	12	parataxis@conj	_	Gloss=there_is.Neg
+15	kuma	kuma	CCONJ	_	_	16	cc	_	Gloss=also
+16	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	12	conj:coord	_	Gloss=there_is.Neg
 17	san	sau	NOUN	_	Definite=Cons|Gender=Masc	16	subj	_	Gloss=footprint.Masc|wordform=sau
 18	doːkì:	doːkì:	NOUN	_	Definite=Ind|Gender=Masc	17	comp:obj	_	Gloss=horse.Masc
 19	.	.	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -3580,9 +3580,9 @@
 3	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	0	root	_	Gloss=3Fem.Perf.Rel
 4	tàhiyàttà	tàhiyàːtà	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|Person=3	3	comp:aux	_	Gloss=go.Nmlz.Fem.3Fem.Poss|wordform=tàhiyà
 5	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-6	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
+6	kuma	kuma	CCONJ	_	_	8	cc	_	Gloss=also
 7	sarkiː	sarkiː	NOUN	_	Definite=Ind|Gender=Masc	8	subj	_	Gloss=chief.Masc
-8	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	3	parataxis@conj	_	Gloss=3Masc.Perf.Rel
+8	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Relative=Yes	3	conj:coord	_	Gloss=3Masc.Perf.Rel
 9	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	8	comp:aux	_	Gloss=go.Nmlz.Fem.3Masc.Poss|wordform=tàhiyàː
 10	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
@@ -3894,12 +3894,12 @@
 10	kuhwan	kuhwai	NOUN	_	Definite=Cons|Gender=Masc	9	comp:obj	_	Gloss=stain/scar/ruins.Masc|wordform=kuhwai
 11	waːkeː	waːkeː	NOUN	_	Definite=Ind|Gender=Masc	10	mod	_	Gloss=beans.Masc
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-13	kuma	kuma	PART	_	PartType=Top	14	discourse@top	_	Gloss=also
-14	taw	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	8	parataxis@conj	_	Gloss=3Fem.Perf.Rel
+13	kuma	kuma	CCONJ	_	_	14	cc	_	Gloss=also
+14	taw	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	8	conj:coord	_	Gloss=3Fem.Perf.Rel
 15	wankè	wankèː	VERB	_	_	14	comp:aux	_	Gloss=wash
 16	tukunyaː	tukunyaː	NOUN	_	Definite=Ind|Gender=Fem	15	comp:obj	_	Gloss=cooking_pot.Fem
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	taz	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	14	parataxis@conj	_	Gloss=3Fem.Perf.Rel
+18	taz	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Relative=Yes	14	conj:coord	_	Gloss=3Fem.Perf.Rel
 19	zubdàː	zubdàː	VERB	_	_	18	comp:aux	_	Gloss=throw_away
 20	indà	indà	PRON	_	_	19	comp:obj@L	_	Gloss=where
 21	bâː'a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	20	mod@relcl	_	Gloss=4.ProgNeg
