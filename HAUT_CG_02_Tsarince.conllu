@@ -76,12 +76,12 @@
 # text_en = If he does not go himself, he will send a boy to call her for him.
 # text_ortho = ’in kaù bài tàhi dà kàinai ba, sai šì saà wani yaaᵲòo, šì kiᵲanyoo mai ’ita.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	1	comp:obj	_	Gloss=3Masc.PerfNeg
 4	tàhi	tàhi	VERB	_	_	3	comp:aux	_	Gloss=go
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
 6	kâinai	kâinai	NOUN	_	Gender=Masc|Person=3	5	comp:obj	_	Gloss=head.Masc.3Masc.Gen
-7	ba	ba	PART	_	Polarity=Neg	4	mod	_	Gloss=Neg|PartType=Neg|SpaceAfter=No
+7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 10	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
@@ -103,7 +103,7 @@
 # text_en = If they are asleep, it is possible that he will go himself, or that he (she, the girl and her parents) will send a boy to her house to ask them to wake her up for them to sleep together, she and the boy.
 # text_ortho = ‘in kaù sun yi kwaanaa, ya nàa yìwuwaa šì tàhi dà kaìnai, kuma koo šì (’ita yaaᵲinyàa, ’ita dà ’uwàayentà ) ’àiki yaaᵲòn wuᵲin ɗaakin ’uwattà, ’à zoo ’à taadoo tà sù tàhi wuᵲin kwaanaa, dà ’ita dà saᵲmàyii.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	sun	yaː	AUX	_	Aspect=Perf|Person=3	1	comp:obj	_	Gloss=3Pl.Perf
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
@@ -116,7 +116,7 @@
 12	kâinai	kâinai	NOUN	_	Gender=Masc|Person=3	11	comp:obj	_	Gloss=head.Masc.3Masc.Gen|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	kuma	kuma	CCONJ	_	_	16	cc	_	Gloss=also
-15	koː	kàu	PART	_	_	14	discourse@top	_	Gloss=whereas|PartType=Top
+15	koː	kàu	PART	_	PartType=Top	14	discourse@top	_	Gloss=whereas
 16	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	9	conj:coord	_	Gloss=3Masc.Sub
 17	(	(	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	ita	ita	PRON	_	Gender=Fem|Person=3	16	parataxis:insert	_	Gloss=3Fem
@@ -156,11 +156,11 @@
 # text_en = If they zare not asleep, if they are outside, they are playing the way girls do.
 # text_ortho = ’in kaù bà sù yi kwaanaa ba, ’in su nàa hwagee su nàa waᵲgii, ’iᵲìn na ’’yam maataa.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	1	comp:obj	_	Gloss=Neg.3Plur.PerfNeg
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
 5	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:pred	_	Gloss=spend_night.Nmlz.Masc
-6	ba	ba	PART	_	Polarity=Neg	4	mod	_	Gloss=Neg|PartType=Neg|SpaceAfter=No
+6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 9	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	8	comp:obj	_	Gloss=3.Pl.Prog
@@ -313,7 +313,7 @@
 3	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	18	dislocated@top	_	Gloss=youth.Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	18	mod	_	Gloss=if
-6	dai	dai	PART	_	_	5	discourse@top	_	Gloss=however|PartType=Top
+6	dai	dai	PART	_	PartType=Top	5	discourse@top	_	Gloss=however
 7	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	8	subj	_	Gloss=youth.Masc
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.Perf
 9	ìsa	ìsa	VERB	_	_	8	comp:aux	_	Gloss=arrive
@@ -330,7 +330,7 @@
 20-21	sukài	_	_	_	_	_	_	_	_
 20	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	19	mod@relcl	_	Gloss=3Plur.Prog.Rel|Relative=Yes
 21	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	20	comp:aux	_	Gloss=do.Nmlz.Masc
-22	kèːnan	kèːnan	PART	_	_	21	discourse@foc	_	Gloss=Ident.Emph|PartType=Foc
+22	kèːnan	kèːnan	PART	_	PartType=Foc	21	discourse@foc	_	Gloss=Ident.Emph
 23	sabòːdà	sabòːdà	SCONJ	_	_	21	mod	_	Gloss=because
 24	kiran	kiraː	VERB	_	Definite=Cons	23	comp:obj	_	Gloss=call
 25	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
@@ -372,7 +372,7 @@
 # text_en = If there is a celebration, girls go to the place of the celebration, they are all there at the place of the celebration.
 # text_ortho = ’in kuma ’a nàa bìkii, ’’yam maataa sai sù tàhi wuᵲin gidam bìkii, dus sù zamnàa can wuᵲin bìkii.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	anàː	nàː	AUX	_	Aspect=Prog|Person=4	1	comp:obj	_	Gloss=4.Prog
 4	bìkiː	bìkiː	NOUN	_	_	3	comp:aux	_	Gloss=festivity|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -388,7 +388,7 @@
 15	dus	dukà	PRON	_	_	16	subj	_	Gloss=all
 16	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	9	parataxis@conj	_	Gloss=3Plur.Sub
 17	zamnàː	zamnàː	VERB	_	_	16	comp:aux	_	Gloss=stay
-18	can	can	ADV	_	PronType=Dem	17	comp:obl	_	Deixis=Remt|Gloss=Remt
+18	can	can	ADV	_	Deixis=Remt|PronType=Dem	17	comp:obl	_	Gloss=Remt
 19	wurin	wurin	ADP	_	Definite=Cons	18	mod	_	Gloss=at
 20	bìkiː	bìkiː	NOUN	_	_	19	comp:obj	_	Gloss=festivity|SpaceAfter=No
 21	.	.	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -448,7 +448,7 @@
 # text_en = If they are going to marry, they put henna on the girl.
 # text_ortho = ’in kaù ’aᵲmee zaà ’a yiì, ’anka šaahwàa mà bùduᵲwaa lallèe.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	armeː	armeː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=wedding.Masc
 4	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	3	comp:cleft	_	Gloss=Fut.4
 5	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
@@ -593,7 +593,7 @@
 # text_en = There, the bride, her family and friends, women on her side, and girls on her side, they will all gather and they will play music and party.
 # text_ortho = nan kuma ’ita ’amaᵲyaa, dà dangìntà dà ’àbùkkantà, dà maataa na wajentà dà ’’yam maataa na wajentà, dus sai ’à gamèe, ’à yi ta kiɗìi ’a nàa šagàlii.
 1	nan	nan	ADV	_	Definite=Def|PronType=Dem	23	mod	_	Gloss=Def
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ita	ita	PRON	_	Gender=Fem|Person=3	23	dislocated@subj	_	Gloss=3Fem
 4	amaryaː	amaryaː	NOUN	_	_	3	conj:appos	_	Gloss=bride|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -650,7 +650,7 @@
 # text_ortho = sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee.
 1	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	subj	_	Gloss=youth.Plur
 2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-3	ta	ta	PART	_	Aspect=Iter	2	compound:prt	_	Gloss=Iter|PartType=Adv
+3	ta	ta	PART	_	Aspect=Iter|PartType=Adv	2	compound:prt	_	Gloss=Iter
 4	baːdà	baːdàː	VERB	_	_	2	comp:aux	_	Gloss=give
 5	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=money.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -671,7 +671,7 @@
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	Number=Plur	2	subj	_	Gloss=drummer.Plur
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	ta	ta	PART	_	Aspect=Iter	2	compound:prt	_	Gloss=Iter|PartType=Adv
+3	ta	ta	PART	_	Aspect=Iter|PartType=Adv	2	compound:prt	_	Gloss=Iter
 4	musù	musù	PRON	_	Number=Plur|Person=3	2	comp:obl	_	Gloss=3Plur.Dat
 5	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:aux	_	Gloss=epithet.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -844,7 +844,7 @@
 4	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	conj:coord	_	Gloss=youth.Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	suː	suː	PRON	_	Number=Plur|Person=3	4	conj:appos	_	Gloss=3Plur
-7	kuma	kuma	PART	_	_	6	discourse@top	_	Gloss=also|PartType=Top
+7	kuma	kuma	PART	_	PartType=Top	6	discourse@top	_	Gloss=also
 8	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 9	bar̃	barìː	VERB	_	_	8	comp:aux	_	Gloss=leave
 10	rawaː	rawaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=dance.Fem|SpaceAfter=No
@@ -903,7 +903,7 @@
 14	koːwaː	koːwaː	PRON	_	_	15	subj	_	Gloss=everyone
 15	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	parataxis@conj	_	Gloss=3Masc.Sub
 16	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
-17	ta	ta	PART	_	Aspect=Iter	16	compound:prt	_	Gloss=Iter|PartType=Adv
+17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	Gloss=Iter
 18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=call.Nmlz.Masc
 19	bùdurwaːtai	bùdurwaːtai	NOUN	_	Gender=Fem|Person=3	18	udep	_	Gloss=girl.Fem.3Masc.Gen|SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -1026,7 +1026,7 @@
 # text_en = He too, the boy, will hug her.
 # text_ortho = šii kuma saᵲmàyii šì rungùmee ta.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	4	dislocated@subj	_	Gloss=3Masc
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	1	conj:appos	_	Gloss=youth.Masc
 4	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 5	r̃ungùmeː	r̃ungùmeː	VERB	_	_	4	comp:aux	_	Gloss=embrace
@@ -1073,7 +1073,7 @@
 3	yaj	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 4	gamèː	gamèː	VERB	_	_	3	comp:aux	_	Gloss=join|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	kuma	kuma	PART	_	_	7	discourse	_	Gloss=also|PartType=Disc
+6	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	Gloss=also
 7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 8	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	7	comp:aux	_	Gloss=chatting.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
@@ -1096,7 +1096,7 @@
 # text = kuma shiː sarmàyiː , shì azà hannuː =nai bisa jìkin bùdurwaː , shìnàː shaːhwaj jìkin =tà , shìnàː jîn daːɗiː .
 # text_en = He too the boy, he puts his hand on the girl's body, he caresses her body, he is happy.
 # text_ortho = kuma šii saᵲmàyii, šì ’azà hannuunai bisa jìkim bùduᵲwaa, šì nàa šaahwaj jìkintà, šì nàa jìn daaɗii.
-1	kuma	kuma	PART	_	_	5	discourse	_	Gloss=also|PartType=Disc
+1	kuma	kuma	PART	_	PartType=Disc	5	discourse	_	Gloss=also
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	5	dislocated@subj	_	Gloss=3Masc
 3	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	2	conj:appos	_	Gloss=youth.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -1210,7 +1210,7 @@
 # text_en = She, she will take it and go home.
 # text_ortho = ’ita kaù tà ’àmsaa, tà tàhiyàttà gidaa.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	3	dislocated@top	_	Gloss=3Fem
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=3Fem.Sub
 4	àmsaː	àmsaː	VERB	_	_	3	comp:aux	_	Gloss=answer|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1227,7 +1227,7 @@
 # text_en = He too, he will go home , they will say goodbye.
 # text_ortho = šii kuma šì tàhiyàatai, sù yi ban kwaanaa.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	3	dislocated@top	_	Gloss=3Masc
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 4	tàhiyàːtai	tàhiyàːtai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	3	comp:aux	_	Gloss=go.Nmlz.Fem.3Masc.Gen|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1265,7 +1265,7 @@
 # text_en = If on the other hand, it is later, they say "see you later".
 # text_ortho = ’in kuma sai wata ᵲaanaa, sù ceè “sai wata ᵲaana”.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	sai	sai	ADP	_	_	1	comp:obj	_	Gloss=then
 4	wani	wani	DET	_	Definite=Spec|Gender=Fem	5	det	_	Gloss=some.Fem
 5	ràːnaː	ràːnaː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=sun/day.Fem|SpaceAfter=No
@@ -1287,7 +1287,7 @@
 # text_en = She, the girl, when she arrives home, she tells her mother what the boy has given her, the mother is happy, she is rejoicing because that boy loves her daughter.
 # text_ortho = ’ita kaù bùduᵲwaa, ’in taz zoo gidansù, sai tà gwadàa mà ’uwattà ’àbun dà saᵲmàyintà yab baa tà, ’uwaa tà ji daaɗii, kuma tà yi murnàa, sabòo dà saᵲmàyiǹ nan šì nàa soǹ ɗiyattà.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	11	dislocated@subj	_	Gloss=3Fem
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	1	conj:appos	_	Gloss=girl.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	11	mod	_	Gloss=if
@@ -1367,7 +1367,7 @@
 # text_en = Well, apart from that, he the boy, when he asks the girl and he likes her, and she likes him, they do tsarince, they undress.
 # text_ortho = toò kuma ban dà hakà nan, šii saᵲmàyii, ’in yak kìᵲi bùduᵲwaa, šì nàa soǹtà, ta nàa soònai, sunkà tàhi wuᵲin s’àaᵲìncee, sunkà tuuɓèe.
 1	tôː	tôː	INTJ	_	_	20	discourse	_	Gloss=well
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	bandà	bandà	ADP	_	_	20	mod	_	Gloss=without
 4	hakànan	hakànan	ADV	_	_	3	comp:obj	_	Gloss=thus|SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
@@ -1443,7 +1443,7 @@
 # text_en = She, the girl, she does not remove her pants.
 # text_ortho = ’ita kaù bùduᵲwaa, baà ta hiddà ɗan tòohi.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	5	dislocated@subj	_	Gloss=3Fem
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	1	conj:appos	_	Gloss=girl.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -1460,7 +1460,7 @@
 # text_en = they must sleep with them.
 # text_ortho = sai dai sù kwaǹtaa dà suu.
 1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
-2	dai	dai	PART	_	_	1	discourse@top	_	Gloss=however|PartType=Top
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=however
 3	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 4	kwântaː	kwântaː	VERB	_	_	3	comp:aux	_	Gloss=lie_down
 5	dà	dà	ADP	_	_	4	comp:obl	_	Gloss=with
@@ -1545,7 +1545,7 @@
 13	taushèː	taushèː	VERB	_	_	12	comp:aux	_	Gloss=block|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	don	don	SCONJ	_	_	13	mod	_	Gloss=because
-16	kâɓ	kaɗà	PART	_	Mood=Jus|Polarity=Neg	18	mod	_	Gloss=Neg.Jus|PartType=Neg
+16	kâɓ	kaɗà	PART	_	Mood=Jus|PartType=Neg|Polarity=Neg	18	mod	_	Gloss=Neg.Jus
 17	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	18	subj	_	Gloss=girl.Fem
 18	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	15	comp:obj	_	Gloss=3Fem.Sub
 19	jiyàː	jiyàː	VERB	_	_	18	comp:aux	_	Gloss=feel/hear|SpaceAfter=No
@@ -1583,7 +1583,7 @@
 # text_en = Well, however, with tsarince, it is possible that sometimes, it becomes "tsarinci" (copulation).
 # text_ortho = toò kuma dud dà hakà nan, cikin s’àaᵲìncee, ya nàa yìwuwaa wata ᵲaanaa šì zan s’àaᵲìnci.
 1	tôː	tôː	INTJ	_	_	10	discourse	_	Gloss=well
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	dud	dukà	PRON	_	_	10	mod	_	Gloss=all
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=with
 5	hakànan	hakànan	ADV	_	_	3	conj:coord	_	Gloss=thus|SpaceAfter=No
@@ -1714,7 +1714,7 @@
 # text_en = If she refuses, he begs her as much as he can to let him penetrate her, if she refuses, and he controls himself, respects her, and they sleep like this, it is not "tsarinci", it is "tsarince".
 # text_ortho = ’in kaù taa ƙiyàa, yay yi laàllaɓàttà hay yag gàji tà yàrda šì cii tà, ’in taƙ ƙiyàa, šii kuma yad dànganà, yaƙ ƙyaalèe ta, sunkà yi kwancìnsù hakà nan, bàa s’àaᵲìnci ba nèe, yaa zan s’àaᵲìncee.
 1	in	in	SCONJ	_	_	39	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Perf
 4	ƙiyàː	ƙiyàː	VERB	_	_	3	comp:aux	_	Gloss=refuse|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1735,7 +1735,7 @@
 20	ƙiyàː	ƙiyàː	VERB	_	_	19	comp:aux	_	Gloss=refuse|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	shiː	shiː	PRON	_	Gender=Masc|Person=3	24	dislocated@subj	_	Gloss=3Masc
-23	kuma	kuma	PART	_	_	22	discourse@top	_	Gloss=also|PartType=Top
+23	kuma	kuma	PART	_	PartType=Top	22	discourse@top	_	Gloss=also
 24	yad	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	19	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 25	dànganà	dànganà	VERB	_	_	24	comp:aux	_	Gloss=bear_up|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
@@ -1748,9 +1748,9 @@
 33	kwancìnsù	kwancìːsù	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|Number=Plur|Person=3	32	comp:pred	_	Gloss=lie_down.Nmlz.Masc.3Plur.Gen
 34	hakànan	hakànan	ADV	_	_	32	mod	_	Gloss=thus|SpaceAfter=No
 35	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-36	bàː	bàː	PART	_	Polarity=Neg	37	mod	_	Gloss=Neg|PartType=Neg
+36	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg
 37	s'àːrìnci	s'àːrìnci	NOUN	_	Gender=Masc	39	comp:pred	_	Gloss=fornication.Masc
-38	ba	ba	PART	_	Polarity=Neg	37	mod	_	Gloss=Neg|PartType=Neg
+38	ba	ba	PART	_	PartType=Neg|Polarity=Neg	37	mod	_	Gloss=Neg
 39	nèː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 40	,	,	PUNCT	_	_	41	punct	_	Gloss=PUNCT
 41	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	39	parataxis@conj	_	Gloss=3Masc.Perf
@@ -1796,7 +1796,7 @@
 12	uwàːyentà	uwàːyeːtà	NOUN	_	Definite=Cons|Gender=Fem|Number=Plur|Person=3	11	comp:obj@R	_	Gloss=parents.Plur.3Fem.Gen|SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	16	mod	_	Gloss=then
-15	dai	dai	PART	_	_	14	discourse@top	_	Gloss=however|PartType=Top
+15	dai	dai	PART	_	PartType=Top	14	discourse@top	_	Gloss=however
 16	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	parataxis@conj	_	Gloss=3Masc.Sub
 17	kìri	kìraː	VERB	_	_	16	comp:aux	_	Gloss=call
 18	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	17	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
@@ -1831,7 +1831,7 @@
 # text_en = There is nothing but respect between them, , because he is their son-in-law an they are his parents-in-law.
 # text_ortho = sai dai kumyàa s’àkaaninsù, sabòo dà šii sùᵲkinsù nee, suu kuma sàᵲàkkunnànšì nee.
 1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
-2	dai	dai	PART	_	_	1	discourse@top	_	Gloss=however|PartType=Top
+2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=however
 3	kumyàː	kumyàː	NOUN	_	Gender=Fem	0	root	_	Gloss=shame.Fem
 4	s'àkaːninsù	s'àkaːninsù	ADP	_	Number=Plur|Person=3	3	comp:pred	_	Gloss=between.3Plur.Gen|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1841,7 +1841,7 @@
 9	neː	neː	AUX	_	Gender=Masc|Number=Plur	6	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 11	suː	suː	PRON	_	Number=Plur|Person=3	14	subj	_	Gloss=3Plur
-12	kuma	kuma	PART	_	_	11	discourse@top	_	Gloss=also|PartType=Top
+12	kuma	kuma	PART	_	PartType=Top	11	discourse@top	_	Gloss=also
 13	sàràkkunnànshì	sàràkkunnàishì	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	14	comp:pred	_	Gloss=inlaw.Plur.3Masc
 14	neː	neː	AUX	_	Gender=Masc|Number=Plur	9	parataxis@conj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 15	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -1915,7 +1915,7 @@
 # text_en = They, the parents, they will tell her "since you do no like this husband that we chose for you, we stop the talks, tell us who you want."
 # text_ortho = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
 1	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@top	_	Gloss=3Plur
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	uwàːyên	uwàːyeː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=parents.Plur.Cons
 4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -1927,7 +1927,7 @@
 11	tundà	tundà	SCONJ	_	_	21	mod	_	Gloss=since
 12	bâːki	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2|Polarity=Neg	11	comp:obj	_	Gloss=2Fem.ProgNeg
 13	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-14	wânga	wânga	DET	_	Gender=Masc|PronType=Dem	15	det	_	Deixis=Prox|Gloss=Prox.Masc
+14	wânga	wânga	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	15	det	_	Gloss=Prox.Masc
 15	mijìː	mijìː	NOUN	_	_	13	udep	_	Gloss=husband|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	wandà	wandà	PRON	_	PronType=Rel	18	comp:obj	_	Gloss=who
@@ -1937,7 +1937,7 @@
 21	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=4.Perf
 22	bar̃	barìː	VERB	_	_	21	comp:aux	_	Gloss=leave
 23	bùtuːn	bùtuː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=chatting.Masc.Cons|SpaceAfter=No|wordform=bùtuːnai
-24	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod@poss	_	Gloss=-3Masc.Gen
+24	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	23	mod/m	_	Gloss=-3Masc.Gen
 25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 26	sai	sai	ADV	_	_	27	mod	_	Gloss=then
 27	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	21	parataxis	_	Gloss=2Fem.Sub
@@ -2000,7 +2000,7 @@
 16	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	12	parataxis@conj	_	Gloss=3Masc.Sub
 17	kaːwoː	kai	VERB	_	_	16	comp:aux	_	Gloss=reach/take_to.Dir
 18	duːkìyaw	duːkìyaː	NOUN	_	Definite=Cons	17	comp:obj	_	Gloss=cattle
-19	wâncân	wâncân	PRON	_	Gender=Masc|PronType=Dem	18	mod	_	Deixis=Remt|Gloss=Remt.Masc
+19	wâncân	wâncân	PRON	_	Deixis=Remt|Gender=Masc|PronType=Dem	18	mod	_	Gloss=Remt.Masc
 20	wandà	wandà	PRON	_	PronType=Rel	22	udep	_	Gloss=who
 21	bâːki	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2|Polarity=Neg	19	mod@relcl	_	Gloss=2Fem.ProgNeg
 22	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	21	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
@@ -2053,7 +2053,7 @@
 # text_en = He, the one she does not like, let him look for another one.
 # text_ortho = šii kuma wanda baà ta soò, šì bìɗi wata.
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	7	dislocated@subj	_	Gloss=3Masc
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	Gloss=who
 4	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	3	mod@relcl	_	Gloss=3Fem.ProgNeg
 5	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
@@ -2100,7 +2100,7 @@
 18	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	17	comp:aux	_	Gloss=cuddling.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	sai	sai	ADP	_	_	17	parataxis@conj	_	Gloss=then
-21	dai	dai	PART	_	_	20	discourse@top	_	Gloss=however|PartType=Top
+21	dai	dai	PART	_	PartType=Top	20	discourse@top	_	Gloss=however
 22	yaːwòː	yaːwòː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=yawo.Masc|SpaceAfter=No
 23	.	.	PUNCT	_	_	17	punct	_	Gloss=.
 
@@ -2364,7 +2364,7 @@
 8	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	6	comp:pred	_	Gloss=stay.Stat|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 10	àmmaː	àmmaː	CCONJ	_	_	12	cc	_	Gloss=but
-11	hwa	hwa	PART	_	_	10	discourse@top	_	Gloss=indeed|PartType=Top
+11	hwa	hwa	PART	_	PartType=Top	10	discourse@top	_	Gloss=indeed
 12	bâːshì	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	1	conj:coord	_	Gloss=3Masc.ProgNeg
 13	taɓà	taɓàː	VERB	_	_	12	comp:aux	_	Gloss=touch
 14	ƙuːgùː	ƙuːgùː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=bottom.Masc|SpaceAfter=No
@@ -2404,7 +2404,7 @@
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
 2	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	ta	ta	PART	_	Aspect=Iter	3	compound:prt	_	Gloss=Iter|PartType=Adv
+4	ta	ta	PART	_	Aspect=Iter|PartType=Adv	3	compound:prt	_	Gloss=Iter
 5	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=chatting.Fem
 6	dà	dà	ADP	_	_	5	udep	_	Gloss=with
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc|SpaceAfter=No
@@ -2421,7 +2421,7 @@
 2	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	1	comp:aux	_	Gloss=chatting.Fem|SpaceAfter=No
 3	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 4	ita	ita	PRON	_	Gender=Fem|Person=3	8	dislocated@subj	_	Gloss=3Fem
-5	maː	maː	PART	_	_	4	discourse@top	_	Gloss=even|PartType=Top
+5	maː	maː	PART	_	PartType=Top	4	discourse@top	_	Gloss=even
 6	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	4	conj:appos	_	Gloss=girl.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	parataxis@conj	_	Gloss=3Fem.Prog
@@ -2471,7 +2471,7 @@
 9	taːshì	taːshì	VERB	_	_	8	comp:aux	_	Gloss=rise
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 11	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:obj	_	Gloss=spend_night.Nmlz.Masc
-12	ba	ba	PART	_	Polarity=Neg	9	mod	_	Gloss=Neg|PartType=Neg|SpaceAfter=No
+12	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	Gloss=Neg|SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 14	sai	sai	ADV	_	_	16	mod	_	Gloss=then
 15	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	16	subj	_	Gloss=youth.Masc
@@ -2521,11 +2521,11 @@
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	parataxis@conj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 29	ga	ganiː	VERB	_	_	28	comp:aux	_	Gloss=see
-30	bàː	bàː	PART	_	Polarity=Neg	31	mod	_	Gloss=Neg|PartType=Neg
+30	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
 31	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	35	comp:pred	_	Gloss=who.Masc
 32	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	31	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
 33	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	32	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-34	ba	ba	PART	_	Polarity=Neg	31	mod	_	Gloss=Neg|PartType=Neg
+34	ba	ba	PART	_	PartType=Neg|Polarity=Neg	31	mod	_	Gloss=Neg
 35	neː	neː	AUX	_	Gender=Masc|Number=Plur	29	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 36	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 37	in	in	SCONJ	_	_	52	mod	_	Gloss=if
@@ -2582,14 +2582,14 @@
 # text_en = But if she likes him, they will start talking.
 # text_ortho = ’in kaù ta nàa soònai, sai sù yi ta làabaarìi.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Prog
 4	sôːnai	sôːnai	VERB	_	ExtPos=NOUN|Gender=Masc|Person=3	3	comp:aux	_	Gloss=like/love/want.Nmlz.Masc.3Masc.Gen|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
-9	ta	ta	PART	_	Aspect=Iter	8	compound:prt	_	Gloss=Iter|PartType=Adv
+9	ta	ta	PART	_	Aspect=Iter|PartType=Adv	8	compound:prt	_	Gloss=Iter
 10	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=story.Masc|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -2635,7 +2635,7 @@
 8	’yam	’yan	ADJ	_	Number=Plur	6	conj:coord	_	Gloss=young.Plur
 9	maːtaː	maːtaː	NOUN	_	Number=Plur	8	compound	_	Gloss=woman.Plur|SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-11	àkwai	àkwai	PART	_	_	0	root	_	Gloss=there_is|PartType=Pred
+11	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 12	zàncen	zànceː	NOUN	_	Definite=Cons|Gender=Masc	11	subj	_	Gloss=type.Masc
 13	màːsu	mài	ADP	_	Number=Plur	12	mod	_	Gloss=owner_of.Plur
 14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	13	comp:obj	_	Gloss=do.Nmlz.Masc
@@ -2729,7 +2729,7 @@
 # text_en = But if she refuses, they will respect her and do "tsarince".
 # text_ortho = ’in kaù taa ƙiyàa, šù ƙyaalèe ta, sù yi s’àaᵲìncee.
 1	in	in	SCONJ	_	_	6	mod	_	Gloss=if
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	comp:obj	_	Gloss=3Fem.Perf
 4	ƙiyàː	ƙiyàː	VERB	_	_	3	comp:aux	_	Gloss=refuse|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2750,11 +2750,11 @@
 # text_en = As for the Bororo, their customs concerning boys and girls, if a boy likes a girl, he will (abduct?) her, they will go somewhere to sleep together, they will have intercourse, him and her, they will sleep in the same place until morning.
 # text_ortho = suu kaù hillàanii bararoojì suu kaù taasù tàbii’àa, sàmàaᵲii dà ’’yam maataa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, sai šì kìᵲee tà, sù tàhi wuᵲin kwaanaa, sù yi s’àaᵲìnci, šì cìi tà, sù kwaana wuᵲii gùdaa, had dà swaahe.
 1	suː	suː	PRON	_	Number=Plur|Person=3	22	dislocated@top	_	Gloss=3Plur
-2	kâu	kàu	PART	_	_	1	discourse@top	_	Gloss=whereas|PartType=Top
+2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	hillàːniː	hillàːniː	PROPN	_	Number=Plur	1	conj:appos	_	Gloss=Fulani.Plur
 4	bar̃ar̃oːjì	bar̃ar̃oːjì	PROPN	_	Number=Plur	3	flat@name	_	Gloss=Bororo.Plur
 5	suː	suː	PRON	_	Number=Plur|Person=3	22	dislocated@top	_	Gloss=3Plur
-6	kâu	kàu	PART	_	_	5	discourse@top	_	Gloss=whereas|PartType=Top
+6	kâu	kàu	PART	_	PartType=Top	5	discourse@top	_	Gloss=whereas
 7	taːsù	taːsù	PRON	_	Gender=Fem|Number=Plur|Person=3	8	mod@poss	_	Gloss=3Plur.Gen.Fem
 8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	22	dislocated@top	_	Gloss=custom.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -2805,7 +2805,7 @@
 # text_en = If he likes the girl, he the boy; he will ask her.
 # text_ortho = koo kuma ’in šì nàa sòm bùduᵲwaǹ nan, šii saᵲmàyii, sai šì tàmbàyee tà.
 1	koː	koː	CCONJ	_	_	13	discourse	_	Gloss=or
-2	kuma	kuma	PART	_	_	1	discourse@top	_	Gloss=also|PartType=Top
+2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	in	in	SCONJ	_	_	13	mod	_	Gloss=if
 4	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.Prog
 5	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
@@ -2837,7 +2837,7 @@
 7	dà	dà	ADP	_	_	6	comp:obl	_	Gloss=with
 8	ita	ita	PRON	_	Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	can	can	ADV	_	PronType=Dem	6	mod	_	Deixis=Remt|Gloss=Remt
+10	can	can	ADV	_	Deixis=Remt|PronType=Dem	6	mod	_	Gloss=Remt
 11	cikin	cikin	ADP	_	_	10	mod	_	Gloss=in
 12	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=world.Fem|SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
