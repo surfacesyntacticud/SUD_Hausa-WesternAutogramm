@@ -1420,7 +1420,7 @@
 14	kik	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	13	comp:obj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 15	kai	kai	VERB	_	_	14	comp:aux	_	Gloss=reach/take_to
 16	mutà	mutà	PRON	_	Gender=Fem|Person=3	15	comp:obl	_	Gloss=3Fem.Dat
-17	naː	naː	PART	_	Case=Gen|Gender=Masc	15	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
+17	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	15	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
 18	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	17	mod/m	_	Gloss=-3Fem.Gen
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	kih	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	14	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
@@ -4079,7 +4079,7 @@
 17	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	12	parataxis@mod	_	Gloss=3Fem.Sub
 18	bâkkaː	bâkkaː	VERB	_	_	17	comp:aux	_	Gloss=give.Dir
 19	su	su	PRON	_	Person=3	18	comp:obj@R	_	Gloss=3.Pl
-20	naː	naː	PRON	_	_	22	mod	_	Gloss=.Cons|wordform=naːsù
+20	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	mod	_	Gloss=Gen.Masc|wordform=naːsù
 21	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	mod/m	_	Gloss=-3Plur.Gen
 22	jìmɓiriː	jìmɓiriː	NOUN	_	Gender=Masc	18	comp:obj@T	_	Gloss=green_beans.Masc|SpaceAfter=No
 23	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -4114,7 +4114,7 @@
 21	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	16	parataxis@conj	_	Gloss=2Fem.Sub
 22	baː	baː	VERB	_	_	21	comp:aux	_	Gloss=give
 23	mù	mù	PRON	_	Number=Plur|Person=1	22	comp:obj@R	_	Gloss=1Plur
-24	naː	na	PART	_	Case=Gen|Gender=Masc	22	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːmù
+24	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	22	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːmù
 25	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	24	mod/m	_	Gloss=-1Plur.Gen
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
