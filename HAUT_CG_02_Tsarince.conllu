@@ -1911,7 +1911,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 52000, 53000
-# text = suː kuma uwàːyên nan , sai sù cêː mutà “ tundà bâːki sôn wânga mijìː , wandà munkà mikì , an bar̃ bùtuː , sai kì hwàɗi wandà kikà sôː ” .
+# text = suː kuma uwàːyên nan, sai sù cêː mutà “ tundà bâːki sôn wânga mijìː, wandà munkà mikì, an bar̃ bùtuːn-ai , sai kì hwàɗi wandà kikà sôː ”.
 # text_en = They, the parents, they will tell her "since you do no like this husband that we chose for you, we stop the talks, tell us who you want."
 # text_ortho = suu kuma ’uwàayeǹ nan, sai sù ceè mutà “tun dà baà ki soǹ waǹga mijìi, wanda munkà mikì, ’am bar bùtunnai, sai kì hwàɗi wandà ki kà soò”.
 1	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@top	_	Gloss=3Plur
@@ -1936,16 +1936,17 @@
 20	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 21	an	yaː	AUX	_	Aspect=Perf|Person=4	8	comp:obj	_	Gloss=4.Perf
 22	bar̃	barìː	VERB	_	_	21	comp:aux	_	Gloss=leave
-23	bùtuːnai	bùtuːnai	NOUN	_	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|Person=3	22	comp:obj	_	Gloss=chatting.Plur.3Masc.Gen|SpaceAfter=No
-24	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-25	sai	sai	ADV	_	_	26	mod	_	Gloss=then
-26	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	21	parataxis	_	Gloss=2Fem.Sub
-27	hwàɗi	hwàɗaː	VERB	_	_	26	comp:aux	_	Gloss=tell
-28	wandà	wandà	PRON	_	PronType=Rel	27	comp:obj	_	Gloss=who
-29	kikà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2	28	mod@relcl	_	Gloss=2Fem.Prog.Rel|Relative=Yes
-30	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	29	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-31	”	”	PUNCT	_	_	21	punct	_	Gloss=PUNCT|SpaceAfter=No
-32	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+23	bùtuːn	bùtuː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=chatting.Masc.Cons|SpaceAfter=No|wordform=bùtuːnai
+24	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	23	mod@poss	_	Gloss=-3Masc.Gen
+25	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+26	sai	sai	ADV	_	_	27	mod	_	Gloss=then
+27	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	21	parataxis	_	Gloss=2Fem.Sub
+28	hwàɗi	hwàɗaː	VERB	_	_	27	comp:aux	_	Gloss=tell
+29	wandà	wandà	PRON	_	PronType=Rel	28	comp:obj	_	Gloss=who
+30	kikà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=2	29	mod@relcl	_	Gloss=2Fem.Prog.Rel|Relative=Yes
+31	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	30	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
+32	”	”	PUNCT	_	_	21	punct	_	Gloss=PUNCT|SpaceAfter=No
+33	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_55-55_split1
 # speaker_id = *
