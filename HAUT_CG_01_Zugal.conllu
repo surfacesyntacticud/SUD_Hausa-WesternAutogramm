@@ -177,7 +177,7 @@
 25	kà	nàː	AUX	_	Aspect=Prog	12	parataxis	_	Gloss=Prog.Rel|Relative=Yes
 26	ci	ci	VERB	_	_	25	comp:aux	_	Gloss=eat
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
-28	kânkà	kâikà	NOUN	_	Definite=Cons|Gender=Masc|Person=2	27	comp:obj	_	Gloss=head.Masc.2Masc.Gen|SpaceAfter=No
+28	kânkà	kânkà	NOUN	_	Gender=Masc|Person=2|Reflex=Yes	27	comp:obj	_	Gloss=2Masc.Reflex|SpaceAfter=No
 29	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_008-008
@@ -1597,8 +1597,7 @@
 14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 15	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=custom.Fem|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	taː	taː	PRON	_	Gender=Fem	15	mod	_	Gloss=3Plu.Cons|wordform=taːsù
-
+17	taː	naː	PART	_	Case=Gen|Gender=Fem|PartType=Case	15	mod	_	Gloss=Gen.Fem|wordform=taːsù
 18	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	17	mod/m	_	Gloss=-3Plur.Gen
 19	dàban	dàban	ADV	_	_	15	mod	_	Gloss=different
 20	dàban	dàban	ADV	_	_	19	conj:redup	_	Gloss=different|SpaceAfter=No
@@ -1631,7 +1630,7 @@
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	kaskôn	kaskoː	NOUN	_	Definite=Cons|Gender=Masc	20	dislocated@top	_	Gloss=potsherd.Masc.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
-6	naː	naː	PRON	_	Gender=Fem	4	mod	_	Gloss=.Cons|SpaceAfter=No|wordform=naːtà
+6	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	4	mod	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	6	mod/m	_	Gloss=-3Fem.Gen
 8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 9	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	conj:appos	_	Gloss=who.Masc
@@ -1817,12 +1816,12 @@
 # text = in ankà kwaːɓèː , dul loːkàcin dà mùtun zâː shi wani sha’àniː dà màːtashshì , sai shì shaːhwàː gà màzàːkuːtàː , shì taːràː dà màccè .
 # text_en = When it is mixed, every time a man goes to a date with his woman, he rubs it on his penis, and has intercourse with the woman.
 # text_ortho = ’in ’ankà kwaaɓèe, dul lookàcin dà mùtun zaà ši wani ša’ànii dà màataššì, sai šì šaahwàa gà màzàakuutàa, šì taaᵲàa dà màccè.
-1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
+1	in	in	SCONJ	_	_	18	mod	_	Gloss=if
 2	ankà	yaː	AUX	_	Aspect=Perf|Person=4	1	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
 3	kwaːɓèː	kwaːɓèː	VERB	_	_	2	comp:aux	_	Gloss=mix|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	dul	dukà	DET	_	_	6	det	_	Gloss=all
-6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	17	mod	_	Gloss=time.Masc
+6	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	18	mod	_	Gloss=time.Masc
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	Gloss=that
 8	mùtun	mùtun	NOUN	_	Gender=Masc	9	dislocated@subj	_	Gloss=person.Masc
 9	zâː	zâː	PART	_	PartType=Pred	7	comp:obj	_	Gloss=Dir
@@ -1830,19 +1829,20 @@
 11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=some.Masc
 12	sha’àniː	sha’àniː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=business.Masc
 13	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
-14	màːtashshì	màːtaːshì	NOUN	_	Definite=Cons|Gender=Fem|Person=3	13	comp:obj	_	Gloss=wife.Fem.3Masc.Gen|SpaceAfter=No
-15	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-16	sai	sai	ADV	_	_	17	mod	_	Gloss=then
-17	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
-18	shaːhwàː	shaːhwàː	VERB	_	_	17	comp:aux	_	Gloss=rub
-19	gà	gà	ADP	_	_	18	comp:obl	_	Gloss=at
-20	màzàːkuːtàː	màzàːkuːtàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=penis.Fem|SpaceAfter=No
-21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	17	parataxis	_	Gloss=3Masc.Sub
-23	taːràː	taːràː	VERB	_	_	22	comp:aux	_	Gloss=gather/have_sex
-24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
-25	màccè	màccè	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=female.Fem|SpaceAfter=No
-26	.	.	PUNCT	_	_	17	punct	_	Gloss=.
+14	màːtash	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	Gloss=wife.Fem..Cons|SpaceAfter=No|wordform=màːtashshì
+15	-shì	-shì	PRON	_	Case=Gen|Person=3|Poss=Yes|PronType=Prs	14	mod/m	_	gender=Masc|Gloss=-3Masc.Gen
+16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
+18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
+19	shaːhwàː	shaːhwàː	VERB	_	_	18	comp:aux	_	Gloss=rub
+20	gà	gà	ADP	_	_	19	comp:obl	_	Gloss=at
+21	màzàːkuːtàː	màzàːkuːtàː	NOUN	_	Gender=Fem	20	comp:obj	_	Gloss=penis.Fem|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
+23	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	18	parataxis	_	Gloss=3Masc.Sub
+24	taːràː	taːràː	VERB	_	_	23	comp:aux	_	Gloss=gather/have_sex
+25	dà	dà	ADP	_	_	24	comp:obl	_	Gloss=with
+26	màccè	màccè	NOUN	_	Gender=Fem	25	comp:obj	_	Gloss=female.Fem|SpaceAfter=No
+27	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_070-070
 # speaker_id = *
@@ -5196,7 +5196,7 @@
 10	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 11	gàmu	gàmu	VERB	_	_	10	comp:aux	_	Gloss=meet
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
-13	naː	naː	PRON	_	Gender=Fem	12	comp:obj	_	Gloss=.Cons|SpaceAfter=No|wordform=naːtà
+13	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	12	comp:obj	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
 14	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	13	mod/m	_	Gloss=-3Fem.Gen
 15	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 16	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
@@ -6347,7 +6347,7 @@
 21	jìkiːn	jìkiː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=body.Masc..Cons|wordform=jìkiːnai
 22	-ai	-ai	PRON	_	Case=Gen|Gender=Masc|Person=3|Poss=Yes|PronType=Prs	21	mod/m	_	Gloss=-3Masc.Gen
 23	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
-24	naː	naː	PRON	_	Gender=Fem	23	comp:obj	_	Gloss=.Cons|SpaceAfter=No|wordform=naːtà
+24	naː	naː	PART	_	Case=Gen|Gender=Masc|PartType=Case	23	comp:obj	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
 25	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|Poss=Yes|PronType=Prs	24	mod/m	_	Gloss=-3Fem.Gen
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	ham	hat	SCONJ	_	_	20	mod	_	Gloss=until
