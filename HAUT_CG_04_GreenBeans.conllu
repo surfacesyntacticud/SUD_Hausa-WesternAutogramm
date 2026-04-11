@@ -1373,7 +1373,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 46122, 47000
-# text = keː kuma ìn biyaː kì , ìn baː kì laːdak =kì , in kik kai mutà naːtà , kih hwaɗàː mutà sàːƙoː =na , sabòːdà inàː sôn =tà .
+# text = keː kuma ìn biyaː kì, ìn baː kì laːdakkì, in kik kai mutà naːtà, kih hwaɗàː mutà sàːƙoːn-aː , sabòːdà inàː sôntà.
 # text_en = As for you, I will pay you, I will give you your commission if you bring her her things and you give her my message because I love her.
 # text_ortho = kee kuma ’ìm biyaa kì, ’ìm baa kì laadakkì, ’in kik kai mutà naatà, kihw hwaɗàa mutà sàaƙoona, sabòo dà ’i nàa soǹtà.
 1	keː	keː	PRON	_	Gender=Fem|Person=2	3	dislocated@comp	_	Gloss=2Fem
@@ -1396,8 +1396,8 @@
 18	kih	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	13	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 19	hwaɗàː	hwaɗàː	VERB	_	_	18	comp:aux	_	Gloss=tell
 20	mutà	mutà	PRON	_	Gender=Fem|Person=3	19	comp:obl	_	Gloss=3Fem.Dat
-21	sàːƙoːn	sàːƙoː	NOUN	_	Gender=Masc	19	comp:obj@T	_	Gloss=message.Masc|SpaceAfter=No|wordform=sàːƙoːna
-22	-aː	-a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	mod@poss	_	Gloss=-1Sing.Gen
+21	sàːƙoːn	sàːƙoː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:obj@T	_	Gloss=message.Masc.Cons|SpaceAfter=No|wordform=sàːƙoːna
+22	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	mod@poss	_	Gloss=-1Sing.Gen
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	sabòːdà	sabòːdà	SCONJ	_	_	8	mod	_	Gloss=because
 25	inàː	nàː	AUX	_	Aspect=Prog|Person=1	24	comp:obj	_	Gloss=1Sing.Prog
@@ -1916,7 +1916,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 66000, 67000
-# text = in kinàː zoːwaː wata raːnaː , nîː hwaɗàː mikì dùbaːr̃àː waddà zâːshi yîː , shì sàːmu ganiːna .
+# text = in kinàː zoːwaː wata raːnaː, nîː hwaɗàː mikì dùbaːr̃àː waddà zâːshi yîː, shì sàːmu ganiːn-aː .
 # text_en = If you come another day, I will tell you a trick that he will to do to manage to see me.
 # text_ortho = ’in ki nàa zoẁwaa wata ᵲaanaa, niì hwaɗàa mikì dùbaaràa, waddà zaà ši yiì, šì sàamu ganiina.
 1	in	in	SCONJ	_	_	15	mod	_	Gloss=if
@@ -1935,8 +1935,8 @@
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 16	sàːmu	saːmùː	VERB	_	_	15	comp:aux	_	Gloss=get
-17	ganiːn	ganiː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=see.Nmlz.Masc|SpaceAfter=No|wordform=ganiːna
-18	-aː	-a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	mod@poss	_	Gloss=-1Sing.Gen
+17	ganiːn	ganiː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	16	comp:obj	_	Gloss=see.Nmlz.Masc.Cons|SpaceAfter=No|wordform=ganiːna
+18	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	mod@poss	_	Gloss=-1Sing.Gen
 19	.	.	PUNCT	_	_	15	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_065-065
@@ -2674,7 +2674,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 95000, 96000
-# text = dà maːlàm yaz zoː , yash shigoː gidaː , sai yag ga doːkì: cikin gidaːnai , yay yi màːmaːkì: , yac cêː : wàː ad dà doːkì: cikin gidaːna ?
+# text = dà maːlàm yaz zoː, yash shigoː gidaː, sai yag ga doːkì: cikin gidaːnai, yay yi màːmaːkì:, yac cêː : wàː ad dà doːkì: cikin gidaːn -aː ?
 # text_en = As the malam arrived, he entered the compound, then he saw the horse inside his compound, he was surprised, he said : Who has a horse in my compound?
 # text_ortho = dà maalàm yaz zoo, yaš šigoo gidaa, sai yag ga dookìi, cikin gidaanai, yay yi màamaakìi, yac ceè : wàa ’ad dà dookìi, cikin gidaana ?
 1	dà	dà	SCONJ	_	_	6	mod	_	Gloss=when
@@ -2705,8 +2705,8 @@
 26	dà	dà	ADP	_	_	25	comp:pred	_	Gloss=with
 27	doːkì:	doːkì:	NOUN	_	Gender=Masc	26	comp:obj	_	Gloss=horse.Masc
 28	cikin	cikin	ADP	_	_	25	comp:obl	_	Gloss=in(side)
-29	gidaːn	gidaː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=house.Masc|wordform=gidaːna
-30	-aː	-a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	29	mod@poss	_	Gloss=-1Sing.Gen
+29	gidaːn	gidaː	NOUN	_	Definite=Cons|Gender=Masc	28	comp:obj	_	Gloss=house.Masc.Cons|wordform=gidaːna
+30	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	29	mod@poss	_	Gloss=-1Sing.Gen
 31	?	?	PUNCT	_	_	11	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_092-092_split1
@@ -3068,7 +3068,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 106000, 107000
-# text = naː ga doːkì: , can gidaːna .
+# text = naː ga doːkì:, can gidaːn-aː .
 # text_en = I saw a horse, there at my compound.
 # text_ortho = naa ga dookìi, can gidaana.
 1	naː	yaː	AUX	_	Aspect=Perf|Person=1	0	root	_	Gloss=1Sing.Perf
@@ -3076,8 +3076,8 @@
 3	doːkì:	doːkì:	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	can	can	ADV	_	PronType=Dem	2	mod	_	Deixis=Remt|Gloss=Remt
-6	gidaːn	gidaː	NOUN	_	Gender=Masc	5	mod	_	Gloss=house.Masc|SpaceAfter=No|wordform=gidaːna
-7	-aː	-a	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	mod@poss	_	Gloss=-1Sing.Gen
+6	gidaːn	gidaː	NOUN	_	Definite=Cons|Gender=Masc	5	mod	_	Gloss=house.Masc.Cons|SpaceAfter=No|wordform=gidaːna
+7	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	mod@poss	_	Gloss=-1Sing.Gen
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_102-102_split2
