@@ -1399,7 +1399,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 46122, 47000
-# text = keː kuma ìn biyaː kì, ìn baː kì laːdak-kì , in kik kai mutà naːtà, kih hwaɗàː mutà sàːƙoːn-aː , sabòːdà inàː sôntà.
+# text = keː kuma ìn biyaː kì, ìn baː kì laːdak-kì , in kik kai mutà naː-tà , kih hwaɗàː mutà sàːƙoːn-aː , sabòːdà inàː sôn-tà .
 # text_en = As for you, I will pay you, I will give you your commission if you bring her her things and you give her my message because I love her.
 # text_ortho = kee kuma ’ìm biyaa kì, ’ìm baa kì laadakkì, ’in kik kai mutà naatà, kihw hwaɗàa mutà sàaƙoona, sabòo dà ’i nàa soǹtà.
 1	keː	keː	PRON	_	Gender=Fem|Person=2	3	dislocated@comp	_	Gloss=2Fem
@@ -1418,7 +1418,7 @@
 14	kik	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	13	comp:obj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 15	kai	kai	VERB	_	_	14	comp:aux	_	Gloss=reach/take_to
 16	mutà	mutà	PRON	_	Gender=Fem|Person=3	15	comp:obl	_	Gloss=3Fem.Dat
-17	naː	naː	PRON	_	Gender=Fem	15	comp:obj@T	_	Gloss=.Cons|SpaceAfter=No|wordform=naːtà
+17	naː	naː	PART	_	Case=Gen|Gender=Masc	15	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːtà
 18	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	17	mod@poss	_	Gloss=-3Fem.Gen
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	kih	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	14	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
@@ -4081,7 +4081,7 @@
 22	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_133-133
-# text = dà sunkà tàhi wurim màːtas sarkiː , sunkà cêː mutà : sarkiː yaː cêː , kin baː shì jìmɓiriː , kì baː mù naːmù .
+# text = dà sunkà tàhi wurim màːtas sarkiː, sunkà cêː mutà : sarkiː yaː cêː, kin baː shì jìmɓiriː, kì baː mù naː-mù .
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 138000, 139000
@@ -4110,7 +4110,7 @@
 21	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	16	parataxis@conj	_	Gloss=2Fem.Sub
 22	baː	baː	VERB	_	_	21	comp:aux	_	Gloss=give
 23	mù	mù	PRON	_	Number=Plur|Person=1	22	comp:obj@R	_	Gloss=1Plur
-24	naː	naːː	PRON	_	Definite=Cons	22	comp:obj@T	_	Gloss=Cons|SpaceAfter=No|wordform=naːmù
+24	naː	na	PART	_	Case=Gen|Gender=Masc	22	comp:obj@T	_	Gloss=Gen.Masc|SpaceAfter=No|wordform=naːmù
 25	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	24	mod@poss	_	Gloss=-1Plur.Gen
 26	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
