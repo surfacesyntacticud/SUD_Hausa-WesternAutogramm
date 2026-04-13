@@ -19,7 +19,7 @@
 12	shì	shi	PRON	_	Gender=Masc|Person=3	11	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 14	in	in	SCONJ	_	_	26	mod	_	Gloss=if
-15	na	na/ta	ADP	_	_	17	comp:pred	_	Gloss=of
+15	na	na	PART	_	Case=Gen|PartType=Case	17	comp:pred	_	Gloss=Gen
 16	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	15	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc
 17	neː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 18	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -44,7 +44,7 @@
 # text_ortho = ’in kuma na laayuu nèe, ’ankà yi laayàa, ’in ta nàa gà jìkim mùtun, laayàk, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	20	mod	_	Gloss=if
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
-3	na	na/ta	ADP	_	_	5	comp:pred	_	Gloss=of
+3	na	na	PART	_	Case=Gen|PartType=Case	5	comp:pred	_	Gloss=Gen
 4	laːyuː	laːyuː	NOUN	_	Number=Plur	3	comp:obj	_	Gloss=charm.Plur
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -74,7 +74,7 @@
 # text_en = When it is the belt type, if you make a belt, you put it on your body, metal won't affect your body.
 # text_ortho = ’in na ɗàmaᵲàa nee, sai ’à yi ɗàmaᵲàa, ’à saà gà jìkii, ƙaᵲhèe baà šì kaamà jìkim mùtun.
 1	in	in	SCONJ	_	_	17	mod	_	Gloss=if
-2	na	na/ta	ADP	_	_	4	comp:pred	_	Gloss=of
+2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	ɗàmaràː	ɗàmaràː	NOUN	_	Gender=Fem	2	comp:obj	_	Gloss=belt.Fem
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -103,7 +103,7 @@
 # text_en = When it is the leather belt type, if you make a leather belt, you put it on youṛ body, metal won't pierce you.
 # text_ortho = ’in na kàrhoo nèe, ’ankà yi kàrhoo, ’à saà gà jìkii, ƙaᵲhèe baà šì huudà mùtun.
 1	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-2	na	na/ta	ADP	_	_	4	comp:pred	_	Gloss=of
+2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	kàr̃hoː	kàr̃huː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=tubular_belt.Masc
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -130,7 +130,7 @@
 # text_en = When it is the lotion type, if you make a powder, you mix it with water, you rub it on your body, metal won't pierce you.
 # text_ortho = ’in na šaahii nee, sai ’à yi gàaᵲii, ’à kwaaɓàa dà ᵲuwaa, ’à šaahwàa gà jìkii, ƙaᵲhèe baà ši huudà mùtun.
 1	in	in	SCONJ	_	_	22	mod	_	Gloss=if
-2	na	na/ta	ADP	_	_	4	comp:pred	_	Gloss=of
+2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	shaːhiː	shaːhiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=lotion.Masc
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -163,7 +163,7 @@
 # text_en = If it is the type you smoke, if you make a powder, you put it in a pipe, you light it, you inhale the smoke like you smoke tobacco, metal won't catch you.
 # text_ortho = ’in na hayaaƙii nèe, sai ’à yi gàaᵲii, ’à saà gà loohèe, ’à saà wutaa, ’à riƙà šaǹ hayaaƙiǹ, kàma’ ’a nàa šaǹ taabàa, ƙaᵲhèe baà ši kaamà mùtun.
 1	in	in	SCONJ	_	_	30	mod	_	Gloss=if
-2	na	na/ta	ADP	_	_	4	comp:pred	_	Gloss=of
+2	na	na	PART	_	Case=Gen|PartType=Case	4	comp:pred	_	Gloss=Gen
 3	hayaːƙiː	hayaːƙiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=smoke.Masc
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -290,7 +290,7 @@
 8	à	yà	AUX	_	Mood=Sub|Person=4	1	parataxis@conj	_	Gloss=4.Sub
 9	hiddà	hiddàː	VERB	_	_	8	comp:aux	_	Gloss=remove
 10	ɗiyaː	ɗiyaː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=daughter/seed.Plur
-11	na	na/ta	ADP	_	_	10	mod	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	10	mod	_	Gloss=Gen
 12	cikiː	cikiː	ADV	_	_	11	comp:obj	_	Gloss=inside|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	màːsu	mài	ADP	_	Number=Plur	10	mod	_	Gloss=owner_of.Plur
@@ -638,7 +638,7 @@
 19	baːdà	baːdàː	VERB	_	_	18	comp:aux	_	Gloss=give
 20	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=story.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	na	na/ta	ADP	_	_	20	mod	_	Gloss=of
+22	na	na	PART	_	Case=Gen|PartType=Case	20	mod	_	Gloss=Gen
 23	àbùn	àbù	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	Gloss=thing.Masc
 24	dà	dà	SCONJ	_	_	23	mod@relcl	_	Gloss=that
 25	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	24	comp:obj	_	Gloss=3Masc.PerfNeg
@@ -664,7 +664,7 @@
 9	im	in	SCONJ	_	_	16	mod	_	Gloss=if
 10	maːgànin	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:pred	_	Gloss=charm.Masc
 11	tauri	tauri	NOUN	_	Gender=Masc	10	mod	_	Gloss=toughness_charm.Masc
-12	na	na/ta	ADP	_	_	10	mod	_	Gloss=of
+12	na	na	PART	_	Case=Gen|PartType=Case	10	mod	_	Gloss=Gen
 13	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	12	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc
 14	neː	neː	AUX	_	Gender=Masc|Number=Plur	9	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 15	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
@@ -875,7 +875,7 @@
 17	dà	dà	ADP	_	_	16	mod	_	Gloss=with
 18	yawàː	yawàː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=quantity.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	na	na/ta	ADP	_	_	16	mod	_	Gloss=of
+20	na	na	PART	_	Case=Gen|PartType=Case	16	mod	_	Gloss=Gen
 21	tauri	tauri	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=toughness_charm.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	25	comp:pred	_	Gloss=who.Masc
@@ -2176,7 +2176,7 @@
 12	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	13	det	_	Gloss=Prox.Masc/Fem
 13	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	11	udep	_	Gloss=charm.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	na	na/ta	ADP	_	_	13	mod	_	Gloss=of
+15	na	na	PART	_	Case=Gen|PartType=Case	13	mod	_	Gloss=Gen
 16	maːgànin	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	15	comp:obj	_	Gloss=charm.Masc
 17	tauri	tauri	NOUN	_	Gender=Masc	16	mod	_	Gloss=toughness_charm.Masc|SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	Gloss=.
@@ -2716,7 +2716,7 @@
 25	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 26	in	in	SCONJ	_	_	39	mod	_	Gloss=if
 27	dai	dai	PART	_	PartType=Top	26	discourse@top	_	Gloss=however
-28	na	na/ta	ADP	_	_	30	comp:pred	_	Gloss=of
+28	na	na	PART	_	Case=Gen|PartType=Case	30	comp:pred	_	Gloss=Gen
 29	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	28	comp:obj	_	Gloss=iron.Masc
 30	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 31	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
@@ -2923,7 +2923,7 @@
 3	itàːcentà	itàːceː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	2	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=tree.Plur.Cons-3FemGen|MSeg=itàːcen-tà|PersonAf=3|SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 5	kàman	kàmat	ADP	_	_	0	root	_	Gloss=like
-6	na	na/ta	ADP	_	_	5	comp:obj	_	Gloss=of
+6	na	na	PART	_	Case=Gen|PartType=Case	5	comp:obj	_	Gloss=Gen
 7	itàːcen	itàːceː	NOUN	_	Definite=Cons|Number=Plur	6	comp:obj	_	Gloss=tree.Plur
 8	yàːɗiyaː	yàːɗiyaː	NOUN	_	Gender=Fem	7	mod	_	Gloss=creeper_sp.Fem|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
@@ -3266,7 +3266,7 @@
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
 5	shaːhìː	shaːhìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=lining.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+7	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 8	ɓargon	ɓargoː	NOUN	_	Definite=Cons|Gender=Masc	7	comp:obj	_	Gloss=bone_marrow.Masc
 9	jàːkiː	jàːkiː	NOUN	_	Gender=Masc	8	mod	_	Gloss=donkey.Masc
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and

@@ -43,7 +43,7 @@
 # text_ortho = wuᵲin s’àaᵲìncee na hàusàawaa, ’in saᵲmàyii nàa soǹ bùduᵲwaa, ya nàa yìwuwaa šì tàhi gidansù, šì yi kiᵲàntà, don tà zoo wuᵲiinai.
 1	wurin	wurin	ADP	_	_	12	dislocated@top	_	Gloss=at
 2	s'àːrìnceː	s'àːrìnceː	NOUN	_	_	1	comp:obj	_	Gloss=cuddling
-3	na	na/ta	ADP	_	_	2	mod	_	Gloss=of
+3	na	na	PART	_	Case=Gen|PartType=Case	2	mod	_	Gloss=Gen
 4	bàhaushèː	bàhaushèː	PROPN	_	Number=Plur	3	comp:obj	_	Gloss=Hausa.Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	12	mod	_	Gloss=if
@@ -604,12 +604,12 @@
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	dà	dà	CCONJ	_	_	12	cc	_	Gloss=and
 12	maːtaː	maːtaː	NOUN	_	Number=Plur	9	conj:coord	_	Gloss=woman.Plur
-13	na	na	ADP	_	_	12	mod	_	Gloss=of
+13	na	na	PART	_	Case=Gen|PartType=Case	12	mod	_	Gloss=Gen
 14	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	13	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3
 15	dà	dà	CCONJ	_	_	16	cc	_	Gloss=and
 16	’yam	’yan	ADJ	_	Definite=Cons|Number=Plur	12	conj:coord	_	Gloss=young.Plur
 17	maːtaː	maːtaː	NOUN	_	Number=Plur	16	compound	_	Gloss=woman.Plur
-18	na	na	ADP	_	_	16	mod	_	Gloss=of
+18	na	na	PART	_	Case=Gen|PartType=Case	16	mod	_	Gloss=Gen
 19	wajentà	wajeː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	18	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=side.Cons-3FemGen|MSeg=wajen-tà|PersonAf=3|SpaceAfter=No
 20	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 21	dus	dukà	PRON	_	_	23	subj	_	Gloss=all
@@ -1406,7 +1406,7 @@
 3	tuːɓèː	tuːɓèː	VERB	_	_	2	comp:aux	_	Gloss=remove|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	taggunànsù	taggunàː	NOUN	_	Definite=Cons|Poss=Yes	10	dislocated@top	_	CaseAf=Gen|Gloss=clothes.Plur.Cons-3PlurGen|MSeg=taggunàn-sù|NumberAf=Plur|PersonAf=3
-6	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	gà	gà	ADP	_	_	6	comp:obj	_	Gloss=at
 8	jìkiː	jìkiː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=body.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -2207,7 +2207,7 @@
 11	wurin	wurin	ADP	_	_	10	comp:obl	_	Gloss=at
 12	ɗaːkìː	ɗaːkìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=room.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	na	na/ta	ADP	_	_	12	conj:appos	_	Gloss=of
+14	na	na	PART	_	Case=Gen|PartType=Case	12	conj:appos	_	Gloss=Gen
 15	uwab	uwaː	NOUN	_	Definite=Cons|Gender=Fem	14	comp:obj	_	Gloss=mother.Fem
 16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	15	mod	_	Gloss=girl.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT

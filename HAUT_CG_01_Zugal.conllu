@@ -65,7 +65,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	maːgànîn	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=medicine/spell.Masc.Cons
 8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def
-9	na	na/ta	ADP	_	_	7	mod	_	Gloss=of
+9	na	na	PART	_	Case=Gen|PartType=Case	7	mod	_	Gloss=Gen
 10	zuːgàl	zuːgàl	NOUN	_	_	9	comp:obj	_	Gloss=love_charm|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	har̃	har̃	SCONJ	_	_	4	mod	_	Gloss=until
@@ -321,7 +321,7 @@
 12	hwarin	hwariː	ADJ	_	Definite=Cons|Gender=Masc	13	mod	_	Gloss=white.Masc
 13	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	9	conj:dicto	_	Gloss=faeces.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	na	na/ta	ADP	_	_	13	mod	_	Gloss=of
+15	na	na	PART	_	Case=Gen|PartType=Case	13	mod	_	Gloss=Gen
 16	bisà	bisà	ADP	_	_	15	comp:obj	_	Gloss=on_top_of
 17	shìːriyàː	shìːriyàː	NOUN	_	Gender=Fem	16	comp:obj	_	Gloss=fig_tree.Fem|SpaceAfter=No
 18	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -485,7 +485,7 @@
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	tùràːren	tùràːreː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=perfume.Masc
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
-6	na	na/ta	ADP	_	_	4	mod	_	Gloss=of
+6	na	na	PART	_	Case=Gen|PartType=Case	4	mod	_	Gloss=Gen
 7	jìbdàː	jìbdàː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=musk.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	im	in	SCONJ	_	_	18	mod	_	Gloss=if
@@ -935,7 +935,7 @@
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	2	comp:pred	_	Gloss=3Masc
 2	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur
 3	zuːgàl	zuːgàl	NOUN	_	_	2	dislocated@subj	_	Gloss=love_charm
-4	na	na/ta	ADP	_	_	3	mod	_	Gloss=of
+4	na	na	PART	_	Case=Gen|PartType=Case	3	mod	_	Gloss=Gen
 5	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -1019,7 +1019,7 @@
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
 5	zuːgàl	zuːgàl	NOUN	_	_	3	comp:obj	_	Gloss=love_charm
-6	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	maːtaː	maːtaː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -1326,7 +1326,7 @@
 4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
 5	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=medicine/spell.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+7	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 8	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	7	comp:obj	_	Gloss=3Fem.Sub
 9	soː	soː	VERB	_	_	8	comp:aux	_	Gloss=want
 10	kà	nàː	AUX	_	Aspect=Prog	9	comp:obj	_	Gloss=Prog.Rel|Relative=Yes|SpaceAfter=No
@@ -1406,7 +1406,7 @@
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
 4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	Gloss=love_charm
-6	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	maːtaː	maːtaː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
@@ -1559,7 +1559,7 @@
 7	ɗeːboː	ɗiːbàː	VERB	_	_	6	comp:aux	_	Gloss=take.Dir
 8	’yan	ɗan	ADJ	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=little.Plur
 9	ruwaː	ruwaː	NOUN	_	Definite=Cons|Number=Plur	7	comp:obj	_	Gloss=water.Plur
-10	na	na	NOUN	_	Definite=Cons|Number=Plur	9	mod	_	Gloss=water.Plur
+10	na	na	PART	_	Case=Gen|Definite=Cons|Number=Plur|PartType=Case	9	mod	_	Gloss=Gen
 11	kaskon	kaskoː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=potsherd.Masc
 12	abaraː	abaraː	NOUN	_	Gender=Fem	11	mod	_	Gloss=pigeon.Fem|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -1604,7 +1604,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
 30	abuːbuwàː	àbù	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=thing.Plur
-31	na	na/ta	ADP	_	_	30	mod	_	Gloss=of
+31	na	na	PART	_	Case=Gen|PartType=Case	30	mod	_	Gloss=Gen
 32	gà	gà	ADP	_	_	31	comp:obj	_	Gloss=at
 33	jìkinsù	jìkiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	32	comp:obj	_	CaseAf=Gen|Gloss=body.Masc.Cons-3PlurGen|MSeg=jìkin-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
 34	.	.	PUNCT	_	_	13	punct	_	Gloss=.
@@ -1792,7 +1792,7 @@
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
 25	ruwân	ruwaː	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=water.Plur.Cons
 26	ga	ganiː	DET	_	Deixis=Prox|PronType=Dem	25	det	_	Gloss=Prox
-27	na	na/ta	ADP	_	_	25	mod	_	Gloss=of
+27	na	na	PART	_	Case=Gen|PartType=Case	25	mod	_	Gloss=Gen
 28	abaraː	abaraː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=pigeon.Fem|SpaceAfter=No
 29	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
@@ -1932,7 +1932,7 @@
 # text_en = The seeds from inside, you remove them.
 # text_ortho = ɗiyaa na dàc cikii, suu ’a kà hiddàawaa.
 1	ɗiyaː	ɗiyaː	NOUN	_	Number=Plur	6	dislocated@top	_	Gloss=daughter.Plur
-2	na	na/ta	ADP	_	_	1	mod	_	Gloss=of
+2	na	na	PART	_	Case=Gen|PartType=Case	1	mod	_	Gloss=Gen
 3	dàc	dàgà	ADP	_	_	2	comp:obj	_	Gloss=from
 4	cikiː	cikiː	NOUN	_	Gender=Masc	3	comp:obj	_	Gloss=belly/inside.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2773,7 +2773,7 @@
 4	akà	nàː	AUX	_	Aspect=Prog|Person=4	3	comp:obj	_	Gloss=4.Prog.Rel|Relative=Yes
 5	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=eat/have_sex.Nmlz.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	na	na/ta	ADP	_	_	2	conj:appos	_	Gloss=of
+7	na	na	PART	_	Case=Gen|PartType=Case	2	conj:appos	_	Gloss=Gen
 8	cikim	cikin	ADP	_	_	7	comp:obj	_	Gloss=in(side)
 9	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -2824,7 +2824,7 @@
 # text_ortho = [5] ’àkwai zuugàl na ciì, wandà ’a kà ɗiibàa gà ᵲunhuu,
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	Gloss=there_is
 2	zuːgàl	zuːgàl	NOUN	_	_	1	subj	_	Gloss=love_charm
-3	na	na/ta	ADP	_	_	2	mod	_	Gloss=of
+3	na	na	PART	_	Case=Gen|PartType=Case	2	mod	_	Gloss=Gen
 4	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	8	comp:obj	_	Gloss=who.Masc
@@ -2973,7 +2973,7 @@
 39	ɗaukoː	ɗàukaː	VERB	_	_	38	comp:aux	_	Gloss=take.Dir
 40	kunnàn	kunnài	NOUN	_	Definite=Cons|Number=Plur	39	comp:obj	_	Gloss=ear.Plur
 41	nan	nan	DET	_	Definite=Def|PronType=Dem	40	det	_	Gloss=Def
-42	na	na/ta	ADP	_	_	40	mod	_	Gloss=of
+42	na	na	PART	_	Case=Gen|PartType=Case	40	mod	_	Gloss=Gen
 43	runhuː	runhuː	NOUN	_	Gender=Masc	42	comp:obj	_	Gloss=tree_sp.Masc|SpaceAfter=No
 44	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
 45	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	47	comp:obj	_	Gloss=who.Plur
@@ -3277,7 +3277,7 @@
 5	maːgànim	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	4	comp:obj	_	Gloss=medicine/charm.Masc
 6	maːtaː	maːtaː	NOUN	_	Number=Plur	5	mod	_	Gloss=woman.Plur|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+8	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 9	cîː	cîː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -3500,7 +3500,7 @@
 15	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@conj	_	Gloss=3Masc.Sub
 16	kaːmà	kaːmàː	VERB	_	_	15	comp:aux	_	Gloss=catch
 17	àkàihuːnai	àkàihuː	NOUN	_	Gender=Masc|Poss=Yes	16	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=nail.Plur.Cons-3MascGen|MSeg=àkàihuːn-ai|PersonAf=3
-18	na	na/ta	ADP	_	_	17	mod	_	Gloss=of
+18	na	na	PART	_	Case=Gen|PartType=Case	17	mod	_	Gloss=Gen
 19	hannuwàː	hannuː	NOUN	_	Number=Plur	18	comp:obj	_	Gloss=hand/arm.Plur|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 21	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	15	parataxis@conj	_	Gloss=3Masc.Sub
@@ -3545,7 +3545,7 @@
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 9	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 10	ɗeːboː	ɗiːbàː	VERB	_	_	9	comp:aux	_	Gloss=take.Dir
-11	na	na/ta	ADP	_	_	10	comp:obj	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	10	comp:obj	_	Gloss=Gen
 12	ƙaːhuwàː	ƙaːhwàː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=foot/leg.Plur|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
@@ -3559,14 +3559,14 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	yaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir
-4	na	na/ta	ADP	_	_	3	comp:obj	_	Gloss=of
+4	na	na	PART	_	Case=Gen|PartType=Case	3	comp:obj	_	Gloss=Gen
 5	ƙahwaːhuwàː	ƙahwàː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=foot/leg.Plur|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 8	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 9	gamèː	gamèː	VERB	_	_	8	comp:aux	_	Gloss=join.Ach
 10	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
-11	na	na/ta	ADP	_	_	10	comp:obj	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	10	comp:obj	_	Gloss=Gen
 12	hannuwàː	hannuː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=hand/arm.Plur|SpaceAfter=No
 13	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
@@ -3580,12 +3580,12 @@
 1	àmmaː	àmmaː	CCONJ	_	_	7	discourse	_	Gloss=but
 2	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@comp	_	Gloss=3Plur
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	Gloss=even
-4	na	na/ta	ADP	_	_	7	dislocated@top	_	Gloss=of
+4	na	na	PART	_	Case=Gen|PartType=Case	7	dislocated@top	_	Gloss=Gen
 5	ƙahwaːhuwàː	ƙahwàː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=foot/leg.Plur|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	bâː’a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	0	root	_	Gloss=4.ProgNeg
 8	ɗiːbàn	ɗiːbàː	VERB	_	Definite=Cons	7	comp:aux	_	Gloss=take
-9	na	na/ta	ADP	_	_	8	udep	_	Gloss=of
+9	na	na	PART	_	Case=Gen|PartType=Case	8	udep	_	Gloss=Gen
 10	hwar̃uttàː	hwar̃uttàː	NOUN	_	Number=Plur	9	comp:obj	_	Gloss=nail.Plur
 11	mayyaː	mayyaː	ADJ	_	Number=Plur	9	mod	_	Gloss=big.Plur|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -3600,14 +3600,14 @@
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
 2	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 3	ɗeːboː	ɗiːbàː	VERB	_	_	2	comp:aux	_	Gloss=take.Dir
-4	na	na/ta	ADP	_	_	3	comp:obj	_	Gloss=of
+4	na	na	PART	_	Case=Gen|PartType=Case	3	comp:obj	_	Gloss=Gen
 5	ƙanaːnàː	ƙanaːnàː	ADJ	_	Number=Plur	4	comp:obj	_	Gloss=small.Plur|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	à	yà	AUX	_	Mood=Sub|Person=4	2	parataxis@conj	_	Gloss=4.Sub
 8	gamàː	gamàː	VERB	_	_	7	comp:aux	_	Gloss=join
 9	su	su	PRON	_	Person=3	8	comp:obj	_	Gloss=3.Pl
 10	dà	dà	ADP	_	_	8	comp:obl	_	Gloss=with
-11	na	na/ta	ADP	_	_	10	comp:obj	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	10	comp:obj	_	Gloss=Gen
 12	hannuwàː	hannuː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=hand/arm.Plur|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	à	yà	AUX	_	Mood=Sub|Person=4	7	parataxis@conj	_	Gloss=4.Sub
@@ -4476,10 +4476,10 @@
 8	munkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	5	mod@relcl	_	Gloss=1Plur.Perf.Rel|Relative=Yes
 9	zaːnàː	zaːnàː	VERB	_	_	8	comp:aux	_	Gloss=tell
 10	tun	tun	ADP	_	_	9	mod	_	Gloss=since/before
-11	na	na/ta	ADP	_	_	10	comp:obj	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	10	comp:obj	_	Gloss=Gen
 12	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	11	comp:obj	_	Gloss=beginning.Masc.Def
 13	har̃	har̃	ADP	_	_	14	cc	_	Gloss=until
-14	na	na/ta	ADP	_	_	11	conj:coord	_	Gloss=of
+14	na	na	PART	_	Case=Gen|PartType=Case	11	conj:coord	_	Gloss=Gen
 15	ƙàr̃sheː	ƙàr̃sheː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=end.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
@@ -4525,7 +4525,7 @@
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
 16	gàːrîn	gàːriː	NOUN	_	Definite=Cons|Gender=Masc	14	comp:obj	_	Gloss=flour.Masc.Cons
 17	nan	nan	DET	_	Definite=Def|PronType=Dem	16	det	_	Gloss=Def
-18	na	na/ta	ADP	_	_	16	mod	_	Gloss=of
+18	na	na	PART	_	Case=Gen|PartType=Case	16	mod	_	Gloss=Gen
 19	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 20	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 21	koː	koː	CCONJ	_	_	22	cc@preconj	_	Gloss=or
@@ -5082,10 +5082,10 @@
 8	gòːshinkà	gòːshiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	7	mod	_	CaseAf=Gen|GenderAf=Masc|Gloss=forehead.Masc.Cons-2MascGen|MSeg=gòːshin-kà|PersonAf=2|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
 10	dà	dà	CCONJ	_	_	11	cc	_	Gloss=and
-11	na	na/ta	ADP	_	_	6	conj:coord	_	Gloss=of
+11	na	na	PART	_	Case=Gen|PartType=Case	6	conj:coord	_	Gloss=Gen
 12	hamùttaː	hamùttaː	NOUN	_	Number=Plur	11	comp:obj	_	Gloss=armpit.Plur
 13	dà	dà	CCONJ	_	_	14	cc	_	Gloss=and
-14	na	na/ta	ADP	_	_	11	conj:coord	_	Gloss=of
+14	na	na	PART	_	Case=Gen|PartType=Case	11	conj:coord	_	Gloss=Gen
 15	zaːzakkà	zaːzaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	14	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=pubic_hair.Fem.Cons-2MascGen|MSeg=zaːzak-kà|PersonAf=2|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 17	dà	dà	CCONJ	_	_	18	cc	_	Gloss=and
@@ -5288,7 +5288,7 @@
 5	maːgànim	maːgàniː	NOUN	_	Definite=Cons|Gender=Masc	3	conj:appos	_	Gloss=medicine/charm.Masc
 6	maːtaː	maːtaː	NOUN	_	Number=Plur	5	mod	_	Gloss=woman.Plur|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+8	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 9	maːtaː	maːtaː	NOUN	_	Number=Plur	10	subj	_	Gloss=woman.Plur
 10	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	8	comp:obj	_	Gloss=3Plur.Sub
 11	soː	soː	VERB	_	_	10	comp:aux	_	Gloss=want
@@ -5967,7 +5967,7 @@
 7	ɗàuki	ɗàukaː	VERB	_	_	6	comp:aux	_	Gloss=take
 8	mân	mâi	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=oil.Masc.Def|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	na	na/ta	ADP	_	_	8	mod	_	Gloss=of
+10	na	na	PART	_	Case=Gen|PartType=Case	8	mod	_	Gloss=Gen
 11	kic'èn	kic'èː	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=fat.Masc
 12	damoː	damoː	NOUN	_	Gender=Masc	11	mod	_	Gloss=land-monitor.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -6006,7 +6006,7 @@
 5	kic'èn	kic'èː	NOUN	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=fat.Masc.Cons
 6	nan	nan	DET	_	Definite=Def|PronType=Dem	5	det	_	Gloss=Def|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
-8	na	na/ta	ADP	_	_	5	mod	_	Gloss=of
+8	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 9	damoː	damoː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=land-monitor.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	12	mod	_	Gloss=then
@@ -6651,7 +6651,7 @@
 6	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	Gloss=get
 8	hùr̃eː	hùr̃eː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=flower.Masc
-9	na	na/ta	ADP	_	_	8	mod	_	Gloss=of
+9	na	na	PART	_	Case=Gen|PartType=Case	8	mod	_	Gloss=Gen
 10	hwarab	hwaraː	ADJ	_	Definite=Cons|Gender=Fem	11	mod	_	Gloss=white.Fem
 11	bìː-raːna	bìː-raːna	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=plant_sp.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
