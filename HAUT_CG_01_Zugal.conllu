@@ -459,18 +459,18 @@
 5	wata	wata	DET	_	Gender=Fem	7	det	_	Gloss=some.Fem
 6	’yak	ɗan	ADJ	_	Gender=Fem	7	mod	_	Gloss=little.Fem
 7	kwalbaː	kwalbaː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=bottle.Fem
-8	mài	mài	ADP	_	Gender=Masc	7	mod	_	Gloss=owner_of.Masc/Fem
-9	maruhiː	maruhiː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=cover.Masc|SpaceAfter=No
+8	mài	mài	PART	_	Number=Sing|PartType=Pred	7	mod	_	Gloss=owner_of.Sing
+9	maruhiː	maruhiː	NOUN	_	Gender=Masc	8	comp.pred	_	Gloss=cover.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	koː	koː	CCONJ	_	_	13	cc	_	Gloss=or
 12	wani	wani	DET	_	Definite=Spec|Gender=Masc	13	det	_	Gloss=some.Masc
 13	gwangwanin	gwangwaniː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=tin.Masc
 14	mùntàleːtàː	mùntàleːtàː	X	_	_	13	mod	_	Gloss=X|SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-16	shiː	shiː	PRON	_	Gender=Masc|Person=3	18	subj	_	Gloss=3Masc
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	conj:appos	_	Gloss=3Masc
 17	maː	maː	PART	_	PartType=Top	16	discourse@top	_	Gloss=even
-18	mài	mài	ADP	_	Gender=Masc	14	parataxis	_	Gloss=owner_of.Masc/Fem
-19	maruhiː	maruhiː	NOUN	_	Gender=Masc	18	comp:obj	_	Gloss=cover.Masc|SpaceAfter=No
+18	mài	mài	PART	_	Number=Sing|PartType=Pred	16	mod	_	Gloss=owner_of.Sing
+19	maruhiː	maruhiː	NOUN	_	Gender=Masc	18	comp.pred	_	Gloss=cover.Masc|SpaceAfter=No
 20	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_020-020
@@ -658,8 +658,8 @@
 6	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 7	sàːmu	saːmùː	VERB	_	_	6	comp:aux	_	Gloss=get
 8	taːbàː	taːbàː	NOUN	_	Gender=Fem	7	comp:obj	_	Gloss=tobacco.Fem
-9	mài	mài	ADP	_	Gender=Masc	8	mod	_	Gloss=owner_of.Masc/Fem
-10	yaːjìː	yaːjìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=pimento.Masc|SpaceAfter=No
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	8	mod	_	Gloss=owner_of.Sing
+10	yaːjìː	yaːjìː	NOUN	_	Gender=Masc	9	comp.pred	_	Gloss=pimento.Masc|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_027-027
@@ -710,8 +710,8 @@
 3	sàːmu	saːmùː	VERB	_	_	2	comp:aux	_	Gloss=get
 4	taːbàn	taːbàː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=tobacco.Fem
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
-6	mài	mài	ADP	_	Gender=Masc	4	mod	_	Gloss=owner_of.Masc/Fem
-7	yaːjìː	yaːjìː	NOUN	_	Gender=Masc	6	comp:obj	_	Gloss=pimento.Masc|SpaceAfter=No
+6	mài	mài	PART	_	Number=Sing|PartType=Pred	4	mod	_	Gloss=owner_of.Sing
+7	yaːjìː	yaːjìː	NOUN	_	Gender=Masc	6	comp.pred	_	Gloss=pimento.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then
 10	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -735,8 +735,8 @@
 8	goːr̃ò	goːr̃ò	NOUN	_	Gender=Masc	4	conj:dicto	_	Gloss=kola.Masc
 9	mùlmùlalleː	mùlmùlalleː	ADJ	_	Gender=Masc	8	mod	_	Gloss=round.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	mài	mài	ADP	_	Gender=Masc	8	mod	_	Gloss=owner_of.Masc/Fem
-12	kàmaƙ	kàmaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp:obj	_	Gloss=appearance.Fem
+11	mài	mài	PART	_	Number=Sing|PartType=Pred	8	mod	_	Gloss=owner_of.Sing
+12	kàmaƙ	kàmaː	NOUN	_	Definite=Cons|Gender=Fem	11	comp.pred	_	Gloss=appearance.Fem
 13	ƙòːdagòː	ƙòːdagòː	NOUN	_	Gender=Masc	12	mod	_	Gloss=palm_fruit.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	16	subj	_	Gloss=who.Masc
@@ -1097,15 +1097,15 @@
 11	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	8	conj:appos	_	Gloss=type.Masc.Cons
 12	gishirîn	gishiriː	NOUN	_	Definite=Cons|Gender=Masc	11	mod	_	Gloss=salt.Masc.Cons
 13	nan	nan	DET	_	Definite=Def|PronType=Dem	12	det	_	Gloss=Def
-14	mài	mài	ADP	_	Gender=Masc	12	mod	_	Gloss=owner_of.Masc/Fem
-15	ƙarhiː	ƙarhiː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=strength.Masc|SpaceAfter=No
+14	mài	mài	PART	_	Number=Sing|PartType=Pred	12	mod	_	Gloss=owner_of.Sing
+15	ƙarhiː	ƙarhiː	NOUN	_	Gender=Masc	14	comp.pred	_	Gloss=strength.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	mài	mài	ADP	_	Gender=Masc	14	conj:dicto	_	Gloss=owner_of.Masc/Fem
-18	tauriː	tauriː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=toughness.Masc
+17	mài	mài	PART	_	Number=Sing|PartType=Pred	14	conj:dicto	_	Gloss=owner_of.Sing
+18	tauriː	tauriː	NOUN	_	Gender=Masc	17	comp.pred	_	Gloss=toughness.Masc
 19	kàmad	kàmat	ADP	_	_	18	mod	_	Gloss=like
 20	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=stone.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
-22	irìn	irìn	NOUN	_	Definite=Cons|Gender=Masc	17	conj:coord	_	Gloss=type.Masc.Def
+22	irìn	irìn	NOUN	_	Definite=Cons|Gender=Masc	12	conj:appos	_	Gloss=type.Masc.Def
 23	na	na	NOUN	_	Definite=Cons|Gender=Masc	22	mod	_	Gloss=type.Masc.Def
 24	ƙasa’	ƙasaː	NOUN	_	Definite=Cons|Gender=Fem	23	comp:obj	_	Gloss=ground/country.Fem
 25	abzìn	abzìn	PROPN	_	_	24	mod	_	Gloss=Azben|SpaceAfter=No
@@ -2314,8 +2314,8 @@
 21	yi	yi	VERB	_	_	20	comp:aux	_	Gloss=do
 22	aikìː	aikìː	NOUN	_	Gender=Masc	21	comp:pred	_	Gloss=work.Masc
 23	dà	dà	ADP	_	_	21	comp:obl	_	Gloss=with
-24	mài	mài	ADP	_	Gender=Masc	23	comp:obj	_	Gloss=owner_of.Masc/Fem
-25	zaːƙîn	zaːƙiː	NOUN	_	Definite=Def|Gender=Masc	24	comp:obj	_	Gloss=sweetness.Masc.Def|SpaceAfter=No
+24	mài	mài	PART	_	Number=Sing|PartType=Pred	23	comp:obj	_	Gloss=owner_of.Sing
+25	zaːƙîn	zaːƙiː	NOUN	_	Definite=Def|Gender=Masc	24	comp.pred	_	Gloss=sweetness.Masc.Def|SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 27	sai	sai	ADV	_	_	28	mod	_	Gloss=then
 28	à	yà	AUX	_	Mood=Sub|Person=4	20	parataxis	_	Gloss=4.Sub
@@ -4454,8 +4454,8 @@
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	zàrau	zàrau	NOUN	_	Gender=Masc	4	dislocated@subj	_	Gloss=grass_sp.Masc
-7	mài	mài	ADP	_	Gender=Masc	6	mod	_	Gloss=owner_of.Masc/Fem
-8	zarè	zarèː	VERB	_	_	7	comp:obj	_	Gloss=draw
+7	mài	mài	PART	_	Number=Sing|PartType=Pred	6	mod	_	Gloss=owner_of.Sing
+8	zarè	zarèː	VERB	_	_	7	comp.pred	_	Gloss=draw
 9	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
@@ -4870,8 +4870,8 @@
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	gàme	gamàː	VERB	_	ExtPos=ADV|VerbForm=Stat	12	dislocated@comp	_	Gloss=gather.Part.Stat
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
-9	mài	mài	ADP	_	Gender=Masc	8	comp:obj	_	Gloss=owner_of.Masc/Fem
-10	suː	suː	PRON	_	Number=Plur|Person=3	9	comp:obl	_	Gloss=3Plur|SpaceAfter=No
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	8	comp:obj	_	Gloss=owner_of.Sing
+10	suː	suː	PRON	_	Number=Plur|Person=3	9	comp.pred	_	Gloss=3Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	0	root	_	Gloss=3Pl.ProgNeg
 13	dà	dà	ADP	_	_	12	comp:pred	_	Gloss=with
@@ -4886,8 +4886,8 @@
 # text_en = Even if their master beats them, when he stops, after a while, they will go back to him.
 # text_ortho = koo mài suu yaa baa sù kaašii, ’in yab baᵲìi, dà ’an jimàa, suù koomoo wuᵲiinai.
 1	koː	koː	SCONJ	_	_	17	mod	_	Gloss=even_if
-2	mài	mài	ADP	_	Gender=Masc	4	subj	_	Gloss=owner_of.Masc/Fem
-3	suː	suː	PRON	_	Number=Plur|Person=3	2	compound	_	Gloss=3Plur
+2	mài	mài	PART	_	Number=Sing|PartType=Pred	4	subj	_	Gloss=owner_of.Sing
+3	suː	suː	PRON	_	Number=Plur|Person=3	2	comp.pred	_	Gloss=3Plur
 4	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf
 5	baː	baː	VERB	_	_	4	comp:aux	_	Gloss=give
 6	sù	sù	PRON	_	Number=Plur|Person=3	5	comp:obj@R	_	Gloss=3Plur

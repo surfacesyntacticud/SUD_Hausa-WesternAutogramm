@@ -64,8 +64,8 @@
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 8	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
 9	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-10	mài	mài	ADP	_	Gender=Masc	9	udep	_	Gloss=owner_of.Masc/Fem
-11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+10	mài	mài	PART	_	Number=Sing|PartType=Pred	9	udep	_	Gloss=owner_of.Sing
+11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_04
@@ -79,8 +79,8 @@
 2	in	in	SCONJ	_	_	21	mod	_	Gloss=if
 3	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 4	ga	ganiː	VERB	_	_	3	comp:aux	_	Gloss=see
-5	mài	mài	ADP	_	Gender=Masc	4	comp:obj	_	Gloss=owner_of.Masc/Fem
-6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+5	mài	mài	PART	_	Number=Sing|PartType=Pred	4	comp:obj	_	Gloss=owner_of.Sing
+6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.Perf
 9	azàː	azàː	VERB	_	_	8	comp:aux	_	Gloss=put
@@ -118,8 +118,8 @@
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 7	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	Gloss=see
-9	mài	mài	ADP	_	Gender=Masc	11	subj	_	Gloss=owner_of.Masc/Fem
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=horse.Masc
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	11	subj	_	Gloss=owner_of.Sing
+10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp.pred	_	Gloss=horse.Masc
 11	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	8	parataxis@comp	_	Gloss=3Masc.Perf
 12	wucèː	wucèː	VERB	_	_	11	comp:aux	_	Gloss=pass_by|SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -132,8 +132,8 @@
 20	cêː	cêː	VERB	_	_	19	comp:aux	_	Gloss=say
 21	:	:	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 22	màːtam	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	25	subj	_	Gloss=wife.Fem
-23	mài	mài	ADP	_	Gender=Masc	22	mod	_	Gloss=owner_of.Masc/Fem
-24	doːkìː	doːkìː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=horse.Masc
+23	mài	mài	PART	_	Number=Sing|PartType=Pred	22	mod	_	Gloss=owner_of.Sing
+24	doːkìː	doːkìː	NOUN	_	Gender=Masc	23	comp.pred	_	Gloss=horse.Masc
 25	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	comp:obj@T	_	Gloss=3Fem.Perf
 26	ji	jiyàː	VERB	_	_	25	comp:aux	_	Gloss=feel/hear
 27	daːɗintà	daːɗiː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	26	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=happiness.Masc.Cons-3FemGen|MSeg=daːɗin-tà|PersonAf=3|SpaceAfter=No
@@ -368,7 +368,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 15000, 16000
-# text = ita kâu màːtaːtai , ita dai taː ga mài doːkìː , àmmaː bàtà san mijìntà ba nèː , ab bisà doːkìː .
+# text = ita kâu màːtaːtai, ita dai taː ga mài doːkìː, àmmaː bàtà san mijìntà ba nèː, ab bisà doːkìː.
 # text_en = She, his wife, as for her, she saw a rider, but she did not know it was her husband who was on the horse.
 # text_ortho = ’ita kàu màataatai, ’ita dai taa ga mài dookìː, ’àmmaa bà tà san mijintà ba nèe, ’ab bisà dookìː.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	7	dislocated@subj	_	Gloss=3Fem
@@ -379,17 +379,17 @@
 6	dai	dai	PART	_	PartType=Top	5	discourse@top	_	Gloss=however
 7	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	Gloss=see
-9	mài	mài	ADP	_	Gender=Masc	8	comp:obj	_	Gloss=owner_of.Masc/Fem
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	8	comp:obj	_	Gloss=owner_of.Sing
+10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 12	àmmaː	àmmaː	CCONJ	_	_	13	cc	_	Gloss=but
 13	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	7	conj:coord	_	Gloss=3Fem.PerfNeg
 14	san	sanìː	VERB	_	_	13	comp:aux	_	Gloss=know
-15	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	17	comp:pred	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3
-16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	15	mod	_	Gloss=Neg
-17	nèː	neː	AUX	_	Gender=Masc|Number=Plur	14	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
+15	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	14	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3
+16	ba	ba	PART	_	PartType=Neg|Polarity=Neg	14	mod	_	Gloss=Neg
+17	nèː	neː	PART	_	PartType=Foc	14	discourse@foc	_	Copula=Yes|Gloss=Emph|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
-19	ab	neː	AUX	_	_	17	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Rel|Relative=Yes
+19	ab	neː	AUX	_	_	15	comp:cleft	_	Copula=Yes|Gloss=Ident/Foc.Rel|Relative=Yes
 20	bisà	bisà	ADP	_	_	19	comp:pred	_	Gloss=on_top_of
 21	doːkìː	doːkìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -546,12 +546,12 @@
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.Perf
 21	sàːmu	saːmùː	VERB	_	_	20	comp:aux	_	Gloss=get
-22	mài	mài	ADP	_	Gender=Masc	21	comp:obj	_	Gloss=owner_of.Masc/Fem
-23	doːkìː	doːkìː	NOUN	_	Gender=Masc	22	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+22	mài	mài	PART	_	Number=Sing|PartType=Pred	21	comp:obj	_	Gloss=owner_of.Sing
+23	doːkìː	doːkìː	NOUN	_	Gender=Masc	22	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	20	parataxis@conj	_	Gloss=3Fem.PerfNeg
 26	san	saniː	VERB	_	_	25	comp:aux	_	Gloss=know
-27	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	29	comp:pred	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3
+27	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	26	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3
 28	ba	ba	PART	_	PartType=Neg|Polarity=Neg	26	mod	_	Gloss=Neg
 29	neː	neː	AUX	_	Gender=Masc|Number=Plur	26	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 30	.	.	PUNCT	_	_	13	punct	_	Gloss=.
@@ -740,8 +740,8 @@
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	Gloss=take.Dir
 9	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=wrapper.Masc.Cons
 10	ga	ga	DET	_	Deixis=Prox|PronType=Dem	9	det	_	Gloss=Prox
-11	mài	mài	ADP	_	Gender=Masc	9	mod	_	Gloss=owner_of.Masc/Fem
-12	kabriː	kabriː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=thickness.Masc|SpaceAfter=No
+11	mài	mài	PART	_	Number=Sing|PartType=Pred	9	mod	_	Gloss=owner_of.Sing
+12	kabriː	kabriː	NOUN	_	Gender=Masc	11	comp.pred	_	Gloss=thickness.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	Gloss=say
@@ -1118,14 +1118,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 39000, 40000
-# text = yaz zoː gidam mài doːkìː , yab baː shì doːkìːnai , yam mai gòːdiyaː , sunkà yi ban kwaːnaː , yat tàhi gidaːnai .
+# text = yaz zoː gidam mài doːkìː, yab baː shì doːkìːnai, yam mai gòːdiyaː, sunkà yi ban kwaːnaː, yat tàhi gidaːnai.
 # text_en = He went to the house of the owner of the horse, he gave him his horse, he thanked him, they parted, he went back home.
 # text_ortho = yaz zoo gidam mài dookìː, yab baa šì dookìːnai, yam mai gòodiyaa, sunkà yi ban kwaanaa, yat tàhi gidaanai.
 1	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 2	zoː	zoː	VERB	_	_	1	comp:aux	_	Gloss=come
 3	gidam	gidaː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:obj@G	_	Gloss=house.Masc
-4	mài	mài	ADP	_	Gender=Masc	3	mod	_	Gloss=owner_of.Masc/Fem
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+4	mài	mài	PART	_	Number=Sing|PartType=Pred	3	mod	_	Gloss=owner_of.Sing
+5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 8	baː	baː	VERB	_	_	7	comp:aux	_	Gloss=give
@@ -1133,8 +1133,8 @@
 10	doːkìːnai	doːkìː	NOUN	_	Gender=Masc|Poss=Yes	8	comp:obj@T	_	CaseAf=Gen|GenderAf=Masc|Gloss=horse.Masc.Cons-3MascGen|MSeg=doːkìːn-ai|PersonAf=3|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-13	mai	mai	PRON	_	Gender=Masc|Person=3	12	comp:obl	_	Gloss=3Masc.Dat
-14	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	17	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
+13	mai	may-	VERB	_	_	12	comp:obl	_	Gloss=give_back
+14	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	13	comp:obj	_	Gloss=thanks.Fem|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 17	yi	yi	VERB	_	_	16	comp:aux	_	Gloss=do
@@ -1226,8 +1226,8 @@
 4	gidaː	gidaː	NOUN	_	Gender=Masc	2	mod	_	Gloss=house.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
-7	mài	mài	ADP	_	Gender=Masc	9	subj	_	Gloss=owner_of.Masc/Fem
-8	doːkìː	doːkìː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=horse.Masc
+7	mài	mài	PART	_	Number=Sing|PartType=Pred	9	subj	_	Gloss=owner_of.Sing
+8	doːkìː	doːkìː	NOUN	_	Gender=Masc	7	comp.pred	_	Gloss=horse.Masc
 9	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 10	biyoː	biyaː	VERB	_	_	9	comp:aux	_	Gloss=follow.Dir|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
@@ -1269,8 +1269,8 @@
 6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	4	comp:pred	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	3	dislocated@subj	_	Gloss=3Masc
-9	mài	mài	ADP	_	Gender=Masc	8	conj:appos	_	Gloss=owner_of.Masc/Fem
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	8	conj:appos	_	Gloss=owner_of.Sing
+10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_43_2
@@ -1283,8 +1283,8 @@
 1	kuma	kuma	PART	_	PartType=Disc	2	discourse	_	Gloss=also
 2	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
 3	sôm	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-4	mài	mài	ADP	_	Gender=Masc	3	udep	_	Gloss=owner_of.Masc/Fem
-5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+4	mài	mài	PART	_	Number=Sing|PartType=Pred	3	udep	_	Gloss=owner_of.Sing
+5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_43_3
@@ -1298,8 +1298,8 @@
 2	koːmiː	koːmiː	PRON	_	_	1	subj	_	Gloss=anything
 3	gà	gà	ADP	_	_	1	comp:pred	_	Gloss=at
 4	ɗwaim	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	Gloss=stench.Masc
-5	mài	mài	ADP	_	Gender=Masc	4	mod	_	Gloss=owner_of.Masc/Fem
-6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
+5	mài	mài	PART	_	Number=Sing|PartType=Pred	4	mod	_	Gloss=owner_of.Sing
+6	doːkìː	doːkìː	NOUN	_	Gender=Masc	5	comp.pred	_	Gloss=horse.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	sai	sai	ADP	_	_	1	mod	_	Gloss=except
 9	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=excrement.Masc|SpaceAfter=No
@@ -1327,8 +1327,8 @@
 6	koːmàː	koːmàː	VERB	_	_	5	comp:aux	_	Gloss=return
 7	yîm	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	6	comp:obj	_	Gloss=do.Nmlz.Masc
 8	bùtum	bùtu	NOUN	_	Definite=Cons|Gender=Masc	7	udep	_	Gloss=chatting.Masc
-9	mài	mài	ADP	_	Gender=Masc	8	udep	_	Gloss=owner_of.Masc/Fem
-10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	compound	_	Gloss=horse.Masc
+9	mài	mài	PART	_	Number=Sing|PartType=Pred	8	udep	_	Gloss=owner_of.Sing
+10	doːkìː	doːkìː	NOUN	_	Gender=Masc	9	comp.pred	_	Gloss=horse.Masc
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	Gloss=Neg|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
