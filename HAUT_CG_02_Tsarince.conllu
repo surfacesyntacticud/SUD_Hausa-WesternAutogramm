@@ -152,7 +152,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 5000, 6000
-# text = in kâu bàsù yi kwaːnaː ba , in su nàː hwageː sunàː wargiː , irìn na ’yam maːtaː .
+# text = in kâu bàsù yi kwaːnaː ba, in sunàː hwageː sunàː wargiː, irìn na ’yam maːtaː.
 # text_en = If they zare not asleep, if they are outside, they are playing the way girls do.
 # text_ortho = ’in kaù bà sù yi kwaanaa ba, ’in su nàa hwagee su nàa waᵲgii, ’iᵲìn na ’’yam maataa.
 1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
@@ -168,8 +168,8 @@
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 12	wargiː	wargiː	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=playing.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	irìn	irìː	NOUN	_	Definite=Cons|Gender=Masc	12	mod	_	Gloss=type.Masc.Cons
-15	na	na/ta	ADP	_	_	14	mod	_	Gloss=of
+14	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	12	mod	_	Gloss=type.Masc.Def
+15	na	na	PART	_	Case=Gen|PartType=Case	14	mod	_	Gloss=Gen
 16	’yam	ɗan	ADJ	_	Gender=Fem	15	comp:obj	_	Gloss=litlle.Fem
 17	maːtaː	maːtaː	NOUN	_	Number=Plur	16	compound	_	Gloss=woman.Plur|SpaceAfter=No
 18	.	.	PUNCT	_	_	11	punct	_	Gloss=PUNCT
