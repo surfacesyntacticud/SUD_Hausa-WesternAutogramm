@@ -2036,7 +2036,7 @@
 7	in	in	SCONJ	_	_	14	mod	_	Gloss=if
 8	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 9	tàhi	tàhi	VERB	_	_	8	comp:aux	_	Gloss=go
-10	wurin	wurin	ADP	_	Definite=Cons	9	comp:obl	_	Gloss=at
+10	wurin	wurin	ADP	_	_	9	comp:obl	_	Gloss=at
 11	kaːshiː	kaːshiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=excrement.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 13	sai	sai	ADV	_	_	14	mod	_	Gloss=then
@@ -3127,7 +3127,7 @@
 4	dauɗàn	dauɗàː	NOUN	_	Definite=Cons|Gender=Fem	3	comp:obj	_	Gloss=dirt.Fem
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-7	ta	na/ta	ADP	_	_	4	mod	_	Gloss=of
+7	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	4	mod	_	Gloss=Gen.Fem
 8	gà	gà	ADP	_	_	7	comp:obj	_	Gloss=at
 9	taɓaryaː	taɓaryaː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=pestle.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -3259,7 +3259,7 @@
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	sai	sai	ADP	_	_	22	mod	_	Gloss=then
 33	kâu	kàu	PART	_	PartType=Top	32	discourse@top	_	Gloss=whereas
-34	ta	na/ta	ADP	_	_	32	comp:obj	_	Gloss=of
+34	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	32	comp:obj	_	Gloss=Gen.Fem
 35	allàː	allàː	PROPN	_	_	34	comp:obj	_	Gloss=God|SpaceAfter=No
 36	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
@@ -3523,7 +3523,7 @@
 5	tà	ta	PRON	_	Gender=Fem|Person=3	4	comp:obj	_	Gloss=3Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	bandà	bandà	ADP	_	_	4	mod	_	Gloss=without
-8	ta	na/ta	ADP	_	_	7	comp:obj	_	Gloss=of
+8	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	7	comp:obj	_	Gloss=Gen.Fem
 9	hwar̃uttàː	hwar̃uttàː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=fingernail.Plur
 10	mayyaː	mayyaː	ADJ	_	Number=Plur	9	mod	_	Gloss=big.Plur|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -4618,7 +4618,7 @@
 1	koː	koː	SCONJ	_	_	55	mod	_	Gloss=even_if
 2	màːtakkà	màːtaː	NOUN	_	Definite=Cons|Gender=Fem|Poss=Yes	3	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-2MascGen|MSeg=màːtak-kà|PersonAf=2
 3	ceː	neː	AUX	_	Gender=Fem	1	comp:obj	_	Copula=Yes|Gloss=be.Fem
-4	ta	na/ta	ADP	_	_	2	mod	_	Gloss=of
+4	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	mod	_	Gloss=Gen.Fem
 5	àrmeː	àrmeː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=wedding.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	in	in	SCONJ	_	_	55	mod	_	Gloss=if
@@ -4957,7 +4957,7 @@
 3	kàːjiː	kàːjiː	NOUN	_	Number=Plur	2	mod	_	Gloss=hen.Plur|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	dà	dà	CCONJ	_	_	6	cc	_	Gloss=with
-6	ta	na/ta	ADP	_	_	2	conj:coord	_	Gloss=of
+6	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	conj:coord	_	Gloss=Gen.Fem
 7	kàryaː	kàryaː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=bitch.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	in	in	SCONJ	_	_	21	mod	_	Gloss=if
@@ -5107,7 +5107,7 @@
 33	sàːmu	saːmùː	VERB	_	_	32	comp:aux	_	Gloss=get
 34	dauɗàn	dauɗàː	NOUN	_	Definite=Cons|Gender=Fem	33	comp:obj	_	Gloss=dirt.Fem.Cons
 35	nan	nan	DET	_	Definite=Def|PronType=Dem	34	det	_	Gloss=Def
-36	ta	na/ta	ADP	_	_	34	mod	_	Gloss=of
+36	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	34	mod	_	Gloss=Gen.Fem
 37	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc|Poss=Yes	36	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|SpaceAfter=No
 38	,	,	PUNCT	_	_	39	punct	_	Gloss=PUNCT
 39	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
@@ -5312,7 +5312,7 @@
 8	nèːmi	nèːmaː	VERB	_	_	7	comp:aux	_	Gloss=look_for
 9	kaskàː	kaskàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=tick.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	ta	na/ta	ADP	_	_	9	mod	_	Gloss=of
+11	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	9	mod	_	Gloss=Gen.Fem
 12	gà	gà	ADP	_	_	11	comp:obj	_	Gloss=at
 13	kàryaː	kàryaː	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=bitch.Fem
 14	màccè	màccè	NOUN	_	Gender=Fem	13	compound	_	Gloss=female.Fem|SpaceAfter=No
@@ -6910,7 +6910,7 @@
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	11	comp:obj	_	Gloss=Fut.3Masc
 14	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=go.Nmlz.Masc
-15	wurim	wurin	ADP	_	Definite=Cons	14	comp:obl	_	Gloss=at
+15	wurim	wurin	ADP	_	_	14	comp:obl	_	Gloss=at
 16	màccè	màccè	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=female.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	19	mod	_	Gloss=then
@@ -6987,7 +6987,7 @@
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 9	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 10	tàhi	tàhi	VERB	_	_	9	comp:aux	_	Gloss=go
-11	wurim	wurin	ADP	_	Definite=Cons	10	comp:obl	_	Gloss=at
+11	wurim	wurin	ADP	_	_	10	comp:obl	_	Gloss=at
 12	màcce	màcce	NOUN	_	Gender=Fem	11	comp:obj	_	Gloss=woman.Fem|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 14	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	9	parataxis@conj	_	Gloss=3Plur.Sub

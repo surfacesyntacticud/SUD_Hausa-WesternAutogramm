@@ -61,7 +61,7 @@
 1	uwam	uwaː	NOUN	_	Definite=Cons|Gender=Fem	9	dislocated@subj	_	Gloss=mother.Fem
 2	màːtaː	màːtaː	NOUN	_	Gender=Fem	1	mod	_	Gloss=wife.Fem
 3	nan	nan	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def
-4	ta	na/ta	ADP	_	_	2	mod	_	Gloss=of
+4	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	2	mod	_	Gloss=Gen.Fem
 5	bàhillaːcèː	bàhillaːcèː	PROPN	_	Gender=Masc	4	comp:obj	_	Gloss=Fulani.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	ita	ita	PRON	_	Gender=Fem|Person=3	9	dislocated@subj	_	Gloss=3Fem
@@ -209,7 +209,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	17	comp:obj@T	_	Gloss=3Masc.Sub
 30	bi	bi	VERB	_	_	29	comp:aux	_	Gloss=follow
-31	dabràssù	dabràt	ADP	_	Definite=Cons|Poss=Yes	30	comp:obj	_	CaseAf=Gen|Gloss=alongside.Cons-3PlurGen|MSeg=dabràs-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
+31	dabràssù	dabràt	ADP	_	Poss=Yes	30	comp:obj	_	CaseAf=Gen|Gloss=alongside.Cons-3PlurGen|MSeg=dabràs-sù|NumberAf=Plur|PersonAf=3|SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	Gloss=PUNCT
 33	indà	indà	PRON	_	_	30	mod	_	Gloss=where
 34	sàràkkuwaːtai	sàràkkuwaː	NOUN	_	Gender=Fem|Poss=Yes	35	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=in-law.Fem.Cons-3MascGen|MSeg=sàràkkuwaːt-ai|PersonAf=3
@@ -317,7 +317,7 @@
 5	gà	gà	ADP	_	_	4	comp:obl	_	Gloss=at
 6	daːjìː	daːjìː	NOUN	_	Gender=Masc	5	comp:obj	_	Gloss=bush.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
-8	s'akad	s'akat	ADP	_	Definite=Cons	11	mod	_	Gloss=in_the_middle_of
+8	s'akad	s'akat	ADP	_	_	11	mod	_	Gloss=in_the_middle_of
 9	daːjìː	daːjìː	NOUN	_	Gender=Masc	8	mod	_	Gloss=bush.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 11	baːbù	bâː	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg
