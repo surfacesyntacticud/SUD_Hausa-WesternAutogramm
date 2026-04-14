@@ -2372,9 +2372,9 @@
 42	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	43	subj	_	Gloss=malam.Masc
 43	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	33	comp:obj	_	Gloss=3Masc.Perf
 44	tàhi	tàhi	VERB	_	_	43	comp:aux	_	Gloss=go
-45-46	wuri	_	_	_	_	_	_	_	_
+45-46	wuri	_	_	_	_	_	_	_	SpaceAfter=No
 45	wurin	wurin	ADP	_	_	44	comp:obl	_	Gloss=at
-46	iːdì:	iːdì:	NOUN	_	Gender=Masc	45	comp:obj	_	Gloss=ceremony.Masc|SpaceAfter=No
+46	iːdì:	iːdì:	NOUN	_	Gender=Masc	45	comp:obj	_	Gloss=ceremony.Masc
 47	,	,	PUNCT	_	_	48	punct	_	Gloss=PUNCT
 48	can	can	ADV	_	Deixis=Remt|PronType=Dem	45	conj:appos	_	Gloss=Remt
 49	hiːlin	hiːliː	NOUN	_	Definite=Cons|Gender=Masc	48	mod	_	Gloss=open_space.Masc
@@ -2397,7 +2397,7 @@
 # text_en = Then, let him get on his horse and come here to the malam's house so as to see me and I too will see him.
 # text_ortho = sai šì hau dookìinai, šì zoo nan gidan maalàm, sabòo dà šì gan nì, nii kuma ’ìn ganai.
 1-2	sai	_	_	_	_	_	_	_	_
-1	sai	sai	ADV	_	_	3	mod	_	Gloss=then|SpaceAfter=No
+1	sai	sai	ADV	_	_	3	mod	_	Gloss=then
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 3	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 4	hau	hau	VERB	_	_	3	comp:aux	_	Gloss=climb/start
@@ -3191,9 +3191,9 @@
 5	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 6	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=lie.Fem
 7	tàː	neː	AUX	_	Gender=Fem	5	comp:obj	_	Copula=Yes|Gloss=be.Fem
-8-9	shikài	_	_	_	_	_	_	_	_
+8-9	shikài	_	_	_	_	_	_	_	SpaceAfter=No
 8	shikà	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	7	comp:cleft	_	Gloss=3Masc.Prog.Rel|Relative=Yes
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
+9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Nmlz.Masc
 10	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 11	à	yà	AUX	_	Mood=Sub|Person=4	2	comp:obj	_	Gloss=4.Sub
 12	gamàː	gamàː	VERB	_	_	11	comp:aux	_	Gloss=join
@@ -3992,9 +3992,9 @@
 5	hwàːdàːwaː	hwàːdàːwaː	NOUN	_	Number=Plur	4	comp:obj	_	Gloss=courtiers.Plur
 6	in	in	SCONJ	_	_	11	mod	_	Gloss=if
 7	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=lie.Fem
-8-9	kài	_	_	_	_	_	_	_	_
+8-9	kài	_	_	_	_	_	_	_	SpaceAfter=No
 8	shikà	nàː	AUX	_	Aspect=Prog|Person=3	7	comp:cleft	_	Gloss=3Sing.Prog.Rel|Relative=Yes
-9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Nmlz.Masc|SpaceAfter=No
+9	yîː	yi	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	comp:aux	_	Gloss=do.Nmlz.Masc
 10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 11	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	3	comp:obj@T	_	Gloss=3Plur.Sub
 12	tàhi	tàhi	VERB	_	_	11	comp:aux	_	Gloss=go
