@@ -650,7 +650,7 @@
 # text_ortho = sàmàaᵲii su nàa ta baadà kuɗii, kuma su nàa bada goorò dà tùᵲàaᵲee.
 1	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	subj	_	Gloss=youth.Plur
 2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-3	ta	ta	PART	_	Aspect=Iter|PartType=Adv	2	compound:prt	_	Gloss=Iter
+3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	2	compound:prt	_	Gloss=Iter
 4	baːdà	baːdàː	VERB	_	_	2	comp:aux	_	Gloss=give
 5	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=money.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
@@ -671,7 +671,7 @@
 # text_ortho = makàɗaa nàa ta musù kiᵲàaᵲìː.
 1	makàɗiː	makàɗiː	NOUN	_	Number=Plur	2	subj	_	Gloss=drummer.Plur
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	ta	ta	PART	_	Aspect=Iter|PartType=Adv	2	compound:prt	_	Gloss=Iter
+3	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	2	compound:prt	_	Gloss=Iter
 4	musù	musù	PRON	_	Number=Plur|Person=3	2	comp:obl	_	Gloss=3Plur.Dat
 5	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	2	comp:aux	_	Gloss=epithet.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
@@ -903,7 +903,7 @@
 14	koːwaː	koːwaː	PRON	_	_	15	subj	_	Gloss=everyone
 15	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	10	parataxis@conj	_	Gloss=3Masc.Sub
 16	yi	yi	VERB	_	_	15	comp:aux	_	Gloss=do
-17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	Gloss=Iter
+17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	16	compound:prt	_	Gloss=Iter
 18	kiràn	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	16	comp:pred	_	Gloss=call.Nmlz.Masc
 19	bùdurwaːtai	bùdurwaː	NOUN	_	Gender=Fem|Poss=Yes	18	udep	_	CaseAf=Gen|GenderAf=Masc|Gloss=girl.Fem.Cons-3MascGen|MSeg=bùdurwaːt-ai|PersonAf=3|SpaceAfter=No
 20	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -916,7 +916,7 @@
 # text_en = The one whose (girl) agrees, ( he has called her and she has come ), she will follow him and they will go to bed.
 # text_ortho = wanda taašì tay yàrda, yay yi kiᵲàntà taz zoo, sai tà bii šì, sù tàhi wuᵲin kwaanaa.
 1	wandà	wandà	PRON	_	PronType=Rel	13	dislocated@subj	_	Gloss=who
-2	taːshì	taːshì	PRON	_	Case=Gen|Gender=Fem|PartType=Case|Poss=Yes|PronType=Pers	3	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3
+2	taːshì	taːshì	PRON	_	Gender=Fem|Poss=Yes|PronType=Pers	3	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3
 3	tay	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	1	mod@relcl	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 4	yàr̃da	yàr̃da	VERB	_	_	3	comp:aux	_	Gloss=agree|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
@@ -1199,7 +1199,7 @@
 25	bâː	baːbù	VERB	_	_	24	comp:aux	_	Gloss=give
 26	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	25	comp:obj@R	_	Gloss=girl.Fem.Cons
 27	nan	nan	DET	_	Definite=Def|PronType=Dem	26	det	_	Gloss=Def
-28	taːshì	taːshì	PRON	_	Case=Gen|Gender=Fem|PartType=Case|Poss=Yes|PronType=Pers	26	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|SpaceAfter=No
+28	taːshì	taːshì	PRON	_	Gender=Fem|Poss=Yes|PronType=Pers	26	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|SpaceAfter=No
 29	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_33-33_split1
@@ -2403,7 +2403,7 @@
 1	sai	sai	ADV	_	_	2	mod	_	Gloss=then
 2	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
-4	ta	ta	PART	_	Aspect=Iter|PartType=Adv	3	compound:prt	_	Gloss=Iter
+4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	3	compound:prt	_	Gloss=Iter
 5	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=chatting.Fem
 6	dà	dà	ADP	_	_	5	udep	_	Gloss=with
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	6	comp:obj	_	Gloss=3Masc|SpaceAfter=No
@@ -2588,7 +2588,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
 8	yi	yi	VERB	_	_	7	comp:aux	_	Gloss=do
-9	ta	ta	PART	_	Aspect=Iter|PartType=Adv	8	compound:prt	_	Gloss=Iter
+9	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	8	compound:prt	_	Gloss=Iter
 10	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=story.Masc|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 
@@ -2754,7 +2754,7 @@
 4	bar̃ar̃oːjì	bar̃ar̃oːjì	PROPN	_	Number=Plur	3	flat@name	_	Gloss=Bororo.Plur
 5	suː	suː	PRON	_	Number=Plur|Person=3	22	dislocated@top	_	Gloss=3Plur
 6	kâu	kàu	PART	_	PartType=Top	5	discourse@top	_	Gloss=whereas
-7	taːsù	taːsù	PRON	_	Case=Gen|Gender=Fem|PartType=Case|Poss=Yes|PronType=Pers	8	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3
+7	taːsù	taːsù	PRON	_	Gender=Fem|Poss=Yes|PronType=Pers	8	mod@poss	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3
 8	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	22	dislocated@top	_	Gloss=custom.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 10	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	22	dislocated@top	_	Gloss=youth.Plur

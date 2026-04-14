@@ -1391,7 +1391,7 @@
 13	kik	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	12	comp:obj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/take_to
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
-16	naːtà	naːtà	PRON	_	Case=Gen|Gender=Masc|PartType=Case|Poss=Yes|PronType=Pers	14	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|SpaceAfter=No
+16	naːtà	naːtà	PRON	_	Gender=Masc|Poss=Yes|PronType=Pers	14	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	kih	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	13	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 19	hwaɗàː	hwaɗàː	VERB	_	_	18	comp:aux	_	Gloss=tell
@@ -2611,7 +2611,7 @@
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	2	parataxis@conj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
-8	ta	ta	PART	_	Aspect=Iter|PartType=Adv	7	compound:prt	_	Gloss=Iter
+8	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	7	compound:prt	_	Gloss=Iter
 9	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=chatting.Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -3295,7 +3295,7 @@
 14	kuːkaː	kuːkaː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=crying.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	parataxis@conj	_	Gloss=3Fem.Prog
-17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	Gloss=Iter
+17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	16	compound:prt	_	Gloss=Iter
 18	ƙaːraː	ƙaːraː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	16	comp:aux	_	Gloss=cry_out.Nmlz.Fem|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.Prog
@@ -4004,7 +4004,7 @@
 16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	12	parataxis@mod	_	Gloss=3Fem.Sub
 17	bâkkaː	bâkkaː	VERB	_	_	16	comp:aux	_	Gloss=give.Dir
 18	su	su	PRON	_	Person=3	17	comp:obj@R	_	Gloss=3.Pl
-19	naːsù	naːsù	PRON	_	Case=Gen|Gender=Masc|PartType=Case|Poss=Yes|PronType=Pers	20	mod	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3
+19	naːsù	naːsù	PRON	_	Gender=Masc|Poss=Yes|PronType=Pers	20	mod	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3
 20	jìmɓiriː	jìmɓiriː	NOUN	_	Gender=Masc	17	comp:obj@T	_	Gloss=green_beans.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -4038,7 +4038,7 @@
 21	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	16	parataxis@conj	_	Gloss=2Fem.Sub
 22	baː	baː	VERB	_	_	21	comp:aux	_	Gloss=give
 23	mù	mù	PRON	_	Number=Plur|Person=1	22	comp:obj@R	_	Gloss=1Plur
-24	naːmù	naːmù	PRON	_	Case=Gen|Gender=Masc|PartType=Case|Poss=Yes|PronType=Pers	22	comp:obj@T	_	CaseAf=Gen|Gloss=Gen.Masc-1PlurGen|MSeg=naː-mù|NumberAf=Plur|PersonAf=1|SpaceAfter=No
+24	naːmù	naːmù	PRON	_	Gender=Masc|Poss=Yes|PronType=Pers	22	comp:obj@T	_	CaseAf=Gen|Gloss=Gen.Masc-1PlurGen|MSeg=naː-mù|NumberAf=Plur|PersonAf=1|SpaceAfter=No
 25	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_134-134_split1

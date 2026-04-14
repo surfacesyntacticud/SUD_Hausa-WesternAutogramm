@@ -541,7 +541,7 @@
 14	tahoː	tàhi	VERB	_	_	13	comp:aux	_	Gloss=go.Dir|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	parataxis@conj	_	Gloss=3Fem.Prog
-17	ta	ta	PART	_	Aspect=Iter|PartType=Adv	16	compound:prt	_	Gloss=Iter
+17	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	16	compound:prt	_	Gloss=Iter
 18	mur̃nàː	mur̃nàː	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=joy.Fem|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	16	parataxis@conj	_	Gloss=3Fem.Perf
@@ -650,7 +650,7 @@
 17	mùtun	mùtun	NOUN	_	Gender=Masc	18	subj	_	Gloss=person.Masc
 18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
-20	ta	ta	PART	_	Aspect=Iter|PartType=Adv	19	compound:prt	_	Gloss=Iter
+20	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	19	compound:prt	_	Gloss=Iter
 21	zuhwàː	zuhwàː	NOUN	_	Gender=Fem	19	comp:pred	_	Gloss=perspiration.Fem|SpaceAfter=No
 22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
 23	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	18	parataxis	_	Gloss=there_is.Neg
@@ -986,7 +986,7 @@
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
 1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog.do
-2	ta	ta	PART	_	Aspect=Iter|PartType=Adv	1	compound:prt	_	Gloss=Iter
+2	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	1	compound:prt	_	Gloss=Iter
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	1	comp:obl	_	Gloss=3Fem.Dat
 4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	1	comp:pred	_	Gloss=farting.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -998,7 +998,7 @@
 10	yawàː	yawàː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=quantity.Masc|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	7	parataxis@conj	_	Gloss=3Fem.Prog
-13	ta	ta	PART	_	Aspect=Iter|PartType=Adv	12	compound:prt	_	Gloss=Iter
+13	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	12	compound:prt	_	Gloss=Iter
 14	twàːriː	twàːriː	NOUN	_	Gender=Masc	12	comp:aux	_	Gloss=coughing.Masc
 15	cikin	cikin	ADP	_	_	14	mod	_	Gloss=in(side)
 16	zanèː	zanèː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
@@ -1208,7 +1208,7 @@
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 24	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	20	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
-26	ta	ta	PART	_	Aspect=Iter|PartType=Adv	25	compound:prt	_	Gloss=Iter
+26	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	25	compound:prt	_	Gloss=Iter
 27	mutà	mutà	PRON	_	Gender=Fem|Person=3	25	comp:obl	_	Gloss=3Fem.Dat
 28	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	25	comp:pred	_	Gloss=farting.Fem|SpaceAfter=No
 29	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -1265,7 +1265,7 @@
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	2	comp:obj	_	Gloss=3Masc.Sub
 4	yi	yi	VERB	_	_	3	comp:aux	_	Gloss=do
-5	ta	ta	PART	_	Aspect=Iter|PartType=Adv	4	compound:prt	_	Gloss=Iter
+5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	4	compound:prt	_	Gloss=Iter
 6	tàhiyàː	tàhiyàː	VERB	_	ExtPos=NOUN|Gender=Fem	4	comp:pred	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3	3	dislocated@subj	_	Gloss=3Masc
