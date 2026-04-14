@@ -647,8 +647,8 @@
 2	wata	wata	DET	_	Gender=Fem	3	det	_	Gloss=some.Fem
 3	s'oːhuwaː	s'oːhuwaː	NOUN	_	Gender=Fem	1	subj	_	Gloss=old_woman.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	mài	mài	PART	_	Number=Sing|PartType=Pred	3	mod	_	Gloss=owner_of.Sing
-6	saidà	saidàː	VERB	_	_	5	comp.pred	_	Gloss=sell
+5	mài	mài	PART	_	Number=Sing|PartType=Der	3	mod	_	Gloss=owner_of.Sing
+6	saidà	saidàː	VERB	_	_	5	compound	_	Gloss=sell
 7	dàudawaː	dàudawaː	NOUN	_	Gender=Fem	6	comp:obj	_	Gloss=condiment_sp.Fem|SpaceAfter=No
 8	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 9	kullun	kullun	ADV	_	_	10	mod	_	Gloss=always
@@ -1090,8 +1090,8 @@
 12	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 13	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 14	ga	ganiː	VERB	_	_	13	comp:aux	_	Gloss=see
-15	mài	mài	PART	_	Number=Sing|PartType=Pred	14	comp:obj	_	Gloss=owner_of.Sing
-16	tàllad	tàlla	NOUN	_	Definite=Cons|Gender=Fem	15	comp.pred	_	Gloss=hawking_wares.Fem
+15	mài	mài	PART	_	Number=Sing|PartType=Der	14	comp:obj	_	Gloss=owner_of.Sing
+16	tàllad	tàlla	NOUN	_	Definite=Cons|Gender=Fem	15	compound	_	Gloss=hawking_wares.Fem
 17	dàudawaː	dàudawaː	NOUN	_	Definite=Cons	16	udep	_	Gloss=daudawa
 18	yay	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	13	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 19	yi	yi	VERB	_	_	18	comp:aux	_	Gloss=do
@@ -2508,8 +2508,8 @@
 21	gàriː	gàriː	NOUN	_	Gender=Masc	20	mod	_	Gloss=town.Masc|SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 23	dum	duk	DET	_	_	24	det	_	Gloss=all
-24	mài	mài	PART	_	Number=Sing|PartType=Pred	20	conj:appos	_	Gloss=owner_of.Sing
-25	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	comp.pred	_	Gloss=go.Nmlz.Masc
+24	mài	mài	PART	_	Number=Sing|PartType=Der	20	conj:appos	_	Gloss=owner_of.Sing
+25	zuwàː	zuwàː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	24	compound	_	Gloss=go.Nmlz.Masc
 26	wurin	wurin	ADP	_	_	25	comp:obl	_	Gloss=at
 27	iːdì:	iːdì:	NOUN	_	Gender=Masc	26	mod	_	Gloss=ceremony.Masc|SpaceAfter=No
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
@@ -3672,8 +3672,8 @@
 # text_ortho = ɗanyen waakee mài kwàlhwaa, šii ’aj jìmɓiᵲii.
 1	ɗanyen	ɗanyeː	ADJ	_	Definite=Cons|Gender=Masc	2	mod	_	Gloss=green/unripe.Masc
 2	waːkeː	waːkeː	NOUN	_	Gender=Masc	6	dislocated@subj	_	Gloss=beans.Masc
-3	mài	mài	PART	_	Number=Sing|PartType=Pred	2	mod	_	Gloss=owner_of.Sing
-4	kwàlhwaː	kwàlhwaː	NOUN	_	Gender=Fem	3	comp.pred	_	Gloss=nutshell.Fem|SpaceAfter=No
+3	mài	mài	PART	_	Number=Sing|PartType=Der	2	mod	_	Gloss=owner_of.Sing
+4	kwàlhwaː	kwàlhwaː	NOUN	_	Gender=Fem	3	compound	_	Gloss=nutshell.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
 7	aj	neː	AUX	_	_	6	comp:cleft	_	Copula=Yes|Gloss=Ident.Rel|Relative=Yes
