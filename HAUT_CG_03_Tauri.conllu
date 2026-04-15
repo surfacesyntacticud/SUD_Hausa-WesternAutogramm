@@ -53,7 +53,7 @@
 9	laːyàː	laːyàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=charm.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	20	mod	_	Gloss=if
-12	tanàː	kè	AUX	_	Aspect=Prog|Gender=Fem|Person=3	11	comp:obj	_	Gloss=3Fem.Prog
+12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	11	comp:obj	_	Gloss=3Fem.Prog
 13	gà	gà	ADP	_	_	12	comp:pred	_	Gloss=at
 14	jìkim	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=body.Masc
 15	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=person.Masc|SpaceAfter=No
@@ -311,7 +311,7 @@
 # text_en = As they are, if they are dry, however strong you are, you won't succeed in gnawing them with your teeth, except if you pound them.
 # text_ortho = wa’àndà su kè, ’in sum bušèe, koomii ƙaᵲhim mùtun, baà ši ’iyà gùᵲguᵲàssù dà haƙooᵲii, sai dai ’à dakàa.
 1	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	12	mod	_	Gloss=who.Plur
-2	sukè	kè	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	mod@relcl	_	Gloss=3.Pl.Prog.Rel|Relative=Yes|SpaceAfter=No
+2	sukè	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	mod@relcl	_	Gloss=3.Pl.Prog.Rel|Relative=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	in	in	SCONJ	_	_	12	mod	_	Gloss=if
 5	sum	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	4	comp:obj	_	Gloss=3Plur.Perf
@@ -2202,7 +2202,7 @@
 12	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	conj:coord	_	Gloss=3Masc.Perf
 13	ga	ganiː	VERB	_	_	12	comp:aux	_	Gloss=see
 14	indà	indà	PRON	_	_	13	comp:obj	_	Gloss=where
-15	takè	kè	AUX	_	Aspect=Prog|Gender=Fem|Person=3	14	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes|SpaceAfter=No
+15	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	14	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes|SpaceAfter=No
 16	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 17	sai	sai	ADV	_	_	18	mod	_	Gloss=then
 18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	0	root	_	Gloss=3Masc.Sub
@@ -2302,7 +2302,7 @@
 11	bìɗa’	bìɗaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	10	comp:pred	_	Gloss=look_for.Nmlz.Fem
 12	indà	indà	ADV	_	_	11	udep	_	Gloss=where
 13	lòːdaː	lòːdaː	NOUN	_	Gender=Fem	14	subj	_	Gloss=plant_sp.Fem
-14	takè	kè	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes|SpaceAfter=No
+14	takè	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	bàː-shèːkaràː-s'àye-ba	bàː-shèːkaràː-s'àye-ba	NOUN	_	Gender=Fem	14	dislocated@subj	_	Gloss=plant_sp.Fem|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
@@ -2785,7 +2785,7 @@
 18	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=charm.Masc.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 20	in	in	SCONJ	_	_	34	mod	_	Gloss=if
-21	shinàː	kè	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	comp:obj	_	Gloss=3Masc.Prog
+21	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	comp:obj	_	Gloss=3Masc.Prog
 22	gà	gà	ADP	_	_	21	comp:pred	_	Gloss=at
 23	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|Poss=Yes|SpaceAfter=No
 24	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
@@ -3425,7 +3425,7 @@
 # text_en = If it is on you body, whatever metal won't pierce your body.
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	shinàː	kè	AUX	_	Aspect=Prog|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Prog
+2	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Prog
 3	gà	gà	ADP	_	_	2	comp:pred	_	Gloss=at
 4	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|Poss=Yes|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
