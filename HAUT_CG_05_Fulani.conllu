@@ -502,13 +502,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 17000, 18000
-# text = dàc can àboːkiːnai nàː làɓe , cikin itàːceː .
+# text = dàc can àboːkiːnai nàː làɓe, cikin itàːceː.
 # text_en = From there, his friend is hidden in the trees.
 # text_ortho = dàc can ’àbookiinai nàa làɓe, cikin ’itàacee.
 1	dàc	dàgà	ADP	_	_	4	mod	_	Gloss=from
 2	can	can	ADV	_	Deixis=Remt|PronType=Dem	1	comp:obj	_	Gloss=Remt
 3	àboːkiːnai	àboːkiː	NOUN	_	Gender=Masc	4	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=friend.Masc.Cons-3MascGen|MSeg=àboːkiːn-ai|PersonAf=3|Poss=Yes
-4	nàː	kè	AUX	_	_	0	root	_	Copula=Yes|Gloss=Pred/Loc
+4	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
 5	làɓe	laɓèː	VERB	_	ExtPos=ADV|VerbForm=Part	4	comp:pred	_	Gloss=hide.Part|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	cikin	cikin	ADP	_	_	4	mod	_	Gloss=in(side)
@@ -519,14 +519,14 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_04_Fulani_Mother-in-law.WAV
 # sent_timecode = 18000, 19000
-# text = sàràkkuwaːtai bàtà san àboːkiːnai nàː nam ba .
+# text = sàràkkuwaːtai bàtà san àboːkiːnai nàː nam ba.
 # text_en = The mother-in-law does not know that his friend is there.
 # text_ortho = sàᵲàkkuwaatai bà tà san ’àbookiinai nàa nam ba.
 1	sàràkkuwaːtai	sàràkkuwaː	NOUN	_	Gender=Fem	2	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=in-law.Fem.Cons-3MascGen|MSeg=sàràkkuwaːt-ai|PersonAf=3|Poss=Yes
 2	bàtà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.PerfNeg
 3	san	sanìː	VERB	_	_	2	comp:aux	_	Gloss=know
 4	àboːkiːnai	àboːkiː	NOUN	_	Gender=Masc	5	subj	_	CaseAf=Gen|GenderAf=Masc|Gloss=friend.Masc.Cons-3MascGen|MSeg=àboːkiːn-ai|PersonAf=3|Poss=Yes
-5	nàː	kè	AUX	_	_	3	comp:obj	_	Copula=Yes|Gloss=Pred/Loc
+5	nàː	nàː	AUX	_	Aspect=Prog	3	comp:obj	_	Gloss=Prog
 6	nam	nan	ADV	_	Deixis=ProxH|PronType=Dem	5	comp:pred	_	Gloss=Remt
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	Gloss=Neg|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.

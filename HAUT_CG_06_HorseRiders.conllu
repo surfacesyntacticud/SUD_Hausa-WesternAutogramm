@@ -43,7 +43,7 @@
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	Gloss=one
 8	kâu	kàu	PART	_	PartType=Top	7	discourse@top	_	Gloss=whereas
-9	bâːshi	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	3	parataxis@conj	_	Copula=Yes|Gloss=3Sing.Pred/loc.Neg
+9	bâːshi	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	3	parataxis@conj	_	Gloss=3Sing.Prog.Neg
 10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
 11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -107,12 +107,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 4000, 5000
-# text = koː mijìntà nàː nan , in tag ga mài doːkìː yaː wucèː , sai tà yi dàːriyaː , tà cêː : màːtam mài doːkìː taː ji daːɗintà .
+# text = koː mijìntà nàː nan, in tag ga mài doːkìː yaː wucèː, sai tà yi dàːriyaː, tà cêː : màːtam mài doːkìː taː ji daːɗintà.
 # text_en = Even if her husband was there, if she saw the rider ride pass, she would laugh and say that the rider's wife was lucky.
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	15	mod	_	Gloss=even_if
 2	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem	3	subj	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3|Poss=Yes
-3	nàː	kè	AUX	_	_	1	comp:obj	_	Copula=Yes|Gloss=Pred/Loc
+3	nàː	kè	AUX	_	Aspect=Prog	1	comp:obj	_	Gloss=Prog
 4	nan	nan	ADV	_	Definite=Def|PronType=Dem	3	comp:pred	_	Gloss=Def|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
@@ -175,7 +175,7 @@
 # text = anà nan zaman duːniyàː, kullun tanàː mai hakànan, ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
-1	anà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod	_	Copula=Yes|Gloss=4.Pred/Loc
+1	anà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod	_	Gloss=4.Prog
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
 3	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	1	comp:aux	_	Gloss=stay.Nmlz.Masc.Cons
 4	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	3	udep	_	Gloss=world.Fem|SpaceAfter=No
