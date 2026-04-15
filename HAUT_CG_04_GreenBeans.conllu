@@ -5,7 +5,7 @@
 # text = wânga dai wani maːlàmiː neː .
 # text_en = This is (the story of) a malam [Islamic teacher].
 # text_ortho = waǹga dai wani maalàmii nèe.
-1	wânga	wânga	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	5	dislocated@subj	_	Gloss=Prox.Masc
+1	wânga	wânga	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	5	dislocated@subj	_	Gloss=ProxS.Masc
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=however
 3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc
 4	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=malam.Masc
@@ -858,7 +858,7 @@
 7	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 8-9	màccênga	_	_	_	_	_	_	_	_
 8	màccên	màcce	NOUN	_	Definite=Cons|Gender=Fem	13	subj	_	Gloss=woman.Fem.Cons
-9	ga	ga	DET	_	Deixis=Prox|PronType=Dem	8	det	_	Gloss=Prox
+9	ga	ga	DET	_	Deixis=ProxS|PronType=Dem	8	det	_	Gloss=ProxS
 10	ta	na	PART	_	Case=Gen|Gender=Fem|PartType=Case	8	mod	_	Gloss=Gen.Fem
 11	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
@@ -1806,7 +1806,7 @@
 8-9	bakkì	_	_	_	_	_	_	_	_
 8	bak	baːyar̃	VERB	_	_	7	mod	_	Gloss=give
 9	kì	ki	PRON	_	Gender=Fem|Person=2	8	comp:obj@R	_	Gloss=2Fem
-10	wa’ànga	wa’ànga	DET	_	Deixis=Prox|Number=Plur|PronType=Dem	11	det	_	Gloss=Prox.Plur
+10	wa’ànga	wa’ànga	DET	_	Deixis=ProxS|Number=Plur|PronType=Dem	11	det	_	Gloss=ProxS.Plur
 11	kaːyaː	kaːyaː	NOUN	_	Gender=Masc	8	comp:obj@T	_	Gloss=things.Masc
 12	kik	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	11	parataxis@mod	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 13	kaːwoː	kai	VERB	_	_	12	comp:aux	_	Gloss=reach/take_to.Dir
@@ -1826,7 +1826,7 @@
 4	sarkin	sarkiː	NOUN	_	Definite=Cons|Gender=Masc	3	mod	_	Gloss=chief.Masc
 5-6	gàrînga	_	_	_	_	_	_	_	_
 5	gàrîn	gàriː	NOUN	_	Definite=Cons|Gender=Masc	4	udep	_	Gloss=town.Masc.Cons
-6	ga	ga	DET	_	Deixis=Prox|PronType=Dem	5	det	_	Gloss=Prox
+6	ga	ga	DET	_	Deixis=ProxS|PronType=Dem	5	det	_	Gloss=ProxS
 7	shiː	shiː	PRON	_	Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc
 8	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	comp:cleft	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 9-10	bannì	_	_	_	_	_	_	_	_
@@ -3170,7 +3170,7 @@
 2	miː	miː	PRON	_	_	1	comp:obj	_	Gloss=what.Int
 3	zâːka	zâi	AUX	_	Gender=Masc|Person=2|Tense=Fut	1	comp:cleft	_	Gloss=Fut.2Masc
 4	zôwwaː	zoː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=come.Nmlz.Fem
-5	nân	nân	ADV	_	Definite=Cons|Deixis=Prox|PronType=Dem	4	comp:obj@G	_	Gloss=Prox
+5	nân	nân	ADV	_	Definite=Cons|Deixis=ProxS|PronType=Dem	4	comp:obj@G	_	Gloss=ProxS
 6	wuriːnaː	wuriː	ADP	_	Gender=Masc|Poss=Yes	5	mod	_	CaseAf=Gen|Gloss=place.Masc.Cons-1SingGen|MSeg=wuriːn-aː|NumberAf=Sing|PersonAf=1|wordform=wuriːn
 7	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	4	mod	_	Gloss=2Masc.Aor.[Sub
 8	mun	minì	PRON	_	Person=1	7	comp:obl	_	Gloss=1Sing.Dat
@@ -3260,7 +3260,7 @@
 11	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	13	comp:obj	_	Gloss=who.Masc
 12	nib	yaː	AUX	_	Aspect=Perf|Person=1	9	mod@relcl	_	Gloss=1Sing.Perf.Rel|Relative=Yes
 13	barì:	barì:	VERB	_	_	12	comp:aux	_	Gloss=let/leave
-14	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	13	mod	_	Gloss=Prox|SpaceAfter=No
+14	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	13	mod	_	Gloss=ProxS|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 16	kic	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	12	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 17	cêː	cêː	VERB	_	_	16	comp:aux	_	Gloss=say
@@ -3965,7 +3965,7 @@
 11	nasar̃àː	nasar̃àː	NOUN	_	Gender=Fem	9	comp:obj@T	_	Gloss=luck/success.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
 13	cikin	cikin	ADP	_	_	21	mod	_	Gloss=in(side)
-14	wânga	wânga	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	15	det	_	Gloss=Prox.Masc
+14	wânga	wânga	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	det	_	Gloss=ProxS.Masc
 15	raːniː	raːniː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=dry_season.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 17	na	na	PART	_	Case=Gen|PartType=Case	15	mod	_	Gloss=Gen
@@ -4075,7 +4075,7 @@
 # text_en = In this dry season, where is there any green beans?
 # text_ortho = cikin waǹga ᵲaanii, ’ìnaa ’ad dà jìmɓiᵲii ?
 1	cikin	cikin	ADP	_	_	5	mod	_	Gloss=in(side)
-2	wânga	wânga	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	3	det	_	Gloss=Prox.Masc
+2	wânga	wânga	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	3	det	_	Gloss=ProxS.Masc
 3	raːniː	raːniː	NOUN	_	Gender=Masc	1	comp:obj	_	Gloss=dry_season.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	ìnaː	ìnaː	ADV	_	_	0	root	_	Gloss=where.Int

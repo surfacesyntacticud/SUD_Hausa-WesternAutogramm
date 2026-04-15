@@ -2,10 +2,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 0, 1000
-# text = wa’ànnàn wasu mutàːneː neː .
+# text = wa’ànnàn wasu mutàːneː neː.
 # text_en = This is (the story of) some men.
 # text_ortho = wa’ànnàn wa’ansu mutàanee nèe.
-1	wa’ànnàn	wa’ànnàn	PRON	_	Deixis=Prox|Number=Plur|PronType=Dem	4	subj	_	Gloss=Prox.Plur
+1	wa’ànnàn	wa’ànnàn	PRON	_	Deixis=ProxS|Number=Plur|PronType=Dem	4	subj	_	Gloss=ProxS.Plur
 2	wasu	wani	DET	_	Number=Plur	3	det	_	Gloss=some.Plur
 3	mutàːneː	mutàːneː	NOUN	_	Number=Plur	4	comp:pred	_	Gloss=people.Plur
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
@@ -32,10 +32,10 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 1000, 2000
-# text = wannàn gùdaː shinàː dà doːkìː , gùdaː kâu bâː shi dà doːkìː .
+# text = wannàn gùdaː shinàː dà doːkìː, gùdaː kâu bâːshi dà doːkìː.
 # text_en = This one has a horse, but that one does not.
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
-1	wannàn	wannàn	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	2	det	_	Gloss=Prox.Masc
+1	wannàn	wannàn	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	Gloss=one
 3	shinàː	kè	AUX	_	Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Pred/Loc
 4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
@@ -739,7 +739,7 @@
 7	yaɗ	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 8	ɗaukoː	ɗaukaː	VERB	_	_	7	comp:aux	_	Gloss=take.Dir
 9	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	8	comp:obj	_	Gloss=wrapper.Masc.Cons
-10	ga	ga	DET	_	Deixis=Prox|PronType=Dem	9	det	_	Gloss=Prox
+10	ga	ga	DET	_	Deixis=ProxS|PronType=Dem	9	det	_	Gloss=ProxS
 11	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	Gloss=owner_of.Sing
 12	kabriː	kabriː	NOUN	_	Gender=Masc	11	compound	_	Gloss=thickness.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -858,7 +858,7 @@
 3	tàhiyàː	tàhi	VERB	_	ExtPos=NOUN|Gender=Fem	2	comp:aux	_	Gloss=go.Nmlz.Fem|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	dàn	dàgà	ADP	_	_	10	mod	_	Gloss=from
-6	nân	nân	ADV	_	Deixis=Prox|PronType=Dem	5	comp:obj	_	Gloss=Prox
+6	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	5	comp:obj	_	Gloss=ProxS
 7	gidaː	gidaː	NOUN	_	Gender=Masc	6	mod	_	Gloss=house.Masc|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	10	mod	_	Gloss=then

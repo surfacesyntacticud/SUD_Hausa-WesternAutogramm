@@ -563,7 +563,7 @@
 # text = wa’ànnan itaːtuwaː dà munkà zaːnàː , yawancin loːkàciː , suː màːsu aikìn tauri , dà suː sukà aikìː .
 # text_en = Those trees that we named, most of the time, those who make toughness medicines, it's them they use.
 # text_ortho = wa’ànnan ’itaatuwaa dà munkà zaanàa, yawancin lookàcii, suu màasu ’aikìn tauᵲi, dà suu su kà ’aikìi.
-1	wa’ànnan	wa’ànnan	DET	_	Deixis=Remt|Number=Plur|PronType=Dem	2	det	_	Gloss=Remt.Plur
+1	wa’ànnan	wa’ànnan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	2	det	_	Gloss=ProxH.Plur
 2	itaːtuwaː	itaːtuwaː	NOUN	_	Number=Plur	15	dislocated@comp	_	Gloss=tree.Plur
 3	dà	dà	SCONJ	_	_	2	mod@relcl	_	Gloss=that
 4	munkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=1	3	comp:obj	_	Gloss=1Plur.Perf.Rel|Relative=Yes
@@ -1485,7 +1485,7 @@
 17	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	15	parataxis	_	Gloss=3Masc.Sub
 18	azàː	azàː	VERB	_	_	17	comp:aux	_	Gloss=put|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-20	nam	nan	ADV	_	Deixis=Remt|PronType=Dem	18	comp:obl	_	Gloss=Remt
+20	nam	nan	ADV	_	Deixis=ProxH|PronType=Dem	18	comp:obl	_	Gloss=Remt
 21	bisà	bisà	ADP	_	_	20	mod	_	Gloss=on_top_of
 22	saːyèn	saːyèː	NOUN	_	Definite=Cons|Gender=Masc	21	comp:obj	_	Gloss=root.Masc
 23	runhuː	runhuː	NOUN	_	Gender=Masc	22	mod	_	Gloss=tree_sp.Masc|SpaceAfter=No
@@ -2117,7 +2117,7 @@
 3	mùtun	mùtun	NOUN	_	Gender=Masc	4	subj	_	Gloss=person.Masc
 4	yash	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 5	shaː	shaː	VERB	_	_	4	comp:aux	_	Gloss=drink
-6	wânnan	wânnan	PRON	_	Deixis=Prox|Gender=Masc|PronType=Dem	5	comp:obj	_	Gloss=Prox.Masc/Fem|SpaceAfter=No
+6	wânnan	wânnan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	5	comp:obj	_	Gloss=ProxH.Masc|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	ƙarhèː	ƙarhèː	NOUN	_	Gender=Masc	9	subj	_	Gloss=iron.Masc
 9	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -2173,7 +2173,7 @@
 9	ta	ta	PRON	_	Gender=Fem|Person=3	8	comp:obj	_	Gloss=3Fem
 10	akà	nàː	AUX	_	Aspect=Prog|Person=4	8	comp:cleft	_	Gloss=4.Prog.Rel|Relative=Yes
 11	ɗiːbàw	ɗiːbàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	10	comp:aux	_	Gloss=take.Nmlz.Fem
-12	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	13	det	_	Gloss=Prox.Masc/Fem
+12	wânnam	wânnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	13	det	_	Gloss=ProxH.Masc
 13	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	11	udep	_	Gloss=charm.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 15	na	na	PART	_	Case=Gen|PartType=Case	13	mod	_	Gloss=Gen
@@ -2218,7 +2218,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 29	sabòːdà	sabòːdà	SCONJ	_	_	24	mod	_	Gloss=because
 30	shiː	shiː	PRON	_	Gender=Masc|Person=3	46	dislocated@top	_	Gloss=3Masc
-31	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	32	det	_	Gloss=Prox.Masc/Fem
+31	wânnam	wânnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	32	det	_	Gloss=ProxH.Masc
 32	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	30	conj:appos	_	Gloss=charm.Masc|SpaceAfter=No
 33	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 34	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	36	comp:obj	_	Gloss=who.Masc
@@ -2620,7 +2620,7 @@
 12	gà	gà	ADP	_	_	11	comp:obj	_	Gloss=at
 13	jìkiːnai	jìkiː	NOUN	_	Gender=Masc|Poss=Yes	12	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-3MascGen|MSeg=jìkiːn-ai|PersonAf=3
 14	gà	gà	ADP	_	_	9	mod	_	Gloss=at
-15	wânnan	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	16	det	_	Gloss=Prox.Masc/Fem
+15	wânnan	wânnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	16	det	_	Gloss=ProxH.Masc
 16	darên	dareː	NOUN	_	Definite=Def|Gender=Masc	14	comp:obj	_	Gloss=night.Masc.Def|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis	_	Gloss=3Masc.Sub
@@ -2724,7 +2724,7 @@
 33	mùtun	mùtun	NOUN	_	Gender=Masc	34	dislocated@subj	_	Gloss=person.Masc
 34	zâːshi	zâi	AUX	_	Gender=Masc|Person=3|Tense=Fut	32	comp:obj	_	Gloss=Fut.3Masc
 35	ɗiːbàw	ɗìbaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	34	comp:aux	_	Gloss=take.Nmlz.Fem
-36	wânnam	wânnan	DET	_	Deixis=Prox|Gender=Masc|PronType=Dem	37	det	_	Gloss=Prox.Masc/Fem
+36	wânnam	wânnan	DET	_	Deixis=ProxH|Gender=Masc|PronType=Dem	37	det	_	Gloss=ProxH.Masc
 37	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	35	comp:obj	_	Gloss=charm.Masc|SpaceAfter=No
 38	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 39	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -3020,7 +3020,7 @@
 11	bisà	bisà	ADP	_	_	9	comp:obl	_	Gloss=on_top_of
 12	duːc'ìː	duːc'ìː	NOUN	_	Gender=Masc	11	comp:obj	_	Gloss=stone.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	wânnan	wânnan	PRON	_	Deixis=Prox|Gender=Masc|PronType=Dem	12	conj:appos	_	Gloss=Prox.Masc/Fem
+14	wânnan	wânnan	PRON	_	Deixis=ProxH|Gender=Masc|PronType=Dem	12	conj:appos	_	Gloss=ProxH.Masc
 15	dà	dà	SCONJ	_	_	14	mod@relcl	_	Gloss=that
 16	kad	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	15	comp:obj	_	Gloss=2Masc.Perf.Rel|Relative=Yes
 17	daːc'èː	daːc'èː	VERB	_	_	16	comp:aux	_	Gloss=chop_off|SpaceAfter=No
