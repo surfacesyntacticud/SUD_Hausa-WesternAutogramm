@@ -7,7 +7,7 @@
 # text_ortho = waǹga dai wani maalàmii nèe.
 1	wânga	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	5	dislocated@subj	_	Gloss=ProxS.Masc
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	Gloss=however
-3	wani	wani	DET	_	Definite=Spec|Gender=Masc	4	det	_	Gloss=some.Masc
+3	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	4	det	_	Gloss=some.Masc
 4	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	5	comp:pred	_	Gloss=malam.Masc
 5	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Gloss=PUNCT
@@ -134,7 +134,7 @@
 19	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
 20	sai	sai	ADV	_	_	23	mod	_	Gloss=then
 21	màːtaw	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	23	subj	_	Gloss=wife.Fem
-22	wani	wani	DET	_	Definite=Spec|Gender=Masc	21	det	_	Gloss=some.Masc
+22	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	21	det	_	Gloss=some.Masc
 23	tah	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 24	haihù	haihù	VERB	_	_	23	comp:aux	_	Gloss=give_birth|SpaceAfter=No
 25	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
@@ -512,11 +512,11 @@
 27	kât	kaɗà	PART	_	PartType=Neg|Polarity=Neg	28	mod	_	Gloss=Neg
 28	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	23	mod	_	Gloss=3Fem.Sub
 29	ga	ganiː	VERB	_	_	28	comp:aux	_	Gloss=see
-30	wasu	wani	DET	_	Number=Plur	31	det	_	Gloss=some.Plur
+30	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	31	det	_	Gloss=some.Plur
 31	mutàːneː	mutàːneː	NOUN	_	Number=Plur	29	comp:obj	_	Gloss=people.Plur|SpaceAfter=No
 32	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
 33	koː	koː	CCONJ	_	_	35	cc	_	Gloss=or
-34	wasu	wani	DET	_	Number=Plur	35	det	_	Gloss=some.Plur
+34	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	35	det	_	Gloss=some.Plur
 35	maːtaː	maːtaː	NOUN	_	Number=Plur	31	conj:coord	_	Gloss=woman.Plur|SpaceAfter=No
 36	,	,	PUNCT	_	_	37	punct	_	Gloss=PUNCT
 37	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	28	parataxis@conj	_	Gloss=3Plur.Sub
@@ -966,7 +966,7 @@
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 8	tàmbàyi	tàmbayàː	VERB	_	_	7	comp:aux	_	Gloss=ask
-9	wasu	wani	DET	_	Number=Plur	10	det	_	Gloss=some.Plur
+9	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	10	det	_	Gloss=some.Plur
 10	mutàːneː	mutàːneː	NOUN	_	Number=Plur	8	comp:obj	_	Gloss=people.Plur|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	7	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -1391,7 +1391,7 @@
 13	kik	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	12	comp:obj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 14	kai	kai	VERB	_	_	13	comp:aux	_	Gloss=reach/take_to
 15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
-16	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Pers	14	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+16	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Prs	14	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	kih	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	13	parataxis@conj	_	Gloss=2Fem.Perf.Rel|Relative=Yes
 19	hwaɗàː	hwaɗàː	VERB	_	_	18	comp:aux	_	Gloss=tell
@@ -2086,7 +2086,7 @@
 26	ìn	yà	AUX	_	Mood=Sub|Person=1	25	parataxis@mod	_	Gloss=1Sing.Sub
 27	baː	baː	VERB	_	_	26	comp:obj	_	Gloss=give
 28	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	27	comp:obj@R	_	Gloss=2Fem.Sub
-29	wani	wani	DET	_	Definite=Spec|Gender=Masc	30	det	_	Gloss=some.Masc
+29	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	30	det	_	Gloss=some.Masc
 30	àbù	àbù	NOUN	_	Gender=Masc	27	comp:obj@T	_	Gloss=thing.Masc|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	30	parataxis@mod	_	Gloss=2Fem.Sub
@@ -4004,7 +4004,7 @@
 16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	12	parataxis@mod	_	Gloss=3Fem.Sub
 17	bâkkaː	bâkkaː	VERB	_	_	16	comp:aux	_	Gloss=give.Dir
 18	su	su	PRON	_	Person=3	17	comp:obj@R	_	Gloss=3.Pl
-19	naːsù	naːsù	PRON	_	Gender=Masc|PronType=Pers	20	mod	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
+19	naːsù	naːsù	PRON	_	Gender=Masc|PronType=Prs	20	mod	_	CaseAf=Gen|Gloss=Gen.Masc-3PlurGen|MSeg=naː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 20	jìmɓiriː	jìmɓiriː	NOUN	_	Gender=Masc	17	comp:obj@T	_	Gloss=green_beans.Masc|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
@@ -4038,7 +4038,7 @@
 21	kì	yà	AUX	_	Gender=Fem|Mood=Sub|Person=2	16	parataxis@conj	_	Gloss=2Fem.Sub
 22	baː	baː	VERB	_	_	21	comp:aux	_	Gloss=give
 23	mù	mù	PRON	_	Number=Plur|Person=1	22	comp:obj@R	_	Gloss=1Plur
-24	naːmù	naːmù	PRON	_	Gender=Masc|PronType=Pers	22	comp:obj@T	_	CaseAf=Gen|Gloss=Gen.Masc-1PlurGen|MSeg=naː-mù|NumberAf=Plur|PersonAf=1|Poss=Yes|SpaceAfter=No
+24	naːmù	naːmù	PRON	_	Gender=Masc|PronType=Prs	22	comp:obj@T	_	CaseAf=Gen|Gloss=Gen.Masc-1PlurGen|MSeg=naː-mù|NumberAf=Plur|PersonAf=1|Poss=Yes|SpaceAfter=No
 25	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_134-134_split1

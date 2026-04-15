@@ -158,7 +158,7 @@
 7	yi	yi	VERB	_	_	6	comp:aux	_	Gloss=do
 8	shì	shi	PRON	_	Gender=Masc|Person=3	7	comp:obj	_	Gloss=3Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-10	wani	wani	PRON	_	Definite=Spec|Gender=Masc	12	dislocated@comp	_	Gloss=some.Masc
+10	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	12	dislocated@comp	_	Gloss=some.Masc
 11	sai	sai	ADV	_	_	12	mod	_	Gloss=then
 12	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 13	bâː	baːbù	VERB	_	_	12	comp:aux	_	Gloss=give
@@ -171,7 +171,7 @@
 20	sanìː	sanìː	VERB	_	_	19	comp:aux	_	Gloss=know
 21	ba	ba	PART	_	PartType=Neg|Polarity=Neg	20	mod	_	Gloss=Neg|SpaceAfter=No
 22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
-23	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	dislocated@comp	_	Gloss=some.Masc
+23	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	dislocated@comp	_	Gloss=some.Masc
 24	kâu	kàu	PART	_	PartType=Top	23	discourse@top	_	Gloss=whereas
 25	kà	nàː	AUX	_	Aspect=Prog	12	parataxis	_	Gloss=Prog.Rel|Relative=Yes
 26	ci	ci	VERB	_	_	25	comp:aux	_	Gloss=eat
@@ -208,7 +208,7 @@
 # text = wani kà yi wankaː , shì kaːmà wandà kay yi wankaː sabòːdà shiː .
 # text_en = Some, you will wash yourself (with it), it will catch the one who has washed because of it.
 # text_ortho = wani kà yi wankaa, šì kaamà wandà kay yi wankaa sabòo dà šii.
-1	wani	wani	PRON	_	Definite=Spec|Gender=Masc	2	dislocated@top	_	Gloss=some.Masc
+1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	2	dislocated@top	_	Gloss=some.Masc
 2	kà	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog.Rel|Relative=Yes
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	wankaː	wankaː	VERB	_	ExtPos=NOUN|Gender=Masc	3	comp:pred	_	Gloss=bathing.Nmlz.Masc|SpaceAfter=No
@@ -230,7 +230,7 @@
 # text = wani à shaːhwàː gà jìkiː, kà rùngùmi mùtun, shì kaːmà wandà kar rùngumàː.
 # text_en = Some, you rub on your body, you hug someone, and it will catch the one you hug.
 # text_ortho = wani ’à šaahwàa gà jìkii, kà ᵲungùmi mùtun, šì kaamà wandà kaᵲ ᵲùngumàa.
-1	wani	wani	PRON	_	Definite=Spec|Gender=Masc	2	dislocated@comp	_	Gloss=some.Masc
+1	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	2	dislocated@comp	_	Gloss=some.Masc
 2	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 3	shaːhwàː	shaːhwàː	VERB	_	_	2	comp:aux	_	Gloss=rub
 4	gà	gà	ADP	_	_	3	comp:obl	_	Gloss=at
@@ -254,7 +254,7 @@
 # text = wani kâu à shaːhwàː gà bùːraː.
 # text_en = Some, you rub on the penis.
 # text_ortho = wani kaù ’à šaahwàa gà bùuᵲaa.
-1	wani	wani	DET	_	Definite=Spec|Gender=Masc	3	dislocated@comp	_	Gloss=some.Masc
+1	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	3	dislocated@comp	_	Gloss=some.Masc
 2	kâu	kàu	PART	_	PartType=Top	1	discourse@top	_	Gloss=whereas
 3	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
 4	shaːhwàː	shaːhwàː	VERB	_	_	3	comp:aux	_	Gloss=rub
@@ -397,10 +397,10 @@
 28	à	yà	AUX	_	Mood=Sub|Person=4	22	parataxis	_	Gloss=4.Sub
 29	ƙumshèː	ƙumshèː	VERB	_	_	28	comp:aux	_	Gloss=wrap_up
 30	gà	gà	ADP	_	_	29	comp:obl	_	Gloss=at
-31	wata	wani	DET	_	Gender=Fem	32	det	_	Gloss=some.Fem
+31	wata	wani	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	32	det	_	Gloss=some.Fem
 32	takàr̃daː	takàr̃daː	NOUN	_	Gender=Fem	30	comp:obj	_	Gloss=paper.Fem
 33	koː	koː	CCONJ	_	_	35	cc	_	Gloss=or
-34	wasu	wani	DET	_	Number=Plur	35	det	_	Gloss=some.Plur
+34	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	35	det	_	Gloss=some.Plur
 35	raggàː	raggàː	NOUN	_	Number=Plur	32	conj:coord	_	Gloss=cloth/rags.Plur|SpaceAfter=No
 36	.	.	PUNCT	_	_	18	punct	_	Gloss=.
 
@@ -463,7 +463,7 @@
 9	maruhiː	maruhiː	NOUN	_	Gender=Masc	8	compound	_	Gloss=cover.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	koː	koː	CCONJ	_	_	13	cc	_	Gloss=or
-12	wani	wani	DET	_	Definite=Spec|Gender=Masc	13	det	_	Gloss=some.Masc
+12	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	13	det	_	Gloss=some.Masc
 13	gwangwanin	gwangwaniː	NOUN	_	Definite=Cons|Gender=Masc	7	conj:coord	_	Gloss=tin.Masc
 14	mùntàleːtàː	mùntàleːtàː	X	_	_	13	mod	_	Gloss=X|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -616,7 +616,7 @@
 10	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 11	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
 12	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=do.Nmlz.Masc
-13	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	comp:pred	_	Gloss=some.Masc
+13	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	12	comp:pred	_	Gloss=some.Masc
 14	har̃	har̃	SCONJ	_	_	12	mod	_	Gloss=until
 15	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	14	comp:obj	_	Gloss=3Fem.Sub
 16	mutù	mutù	VERB	_	_	15	comp:aux	_	Gloss=die|SpaceAfter=No
@@ -1017,7 +1017,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=Fut.4
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc
 5	zuːgàl	zuːgàl	NOUN	_	_	3	comp:obj	_	Gloss=love_charm
 6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	maːtaː	maːtaː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
@@ -1404,7 +1404,7 @@
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
 2	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=Fut.4
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	Gloss=love_charm
 6	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
 7	maːtaː	maːtaː	NOUN	_	Number=Plur	6	comp:obj	_	Gloss=woman.Plur|SpaceAfter=No
@@ -1425,7 +1425,7 @@
 22	wata	wata	DET	_	Gender=Fem	23	det	_	Gloss=some.Fem
 23	kwalbaː	kwalbaː	NOUN	_	Gender=Fem	21	comp:obj	_	Gloss=bottle.Fem
 24	koː	koː	CCONJ	_	_	26	cc	_	Gloss=or
-25	wani	wani	DET	_	Definite=Spec|Gender=Masc	26	det	_	Gloss=some.Masc
+25	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	26	det	_	Gloss=some.Masc
 26	kwaːnòː	kwaːnòː	NOUN	_	Gender=Masc	23	conj:coord	_	Gloss=metal_bowl.Masc|SpaceAfter=No
 27	.	.	PUNCT	_	_	10	punct	_	Gloss=//
 
@@ -1590,7 +1590,7 @@
 14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
 15	tàbiː’àː	tàbiː’àː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=custom.Fem|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Pers	15	mod	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
+17	taːsù	taːsù	PRON	_	Gender=Fem|PronType=Prs	15	mod	_	CaseAf=Gen|Gloss=Gen.Fem-3PlurGen|MSeg=taː-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 18	dàban	dàban	ADV	_	_	15	mod	_	Gloss=different
 19	dàban	dàban	ADV	_	_	18	conj:redup	_	Gloss=different|SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
@@ -1621,7 +1621,7 @@
 3	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 4	kaskôn	kaskoː	NOUN	_	Definite=Cons|Gender=Masc	19	dislocated@top	_	Gloss=potsherd.Masc.Cons
 5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
-6	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Pers	4	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+6	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Prs	4	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	conj:appos	_	Gloss=who.Masc
 9	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	8	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
@@ -1639,7 +1639,7 @@
 21	shân	shâː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	20	comp:obj	_	Gloss=drink.Nmlz.Masc
 22	ruwaː	ruwaː	NOUN	_	Number=Plur	21	udep	_	Gloss=water.Plur
 23	dà	dà	ADP	_	_	21	mod	_	Gloss=with
-24	wani	wani	DET	_	Definite=Spec|Gender=Masc	25	det	_	Gloss=some.Masc
+24	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	25	det	_	Gloss=some.Masc
 25	wuriː	wuriː	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=place.Masc|SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 27	sai	sai	SCONJ	_	_	20	mod	_	Gloss=until
@@ -1813,7 +1813,7 @@
 8	mùtun	mùtun	NOUN	_	Gender=Masc	9	dislocated@subj	_	Gloss=person.Masc
 9	zâː	zâː	PART	_	PartType=Pred	7	comp:obj	_	Gloss=Dir
 10	shi	shi	PRON	_	Gender=Masc|Person=3	9	subj	_	Gloss=3Masc
-11	wani	wani	DET	_	Definite=Spec|Gender=Masc	12	det	_	Gloss=some.Masc
+11	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	12	det	_	Gloss=some.Masc
 12	sha’àniː	sha’àniː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=business.Masc
 13	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 14	màːtashshì	màːtaː	NOUN	_	Definite=Cons|Gender=Fem	13	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=màːtash-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -1884,7 +1884,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	1	comp:obj	_	Gloss=Fut.4
 3	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	comp:aux	_	Gloss=do.Nmlz.Masc
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc
 5	zuːgàl	zuːgàl	NOUN	_	_	3	udep	_	Gloss=love_charm|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
@@ -2543,7 +2543,7 @@
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	zâː	zâː	PART	_	PartType=Pred	5	parataxis@mod	_	Gloss=Dir
 9	shi	shi	PRON	_	Gender=Masc|Person=3	8	subj	_	Gloss=3Masc
-10	wani	wani	DET	_	Definite=Spec|Gender=Masc	11	det	_	Gloss=some.Masc
+10	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	11	det	_	Gloss=some.Masc
 11	sha’àniː	sha’àniː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=business.Masc
 12	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
 13	màccè	màccè	NOUN	_	Gender=Fem	12	comp:obj	_	Gloss=female.Fem|SpaceAfter=No
@@ -2917,7 +2917,7 @@
 12	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	8	parataxis@conj	_	Gloss=3Masc.Sub
 13	ɓoːyèː	ɓoːyèː	VERB	_	_	12	comp:aux	_	Gloss=hide
 14	su	su	PRON	_	Person=3	13	comp:obj@T	_	Gloss=3.Pl
-15	wani	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Masc
+15	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	16	det	_	Gloss=some.Masc
 16	wuriː	wuriː	NOUN	_	Gender=Masc	13	comp:obj@L	_	Gloss=place.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
 18	indà	indà	ADV	_	_	19	mod	_	Gloss=where
@@ -2965,7 +2965,7 @@
 31	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	25	conj:coord	_	Gloss=3Masc.ProgNeg
 32	shaːhèːwaː	shaːhèː	VERB	_	ExtPos=NOUN|Gender=Fem	31	comp:aux	_	Gloss=rub.Nmlz.Fem
 33	dà	dà	ADP	_	_	32	comp:obl	_	Gloss=with
-34	wani	wani	DET	_	Definite=Spec|Gender=Masc	35	det	_	Gloss=some.Masc
+34	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	35	det	_	Gloss=some.Masc
 35	ƙyalleː	ƙyalleː	NOUN	_	_	33	comp:obj	_	Gloss=cloth|SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 37	sai	sai	ADV	_	_	38	mod	_	Gloss=then
@@ -4262,7 +4262,7 @@
 20	à	yà	AUX	_	Mood=Sub|Person=4	9	parataxis@conj	_	Gloss=4.Sub
 21	ƙumshèː	ƙumshèː	VERB	_	_	20	comp:aux	_	Gloss=wrap_up
 22	cikin	cikin	ADP	_	_	21	comp:obl	_	Gloss=in(side)
-23	wasu	wani	DET	_	Number=Plur	24	det	_	Gloss=some.Plur
+23	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	24	det	_	Gloss=some.Plur
 24	raggàː	raggàː	NOUN	_	Number=Plur	22	comp:obj	_	Gloss=cloth/rags.Plur|SpaceAfter=No
 25	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
@@ -4394,7 +4394,7 @@
 33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
 34	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	25	parataxis@conj	_	Gloss=3Masc.Sub
 35	aːdànaː	aːdànaː	VERB	_	_	34	comp:aux	_	Gloss=keep_safe
-36	wani	wani	DET	_	Definite=Spec|Gender=Masc	37	det	_	Gloss=some.Masc
+36	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	37	det	_	Gloss=some.Masc
 37	wuriː	wuriː	NOUN	_	Gender=Masc	35	comp:obj@L	_	Gloss=place.Masc|SpaceAfter=No
 38	.	.	PUNCT	_	_	25	punct	_	Gloss=.
 
@@ -4408,7 +4408,7 @@
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
 2	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 3	aːdànaː	aːdànaː	VERB	_	_	2	comp:aux	_	Gloss=keep_safe
-4	wani	wani	DET	_	Definite=Spec|Gender=Masc	5	det	_	Gloss=some.Masc
+4	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	5	det	_	Gloss=some.Masc
 5	wuriː	wuriː	NOUN	_	Gender=Masc	3	comp:obj@L	_	Gloss=place.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
@@ -4868,7 +4868,7 @@
 4	koː	koː	CCONJ	_	_	5	cc	_	Gloss=or
 5	kàryaː	kàryaː	NOUN	_	Gender=Fem	2	conj:coord	_	Gloss=bitch.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	gàme	gamàː	VERB	_	ExtPos=ADV|VerbForm=Stat	12	dislocated@comp	_	Gloss=gather.Part.Stat
+7	gàme	gamàː	VERB	_	ExtPos=ADV|VerbForm=Part	12	dislocated@comp	_	Gloss=gather.Part.Part
 8	dà	dà	ADP	_	_	7	comp:obl	_	Gloss=with
 9	mài	mài	PART	_	Number=Sing|PartType=Der	8	comp:obj	_	Gloss=owner_of.Sing
 10	suː	suː	PRON	_	Number=Plur|Person=3	9	compound	_	Gloss=3Plur|SpaceAfter=No
@@ -5140,7 +5140,7 @@
 9	yag	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 10	gàmu	gàmu	VERB	_	_	9	comp:aux	_	Gloss=meet
 11	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
-12	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Pers	11	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+12	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Prs	11	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 13	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 14	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	0	root	_	Gloss=3Fem.ProgNeg
 15	iyà	iyàː	VERB	_	_	14	comp:aux	_	Gloss=be_able
@@ -6282,7 +6282,7 @@
 20	gamà	gamàː	VERB	_	_	19	comp:aux	_	Gloss=join
 21	jìkiːnai	jìkiː	NOUN	_	Gender=Masc	20	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-3MascGen|MSeg=jìkiːn-ai|PersonAf=3|Poss=Yes
 22	dà	dà	ADP	_	_	20	comp:obl	_	Gloss=with
-23	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Pers	22	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+23	naːtà	naːtà	PRON	_	Gender=Masc|PronType=Prs	22	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=Gen.Masc-3FemGen|MSeg=naː-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
 25	ham	hat	SCONJ	_	_	20	mod	_	Gloss=until
 26	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	27	subj	_	Gloss=medicine/charm.Masc

@@ -6,7 +6,7 @@
 # text_en = This is (the story of) some men.
 # text_ortho = wa’ànnàn wa’ansu mutàanee nèe.
 1	wa’ànnàn	nân	PRON	_	Deixis=ProxS|Number=Plur|PronType=Dem	4	subj	_	Gloss=ProxS.Plur
-2	wasu	wani	DET	_	Number=Plur	3	det	_	Gloss=some.Plur
+2	wasu	wani	DET	_	Definite=Spec|Number=Plur|PronType=Ind	3	det	_	Gloss=some.Plur
 3	mutàːneː	mutàːneː	NOUN	_	Number=Plur	4	comp:pred	_	Gloss=people.Plur
 4	neː	neː	AUX	_	Gender=Masc|Number=Plur	0	root	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=PUNCT
@@ -272,7 +272,7 @@
 6	yat	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	3	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 7	tàhi	tàhi	VERB	_	_	6	comp:aux	_	Gloss=go
 8	wurin	wurin	ADP	_	_	7	comp:obl	_	Gloss=at
-9	wani	wani	DET	_	Definite=Spec|Gender=Masc	10	det	_	Gloss=some.Masc
+9	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	10	det	_	Gloss=some.Masc
 10	àboːkiːnai	àboːkiː	NOUN	_	Gender=Masc	8	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=friend.Masc.Cons-3MascGen|MSeg=àboːkiːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	ya’	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	6	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -415,7 +415,7 @@
 12	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 13	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 14	sàbka	sàbka	VERB	_	_	13	comp:aux	_	Gloss=dismount
-15	wani	wani	DET	_	Definite=Spec|Gender=Masc	16	det	_	Gloss=some.Masc
+15	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	16	det	_	Gloss=some.Masc
 16	gidaː	gidaː	NOUN	_	Gender=Masc	14	comp:obj@L	_	Gloss=house.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
 18	bài	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3|Polarity=Neg	13	parataxis@conj	_	Gloss=3Masc.PerfNeg
@@ -455,7 +455,7 @@
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
 1	sunàː	kè	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
-3	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Stat	1	comp:obl	_	Gloss=stay.Stat|SpaceAfter=No
+3	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Part	1	comp:obl	_	Gloss=stay.Part|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	Gloss=everyone
 6	masabkiːnai	masabkiː	NOUN	_	Gender=Masc	1	parataxis@conj	_	CaseAf=Gen|GenderAf=Masc|Gloss=stopping_place.Masc.Cons-3MascGen|MSeg=masabkiːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
