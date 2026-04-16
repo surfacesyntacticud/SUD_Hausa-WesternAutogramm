@@ -4431,13 +4431,13 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 152000, 153000
-# text = kissàm miː gàreː mù , muː maːtaː ?
+# text = kissàm miː gàreː mù, muː maːtaː ?
 # text_en = What kind of deception did we have, we women.
 # text_ortho = kissàm mìi gàᵲee mù, muu maataa ?
 1	kissàm	kissà	NOUN	_	Definite=Cons|Gender=Fem	0	root	_	Gloss=deception.Fem
 2	miː	miː	PRON	_	_	1	mod	_	Gloss=what.Int
 3	gàreː	gà	ADP	_	_	1	comp:cleft	_	Gloss=at
-4	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	3	comp:obj	_	Gloss=1Plur.Sub|SpaceAfter=No
+4	mù	mù	PRON	_	Case=Acc|Number=Plur|Person=1	3	comp:obj	_	Gloss=1Plur.Acc|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	muː	muː	PRON	_	Number=Plur|Person=1	1	dislocated@comp	_	Gloss=1Plur
 7	maːtaː	maːtaː	NOUN	_	Number=Plur	6	conj:appos	_	Gloss=woman.Plur
