@@ -217,7 +217,7 @@
 1	cikin	cikin	SCONJ	_	_	8	mod	_	Gloss=while
 2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Prog
 3	wargîn	wargiː	NOUN	_	Definite=Cons|Gender=Masc	2	comp:aux	_	Gloss=playing.Masc.Cons
-4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def|SpaceAfter=No
+4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	8	mod	_	Gloss=then
 7	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	8	subj	_	Gloss=youth.Plur
@@ -521,18 +521,18 @@
 # text = nan indà akà zaman lallèː , nan sukà kwaːnaː , kuma nan sukà ini , har̃ kullum .
 # text_en = Where they do the henna period, there they sleep, there the spend the day, up till now.
 # text_ortho = nan ’indà ’a kà zaman lallèe, nan su kà kwaanaa, kuma nan su kà ’inìi, hak kullum.
-1	nan	nan	ADV	_	Definite=Def|PronType=Dem	7	dislocated@top	_	Gloss=Def
+1	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	7	dislocated@top	_	Gloss=ProxH
 2	indà	indà	PRON	_	_	4	udep	_	Gloss=where
 3	akà	nàː	AUX	_	Aspect=Prog|Person=4	1	mod@relcl	_	Gloss=4.Prog.Rel|Relative=Yes
 4	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=stay.Nmlz.Masc
 5	lallèː	lallèː	NOUN	_	Gender=Masc	4	udep	_	Gloss=henna.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	nan	nan	ADV	_	Definite=Def|PronType=Dem	0	root	_	Gloss=Def
+7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	0	root	_	Gloss=ProxH
 8	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	comp:cleft	_	Gloss=3Plur.Prog.Rel|Relative=Yes
 9	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	8	comp:aux	_	Gloss=spend_night.Nmlz.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 11	kuma	kuma	CCONJ	_	_	12	cc	_	Gloss=also
-12	nan	nan	ADV	_	Definite=Def|PronType=Dem	7	conj:coord	_	Gloss=Def
+12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	7	conj:coord	_	Gloss=ProxH
 13	sukà	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	12	comp:cleft	_	Gloss=3Plur.Prog.Rel|Relative=Yes
 14	ini	ini	VERB	_	ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=spend_day.Nmlz.Masc|SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
@@ -592,7 +592,7 @@
 # text = nan kuma ita amaryaː , dà dangìntà dà àbùkkantà , dà maːtaː na wajentà dà ’yam maːtaː na wajentà , dus sai à gamèː , à yi ta kiɗìː anàː shagàliː .
 # text_en = There, the bride, her family and friends, women on her side, and girls on her side, they will all gather and they will play music and party.
 # text_ortho = nan kuma ’ita ’amaᵲyaa, dà dangìntà dà ’àbùkkantà, dà maataa na wajentà dà ’’yam maataa na wajentà, dus sai ’à gamèe, ’à yi ta kiɗìi ’a nàa šagàlii.
-1	nan	nan	ADV	_	Definite=Def|PronType=Dem	23	mod	_	Gloss=Def
+1	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	23	mod	_	Gloss=ProxH
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	ita	ita	PRON	_	Gender=Fem|Person=3	23	dislocated@subj	_	Gloss=3Fem
 4	amaryaː	amaryaː	NOUN	_	_	3	conj:appos	_	Gloss=bride|SpaceAfter=No
@@ -1001,7 +1001,7 @@
 2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 3	yi	yi	VERB	_	_	2	comp:aux	_	Gloss=do
 4	rùngumàn	rùngumàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	3	comp:pred	_	Gloss=embrace.Nmlz.Fem.Cons
-5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def|SpaceAfter=No
+5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=ProxH|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
 8	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	7	conj:appos	_	Gloss=girl.Fem
@@ -1124,7 +1124,7 @@
 # text_en = Here they are doing like that, until they fall asleep.
 # text_ortho = su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
 1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-2	nan	nan	ADV	_	Definite=Def|PronType=Dem	1	comp:pred	_	Gloss=Def
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=do.Nmlz.Masc
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
@@ -1179,7 +1179,7 @@
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	dislocated@subj	_	Gloss=3Masc
 7	sarmàyîn	sarmàyiː	NOUN	_	Definite=Cons|Gender=Masc	6	conj:appos	_	Gloss=youth.Masc.Cons
-8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def|SpaceAfter=No
+8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=ProxH|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 10	in	in	SCONJ	_	_	16	mod	_	Gloss=if
 11	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.Prog
@@ -1198,7 +1198,7 @@
 24	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	16	parataxis@conj	_	Gloss=3Masc.Sub
 25	bâː	baːbù	VERB	_	_	24	comp:aux	_	Gloss=give
 26	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	25	comp:obj@R	_	Gloss=girl.Fem.Cons
-27	nan	nan	DET	_	Definite=Def|PronType=Dem	26	det	_	Gloss=Def
+27	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	26	det	_	Gloss=ProxH
 28	taːshì	taːshì	PRON	_	Gender=Fem|PronType=Prs	26	mod@poss	_	CaseAf=Gen|GenderAf=Masc|Gloss=Gen.Fem-3MascGen|MSeg=taː-shì|PersonAf=3|Poss=Yes|SpaceAfter=No
 29	.	.	PUNCT	_	_	16	punct	_	Gloss=.
 
@@ -1319,7 +1319,7 @@
 31	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 32	sabòːdà	sabòːdà	SCONJ	_	_	29	mod	_	Gloss=because
 33	sarmàyîn	sarmàyiː	NOUN	_	Definite=Cons|Gender=Masc	35	subj	_	Gloss=youth.Masc.Cons
-34	nan	nan	DET	_	Definite=Def|PronType=Dem	33	det	_	Gloss=Def
+34	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	33	det	_	Gloss=ProxH
 35	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	32	comp:obj	_	Gloss=3Masc.Prog
 36	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	35	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 37	ɗiyattà	ɗiyaː	NOUN	_	Definite=Cons|Gender=Fem	36	udep	_	CaseAf=Gen|GenderAf=Fem|Gloss=daughter.Fem.Cons-3FemGen|MSeg=ɗiyat-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
@@ -1816,7 +1816,7 @@
 5	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	0	root	_	Gloss=3Pl.ProgNeg
 6	tàmbayàs	tàmbayàː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem	5	comp:aux	_	Gloss=ask.Nmlz.Fem
 7	sarmàyîn	sarmàyiː	NOUN	_	Definite=Cons|Gender=Masc	6	comp:obj@R	_	Gloss=youth.Masc.Cons
-8	nan	nan	DET	_	Definite=Def|PronType=Dem	7	det	_	Gloss=Def|SpaceAfter=No
+8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=ProxH|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 10	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	5	parataxis@conj	_	Gloss=3Pl.ProgNeg
 11	tàmbayàːtai	tàmbayàː	VERB	_	ExtPos=NOUN|Gender=Masc	10	comp:aux	_	CaseAf=Gen|GenderAf=Masc|Gloss=ask.Nmlz.Fem.Cons-3MascGen|MSeg=tàmbayàːt-ai|PersonAf=3|Poss=Yes
@@ -1855,7 +1855,7 @@
 # text_ortho = ’ita bùduᵲwaǹ nan, ’in ’uwàayentà sunkà mutà mijìi, ’in zaà ’a yiǹ ’aᵲmee, ’im baà ta soǹ mijìn nan, wandà ’uwàayee sunkà mutà, sai tà ceè mà ’uwàayentà, mijìn nan dà sunkà baadàa ta gàᵲai, baà ta soònai, baà ši yìwuwaa tà ’àᵲmee šì.
 1	ita	ita	PRON	_	Gender=Fem|Person=3	29	dislocated@subj	_	Gloss=3Fem
 2	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:appos	_	Gloss=girl.Fem.Cons
-3	nan	nan	DET	_	Definite=Def|PronType=Dem	2	det	_	Gloss=Def|SpaceAfter=No
+3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=ProxH|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 5	in	in	SCONJ	_	_	29	mod	_	Gloss=if
 6	uwàːyentà	uwàːyeː	NOUN	_	Definite=Cons|Gender=Fem	7	subj	_	CaseAf=Gen|GenderAf=Fem|Gloss=parents.Plur.Cons-3FemGen|MSeg=uwàːyen-tà|PersonAf=3|Poss=Yes
@@ -1872,7 +1872,7 @@
 17	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	16	comp:obj	_	Gloss=3Fem.ProgNeg
 18	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 19	mijìn	mijìː	NOUN	_	Definite=Cons	18	udep	_	Gloss=husband
-20	nan	nan	DET	_	Definite=Def|PronType=Dem	19	det	_	Gloss=Def|SpaceAfter=No
+20	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	19	det	_	Gloss=ProxH|SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
 22	wandà	wandà	PRON	_	PronType=Rel	24	comp:obj	_	Gloss=who
 23	uwàːyeː	uwàːyeː	NOUN	_	Number=Plur	24	subj	_	Gloss=parents.Plur
@@ -1888,7 +1888,7 @@
 32	uwàːyentà	uwàːyeː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=parents.Plur.Cons-3FemGen|MSeg=uwàːyen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
 33	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
 34	mijìn	mijìː	NOUN	_	Definite=Cons	43	dislocated@comp	_	Gloss=husband
-35	nan	nan	DET	_	Definite=Def|PronType=Dem	34	det	_	Gloss=Def
+35	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	34	det	_	Gloss=ProxH
 36	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=that
 37	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
 38	baːdàː	baːdàː	VERB	_	_	37	comp:aux	_	Gloss=give
@@ -1917,7 +1917,7 @@
 1	suː	suː	PRON	_	Number=Plur|Person=3	7	dislocated@top	_	Gloss=3Plur
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	Gloss=also
 3	uwàːyên	uwàːyeː	NOUN	_	Definite=Cons|Number=Plur	1	conj:appos	_	Gloss=parents.Plur.Cons
-4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def|SpaceAfter=No
+4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	sù	yà	AUX	_	Mood=Sub|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Sub
@@ -2314,7 +2314,7 @@
 11	yi	yi	VERB	_	_	10	comp:aux	_	Gloss=do
 12	zamnàː	zamnàː	VERB	_	_	11	comp:pred	_	Gloss=stay.Stat|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	nan	nan	ADV	_	Definite=Def|PronType=Dem	11	mod	_	Gloss=Def
+14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	mod	_	Gloss=ProxH
 15	wurim	wurin	ADP	_	_	14	mod	_	Gloss=at
 16	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	15	comp:obj	_	Gloss=girl.Fem|SpaceAfter=No
 17	.	.	PUNCT	_	_	10	punct	_	Gloss=.
@@ -2359,7 +2359,7 @@
 4	koː’ìnaː	koː’ìnaː	ADV	_	_	2	mod	_	Gloss=everywhere|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	dàgà	dàgà	ADP	_	_	2	mod	_	Gloss=from
-7	nan	nan	ADV	_	Definite=Def|PronType=Dem	6	comp:obj	_	Gloss=Def
+7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:obj	_	Gloss=ProxH
 8	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:pred	_	Gloss=stay.Part|SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 10	àmmaː	àmmaː	CCONJ	_	_	12	cc	_	Gloss=but
@@ -2385,7 +2385,7 @@
 7	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 8	ga	ganiː	VERB	_	_	7	comp:aux	_	Gloss=see
 9	sarmàyîn	sarmàyiː	NOUN	_	Definite=Cons|Gender=Masc	15	subj	_	Gloss=youth.Masc.Cons
-10	nan	nan	DET	_	Definite=Def|PronType=Dem	9	det	_	Gloss=Def|SpaceAfter=No
+10	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	9	det	_	Gloss=ProxH|SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 12	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	15	comp:pred	_	Gloss=who.Masc
 13	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	12	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
@@ -2494,7 +2494,7 @@
 1	koːkòː	koːkòː	CCONJ	_	_	52	discourse	_	Gloss=or
 2	shiː	shiː	PRON	_	Gender=Masc|Person=3	52	dislocated@comp	_	Gloss=3Masc
 3	sarmàyîn	sarmàyîn	NOUN	_	Definite=Cons|Gender=Masc	2	conj:appos	_	Gloss=youth.Masc.Cons
-4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def
+4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH
 5	dà	dà	SCONJ	_	_	3	mod@relcl	_	Gloss=that
 6	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	Gloss=come
@@ -2507,7 +2507,7 @@
 14	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 15	ita	ita	PRON	_	Gender=Fem|Person=3	52	dislocated@subj	_	Gloss=3Fem
 16	bùdurwân	bùdurwân	NOUN	_	Definite=Cons|Gender=Fem	15	conj:appos	_	Gloss=girl.Fem.Cons
-17	nan	nan	DET	_	Definite=Def|PronType=Dem	16	det	_	Gloss=Def|SpaceAfter=No
+17	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	16	det	_	Gloss=ProxH|SpaceAfter=No
 18	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 19	in	in	SCONJ	_	_	52	mod	_	Gloss=if
 20	tad	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	19	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -2516,7 +2516,7 @@
 23	tad	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	20	parataxis@conj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 24	dìːbi	dìːbaː	VERB	_	_	23	comp:aux	_	Gloss=look_at
 25	sarmàyîn	sarmàyîn	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=youth.Masc.Cons
-26	nan	nan	DET	_	Definite=Def|PronType=Dem	25	det	_	Gloss=Def|SpaceAfter=No
+26	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	25	det	_	Gloss=ProxH|SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	Gloss=PUNCT
 28	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	23	parataxis@conj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
 29	ga	ganiː	VERB	_	_	28	comp:aux	_	Gloss=see
@@ -2809,7 +2809,7 @@
 4	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	3	comp:obj	_	Gloss=3Masc.Prog
 5	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	4	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
 6	bùdurwân	bùdurwân	NOUN	_	Definite=Cons|Gender=Fem	5	udep	_	Gloss=girl.Fem.Cons
-7	nan	nan	DET	_	Definite=Def|PronType=Dem	6	det	_	Gloss=Def|SpaceAfter=No
+7	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	6	det	_	Gloss=ProxH|SpaceAfter=No
 8	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 9	shiː	shiː	PRON	_	Gender=Masc|Person=3	13	dislocated@subj	_	Gloss=3Masc
 10	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	9	conj:appos	_	Gloss=youth.Masc|SpaceAfter=No
@@ -2881,7 +2881,7 @@
 1	don	don	SCONJ	_	_	21	discourse	_	Gloss=because
 2	ita	ita	PRON	_	Gender=Fem|Person=3	21	dislocated@subj	_	Gloss=3Fem
 3	bùdurwân	bùdurwân	NOUN	_	Definite=Cons|Gender=Fem	2	conj:appos	_	Gloss=girl.Fem.Cons
-4	nan	nan	DET	_	Definite=Def|PronType=Dem	3	det	_	Gloss=Def|SpaceAfter=No
+4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	21	mod	_	Gloss=if
 7	sarmàyiː	sarmàyiː	NOUN	_	Gender=Masc	8	subj	_	Gloss=youth.Masc
@@ -2897,7 +2897,7 @@
 17	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
 18	sai	sai	ADV	_	_	21	mod	_	Gloss=then
 19	bùdurwân	bùdurwân	NOUN	_	Definite=Cons|Gender=Fem	21	subj	_	Gloss=girl.Fem.Cons
-20	nan	nan	DET	_	Definite=Def|PronType=Dem	19	det	_	Gloss=Def
+20	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	19	det	_	Gloss=ProxH
 21	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 22	yi	yi	VERB	_	_	21	comp:aux	_	Gloss=do
 23	cikìː	cikìː	NOUN	_	Gender=Masc	22	comp:pred	_	Gloss=pregnancy.Masc|SpaceAfter=No
