@@ -1779,7 +1779,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 49000, 50000
-# text = in sarmàyiː zâː shi kiràm bùdurwaː , bùtun s'àːrìnceː , bâːshi tàmbayà’ uwàːyentà , sai dai shì kìri bùdurwaː .
+# text = in sarmàyiː zâːshi kiràm bùdurwaː, bùtun s'àːrìnceː, bâːshi tàmbayà’ uwàːyentà, sai dai shì kìri bùdurwaː.
 # text_en = If a boy goes to call a girl for "tsarince", he does not ask her parents, he just calls the girl.
 # text_ortho = ’in saᵲmàyii zaà ši kiᵲàm bùduᵲwaa, bùtun s’àaᵲìncee, baà ši tàmbayà’ ’uwàayentà, sai dai šì kìᵲi bùduᵲwaa.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
@@ -1788,7 +1788,7 @@
 4	kiràm	kiràː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=call.Nmlz.Masc
 5	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	4	udep	_	Gloss=girl.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	bùtun	bàtu	NOUN	_	Gender=Masc	10	dislocated@top	_	Gloss=chatting.Masc
+7	bùtun	bàtu	NOUN	_	Definite=Cons|Gender=Masc	10	dislocated@top	_	Gloss=chatting.Masc.Cons
 8	s'àːrìnceː	s'àːrìnceː	NOUN	_	Gender=Masc	7	mod	_	Gloss=cuddling.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 10	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	0	root	_	Gloss=3Masc.ProgNeg
@@ -2298,11 +2298,11 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 63000, 64000
-# text = in gìːgin kwaːnaː yas sàkeː tà , sai sarmàyiː shì yi zamnàː , nan wurim bùdurwaː .
+# text = in gìːgin kwaːnaː yas sàkeː tà, sai sarmàyiː shì yi zamnàː, nan wurim bùdurwaː.
 # text_en = When the heaviness of sleep has left her, the boy sits down there, at the girl's place.
 # text_ortho = ’in gìigin kwaanaa yas sàkee tà, sai saᵲmàyii šì yi zàmne, nan wuᵲim bùduᵲwaa.
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	gìːgin	gìːgiː	NOUN	_	Gender=Masc	4	subj	_	Gloss=dizziness.Masc.Cons
+2	gìːgin	gìːgiː	NOUN	_	Definite=Cons|Gender=Masc	4	subj	_	Gloss=dizziness.Masc.Cons
 3	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	2	mod	_	Gloss=spend_night.Nmlz.Masc
 4	yas	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 5	sàkeː	sàkaː	VERB	_	_	4	comp:aux	_	Gloss=leave

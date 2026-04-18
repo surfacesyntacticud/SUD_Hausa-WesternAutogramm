@@ -778,7 +778,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 23000, 24000
-# text = in yab biyaː tà kuɗɗin dàudawaː , sai tà ɗaukaː sauran dàudawattà waddà maːlàmiː bài sàyeː ba , tà tàhi tàlla cikin gàriː .
+# text = in yab biyaː tà kuɗɗin dàudawaː, sai tà ɗaukaː sauran dàudawattà waddà maːlàmiː bài sàyeː ba, tà tàhi tàlla cikin gàriː.
 # text_en = When he had given her the money for the "daudawa", then she would take the rest of the "daudawa" that the malam had not bought and go and sell it in town.
 # text_ortho = ’in yab biyaa tà kuɗɗin dàudawaa, sai tà ɗàuki sauᵲan dàudawattà, waddà maalàmii bài sàyee ba, tà tàhi tàlla cikin gàᵲii.
 1	in	in	SCONJ	_	_	9	mod	_	Gloss=if
@@ -791,7 +791,7 @@
 8	sai	sai	ADV	_	_	9	mod	_	Gloss=then
 9	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=3Fem.Sub
 10	ɗaukaː	ɗaukaː	VERB	_	_	9	comp:aux	_	Gloss=take
-11	sauran	sauran	NOUN	_	_	10	comp:obj	_	Gloss=remnants
+11	sauran	sauran	NOUN	_	Definite=Cons|Gender=Masc	10	comp:obj	_	Gloss=remnants.Masc.Cons
 12	dàudawattà	dàudawaː	NOUN	_	Definite=Cons|Gender=Fem	11	mod	_	CaseAf=Gen|GenderAf=Fem|Gloss=condiment_sp.Fem.Cons-3FemGen|MSeg=dàudawat-tà|PersonAf=3|Poss=Yes
 13	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	16	comp:obj	_	Gloss=who.Fem
 14	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	15	subj	_	Gloss=malam.Masc
@@ -3160,7 +3160,7 @@
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_106-106
-# text = sabòːdà miː zâːka zôwwaː nân wuriːn -aː kà mun ƙaryaː ?
+# text = sabòːdà miː zâːka zôwwaː nân wuriːnaː kà mun ƙaryaː ?
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 110000, 111000
@@ -3170,7 +3170,7 @@
 2	miː	miː	PRON	_	_	1	comp:obj	_	Gloss=what.Int
 3	zâːka	zâi	AUX	_	Gender=Masc|Person=2|Tense=Fut	1	comp:cleft	_	Gloss=Fut.2Masc
 4	zôwwaː	zoː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=come.Nmlz.Fem
-5	nân	nân	ADV	_	Definite=Cons|Deixis=ProxS|PronType=Dem	4	comp:obj@G	_	Gloss=ProxS
+5	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	comp:obj@G	_	Gloss=ProxS
 6	wuriːnaː	wuriː	ADP	_	Gender=Masc	5	mod	_	CaseAf=Gen|Gloss=place.Masc.Cons-1SingGen|MSeg=wuriːn-aː|NumberAf=Sing|PersonAf=1|Poss=Yes|wordform=wuriːn
 7	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	4	mod	_	Gloss=2Masc.Sub
 8	mun	minì	PRON	_	Person=1	7	comp:obl	_	Gloss=1Sing.Dat

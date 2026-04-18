@@ -176,7 +176,7 @@
 25	kà	nàː	AUX	_	Aspect=Prog	12	parataxis	_	Gloss=Prog.Rel|Relative=Yes
 26	ci	ci	VERB	_	_	25	comp:aux	_	Gloss=eat
 27	dà	dà	ADP	_	_	26	comp:obl	_	Gloss=with
-28	kânkà	kânkà	NOUN	_	Gender=Masc|Person=2|Reflex=Yes	27	comp:obj	_	Gloss=2Masc.Reflex|SpaceAfter=No
+28	kânkà	kânkà	PRON	_	Gender=Masc|Person=2|Reflex=Yes	27	comp:obj	_	Gloss=2Masc.Reflex|SpaceAfter=No
 29	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_01_Zugal_008-008
@@ -1763,7 +1763,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 59000, 59310
-# text = in ankà ɗeːbì ruwan abaraː , sai à gamàː su dà wa’ànnan sauran , sauran abuːbuwàː , wa’àndà ankà ɗiːbàː , à kwaːɓèː dà ruwân ga na abaraː .
+# text = in ankà ɗeːbì ruwan abaraː, sai à gamàː su dà wa’ànnan sauran, sauran abuːbuwàː, wa’àndà ankà ɗiːbàː, à kwaːɓèː dà ruwân ga na abaraː.
 # text_en = If you take the water of the pidgeon, you mix it with the others, the other things that you have taken, and mix it with that water of the pidgeon.
 # text_ortho = ’in ’ankà ɗeebi ᵲuwan ’abaᵲaa, sai ’à gamàa su dà wa’ànnan sauᵲan, sauᵲan ’abuubuwàa, wa’àndà ’ankà ɗiibàa, ’à kwaaɓèe dà ᵲuwaǹ ga na ’abaᵲaa -
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
@@ -1778,19 +1778,19 @@
 10	su	su	PRON	_	Person=3	9	comp:obj	_	Gloss=3.Pl
 11	dà	dà	ADP	_	_	9	comp:obl	_	Gloss=with
 12	wa’ànnan	nan	DET	_	Deixis=ProxH|Number=Plur|PronType=Dem	13	det	_	Gloss=ProxH.Plur
-13	sauran	sauran	NOUN	_	_	11	comp:obj	_	Gloss=other|SpaceAfter=No
+13	sauran	sauran	ADJ	_	Definite=Cons|Gender=Masc	11	comp:obj	_	Gloss=remnants.Masc.Cons|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-15	sauran	sauran	ADJ	_	Definite=Cons	16	mod	_	Gloss=other
+15	sauran	sauran	ADJ	_	Definite=Cons|Gender=Masc	16	mod	_	Gloss=remnants.Masc.Cons
 16	abuːbuwàː	àbù	NOUN	_	Number=Plur	13	conj:appos	_	Gloss=thing.Plur|SpaceAfter=No
-17	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
-18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	20	comp:obj	_	Gloss=who.Plur
-19	ankà	yaː	AUX	_	Aspect=Perf|Person=4	16	mod@relcl	_	Gloss=4.Perf.Rel|Relative=Yes
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	16	mod@relcl	_	Gloss=who.Plur
+19	ankà	yaː	AUX	_	Aspect=Perf|Person=4	18	comp:obj	_	Gloss=4.Perf.Rel|Relative=Yes
 20	ɗiːbàː	ɗiːbàː	VERB	_	_	19	comp:aux	_	Gloss=take|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	à	yà	AUX	_	Mood=Sub|Person=4	8	parataxis@conj	_	Gloss=4.Sub
 23	kwaːɓèː	kwaːɓèː	VERB	_	_	22	comp:aux	_	Gloss=mix
 24	dà	dà	ADP	_	_	23	comp:obl	_	Gloss=with
-25	ruwân	ruwaː	NOUN	_	Number=Plur	24	comp:obj	_	Gloss=water.Plur.Cons
+25	ruwân	ruwaː	NOUN	_	Definite=Def|Number=Plur	24	comp:obj	_	Gloss=water.Plur.Def
 26	ga	nân	DET	_	Deixis=ProxS|PronType=Dem	25	det	_	Gloss=ProxS
 27	na	na	PART	_	Case=Gen|PartType=Case	25	mod	_	Gloss=Gen
 28	abaraː	abaraː	NOUN	_	Gender=Fem	27	comp:obj	_	Gloss=pigeon.Fem|SpaceAfter=No
@@ -4836,12 +4836,12 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
 # sent_timecode = 154000, 155000
-# text = don ita màccên nan , in tac ci , bâːta iyà ràbuwaː dà mùtun .
+# text = don ita màccên nan, in tac ci, bâːta iyà ràbuwaː dà mùtun.
 # text_en = So that the woman, if she takes it, she won't be able to leave the man.
 # text_ortho = don ’ita màcceǹ nan, ’in tac ci, baà ta ’iyà ᵲàbuwaa dà mùtun.
 1	don	don	SCONJ	_	_	10	discourse	_	Gloss=because
 2	ita	ita	PRON	_	Gender=Fem|Person=3	10	dislocated@subj	_	Gloss=3Fem
-3	màccên	màcce	NOUN	_	Gender=Fem	2	conj:appos	_	Gloss=woman.Fem.Def
+3	màccên	màcce	NOUN	_	Definite=Def|Gender=Fem	2	conj:appos	_	Gloss=woman.Fem.Def
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	10	mod	_	Gloss=if
