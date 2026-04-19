@@ -28,15 +28,15 @@
 7	armem	armeː	NOUN	_	Definite=Cons|Gender=Masc	6	udep	_	Gloss=wedding.Masc
 8	maːtaː	maːtaː	NOUN	_	Number=Plur	7	mod	_	Gloss=woman.Plur|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
-10	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@conj	_	Gloss=3Masc.Prog.do
+10	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@conj	_	Copula=Yes|Gloss=3Masc.Prog.do
 11	musù	musù	PRON	_	Number=Plur|Person=3	10	comp:obl	_	Gloss=3Plur.Dat
-12	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	10	comp:pred	_	Gloss=effort.Masc
+12	ƙòːƙariː	ƙòːƙariː	NOUN	_	Gender=Masc	10	comp:aux	_	Gloss=effort.Masc
 13	ƙwar̃ai	ƙwar̃ai	ADV	_	_	12	mod	_	Gloss=completely|SpaceAfter=No
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=then
-16	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	parataxis@conj	_	Gloss=3Plur.Prog.do
+16	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	10	parataxis@conj	_	Copula=Yes|Gloss=3Plur.Prog.do
 17	mai	mai	PRON	_	Gender=Masc|Person=3	16	comp:obl	_	Gloss=3Masc.Dat
-18	kissà	kissà	NOUN	_	Gender=Fem	16	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
+18	kissà	kissà	NOUN	_	Gender=Fem	16	comp:aux	_	Gloss=cheating.Fem|SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_002-002
@@ -47,9 +47,9 @@
 # text_en = As they cheated on him, he said that he was tired of women's deception, he must give them up.
 # text_ortho = dà su nàa mai kissà, sai yac ceè šii dai yaa gàji dà kissàm maataa, sai yaᵲ ᵲàbu dà suu.
 1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Prog.do
+2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	comp:obj	_	Copula=Yes|Gloss=3Plur.Prog.do
 3	mai	mai	PRON	_	Gender=Masc|Person=3	2	comp:obl	_	Gloss=3Masc.Dat
-4	kissà	kissà	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=cheating.Fem|SpaceAfter=No
+4	kissà	kissà	NOUN	_	Gender=Fem	2	comp:aux	_	Gloss=cheating.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	7	mod	_	Gloss=then
 7	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -364,8 +364,8 @@
 # text_en = The malam had a [female] slave.
 # text_ortho = maalàmii nàa dà bàiwaa.
 1	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	2	subj	_	Gloss=malam.Masc
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Gloss=Prog
-3	dà	dà	ADP	_	_	2	comp:pred	_	Gloss=with
+2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	Copula=Yes|Gloss=Prog
+3	dà	dà	ADP	_	_	2	comp:aux	_	Gloss=with
 4	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	3	comp:obj	_	Gloss=slave.Fem|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
@@ -425,14 +425,14 @@
 # text_en = Time went by, the girl was with the slave, she gave her cow's milk, she educated her.
 # text_ortho = kullun ’a nàa nan zaman duuniyàa, yaaᵲinyàa ta nàa wuᵲim bàiwaa, ta nàa baa tà madaraa, kuma ta nàa ᵲèenontà.
 1	kullun	kullun	ADV	_	_	2	mod	_	Gloss=always
-2	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog
-3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=ProxH
+2	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Copula=Yes|Gloss=4.Prog
+3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:aux	_	Gloss=ProxH
 4	zaman	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	mod	_	Gloss=stay.Nmlz.Masc
 5	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	4	udep	_	Gloss=world.Fem|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 7	yaːrinyàː	yaːrinyàː	NOUN	_	Gender=Fem	8	subj	_	Gloss=girl.Fem
-8	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	parataxis@conj	_	Gloss=3Fem.Prog
-9	wurim	wurin	ADP	_	_	8	comp:pred	_	Gloss=at
+8	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	parataxis@conj	_	Copula=Yes|Gloss=3Fem.Prog
+9	wurim	wurin	ADP	_	_	8	comp:aux	_	Gloss=at
 10	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	9	comp:obj	_	Gloss=slave.Fem|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
 12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	8	parataxis@conj	_	Gloss=3Fem.Prog
@@ -468,8 +468,8 @@
 14	cîn	cîː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	13	comp:obj	_	Gloss=eat/have_sex.Nmlz.Masc
 15	àbunci	àbunci	NOUN	_	Gender=Masc	14	udep	_	Gloss=food.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-17	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	comp:pred	_	Gloss=ProxH
+17	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	comp:aux	_	Gloss=ProxH
 19	zamansù	zamaː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	18	parataxis@conj	_	CaseAf=Gen|Gloss=stay.Nmlz.Masc.Cons-3PlurGen|MSeg=zaman-sù|NumberAf=Plur|PersonAf=3|Poss=Yes
 20	ita	ita	PRON	_	Gender=Fem|Person=3	17	dislocated@subj	_	Gloss=3Fem
 21	dà	dà	CCONJ	_	_	22	cc	_	Gloss=and
@@ -492,8 +492,8 @@
 7	zama	zama	VERB	_	_	6	comp:aux	_	Gloss=become
 8	bùdurwaː	bùdurwaː	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=girl.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-10	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-11	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:pred	_	Gloss=ProxH
+10	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Copula=Yes|Gloss=3Fem.Prog
+11	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:aux	_	Gloss=ProxH
 12	cikin	cikin	ADP	_	_	11	mod	_	Gloss=in(side)
 13	gidaː	gidaː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=house.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
@@ -565,10 +565,10 @@
 # text = sunàː mâː maːlàm àbunci , dà ita dà bâiwaː .
 # text_en = They prepared food for the malam, she and the slave.
 # text_ortho = su nàa maà maalàm ’àbunci, dà ’ita dà baìwaa.
-1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog.do
+1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog.do
 2	mâː	mâː	ADP	_	_	1	comp:obl	_	Gloss=Dat
 3	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=malam.Masc
-4	àbunci	àbunci	NOUN	_	Gender=Masc	1	comp:pred	_	Gloss=food.Masc|SpaceAfter=No
+4	àbunci	àbunci	NOUN	_	Gender=Masc	1	comp:aux	_	Gloss=food.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	dà	dà	CCONJ	_	_	7	cc@preconj	_	Gloss=and
 7	ita	ita	PRON	_	Gender=Fem|Person=3	1	dislocated@subj	_	Gloss=3Fem
@@ -612,7 +612,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 19000, 20000
-# text = du’ àbùn dà yak kàmaːtà à yi cikin gàriː , sai sarkiː yaː mai shaːwar̃àː , sabòːdà lì:maːmìnshì neː .
+# text = du’ àbùn dà yak kàmaːtà à yi cikin gàriː, sai sarkiː yaː mai shaːwar̃àː, sabòːdà lì:maːmìnshì neː.
 # text_en = Whatever had to be done in town, the chief took his advice because he was his imam.
 # text_ortho = du’ ’àbun dà yak kàmaatà, ’à yi cikin gàᵲii, sai saᵲkii yaa mai šaawaràa, sabòo dà lìimaamìnšì nee.
 1	du’	dukà	DET	_	PronType=Tot	2	det	_	Gloss=all
@@ -627,14 +627,16 @@
 10	,	,	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 11	sai	sai	ADV	_	_	13	mod	_	Gloss=then
 12	sarkiː	sarkiː	NOUN	_	Gender=Masc	13	subj	_	Gloss=chief.Masc
-13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.[do]
-14	mai	mai	PRON	_	Gender=Masc|Person=3	13	comp:obl	_	Gloss=3Masc.Dat
-15	shaːwar̃àː	shaːwar̃àː	NOUN	_	Gender=Fem	13	comp:pred	_	Gloss=deliberation.Fem|SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	sabòːdà	sabòːdà	SCONJ	_	_	13	mod	_	Gloss=because
-18	lì:maːmìnshì	lì:maːmìː	NOUN	_	Definite=Cons|Gender=Masc	19	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=imam.Masc.Cons-3MascGen|MSeg=lì:maːmìn-shì|PersonAf=3|Poss=Yes
-19	neː	neː	AUX	_	Gender=Masc|Number=Plur	17	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
-20	.	.	PUNCT	_	_	13	punct	_	Gloss=.
+13-14	yaː	_	_	_	_	_	_	_	_
+13	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf
+14	[yi]	yi	VERB	_	_	13	comp:aux	_	Gloss=do
+15	mai	mai	PRON	_	Gender=Masc|Person=3	14	comp:obl	_	Gloss=3Masc.Dat
+16	shaːwar̃àː	shaːwar̃àː	NOUN	_	Gender=Fem	14	comp:pred	_	Gloss=deliberation.Fem|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	sabòːdà	sabòːdà	SCONJ	_	_	13	mod	_	Gloss=because
+19	lì:maːmìnshì	lì:maːmìː	NOUN	_	Definite=Cons|Gender=Masc	20	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=imam.Masc.Cons-3MascGen|MSeg=lì:maːmìn-shì|PersonAf=3|Poss=Yes
+20	neː	neː	AUX	_	Gender=Masc|Number=Plur	18	comp:obj	_	Copula=Yes|Gloss=be.Masc/Plur|SpaceAfter=No
+21	.	.	PUNCT	_	_	13	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_020-020
 # speaker_id = *
@@ -814,16 +816,16 @@
 # text_en = This went on until one day the malam was not there, and the chief's son saddled his horse one evening to go for a ride.
 # text_ortho = ’a nàa nan kullun hakà nan, ᵲaǹ nan maalàmii baà ši nan, sai ɗan saᵲkin gàᵲii yay yoo mà dookìinai sirdìi, dà màᵲaicee, zaà ši kìliisàa.
 1	a	a	PRON	_	Person=4	17	mod	_	Gloss=4
-2	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Gloss=Prog
-3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=ProxH
+2	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Copula=Yes|Gloss=Prog
+3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:aux	_	Gloss=ProxH
 4	kullun	kullun	ADV	_	_	2	mod	_	Gloss=always
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	rân	raːnaː	NOUN	_	Definite=Cons|Gender=Fem	17	mod	_	Gloss=sun/day.Fem.Cons
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=ProxH
 9	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	10	dislocated@subj	_	Gloss=malam.Masc
-10	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	17	parataxis@mod	_	Gloss=3Masc.Prog.Neg
-11	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:pred	_	Gloss=ProxH|SpaceAfter=No
+10	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	17	parataxis@mod	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+11	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	10	comp:aux	_	Gloss=ProxH|SpaceAfter=No
 12	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 13	sai	sai	ADV	_	_	17	mod	_	Gloss=then
 14	ɗan	ɗaː	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=son.Masc
@@ -865,8 +867,8 @@
 13	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf
 14	sam	sanìː	VERB	_	_	13	comp:aux	_	Gloss=know
 15	maːlàmiː	maːlàmiː	NOUN	_	Gender=Masc	16	dislocated@subj	_	Gloss=malam.Masc
-16	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	14	comp:obj	_	Gloss=3Masc.Prog.Neg
-17	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	16	comp:pred	_	Gloss=ProxH|SpaceAfter=No
+16	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	14	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+17	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	16	comp:aux	_	Gloss=ProxH|SpaceAfter=No
 18	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 19	sai	sai	ADV	_	_	20	mod	_	Gloss=then
 20	tat	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	13	parataxis@conj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -2020,36 +2022,40 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 70000, 71000
-# text = yac cêː maːdàlla , yam mutà gòːdiyaː .
+# text = yac cêː maːdàlla, yam mutà gòːdiyaː.
 # text_en = He said OK, he thanked her.
 # text_ortho = yac ceè maadàlla, yam mutà gòodiyaa.
 1	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
 2	cêː	cêː	VERB	_	_	1	comp:aux	_	Gloss=say
 3	maːdàlla	maːdàlla	INTJ	_	_	2	comp:obj	_	Gloss=thank_God|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-5	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-6	mutà	mutà	PRON	_	Gender=Fem|Person=3	5	comp:obl	_	Gloss=3Fem.Dat
-7	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	5	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+5-6	yam	_	_	_	_	_	_	_	_
+5	yay	yay	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+6	[yi]	yi	VERB	_	_	5	comp:aux	_	Gloss=do
+7	mutà	mutà	PRON	_	Gender=Fem|Person=3	6	comp:obl	_	Gloss=3Fem.Dat
+8	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
+9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_069-069
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 71000, 73000
-# text = dà yam mutà gòːdiyaː , kuma yab baː tà laːdattà .
+# text = dà yam mutà gòːdiyaː, kuma yab baː tà laːdattà.
 # text_en = After thanking her, he gave her her commission.
 # text_ortho = dà yam mutà gòodiyaa, kuma yab baa tà laadattà.
-1	dà	dà	SCONJ	_	_	7	mod	_	Gloss=when
-2	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
-4	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	kuma	kuma	PART	_	PartType=Disc	7	discourse	_	Gloss=also
-7	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-8	baː	baː	VERB	_	_	7	comp:aux	_	Gloss=give
-9	tà	ta	PRON	_	Gender=Fem|Person=3	8	comp:obj@R	_	Gloss=3Fem
-10	laːdattà	laːdaː	NOUN	_	Definite=Cons|Gender=Fem	8	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=wages.Fem.Cons-3FemGen|MSeg=laːdat-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+1	dà	dà	SCONJ	_	_	8	mod	_	Gloss=when
+2-3	yam	_	_	_	_	_	_	_	_
+2	yay	yay	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+3	[yi]	yi	VERB	_	_	2	comp:aux	_	Gloss=do
+4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
+5	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+7	kuma	kuma	PART	_	PartType=Disc	8	discourse	_	Gloss=also
+8	yab	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+9	baː	baː	VERB	_	_	8	comp:aux	_	Gloss=give
+10	tà	ta	PRON	_	Gender=Fem|Person=3	9	comp:obj@R	_	Gloss=3Fem
+11	laːdattà	laːdaː	NOUN	_	Definite=Cons|Gender=Fem	9	comp:obj@T	_	CaseAf=Gen|GenderAf=Fem|Gloss=wages.Fem.Cons-3FemGen|MSeg=laːdat-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_070-070
 # speaker_id = *
@@ -2277,8 +2283,8 @@
 # text = anàː nan sai sallàː tam mas'oː .
 # text_en = After a while, the salla arrived.
 # text_ortho = ’à nàa nan sai sallàa tam mas’oo.
-1	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	parataxis@mod	_	Gloss=4.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	anàː	nàː	AUX	_	Aspect=Prog|Person=4	5	parataxis@mod	_	Copula=Yes|Gloss=4.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	sai	sai	ADV	_	_	5	mod	_	Gloss=then
 4	sallàː	sallàː	NOUN	_	Gender=Fem	5	subj	_	Gloss=prayer.Fem
 5	tam	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -2622,8 +2628,8 @@
 # text = sunàː nan sunàː hiːr̃a , kuma sunkà yi àbun dà sunkà yi .
 # text_en = They were there, chatting, and they did what they did.
 # text_ortho = su nàa nan su nàa hiira, kuma sunkà yi ’àbun dà sunkà yi.
-1	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	0	root	_	Gloss=3Pl.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	0	root	_	Copula=Yes|Gloss=3Pl.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 4	hiːr̃a	hiːr̃a	NOUN	_	Gender=Fem	3	comp:aux	_	Gloss=chatting.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
@@ -2656,8 +2662,8 @@
 # text = sunàː nan bàsù taːshì ba , ham maːlàm yaz zoː .
 # text_en = There they were, they did not get up then the malam arrived.
 # text_ortho = su nàa nan bà sù taašì ba, ham maalàm yaz zoo.
-1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	bàsù	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3|Polarity=Neg	2	mod@relcl	_	Gloss=3Plur.PerfNeg
 4	taːshì	taːshì	VERB	_	_	3	comp:aux	_	Gloss=rise
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg|SpaceAfter=No
@@ -3104,7 +3110,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 107000, 108000
-# text = sabòːdà hakà nan , naz zoː ìm mukà gòːdiyaː .
+# text = sabòːdà hakànan, naz zoː ìm mukà gòːdiyaː.
 # text_en = That's why I have come to thank you.
 # text_ortho = sabòo dà hakà nan, naz zoo ’ìm mukà gòodiyaa.
 1	sabòːdà	sabòːdà	ADP	_	_	0	root	_	Gloss=because
@@ -3112,10 +3118,12 @@
 3	,	,	PUNCT	_	_	4	punct	_	Gloss=PUNCT
 4	naz	yaː	AUX	_	Aspect=Perf|Person=1	1	comp:cleft	_	Gloss=1Sing.Perf.Rel|Relative=Yes
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	Gloss=come
-6	ìm	yà	AUX	_	Mood=Sub|Person=1	5	mod	_	Gloss=1Sing.Sub
-7	mukà	mukà	PRON	_	Number=Plur|Person=1	6	comp:obl	_	Gloss=1Plur.Dat
-8	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	6	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
-9	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+6-7	ìm	_	_	_	_	_	_	_	_
+6	ìn	ìm	AUX	_	Mood=Sub|Person=1	5	mod	_	Gloss=1Sing.Sub
+7	[yi]	yi	VERB	_	_	6	comp:aux	_	Gloss=do
+8	mukà	mukà	PRON	_	Number=Plur|Person=1	7	comp:obl	_	Gloss=1Plur.Dat
+9	gòːdiyaː	gòːdiyaː	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=thanks.Fem|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_104-104
 # speaker_id = *
@@ -3172,10 +3180,12 @@
 4	zôwwaː	zoː	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	3	comp:aux	_	Gloss=come.Nmlz.Fem
 5	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	4	comp:obj@G	_	Gloss=ProxS
 6	wuriːnaː	wuriː	ADP	_	Gender=Masc	5	mod	_	CaseAf=Gen|Gloss=place.Masc.Cons-1SingGen|MSeg=wuriːn-aː|NumberAf=Sing|PersonAf=1|Poss=Yes|wordform=wuriːn
-7	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	4	mod	_	Gloss=2Masc.Sub
-8	mun	minì	PRON	_	Person=1	7	comp:obl	_	Gloss=1Sing.Dat
-9	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	7	comp:pred	_	Gloss=lie.Fem
-10	?	?	PUNCT	_	_	1	punct	_	Gloss=?
+7-8	kà	_	_	_	_	_	_	_	_
+7	kà	kà	AUX	_	Gender=Masc|Mood=Sub|Person=2	4	mod	_	Gloss=2Masc.Sub
+8	[yi]	yi	VERB	_	_	7	comp:aux	_	Gloss=do
+9	mun	minì	PRON	_	Person=1	8	comp:obl	_	Gloss=1Sing.Dat
+10	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	8	comp:pred	_	Gloss=lie.Fem
+11	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_107-107
 # speaker_id = *
@@ -3273,7 +3283,7 @@
 24	?	?	PUNCT	_	_	3	punct	_	Gloss=?
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_109-109
-# text = dà maːlàmiː yac cèː mà màːtaːtai hakànan , sai màːtam maːlàmiː tah hwasà kuːkaː , tanàː ta ƙaːraː , tanàː cêːwaː à kaːmà maːlàmiː , yaː mutà ƙaryaː .
+# text = dà maːlàmiː yac cèː mà màːtaːtai hakànan, sai màːtam maːlàmiː tah hwasà kuːkaː, tanàː ta ƙaːraː, tanàː cêːwaː à kaːmà maːlàmiː, yaː mutà ƙaryaː.
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_02_TheImam_GreenBeans_etAl.WAV
 # sent_timecode = 113000, 115000
@@ -3304,10 +3314,12 @@
 23	kaːmà	kaːmàː	VERB	_	_	22	comp:aux	_	Gloss=catch
 24	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	23	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	parataxis@mod	_	Gloss=3Masc.Perf.[do]
-27	mutà	mutà	PRON	_	Gender=Fem|Person=3	26	comp:obl	_	Gloss=3Fem.Dat
-28	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	26	comp:pred	_	Gloss=lie.Fem|SpaceAfter=No
-29	.	.	PUNCT	_	_	12	punct	_	Gloss=.
+26-27	yaː	_	_	_	_	_	_	_	_
+26	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	22	parataxis@mod	_	Gloss=3Masc.Perf
+27	[yi]	yi	VERB	_	_	26	comp:aux	_	Gloss=do
+28	mutà	mutà	PRON	_	Gender=Fem|Person=3	27	comp:obl	_	Gloss=3Fem.Dat
+29	ƙaryaː	ƙaryaː	NOUN	_	Gender=Fem	27	comp:pred	_	Gloss=lie.Fem|SpaceAfter=No
+30	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_02_GreenBeans_110-110
 # speaker_id = *
@@ -3377,8 +3389,8 @@
 15	tundà	tundà	SCONJ	_	_	47	mod	_	Gloss=since
 16	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	18	dislocated@subj	_	Gloss=malam.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-18	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	15	comp:obj	_	Gloss=3Masc.Prog.Neg
-19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=with
+18	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	15	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+19	dà	dà	ADP	_	_	18	comp:aux	_	Gloss=with
 20	laːhiyàː	laːhiyàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=health.Fem|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	18	parataxis@conj	_	Gloss=3Masc.Perf
@@ -3480,8 +3492,8 @@
 21	sàki	sàkaː	VERB	_	_	20	comp:aux	_	Gloss=release
 22	maːlàm	maːlàm	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-24	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	20	parataxis@conj	_	Gloss=3Masc.Prog.Neg
-25	dà	dà	ADP	_	_	24	comp:pred	_	Gloss=with
+24	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	20	parataxis@conj	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+25	dà	dà	ADP	_	_	24	comp:aux	_	Gloss=with
 26	lâihiː	lâihiː	NOUN	_	Gender=Masc	25	comp:obj	_	Gloss=fault.Masc|SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	Gloss=PUNCT
 28	kissàmmù	kissàː	NOUN	_	Definite=Cons|Gender=Fem	29	comp:pred	_	CaseAf=Gen|Gloss=deception.Fem.Cons-1PlurGen|MSeg=kissàm-mù|NumberAf=Plur|PersonAf=1|Poss=Yes
@@ -3607,8 +3619,8 @@
 # text = anàː nan à kwaːnaː à taːshì , anàː zaman duːniyàː , sai dàːmunaː tay yi .
 # text_en = Time went by as usual, then the rain season came.
 # text_ortho = ’a nàa nan ’à kwaana ’à taašì, ’a nàa zaman duuniyàa, sai dàamunaa tay yi.
-1	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	anàː	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Copula=Yes|Gloss=4.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	à	yà	AUX	_	Mood=Sub|Person=4	1	parataxis@conj	_	Gloss=4.Sub
 4	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	3	comp:aux	_	Gloss=spend_night.Nmlz.Masc
 5	à	yà	AUX	_	Mood=Sub|Person=4	3	parataxis@conj	_	Gloss=4.Sub
@@ -4272,12 +4284,12 @@
 4	dà	dà	CCONJ	_	_	5	cc	_	Gloss=and
 5	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	3	conj:coord	_	Gloss=malam.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-8	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	7	comp:pred	_	Gloss=ProxH
+7	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+8	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	7	comp:aux	_	Gloss=ProxH
 9	zamaː-zamaː	zamaː	VERB	_	ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	8	mod	_	Gloss=stay.Nmlz.Redup|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	parataxis@conj	_	Gloss=3Plur.Prog
-12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	comp:pred	_	Gloss=ProxH
+11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	7	parataxis@conj	_	Copula=Yes|Gloss=3Plur.Prog
+12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	11	comp:aux	_	Gloss=ProxH
 13	cikin	cikin	ADP	_	_	12	mod	_	Gloss=in(side)
 14	kasòː	kasòː	NOUN	_	Gender=Masc	13	comp:obj	_	Gloss=prison.Masc|SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	Gloss=.
@@ -4301,8 +4313,8 @@
 10	sakoː	sàkaː	VERB	_	_	9	comp:aux	_	Gloss=release.Dir
 11	sarkiː	sarkiː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=chief.Masc|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
-13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	9	parataxis@conj	_	Gloss=3Fem.Prog
-14	dà	dà	ADP	_	_	13	comp:pred	_	Gloss=with
+13	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	9	parataxis@conj	_	Copula=Yes|Gloss=3Fem.Prog
+14	dà	dà	ADP	_	_	13	comp:aux	_	Gloss=with
 15	màganàː	màganàː	NOUN	_	Gender=Fem	14	comp:obj	_	Gloss=talk.Fem
 16	dà	dà	ADP	_	_	15	comp:obl	_	Gloss=with
 17	shiː	shiː	PRON	_	Gender=Masc|Person=3	16	comp:obj	_	Gloss=3Masc|SpaceAfter=No
@@ -4363,8 +4375,8 @@
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 7	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	2	comp:obj@T	_	Gloss=2Masc.Perf
 8	sam	sanìː	VERB	_	_	7	comp:obj	_	Gloss=know
-9	munàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1	8	comp:obj	_	Gloss=1Plur.Prog
-10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
+9	munàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1	8	comp:obj	_	Copula=Yes|Gloss=1Plur.Prog
+10	dà	dà	ADP	_	_	9	comp:aux	_	Gloss=with
 11	kissà	kissà	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=deception.Fem
 12	?	?	PUNCT	_	_	13	punct	_	Gloss=?
 13	muː	muː	PRON	_	Number=Plur|Person=1	9	dislocated@subj	_	Gloss=1Plur
@@ -4395,8 +4407,8 @@
 15	sàki	sàkaː	VERB	_	_	14	comp:aux	_	Gloss=release
 16	maːlàmiː	maːlàm	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=malam.Masc|SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	14	parataxis@conj	_	Gloss=3Masc.Prog.Neg
-19	dà	dà	ADP	_	_	18	comp:pred	_	Gloss=with
+18	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	14	parataxis@conj	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+19	dà	dà	ADP	_	_	18	comp:aux	_	Gloss=with
 20	lâihiː	lâihiː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=fault.Masc|SpaceAfter=No
 21	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
 22	cikin	cikin	ADP	_	_	18	mod	_	Gloss=in(side)
@@ -4458,8 +4470,8 @@
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	4	mod	_	Gloss=2Masc.Sub
 8	san	sanìː	VERB	_	_	7	comp:aux	_	Gloss=know
-9	munàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1	8	comp:obj	_	Gloss=1Plur.Prog
-10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
+9	munàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1	8	comp:obj	_	Copula=Yes|Gloss=1Plur.Prog
+10	dà	dà	ADP	_	_	9	comp:aux	_	Gloss=with
 11	kissà	kissà	NOUN	_	Gender=Fem	10	comp:obj	_	Gloss=deception.Fem|SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 13	muː	muː	PRON	_	Number=Plur|Person=1	9	dislocated@subj	_	Gloss=1Plur

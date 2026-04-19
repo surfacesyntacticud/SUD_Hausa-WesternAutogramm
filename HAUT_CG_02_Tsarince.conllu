@@ -29,8 +29,8 @@
 13	yawàː	yawàː	NOUN	_	_	12	comp:obj	_	Gloss=quantity|SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
 15	wa’àndà	wa’àndà	PRON	_	Number=Plur|PronType=Rel	16	subj	_	Gloss=who.Plur
-16	sukè	nàː	AUX	_	Aspect=Prog|Person=3	11	mod@relcl	_	Gloss=3.Pl.Prog.Rel2|Relative=Yes
-17	dàban	dàban	ADV	_	_	16	comp:pred	_	Gloss=different
+16	sukè	nàː	AUX	_	Aspect=Prog|Person=3	11	mod@relcl	_	Copula=Yes|Gloss=3.Pl.Prog.Rel2|Relative=Yes
+17	dàban	dàban	ADV	_	_	16	comp:aux	_	Gloss=different
 18	dàban	dàban	ADV	_	_	17	conj:redup	_	Gloss=different|SpaceAfter=No
 19	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
@@ -163,8 +163,8 @@
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	Gloss=Neg|SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 8	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-9	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	8	comp:obj	_	Gloss=3.Pl.Prog
-10	hwageː	hwageː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=open_space.Masc
+9	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	8	comp:obj	_	Copula=Yes|Gloss=3.Pl.Prog
+10	hwageː	hwageː	NOUN	_	Gender=Masc	9	comp:aux	_	Gloss=open_space.Masc
 11	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
 12	wargiː	wargiː	NOUN	_	Gender=Masc	11	comp:aux	_	Gloss=playing.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
@@ -683,10 +683,10 @@
 # text = sunàː mà sàmàːriː kiràːrìː sunàː mà ’yam maːtaː .
 # text_en = They are praising the boys, they are praising the girls:
 # text_ortho = su nàa mà sàmàaᵲii kiᵲàaᵲìi su nàa mà ’’yam maataa :
-1	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	0	root	_	Gloss=3Pl.Prog.do
+1	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	0	root	_	Copula=Yes|Gloss=3Pl.Prog.do
 2	mà	mà	ADP	_	_	1	comp:obl	_	Gloss=Dat
 3	sàmàːriː	sàmàːriː	NOUN	_	Number=Plur	2	comp:obj	_	Gloss=youth.Plur
-4	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	1	comp:pred	_	Gloss=epithet.Masc
+4	kiràːrìː	kiràːrìː	NOUN	_	Gender=Masc	1	comp:aux	_	Gloss=epithet.Masc
 5	sunàː	nàː	AUX	_	Aspect=Prog|Person=3	1	parataxis@conj	_	Gloss=3.Pl.Prog.do
 6	mà	mà	ADP	_	_	5	comp:obl	_	Gloss=Dat
 7	’yam	’yan	ADJ	_	Number=Plur	6	comp:obj	_	Gloss=young.Plur
@@ -1123,8 +1123,8 @@
 # text = sunàː nan sunàː yîn hakànan , har̃ sù yi kwaːnaː .
 # text_en = Here they are doing like that, until they fall asleep.
 # text_ortho = su nàa nan su nàa yiǹ hakà nan, has sù yi kwaanaa.
-1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	parataxis@conj	_	Gloss=3Plur.Prog
 4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	3	comp:aux	_	Gloss=do.Nmlz.Masc
 5	hakànan	hakànan	ADV	_	_	4	mod	_	Gloss=thus|SpaceAfter=No
@@ -1182,8 +1182,8 @@
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	Gloss=ProxH|SpaceAfter=No
 9	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 10	in	in	SCONJ	_	_	16	mod	_	Gloss=if
-11	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Gloss=3Masc.Prog
-12	dà	dà	ADP	_	_	11	comp:pred	_	Gloss=with
+11	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	10	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+12	dà	dà	ADP	_	_	11	comp:aux	_	Gloss=with
 13	kuɗiː	kuɗiː	NOUN	_	Gender=Masc	12	comp:obj	_	Gloss=money.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 15	sai	sai	ADV	_	_	16	mod	_	Gloss=then
@@ -1329,7 +1329,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 36000, 37000
-# text = in tag gamà mur̃nàː , tà cêː “ allàː shì mai àlbar̃kàː ” .
+# text = in tag gamà mur̃nàː, tà cêː “ allàː shì mai àlbar̃kàː ”.
 # text_en = After rejoicing, she says "may God bless him."
 # text_ortho = ’in tag gamà murnàa, tà ceè “’allàa šì mai ’àlbarkàa”.
 1	in	in	SCONJ	_	_	6	subj	_	Gloss=if
@@ -1341,11 +1341,13 @@
 7	cêː	cêː	VERB	_	_	6	comp:aux	_	Gloss=say
 8	“	“	PUNCT	_	_	10	punct	_	Gloss=PUNCT
 9	allàː	allàː	PROPN	_	_	10	subj	_	Gloss=God
-10	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	7	comp:obj	_	Gloss=3Masc.Sub
-11	mai	mai	PRON	_	Gender=Masc|Person=3	10	comp:obl	_	Gloss=3Masc.Dat
-12	àlbar̃kàː	àlbar̃kàː	NOUN	_	Gender=Fem	10	comp:pred	_	Gloss=prosperity.Fem
-13	”	”	PUNCT	_	_	10	punct	_	Gloss=PUNCT|SpaceAfter=No
-14	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+10-11	shì	_	_	_	_	_	_	_	_
+10	shì	shì	AUX	_	Gender=Masc|Mood=Sub|Person=3	7	comp:obj	_	Gloss=3Masc.Sub
+11	[yi]	ti	VERB	_	_	10	comp:aux	_	Gloss=do
+12	mai	mai	PRON	_	Gender=Masc|Person=3	11	comp:obl	_	Gloss=3Masc.Dat
+13	àlbar̃kàː	àlbar̃kàː	NOUN	_	Gender=Fem	11	comp:pred	_	Gloss=prosperity.Fem
+14	”	”	PUNCT	_	_	10	punct	_	Gloss=PUNCT|SpaceAfter=No
+15	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_38-38
 # speaker_id = *
@@ -1652,13 +1654,13 @@
 30	taːshì	taːshì	VERB	_	_	29	comp:aux	_	Gloss=rise|SpaceAfter=No
 31	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
 32	in	in	SCONJ	_	_	43	mod	_	Gloss=if
-33	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	32	comp:obj	_	Gloss=3Masc.Prog.Neg
-34	dà	dà	ADP	_	_	33	comp:pred	_	Gloss=with
+33	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	32	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+34	dà	dà	ADP	_	_	33	comp:aux	_	Gloss=with
 35	dànganàː	dànganàː	NOUN	_	Gender=Fem	34	comp:obj	_	Gloss=patience.Fem|SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	Gloss=PUNCT
 37	kuma	kuma	CCONJ	_	_	38	cc	_	Gloss=also
-38	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	33	conj:coord	_	Gloss=3Masc.Prog.Neg
-39	dà	dà	ADP	_	_	38	comp:pred	_	Gloss=with
+38	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	33	conj:coord	_	Copula=Yes|Gloss=3Masc.Prog.Neg
+39	dà	dà	ADP	_	_	38	comp:aux	_	Gloss=with
 40	kir̃kiː	kir̃kiː	NOUN	_	Gender=Masc	39	comp:obj	_	Gloss=honesty.Masc|SpaceAfter=No
 41	,	,	PUNCT	_	_	32	punct	_	Gloss=PUNCT
 42	sai	sai	ADV	_	_	43	mod	_	Gloss=then
@@ -1850,62 +1852,64 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 51000, 52000
-# text = ita bùdurwân nan , in uwàːyentà sunkà mutà mijìː , in zâː a yîn armeː , in bâːta sôn mijìn nan , wandà uwàːyeː sunkà mutà , sai tà cêː mà uwàːyentà , mijìn nan dà sunkà baːdàː ta gàrai , bâːta sôːnai , bâːshi yìwuwaː tà àrmeː shì .
+# text = ita bùdurwân nan, in uwàːyentà sunkà mutà mijìː, in zâː'a yîn armeː, in bâːta sôn mijìn nan, wandà uwàːyeː sunkà mutà, sai tà cêː mà uwàːyentà, mijìn nan dà sunkà baːdàː ta gàrai, bâːta sôːnai, bâːshi yìwuwaː tà àrmeː shì.
 # text_en = She, that girl, if her parents have chosen her a husband, if she is going to get married, if she does not like that husband whom the parents have chosen, she will tell her parents that the husband they have given her, she does not like him, she cannot marry him.
 # text_ortho = ’ita bùduᵲwaǹ nan, ’in ’uwàayentà sunkà mutà mijìi, ’in zaà ’a yiǹ ’aᵲmee, ’im baà ta soǹ mijìn nan, wandà ’uwàayee sunkà mutà, sai tà ceè mà ’uwàayentà, mijìn nan dà sunkà baadàa ta gàᵲai, baà ta soònai, baà ši yìwuwaa tà ’àᵲmee šì.
-1	ita	ita	PRON	_	Gender=Fem|Person=3	29	dislocated@subj	_	Gloss=3Fem
+1	ita	ita	PRON	_	Gender=Fem|Person=3	30	dislocated@subj	_	Gloss=3Fem
 2	bùdurwân	bùdurwaː	NOUN	_	Definite=Cons|Gender=Fem	1	conj:appos	_	Gloss=girl.Fem.Cons
 3	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	det	_	Gloss=ProxH|SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-5	in	in	SCONJ	_	_	29	mod	_	Gloss=if
+5	in	in	SCONJ	_	_	30	mod	_	Gloss=if
 6	uwàːyentà	uwàːyeː	NOUN	_	Definite=Cons|Gender=Fem	7	subj	_	CaseAf=Gen|GenderAf=Fem|Gloss=parents.Plur.Cons-3FemGen|MSeg=uwàːyen-tà|PersonAf=3|Poss=Yes
-7	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
-8	mutà	mutà	PRON	_	Gender=Fem|Person=3	7	comp:obl	_	Gloss=3Fem.Dat
-9	mijìː	mijìː	NOUN	_	_	7	comp:pred	_	Gloss=husband|SpaceAfter=No
-10	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
-11	in	in	SCONJ	_	_	29	mod	_	Gloss=if
-12	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	11	comp:obj	_	Gloss=Fut.4
-13	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=do.Nmlz.Masc
-14	armeː	armeː	NOUN	_	Gender=Masc	13	udep	_	Gloss=wedding.Masc|SpaceAfter=No
-15	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-16	in	in	SCONJ	_	_	29	mod	_	Gloss=if
-17	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	16	comp:obj	_	Gloss=3Fem.ProgNeg
-18	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	17	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-19	mijìn	mijìː	NOUN	_	Definite=Cons	18	udep	_	Gloss=husband
-20	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	19	det	_	Gloss=ProxH|SpaceAfter=No
-21	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
-22	wandà	wandà	PRON	_	PronType=Rel	24	comp:obj	_	Gloss=who
-23	uwàːyeː	uwàːyeː	NOUN	_	Number=Plur	24	subj	_	Gloss=parents.Plur
-24-25	sunkà	_	_	_	_	_	_	_	_
-24	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	19	mod@relcl	_	Gloss=3Plur.Perf.Rel|Relative=Yes
-25	yi	yi	VERB	_	_	24	comp:aux	_	Gloss=do
-26	mutà	mutà	PRON	_	Gender=Fem|Person=3	25	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
-27	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
-28	sai	sai	ADV	_	_	29	mod	_	Gloss=then
-29	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=3Fem.Sub
-30	cêː	cêː	VERB	_	_	29	comp:aux	_	Gloss=say
-31	mà	mà	ADP	_	_	30	comp:obl	_	Gloss=Dat
-32	uwàːyentà	uwàːyeː	NOUN	_	Definite=Cons|Gender=Fem	31	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=parents.Plur.Cons-3FemGen|MSeg=uwàːyen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
-33	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
-34	mijìn	mijìː	NOUN	_	Definite=Cons	43	dislocated@comp	_	Gloss=husband
-35	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	34	det	_	Gloss=ProxH
-36	dà	dà	SCONJ	_	_	34	mod@relcl	_	Gloss=that
-37	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	36	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
-38	baːdàː	baːdàː	VERB	_	_	37	comp:aux	_	Gloss=give
-39	ta	ta	PRON	_	Gender=Fem|Person=3	38	comp:obj@T	_	Gloss=3Fem
-40-41	gàrai	_	_	_	_	_	_	_	SpaceAfter=No
-40	gàr̃eː	gàr̃eː	ADP	_	_	38	comp:obl	_	Gloss=at/to
-41	shi	shi	PRON	_	Gender=Masc|Person=3	40	comp:obj	_	Gloss=3Masc
-42	,	,	PUNCT	_	_	43	punct	_	Gloss=PUNCT
-43	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	30	comp:obj@T	_	Gloss=3Fem.ProgNeg
-44	sôːnai	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	43	comp:aux	_	CaseAf=Gen|GenderAf=Masc|Gloss=like/love/want.Nmlz.Masc.Cons-3MascGen|MSeg=sôːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
-45	,	,	PUNCT	_	_	46	punct	_	Gloss=PUNCT
-46	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	43	parataxis@conj	_	Gloss=3Masc.ProgNeg
-47	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	46	comp:aux	_	Gloss=be_possible.Nmlz.Fem
-48	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	46	subj	_	Gloss=3Fem.Sub
-49	àrmeː	àrmaː	VERB	_	_	48	comp:aux	_	Gloss=marry
-50	shì	shi	PRON	_	Gender=Masc|Person=3	49	comp:obj	_	Gloss=3Masc|SpaceAfter=No
-51	.	.	PUNCT	_	_	29	punct	_	Gloss=.
+7-8	sunkà	_	_	_	_	_	_	_	_
+7	sunkà	sunkà	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
+8	[yi]	yi	VERB	_	_	7	comp:aux	_	Gloss=do
+9	mutà	mutà	PRON	_	Gender=Fem|Person=3	8	comp:obl	_	Gloss=3Fem.Dat
+10	mijìː	mijìː	NOUN	_	_	8	comp:pred	_	Gloss=husband|SpaceAfter=No
+11	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+12	in	in	SCONJ	_	_	30	mod	_	Gloss=if
+13	zâː'a	zâi	AUX	_	Person=4|Tense=Fut	12	comp:obj	_	Gloss=Fut.4
+14	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	13	comp:aux	_	Gloss=do.Nmlz.Masc
+15	armeː	armeː	NOUN	_	Gender=Masc	14	udep	_	Gloss=wedding.Masc|SpaceAfter=No
+16	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
+17	in	in	SCONJ	_	_	30	mod	_	Gloss=if
+18	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	17	comp:obj	_	Gloss=3Fem.ProgNeg
+19	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	18	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
+20	mijìn	mijìː	NOUN	_	Definite=Cons	19	udep	_	Gloss=husband
+21	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	20	det	_	Gloss=ProxH|SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	Gloss=PUNCT
+23	wandà	wandà	PRON	_	PronType=Rel	25	comp:obj	_	Gloss=who
+24	uwàːyeː	uwàːyeː	NOUN	_	Number=Plur	25	subj	_	Gloss=parents.Plur
+25-26	sunkà	_	_	_	_	_	_	_	_
+25	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	20	mod@relcl	_	Gloss=3Plur.Perf.Rel|Relative=Yes
+26	yi	yi	VERB	_	_	25	comp:aux	_	Gloss=do
+27	mutà	mutà	PRON	_	Gender=Fem|Person=3	26	comp:obl	_	Gloss=3Fem.Dat|SpaceAfter=No
+28	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
+29	sai	sai	ADV	_	_	30	mod	_	Gloss=then
+30	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	0	root	_	Gloss=3Fem.Sub
+31	cêː	cêː	VERB	_	_	30	comp:aux	_	Gloss=say
+32	mà	mà	ADP	_	_	31	comp:obl	_	Gloss=Dat
+33	uwàːyentà	uwàːyeː	NOUN	_	Definite=Cons|Gender=Fem	32	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=parents.Plur.Cons-3FemGen|MSeg=uwàːyen-tà|PersonAf=3|Poss=Yes|SpaceAfter=No
+34	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
+35	mijìn	mijìː	NOUN	_	Definite=Cons	44	dislocated@comp	_	Gloss=husband
+36	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	35	det	_	Gloss=ProxH
+37	dà	dà	SCONJ	_	_	35	mod@relcl	_	Gloss=that
+38	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	37	comp:obj	_	Gloss=3Plur.Perf.Rel|Relative=Yes
+39	baːdàː	baːdàː	VERB	_	_	38	comp:aux	_	Gloss=give
+40	ta	ta	PRON	_	Gender=Fem|Person=3	39	comp:obj@T	_	Gloss=3Fem
+41-42	gàrai	_	_	_	_	_	_	_	SpaceAfter=No
+41	gàr̃eː	gàr̃eː	ADP	_	_	39	comp:obl	_	Gloss=at/to
+42	shi	shi	PRON	_	Gender=Masc|Person=3	41	comp:obj	_	Gloss=3Masc
+43	,	,	PUNCT	_	_	44	punct	_	Gloss=PUNCT
+44	bâːta	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3|Polarity=Neg	31	comp:obj@T	_	Gloss=3Fem.ProgNeg
+45	sôːnai	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	44	comp:aux	_	CaseAf=Gen|GenderAf=Masc|Gloss=like/love/want.Nmlz.Masc.Cons-3MascGen|MSeg=sôːn-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
+46	,	,	PUNCT	_	_	47	punct	_	Gloss=PUNCT
+47	bâːshi	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3|Polarity=Neg	44	parataxis@conj	_	Gloss=3Masc.ProgNeg
+48	yìwuwaː	yìwu	VERB	_	ExtPos=NOUN|Gender=Fem	47	comp:aux	_	Gloss=be_possible.Nmlz.Fem
+49	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	47	subj	_	Gloss=3Fem.Sub
+50	àrmeː	àrmaː	VERB	_	_	49	comp:aux	_	Gloss=marry
+51	shì	shi	PRON	_	Gender=Masc|Person=3	50	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+52	.	.	PUNCT	_	_	30	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_54-54
 # speaker_id = *
@@ -2024,7 +2028,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 54000, 55000
-# text = in ankà baː shì duːkìyaːtai , sai à musù armeː , dà wandà takà sôː .
+# text = in ankà baː shì duːkìyaːtai, sai à musù armeː, dà wandà takà sôː.
 # text_en = If he is given back his cattle, let her get married with the one she likes.
 # text_ortho = ’in ’ankà baa šì duukìyaatai, sai ’à musù ’aᵲmee, dà wanda ta kà soò.
 1	in	in	SCONJ	_	_	8	mod	_	Gloss=if
@@ -2034,15 +2038,17 @@
 5	duːkìyaːtai	duːkìyaː	NOUN	_	Gender=Masc	3	comp:obj@T	_	CaseAf=Gen|GenderAf=Masc|Gloss=cattle.Cons-3MascGen|MSeg=duːkìyaːt-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 7	sai	sai	ADV	_	_	8	mod	_	Gloss=then
-8	à	yà	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
-9	musù	musù	PRON	_	Number=Plur|Person=3	8	comp:obl	_	Gloss=3Plur.Dat
-10	armeː	armeː	NOUN	_	Gender=Masc	8	comp:pred	_	Gloss=wedding.Masc|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-12	dà	dà	ADP	_	_	10	comp:obl	_	Gloss=with
-13	wandà	wandà	PRON	_	PronType=Rel	12	comp:obj	_	Gloss=who
-14	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	13	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
-15	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	14	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
-16	.	.	PUNCT	_	_	8	punct	_	Gloss=.
+8-9	à	_	_	_	_	_	_	_	_
+8	à	à	AUX	_	Mood=Sub|Person=4	0	root	_	Gloss=4.Sub
+9	[yi]	yi	VERB	_	_	8	comp:aux	_	Gloss=do
+10	musù	musù	PRON	_	Number=Plur|Person=3	9	comp:obl	_	Gloss=3Plur.Dat
+11	armeː	armeː	NOUN	_	Gender=Masc	9	comp:pred	_	Gloss=wedding.Masc|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
+13	dà	dà	ADP	_	_	11	comp:obl	_	Gloss=with
+14	wandà	wandà	PRON	_	PronType=Rel	13	comp:obj	_	Gloss=who
+15	takà	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	14	mod@relcl	_	Gloss=3Fem.Prog.Rel|Relative=Yes
+16	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	15	comp:aux	_	Gloss=like/love/want.Nmlz.Masc|SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_57-57
 # speaker_id = *
@@ -2547,9 +2553,9 @@
 54	shì	yà	AUX	_	Gender=Masc|Mood=Sub|Person=3	53	comp:obj	_	Gloss=3Masc.Sub|SpaceAfter=No
 55	,	,	PUNCT	_	_	56	punct	_	Gloss=PUNCT
 56	koː	koː	SCONJ	_	_	53	mod	_	Gloss=even_if
-57	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	56	comp:obj	_	Gloss=3Masc.Prog.do
+57	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	56	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog.do
 58	mutà	mutà	PRON	_	Gender=Fem|Person=3	57	comp:obl	_	Gloss=3Fem.Dat
-59	ɗùmiː	ɗùmiː	NOUN	_	Gender=Masc	57	comp:pred	_	Gloss=chatting.Masc|SpaceAfter=No
+59	ɗùmiː	ɗùmiː	NOUN	_	Gender=Masc	57	comp:aux	_	Gloss=chatting.Masc|SpaceAfter=No
 60	.	.	PUNCT	_	_	52	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_71-71
@@ -2907,7 +2913,7 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_02_Tsarince.WAV
 # sent_timecode = 79000, 80000
-# text = in tay yi cikìː , sai sù koːmoː gidaː , à musù armeː , tà zam màːtaːtai .
+# text = in tay yi cikìː, sai sù koːmoː gidaː, à musù armeː, tà zam màːtaːtai.
 # text_en = If she becomes pregnant, they go back home, they get married and she becomes his wife.
 # text_ortho = ’in tay yi cikìi, sai sù koomoo gidaa, ’à musù ’aᵲmee, tà zam màataatai.
 1	in	in	SCONJ	_	_	7	mod	_	Gloss=if
@@ -2920,14 +2926,16 @@
 8	koːmoː	koːmàː	VERB	_	_	7	comp:aux	_	Gloss=return.Dir
 9	gidaː	gidaː	NOUN	_	Gender=Masc	8	comp:obj@G	_	Gloss=house.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-11	à	yà	AUX	_	Mood=Sub|Person=4	7	parataxis@conj	_	Gloss=4.Sub
-12	musù	musù	PRON	_	Number=Plur|Person=3	11	comp:obl	_	Gloss=3Plur.Dat
-13	armeː	armeː	NOUN	_	Gender=Masc	11	comp:pred	_	Gloss=wedding.Masc|SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	Gloss=PUNCT
-15	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	11	parataxis@conj	_	Gloss=3Fem.Sub
-16	zam	zama	VERB	_	_	15	comp:aux	_	Gloss=become
-17	màːtaːtai	màːtaː	NOUN	_	Gender=Fem	16	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=màːtaːt-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
-18	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+11-12	à	_	_	_	_	_	_	_	_
+11	à	à	AUX	_	Mood=Sub|Person=4	7	parataxis@conj	_	Gloss=4.Sub
+12	[yi]	yi	VERB	_	_	11	comp:aux	_	Gloss=do
+13	musù	musù	PRON	_	Number=Plur|Person=3	12	comp:obl	_	Gloss=3Plur.Dat
+14	armeː	armeː	NOUN	_	Gender=Masc	12	comp:pred	_	Gloss=wedding.Masc|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	Gloss=PUNCT
+16	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	11	parataxis@conj	_	Gloss=3Fem.Sub
+17	zam	zama	VERB	_	_	16	comp:aux	_	Gloss=become
+18	màːtaːtai	màːtaː	NOUN	_	Gender=Fem	17	comp:pred	_	CaseAf=Gen|GenderAf=Masc|Gloss=wife.Fem.Cons-3MascGen|MSeg=màːtaːt-ai|PersonAf=3|Poss=Yes|SpaceAfter=No
+19	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_02_Tsarince_81-81
 # speaker_id = *

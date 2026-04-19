@@ -53,8 +53,8 @@
 9	laːyàː	laːyàː	NOUN	_	Gender=Fem	8	comp:obj	_	Gloss=charm.Fem|SpaceAfter=No
 10	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 11	in	in	SCONJ	_	_	20	mod	_	Gloss=if
-12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	11	comp:obj	_	Gloss=3Fem.Prog
-13	gà	gà	ADP	_	_	12	comp:pred	_	Gloss=at
+12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	11	comp:obj	_	Copula=Yes|Gloss=3Fem.Prog
+13	gà	gà	ADP	_	_	12	comp:aux	_	Gloss=at
 14	jìkim	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	13	comp:obj	_	Gloss=body.Masc
 15	mùtun	mùtun	NOUN	_	Definite=Cons|Gender=Masc	14	mod	_	Gloss=person.Masc|SpaceAfter=No
 16	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
@@ -2785,8 +2785,8 @@
 18	maːgànîn	maːgàniː	NOUN	_	Definite=Def|Gender=Masc	17	comp:obj	_	Gloss=charm.Masc.Def|SpaceAfter=No
 19	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 20	in	in	SCONJ	_	_	34	mod	_	Gloss=if
-21	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	comp:obj	_	Gloss=3Masc.Prog
-22	gà	gà	ADP	_	_	21	comp:pred	_	Gloss=at
+21	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	20	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+22	gà	gà	ADP	_	_	21	comp:aux	_	Gloss=at
 23	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	22	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|Poss=Yes|SpaceAfter=No
 24	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 25	du’	dukà	DET	_	PronType=Tot	26	det	_	Gloss=all
@@ -3244,14 +3244,16 @@
 11	koː	koː	CCONJ	_	_	12	cc	_	Gloss=or
 12	c’inkèː	c’inkèː	NOUN	_	Gender=Masc	9	conj:coord	_	Gloss=wooden_skewer.Masc|SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	Gloss=PUNCT
-14	kà	yà	AUX	_	Gender=Masc|Mood=Sub|Person=2	7	parataxis	_	Gloss=2Masc.Sub
-15	mutà	mutà	PRON	_	Gender=Fem|Person=3	14	comp:obl	_	Gloss=3Fem.Dat
-16	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	Number=Plur	14	comp:pred	_	Gloss=holes.Plur|SpaceAfter=No
-17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
-18	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	16	conj:appos	_	Gloss=type.Masc.Def
-19	na	na	PART	_	Case=Gen|PartType=Case	18	mod	_	Gloss=Gen
-20	ɗumkìː	ɗumkìː	NOUN	_	Gender=Masc	19	comp:obj	_	Gloss=sewing.Masc|SpaceAfter=No
-21	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+14-15	kà	_	_	_	_	_	_	_	_
+14	kà	kà	AUX	_	Gender=Masc|Mood=Sub|Person=2	7	parataxis	_	Gloss=2Masc.Sub
+15	[yi]	yi	VERB	_	_	14	comp:aux	_	Gloss=do
+16	mutà	mutà	PRON	_	Gender=Fem|Person=3	15	comp:obl	_	Gloss=3Fem.Dat
+17	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	Number=Plur	15	comp:pred	_	Gloss=holes.Plur|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	Gloss=PUNCT
+19	irìn	irìː	NOUN	_	Definite=Def|Gender=Masc	17	conj:appos	_	Gloss=type.Masc.Def
+20	na	na	PART	_	Case=Gen|PartType=Case	19	mod	_	Gloss=Gen
+21	ɗumkìː	ɗumkìː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=sewing.Masc|SpaceAfter=No
+22	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_104-104_split1
 # speaker_id = *
@@ -3262,8 +3264,8 @@
 # text_ortho = ’in kàrhoǹ nàa dà šaahìi, na ɓaᵲgon jàakii dà ’àleewà dà šuunii, ’ankà ’azàa ši bisà hwaatàa, waddà zaà ’a ɗumkèe ši.
 1	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 2	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	3	subj	_	Gloss=charm_belt.Masc.Def
-3	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Gloss=Prog
-4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
+3	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Copula=Yes|Gloss=Prog
+4	dà	dà	ADP	_	_	3	comp:aux	_	Gloss=with
 5	shaːhìː	shaːhìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=lining.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 7	na	na	PART	_	Case=Gen|PartType=Case	5	mod	_	Gloss=Gen
@@ -3290,47 +3292,49 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_04_Tauri.WAV
 # sent_timecode = 103000, 104000
-# text = im bà’à mutà hùːde-hùːdeː ba , tun hwaːrìn ankà rìgyaː ankà azàː shi , shaːhìn nan yak kaːmà hwaːtàː , koː an taːrà àlluːr̃àː , c’inkèː dubuː , bâːsu iyà huːdè hwaːtàk , bàleː à ɗumkè kàr̃hôn .
+# text = im bà’à mutà hùːde-hùːdeː ba, tun hwaːrìn ankà rìgyaː ankà azàː shi, shaːhìn nan yak kaːmà hwaːtàː, koː an taːrà àlluːr̃àː, c’inkèː dubuː, bâːsu iyà huːdè hwaːtàk, bàleː à ɗumkè kàr̃hôn.
 # text_en = If you haven't pierced holes in it, [which] in the beginning you have already made, if that lining has caught the leather, not a thousand needles or a thousand skewers can pierce that leather, much less sew the belt [on it].
 # text_ortho = ’im bà ’à mutà hùude-hùudee ba, tun hwaaᵲìn ’ankà ᵲìgyaa ’ankà ’azàa ši, šaahìn nan yak kaamà hwaatàa, koo ’an taaᵲà ’àlluuràa dubuu, c’inkèe dubuu, baà su ’iya huudè hwaatàk, bàlee ’à ɗumkè kàrhoǹ.
-1	im	in	SCONJ	_	_	29	mod	_	Gloss=if
-2	bà’à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	1	comp:obj	_	Gloss=4.PerfNeg
-3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
-4	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	Number=Plur	2	comp:pred	_	Gloss=holes.Plur
-5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	Gloss=Neg|SpaceAfter=No
-6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-7	tun	tun	ADP	_	_	9	mod	_	Gloss=since/before
-8	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	7	comp:obj	_	Gloss=beginning.Masc.Def
-9	ankà	yaː	AUX	_	Aspect=Perf|Person=4	29	mod	_	Gloss=4.Perf.Rel|Relative=Yes
-10	rìgyaː	rìgyaː	VERB	_	_	9	comp:aux	_	Gloss=have_already
-11	ankà	yaː	AUX	_	Aspect=Perf|Person=4	9	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Yes
-12	azàː	azàː	VERB	_	_	11	comp:aux	_	Gloss=put
-13	shi	shi	PRON	_	Gender=Masc|Person=3	12	comp:obj	_	Gloss=3Masc|SpaceAfter=No
-14	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-15	shaːhìn	shaːhìn	NOUN	_	Definite=Cons|Gender=Masc	17	subj	_	Gloss=lining.Masc.Cons
-16	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	15	det	_	Gloss=ProxH
-17	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	29	mod	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-18	kaːmà	kaːmàː	VERB	_	_	17	comp:aux	_	Gloss=catch
-19	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	18	comp:obj	_	Gloss=skin.Fem|SpaceAfter=No
-20	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-21	koː	koː	SCONJ	_	_	29	mod	_	Gloss=or
-22	an	yaː	AUX	_	Aspect=Perf|Person=4	21	comp:obj	_	Gloss=4.Perf
-23	taːrà	taːràː	VERB	_	_	22	comp:aux	_	Gloss=gather
-24	àlluːr̃àː	àlluːr̃àː	NOUN	_	Gender=Fem	23	comp:obj	_	Gloss=needle.Fem|SpaceAfter=No
-25	,	,	PUNCT	_	_	26	punct	_	Gloss=PUNCT
-26	c’inkèː	c’inkèː	NOUN	_	Gender=Masc	24	conj:coord	_	Gloss=wooden_skewer.Masc
-27	dubuː	dubuː	NUM	_	Gender=Fem	26	det	_	Gloss=thousand.Fem|SpaceAfter=No
-28	,	,	PUNCT	_	_	21	punct	_	Gloss=PUNCT
-29	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	0	root	_	Gloss=3Pl.ProgNeg
-30	iyà	iyàː	VERB	_	_	29	comp:aux	_	Gloss=be_able
-31	huːdè	huːdèː	VERB	_	_	30	comp:obj	_	Gloss=pierce.Ach
-32	hwaːtàk	hwaːtàː	NOUN	_	Definite=Def|Gender=Fem	31	comp:obj	_	Gloss=skin.Fem.Def|SpaceAfter=No
-33	,	,	PUNCT	_	_	34	punct	_	Gloss=PUNCT
-34	bàleː	bàleː	SCONJ	_	_	30	mod	_	Gloss=much_less
-35	à	yà	AUX	_	Mood=Sub|Person=4	34	comp:obj	_	Gloss=4.Sub
-36	ɗumkè	ɗumkèː	VERB	_	_	35	comp:aux	_	Gloss=sew_up
-37	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	36	comp:obj	_	Gloss=charm_belt.Masc.Def|SpaceAfter=No
-38	.	.	PUNCT	_	_	29	punct	_	Gloss=.
+1	im	in	SCONJ	_	_	30	mod	_	Gloss=if
+2-3	bà’à	_	_	_	_	_	_	_	_
+2	bà’à	bà’à	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	1	comp:obj	_	Gloss=4.PerfNeg
+3	[yi]	yi	VERB	_	_	2	comp:aux	_	Gloss=do
+4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
+5	hùːde-hùːdeː	hùːde-hùːdeː	NOUN	_	Number=Plur	3	comp:pred	_	Gloss=holes.Plur
+6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	Gloss=Neg|SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+8	tun	tun	ADP	_	_	10	mod	_	Gloss=since/before
+9	hwaːrìn	hwaːrìː	NOUN	_	Definite=Def|Gender=Masc	8	comp:obj	_	Gloss=beginning.Masc.Def
+10	ankà	yaː	AUX	_	Aspect=Perf|Person=4	30	mod	_	Gloss=4.Perf.Rel|Relative=Yes
+11	rìgyaː	rìgyaː	VERB	_	_	10	comp:aux	_	Gloss=have_already
+12	ankà	yaː	AUX	_	Aspect=Perf|Person=4	10	parataxis@conj	_	Gloss=4.Perf.Rel|Relative=Yes
+13	azàː	azàː	VERB	_	_	12	comp:aux	_	Gloss=put
+14	shi	shi	PRON	_	Gender=Masc|Person=3	13	comp:obj	_	Gloss=3Masc|SpaceAfter=No
+15	,	,	PUNCT	_	_	10	punct	_	Gloss=PUNCT
+16	shaːhìn	shaːhìn	NOUN	_	Definite=Cons|Gender=Masc	18	subj	_	Gloss=lining.Masc.Cons
+17	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	16	det	_	Gloss=ProxH
+18	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	30	mod	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+19	kaːmà	kaːmàː	VERB	_	_	18	comp:aux	_	Gloss=catch
+20	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	19	comp:obj	_	Gloss=skin.Fem|SpaceAfter=No
+21	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+22	koː	koː	SCONJ	_	_	30	mod	_	Gloss=or
+23	an	yaː	AUX	_	Aspect=Perf|Person=4	22	comp:obj	_	Gloss=4.Perf
+24	taːrà	taːràː	VERB	_	_	23	comp:aux	_	Gloss=gather
+25	àlluːr̃àː	àlluːr̃àː	NOUN	_	Gender=Fem	24	comp:obj	_	Gloss=needle.Fem|SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	Gloss=PUNCT
+27	c’inkèː	c’inkèː	NOUN	_	Gender=Masc	25	conj:coord	_	Gloss=wooden_skewer.Masc
+28	dubuː	dubuː	NUM	_	Gender=Fem	27	det	_	Gloss=thousand.Fem|SpaceAfter=No
+29	,	,	PUNCT	_	_	22	punct	_	Gloss=PUNCT
+30	bâːsu	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	0	root	_	Gloss=3Pl.ProgNeg
+31	iyà	iyàː	VERB	_	_	30	comp:aux	_	Gloss=be_able
+32	huːdè	huːdèː	VERB	_	_	31	comp:obj	_	Gloss=pierce.Ach
+33	hwaːtàk	hwaːtàː	NOUN	_	Definite=Def|Gender=Fem	32	comp:obj	_	Gloss=skin.Fem.Def|SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	Gloss=PUNCT
+35	bàleː	bàleː	SCONJ	_	_	31	mod	_	Gloss=much_less
+36	à	yà	AUX	_	Mood=Sub|Person=4	35	comp:obj	_	Gloss=4.Sub
+37	ɗumkè	ɗumkèː	VERB	_	_	36	comp:aux	_	Gloss=sew_up
+38	kàr̃hôn	kàr̃hoː	NOUN	_	Definite=Def|Gender=Masc	37	comp:obj	_	Gloss=charm_belt.Masc.Def|SpaceAfter=No
+39	.	.	PUNCT	_	_	30	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_1_04_Tauri_105-105
 # speaker_id = *
@@ -3386,10 +3390,10 @@
 # text_ortho = sabàd dà hakà nan ’a kà mà hwaatàa huudàa, tun bà ’à ’azàa mutà kàrhoo ba.
 1	sabàddà	sabàddà	ADP	_	_	3	mod	_	Gloss=because
 2	hakànan	hakànan	ADV	_	_	1	comp:obj	_	Gloss=thus
-3	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Gloss=4.Imp.Prog.Rel|Relative=Yes
+3	akà	nàː	AUX	_	Aspect=Prog|Person=4	0	root	_	Copula=Yes|Gloss=4.Imp.Prog.Rel|Relative=Yes
 4	mà	mà	ADP	_	_	3	comp:obl	_	Gloss=Dat
 5	hwaːtàː	hwaːtàː	NOUN	_	Gender=Fem	4	comp:obj	_	Gloss=skin.Fem
-6	huːdàː	huːdàː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=hole.Fem|SpaceAfter=No
+6	huːdàː	huːdàː	NOUN	_	Gender=Fem	3	comp:aux	_	Gloss=hole.Fem|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Gloss=PUNCT
 8	tum	tun	SCONJ	_	_	3	mod	_	Gloss=since/before
 9	bà’à	yaː	AUX	_	Aspect=Perf|Person=4|Polarity=Neg	8	comp:obj	_	Gloss=4.PerfNeg
@@ -3425,8 +3429,8 @@
 # text_en = If it is on you body, whatever metal won't pierce your body.
 # text_ortho = ’in ši nàa gà jìkinkà, du’ ’iᵲìn ƙaᵲhèe, baà ši huudè jìkinkà .
 1	in	in	SCONJ	_	_	10	mod	_	Gloss=if
-2	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Prog
-3	gà	gà	ADP	_	_	2	comp:pred	_	Gloss=at
+2	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	1	comp:obj	_	Copula=Yes|Gloss=3Masc.Prog
+3	gà	gà	ADP	_	_	2	comp:aux	_	Gloss=at
 4	jìkinkà	jìkiː	NOUN	_	Definite=Cons|Gender=Masc	3	comp:obj	_	CaseAf=Gen|GenderAf=Masc|Gloss=body.Masc.Cons-2MascGen|MSeg=jìkin-kà|PersonAf=2|Poss=Yes|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	du'	dukà	DET	_	PronType=Tot	7	mod	_	Gloss=all

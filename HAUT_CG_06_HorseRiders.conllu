@@ -37,14 +37,14 @@
 # text_ortho = wannàn gùdaa ši nàa dà dookìː, gùdaa kàu baà šì dà dookìː.
 1	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	2	det	_	Gloss=ProxS.Masc
 2	gùdaː	gùdaː	NUM	_	_	3	subj	_	Gloss=one
-3	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-4	dà	dà	ADP	_	_	3	comp:pred	_	Gloss=with
+3	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog
+4	dà	dà	ADP	_	_	3	comp:aux	_	Gloss=with
 5	doːkìː	doːkìː	NOUN	_	Gender=Masc	4	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 7	gùdaː	gùdaː	NUM	_	_	9	dislocated@subj	_	Gloss=one
 8	kâu	kàu	PART	_	PartType=Top	7	discourse@top	_	Gloss=whereas
-9	bâːshi	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	3	parataxis@conj	_	Gloss=3Sing.Prog.Neg
-10	dà	dà	ADP	_	_	9	comp:pred	_	Gloss=with
+9	bâːshi	nàː	AUX	_	Aspect=Prog|Person=3|Polarity=Neg	3	parataxis@conj	_	Copula=Yes|Gloss=3Sing.Prog.Neg
+10	dà	dà	ADP	_	_	9	comp:aux	_	Gloss=with
 11	doːkìː	doːkìː	NOUN	_	Gender=Masc	10	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -112,8 +112,8 @@
 # text_ortho = koo mijìntà nàa nan, ’in tag ga mài dookìː yaa wucèe, sai tà yi dàaᵲiyaa, tà ceè : màatam mài dookìː taa ji daaɗintà.
 1	koː	koː	SCONJ	_	_	15	mod	_	Gloss=even_if
 2	mijìntà	mijìː	NOUN	_	Definite=Cons|Gender=Fem	3	subj	_	CaseAf=Gen|GenderAf=Fem|Gloss=husband/male.Cons-3FemGen|MSeg=mijìn-tà|PersonAf=3|Poss=Yes
-3	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Gloss=Prog
-4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	Gloss=ProxH|SpaceAfter=No
+3	nàː	nàː	AUX	_	Aspect=Prog	1	comp:obj	_	Copula=Yes|Gloss=Prog
+4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:aux	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	in	in	SCONJ	_	_	15	mod	_	Gloss=if
 7	tag	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
@@ -175,8 +175,8 @@
 # text = anà nan zaman duːniyàː, kullun tanàː mai hakànan, ita màːtaw
 # text_en = Things went on like this, she was always doing this to him, she, the wife of the man without a horse.
 # text_ortho = ’a nàa nan zaman duuniyàa, kullun ta nàa mai hakà nan, ’ita màataw wandà baà dookìː.
-1	anà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod	_	Gloss=4.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	anà	nàː	AUX	_	Aspect=Prog|Person=4	7	mod	_	Copula=Yes|Gloss=4.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	zaman	zama	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc|VerbForm=Vnoun	2	conj@appos	_	Gloss=stay.Nmlz.Masc.Cons
 4	duːniyàː	duːniyàː	NOUN	_	Gender=Fem	3	mod	_	Gloss=world.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
@@ -343,8 +343,8 @@
 # text = shinàː bisà doːkìː , yac cim mà màːtaːtai , sai yaƙ ƙiyàː mutà màganàː , sai yaw wucèː ta .
 # text_en = On his horse, he caught up with his wife, refused to talk to her, and passed her by.
 # text_ortho = ši nàa bisà dookìː, yac cim mà màataatai, sai yaƙ ƙi mutà màganàa, sai yaw wucèe ta.
-1	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@mod	_	Gloss=3Masc.Prog
-2	bisà	bisà	ADP	_	_	1	comp:pred	_	Gloss=on_top_of
+1	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	5	parataxis@mod	_	Copula=Yes|Gloss=3Masc.Prog
+2	bisà	bisà	ADP	_	_	1	comp:aux	_	Gloss=on_top_of
 3	doːkìː	doːkìː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
 5	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -453,8 +453,8 @@
 # text = sunàː nan zàmne , koːwaː masabkiːnai , har̃ raːnaː tah hwaːɗì .
 # text_en = They stayed there, each one with their host, until the sun went down.
 # text_ortho = su nàa nan zàmne, koowaa masabkiinai, haᵲ ᵲaanaa tah hwaaɗì.
-1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Gloss=3Plur.Prog
-2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:pred	_	Gloss=ProxH
+1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	0	root	_	Copula=Yes|Gloss=3Plur.Prog
+2	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	1	comp:aux	_	Gloss=ProxH
 3	zàmne	zamnàː	VERB	_	ExtPos=ADV|VerbForm=Part	1	comp:obl	_	Gloss=stay.Part|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 5	koːwaː	koːwaː	PRON	_	_	6	subj	_	Gloss=everyone
@@ -619,8 +619,8 @@
 3	zanèn	zanèː	NOUN	_	Definite=Cons|Gender=Masc	1	conj:appos	_	Gloss=wrapper.Masc.Cons
 4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	3	det	_	Gloss=ProxH|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog
-7	dà	dà	ADP	_	_	6	comp:pred	_	Gloss=with
+6	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog
+7	dà	dà	ADP	_	_	6	comp:aux	_	Gloss=with
 8	kabriː	kabriː	NOUN	_	Gender=Masc	7	comp:obj	_	Gloss=thickness.Masc|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
@@ -915,35 +915,37 @@
 # speaker_id = *
 # sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_2_06_Man_hisWife_Riders.WAV
 # sent_timecode = 33000, 34000
-# text = in yam mutà tuːsàː , in taj ji ɗwai , tanàː sôn tà kwaːrè zanèː , tà hiddoː kântà gà hiːliː , sabàddà ɗwan tuːsàː .
+# text = in yam mutà tuːsàː, in taj ji ɗwai, tanàː sôn tà kwaːrè zanèː, tà hiddoː kântà gà hiːliː, sabàddà ɗwan tuːsàː.
 # text_en = When he farted, she smelled the stench, she wanted to lift the wrapper and move her head outside because of the stench of the fart.
 # text_ortho = ’in yam mutà tuusàa, ’in taj ji ɗwai, ta nàa soǹ tà kwaaᵲè zanèe, tà hiddoo kaǹtà gà hiilii, sabàd dà ɗwan tuusàa.
-1	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-2	yam	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
-3	mutà	mutà	PRON	_	Gender=Fem|Person=3	2	comp:obl	_	Gloss=3Fem.Dat
-4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	2	comp:pred	_	Gloss=farting.Fem|SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
-6	in	in	SCONJ	_	_	11	mod	_	Gloss=if
-7	taj	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	6	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
-8	ji	jiyàː	VERB	_	_	7	comp:aux	_	Gloss=feel/hear
-9	ɗwai	ɗwai	NOUN	_	Gender=Masc	8	comp:obj	_	Gloss=stench.Masc|SpaceAfter=No
-10	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
-11	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
-12	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	11	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
-13	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	12	comp:obj	_	Gloss=3Fem.Sub
-14	kwaːrè	kwaːrèː	VERB	_	_	13	comp:aux	_	Gloss=peel_off
-15	zanèː	zanèː	NOUN	_	Gender=Masc	14	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
-16	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
-17	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	13	parataxis@conj	_	Gloss=3Fem.Sub
-18	hiddoː	hiddàː	VERB	_	_	17	comp:aux	_	Gloss=remove.Dir
-19	kântà	kâi	NOUN	_	Definite=Cons|Gender=Fem	18	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=head.Masc.Cons-3FemGen|MSeg=kân-tà|PersonAf=3|Poss=Yes
-20	gà	gà	ADP	_	_	18	comp:obl	_	Gloss=at
-21	hiːliː	hiːliː	NOUN	_	Gender=Masc	20	comp:obj	_	Gloss=open_space.Masc|SpaceAfter=No
-22	,	,	PUNCT	_	_	23	punct	_	Gloss=PUNCT
-23	sabàddà	sabàddà	ADP	_	_	12	mod	_	Gloss=because
-24	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	23	comp:obj	_	Gloss=stench.Masc
-25	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	24	mod	_	Gloss=farting.Fem|SpaceAfter=No
-26	.	.	PUNCT	_	_	11	punct	_	Gloss=.
+1	in	in	SCONJ	_	_	12	mod	_	Gloss=if
+2-3	yam	_	_	_	_	_	_	_	_
+2	yay	yay	AUX	_	Aspect=Perf|Gender=Masc|Person=3	1	comp:obj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
+3	[yi]	yi	AUX	_	_	1	comp:obj	_	Gloss=do
+4	mutà	mutà	PRON	_	Gender=Fem|Person=3	3	comp:obl	_	Gloss=3Fem.Dat
+5	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	3	comp:pred	_	Gloss=farting.Fem|SpaceAfter=No
+6	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+7	in	in	SCONJ	_	_	12	mod	_	Gloss=if
+8	taj	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	7	comp:obj	_	Gloss=3Fem.Perf.Rel|Relative=Yes
+9	ji	jiyàː	VERB	_	_	8	comp:aux	_	Gloss=feel/hear
+10	ɗwai	ɗwai	NOUN	_	Gender=Masc	9	comp:obj	_	Gloss=stench.Masc|SpaceAfter=No
+11	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+12	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	0	root	_	Gloss=3Fem.Prog
+13	sôn	sôː	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	12	comp:aux	_	Gloss=like/love/want.Nmlz.Masc
+14	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	13	comp:obj	_	Gloss=3Fem.Sub
+15	kwaːrè	kwaːrèː	VERB	_	_	14	comp:aux	_	Gloss=peel_off
+16	zanèː	zanèː	NOUN	_	Gender=Masc	15	comp:obj	_	Gloss=wrapper.Masc|SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	Gloss=PUNCT
+18	tà	yà	AUX	_	Gender=Fem|Mood=Sub|Person=3	14	parataxis@conj	_	Gloss=3Fem.Sub
+19	hiddoː	hiddàː	VERB	_	_	18	comp:aux	_	Gloss=remove.Dir
+20	kântà	kâi	NOUN	_	Definite=Cons|Gender=Fem	19	comp:obj	_	CaseAf=Gen|GenderAf=Fem|Gloss=head.Masc.Cons-3FemGen|MSeg=kân-tà|PersonAf=3|Poss=Yes
+21	gà	gà	ADP	_	_	19	comp:obl	_	Gloss=at
+22	hiːliː	hiːliː	NOUN	_	Gender=Masc	21	comp:obj	_	Gloss=open_space.Masc|SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	Gloss=PUNCT
+24	sabàddà	sabàddà	ADP	_	_	13	mod	_	Gloss=because
+25	ɗwan	ɗwai	NOUN	_	Definite=Cons|Gender=Masc	24	comp:obj	_	Gloss=stench.Masc
+26	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	25	mod	_	Gloss=farting.Fem|SpaceAfter=No
+27	.	.	PUNCT	_	_	12	punct	_	Gloss=.
 
 # sent_id = BC_HAU_Gouffé_2_06_Riders_35
 # speaker_id = *
@@ -985,10 +987,10 @@
 # text = yanàː ta mutà tuːsàː , ɗwai yam mutà yawàː , tanàː ta twàːriː cikin zanèː .
 # text_en = He farted, the stench was too much for her, she was coughing in the wrapper.
 # text_ortho = ya nàa ta mutà tuusàa, ɗwai yaa mutà yawàa, ta nàa ta tàaᵲii cikin zanèe.
-1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Gloss=3Masc.Prog.do
+1	yanàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	0	root	_	Copula=Yes|Gloss=3Masc.Prog.do
 2	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	1	compound:prt	_	Gloss=Iter
 3	mutà	mutà	PRON	_	Gender=Fem|Person=3	1	comp:obl	_	Gloss=3Fem.Dat
-4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	1	comp:pred	_	Gloss=farting.Fem|SpaceAfter=No
+4	tuːsàː	tuːsàː	NOUN	_	Gender=Fem	1	comp:aux	_	Gloss=farting.Fem|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	ɗwai	ɗwai	NOUN	_	Gender=Masc	7	subj	_	Gloss=stench.Masc
 7-8	yam	_	_	_	_	_	_	_	_
@@ -1198,8 +1200,8 @@
 13	zoː	zoː	VERB	_	_	12	comp:aux	_	Gloss=come
 14	wurim	wurin	ADP	_	_	13	comp:obl	_	Gloss=at
 15	bìkiː	bìkiː	NOUN	_	_	14	comp:obj	_	Gloss=festivity
-16	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	parataxis@conj	_	Gloss=3Masc.Prog
-17	dà	dà	ADP	_	_	16	comp:pred	_	Gloss=with
+16	shinàː	nàː	AUX	_	Aspect=Prog|Gender=Masc|Person=3	12	parataxis@conj	_	Copula=Yes|Gloss=3Masc.Prog
+17	dà	dà	ADP	_	_	16	comp:aux	_	Gloss=with
 18	doːkìː	doːkìː	NOUN	_	Gender=Masc	17	comp:obj	_	Gloss=horse.Masc|SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	Gloss=PUNCT
 20	yak	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	16	parataxis@conj	_	Gloss=3Masc.Perf.Rel|Relative=Yes
@@ -1221,8 +1223,8 @@
 # text_en = As they were home, the rider arrived and made his horse slide.
 # text_ortho = dà su nàa nan gidaa, sai mài dookìː yab biyoo, ši nàa zaamiyaa
 1	dà	dà	SCONJ	_	_	9	mod	_	Gloss=when
-2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	comp:obj	_	Gloss=3Plur.Prog
-3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	Gloss=ProxH
+2	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	1	comp:obj	_	Copula=Yes|Gloss=3Plur.Prog
+3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:aux	_	Gloss=ProxH
 4	gidaː	gidaː	NOUN	_	Gender=Masc	2	mod	_	Gloss=house.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	Gloss=PUNCT
 6	sai	sai	ADV	_	_	9	mod	_	Gloss=then
